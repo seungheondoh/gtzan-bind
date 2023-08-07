@@ -1,10 +1,12 @@
 import os
+import json
 import argparse
 from time import sleep
+from tqdm import tqdm
+import pandas as pd
+from ShazamAPI.api import Shazam
 
-from ShazamAPI.ShazamAPI.api import Shazam
-
-def detect_shazam(p_id, input_path, chunk_time_sec=5, max_duration_min=90):
+def detect_shazam(t_id, input_path, chunk_time_sec=5, max_duration_min=90):
     # Setting
     with open(input_path, 'rb') as f:
         input = f.read()
@@ -23,32 +25,23 @@ def detect_shazam(p_id, input_path, chunk_time_sec=5, max_duration_min=90):
             
             # max time cutting
             if max_duration_min != None and response[0] > max_duration_min*60: 
-                print(f'[{p_id}] Exceeded Maximum Time', response[0], flush=True)
+                print(f'[{t_id}] Exceeded Maximum Time', response[0], flush=True)
                 break
             
             shazam_key = response[1]['track']['key']
-
             if shazam_key in results:
                 detected_times[shazam_key]['all'].append(response[0])
                 continue
             else:
-                track = response[1]['track']
-                images = response[1]['track']['images']
-                text = response[1]['track']['sections'][1]
-                results[shazam_key] = {
-                    'shazam_id': shazam_key,
-                    'title': track.get('title', None),
-                    'artist': track.get('subtitle', None),
-                    'album_cover_url': images.get('coverart', None),
-                    'isrc': track.get('isrc', None),
-                    'lyrics': text.get('text', None)
-                }
+                with open(os.path.join('../dataset/metadata/doh2023fingerprint/jsons', f"{t_id}.json"), mode="w") as io:
+                    json.dump(response[1], io, indent=4)
+
                 detected_times[shazam_key] = {'all': [response[0]]}
                 
-            sleep(1)
+            sleep(0.1)
             
         except ValueError as v:
-            print(f'[{p_id}] LengthError', v, flush=True)
+            print(f'[{t_id}] LengthError', v, flush=True)
             continue
         
         except KeyError as k:
@@ -92,3 +85,14 @@ def search_unknown(d_times, errors):
             cnt += 1
         box = [errors[idx+1]]
     return d_times
+
+
+if __name__ == '__main__':
+    dataset_dir = "../dataset/audio"
+    audio_files = [f"{dataset_dir}/{genre}/{fname}" for genre in os.listdir(dataset_dir) for fname in os.listdir(f"{dataset_dir}/{genre}")]
+    audio_fnames = [fname.replace(".wav","") for genre in os.listdir(dataset_dir) for fname in os.listdir(f"{dataset_dir}/{genre}")]
+    for file, fname in zip(tqdm(audio_files), audio_fnames):
+        try:
+            detect_shazam(fname, file)
+        except:
+            np.save(f"{fname}.npy",fname)
