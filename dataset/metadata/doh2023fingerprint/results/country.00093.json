@@ -1,0 +1,243 @@
+{
+    "matches": [
+        {
+            "id": "207522027",
+            "offset": 30.145,
+            "timeskew": -0.0002656579,
+            "frequencyskew": 0.0
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691633473948,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "483884",
+        "title": "In the Garden",
+        "subtitle": "Brad Paisley",
+        "images": {
+            "background": "https://is2-ssl.mzstatic.com/image/thumb/Features125/v4/6f/0c/49/6f0c4983-dfe2-7907-16d8-2e7aaf9fea97/mzl.buakmgap.jpg/800x800cc.jpg",
+            "coverart": "https://is4-ssl.mzstatic.com/image/thumb/Music124/v4/49/b7/8b/49b78b63-52d3-ec7a-e85a-18338c1acf50/888880341167.jpg/400x400cc.jpg",
+            "coverarthq": "https://is4-ssl.mzstatic.com/image/thumb/Music124/v4/49/b7/8b/49b78b63-52d3-ec7a-e85a-18338c1acf50/888880341167.jpg/400x400cc.jpg",
+            "joecolor": "b:231f20p:c5e8fcs:abdcf9t:a4c0d0q:90b6cd"
+        },
+        "share": {
+            "subject": "In the Garden - Brad Paisley",
+            "text": "In the Garden by Brad Paisley",
+            "href": "https://www.shazam.com/track/483884/in-the-garden",
+            "image": "https://is4-ssl.mzstatic.com/image/thumb/Music124/v4/49/b7/8b/49b78b63-52d3-ec7a-e85a-18338c1acf50/888880341167.jpg/400x400cc.jpg",
+            "twitter": "I used @Shazam to discover In the Garden by Brad Paisley.",
+            "html": "https://www.shazam.com/snippets/email-share/483884?lang=en-US&country=GB",
+            "avatar": "https://is2-ssl.mzstatic.com/image/thumb/Features125/v4/6f/0c/49/6f0c4983-dfe2-7907-16d8-2e7aaf9fea97/mzl.buakmgap.jpg/800x800cc.jpg",
+            "snapchat": "https://www.shazam.com/partner/sc/track/483884"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "actions": [
+                {
+                    "name": "apple",
+                    "type": "applemusicplay",
+                    "id": "286726848"
+                },
+                {
+                    "name": "apple",
+                    "type": "uri",
+                    "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/1f/44/b1/1f44b117-52e8-2509-4b8c-4e1d62ae03e8/mzaf_1056530765242366255.plus.aac.ep.m4a"
+                }
+            ],
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/gb/album/in-the-garden/286726740?i=286726848&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/gb/album/in-the-garden/286726740?i=286726848&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                },
+                {
+                    "caption": "BUY",
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "uri": "https://itunes.apple.com/gb/album/in-the-garden/286726740?i=286726848&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "buy",
+                        "providername": "itunes"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "type": "buy",
+                    "listcaption": "Buy on iTunes",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "itunes"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:In%20the%20Garden%20Brad%20Paisley"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27In+the+Garden%27%20artist%3A%27Brad+Paisley%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": false,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [
+                    {
+                        "image": "https://is2-ssl.mzstatic.com/image/thumb/Features125/v4/6f/0c/49/6f0c4983-dfe2-7907-16d8-2e7aaf9fea97/mzl.buakmgap.jpg/800x800cc.jpg",
+                        "caption": "Brad Paisley"
+                    },
+                    {
+                        "image": "https://is4-ssl.mzstatic.com/image/thumb/Music124/v4/49/b7/8b/49b78b63-52d3-ec7a-e85a-18338c1acf50/888880341167.jpg/400x400cc.jpg",
+                        "caption": "In the Garden"
+                    }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                    {
+                        "title": "Album",
+                        "text": "Who Needs Pictures"
+                    },
+                    {
+                        "title": "Label",
+                        "text": "Arista Nashville"
+                    },
+                    {
+                        "title": "Released",
+                        "text": "1999"
+                    }
+                ]
+            },
+            {
+                "type": "LYRICS",
+                "text": [
+                    "I come to the garden alone",
+                    "While the dew is still on the roses",
+                    "And the voice I hear falling on my ear",
+                    "The son of God discloses",
+                    "",
+                    "And He walks with me",
+                    "And He talks with me",
+                    "And He tells me I am His own",
+                    "And the joy we share as we tarry there",
+                    "None other has ever known",
+                    "",
+                    "He speaks and the sound of His voice",
+                    "Is, so sweet that the birds hush their singing",
+                    "And the melody that He gave to me",
+                    "Within my heart is ringing",
+                    "",
+                    "And He walks with me",
+                    "And He talks with me",
+                    "And He tells me I am His own",
+                    "And the joy we share as we tarry there",
+                    "None other has ever known",
+                    "",
+                    "And the joy we share as we tarry there",
+                    "None other has ever known"
+                ],
+                "url": "https://cdn.shazam.com/lyrics/v1/en-US/GB/iphone/musixmatch/subtitles/1272039/269/1?token=9d1f762d8acfb20d0f9d41c2623cc1c3",
+                "footer": "Writer(s): Traditional, Ed Bruce\nLyrics powered by www.musixmatch.com",
+                "tabname": "Lyrics",
+                "beacondata": {
+                    "lyricsid": "27556997",
+                    "providername": "musixmatch",
+                    "commontrackid": "1272039"
+                }
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/483884/youtube/video?q=Brad+Paisley+%22In+the+Garden%22"
+            },
+            {
+                "type": "RELATED",
+                "url": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-483884?startFrom=0&pageSize=20&connected=",
+                "tabname": "Related"
+            }
+        ],
+        "url": "https://www.shazam.com/track/483884/in-the-garden",
+        "artists": [
+            {
+                "id": "42",
+                "adamid": "203739"
+            }
+        ],
+        "isrc": "USAN29800056",
+        "genres": {
+            "primary": "Country"
+        },
+        "urlparams": {
+            "{tracktitle}": "In+the+Garden",
+            "{trackartist}": "Brad+Paisley"
+        },
+        "myshazam": {
+            "apple": {
+                "actions": [
+                    {
+                        "name": "myshazam:apple",
+                        "type": "uri",
+                        "uri": "https://music.apple.com/gb/album/in-the-garden/286726740?i=286726848&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                ]
+            }
+        },
+        "highlightsurls": {
+            "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/203739/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+        },
+        "relatedtracksurl": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-483884?startFrom=0&pageSize=20&connected=",
+        "albumadamid": "286726740"
+    },
+    "tagid": "AA173F84-842A-4E87-B3DB-2E9306A4AC2C"
+}

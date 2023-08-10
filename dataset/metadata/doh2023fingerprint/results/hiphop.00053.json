@@ -1,0 +1,200 @@
+{
+    "matches": [
+        {
+            "id": "481359502",
+            "offset": 30.000765625,
+            "timeskew": 0.00010192394,
+            "frequencyskew": 0.0
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691633010389,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "481359502",
+        "title": "The Right One",
+        "subtitle": "Young MC",
+        "images": {
+            "background": "https://is4-ssl.mzstatic.com/image/thumb/Music125/v4/3f/c0/0c/3fc00cd1-22b4-51c8-c506-131c1453e1c3/pr_source.png/800x800cc.jpg",
+            "coverart": "https://is2-ssl.mzstatic.com/image/thumb/Music123/v4/59/5b/42/595b42f8-0de1-6aca-79fb-9a10ebb2e117/19UMGIM67574.rgb.jpg/400x400cc.jpg",
+            "coverarthq": "https://is2-ssl.mzstatic.com/image/thumb/Music123/v4/59/5b/42/595b42f8-0de1-6aca-79fb-9a10ebb2e117/19UMGIM67574.rgb.jpg/400x400cc.jpg",
+            "joecolor": "b:5d316fp:fbc22bs:ed8e37t:dca539q:d17c42"
+        },
+        "share": {
+            "subject": "The Right One - Young MC",
+            "text": "The Right One by Young MC",
+            "href": "https://www.shazam.com/track/481359502/the-right-one",
+            "image": "https://is2-ssl.mzstatic.com/image/thumb/Music123/v4/59/5b/42/595b42f8-0de1-6aca-79fb-9a10ebb2e117/19UMGIM67574.rgb.jpg/400x400cc.jpg",
+            "twitter": "I used @Shazam to discover The Right One by Young MC.",
+            "html": "https://www.shazam.com/snippets/email-share/481359502?lang=en-US&country=GB",
+            "avatar": "https://is4-ssl.mzstatic.com/image/thumb/Music125/v4/3f/c0/0c/3fc00cd1-22b4-51c8-c506-131c1453e1c3/pr_source.png/800x800cc.jpg",
+            "snapchat": "https://www.shazam.com/partner/sc/track/481359502"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "actions": [
+                {
+                    "name": "apple",
+                    "type": "applemusicplay",
+                    "id": "1473993833"
+                },
+                {
+                    "name": "apple",
+                    "type": "uri",
+                    "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/08/15/8e/08158e2b-de11-f44a-be62-841f2cff3301/mzaf_3523012163097413868.plus.aac.ep.m4a"
+                }
+            ],
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/gb/album/the-right-one/1473993639?i=1473993833&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/gb/album/the-right-one/1473993639?i=1473993833&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                },
+                {
+                    "caption": "BUY",
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "uri": "https://itunes.apple.com/gb/album/the-right-one/1473993639?i=1473993833&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "buy",
+                        "providername": "itunes"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "type": "buy",
+                    "listcaption": "Buy on iTunes",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "itunes"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:The%20Right%20One%20Young%20MC"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27The+Right+One%27%20artist%3A%27Young+MC%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": false,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [
+                    {
+                        "image": "https://is4-ssl.mzstatic.com/image/thumb/Music125/v4/3f/c0/0c/3fc00cd1-22b4-51c8-c506-131c1453e1c3/pr_source.png/800x800cc.jpg",
+                        "caption": "Young MC"
+                    },
+                    {
+                        "image": "https://is2-ssl.mzstatic.com/image/thumb/Music123/v4/59/5b/42/595b42f8-0de1-6aca-79fb-9a10ebb2e117/19UMGIM67574.rgb.jpg/400x400cc.jpg",
+                        "caption": "The Right One"
+                    }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                    {
+                        "title": "Album",
+                        "text": "Brainstorm"
+                    },
+                    {
+                        "title": "Label",
+                        "text": "CAPITOL CATALOG MKT (C92)"
+                    },
+                    {
+                        "title": "Released",
+                        "text": "1991"
+                    }
+                ]
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/481359502/youtube/video?q=Young+MC+%22The+Right+One%22"
+            }
+        ],
+        "url": "https://www.shazam.com/track/481359502/the-right-one",
+        "artists": [
+            {
+                "id": "42",
+                "adamid": "14385473"
+            }
+        ],
+        "isrc": "USCA29101807",
+        "genres": {
+            "primary": "Hip-Hop/Rap"
+        },
+        "urlparams": {
+            "{tracktitle}": "The+Right+One",
+            "{trackartist}": "Young+MC"
+        },
+        "myshazam": {
+            "apple": {
+                "actions": [
+                    {
+                        "name": "myshazam:apple",
+                        "type": "uri",
+                        "uri": "https://music.apple.com/gb/album/the-right-one/1473993639?i=1473993833&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                ]
+            }
+        },
+        "highlightsurls": {
+            "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/14385473/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+        },
+        "albumadamid": "1473993639"
+    },
+    "tagid": "F601089B-3475-4A20-B515-7C3420E8B1D8"
+}

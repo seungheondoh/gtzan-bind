@@ -1,0 +1,343 @@
+{
+    "matches": [
+        {
+            "id": "201658816",
+            "offset": 29.798837889999998,
+            "timeskew": -3.874302e-06,
+            "frequencyskew": -8.0525875e-05
+        },
+        {
+            "id": "535563790",
+            "offset": 29.998140625,
+            "timeskew": -6.484985e-05,
+            "frequencyskew": 0.0
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691632778530,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "5957895",
+        "title": "Sweetheart (feat. Jermaine Dupri)",
+        "subtitle": "Mariah Carey",
+        "images": {
+            "background": "https://is4-ssl.mzstatic.com/image/thumb/AMCArtistImages113/v4/3d/33/fb/3d33fb6f-ead7-4886-3624-e58b2dc0478d/18dd4e00-f13f-4bd2-99ef-4a52a114f92f_file_cropped.png/800x800cc.jpg",
+            "coverart": "https://is2-ssl.mzstatic.com/image/thumb/Music/e1/aa/26/mzi.qolurjig.jpg/400x400cc.jpg",
+            "coverarthq": "https://is2-ssl.mzstatic.com/image/thumb/Music/e1/aa/26/mzi.qolurjig.jpg/400x400cc.jpg",
+            "joecolor": "b:fdfcfap:1b0601s:44221et:483733q:694d4a"
+        },
+        "share": {
+            "subject": "Sweetheart (feat. Jermaine Dupri) - Mariah Carey",
+            "text": "Sweetheart (feat. Jermaine Dupri) by Mariah Carey",
+            "href": "https://www.shazam.com/track/5957895/sweetheart-feat-jermaine-dupri",
+            "image": "https://is2-ssl.mzstatic.com/image/thumb/Music/e1/aa/26/mzi.qolurjig.jpg/400x400cc.jpg",
+            "twitter": "I used @Shazam to discover Sweetheart (feat. Jermaine Dupri) by Mariah Carey.",
+            "html": "https://www.shazam.com/snippets/email-share/5957895?lang=en-US&country=GB",
+            "avatar": "https://is4-ssl.mzstatic.com/image/thumb/AMCArtistImages113/v4/3d/33/fb/3d33fb6f-ead7-4886-3624-e58b2dc0478d/18dd4e00-f13f-4bd2-99ef-4a52a114f92f_file_cropped.png/800x800cc.jpg",
+            "snapchat": "https://www.shazam.com/partner/sc/track/5957895"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "actions": [
+                {
+                    "name": "apple",
+                    "type": "applemusicplay",
+                    "id": "186216355"
+                },
+                {
+                    "name": "apple",
+                    "type": "uri",
+                    "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/51/32/39/51323918-468f-e7d9-eccd-9582f0dce51c/mzaf_8287027794779309108.plus.aac.ep.m4a"
+                }
+            ],
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/gb/album/sweetheart-feat-jermaine-dupri/186214441?i=186216355&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/gb/album/sweetheart-feat-jermaine-dupri/186214441?i=186216355&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                },
+                {
+                    "caption": "BUY",
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "uri": "https://itunes.apple.com/gb/album/sweetheart-feat-jermaine-dupri/186214441?i=186216355&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "buy",
+                        "providername": "itunes"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "type": "buy",
+                    "listcaption": "Buy on iTunes",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "itunes"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:Sweetheart%20%28feat.%20Jermaine%20Dupri%29%20Mariah%20Carey"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27Sweetheart+%28feat.+Jermaine+Dupri%29%27%20artist%3A%27Mariah+Carey%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": false,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [
+                    {
+                        "image": "https://is4-ssl.mzstatic.com/image/thumb/AMCArtistImages113/v4/3d/33/fb/3d33fb6f-ead7-4886-3624-e58b2dc0478d/18dd4e00-f13f-4bd2-99ef-4a52a114f92f_file_cropped.png/800x800cc.jpg",
+                        "caption": "Mariah Carey"
+                    },
+                    {
+                        "image": "https://is2-ssl.mzstatic.com/image/thumb/Music/e1/aa/26/mzi.qolurjig.jpg/400x400cc.jpg",
+                        "caption": "Sweetheart (feat. Jermaine Dupri)"
+                    }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                    {
+                        "title": "Album",
+                        "text": "The Remixes"
+                    },
+                    {
+                        "title": "Label",
+                        "text": "Columbia"
+                    },
+                    {
+                        "title": "Released",
+                        "text": "1991"
+                    }
+                ]
+            },
+            {
+                "type": "LYRICS",
+                "text": [
+                    "Featuring mariah carey",
+                    "",
+                    "Answering machine: tuesday 7: 56 p.m.",
+                    "Girl: what's up jermaine? i miss you.",
+                    "Jd: mmm.",
+                    "Girl: do me a favor. tell your friends you're not going out tonight.",
+                    "I got a little bit of that christal some of that yak. and oh. better",
+                    "Yet i got on what you like to see in the most.",
+                    "Jd: word!",
+                    "Girl: so we're fucking tonight.",
+                    "Jd: ha ha ha. for sure. ha ha.",
+                    "",
+                    "Uh ha",
+                    "What you thinkin' about?",
+                    "You and me goin' one-on-one (say what)",
+                    "Jd y'all (uh huh, so so def)",
+                    "Mc y'all (what you think about)",
+                    "I'm the man to fulfill your needs",
+                    "Get you everything that you see in your dreams (c'mon)",
+                    "Baby, lighten up and let nobody tear us apart",
+                    "If forever you'll be my sweetheart",
+                    "",
+                    "Mariah carey",
+                    "Boy, haven't you noticed (say what)",
+                    "The gleam in my eyes (uh, huh)",
+                    "Because of you",
+                    "I'm a little hypnotized (yeah)",
+                    "But everytime you're with me (uh)",
+                    "Feel so positive",
+                    "That with you a little love",
+                    "Somethings gotta give",
+                    "",
+                    "Mariah carey",
+                    "A full moon is waiting in the twilight",
+                    "Maybe soon you will come to be my light",
+                    "Here we are",
+                    "Hoping that we'll never part",
+                    "Stay with me",
+                    "",
+                    "Mc: baby, won't you be my sweetheart (my sweetheart)",
+                    "Mc: we can share a story book moment",
+                    "Jd: what you think about",
+                    "Jd: what you think about",
+                    "Jd: you and me, baby, goin' one-on-one",
+                    "Mc: just deep in love",
+                    "",
+                    "Mariah carey",
+                    "You ain't no casanova (ha, ha, ha)",
+                    "I'll know that you'll be true",
+                    "And that's why (uh)",
+                    "I'm so in love with you (me, too)",
+                    "But this romantic evening",
+                    "You led me at my door (yeah, yeah)",
+                    "But tonight, i'd like to explore",
+                    "",
+                    "Na, na, na, na, na (say what)",
+                    "Na, na, na, na, na (like that)",
+                    "Na, na, na, na, na",
+                    "Na, na, na, na, na, na, na (bring it down, ooh)",
+                    "Oh, yeah, yeah, yeah, yeah, yeah (putcha hand in the air)",
+                    "",
+                    "Jd",
+                    "Jd y'all",
+                    "Mc y'all",
+                    "See, i saw you at the party",
+                    "With your eyes on me",
+                    "Fittin' the description",
+                    "On what i want my wife to be (ha, ha)",
+                    "As live as me",
+                    "Don't know the same guys as me",
+                    "But a lot of style",
+                    "And usin' wild name like ivory",
+                    "I agree with my niggas",
+                    "You the baddest",
+                    "I ever seen in a long time (uh)",
+                    "But woman with her own shine",
+                    "Is her own time",
+                    "And i don't hit",
+                    "Cuz i'm tired of dealin'",
+                    "With the wrong kind",
+                    "Getting non' but the bullshit",
+                    "She got a playa",
+                    "Tryin' to think of new things to say (sup, baby)",
+                    "She up in the corner",
+                    "Sippin' don p, rosee' (yeah)",
+                    "Shakin' it up with the homegirls",
+                    "Payin' no attention to us",
+                    "They in they own world",
+                    "'Hey, yo, girl'",
+                    "I'm the man to fulfill your needs",
+                    "Get you everything you see in your dreams",
+                    "Baby, lighten up and let nobody tear us apart",
+                    "If forever you'll be my sweetheart",
+                    "",
+                    "Mc: mc: sounds so right (uh, huh)",
+                    "Mc: the mood is right",
+                    "Jd: say what",
+                    "Jd: mc, baby, sing it to me",
+                    "Mc: to keep me warm",
+                    "Mc: away from home",
+                    "Mc: nowhere better than my baby's arms",
+                    "Mc: mc: sounds so right (uh, huh)",
+                    "Mc: the mood is right",
+                    "Jd: say what",
+                    "Jd: mc, baby, sing it to me to keep me warm",
+                    "Mc: away from home",
+                    "Jd: c'mon, baby, you can be my",
+                    "Mc: won't you be my",
+                    "Mc: sweetheart",
+                    "Jd: sweetheart",
+                    "",
+                    "To fade:",
+                    "",
+                    "Jd: mariah, you're on fire",
+                    "Jd: jd y'all",
+                    "Mc: you know i need your love roaming",
+                    "Jd: yeah, yeah, me too",
+                    "Jd: all that shit"
+                ],
+                "footer": "Writer(s): Rainy Davis, Peter Herbert Kessler\nLyrics powered by www.musixmatch.com",
+                "tabname": "Lyrics",
+                "beacondata": {
+                    "lyricsid": "11078019",
+                    "providername": "musixmatch",
+                    "commontrackid": "62521085"
+                }
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/5957895/youtube/video?q=Mariah+Carey+%22Sweetheart+(feat.+Jermaine+Dupri)%22"
+            },
+            {
+                "type": "RELATED",
+                "url": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-5957895?startFrom=0&pageSize=20&connected=",
+                "tabname": "Related"
+            }
+        ],
+        "url": "https://www.shazam.com/track/5957895/sweetheart-feat-jermaine-dupri",
+        "artists": [
+            {
+                "id": "42",
+                "adamid": "91853"
+            }
+        ],
+        "isrc": "USSM19801810",
+        "genres": {
+            "primary": "R&B/Soul"
+        },
+        "urlparams": {
+            "{tracktitle}": "Sweetheart+%28feat.+Jermaine+Dupri%29",
+            "{trackartist}": "Mariah+Carey"
+        },
+        "myshazam": {
+            "apple": {
+                "actions": [
+                    {
+                        "name": "myshazam:apple",
+                        "type": "uri",
+                        "uri": "https://music.apple.com/gb/album/sweetheart-feat-jermaine-dupri/186214441?i=186216355&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                ]
+            }
+        },
+        "highlightsurls": {
+            "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/91853/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios&videoIdToFilter=291644751",
+            "trackhighlighturl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/highlights/291644751?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+        },
+        "relatedtracksurl": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-5957895?startFrom=0&pageSize=20&connected=",
+        "albumadamid": "186214441"
+    },
+    "tagid": "0CEF7B9F-48AD-4381-BF28-5AD8A80BD2F8"
+}

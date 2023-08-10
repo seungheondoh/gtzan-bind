@@ -1,0 +1,250 @@
+{
+    "matches": [
+        {
+            "id": "219412306",
+            "offset": 29.012367187,
+            "timeskew": 0.001476407,
+            "frequencyskew": 0.0010476112
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691633837098,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "52156272",
+        "title": "Breaking the Law",
+        "subtitle": "Judas Priest",
+        "images": {
+            "background": "https://is2-ssl.mzstatic.com/image/thumb/Features115/v4/00/8f/b0/008fb0d6-bcbb-2e87-97dd-4abaf2d10cd4/mzl.kllqccay.jpg/800x800cc.jpg",
+            "coverart": "https://is3-ssl.mzstatic.com/image/thumb/Music3/v4/3e/ce/c7/3ecec7e6-66a3-7ca8-d70f-5a4512aa21ba/dj.stjulnox.jpg/400x400cc.jpg",
+            "coverarthq": "https://is3-ssl.mzstatic.com/image/thumb/Music3/v4/3e/ce/c7/3ecec7e6-66a3-7ca8-d70f-5a4512aa21ba/dj.stjulnox.jpg/400x400cc.jpg",
+            "joecolor": "b:010e07p:f2f5f4s:f6f5dft:c2c6c4q:c5c7b4"
+        },
+        "share": {
+            "subject": "Breaking the Law - Judas Priest",
+            "text": "Breaking the Law by Judas Priest",
+            "href": "https://www.shazam.com/track/52156272/breaking-the-law",
+            "image": "https://is3-ssl.mzstatic.com/image/thumb/Music3/v4/3e/ce/c7/3ecec7e6-66a3-7ca8-d70f-5a4512aa21ba/dj.stjulnox.jpg/400x400cc.jpg",
+            "twitter": "I used @Shazam to discover Breaking the Law by Judas Priest.",
+            "html": "https://www.shazam.com/snippets/email-share/52156272?lang=en-US&country=GB",
+            "avatar": "https://is2-ssl.mzstatic.com/image/thumb/Features115/v4/00/8f/b0/008fb0d6-bcbb-2e87-97dd-4abaf2d10cd4/mzl.kllqccay.jpg/800x800cc.jpg",
+            "snapchat": "https://www.shazam.com/partner/sc/track/52156272"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "actions": [
+                {
+                    "name": "apple",
+                    "type": "applemusicplay",
+                    "id": "207346225"
+                },
+                {
+                    "name": "apple",
+                    "type": "uri",
+                    "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/8c/35/61/8c3561a3-ec29-5acb-061c-893160605ea6/mzaf_9631284866476541913.plus.aac.ep.m4a"
+                }
+            ],
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/gb/album/breaking-the-law/207346194?i=207346225&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/gb/album/breaking-the-law/207346194?i=207346225&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                },
+                {
+                    "caption": "BUY",
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "uri": "https://itunes.apple.com/gb/album/breaking-the-law/207346194?i=207346225&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "buy",
+                        "providername": "itunes"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "type": "buy",
+                    "listcaption": "Buy on iTunes",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "itunes"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:Breaking%20the%20Law%20Judas%20Priest"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27Breaking+the+Law%27%20artist%3A%27Judas+Priest%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": false,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [
+                    {
+                        "image": "https://is2-ssl.mzstatic.com/image/thumb/Features115/v4/00/8f/b0/008fb0d6-bcbb-2e87-97dd-4abaf2d10cd4/mzl.kllqccay.jpg/800x800cc.jpg",
+                        "caption": "Judas Priest"
+                    },
+                    {
+                        "image": "https://is3-ssl.mzstatic.com/image/thumb/Music3/v4/3e/ce/c7/3ecec7e6-66a3-7ca8-d70f-5a4512aa21ba/dj.stjulnox.jpg/400x400cc.jpg",
+                        "caption": "Breaking the Law"
+                    }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                    {
+                        "title": "Album",
+                        "text": "British Steel (Bonus Track Version)"
+                    },
+                    {
+                        "title": "Label",
+                        "text": "Sony Music CG"
+                    },
+                    {
+                        "title": "Released",
+                        "text": "1978"
+                    }
+                ]
+            },
+            {
+                "type": "LYRICS",
+                "text": [
+                    "There I was completely wasting, out of work and down",
+                    "All inside it's so frustrating as I drift from town to town",
+                    "Feel as though nobody cares if I live or die",
+                    "So I might as well begin to put some action in my life",
+                    "",
+                    "Breaking the law, breaking the law",
+                    "Breaking the law, breaking the law",
+                    "Breaking the law, breaking the law",
+                    "Breaking the law, breaking the law",
+                    "",
+                    "So much for the golden future I can't even start",
+                    "I've had every promise broken, there's anger in my heart",
+                    "You don't know what it's like, you don't have a clue",
+                    "If you did you'd find yourselves doing the same thing too",
+                    "",
+                    "Breaking the law, breaking the law",
+                    "Breaking the law, breaking the law",
+                    "Breaking the law, breaking the law",
+                    "Breaking the law, breaking the law",
+                    "",
+                    "You don't know what it's like!",
+                    "",
+                    "Breaking the law, breaking the law",
+                    "Breaking the law, breaking the law",
+                    "Breaking the law, breaking the law",
+                    "Breaking the law, breaking the law",
+                    "Breaking the law, breaking the law",
+                    "Breaking the law, breaking the law",
+                    "Breaking the law, breaking the law",
+                    "Breaking the law, breaking the law"
+                ],
+                "url": "https://cdn.shazam.com/lyrics/v1/en-US/GB/iphone/musixmatch/subtitles/243439/155/1?token=062d39241bf22acfc712a4e346a14db0",
+                "footer": "Writer(s): Glenn Raymond Tipton, Kenneth Downing, Robert Halford\nLyrics powered by www.musixmatch.com",
+                "tabname": "Lyrics",
+                "beacondata": {
+                    "lyricsid": "25153361",
+                    "providername": "musixmatch",
+                    "commontrackid": "243439"
+                }
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/52156272/youtube/video?q=Judas+Priest+%22Breaking+the+Law%22"
+            },
+            {
+                "type": "RELATED",
+                "url": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-52156272?startFrom=0&pageSize=20&connected=",
+                "tabname": "Related"
+            }
+        ],
+        "url": "https://www.shazam.com/track/52156272/breaking-the-law",
+        "artists": [
+            {
+                "id": "42",
+                "adamid": "154707"
+            }
+        ],
+        "isrc": "GBBBN8000007",
+        "genres": {
+            "primary": "Metal"
+        },
+        "urlparams": {
+            "{tracktitle}": "Breaking+the+Law",
+            "{trackartist}": "Judas+Priest"
+        },
+        "myshazam": {
+            "apple": {
+                "actions": [
+                    {
+                        "name": "myshazam:apple",
+                        "type": "uri",
+                        "uri": "https://music.apple.com/gb/album/breaking-the-law/207346194?i=207346225&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                ]
+            }
+        },
+        "highlightsurls": {
+            "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/154707/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios&videoIdToFilter=319358533",
+            "trackhighlighturl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/highlights/319358533?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+        },
+        "relatedtracksurl": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-52156272?startFrom=0&pageSize=20&connected=",
+        "albumadamid": "207346194"
+    },
+    "tagid": "98A2997F-1029-49AF-93E5-9AD08AD3404A"
+}

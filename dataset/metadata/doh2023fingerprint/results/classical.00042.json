@@ -1,0 +1,195 @@
+{
+    "matches": [
+        {
+            "id": "201283578",
+            "offset": 8.112196777,
+            "timeskew": -0.0007072091,
+            "frequencyskew": -0.0005636811
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691633053076,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "149651625",
+        "title": "Sonata in the 9th Tone for 8 parts",
+        "subtitle": "E. Power Biggs & Vittorio Negri",
+        "images": {
+            "background": "https://is5-ssl.mzstatic.com/image/thumb/Music/be/15/41/mzi.tdtorzvr.jpg/400x400cc.jpg",
+            "coverart": "https://is5-ssl.mzstatic.com/image/thumb/Music/be/15/41/mzi.tdtorzvr.jpg/400x400cc.jpg",
+            "coverarthq": "https://is5-ssl.mzstatic.com/image/thumb/Music/be/15/41/mzi.tdtorzvr.jpg/400x400cc.jpg",
+            "joecolor": "b:260500p:e7bf7fs:d99976t:c09965q:b57b5f"
+        },
+        "share": {
+            "subject": "Sonata in the 9th Tone for 8 parts - E. Power Biggs & Vittorio Negri",
+            "text": "Sonata in the 9th Tone for 8 parts by E. Power Biggs & Vittorio Negri",
+            "href": "https://www.shazam.com/track/149651625/sonata-in-the-9th-tone-for-8-parts",
+            "image": "https://is5-ssl.mzstatic.com/image/thumb/Music/be/15/41/mzi.tdtorzvr.jpg/400x400cc.jpg",
+            "twitter": "I used @Shazam to discover Sonata in the 9th Tone for 8 parts by E. Power Biggs & Vittorio Negri.",
+            "html": "https://www.shazam.com/snippets/email-share/149651625?lang=en-US&country=GB",
+            "snapchat": "https://www.shazam.com/partner/sc/track/149651625"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "actions": [
+                {
+                    "name": "apple",
+                    "type": "applemusicplay",
+                    "id": "157363295"
+                },
+                {
+                    "name": "apple",
+                    "type": "uri",
+                    "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/37/34/76/373476cf-a6c7-73b7-fc79-635f4977b362/mzaf_16612054542587366938.plus.aac.p.m4a"
+                }
+            ],
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/gb/album/sonata-in-the-9th-tone-for-8-parts/157362747?i=157363295&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/gb/album/sonata-in-the-9th-tone-for-8-parts/157362747?i=157363295&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                },
+                {
+                    "caption": "BUY",
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "uri": "https://itunes.apple.com/gb/album/sonata-in-the-9th-tone-for-8-parts/157362747?i=157363295&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "buy",
+                        "providername": "itunes"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "type": "buy",
+                    "listcaption": "Buy on iTunes",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "itunes"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:Sonata%20in%20the%209th%20Tone%20for%208%20parts%20E.%20Power%20Biggs"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27Sonata+in+the+9th+Tone+for+8+parts%27%20artist%3A%27E.+Power+Biggs++Vittorio+Negri%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": false,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [
+                    {
+                        "image": "https://is5-ssl.mzstatic.com/image/thumb/Music/be/15/41/mzi.tdtorzvr.jpg/400x400cc.jpg",
+                        "caption": "Sonata in the 9th Tone for 8 parts"
+                    }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                    {
+                        "title": "Album",
+                        "text": "Great Performances: The Glory of Gabrieli"
+                    },
+                    {
+                        "title": "Label",
+                        "text": "Sony Classical"
+                    },
+                    {
+                        "title": "Released",
+                        "text": "1968"
+                    }
+                ]
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/149651625/youtube/video?q=E.+Power+Biggs+%26+Vittorio+Negri+%22Sonata+in+the+9th+Tone+for+8+parts%22"
+            }
+        ],
+        "url": "https://www.shazam.com/track/149651625/sonata-in-the-9th-tone-for-8-parts",
+        "artists": [
+            {
+                "id": "42",
+                "adamid": "14468437"
+            }
+        ],
+        "isrc": "USSM16700693",
+        "genres": {
+            "primary": "Classical"
+        },
+        "urlparams": {
+            "{tracktitle}": "Sonata+in+the+9th+Tone+for+8+parts",
+            "{trackartist}": "E.+Power+Biggs+%26+Vittorio+Negri"
+        },
+        "myshazam": {
+            "apple": {
+                "actions": [
+                    {
+                        "name": "myshazam:apple",
+                        "type": "uri",
+                        "uri": "https://music.apple.com/gb/album/sonata-in-the-9th-tone-for-8-parts/157362747?i=157363295&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                ]
+            }
+        },
+        "highlightsurls": {
+            "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/14468437/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+        },
+        "albumadamid": "157362747"
+    },
+    "tagid": "273B0360-BD86-4486-B54B-D455C83CE7CC"
+}

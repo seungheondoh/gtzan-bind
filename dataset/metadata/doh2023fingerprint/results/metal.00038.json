@@ -1,0 +1,275 @@
+{
+    "matches": [
+        {
+            "id": "281311125",
+            "offset": 29.8079375,
+            "timeskew": -0.00046271086,
+            "frequencyskew": -0.00048315525
+        },
+        {
+            "id": "446421593",
+            "offset": 7.243862304,
+            "timeskew": -0.0024530888,
+            "frequencyskew": -0.002694726
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691633825413,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "10104480",
+        "title": "...And Justice for All",
+        "subtitle": "Metallica",
+        "images": {
+            "background": "https://is3-ssl.mzstatic.com/image/thumb/AMCArtistImages112/v4/7c/ec/2d/7cec2d74-d50a-445e-eea6-f6097a01cea7/00e0f5e1-2dd6-4f71-bbdf-d2cbdd7560eb_ami-identity-7650ac390e73210afeaf26aae0ec7e10-2022-11-28T21-57-07.638Z_cropped.png/800x800cc.jpg",
+            "coverart": "https://is4-ssl.mzstatic.com/image/thumb/Music122/v4/c0/c0/6d/c0c06d9a-16a9-2989-1a24-1f3231fc06f8/18UMGIM34141.rgb.jpg/400x400cc.jpg",
+            "coverarthq": "https://is4-ssl.mzstatic.com/image/thumb/Music122/v4/c0/c0/6d/c0c06d9a-16a9-2989-1a24-1f3231fc06f8/18UMGIM34141.rgb.jpg/400x400cc.jpg",
+            "joecolor": "b:d9dacap:07090ds:2a333bt:313233q:4d5557"
+        },
+        "share": {
+            "subject": "...And Justice for All - Metallica",
+            "text": "...And Justice for All by Metallica",
+            "href": "https://www.shazam.com/track/10104480/and-justice-for-all",
+            "image": "https://is4-ssl.mzstatic.com/image/thumb/Music122/v4/c0/c0/6d/c0c06d9a-16a9-2989-1a24-1f3231fc06f8/18UMGIM34141.rgb.jpg/400x400cc.jpg",
+            "twitter": "I used @Shazam to discover ...And Justice for All by Metallica.",
+            "html": "https://www.shazam.com/snippets/email-share/10104480?lang=en-US&country=GB",
+            "avatar": "https://is3-ssl.mzstatic.com/image/thumb/AMCArtistImages112/v4/7c/ec/2d/7cec2d74-d50a-445e-eea6-f6097a01cea7/00e0f5e1-2dd6-4f71-bbdf-d2cbdd7560eb_ami-identity-7650ac390e73210afeaf26aae0ec7e10-2022-11-28T21-57-07.638Z_cropped.png/800x800cc.jpg",
+            "snapchat": "https://www.shazam.com/partner/sc/track/10104480"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "actions": [
+                {
+                    "name": "apple",
+                    "type": "applemusicplay",
+                    "id": "1434055368"
+                },
+                {
+                    "name": "apple",
+                    "type": "uri",
+                    "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/ba/15/57/ba15571c-9da6-cb5c-ad84-edaa17d2e395/mzaf_2014435950191164049.plus.aac.ep.m4a"
+                }
+            ],
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/gb/album/and-justice-for-all/1434055146?i=1434055368&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/gb/album/and-justice-for-all/1434055146?i=1434055368&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                },
+                {
+                    "caption": "BUY",
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "uri": "https://itunes.apple.com/gb/album/and-justice-for-all/1434055146?i=1434055368&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "buy",
+                        "providername": "itunes"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "type": "buy",
+                    "listcaption": "Buy on iTunes",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "itunes"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:...And%20Justice%20for%20All%20Metallica"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27...And+Justice+for+All%27%20artist%3A%27Metallica%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": false,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [
+                    {
+                        "image": "https://is3-ssl.mzstatic.com/image/thumb/AMCArtistImages112/v4/7c/ec/2d/7cec2d74-d50a-445e-eea6-f6097a01cea7/00e0f5e1-2dd6-4f71-bbdf-d2cbdd7560eb_ami-identity-7650ac390e73210afeaf26aae0ec7e10-2022-11-28T21-57-07.638Z_cropped.png/800x800cc.jpg",
+                        "caption": "Metallica"
+                    },
+                    {
+                        "image": "https://is4-ssl.mzstatic.com/image/thumb/Music122/v4/c0/c0/6d/c0c06d9a-16a9-2989-1a24-1f3231fc06f8/18UMGIM34141.rgb.jpg/400x400cc.jpg",
+                        "caption": "...And Justice for All"
+                    }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                    {
+                        "title": "Album",
+                        "text": "\u2026And Justice for All (Remastered)"
+                    },
+                    {
+                        "title": "Label",
+                        "text": "Blackened Recordings / Universal Music"
+                    },
+                    {
+                        "title": "Released",
+                        "text": "1988"
+                    }
+                ]
+            },
+            {
+                "type": "LYRICS",
+                "text": [
+                    "Halls of justice painted green, money talking",
+                    "Power wolves beset your door, hear them stalking",
+                    "Soon you'll please their appetite they devour",
+                    "Hammer of justice crushes you, overpower",
+                    "",
+                    "The ultimate in vanity",
+                    "Exploiting their supremacy",
+                    "I can't believe the things you say",
+                    "I can't believe, I can't believe the price",
+                    "You pay, nothing can save you",
+                    "",
+                    "Justice is lost, justice is raped, justice is gone",
+                    "Pulling your strings, justice is done",
+                    "Seeking no truth, winning is all",
+                    "Find it so grim, so true, so real",
+                    "",
+                    "Apathy their stepping stone, so unfeeling",
+                    "Hidden deep animosity, so deceiving",
+                    "Through your eyes their light burns, hoping to find",
+                    "Inquisition sinking you with prying minds",
+                    "",
+                    "The ultimate in vanity",
+                    "Exploiting their supremacy",
+                    "I can't believe the things you say",
+                    "I can't believe, I can't believe the price",
+                    "You pay, nothing can save you",
+                    "",
+                    "Justice is lost, justice is raped, justice is gone",
+                    "Pulling your strings, justice is done",
+                    "Seeking no truth, winning is all",
+                    "Find it so grim, so true, so real",
+                    "",
+                    "Lady justice has been raped, truth assassin",
+                    "Rolls of red tape seal your lips, now you're done in",
+                    "Their money tips her scales again, make your deal",
+                    "Just what is truth? I cannot tell, cannot feel",
+                    "",
+                    "The ultimate in vanity",
+                    "Exploiting their supremacy",
+                    "I can't believe the things you say",
+                    "I can't believe, I can't believe the price",
+                    "We pay, nothing can save us",
+                    "",
+                    "Justice is lost, justice is raped, justice is gone",
+                    "Pulling your strings, justice is done",
+                    "Seeking no truth, winning is all",
+                    "Find it so grim, so true, so real",
+                    "",
+                    "Seeking no truth, winning is all",
+                    "Find it so grim, so true, so real"
+                ],
+                "url": "https://cdn.shazam.com/lyrics/v1/en-US/GB/iphone/musixmatch/subtitles/106928309/585/1?token=7f79438f36cb4b63f53bf1be0bfe94ec",
+                "footer": "Writer(s): Lars Ulrich, James Alan Hetfield, Kirk L. Hammett\nLyrics powered by www.musixmatch.com",
+                "tabname": "Lyrics",
+                "beacondata": {
+                    "lyricsid": "25730999",
+                    "providername": "musixmatch",
+                    "commontrackid": "106928309"
+                }
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/10104480/youtube/video?q=Metallica+%22...And+Justice+for+All%22"
+            },
+            {
+                "type": "RELATED",
+                "url": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-10104480?startFrom=0&pageSize=20&connected=",
+                "tabname": "Related"
+            }
+        ],
+        "url": "https://www.shazam.com/track/10104480/and-justice-for-all",
+        "artists": [
+            {
+                "id": "42",
+                "adamid": "3996865"
+            }
+        ],
+        "isrc": "QMKHM1700136",
+        "genres": {
+            "primary": "Metal"
+        },
+        "urlparams": {
+            "{tracktitle}": "...And+Justice+for+All",
+            "{trackartist}": "Metallica"
+        },
+        "myshazam": {
+            "apple": {
+                "actions": [
+                    {
+                        "name": "myshazam:apple",
+                        "type": "uri",
+                        "uri": "https://music.apple.com/gb/album/and-justice-for-all/1434055146?i=1434055368&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                ]
+            }
+        },
+        "highlightsurls": {
+            "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/3996865/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+        },
+        "relatedtracksurl": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-10104480?startFrom=0&pageSize=20&connected=",
+        "albumadamid": "1434055146"
+    },
+    "tagid": "50252D5A-838C-4D74-9442-9B93B6FF08DE"
+}

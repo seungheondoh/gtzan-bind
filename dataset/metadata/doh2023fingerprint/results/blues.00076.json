@@ -1,0 +1,206 @@
+{
+    "matches": [
+        {
+            "id": "294548631",
+            "offset": 29.966783203,
+            "timeskew": -0.00014549494,
+            "frequencyskew": 0.0
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691632646299,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "454397",
+        "title": "Buck's Nouvelle Jole Blon",
+        "subtitle": "Buckwheat Zydeco",
+        "images": {
+            "background": "https://is4-ssl.mzstatic.com/image/thumb/Features115/v4/53/68/c7/5368c78e-803c-b14a-4e5e-8a5fcd18adea/mzl.wwacqeti.jpg/800x800cc.jpg",
+            "coverart": "https://is2-ssl.mzstatic.com/image/thumb/Music118/v4/0b/c4/a6/0bc4a64b-e2f9-e14a-d1a9-07f2e0d5de37/191773545468.jpg/400x400cc.jpg",
+            "coverarthq": "https://is2-ssl.mzstatic.com/image/thumb/Music118/v4/0b/c4/a6/0bc4a64b-e2f9-e14a-d1a9-07f2e0d5de37/191773545468.jpg/400x400cc.jpg",
+            "joecolor": "b:67616dp:f5f4f9s:e8e1d3t:d8d6ddq:cec7bf"
+        },
+        "share": {
+            "subject": "Buck's Nouvelle Jole Blon - Buckwheat Zydeco",
+            "text": "Buck's Nouvelle Jole Blon by Buckwheat Zydeco",
+            "href": "https://www.shazam.com/track/454397/bucks-nouvelle-jole-blon",
+            "image": "https://is2-ssl.mzstatic.com/image/thumb/Music118/v4/0b/c4/a6/0bc4a64b-e2f9-e14a-d1a9-07f2e0d5de37/191773545468.jpg/400x400cc.jpg",
+            "twitter": "I used @Shazam to discover Buck's Nouvelle Jole Blon by Buckwheat Zydeco.",
+            "html": "https://www.shazam.com/snippets/email-share/454397?lang=en-US&country=GB",
+            "avatar": "https://is4-ssl.mzstatic.com/image/thumb/Features115/v4/53/68/c7/5368c78e-803c-b14a-4e5e-8a5fcd18adea/mzl.wwacqeti.jpg/800x800cc.jpg",
+            "snapchat": "https://www.shazam.com/partner/sc/track/454397"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "actions": [
+                {
+                    "name": "apple",
+                    "type": "applemusicplay",
+                    "id": "1271516176"
+                },
+                {
+                    "name": "apple",
+                    "type": "uri",
+                    "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview128/v4/58/0d/03/580d0370-bce4-a1b8-f700-1c95c9cc0719/mzaf_6142043935768938867.plus.aac.ep.m4a"
+                }
+            ],
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/gb/album/bucks-nouvelle-jole-blon/1271515409?i=1271516176&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/gb/album/bucks-nouvelle-jole-blon/1271515409?i=1271516176&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                },
+                {
+                    "caption": "BUY",
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "uri": "https://itunes.apple.com/gb/album/bucks-nouvelle-jole-blon/1271515409?i=1271516176&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "buy",
+                        "providername": "itunes"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "type": "buy",
+                    "listcaption": "Buy on iTunes",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "itunes"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:Buck%27s%20Nouvelle%20Jole%20Blon%20Buckwheat%20Zydeco"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27Buck%5C%27s+Nouvelle+Jole+Blon%27%20artist%3A%27Buckwheat+Zydeco%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": false,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [
+                    {
+                        "image": "https://is4-ssl.mzstatic.com/image/thumb/Features115/v4/53/68/c7/5368c78e-803c-b14a-4e5e-8a5fcd18adea/mzl.wwacqeti.jpg/800x800cc.jpg",
+                        "caption": "Buckwheat Zydeco"
+                    },
+                    {
+                        "image": "https://is2-ssl.mzstatic.com/image/thumb/Music118/v4/0b/c4/a6/0bc4a64b-e2f9-e14a-d1a9-07f2e0d5de37/191773545468.jpg/400x400cc.jpg",
+                        "caption": "Buck's Nouvelle Jole Blon"
+                    }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                    {
+                        "title": "Album",
+                        "text": "100% Fortified Zydeco"
+                    },
+                    {
+                        "title": "Label",
+                        "text": "Shout! Factory"
+                    },
+                    {
+                        "title": "Released",
+                        "text": "1983"
+                    }
+                ]
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/454397/youtube/video?q=Buckwheat+Zydeco+%22Buck's+Nouvelle+Jole+Blon%22"
+            },
+            {
+                "type": "RELATED",
+                "url": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-454397?startFrom=0&pageSize=20&connected=",
+                "tabname": "Related"
+            }
+        ],
+        "url": "https://www.shazam.com/track/454397/bucks-nouvelle-jole-blon",
+        "artists": [
+            {
+                "id": "42",
+                "adamid": "32279"
+            }
+        ],
+        "isrc": "USSE90321248",
+        "genres": {
+            "primary": "Zydeco"
+        },
+        "urlparams": {
+            "{tracktitle}": "Buck%27s+Nouvelle+Jole+Blon",
+            "{trackartist}": "Buckwheat+Zydeco"
+        },
+        "myshazam": {
+            "apple": {
+                "actions": [
+                    {
+                        "name": "myshazam:apple",
+                        "type": "uri",
+                        "uri": "https://music.apple.com/gb/album/bucks-nouvelle-jole-blon/1271515409?i=1271516176&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                ]
+            }
+        },
+        "highlightsurls": {
+            "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/32279/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+        },
+        "relatedtracksurl": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-454397?startFrom=0&pageSize=20&connected=",
+        "albumadamid": "1271515409"
+    },
+    "tagid": "66C62A3D-F92B-46FB-A035-BFEAFC1783AB"
+}

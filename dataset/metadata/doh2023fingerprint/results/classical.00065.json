@@ -1,0 +1,206 @@
+{
+    "matches": [
+        {
+            "id": "205660407",
+            "offset": 27.804402343000003,
+            "timeskew": 0.006776333,
+            "frequencyskew": 0.0072755814
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691633131131,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "56077847",
+        "title": "Piano Sonata No. 21 in B-Flat, D.960: 3. Scherzo (Allegro vivace con delicatezza)",
+        "subtitle": "Radu Lupu",
+        "images": {
+            "background": "https://is2-ssl.mzstatic.com/image/thumb/Features115/v4/e7/ff/8a/e7ff8ae8-7c47-8922-e4e9-58d6364ee89d/mzl.ybxzpqun.jpg/800x800cc.jpg",
+            "coverart": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/d5/fa/c7/d5fac751-8d5b-5754-021b-6c09518c2bad/00028947570745.rgb.jpg/400x400cc.jpg",
+            "coverarthq": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/d5/fa/c7/d5fac751-8d5b-5754-021b-6c09518c2bad/00028947570745.rgb.jpg/400x400cc.jpg",
+            "joecolor": "b:000201p:f7feffs:c4cbcft:c5cbccq:9da3a6"
+        },
+        "share": {
+            "subject": "Piano Sonata No. 21 in B-Flat, D.960: 3. Scherzo (Allegro vivace con delicatezza) - Radu Lupu",
+            "text": "Piano Sonata No. 21 in B-Flat, D.960: 3. Scherzo (Allegro vivace con delicatezza) by Radu Lupu",
+            "href": "https://www.shazam.com/track/56077847/piano-sonata-no-21-in-b-flat-d-960-3-scherzo-allegro",
+            "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/d5/fa/c7/d5fac751-8d5b-5754-021b-6c09518c2bad/00028947570745.rgb.jpg/400x400cc.jpg",
+            "twitter": "I used @Shazam to discover Piano Sonata No. 21 in B-Flat, D.960: 3. Scherzo (Allegro vivace con delicatezza) by Radu Lupu.",
+            "html": "https://www.shazam.com/snippets/email-share/56077847?lang=en-US&country=GB",
+            "avatar": "https://is2-ssl.mzstatic.com/image/thumb/Features115/v4/e7/ff/8a/e7ff8ae8-7c47-8922-e4e9-58d6364ee89d/mzl.ybxzpqun.jpg/800x800cc.jpg",
+            "snapchat": "https://www.shazam.com/partner/sc/track/56077847"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "actions": [
+                {
+                    "name": "apple",
+                    "type": "applemusicplay",
+                    "id": "1452150333"
+                },
+                {
+                    "name": "apple",
+                    "type": "uri",
+                    "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/60/2d/d8/602dd8b5-0a7e-46a7-377a-b97aa713b019/mzaf_8060528109033284902.plus.aac.ep.m4a"
+                }
+            ],
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/gb/album/piano-sonata-no-21-in-b-flat-d-960-3-scherzo-allegro/1452149711?i=1452150333&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/gb/album/piano-sonata-no-21-in-b-flat-d-960-3-scherzo-allegro/1452149711?i=1452150333&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                },
+                {
+                    "caption": "BUY",
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "uri": "https://itunes.apple.com/gb/album/piano-sonata-no-21-in-b-flat-d-960-3-scherzo-allegro/1452149711?i=1452150333&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "buy",
+                        "providername": "itunes"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "type": "buy",
+                    "listcaption": "Buy on iTunes",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "itunes"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:Piano%20Sonata%20No.%2021%20in%20B-Flat%2C%20D.960%3A%203.%20Scherzo%20%28Allegro%20vivace%20con%20delicatezza%29%20Radu%20Lupu"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27Piano+Sonata+No.+21+in+B-Flat%2C+D.960%3A+3.+Scherzo+%28Allegro+vivace+con+delicatezza%29%27%20artist%3A%27Radu+Lupu%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": false,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [
+                    {
+                        "image": "https://is2-ssl.mzstatic.com/image/thumb/Features115/v4/e7/ff/8a/e7ff8ae8-7c47-8922-e4e9-58d6364ee89d/mzl.ybxzpqun.jpg/800x800cc.jpg",
+                        "caption": "Radu Lupu"
+                    },
+                    {
+                        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/d5/fa/c7/d5fac751-8d5b-5754-021b-6c09518c2bad/00028947570745.rgb.jpg/400x400cc.jpg",
+                        "caption": "Piano Sonata No. 21 in B-Flat, D.960: 3. Scherzo (Allegro vivace con delicatezza)"
+                    }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                    {
+                        "title": "Album",
+                        "text": "Radu Lupu plays Schubert"
+                    },
+                    {
+                        "title": "Label",
+                        "text": "Decca Music Group Ltd."
+                    },
+                    {
+                        "title": "Released",
+                        "text": "1994"
+                    }
+                ]
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/56077847/youtube/video?q=Radu+Lupu+%22Piano+Sonata+No.+21+in+B-Flat,+D.960:+3.+Scherzo+(Allegro+vivace+con+delicatezza)%22"
+            },
+            {
+                "type": "RELATED",
+                "url": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-56077847?startFrom=0&pageSize=20&connected=",
+                "tabname": "Related"
+            }
+        ],
+        "url": "https://www.shazam.com/track/56077847/piano-sonata-no-21-in-b-flat-d-960-3-scherzo-allegro",
+        "artists": [
+            {
+                "id": "42",
+                "adamid": "4338537"
+            }
+        ],
+        "isrc": "GBF079112123",
+        "genres": {
+            "primary": "Classical"
+        },
+        "urlparams": {
+            "{tracktitle}": "Piano+Sonata+No.+21+in+B-Flat%2C+D.960%3A+3.+Scherzo+%28Allegro+vivace+con+delicatezza%29",
+            "{trackartist}": "Radu+Lupu"
+        },
+        "myshazam": {
+            "apple": {
+                "actions": [
+                    {
+                        "name": "myshazam:apple",
+                        "type": "uri",
+                        "uri": "https://music.apple.com/gb/album/piano-sonata-no-21-in-b-flat-d-960-3-scherzo-allegro/1452149711?i=1452150333&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                ]
+            }
+        },
+        "highlightsurls": {
+            "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/4338537/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+        },
+        "relatedtracksurl": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-56077847?startFrom=0&pageSize=20&connected=",
+        "albumadamid": "1452149711"
+    },
+    "tagid": "939CE48D-5C52-4B69-A418-35937DF77F0D"
+}

@@ -1,0 +1,200 @@
+{
+    "matches": [
+        {
+            "id": "204518483",
+            "offset": 30.037585937,
+            "timeskew": 4.6491623e-05,
+            "frequencyskew": 0.0
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691633064899,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "101983172",
+        "title": "Quartet In G Minor for Strings, Op. 10/III. Andantino, Doucement Expressif",
+        "subtitle": "Juilliard String Quartet, Robert Mann, Joel Smirnoff, Samuel Rhodes & Joel Krosnick",
+        "images": {
+            "background": "https://is4-ssl.mzstatic.com/image/thumb/Features112/v4/49/bd/ed/49bded20-9be3-3f13-74c0-99e433948c83/mzl.tyirevlj.jpg/800x800cc.jpg",
+            "coverart": "https://is2-ssl.mzstatic.com/image/thumb/Music115/v4/e9/07/e3/e907e37d-8ad2-7ca8-768f-52366d790010/884977234688.jpg/400x400cc.jpg",
+            "coverarthq": "https://is2-ssl.mzstatic.com/image/thumb/Music115/v4/e9/07/e3/e907e37d-8ad2-7ca8-768f-52366d790010/884977234688.jpg/400x400cc.jpg",
+            "joecolor": "b:0a6c77p:e6f4ebs:c0dbf5t:bad9d3q:9bc5dc"
+        },
+        "share": {
+            "subject": "Quartet In G Minor for Strings, Op. 10/III. Andantino, Doucement Expressif - Juilliard String Quartet, Robert Mann, Joel Smirnoff, Samuel Rhodes & Joel Krosnick",
+            "text": "Quartet In G Minor for Strings, Op. 10/III. Andantino, Doucement Expressif by Juilliard String Quartet, Robert Mann, Joel Smirnoff, Samuel Rhodes & Joel Krosnick",
+            "href": "https://www.shazam.com/track/101983172/quartet-in-g-minor-for-strings-op-10-iii-andantino",
+            "image": "https://is2-ssl.mzstatic.com/image/thumb/Music115/v4/e9/07/e3/e907e37d-8ad2-7ca8-768f-52366d790010/884977234688.jpg/400x400cc.jpg",
+            "twitter": "I used @Shazam to discover Quartet In G Minor for Strings, Op. 10/III. Andantino, Doucement Expressif by Juilliard String Quartet, Robert Mann, Joel Smirnoff, Samuel Rhodes & Joel Krosnick.",
+            "html": "https://www.shazam.com/snippets/email-share/101983172?lang=en-US&country=GB",
+            "avatar": "https://is4-ssl.mzstatic.com/image/thumb/Features112/v4/49/bd/ed/49bded20-9be3-3f13-74c0-99e433948c83/mzl.tyirevlj.jpg/800x800cc.jpg",
+            "snapchat": "https://www.shazam.com/partner/sc/track/101983172"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "actions": [
+                {
+                    "name": "apple",
+                    "type": "applemusicplay",
+                    "id": "320855202"
+                },
+                {
+                    "name": "apple",
+                    "type": "uri",
+                    "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/Music/16/af/0c/mzm.ncrxjigd.aac.ep.m4a"
+                }
+            ],
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/gb/album/quartet-in-g-minor-for-strings-op-10-iii-andantino/320855188?i=320855202&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/gb/album/quartet-in-g-minor-for-strings-op-10-iii-andantino/320855188?i=320855202&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                },
+                {
+                    "caption": "BUY",
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "uri": "https://itunes.apple.com/gb/album/quartet-in-g-minor-for-strings-op-10-iii-andantino/320855188?i=320855202&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "buy",
+                        "providername": "itunes"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "type": "buy",
+                    "listcaption": "Buy on iTunes",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "itunes"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:Quartet%20In%20G%20Minor%20for%20Strings%2C%20Op.%2010%2FIII.%20Andantino%2C%20Doucement%20Expressif%20Juilliard%20String%20Quartet"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27Quartet+In+G+Minor+for+Strings%2C+Op.+10%2FIII.+Andantino%2C+Doucement+Expressif%27%20artist%3A%27Juilliard+String+Quartet%2C+Robert+Mann%2C+Joel+Smirnoff%2C+Samuel+Rhodes++Joel+Krosnick%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": false,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [
+                    {
+                        "image": "https://is4-ssl.mzstatic.com/image/thumb/Features112/v4/49/bd/ed/49bded20-9be3-3f13-74c0-99e433948c83/mzl.tyirevlj.jpg/800x800cc.jpg",
+                        "caption": "Juilliard String Quartet"
+                    },
+                    {
+                        "image": "https://is2-ssl.mzstatic.com/image/thumb/Music115/v4/e9/07/e3/e907e37d-8ad2-7ca8-768f-52366d790010/884977234688.jpg/400x400cc.jpg",
+                        "caption": "Quartet In G Minor for Strings, Op. 10/III. Andantino, Doucement Expressif"
+                    }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                    {
+                        "title": "Album",
+                        "text": "Debussy, Ravel & Dutilleux: String Quartets"
+                    },
+                    {
+                        "title": "Label",
+                        "text": "Sony Classical"
+                    },
+                    {
+                        "title": "Released",
+                        "text": "1993"
+                    }
+                ]
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/101983172/youtube/video?q=Juilliard+String+Quartet,+Robert+Mann,+Joel+Smirnoff,+Samuel+Rhodes+%26+Joel+Krosnick+%22Quartet+In+G+Minor+for+Strings,+Op.+10/III.+Andantino,+Doucement+Expressif%22"
+            }
+        ],
+        "url": "https://www.shazam.com/track/101983172/quartet-in-g-minor-for-strings-op-10-iii-andantino",
+        "artists": [
+            {
+                "id": "42",
+                "adamid": "15409749"
+            }
+        ],
+        "isrc": "USSM10411091",
+        "genres": {
+            "primary": "Classical"
+        },
+        "urlparams": {
+            "{tracktitle}": "Quartet+In+G+Minor+for+Strings%2C+Op.+10%2FIII.+Andantino%2C+Doucement+Expressif",
+            "{trackartist}": "Juilliard+String+Quartet%2C+Robert+Mann%2C+Joel+Smirnoff%2C+Samuel+Rhodes+%26+Joel+Krosnick"
+        },
+        "myshazam": {
+            "apple": {
+                "actions": [
+                    {
+                        "name": "myshazam:apple",
+                        "type": "uri",
+                        "uri": "https://music.apple.com/gb/album/quartet-in-g-minor-for-strings-op-10-iii-andantino/320855188?i=320855202&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                ]
+            }
+        },
+        "highlightsurls": {
+            "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/15409749/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+        },
+        "albumadamid": "320855188"
+    },
+    "tagid": "28874D4D-7646-4B26-881E-AD8F3C656BFF"
+}

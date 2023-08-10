@@ -1,0 +1,305 @@
+{
+    "matches": [
+        {
+            "id": "211981847",
+            "offset": 30.146927734000002,
+            "timeskew": 0.0008044243,
+            "frequencyskew": 0.00068485737
+        },
+        {
+            "id": "288233288",
+            "offset": 30.191496093,
+            "timeskew": 0.0026741028,
+            "frequencyskew": 0.0024732351
+        },
+        {
+            "id": "211981835",
+            "offset": 30.917091796,
+            "timeskew": 0.0041851997,
+            "frequencyskew": 0.004520893
+        },
+        {
+            "id": "89628653",
+            "offset": 30.120685546,
+            "timeskew": 0.004541278,
+            "frequencyskew": 0.0047231913
+        },
+        {
+            "id": "626947988",
+            "offset": 210.89009375,
+            "timeskew": 0.0044760704,
+            "frequencyskew": 0.004359007
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691633193757,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "54677450",
+        "title": "Could You Be Loved",
+        "subtitle": "Bob Marley & The Wailers",
+        "images": {
+            "background": "https://is5-ssl.mzstatic.com/image/thumb/Features125/v4/0e/10/96/0e10963d-8c5d-f176-3651-796ec44d0c97/mzl.kdlmyecx.jpg/800x800cc.jpg",
+            "coverart": "https://is3-ssl.mzstatic.com/image/thumb/Music115/v4/dd/f5/10/ddf51000-9b4d-dcec-a85f-eed5d7eb3099/06UMGIM01991.rgb.jpg/400x400cc.jpg",
+            "coverarthq": "https://is3-ssl.mzstatic.com/image/thumb/Music115/v4/dd/f5/10/ddf51000-9b4d-dcec-a85f-eed5d7eb3099/06UMGIM01991.rgb.jpg/400x400cc.jpg",
+            "joecolor": "b:ffffffp:0e0d0es:670e16t:3e3d3eq:853e44"
+        },
+        "share": {
+            "subject": "Could You Be Loved - Bob Marley & The Wailers",
+            "text": "Could You Be Loved by Bob Marley & The Wailers",
+            "href": "https://www.shazam.com/track/54677450/could-you-be-loved",
+            "image": "https://is3-ssl.mzstatic.com/image/thumb/Music115/v4/dd/f5/10/ddf51000-9b4d-dcec-a85f-eed5d7eb3099/06UMGIM01991.rgb.jpg/400x400cc.jpg",
+            "twitter": "I used @Shazam to discover Could You Be Loved by Bob Marley & The Wailers.",
+            "html": "https://www.shazam.com/snippets/email-share/54677450?lang=en-US&country=GB",
+            "avatar": "https://is5-ssl.mzstatic.com/image/thumb/Features125/v4/0e/10/96/0e10963d-8c5d-f176-3651-796ec44d0c97/mzl.kdlmyecx.jpg/800x800cc.jpg",
+            "snapchat": "https://www.shazam.com/partner/sc/track/54677450"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "actions": [
+                {
+                    "name": "apple",
+                    "type": "applemusicplay",
+                    "id": "1440821451"
+                },
+                {
+                    "name": "apple",
+                    "type": "uri",
+                    "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/f1/a2/7f/f1a27f95-ec1a-b543-b963-1cee7753e885/mzaf_10951560290345206713.plus.aac.ep.m4a"
+                }
+            ],
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/gb/album/could-you-be-loved/1440820806?i=1440821451&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/gb/album/could-you-be-loved/1440820806?i=1440821451&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                },
+                {
+                    "caption": "BUY",
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "uri": "https://itunes.apple.com/gb/album/could-you-be-loved/1440820806?i=1440821451&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "buy",
+                        "providername": "itunes"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "type": "buy",
+                    "listcaption": "Buy on iTunes",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "itunes"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:Could%20You%20Be%20Loved%20Bob%20Marley%20%26%20The%20Wailers"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27Could+You+Be+Loved%27%20artist%3A%27Bob+Marley++The+Wailers%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": false,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [
+                    {
+                        "image": "https://is5-ssl.mzstatic.com/image/thumb/Features125/v4/0e/10/96/0e10963d-8c5d-f176-3651-796ec44d0c97/mzl.kdlmyecx.jpg/800x800cc.jpg",
+                        "caption": "Bob Marley & The Wailers"
+                    },
+                    {
+                        "image": "https://is3-ssl.mzstatic.com/image/thumb/Music115/v4/dd/f5/10/ddf51000-9b4d-dcec-a85f-eed5d7eb3099/06UMGIM01991.rgb.jpg/400x400cc.jpg",
+                        "caption": "Could You Be Loved"
+                    }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                    {
+                        "title": "Album",
+                        "text": "Uprising (2013 Remaster)"
+                    },
+                    {
+                        "title": "Label",
+                        "text": "Island Records"
+                    },
+                    {
+                        "title": "Released",
+                        "text": "1980"
+                    }
+                ]
+            },
+            {
+                "type": "LYRICS",
+                "text": [
+                    "Could you be loved then be loved?",
+                    "Could you be loved then be loved?",
+                    "",
+                    "Don't let them fool ya",
+                    "",
+                    "Or even try to school ya, oh no",
+                    "We've got a mind of our own",
+                    "So go to hell if what you thinkin' is not right",
+                    "Love would never leave us alone",
+                    "Ah in the darkness, there must come out to light",
+                    "",
+                    "Could you be loved then be loved?",
+                    "Now could you be loved, woah yeah, then be loved?",
+                    "",
+                    "(The road of life is rocky)",
+                    "(And you may stumble too)",
+                    "(So why don't you point your fingers)",
+                    "(At someone else that's judging you)",
+                    "Love your brother, man! (Could you be, could you be loved?)",
+                    "(Could you be, could you be loved?)",
+                    "(Could you be, could you be, could you be loved?)",
+                    "(Could you be, could you be loved?)",
+                    "",
+                    "Don't let them change ya, oh",
+                    "",
+                    "Or even rearrange ya",
+                    "Oh no",
+                    "",
+                    "We've got the life to live",
+                    "(Ooh, ooh, ooh)",
+                    "",
+                    "They say only, only",
+                    "Only the fittest of the fittest shall survive",
+                    "Stay alive, eh",
+                    "",
+                    "Could you be loved then be loved?",
+                    "Now could you be loved, woah yeah, and be loved?",
+                    "",
+                    "(Ain't gon' miss your water until your well runs dry) Oh yeah",
+                    "Girl (No matter how you treat him, the man will never be satisfied)",
+                    "Say something (Could you be, could you be, could you be loved?)",
+                    "(Could you be, could you be loved?)",
+                    "",
+                    "Say something, say something (Could you be, could you be, could you be loved?)",
+                    "Say something (Could you be, could you be loved?)",
+                    "Say something, say something (Say something)",
+                    "Say something, say something (Could you be loved?) say something",
+                    "",
+                    "Say something, (Reggae, reggae)",
+                    "Say something, (Rock on, rock on)",
+                    "Say something, (Reggae, reggae)",
+                    "Say something, (Rock on, rock on)",
+                    "",
+                    "Say something (Could you be loved?)",
+                    "Say something, (Could you be loved?)",
+                    "Say something, (Come on!)",
+                    "",
+                    "Say something (Could you be, could you be, could you be loved?)",
+                    "Say something (Could you be, could you be loved?)",
+                    "Say something (Could you be, could you be, could you be loved?)",
+                    "Say something (Could you be, could you be loved?)"
+                ],
+                "url": "https://cdn.shazam.com/lyrics/v1/en-US/GB/iphone/musixmatch/subtitles/9805135/236/1?token=052ac2320b52722103e6846353e099e3",
+                "footer": "Writer(s): Damian Marley, Stephen Marley, Bob Marley\nLyrics powered by www.musixmatch.com",
+                "tabname": "Lyrics",
+                "beacondata": {
+                    "lyricsid": "30351799",
+                    "providername": "musixmatch",
+                    "commontrackid": "9805135"
+                }
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/54677450/youtube/video?q=Bob+Marley+%26+The+Wailers+%22Could+You+Be+Loved%22"
+            },
+            {
+                "type": "RELATED",
+                "url": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-54677450?startFrom=0&pageSize=20&connected=",
+                "tabname": "Related"
+            }
+        ],
+        "url": "https://www.shazam.com/track/54677450/could-you-be-loved",
+        "artists": [
+            {
+                "id": "42",
+                "adamid": "3174628"
+            }
+        ],
+        "isrc": "USIR28000016",
+        "genres": {
+            "primary": "Reggae"
+        },
+        "urlparams": {
+            "{tracktitle}": "Could+You+Be+Loved",
+            "{trackartist}": "Bob+Marley+%26+The+Wailers"
+        },
+        "myshazam": {
+            "apple": {
+                "actions": [
+                    {
+                        "name": "myshazam:apple",
+                        "type": "uri",
+                        "uri": "https://music.apple.com/gb/album/could-you-be-loved/1440820806?i=1440821451&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                ]
+            }
+        },
+        "highlightsurls": {
+            "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/3174628/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios&videoIdToFilter=1633539554",
+            "trackhighlighturl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/highlights/1633539554?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+        },
+        "relatedtracksurl": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-54677450?startFrom=0&pageSize=20&connected=",
+        "albumadamid": "1440820806"
+    },
+    "tagid": "C3AF2E3F-A60F-4B04-BED5-0C1A7E10B8CD"
+}

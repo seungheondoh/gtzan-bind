@@ -1,0 +1,252 @@
+{
+    "matches": [
+        {
+            "id": "502153916",
+            "offset": 29.995736328,
+            "timeskew": 1.9073486e-06,
+            "frequencyskew": -0.00010740757
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691633776584,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "47441892",
+        "title": "Drop What You're Doin'",
+        "subtitle": "New Bomb Turks",
+        "images": {
+            "background": "https://is2-ssl.mzstatic.com/image/thumb/Music124/v4/59/44/7d/59447d0c-4032-262d-6507-ee05a48a5f23/0045778647965.png/400x400cc.jpg",
+            "coverart": "https://is2-ssl.mzstatic.com/image/thumb/Music124/v4/59/44/7d/59447d0c-4032-262d-6507-ee05a48a5f23/0045778647965.png/400x400cc.jpg",
+            "coverarthq": "https://is2-ssl.mzstatic.com/image/thumb/Music124/v4/59/44/7d/59447d0c-4032-262d-6507-ee05a48a5f23/0045778647965.png/400x400cc.jpg",
+            "joecolor": "b:0b0404p:c1e81cs:90e23bt:9cbb17q:75b530"
+        },
+        "share": {
+            "subject": "Drop What You're Doin' - New Bomb Turks",
+            "text": "Drop What You're Doin' by New Bomb Turks",
+            "href": "https://www.shazam.com/track/47441892/drop-what-youre-doin",
+            "image": "https://is2-ssl.mzstatic.com/image/thumb/Music124/v4/59/44/7d/59447d0c-4032-262d-6507-ee05a48a5f23/0045778647965.png/400x400cc.jpg",
+            "twitter": "I used @Shazam to discover Drop What You're Doin' by New Bomb Turks.",
+            "html": "https://www.shazam.com/snippets/email-share/47441892?lang=en-US&country=GB",
+            "snapchat": "https://www.shazam.com/partner/sc/track/47441892"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "actions": [
+                {
+                    "name": "apple",
+                    "type": "applemusicplay",
+                    "id": "1485036929"
+                },
+                {
+                    "name": "apple",
+                    "type": "uri",
+                    "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/c0/60/32/c0603290-8fe1-f530-73a9-c7e8dd75a1c4/mzaf_2148741368772082661.plus.aac.ep.m4a"
+                }
+            ],
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/gb/album/drop-what-youre-doin/1485036479?i=1485036929&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/gb/album/drop-what-youre-doin/1485036479?i=1485036929&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                },
+                {
+                    "caption": "BUY",
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "uri": "https://itunes.apple.com/gb/album/drop-what-youre-doin/1485036479?i=1485036929&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "buy",
+                        "providername": "itunes"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "type": "buy",
+                    "listcaption": "Buy on iTunes",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "itunes"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:Drop%20What%20You%27re%20Doin%27%20New%20Bomb%20Turks"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27Drop+What+You%5C%27re+Doin%5C%27%27%20artist%3A%27New+Bomb+Turks%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": false,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [
+                    {
+                        "image": "https://is2-ssl.mzstatic.com/image/thumb/Music124/v4/59/44/7d/59447d0c-4032-262d-6507-ee05a48a5f23/0045778647965.png/400x400cc.jpg",
+                        "caption": "Drop What You're Doin'"
+                    }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                    {
+                        "title": "Album",
+                        "text": "Scared Straight"
+                    },
+                    {
+                        "title": "Label",
+                        "text": "Epitaph"
+                    },
+                    {
+                        "title": "Released",
+                        "text": "1996"
+                    }
+                ]
+            },
+            {
+                "type": "LYRICS",
+                "text": [
+                    "Well, the last, the last time I checked I had eyes",
+                    "'Cause the last time I checked",
+                    "Yeah, I was starting to cry",
+                    "Now my good, my good mood's got me blind",
+                    "Just when you think you're ahead",
+                    "Yeah, you see you're falling behind",
+                    "",
+                    "Drop what you're doin'",
+                    "Get down up on your knees again",
+                    "Drop what you're doin'",
+                    "Get down up on your knees again",
+                    "",
+                    "Drop what you're doin'",
+                    "Get down up on your knees again",
+                    "Drop what you're doin'",
+                    "Drop what you're doin' today",
+                    "Alright",
+                    "",
+                    "So you think, you think you got your shit in safe",
+                    "Yeah, you close what's open, close the lit on that cage",
+                    "But the worst, the worst have been ability what to break",
+                    "So what's been given today is for miles dismay",
+                    "",
+                    "So drop what you're doin'",
+                    "Get down up on your knees again",
+                    "Drop what you're doin'",
+                    "Get down up on your knees again",
+                    "",
+                    "Drop what you're doin'",
+                    "Get down up on your knees again",
+                    "Drop what you're doin'",
+                    "Drop what you're doin' today, today, today-ay-ay-ay",
+                    "",
+                    "Drop what you're doin'",
+                    "Get down up on your knees again",
+                    "Drop what you're doin'",
+                    "Get down up on your knees again",
+                    "",
+                    "Drop what you're doin'",
+                    "Get down up on your knees again",
+                    "Drop what you're doin'",
+                    "Drop what you're doin' today, today, today-ay-ay-ay",
+                    "",
+                    "Yeah"
+                ],
+                "url": "https://cdn.shazam.com/lyrics/v1/en-US/GB/iphone/musixmatch/subtitles/219227/174/1?token=7cd5b4f43bcffbb3b6830f5233193490",
+                "footer": "Writer(s): Matthew Reber, Eric Davidson, James Weber, William Randt\nLyrics powered by www.musixmatch.com",
+                "tabname": "Lyrics",
+                "beacondata": {
+                    "lyricsid": "28410499",
+                    "providername": "musixmatch",
+                    "commontrackid": "219227"
+                }
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/47441892/youtube/video?q=New+Bomb+Turks+%22Drop+What+You're+Doin'%22"
+            }
+        ],
+        "url": "https://www.shazam.com/track/47441892/drop-what-youre-doin",
+        "artists": [
+            {
+                "id": "42",
+                "adamid": "259074720"
+            }
+        ],
+        "isrc": "USEP40335110",
+        "genres": {
+            "primary": "Alternative"
+        },
+        "urlparams": {
+            "{tracktitle}": "Drop+What+You%27re+Doin%27",
+            "{trackartist}": "New+Bomb+Turks"
+        },
+        "myshazam": {
+            "apple": {
+                "actions": [
+                    {
+                        "name": "myshazam:apple",
+                        "type": "uri",
+                        "uri": "https://music.apple.com/gb/album/drop-what-youre-doin/1485036479?i=1485036929&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                ]
+            }
+        },
+        "highlightsurls": {
+            "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/259074720/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+        },
+        "albumadamid": "1485036479"
+    },
+    "tagid": "BC4AE79D-99C4-42F1-AAED-1D9B4B6FD165"
+}

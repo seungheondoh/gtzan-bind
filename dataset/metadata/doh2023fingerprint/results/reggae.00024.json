@@ -1,0 +1,274 @@
+{
+    "matches": [
+        {
+            "id": "247089575",
+            "offset": 29.507882812,
+            "timeskew": 0.0029832125,
+            "frequencyskew": 0.0029443502
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691633337576,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "5212571",
+        "title": "Who the Cap Fit",
+        "subtitle": "Bob Marley & The Wailers",
+        "images": {
+            "background": "https://is5-ssl.mzstatic.com/image/thumb/Features125/v4/0e/10/96/0e10963d-8c5d-f176-3651-796ec44d0c97/mzl.kdlmyecx.jpg/800x800cc.jpg",
+            "coverart": "https://is4-ssl.mzstatic.com/image/thumb/Music128/v4/28/66/2a/28662aae-b9ce-2957-784b-5dea18fdbe89/00602537663125.rgb.jpg/400x400cc.jpg",
+            "coverarthq": "https://is4-ssl.mzstatic.com/image/thumb/Music128/v4/28/66/2a/28662aae-b9ce-2957-784b-5dea18fdbe89/00602537663125.rgb.jpg/400x400cc.jpg",
+            "joecolor": "b:d39f77p:000301s:281717t:2a2218q:4a322a"
+        },
+        "share": {
+            "subject": "Who the Cap Fit - Bob Marley & The Wailers",
+            "text": "Who the Cap Fit by Bob Marley & The Wailers",
+            "href": "https://www.shazam.com/track/5212571/who-the-cap-fit",
+            "image": "https://is4-ssl.mzstatic.com/image/thumb/Music128/v4/28/66/2a/28662aae-b9ce-2957-784b-5dea18fdbe89/00602537663125.rgb.jpg/400x400cc.jpg",
+            "twitter": "I used @Shazam to discover Who the Cap Fit by Bob Marley & The Wailers.",
+            "html": "https://www.shazam.com/snippets/email-share/5212571?lang=en-US&country=GB",
+            "avatar": "https://is5-ssl.mzstatic.com/image/thumb/Features125/v4/0e/10/96/0e10963d-8c5d-f176-3651-796ec44d0c97/mzl.kdlmyecx.jpg/800x800cc.jpg",
+            "snapchat": "https://www.shazam.com/partner/sc/track/5212571"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "actions": [
+                {
+                    "name": "apple",
+                    "type": "applemusicplay",
+                    "id": "1440859220"
+                },
+                {
+                    "name": "apple",
+                    "type": "uri",
+                    "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/ca/60/25/ca602546-313b-4c33-593c-63a4c9dffa01/mzaf_11127733744031928886.plus.aac.ep.m4a"
+                }
+            ],
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/gb/album/who-the-cap-fit/1440858988?i=1440859220&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/gb/album/who-the-cap-fit/1440858988?i=1440859220&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                },
+                {
+                    "caption": "BUY",
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "uri": "https://itunes.apple.com/gb/album/who-the-cap-fit/1440858988?i=1440859220&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "buy",
+                        "providername": "itunes"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "type": "buy",
+                    "listcaption": "Buy on iTunes",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "itunes"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:Who%20the%20Cap%20Fit%20Bob%20Marley%20%26%20The%20Wailers"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27Who+the+Cap+Fit%27%20artist%3A%27Bob+Marley++The+Wailers%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": false,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [
+                    {
+                        "image": "https://is5-ssl.mzstatic.com/image/thumb/Features125/v4/0e/10/96/0e10963d-8c5d-f176-3651-796ec44d0c97/mzl.kdlmyecx.jpg/800x800cc.jpg",
+                        "caption": "Bob Marley & The Wailers"
+                    },
+                    {
+                        "image": "https://is4-ssl.mzstatic.com/image/thumb/Music128/v4/28/66/2a/28662aae-b9ce-2957-784b-5dea18fdbe89/00602537663125.rgb.jpg/400x400cc.jpg",
+                        "caption": "Who the Cap Fit"
+                    }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                    {
+                        "title": "Album",
+                        "text": "Rastaman Vibration (2013 Remaster)"
+                    },
+                    {
+                        "title": "Label",
+                        "text": "Island Records"
+                    },
+                    {
+                        "title": "Released",
+                        "text": "1976"
+                    }
+                ]
+            },
+            {
+                "type": "LYRICS",
+                "text": [
+                    "Man to man is so unjust, children (Ooh-ooh)",
+                    "You don't know who to trust",
+                    "Your worst enemy could be your best friend (Ooh-ooh)",
+                    "And your best friend, your worst enemy",
+                    "",
+                    "Some will eat and drink with you (Some will eat and drink with you)",
+                    "Then behind them su-su 'pon you (Su-su 'pon you)",
+                    "Only your friend know your secrets",
+                    "So only he could reveal it (He could reveal it)",
+                    "",
+                    "And who the cap fit, let them wear it",
+                    "Who the cap fit, let them wear it",
+                    "Said I throw me corn (Throw me corn)",
+                    "Me no call no fowl (Me no call no fowl)",
+                    "I saying cook-cook-cook (Cook-cook-cook)",
+                    "Cluck-cluck-cluck (Cluck-cluck-cluck)",
+                    "",
+                    "Yeah, some will hate you",
+                    "Pretend they love you now (Ooh-ooh)",
+                    "Then behind they try to eliminate you",
+                    "But who the Jah bless, no one curse (Ooh-ooh)",
+                    "Thank God we're past the worse",
+                    "",
+                    "Hypocrites and parasites",
+                    "(Hypocrites and parasites)",
+                    "Will come up and take a bite",
+                    "(Will come up and take a bite)",
+                    "And if your night should turn to day",
+                    "A lot of people would run away",
+                    "And who the stock fit let them wear it",
+                    "Who the stock fit let them wear it",
+                    "",
+                    "And then I gonna throw me corn (Throw me corn)",
+                    "And then I gonna call no fowl (Call no fowl)",
+                    "And then a gonna Cook-cook-cook (Cook-cook-cook)",
+                    "Cluck-cluck-cluck (Cluck-cluck-cluck)",
+                    "",
+                    "Ooh-ooh, ooh-ooh",
+                    "Ooh-ooh, ooh-ooh",
+                    "",
+                    "Some will eat and drink with you",
+                    "(Some will eat and drink with you)",
+                    "Then behind them su-su 'pon you",
+                    "(Then behind them su-su 'pon you)",
+                    "And if your night should turn to day",
+                    "A lot of people will run away",
+                    "",
+                    "And who the cap fit, let them wear it",
+                    "Who the cap fit, let them wear it",
+                    "Throw me corn (Throw me corn)",
+                    "Me no call no fowl (Me no call no fowl)",
+                    "I saying cook-cook-cook (Cook-cook-cook)",
+                    "Cluck-cluck-cluck (Cluck-cluck-cluck)",
+                    "I gotta cook-cook-cook (Cook-cook-cook)",
+                    "Cluck-cluck-cluck (Cluck-cluck-cluck)"
+                ],
+                "url": "https://cdn.shazam.com/lyrics/v1/en-US/GB/iphone/musixmatch/subtitles/7654705/283/1?token=b856f11a442d5b03063091bd1ead4fc7",
+                "footer": "Writer(s): Bob Marley\nLyrics powered by www.musixmatch.com",
+                "tabname": "Lyrics",
+                "beacondata": {
+                    "lyricsid": "24025972",
+                    "providername": "musixmatch",
+                    "commontrackid": "7654705"
+                }
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/5212571/youtube/video?q=Bob+Marley+%26+The+Wailers+%22Who+the+Cap+Fit%22"
+            },
+            {
+                "type": "RELATED",
+                "url": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-5212571?startFrom=0&pageSize=20&connected=",
+                "tabname": "Related"
+            }
+        ],
+        "url": "https://www.shazam.com/track/5212571/who-the-cap-fit",
+        "artists": [
+            {
+                "id": "42",
+                "adamid": "3174628"
+            }
+        ],
+        "isrc": "USIR27600400",
+        "genres": {
+            "primary": "Reggae"
+        },
+        "urlparams": {
+            "{tracktitle}": "Who+the+Cap+Fit",
+            "{trackartist}": "Bob+Marley+%26+The+Wailers"
+        },
+        "myshazam": {
+            "apple": {
+                "actions": [
+                    {
+                        "name": "myshazam:apple",
+                        "type": "uri",
+                        "uri": "https://music.apple.com/gb/album/who-the-cap-fit/1440858988?i=1440859220&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                ]
+            }
+        },
+        "highlightsurls": {
+            "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/3174628/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+        },
+        "relatedtracksurl": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-5212571?startFrom=0&pageSize=20&connected=",
+        "albumadamid": "1440858988"
+    },
+    "tagid": "505EA57B-F53E-480A-934A-906DCCFB429E"
+}

@@ -1,0 +1,241 @@
+{
+    "matches": [
+        {
+            "id": "241997476",
+            "offset": 29.316039062,
+            "timeskew": -0.012507439,
+            "frequencyskew": -0.012765169
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691633612508,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "11159058",
+        "title": "Street Fighting Man",
+        "subtitle": "The Rolling Stones",
+        "images": {
+            "background": "https://is3-ssl.mzstatic.com/image/thumb/Features125/v4/50/6a/dd/506addd0-1a1c-ebbf-7ec3-7ebbd2785035/mza_827834569591675074.png/800x800cc.jpg",
+            "coverart": "https://is5-ssl.mzstatic.com/image/thumb/Music125/v4/a3/d1/78/a3d178a8-f1c2-c1c3-1c5d-d78ab3af9768/20UMGIM13726.rgb.jpg/400x400cc.jpg",
+            "coverarthq": "https://is5-ssl.mzstatic.com/image/thumb/Music125/v4/a3/d1/78/a3d178a8-f1c2-c1c3-1c5d-d78ab3af9768/20UMGIM13726.rgb.jpg/400x400cc.jpg",
+            "joecolor": "b:bd8f53p:04040as:20130et:291f18q:3f2c1c"
+        },
+        "share": {
+            "subject": "Street Fighting Man - The Rolling Stones",
+            "text": "Street Fighting Man by The Rolling Stones",
+            "href": "https://www.shazam.com/track/11159058/street-fighting-man",
+            "image": "https://is5-ssl.mzstatic.com/image/thumb/Music125/v4/a3/d1/78/a3d178a8-f1c2-c1c3-1c5d-d78ab3af9768/20UMGIM13726.rgb.jpg/400x400cc.jpg",
+            "twitter": "I used @Shazam to discover Street Fighting Man by The Rolling Stones.",
+            "html": "https://www.shazam.com/snippets/email-share/11159058?lang=en-US&country=GB",
+            "avatar": "https://is3-ssl.mzstatic.com/image/thumb/Features125/v4/50/6a/dd/506addd0-1a1c-ebbf-7ec3-7ebbd2785035/mza_827834569591675074.png/800x800cc.jpg",
+            "snapchat": "https://www.shazam.com/partner/sc/track/11159058"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "actions": [
+                {
+                    "name": "apple",
+                    "type": "applemusicplay",
+                    "id": "1500643409"
+                },
+                {
+                    "name": "apple",
+                    "type": "uri",
+                    "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview123/v4/89/e5/46/89e5460f-0eda-6573-da52-1660a7f84f85/mzaf_6384520999984035757.plus.aac.ep.m4a"
+                }
+            ],
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/gb/album/street-fighting-man/1500643395?i=1500643409&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/gb/album/street-fighting-man/1500643395?i=1500643409&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                },
+                {
+                    "caption": "BUY",
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "uri": "https://itunes.apple.com/gb/album/street-fighting-man/1500643395?i=1500643409&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "buy",
+                        "providername": "itunes"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "type": "buy",
+                    "listcaption": "Buy on iTunes",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "itunes"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:Street%20Fighting%20Man%20The%20Rolling%20Stones"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27Street+Fighting+Man%27%20artist%3A%27The+Rolling+Stones%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": false,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [
+                    {
+                        "image": "https://is3-ssl.mzstatic.com/image/thumb/Features125/v4/50/6a/dd/506addd0-1a1c-ebbf-7ec3-7ebbd2785035/mza_827834569591675074.png/800x800cc.jpg",
+                        "caption": "The Rolling Stones"
+                    },
+                    {
+                        "image": "https://is5-ssl.mzstatic.com/image/thumb/Music125/v4/a3/d1/78/a3d178a8-f1c2-c1c3-1c5d-d78ab3af9768/20UMGIM13726.rgb.jpg/400x400cc.jpg",
+                        "caption": "Street Fighting Man"
+                    }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                    {
+                        "title": "Album",
+                        "text": "Beggars Banquet (Remastered)"
+                    },
+                    {
+                        "title": "Label",
+                        "text": "ABKCO Music & Records, Inc."
+                    },
+                    {
+                        "title": "Released",
+                        "text": "1966"
+                    }
+                ]
+            },
+            {
+                "type": "LYRICS",
+                "text": [
+                    "Ev'rywhere I hear the sound of marching, charging feet, boy",
+                    "'Cause summer's here and the time is right for fighting in the street, boy",
+                    "But what can a poor boy do",
+                    "Except to sing for a rock 'n' roll band",
+                    "'Cause in sleepy London town",
+                    "There's just no place for a street fighting man, no",
+                    "",
+                    "Hey! Think the time is right for a palace revolution",
+                    "But where I live the game to play is compromise solution",
+                    "Well, then what can a poor boy do",
+                    "Except to sing for a rock 'n' roll band",
+                    "'Cause in sleepy London town",
+                    "There's just no place for a street fighting man, no",
+                    "",
+                    "Hey! Said my name is called disturbance",
+                    "I'll shout and scream, I'll kill the king, I'll rail at all his servants",
+                    "Well, what can a poor boy do",
+                    "Except to sing for a rock 'n' roll band",
+                    "'Cause in sleepy London town",
+                    "There's just no place for a street fighting man, no",
+                    "Get down"
+                ],
+                "url": "https://cdn.shazam.com/lyrics/v1/en-US/GB/iphone/musixmatch/subtitles/126011/195/1?token=4b5309dd3e212b059ed2f00a67189ed6",
+                "footer": "Writer(s): Mick Jagger, Keith Richards\nLyrics powered by www.musixmatch.com",
+                "tabname": "Lyrics",
+                "beacondata": {
+                    "lyricsid": "19337379",
+                    "providername": "musixmatch",
+                    "commontrackid": "126011"
+                }
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/11159058/youtube/video?q=The+Rolling+Stones+%22Street+Fighting+Man%22"
+            },
+            {
+                "type": "RELATED",
+                "url": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-11159058?startFrom=0&pageSize=20&connected=",
+                "tabname": "Related"
+            }
+        ],
+        "url": "https://www.shazam.com/track/11159058/street-fighting-man",
+        "artists": [
+            {
+                "id": "42",
+                "adamid": "1249595"
+            }
+        ],
+        "isrc": "USA171810015",
+        "genres": {
+            "primary": "Pop"
+        },
+        "urlparams": {
+            "{tracktitle}": "Street+Fighting+Man",
+            "{trackartist}": "The+Rolling+Stones"
+        },
+        "myshazam": {
+            "apple": {
+                "actions": [
+                    {
+                        "name": "myshazam:apple",
+                        "type": "uri",
+                        "uri": "https://music.apple.com/gb/album/street-fighting-man/1500643395?i=1500643409&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                ]
+            }
+        },
+        "highlightsurls": {
+            "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/1249595/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios&videoIdToFilter=1468540653",
+            "trackhighlighturl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/highlights/1468540653?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+        },
+        "relatedtracksurl": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-11159058?startFrom=0&pageSize=20&connected=",
+        "albumadamid": "1500643395"
+    },
+    "tagid": "866738FC-8290-4C0A-BBF2-1BEB6AFA9467"
+}

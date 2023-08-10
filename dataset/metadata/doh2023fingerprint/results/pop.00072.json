@@ -1,0 +1,279 @@
+{
+    "matches": [
+        {
+            "id": "432179946",
+            "offset": 99.218671875,
+            "timeskew": -0.00030857325,
+            "frequencyskew": -0.000120818615
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691632855110,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "5186282",
+        "title": "Miss You Much",
+        "subtitle": "Janet Jackson",
+        "images": {
+            "background": "https://is4-ssl.mzstatic.com/image/thumb/Features125/v4/a5/ff/c6/a5ffc651-ee12-f65b-3c34-35c598c2560e/pr_source.png/800x800cc.jpg",
+            "coverart": "https://is3-ssl.mzstatic.com/image/thumb/Music124/v4/5c/06/a5/5c06a5fc-6424-25e4-37c4-da5a9a18dd8a/00602547592378.rgb.jpg/400x400cc.jpg",
+            "coverarthq": "https://is3-ssl.mzstatic.com/image/thumb/Music124/v4/5c/06/a5/5c06a5fc-6424-25e4-37c4-da5a9a18dd8a/00602547592378.rgb.jpg/400x400cc.jpg",
+            "joecolor": "b:0b1111p:f6f6f6s:d8d8d8t:c6c8c8q:afb0b0"
+        },
+        "share": {
+            "subject": "Miss You Much - Janet Jackson",
+            "text": "Miss You Much by Janet Jackson",
+            "href": "https://www.shazam.com/track/5186282/miss-you-much",
+            "image": "https://is3-ssl.mzstatic.com/image/thumb/Music124/v4/5c/06/a5/5c06a5fc-6424-25e4-37c4-da5a9a18dd8a/00602547592378.rgb.jpg/400x400cc.jpg",
+            "twitter": "I used @Shazam to discover Miss You Much by Janet Jackson.",
+            "html": "https://www.shazam.com/snippets/email-share/5186282?lang=en-US&country=GB",
+            "avatar": "https://is4-ssl.mzstatic.com/image/thumb/Features125/v4/a5/ff/c6/a5ffc651-ee12-f65b-3c34-35c598c2560e/pr_source.png/800x800cc.jpg",
+            "snapchat": "https://www.shazam.com/partner/sc/track/5186282"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "actions": [
+                {
+                    "name": "apple",
+                    "type": "applemusicplay",
+                    "id": "1440839158"
+                },
+                {
+                    "name": "apple",
+                    "type": "uri",
+                    "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/1c/e1/56/1ce156cc-1d51-0928-50b7-f34d0a2bdedd/mzaf_8626553667877138782.plus.aac.ep.m4a"
+                }
+            ],
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/gb/album/miss-you-much/1440838561?i=1440839158&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/gb/album/miss-you-much/1440838561?i=1440839158&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                },
+                {
+                    "caption": "BUY",
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "uri": "https://itunes.apple.com/gb/album/miss-you-much/1440838561?i=1440839158&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "buy",
+                        "providername": "itunes"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "type": "buy",
+                    "listcaption": "Buy on iTunes",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "itunes"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:Miss%20You%20Much%20Janet%20Jackson"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27Miss+You+Much%27%20artist%3A%27Janet+Jackson%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": false,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [
+                    {
+                        "image": "https://is4-ssl.mzstatic.com/image/thumb/Features125/v4/a5/ff/c6/a5ffc651-ee12-f65b-3c34-35c598c2560e/pr_source.png/800x800cc.jpg",
+                        "caption": "Janet Jackson"
+                    },
+                    {
+                        "image": "https://is3-ssl.mzstatic.com/image/thumb/Music124/v4/5c/06/a5/5c06a5fc-6424-25e4-37c4-da5a9a18dd8a/00602547592378.rgb.jpg/400x400cc.jpg",
+                        "caption": "Miss You Much"
+                    }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                    {
+                        "title": "Album",
+                        "text": "Rhythm Nation 1814"
+                    },
+                    {
+                        "title": "Label",
+                        "text": "A&M"
+                    },
+                    {
+                        "title": "Released",
+                        "text": "1989"
+                    }
+                ]
+            },
+            {
+                "type": "LYRICS",
+                "text": [
+                    "Shot like an arrow through my heart",
+                    "That's the pain I feel, I feel whenever we're apart",
+                    "Not to say that I'm in love with you",
+                    "But who's to say that I'm not",
+                    "I just know that it feels wrong when I'm away too long",
+                    "And it makes my body hot",
+                    "So let me tell ya baby",
+                    "",
+                    "I'll tell your mama, I'll tell your friends",
+                    "I'll tell anyone whose heart can comprehend",
+                    "Send it in a letter, baby tell you on the phone",
+                    "I'm not the kinda girl who likes to be alone",
+                    "",
+                    "I miss ya much (boy, oh, I, miss you much)",
+                    "I really miss you much (M-I-S-S you much)",
+                    "I miss ya much (boy, oh, I, miss you much)",
+                    "I really miss you much (M-I-S-S you much)",
+                    "",
+                    "I'm rushing home, just as soon as I can",
+                    "I'm rushing home to see your smiling face",
+                    "And feel your warm embrace",
+                    "It makes me feel so g-g-good",
+                    "So I'll tell you baby",
+                    "",
+                    "I'll tell your mama, I'll tell your friends",
+                    "I'll tell anyone whose heart can comprehend (baby)",
+                    "Send it in a letter baby, tell you on the phone",
+                    "I'm not the kinda girl who likes to be alone",
+                    "",
+                    "I miss ya much (boy, oh, I, miss you much)",
+                    "I really miss you much (M-I-S-S you much)",
+                    "I miss ya much (boy, oh, I, miss you much)",
+                    "I really miss you much (M-I-S-S you much)",
+                    "",
+                    "I miss ya much (boy, oh, I, miss you much)",
+                    "I really miss you much (M-I-S-S you much)",
+                    "I miss ya much (boy, oh, I, miss you much)",
+                    "I really miss you much (M-I-S-S you much)",
+                    "",
+                    "Miss you much, I miss you much",
+                    "I really, really miss you",
+                    "Miss you much, I miss you much",
+                    "I brought you here to tell the world I miss you",
+                    "",
+                    "I'll tell your mama, I'll tell your friends",
+                    "I'll tell anyone whose heart can comprehend, baby",
+                    "Send it in a letter baby, tell you on the phone",
+                    "I'm not the kinda girl who likes to be alone",
+                    "",
+                    "I miss ya much (boy, oh, I, miss you much)",
+                    "I really miss you much (M-I-S-S you much)",
+                    "I miss ya much (boy, oh, I, miss you much)",
+                    "I really miss you much (M-I-S-S you much)",
+                    "I miss ya much (boy, oh, I, miss you much)",
+                    "I really miss you much (M-I-S-S you much)",
+                    "I miss ya much (boy, oh, I, miss you much)",
+                    "I really miss you much (M-I-S-S you much)",
+                    "",
+                    "That's the end?"
+                ],
+                "url": "https://cdn.shazam.com/lyrics/v1/en-US/GB/iphone/musixmatch/subtitles/40890/252/1?token=2df4f46a1ffc38a3fb29811893faf933",
+                "footer": "Writer(s): James Harris Iii, Terry Lewis\nLyrics powered by www.musixmatch.com",
+                "tabname": "Lyrics",
+                "beacondata": {
+                    "lyricsid": "27821788",
+                    "providername": "musixmatch",
+                    "commontrackid": "40890"
+                }
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/5186282/youtube/video?q=Janet+Jackson+%22Miss+You+Much%22"
+            },
+            {
+                "type": "RELATED",
+                "url": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-5186282?startFrom=0&pageSize=20&connected=",
+                "tabname": "Related"
+            }
+        ],
+        "url": "https://www.shazam.com/track/5186282/miss-you-much",
+        "artists": [
+            {
+                "id": "42",
+                "adamid": "1272779"
+            }
+        ],
+        "isrc": "USAM10110363",
+        "genres": {
+            "primary": "Pop"
+        },
+        "urlparams": {
+            "{tracktitle}": "Miss+You+Much",
+            "{trackartist}": "Janet+Jackson"
+        },
+        "myshazam": {
+            "apple": {
+                "actions": [
+                    {
+                        "name": "myshazam:apple",
+                        "type": "uri",
+                        "uri": "https://music.apple.com/gb/album/miss-you-much/1440838561?i=1440839158&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                ]
+            }
+        },
+        "highlightsurls": {
+            "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/1272779/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios&videoIdToFilter=1446012666",
+            "trackhighlighturl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/highlights/1446012666?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+        },
+        "relatedtracksurl": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-5186282?startFrom=0&pageSize=20&connected=",
+        "albumadamid": "1440838561"
+    },
+    "tagid": "7B4ADDE9-8ECE-4340-8E93-76E51C818F22"
+}

@@ -1,0 +1,212 @@
+{
+    "matches": [
+        {
+            "id": "212023797",
+            "offset": 30.075474609,
+            "timeskew": 3.20673e-05,
+            "frequencyskew": -0.00020134449
+        },
+        {
+            "id": "223592504",
+            "offset": 29.871833984000002,
+            "timeskew": 0.00021648407,
+            "frequencyskew": -4.029274e-05
+        },
+        {
+            "id": "265922206",
+            "offset": 135.72603125,
+            "timeskew": 0.00011301041,
+            "frequencyskew": -4.029274e-05
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691632689048,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "268300",
+        "title": "I Wanna Be With You (Soul Solution Remix - Radio Edit)",
+        "subtitle": "Mandy Moore",
+        "images": {
+            "background": "https://is4-ssl.mzstatic.com/image/thumb/Music126/v4/f4/2c/92/f42c92af-dcfb-468e-3160-73529ffb22cd/pr_source.png/800x800cc.jpg",
+            "coverart": "https://is3-ssl.mzstatic.com/image/thumb/Music/c5/8e/60/mzi.euvlpmop.jpg/400x400cc.jpg",
+            "coverarthq": "https://is3-ssl.mzstatic.com/image/thumb/Music/c5/8e/60/mzi.euvlpmop.jpg/400x400cc.jpg",
+            "joecolor": "b:c08d62p:010000s:301b16t:271c13q:4c3125"
+        },
+        "share": {
+            "subject": "I Wanna Be With You (Soul Solution Remix - Radio Edit) - Mandy Moore",
+            "text": "I Wanna Be With You (Soul Solution Remix - Radio Edit) by Mandy Moore",
+            "href": "https://www.shazam.com/track/268300/i-wanna-be-with-you-soul-solution-remix-radio-edit",
+            "image": "https://is3-ssl.mzstatic.com/image/thumb/Music/c5/8e/60/mzi.euvlpmop.jpg/400x400cc.jpg",
+            "twitter": "I used @Shazam to discover I Wanna Be With You (Soul Solution Remix - Radio Edit) by Mandy Moore.",
+            "html": "https://www.shazam.com/snippets/email-share/268300?lang=en-US&country=GB",
+            "avatar": "https://is4-ssl.mzstatic.com/image/thumb/Music126/v4/f4/2c/92/f42c92af-dcfb-468e-3160-73529ffb22cd/pr_source.png/800x800cc.jpg",
+            "snapchat": "https://www.shazam.com/partner/sc/track/268300"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "actions": [
+                {
+                    "name": "apple",
+                    "type": "applemusicplay",
+                    "id": "157344406"
+                },
+                {
+                    "name": "apple",
+                    "type": "uri",
+                    "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/04/ff/dd/04ffdd36-9291-7de0-51e9-47559628f19d/mzaf_11139609776805972836.plus.aac.ep.m4a"
+                }
+            ],
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/gb/album/i-wanna-be-with-you-soul-solution-remix-radio-edit/157344072?i=157344406&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/gb/album/i-wanna-be-with-you-soul-solution-remix-radio-edit/157344072?i=157344406&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                },
+                {
+                    "caption": "BUY",
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "uri": "https://itunes.apple.com/gb/album/i-wanna-be-with-you-soul-solution-remix-radio-edit/157344072?i=157344406&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "buy",
+                        "providername": "itunes"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "type": "buy",
+                    "listcaption": "Buy on iTunes",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "itunes"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:I%20Wanna%20Be%20With%20You%20%28Soul%20Solution%20Remix%20-%20Radio%20Edit%29%20Mandy%20Moore"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27I+Wanna+Be+With+You+%28Soul+Solution+Remix+-+Radio+Edit%29%27%20artist%3A%27Mandy+Moore%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": false,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [
+                    {
+                        "image": "https://is4-ssl.mzstatic.com/image/thumb/Music126/v4/f4/2c/92/f42c92af-dcfb-468e-3160-73529ffb22cd/pr_source.png/800x800cc.jpg",
+                        "caption": "Mandy Moore"
+                    },
+                    {
+                        "image": "https://is3-ssl.mzstatic.com/image/thumb/Music/c5/8e/60/mzi.euvlpmop.jpg/400x400cc.jpg",
+                        "caption": "I Wanna Be With You (Soul Solution Remix - Radio Edit)"
+                    }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                    {
+                        "title": "Album",
+                        "text": "I Wanna Be With You"
+                    },
+                    {
+                        "title": "Label",
+                        "text": "Epic/550 Music"
+                    },
+                    {
+                        "title": "Released",
+                        "text": "2000"
+                    }
+                ]
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/268300/youtube/video?q=Mandy+Moore+%22I+Wanna+Be+With+You+(Soul+Solution+Remix+-+Radio+Edit)%22"
+            }
+        ],
+        "url": "https://www.shazam.com/track/268300/i-wanna-be-with-you-soul-solution-remix-radio-edit",
+        "artists": [
+            {
+                "id": "42",
+                "adamid": "464984"
+            }
+        ],
+        "isrc": "USSM10007837",
+        "genres": {
+            "primary": "Pop"
+        },
+        "urlparams": {
+            "{tracktitle}": "I+Wanna+Be+With+You+%28Soul+Solution+Remix+-+Radio+Edit%29",
+            "{trackartist}": "Mandy+Moore"
+        },
+        "myshazam": {
+            "apple": {
+                "actions": [
+                    {
+                        "name": "myshazam:apple",
+                        "type": "uri",
+                        "uri": "https://music.apple.com/gb/album/i-wanna-be-with-you-soul-solution-remix-radio-edit/157344072?i=157344406&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                ]
+            }
+        },
+        "highlightsurls": {
+            "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/464984/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+        },
+        "albumadamid": "157344072"
+    },
+    "tagid": "426DEB22-4558-465C-B9AF-CC39281CE608"
+}

@@ -1,0 +1,277 @@
+{
+    "matches": [
+        {
+            "id": "432373057",
+            "offset": 30.079603515,
+            "timeskew": 0.001258254,
+            "frequencyskew": 0.00096702576
+        },
+        {
+            "id": "222451900",
+            "offset": 49.932328125,
+            "timeskew": -0.001178205,
+            "frequencyskew": -0.001046598
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691633215680,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "73536977",
+        "title": "Waiting In Vain",
+        "subtitle": "Bob Marley & The Wailers",
+        "images": {
+            "background": "https://is5-ssl.mzstatic.com/image/thumb/Features125/v4/0e/10/96/0e10963d-8c5d-f176-3651-796ec44d0c97/mzl.kdlmyecx.jpg/800x800cc.jpg",
+            "coverart": "https://is2-ssl.mzstatic.com/image/thumb/Music124/v4/20/99/ad/2099ad6d-b13c-02f7-6dd8-841d955fffb9/06UMGIM31355.rgb.jpg/400x400cc.jpg",
+            "coverarthq": "https://is2-ssl.mzstatic.com/image/thumb/Music124/v4/20/99/ad/2099ad6d-b13c-02f7-6dd8-841d955fffb9/06UMGIM31355.rgb.jpg/400x400cc.jpg",
+            "joecolor": "b:a59a6cp:060602s:25201at:262317q:3f382a"
+        },
+        "share": {
+            "subject": "Waiting In Vain - Bob Marley & The Wailers",
+            "text": "Waiting In Vain by Bob Marley & The Wailers",
+            "href": "https://www.shazam.com/track/73536977/waiting-in-vain",
+            "image": "https://is2-ssl.mzstatic.com/image/thumb/Music124/v4/20/99/ad/2099ad6d-b13c-02f7-6dd8-841d955fffb9/06UMGIM31355.rgb.jpg/400x400cc.jpg",
+            "twitter": "I used @Shazam to discover Waiting In Vain by Bob Marley & The Wailers.",
+            "html": "https://www.shazam.com/snippets/email-share/73536977?lang=en-US&country=GB",
+            "avatar": "https://is5-ssl.mzstatic.com/image/thumb/Features125/v4/0e/10/96/0e10963d-8c5d-f176-3651-796ec44d0c97/mzl.kdlmyecx.jpg/800x800cc.jpg",
+            "snapchat": "https://www.shazam.com/partner/sc/track/73536977"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "actions": [
+                {
+                    "name": "apple",
+                    "type": "applemusicplay",
+                    "id": "1422950080"
+                },
+                {
+                    "name": "apple",
+                    "type": "uri",
+                    "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/85/68/93/856893ff-62d2-08a7-5b17-0a2534cf9b3c/mzaf_13432843314867836863.plus.aac.ep.m4a"
+                }
+            ],
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/gb/album/waiting-in-vain/1422950004?i=1422950080&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/gb/album/waiting-in-vain/1422950004?i=1422950080&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                },
+                {
+                    "caption": "BUY",
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "uri": "https://itunes.apple.com/gb/album/waiting-in-vain/1422950004?i=1422950080&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "buy",
+                        "providername": "itunes"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "type": "buy",
+                    "listcaption": "Buy on iTunes",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "itunes"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:Waiting%20In%20Vain%20Bob%20Marley%20%26%20The%20Wailers"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27Waiting+In+Vain%27%20artist%3A%27Bob+Marley++The+Wailers%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": false,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [
+                    {
+                        "image": "https://is5-ssl.mzstatic.com/image/thumb/Features125/v4/0e/10/96/0e10963d-8c5d-f176-3651-796ec44d0c97/mzl.kdlmyecx.jpg/800x800cc.jpg",
+                        "caption": "Bob Marley & The Wailers"
+                    },
+                    {
+                        "image": "https://is2-ssl.mzstatic.com/image/thumb/Music124/v4/20/99/ad/2099ad6d-b13c-02f7-6dd8-841d955fffb9/06UMGIM31355.rgb.jpg/400x400cc.jpg",
+                        "caption": "Waiting In Vain"
+                    }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                    {
+                        "title": "Album",
+                        "text": "Exodus (Bonus Track Version)"
+                    },
+                    {
+                        "title": "Label",
+                        "text": "Tuff Gong"
+                    },
+                    {
+                        "title": "Released",
+                        "text": "1977"
+                    }
+                ]
+            },
+            {
+                "type": "LYRICS",
+                "text": [
+                    "I don't wanna wait in vain for your love",
+                    "I don't wanna wait in vain for your love",
+                    "",
+                    "From the very first time I placed my eyes on you, girl",
+                    "My heart says follow through",
+                    "But I know, now, that I'm way down on your line",
+                    "But the waitin' feel is fine",
+                    "",
+                    "So don't treat me like a puppet on a string",
+                    "'Cause I know how to do my thing",
+                    "Don't talk to me as if you think I'm dumb",
+                    "I wanna know when you're gonna come",
+                    "",
+                    "See, I don't wanna wait in vain for your love",
+                    "I don't wanna wait in vain for your love",
+                    "I don't wanna wait in vain for your love",
+                    "",
+                    "'Cause if summer is here",
+                    "I'm still waiting there",
+                    "Winter is here",
+                    "And I'm still waiting there",
+                    "",
+                    "Like I said",
+                    "It's been three years since I'm knockin' on your door",
+                    "And I still can knock some more",
+                    "Ooh girl, ooh girl, is it feasible?",
+                    "I wanna know now, for I to knock some more",
+                    "",
+                    "Ya see, in life I know there's lots of grief",
+                    "But your love is my relief",
+                    "Tears in my eyes burn, tears in my eyes burn",
+                    "While I'm waiting, while I'm waiting for my turn",
+                    "See!",
+                    "",
+                    "I don't wanna wait in vain for your love",
+                    "I don't wanna wait in vain for your love",
+                    "I don't wanna wait in vain for your love",
+                    "I don't wanna wait in vain for your love",
+                    "",
+                    "I don't wanna wait in vain for your love, oh!",
+                    "I don't wanna, I don't wanna, I don't wanna, I don't wanna",
+                    "I don't wanna wait in vain, no",
+                    "I don't wanna, I don't wanna, I don't wanna, I don't wanna",
+                    "I don't wanna wait in vain, no",
+                    "I don't wanna, I don't wanna, I don't wanna, I don't wanna",
+                    "I don't wanna wait in vain",
+                    "",
+                    "No no no, I, no I (I don't wanna wait in vain)",
+                    "It's your love that I'm waiting on",
+                    "It's my love that you're running from",
+                    "It's your love that I'm waiting on",
+                    "It's my love that you're running from"
+                ],
+                "url": "https://cdn.shazam.com/lyrics/v1/en-US/GB/iphone/musixmatch/subtitles/7532739/256/1?token=dc03b8f921d2a104c59d5326d901624e",
+                "footer": "Writer(s): Bob Marley\nLyrics powered by www.musixmatch.com",
+                "tabname": "Lyrics",
+                "beacondata": {
+                    "lyricsid": "21555777",
+                    "providername": "musixmatch",
+                    "commontrackid": "7532739"
+                }
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/73536977/youtube/video?q=Bob+Marley+%26+The+Wailers+%22Waiting+In+Vain%22"
+            },
+            {
+                "type": "RELATED",
+                "url": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-73536977?startFrom=0&pageSize=20&connected=",
+                "tabname": "Related"
+            }
+        ],
+        "url": "https://www.shazam.com/track/73536977/waiting-in-vain",
+        "artists": [
+            {
+                "id": "42",
+                "adamid": "3174628"
+            }
+        ],
+        "isrc": "USIR27700014",
+        "genres": {
+            "primary": "Reggae"
+        },
+        "urlparams": {
+            "{tracktitle}": "Waiting+In+Vain",
+            "{trackartist}": "Bob+Marley+%26+The+Wailers"
+        },
+        "myshazam": {
+            "apple": {
+                "actions": [
+                    {
+                        "name": "myshazam:apple",
+                        "type": "uri",
+                        "uri": "https://music.apple.com/gb/album/waiting-in-vain/1422950004?i=1422950080&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                ]
+            }
+        },
+        "highlightsurls": {
+            "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/3174628/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+        },
+        "relatedtracksurl": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-73536977?startFrom=0&pageSize=20&connected=",
+        "albumadamid": "1422950004"
+    },
+    "tagid": "44013CAE-BEAA-47EF-B183-B7950CCC45BD"
+}

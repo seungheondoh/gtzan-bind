@@ -1,0 +1,256 @@
+{
+    "matches": [
+        {
+            "id": "232173879",
+            "offset": 29.861857421,
+            "timeskew": 9.703636e-05,
+            "frequencyskew": 0.0
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691633676376,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "61092590",
+        "title": "Life Is a Long Song",
+        "subtitle": "Jethro Tull",
+        "images": {
+            "background": "https://is1-ssl.mzstatic.com/image/thumb/Features125/v4/6c/af/2b/6caf2b97-f2d3-14a9-431b-e1579e254c81/mzl.yziwwmnf.jpg/800x800cc.jpg",
+            "coverart": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/71/45/82/714582a4-bb21-873d-c022-487c7776e410/094632157553.jpg/400x400cc.jpg",
+            "coverarthq": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/71/45/82/714582a4-bb21-873d-c022-487c7776e410/094632157553.jpg/400x400cc.jpg",
+            "joecolor": "b:532a28p:f6cd49s:ecbe42t:d5ac42q:cda03d"
+        },
+        "share": {
+            "subject": "Life Is a Long Song - Jethro Tull",
+            "text": "Life Is a Long Song by Jethro Tull",
+            "href": "https://www.shazam.com/track/61092590/life-is-a-long-song",
+            "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/71/45/82/714582a4-bb21-873d-c022-487c7776e410/094632157553.jpg/400x400cc.jpg",
+            "twitter": "I used @Shazam to discover Life Is a Long Song by Jethro Tull.",
+            "html": "https://www.shazam.com/snippets/email-share/61092590?lang=en-US&country=GB",
+            "avatar": "https://is1-ssl.mzstatic.com/image/thumb/Features125/v4/6c/af/2b/6caf2b97-f2d3-14a9-431b-e1579e254c81/mzl.yziwwmnf.jpg/800x800cc.jpg",
+            "snapchat": "https://www.shazam.com/partner/sc/track/61092590"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "actions": [
+                {
+                    "name": "apple",
+                    "type": "applemusicplay",
+                    "id": "726428108"
+                },
+                {
+                    "name": "apple",
+                    "type": "uri",
+                    "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/7d/1f/cf/7d1fcfed-7f90-8b37-b84d-3e461b5f120d/mzaf_17853295664784508376.plus.aac.ep.m4a"
+                }
+            ],
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/gb/album/life-is-a-long-song/726426747?i=726428108&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/gb/album/life-is-a-long-song/726426747?i=726428108&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                },
+                {
+                    "caption": "BUY",
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "uri": "https://itunes.apple.com/gb/album/life-is-a-long-song/726426747?i=726428108&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "buy",
+                        "providername": "itunes"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "type": "buy",
+                    "listcaption": "Buy on iTunes",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "itunes"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:Life%20Is%20a%20Long%20Song%20Jethro%20Tull"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27Life+Is+a+Long+Song%27%20artist%3A%27Jethro+Tull%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": false,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [
+                    {
+                        "image": "https://is1-ssl.mzstatic.com/image/thumb/Features125/v4/6c/af/2b/6caf2b97-f2d3-14a9-431b-e1579e254c81/mzl.yziwwmnf.jpg/800x800cc.jpg",
+                        "caption": "Jethro Tull"
+                    },
+                    {
+                        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/71/45/82/714582a4-bb21-873d-c022-487c7776e410/094632157553.jpg/400x400cc.jpg",
+                        "caption": "Life Is a Long Song"
+                    }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                    {
+                        "title": "Album",
+                        "text": "Living In the Past"
+                    },
+                    {
+                        "title": "Label",
+                        "text": "Parlophone UK"
+                    },
+                    {
+                        "title": "Released",
+                        "text": "1971"
+                    }
+                ]
+            },
+            {
+                "type": "LYRICS",
+                "text": [
+                    "When you're falling awake",
+                    "And you take stock of the new day",
+                    "And you hear your voice croak",
+                    "As you choke on what you need to say",
+                    "Well, don't you fret, don't you fear",
+                    "I will give you good cheer",
+                    "",
+                    "Life's a long song",
+                    "Life's a long song",
+                    "Life's a long song",
+                    "If you wait then your plate I will fill",
+                    "",
+                    "As the verses unfold",
+                    "And your soul suffers the long day",
+                    "And the twelve o'clock gloom spins the room",
+                    "You struggle on your way",
+                    "Well, don't you sigh, don't you cry",
+                    "Lick the dust from your eye",
+                    "",
+                    "Life's a long song",
+                    "Life's a long song",
+                    "Life's a long song",
+                    "We will meet in the sweet light of dawn",
+                    "",
+                    "As the baker street train spills your pain",
+                    "All over your new dress",
+                    "And the symphony sounds underground",
+                    "Put you under duress",
+                    "Well, don't you squeal as the heel",
+                    "Grinds you under the wheels",
+                    "",
+                    "Life's a long song",
+                    "Life's a long song",
+                    "Life's a long song",
+                    "But the tune ends too soon for us all",
+                    "",
+                    "But the tune ends too soon for us all"
+                ],
+                "url": "https://cdn.shazam.com/lyrics/v1/en-US/GB/iphone/musixmatch/subtitles/313298/196/1?token=6d0298ac1ce0a772d2eccd2b3bf14dc2",
+                "footer": "Writer(s): Ian Anderson\nLyrics powered by www.musixmatch.com",
+                "tabname": "Lyrics",
+                "beacondata": {
+                    "lyricsid": "5871661",
+                    "providername": "musixmatch",
+                    "commontrackid": "313298"
+                }
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/61092590/youtube/video?q=Jethro+Tull+%22Life+Is+a+Long+Song%22"
+            },
+            {
+                "type": "RELATED",
+                "url": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-61092590?startFrom=0&pageSize=20&connected=",
+                "tabname": "Related"
+            }
+        ],
+        "url": "https://www.shazam.com/track/61092590/life-is-a-long-song",
+        "artists": [
+            {
+                "id": "42",
+                "adamid": "44596725"
+            }
+        ],
+        "isrc": "GBAYK7200006",
+        "genres": {
+            "primary": "Pop"
+        },
+        "urlparams": {
+            "{tracktitle}": "Life+Is+a+Long+Song",
+            "{trackartist}": "Jethro+Tull"
+        },
+        "myshazam": {
+            "apple": {
+                "actions": [
+                    {
+                        "name": "myshazam:apple",
+                        "type": "uri",
+                        "uri": "https://music.apple.com/gb/album/life-is-a-long-song/726426747?i=726428108&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                ]
+            }
+        },
+        "highlightsurls": {
+            "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/44596725/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+        },
+        "relatedtracksurl": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-61092590?startFrom=0&pageSize=20&connected=",
+        "albumadamid": "726426747"
+    },
+    "tagid": "137A35E8-403A-4899-A250-18D128BC5BCA"
+}

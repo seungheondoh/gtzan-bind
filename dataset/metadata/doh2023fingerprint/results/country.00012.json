@@ -1,0 +1,274 @@
+{
+    "matches": [
+        {
+            "id": "358404311",
+            "offset": 30.336,
+            "timeskew": -1.31726265e-05,
+            "frequencyskew": -0.00016111135
+        },
+        {
+            "id": "302539314",
+            "offset": 29.950789062,
+            "timeskew": -0.005497873,
+            "frequencyskew": -0.005782604
+        },
+        {
+            "id": "206606657",
+            "offset": 30.165958984,
+            "timeskew": -0.00044035912,
+            "frequencyskew": -8.0525875e-05
+        },
+        {
+            "id": "211693601",
+            "offset": 29.986787109,
+            "timeskew": -0.009234488,
+            "frequencyskew": -0.0087070465
+        },
+        {
+            "id": "279752793",
+            "offset": 31.040037109,
+            "timeskew": 0.00013506413,
+            "frequencyskew": -4.029274e-05
+        },
+        {
+            "id": "45689165",
+            "offset": 30.939818359,
+            "timeskew": -0.009056091,
+            "frequencyskew": -0.00882107
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691633502748,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "48857569",
+        "title": "Music City U.S.A.",
+        "subtitle": "Bobby Bare",
+        "images": {
+            "background": "https://is4-ssl.mzstatic.com/image/thumb/Features124/v4/37/2b/a2/372ba23f-eba7-85ea-6807-f5ff128e4824/pr_source.png/800x800cc.jpg",
+            "coverart": "https://is1-ssl.mzstatic.com/image/thumb/Features/60/08/e0/dj.vqitujkv.jpg/400x400cc.jpg",
+            "coverarthq": "https://is1-ssl.mzstatic.com/image/thumb/Features/60/08/e0/dj.vqitujkv.jpg/400x400cc.jpg",
+            "joecolor": "b:c49e95p:190438s:160044t:3b224aq:391f54"
+        },
+        "share": {
+            "subject": "Music City U.S.A. - Bobby Bare",
+            "text": "Music City U.S.A. by Bobby Bare",
+            "href": "https://www.shazam.com/track/48857569/music-city-u-s-a",
+            "image": "https://is1-ssl.mzstatic.com/image/thumb/Features/60/08/e0/dj.vqitujkv.jpg/400x400cc.jpg",
+            "twitter": "I used @Shazam to discover Music City U.S.A. by Bobby Bare.",
+            "html": "https://www.shazam.com/snippets/email-share/48857569?lang=en-US&country=GB",
+            "avatar": "https://is4-ssl.mzstatic.com/image/thumb/Features124/v4/37/2b/a2/372ba23f-eba7-85ea-6807-f5ff128e4824/pr_source.png/800x800cc.jpg",
+            "snapchat": "https://www.shazam.com/partner/sc/track/48857569"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "actions": [
+                {
+                    "name": "apple",
+                    "type": "applemusicplay",
+                    "id": "110895417"
+                },
+                {
+                    "name": "apple",
+                    "type": "uri",
+                    "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/Music2/v4/04/2c/69/042c6927-e220-f15f-aa9e-804c89ec9a7f/mzaf_4261494840559129667.plus.aac.ep.m4a"
+                }
+            ],
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/gb/album/music-city-u-s-a/110895848?i=110895417&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/gb/album/music-city-u-s-a/110895848?i=110895417&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                },
+                {
+                    "caption": "BUY",
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "uri": "https://itunes.apple.com/gb/album/music-city-u-s-a/110895848?i=110895417&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "buy",
+                        "providername": "itunes"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "type": "buy",
+                    "listcaption": "Buy on iTunes",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "itunes"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:Music%20City%20U.S.A.%20Bobby%20Bare"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27Music+City+U.S.A.%27%20artist%3A%27Bobby+Bare%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": false,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [
+                    {
+                        "image": "https://is4-ssl.mzstatic.com/image/thumb/Features124/v4/37/2b/a2/372ba23f-eba7-85ea-6807-f5ff128e4824/pr_source.png/800x800cc.jpg",
+                        "caption": "Bobby Bare"
+                    },
+                    {
+                        "image": "https://is1-ssl.mzstatic.com/image/thumb/Features/60/08/e0/dj.vqitujkv.jpg/400x400cc.jpg",
+                        "caption": "Music City U.S.A."
+                    }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                    {
+                        "title": "Album",
+                        "text": "Bobby Bare 2"
+                    },
+                    {
+                        "title": "Label",
+                        "text": "Esperanza"
+                    },
+                    {
+                        "title": "Released",
+                        "text": "1972"
+                    }
+                ]
+            },
+            {
+                "type": "LYRICS",
+                "text": [
+                    "It all started in this little town way down in Texas",
+                    "When I first heard old Johnny Cash singing prison blues",
+                    "I picked my guitar like a fool and read them country magazines",
+                    "Keeping up to snuff on the Music City news",
+                    "",
+                    "One Sunday morning found me there on the streets of Nashville",
+                    "Humming out the chorus to my latest melody",
+                    "Well, I whooped into old Tootsie's bar and told them local pickers",
+                    "I'd done come to capture Music City, USA",
+                    "",
+                    "Can't you hear the music ringing? Can't you hear the singers singing?",
+                    "Can't you hear somebody humming on my homemade melody?",
+                    "The lost and found are searching here",
+                    "And some new face from everywhere",
+                    "Has come to capture Music City, USA",
+                    "",
+                    "One Sunday evening found me Lord in a corner booth at Limebaugh's",
+                    "Drinking black coffee and eating chili like Marty Robbins and Earnest Tubb",
+                    "Sat there tuning up my guitar, Lord, I couldn't wait 'til Monday morning",
+                    "Figured if I couldn't make it, well, shoot, nobody could",
+                    "",
+                    "Well, the years have come and gone and I'm still here in Nashville",
+                    "Stumbling up and down 16th and 17th Avenue",
+                    "Bugging everybody here that I can get to stop and listen",
+                    "Trying hard to do all the things I told my mom and dad that I was going to do",
+                    "",
+                    "Can't you hear the music ringing? Can't you hear the singers singing?",
+                    "Can't you hear somebody humming on my homemade melody?",
+                    "The lost and found are searching here",
+                    "And some new face from everywhere",
+                    "Has come to capture Music City, USA"
+                ],
+                "url": "https://cdn.shazam.com/lyrics/v1/en-US/GB/iphone/musixmatch/subtitles/102732775/153/1?token=f862250478ac66406e9a372c3644d2a9",
+                "footer": "Writer(s): Bobby Bare, B.j. Shaver\nLyrics powered by www.musixmatch.com",
+                "tabname": "Lyrics",
+                "beacondata": {
+                    "lyricsid": "25783558",
+                    "providername": "musixmatch",
+                    "commontrackid": "102732775"
+                }
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/48857569/youtube/video?q=Bobby+Bare+%22Music+City+U.S.A.%22"
+            }
+        ],
+        "url": "https://www.shazam.com/track/48857569/music-city-u-s-a",
+        "artists": [
+            {
+                "id": "42",
+                "adamid": "534363"
+            }
+        ],
+        "isrc": "DEE378110430",
+        "genres": {
+            "primary": "Country"
+        },
+        "urlparams": {
+            "{tracktitle}": "Music+City+U.S.A.",
+            "{trackartist}": "Bobby+Bare"
+        },
+        "myshazam": {
+            "apple": {
+                "actions": [
+                    {
+                        "name": "myshazam:apple",
+                        "type": "uri",
+                        "uri": "https://music.apple.com/gb/album/music-city-u-s-a/110895848?i=110895417&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                ]
+            }
+        },
+        "highlightsurls": {
+            "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/534363/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+        },
+        "albumadamid": "110895848"
+    },
+    "tagid": "BCB074CA-B934-421E-82FD-D40785B14021"
+}

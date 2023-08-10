@@ -1,0 +1,336 @@
+{
+    "matches": [
+        {
+            "id": "201190966",
+            "offset": 29.686054687,
+            "timeskew": -0.0018740296,
+            "frequencyskew": -0.0020518303
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691632385457,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "308608",
+        "title": "He's My Man",
+        "subtitle": "The Supremes",
+        "images": {
+            "background": "https://is2-ssl.mzstatic.com/image/thumb/Features115/v4/cb/e2/8d/cbe28d92-6957-ab83-baaa-644cc065957f/mzl.guzrrrks.jpg/800x800cc.jpg",
+            "coverart": "https://is2-ssl.mzstatic.com/image/thumb/Music118/v4/b2/e4/92/b2e492b9-f1aa-eb03-58d7-05eae9b7aa85/00602537524112.rgb.jpg/400x400cc.jpg",
+            "coverarthq": "https://is2-ssl.mzstatic.com/image/thumb/Music118/v4/b2/e4/92/b2e492b9-f1aa-eb03-58d7-05eae9b7aa85/00602537524112.rgb.jpg/400x400cc.jpg",
+            "joecolor": "b:edd5bdp:010101s:26211ct:302c27q:4e453c"
+        },
+        "share": {
+            "subject": "He's My Man - The Supremes",
+            "text": "He's My Man by The Supremes",
+            "href": "https://www.shazam.com/track/308608/hes-my-man",
+            "image": "https://is2-ssl.mzstatic.com/image/thumb/Music118/v4/b2/e4/92/b2e492b9-f1aa-eb03-58d7-05eae9b7aa85/00602537524112.rgb.jpg/400x400cc.jpg",
+            "twitter": "I used @Shazam to discover He's My Man by The Supremes.",
+            "html": "https://www.shazam.com/snippets/email-share/308608?lang=en-US&country=GB",
+            "avatar": "https://is2-ssl.mzstatic.com/image/thumb/Features115/v4/cb/e2/8d/cbe28d92-6957-ab83-baaa-644cc065957f/mzl.guzrrrks.jpg/800x800cc.jpg",
+            "snapchat": "https://www.shazam.com/partner/sc/track/308608"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "actions": [
+                {
+                    "name": "apple",
+                    "type": "applemusicplay",
+                    "id": "1443780259"
+                },
+                {
+                    "name": "apple",
+                    "type": "uri",
+                    "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/66/00/91/660091fd-3ff5-da34-f69f-13640b6d5f98/mzaf_9045494095485253194.plus.aac.ep.m4a"
+                }
+            ],
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/gb/album/hes-my-man/1443780220?i=1443780259&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/gb/album/hes-my-man/1443780220?i=1443780259&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                },
+                {
+                    "caption": "BUY",
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "uri": "https://itunes.apple.com/gb/album/hes-my-man/1443780220?i=1443780259&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "buy",
+                        "providername": "itunes"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "type": "buy",
+                    "listcaption": "Buy on iTunes",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "itunes"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:He%27s%20My%20Man%20The%20Supremes"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27He%5C%27s+My+Man%27%20artist%3A%27The+Supremes%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": false,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [
+                    {
+                        "image": "https://is2-ssl.mzstatic.com/image/thumb/Features115/v4/cb/e2/8d/cbe28d92-6957-ab83-baaa-644cc065957f/mzl.guzrrrks.jpg/800x800cc.jpg",
+                        "caption": "The Supremes"
+                    },
+                    {
+                        "image": "https://is2-ssl.mzstatic.com/image/thumb/Music118/v4/b2/e4/92/b2e492b9-f1aa-eb03-58d7-05eae9b7aa85/00602537524112.rgb.jpg/400x400cc.jpg",
+                        "caption": "He's My Man"
+                    }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                    {
+                        "title": "Album",
+                        "text": "The Supremes"
+                    },
+                    {
+                        "title": "Label",
+                        "text": "UNI/MOTOWN"
+                    },
+                    {
+                        "title": "Released",
+                        "text": "1975"
+                    }
+                ]
+            },
+            {
+                "type": "LYRICS",
+                "text": [
+                    "SCHERRIE:",
+                    "Hey!",
+                    "Yeah--",
+                    "Oo-oo-oo-oo-oo-ooh!",
+                    "",
+                    "ALL:",
+                    "He's my man",
+                    "He's my man",
+                    "He's my man",
+                    "",
+                    "(SCHERRIE: He's my man)",
+                    "",
+                    "ALL:",
+                    "He's my man",
+                    "",
+                    "MARY:",
+                    "As I go through the week",
+                    "Counting all the days",
+                    "Seeing the same old faces",
+                    "Seeing the same old way-ay-ays",
+                    "Now other men mean well",
+                    "But always bring me down--",
+                    "They have nothing new to say",
+                    "They're still hangin' 'round",
+                    "",
+                    "SCHERRIE:",
+                    "And when I need cheering up",
+                    "When I'm feeling kinda low",
+                    "He calls says get dressed",
+                    "And I put on my best",
+                    "Being in his arms brings out all my charms",
+                    "And you can see us glow wherever we may go",
+                    "He's my man!",
+                    "",
+                    "MARY:",
+                    "All I need is that he shine his smile on me",
+                    "When I'm all alone needing company",
+                    "And he's the only man who can make me feel",
+                    "That his love is honest",
+                    "That his love is real",
+                    "",
+                    "SCHERRIE:",
+                    "And when my spirit's sinking down",
+                    "Need a lift off the ground---",
+                    "He calls says get dressed",
+                    "And I put on my best",
+                    "Being in his arms brings out all my charms",
+                    "And you can see us glow wherever we may go",
+                    "He's my man!",
+                    "",
+                    "ALL:",
+                    "He and I belong together",
+                    "He and I will be forever",
+                    "My friends all say he's no good",
+                    "But they'd have him if they could--",
+                    "",
+                    "SCHERRIE:",
+                    "But he's my man! Oo-oo-oo-ooh!",
+                    "",
+                    "ALL:",
+                    "He's my man",
+                    "",
+                    "SCHERRIE:",
+                    "Ah-ahhhhhhhhhhhhhhhh!",
+                    "",
+                    "ALL:",
+                    "He's my man",
+                    "He's my man",
+                    "He's my man",
+                    "He's my man",
+                    "",
+                    "MARY:",
+                    "He is my man",
+                    "",
+                    "ALL:",
+                    "He's my man",
+                    "",
+                    "SCHERRIE:",
+                    "Yes he is now",
+                    "",
+                    "ALL:",
+                    "He calls says get dressed",
+                    "And I put on my best",
+                    "Being in his arms brings out all my charms",
+                    "",
+                    "SCHERRIE:",
+                    "Can't you see it?",
+                    "",
+                    "ALL:",
+                    "And you can see us glow wherever we may go",
+                    "",
+                    "SCHERRIE:",
+                    "He's my man-an-an-an-an-an! Yeah!",
+                    "",
+                    "ALL:",
+                    "He's my man",
+                    "",
+                    "SCHERRIE:",
+                    "Ah-ahhhhhhhhhhhhhhh!",
+                    "",
+                    "ALL:",
+                    "He's my man",
+                    "He's my man",
+                    "He's my man",
+                    "He's my man",
+                    "",
+                    "MARY:",
+                    "He is my man",
+                    "",
+                    "ALL:",
+                    "He's my man",
+                    "He's my man",
+                    "",
+                    "MARY:",
+                    "He calls says get dressed and I put on my best, whoo!",
+                    "",
+                    "ALL:",
+                    "He's my man",
+                    "",
+                    "SCHERRIE:",
+                    "Being in his arms brings out all my charms!",
+                    "",
+                    "ALL:",
+                    "He's my man"
+                ],
+                "footer": "Writer(s): Karin Patterson, Greg Wright\nLyrics powered by www.musixmatch.com",
+                "tabname": "Lyrics",
+                "beacondata": {
+                    "lyricsid": "1072367",
+                    "providername": "musixmatch",
+                    "commontrackid": "3261475"
+                }
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/308608/youtube/video?q=The+Supremes+%22He's+My+Man%22"
+            }
+        ],
+        "url": "https://www.shazam.com/track/308608/hes-my-man",
+        "artists": [
+            {
+                "id": "42",
+                "adamid": "102986"
+            }
+        ],
+        "isrc": "USMO17584686",
+        "genres": {
+            "primary": "R&B/Soul"
+        },
+        "urlparams": {
+            "{tracktitle}": "He%27s+My+Man",
+            "{trackartist}": "The+Supremes"
+        },
+        "myshazam": {
+            "apple": {
+                "actions": [
+                    {
+                        "name": "myshazam:apple",
+                        "type": "uri",
+                        "uri": "https://music.apple.com/gb/album/hes-my-man/1443780220?i=1443780259&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                ]
+            }
+        },
+        "highlightsurls": {
+            "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/102986/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+        },
+        "albumadamid": "1443780220"
+    },
+    "tagid": "CA1EA392-DCF3-433A-AC3D-E94CB4326BE4"
+}

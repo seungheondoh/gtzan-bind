@@ -1,0 +1,326 @@
+{
+    "matches": [
+        {
+            "id": "200213883",
+            "offset": 29.954501952999998,
+            "timeskew": 0.00034928322,
+            "frequencyskew": 0.0003222227
+        },
+        {
+            "id": "284335016",
+            "offset": 30.041472656000003,
+            "timeskew": -2.592802e-05,
+            "frequencyskew": -0.00028187037
+        },
+        {
+            "id": "626947988",
+            "offset": 371.9125625,
+            "timeskew": -0.004071951,
+            "frequencyskew": -0.0054622293
+        },
+        {
+            "id": "225337931",
+            "offset": 30.950654296,
+            "timeskew": 0.00014448166,
+            "frequencyskew": -0.00036239624
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691633256228,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "500888",
+        "title": "Buffalo Soldier",
+        "subtitle": "Bob Marley & The Wailers",
+        "images": {
+            "background": "https://is5-ssl.mzstatic.com/image/thumb/Features125/v4/0e/10/96/0e10963d-8c5d-f176-3651-796ec44d0c97/mzl.kdlmyecx.jpg/800x800cc.jpg",
+            "coverart": "https://is3-ssl.mzstatic.com/image/thumb/Music112/v4/31/70/5c/31705c88-f682-5ebc-225b-30b959c0602b/06UMGIM02205.rgb.jpg/400x400cc.jpg",
+            "coverarthq": "https://is3-ssl.mzstatic.com/image/thumb/Music112/v4/31/70/5c/31705c88-f682-5ebc-225b-30b959c0602b/06UMGIM02205.rgb.jpg/400x400cc.jpg",
+            "joecolor": "b:ffffffp:0f0d0es:372b40t:3f3e3eq:5f5566"
+        },
+        "share": {
+            "subject": "Buffalo Soldier - Bob Marley & The Wailers",
+            "text": "Buffalo Soldier by Bob Marley & The Wailers",
+            "href": "https://www.shazam.com/track/500888/buffalo-soldier",
+            "image": "https://is3-ssl.mzstatic.com/image/thumb/Music112/v4/31/70/5c/31705c88-f682-5ebc-225b-30b959c0602b/06UMGIM02205.rgb.jpg/400x400cc.jpg",
+            "twitter": "I used @Shazam to discover Buffalo Soldier by Bob Marley & The Wailers.",
+            "html": "https://www.shazam.com/snippets/email-share/500888?lang=en-US&country=GB",
+            "avatar": "https://is5-ssl.mzstatic.com/image/thumb/Features125/v4/0e/10/96/0e10963d-8c5d-f176-3651-796ec44d0c97/mzl.kdlmyecx.jpg/800x800cc.jpg",
+            "snapchat": "https://www.shazam.com/partner/sc/track/500888"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "actions": [
+                {
+                    "name": "apple",
+                    "type": "applemusicplay",
+                    "id": "1440861858"
+                },
+                {
+                    "name": "apple",
+                    "type": "uri",
+                    "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/cc/dd/90/ccdd9081-8b94-0cbd-ac6d-1f86f3f04538/mzaf_288475075509053440.plus.aac.ep.m4a"
+                }
+            ],
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/gb/album/buffalo-soldier/1440861469?i=1440861858&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/gb/album/buffalo-soldier/1440861469?i=1440861858&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                },
+                {
+                    "caption": "BUY",
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "uri": "https://itunes.apple.com/gb/album/buffalo-soldier/1440861469?i=1440861858&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "buy",
+                        "providername": "itunes"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "type": "buy",
+                    "listcaption": "Buy on iTunes",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "itunes"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:Buffalo%20Soldier%20Bob%20Marley%20%26%20The%20Wailers"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27Buffalo+Soldier%27%20artist%3A%27Bob+Marley++The+Wailers%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": false,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [
+                    {
+                        "image": "https://is5-ssl.mzstatic.com/image/thumb/Features125/v4/0e/10/96/0e10963d-8c5d-f176-3651-796ec44d0c97/mzl.kdlmyecx.jpg/800x800cc.jpg",
+                        "caption": "Bob Marley & The Wailers"
+                    },
+                    {
+                        "image": "https://is3-ssl.mzstatic.com/image/thumb/Music112/v4/31/70/5c/31705c88-f682-5ebc-225b-30b959c0602b/06UMGIM02205.rgb.jpg/400x400cc.jpg",
+                        "caption": "Buffalo Soldier"
+                    }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                    {
+                        "title": "Album",
+                        "text": "Confrontation (2013 Remaster)"
+                    },
+                    {
+                        "title": "Label",
+                        "text": "Island Records"
+                    },
+                    {
+                        "title": "Released",
+                        "text": "1983"
+                    }
+                ]
+            },
+            {
+                "type": "LYRICS",
+                "text": [
+                    "Buffalo Soldier",
+                    "Dreadlock Rasta",
+                    "It was a Buffalo Soldier",
+                    "In the heart of America",
+                    "",
+                    "Stolen from Africa",
+                    "Brought to America",
+                    "Fighting on arrival",
+                    "Fighting for survival",
+                    "I mean it",
+                    "",
+                    "When I analyze the stench",
+                    "To me it makes a lot of sense",
+                    "How the Dreadlock Rasta",
+                    "Was the Buffalo Soldier",
+                    "",
+                    "And he was taken from Africa",
+                    "Brought to America",
+                    "Fighting on arrival",
+                    "Fighting for survival",
+                    "",
+                    "Said he was a Buffalo Soldier",
+                    "Dreadlock Rasta",
+                    "Buffalo Soldier",
+                    "In the heart of America",
+                    "",
+                    "If you know your history",
+                    "Then you would know where you coming from",
+                    "Then you wouldn't have to ask me",
+                    "Who the heck do I think I am?",
+                    "",
+                    "I'm just a Buffalo Soldier",
+                    "In the heart of America",
+                    "Stolen from Africa",
+                    "Brought to America",
+                    "",
+                    "Said he was fighting on arrival",
+                    "Fighting for survival",
+                    "Said he was a Buffalo Soldier",
+                    "Win the war for America",
+                    "",
+                    "Said he",
+                    "Why yo yo",
+                    "Why yo-yo-yo",
+                    "Why yo yo yo, yo yo-yo yo",
+                    "Why yo yo",
+                    "Why yo-yo-yo",
+                    "Why yo yo yo, yo yo-yo yo",
+                    "",
+                    "Buffalo Soldier",
+                    "Troddin' through the land, wo-ho-ooh",
+                    "Said he would've ran",
+                    "And make you wanna hang",
+                    "Troddin' through the land, yeah yeah",
+                    "",
+                    "Said, he was a Buffalo Soldier",
+                    "Win the war for America",
+                    "Buffalo Soldier",
+                    "Dreadlock Rasta",
+                    "",
+                    "Fighting on arrival",
+                    "Fighting for survival",
+                    "Driven from the mainland",
+                    "To the heart of the Caribbean",
+                    "",
+                    "Singin'",
+                    "Why yo yo",
+                    "Why yo-yo-yo",
+                    "Why yo yo yo, yo yo-yo yo",
+                    "Why yo yo",
+                    "Why yo-yo-yo",
+                    "Why yo yo yo, yo yo-yo yo",
+                    "",
+                    "Troddin' through San Juan",
+                    "In the arms of America",
+                    "Troddin' through Jamaica",
+                    "A Buffalo Soldier",
+                    "",
+                    "Fighting on arrival",
+                    "Fighting for survival",
+                    "Buffalo Soldier",
+                    "Dreadlock Rasta",
+                    "",
+                    "Why yo yo",
+                    "Why yo-yo-yo",
+                    "Why yo yo yo, yo yo-yo yo",
+                    "Why yo yo",
+                    "Why yo-yo-yo",
+                    "Why yo yo yo, yo yo-yo yo"
+                ],
+                "url": "https://cdn.shazam.com/lyrics/v1/en-US/GB/iphone/musixmatch/subtitles/7531569/257/1?token=b5600ebc181b83c268324e9ac52ec60a",
+                "footer": "Writer(s): Noel Williams, Bob Marley\nLyrics powered by www.musixmatch.com",
+                "tabname": "Lyrics",
+                "beacondata": {
+                    "lyricsid": "30407509",
+                    "providername": "musixmatch",
+                    "commontrackid": "7531569"
+                }
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/500888/youtube/video?q=Bob+Marley+%26+The+Wailers+%22Buffalo+Soldier%22"
+            },
+            {
+                "type": "RELATED",
+                "url": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-500888?startFrom=0&pageSize=20&connected=",
+                "tabname": "Related"
+            }
+        ],
+        "url": "https://www.shazam.com/track/500888/buffalo-soldier",
+        "artists": [
+            {
+                "id": "42",
+                "adamid": "3174628"
+            }
+        ],
+        "isrc": "USIR28300004",
+        "genres": {
+            "primary": "Reggae"
+        },
+        "urlparams": {
+            "{tracktitle}": "Buffalo+Soldier",
+            "{trackartist}": "Bob+Marley+%26+The+Wailers"
+        },
+        "myshazam": {
+            "apple": {
+                "actions": [
+                    {
+                        "name": "myshazam:apple",
+                        "type": "uri",
+                        "uri": "https://music.apple.com/gb/album/buffalo-soldier/1440861469?i=1440861858&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                ]
+            }
+        },
+        "highlightsurls": {
+            "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/3174628/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+        },
+        "relatedtracksurl": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-500888?startFrom=0&pageSize=20&connected=",
+        "albumadamid": "1440861469"
+    },
+    "tagid": "62B178C1-0B2F-4B2A-B4B3-19AB7AB43A78"
+}

@@ -1,0 +1,300 @@
+{
+    "matches": [
+        {
+            "id": "279431362",
+            "offset": 7.638694335,
+            "timeskew": -0.0011988878,
+            "frequencyskew": -0.0013798475
+        },
+        {
+            "id": "201546905",
+            "offset": 7.281911621,
+            "timeskew": 0.00026595592,
+            "frequencyskew": 8.058548e-05
+        },
+        {
+            "id": "469458447",
+            "offset": 18.267677734,
+            "timeskew": -0.01470536,
+            "frequencyskew": -0.00068444014
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691632461337,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "10594784",
+        "title": "Lowdown",
+        "subtitle": "Boz Scaggs",
+        "images": {
+            "background": "https://is4-ssl.mzstatic.com/image/thumb/Features125/v4/a2/3d/42/a23d4223-c4c8-412b-7602-98048fd875b3/mzl.ieequwqc.jpg/800x800cc.jpg",
+            "coverart": "https://is2-ssl.mzstatic.com/image/thumb/Music115/v4/63/9e/d3/639ed3b2-a23f-9d19-abb9-a2f5571668c6/mzi.tfcaihbo.jpg/400x400cc.jpg",
+            "coverarthq": "https://is2-ssl.mzstatic.com/image/thumb/Music115/v4/63/9e/d3/639ed3b2-a23f-9d19-abb9-a2f5571668c6/mzi.tfcaihbo.jpg/400x400cc.jpg",
+            "joecolor": "b:030504p:f4f6e5s:40c3dft:c4c5b8q:339db3"
+        },
+        "share": {
+            "subject": "Lowdown - Boz Scaggs",
+            "text": "Lowdown by Boz Scaggs",
+            "href": "https://www.shazam.com/track/10594784/lowdown",
+            "image": "https://is2-ssl.mzstatic.com/image/thumb/Music115/v4/63/9e/d3/639ed3b2-a23f-9d19-abb9-a2f5571668c6/mzi.tfcaihbo.jpg/400x400cc.jpg",
+            "twitter": "I used @Shazam to discover Lowdown by Boz Scaggs.",
+            "html": "https://www.shazam.com/snippets/email-share/10594784?lang=en-US&country=GB",
+            "avatar": "https://is4-ssl.mzstatic.com/image/thumb/Features125/v4/a2/3d/42/a23d4223-c4c8-412b-7602-98048fd875b3/mzl.ieequwqc.jpg/800x800cc.jpg",
+            "snapchat": "https://www.shazam.com/partner/sc/track/10594784"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "actions": [
+                {
+                    "name": "apple",
+                    "type": "applemusicplay",
+                    "id": "216088477"
+                },
+                {
+                    "name": "apple",
+                    "type": "uri",
+                    "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/ad/a8/45/ada84514-3294-5a5d-04fa-64114a96aef6/mzaf_16246747202387590681.plus.aac.ep.m4a"
+                }
+            ],
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/gb/album/lowdown/216088166?i=216088477&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/gb/album/lowdown/216088166?i=216088477&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                },
+                {
+                    "caption": "BUY",
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "uri": "https://itunes.apple.com/gb/album/lowdown/216088166?i=216088477&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "buy",
+                        "providername": "itunes"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "type": "buy",
+                    "listcaption": "Buy on iTunes",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "itunes"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:Lowdown%20Boz%20Scaggs"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27Lowdown%27%20artist%3A%27Boz+Scaggs%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": false,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [
+                    {
+                        "image": "https://is4-ssl.mzstatic.com/image/thumb/Features125/v4/a2/3d/42/a23d4223-c4c8-412b-7602-98048fd875b3/mzl.ieequwqc.jpg/800x800cc.jpg",
+                        "caption": "Boz Scaggs"
+                    },
+                    {
+                        "image": "https://is2-ssl.mzstatic.com/image/thumb/Music115/v4/63/9e/d3/639ed3b2-a23f-9d19-abb9-a2f5571668c6/mzi.tfcaihbo.jpg/400x400cc.jpg",
+                        "caption": "Lowdown"
+                    }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                    {
+                        "title": "Album",
+                        "text": "Silk Degrees (Bonus Track Version)"
+                    },
+                    {
+                        "title": "Label",
+                        "text": "Columbia/Legacy"
+                    },
+                    {
+                        "title": "Released",
+                        "text": "1976"
+                    }
+                ]
+            },
+            {
+                "type": "LYRICS",
+                "text": [
+                    "Baby's into runnin' round",
+                    "Hangin' with the crowd",
+                    "Putting your business in the street",
+                    "Talkin' out loud",
+                    "Sayin' you bought her this and that",
+                    "And how much you done spent",
+                    "I swear she must believe",
+                    "It's all heaven sent",
+                    "Hey boy",
+                    "You better bring the chick around",
+                    "To the sad sad truth",
+                    "The dirty lowdown",
+                    "",
+                    "(Oooh oooh I wonder wonder wonder wonder who)",
+                    "Taught her how to talk like that",
+                    "(Oooh oooh I wonder wonder wonder wonder who)",
+                    "Gave her that big idea",
+                    "",
+                    "Nothin' you can't handle",
+                    "Nothin' you ain't got",
+                    "Put your money on the table",
+                    "And drive it off the lot",
+                    "Turn on that old lovelight",
+                    "And turn a maybe to a yes",
+                    "Same old schoolboy game",
+                    "Got you into this mess",
+                    "Hey son",
+                    "You better get on back to town",
+                    "Face the sad old truth",
+                    "The dirty lowdown",
+                    "",
+                    "(Oooh oooh I wonder wonder wonder wonder who)",
+                    "Put those ideas in your head",
+                    "(Oooh oooh I wonder wonder wonder wonder who)",
+                    "",
+                    "Yeah",
+                    "Come on back down to earth son",
+                    "Dig the low low low low lowdown",
+                    "",
+                    "You ain't got to be so bad",
+                    "Got to be so cold",
+                    "This dog eat dog existence",
+                    "Sure is gettin' old",
+                    "Got to have a Jones for this",
+                    "Jones for that",
+                    "This runnin' with the Jones's boy",
+                    "Just ain't where it's at",
+                    "You gonna come back around",
+                    "To the sad sad truth",
+                    "The dirty lowdown",
+                    "",
+                    "(Oooh oooh I wonder wonder wonder wonder who)",
+                    "Got you thinking like that boy",
+                    "(Oooh oooh I wonder wonder wonder wonder who)",
+                    "",
+                    "I wonder wonder wonder wonder who",
+                    "(Oooh oooh I wonder wonder wonder wonder who)",
+                    "Said I wonder wonder wonder wonder who",
+                    "",
+                    "(Oooh oooh I wonder wonder wonder wonder who)",
+                    "Oh look out for that lowdown, that dirty dirty dirty dirty lowdown",
+                    "(Oooh oooh I wonder wonder wonder wonder who)",
+                    "I wonder wonder wonder wonder who",
+                    "",
+                    "Oooh oooh (Oooh oooh I wonder wonder",
+                    "Wonder who) got you thinking like that",
+                    "Got you with her smile",
+                    "(Oooh oooh I wonder wonder wonder wonder who)",
+                    "Look at that girl."
+                ],
+                "url": "https://cdn.shazam.com/lyrics/v1/en-US/GB/iphone/musixmatch/subtitles/1371530/317/1?token=87ba548bc192ea02af7cfa6469e76847",
+                "footer": "Writer(s): David Paich, William Scaggs\nLyrics powered by www.musixmatch.com",
+                "tabname": "Lyrics",
+                "beacondata": {
+                    "lyricsid": "18132042",
+                    "providername": "musixmatch",
+                    "commontrackid": "1371530"
+                }
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/10594784/youtube/video?q=Boz+Scaggs+%22Lowdown%22"
+            },
+            {
+                "type": "RELATED",
+                "url": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-10594784?startFrom=0&pageSize=20&connected=",
+                "tabname": "Related"
+            }
+        ],
+        "url": "https://www.shazam.com/track/10594784/lowdown",
+        "artists": [
+            {
+                "id": "42",
+                "adamid": "205694"
+            }
+        ],
+        "isrc": "USSM17500295",
+        "genres": {
+            "primary": "Rock"
+        },
+        "urlparams": {
+            "{tracktitle}": "Lowdown",
+            "{trackartist}": "Boz+Scaggs"
+        },
+        "myshazam": {
+            "apple": {
+                "actions": [
+                    {
+                        "name": "myshazam:apple",
+                        "type": "uri",
+                        "uri": "https://music.apple.com/gb/album/lowdown/216088166?i=216088477&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                ]
+            }
+        },
+        "highlightsurls": {
+            "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/205694/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+        },
+        "relatedtracksurl": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-10594784?startFrom=0&pageSize=20&connected=",
+        "albumadamid": "216088166"
+    },
+    "tagid": "65BD68BF-6221-47A3-B8E5-EE9375F4537A"
+}

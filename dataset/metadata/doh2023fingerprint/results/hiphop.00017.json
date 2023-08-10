@@ -1,0 +1,243 @@
+{
+    "matches": [
+        {
+            "id": "210799443",
+            "offset": 38.305988281,
+            "timeskew": -0.00181669,
+            "frequencyskew": -0.0023063421
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691632960135,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "367375",
+        "title": "Jimmy James",
+        "subtitle": "Beastie Boys",
+        "images": {
+            "background": "https://is5-ssl.mzstatic.com/image/thumb/Features115/v4/16/2c/76/162c767d-b00a-5664-1548-df303ae12729/mza_8084110850478364065.png/800x800cc.jpg",
+            "coverart": "https://is1-ssl.mzstatic.com/image/thumb/Music4/v4/d5/97/9f/d5979f9d-9f14-7993-1b22-65b7056ff4d7/05099969936050.jpg/400x400cc.jpg",
+            "coverarthq": "https://is1-ssl.mzstatic.com/image/thumb/Music4/v4/d5/97/9f/d5979f9d-9f14-7993-1b22-65b7056ff4d7/05099969936050.jpg/400x400cc.jpg",
+            "joecolor": "b:000000p:ffffffs:cec7c3t:cbcbcbq:a59f9c"
+        },
+        "share": {
+            "subject": "Jimmy James - Beastie Boys",
+            "text": "Jimmy James by Beastie Boys",
+            "href": "https://www.shazam.com/track/367375/jimmy-james-remastered",
+            "image": "https://is1-ssl.mzstatic.com/image/thumb/Music4/v4/d5/97/9f/d5979f9d-9f14-7993-1b22-65b7056ff4d7/05099969936050.jpg/400x400cc.jpg",
+            "twitter": "I used @Shazam to discover Jimmy James by Beastie Boys.",
+            "html": "https://www.shazam.com/snippets/email-share/367375?lang=en-US&country=GB",
+            "avatar": "https://is5-ssl.mzstatic.com/image/thumb/Features115/v4/16/2c/76/162c767d-b00a-5664-1548-df303ae12729/mza_8084110850478364065.png/800x800cc.jpg",
+            "snapchat": "https://www.shazam.com/partner/sc/track/367375"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "actions": [
+                {
+                    "name": "apple",
+                    "type": "applemusicplay",
+                    "id": "715728194"
+                },
+                {
+                    "name": "apple",
+                    "type": "uri",
+                    "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/ff/09/91/ff09913a-a9eb-637f-a060-a3c31fbe43b2/mzaf_16028356453184773451.plus.aac.ep.m4a"
+                }
+            ],
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/gb/album/jimmy-james/715727996?i=715728194&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/gb/album/jimmy-james/715727996?i=715728194&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                },
+                {
+                    "caption": "BUY",
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "uri": "https://itunes.apple.com/gb/album/jimmy-james/715727996?i=715728194&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "buy",
+                        "providername": "itunes"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "type": "buy",
+                    "listcaption": "Buy on iTunes",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "itunes"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:Jimmy%20James%20Beastie%20Boys"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27Jimmy+James%27%20artist%3A%27Beastie+Boys%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": false,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [
+                    {
+                        "image": "https://is5-ssl.mzstatic.com/image/thumb/Features115/v4/16/2c/76/162c767d-b00a-5664-1548-df303ae12729/mza_8084110850478364065.png/800x800cc.jpg",
+                        "caption": "Beastie Boys"
+                    },
+                    {
+                        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music4/v4/d5/97/9f/d5979f9d-9f14-7993-1b22-65b7056ff4d7/05099969936050.jpg/400x400cc.jpg",
+                        "caption": "Jimmy James"
+                    }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                    {
+                        "title": "Album",
+                        "text": "Check Your Head (Deluxe Version) [Remastered]"
+                    },
+                    {
+                        "title": "Label",
+                        "text": "Capitol Records"
+                    },
+                    {
+                        "title": "Released",
+                        "text": "1992"
+                    }
+                ]
+            },
+            {
+                "type": "LYRICS",
+                "text": [
+                    "This next one is the first song on our new album",
+                    "",
+                    "People how you doin', there's a new day dawnin'",
+                    "For the Earth Mother, it's a brand new mornin'",
+                    "For such a long while, there's been such a longin'",
+                    "But now the sun is shinin', let's roll back the awnin'",
+                    "",
+                    "This is a type of kinda like a formal dedication",
+                    "Givin' out a shout for much inspiration",
+                    "All I ever really want to do is get nice",
+                    "Get loose and goof a little slice of life",
+                    "Sendin' out love to all corners of the land",
+                    "I jump up on the stage and take the mic in my hand",
+                    "I'm not playin' the role, just being who I am",
+                    "And if you try to diss me, I couldn't give a damn",
+                    "'Cause I'm rockin'",
+                    "",
+                    "Bass from the back of my car feels soothin'",
+                    "Eight bazookas is what I'm usin'",
+                    "I'm Mike D, and it's been proven",
+                    "I love it when I see the party people just movin'",
+                    "Strapped on my ear goggles and what did I see?",
+                    "But the music brought the people into harmony"
+                ],
+                "url": "https://cdn.shazam.com/lyrics/v1/en-US/GB/iphone/musixmatch/subtitles/776815/194/1?token=4acf08eb73bcdb6d6732cc055ee12d1c",
+                "footer": "Writer(s): Michael Louis Diamond, Adam Horovitz, Adam Nathaniel Yauch, Edward Chaplin, Mario Caldato Jr.\nLyrics powered by www.musixmatch.com",
+                "tabname": "Lyrics",
+                "beacondata": {
+                    "lyricsid": "28933072",
+                    "providername": "musixmatch",
+                    "commontrackid": "776815"
+                }
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/367375/youtube/video?q=Beastie+Boys+%22Jimmy+James%22"
+            },
+            {
+                "type": "RELATED",
+                "url": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-367375?startFrom=0&pageSize=20&connected=",
+                "tabname": "Related"
+            }
+        ],
+        "url": "https://www.shazam.com/track/367375/jimmy-james-remastered",
+        "artists": [
+            {
+                "id": "42",
+                "adamid": "1971863"
+            }
+        ],
+        "isrc": "USCA20900101",
+        "genres": {
+            "primary": "Hip-Hop/Rap"
+        },
+        "urlparams": {
+            "{tracktitle}": "Jimmy+James",
+            "{trackartist}": "Beastie+Boys"
+        },
+        "myshazam": {
+            "apple": {
+                "actions": [
+                    {
+                        "name": "myshazam:apple",
+                        "type": "uri",
+                        "uri": "https://music.apple.com/gb/album/jimmy-james/715727996?i=715728194&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                ]
+            }
+        },
+        "highlightsurls": {
+            "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/1971863/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios&videoIdToFilter=1506614511",
+            "trackhighlighturl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/highlights/1506614511?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+        },
+        "relatedtracksurl": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-367375?startFrom=0&pageSize=20&connected=",
+        "albumadamid": "715727996"
+    },
+    "tagid": "E20FF5AC-FC5B-4B7C-B923-6178AB0A0D65"
+}

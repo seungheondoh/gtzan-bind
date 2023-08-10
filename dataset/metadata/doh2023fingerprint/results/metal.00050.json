@@ -1,0 +1,265 @@
+{
+    "matches": [
+        {
+            "id": "221651392",
+            "offset": 29.616330078,
+            "timeskew": 0.00016105175,
+            "frequencyskew": -8.0525875e-05
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691633786329,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "423628",
+        "title": "Jukebox Lean",
+        "subtitle": "New Bomb Turks",
+        "images": {
+            "background": "https://is2-ssl.mzstatic.com/image/thumb/Music124/v4/59/44/7d/59447d0c-4032-262d-6507-ee05a48a5f23/0045778647965.png/400x400cc.jpg",
+            "coverart": "https://is2-ssl.mzstatic.com/image/thumb/Music124/v4/59/44/7d/59447d0c-4032-262d-6507-ee05a48a5f23/0045778647965.png/400x400cc.jpg",
+            "coverarthq": "https://is2-ssl.mzstatic.com/image/thumb/Music124/v4/59/44/7d/59447d0c-4032-262d-6507-ee05a48a5f23/0045778647965.png/400x400cc.jpg",
+            "joecolor": "b:0b0404p:c1e81cs:90e23bt:9cbb17q:75b530"
+        },
+        "share": {
+            "subject": "Jukebox Lean - New Bomb Turks",
+            "text": "Jukebox Lean by New Bomb Turks",
+            "href": "https://www.shazam.com/track/423628/jukebox-lean",
+            "image": "https://is2-ssl.mzstatic.com/image/thumb/Music124/v4/59/44/7d/59447d0c-4032-262d-6507-ee05a48a5f23/0045778647965.png/400x400cc.jpg",
+            "twitter": "I used @Shazam to discover Jukebox Lean by New Bomb Turks.",
+            "html": "https://www.shazam.com/snippets/email-share/423628?lang=en-US&country=GB",
+            "snapchat": "https://www.shazam.com/partner/sc/track/423628"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "actions": [
+                {
+                    "name": "apple",
+                    "type": "applemusicplay",
+                    "id": "1485036924"
+                },
+                {
+                    "name": "apple",
+                    "type": "uri",
+                    "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/3c/7a/21/3c7a21d6-f08d-9346-62a2-bb8b0cd19451/mzaf_18309025606481406685.plus.aac.ep.m4a"
+                }
+            ],
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/gb/album/jukebox-lean/1485036479?i=1485036924&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/gb/album/jukebox-lean/1485036479?i=1485036924&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                },
+                {
+                    "caption": "BUY",
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "uri": "https://itunes.apple.com/gb/album/jukebox-lean/1485036479?i=1485036924&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "buy",
+                        "providername": "itunes"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "type": "buy",
+                    "listcaption": "Buy on iTunes",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "itunes"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:Jukebox%20Lean%20New%20Bomb%20Turks"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27Jukebox+Lean%27%20artist%3A%27New+Bomb+Turks%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": false,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [
+                    {
+                        "image": "https://is2-ssl.mzstatic.com/image/thumb/Music124/v4/59/44/7d/59447d0c-4032-262d-6507-ee05a48a5f23/0045778647965.png/400x400cc.jpg",
+                        "caption": "Jukebox Lean"
+                    }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                    {
+                        "title": "Album",
+                        "text": "Scared Straight"
+                    },
+                    {
+                        "title": "Label",
+                        "text": "Epitaph"
+                    },
+                    {
+                        "title": "Released",
+                        "text": "1996"
+                    }
+                ]
+            },
+            {
+                "type": "LYRICS",
+                "text": [
+                    "Got a million songs in your head?",
+                    "Give me a quarter and I'll kill 'em dead",
+                    "'Fore you know the song's sung, the tune's all done",
+                    "Gimme, gimme, gimme another one",
+                    "",
+                    "Pushed the buttons, still standing there",
+                    "I'm jukebox leanin' and I got no cares now",
+                    "",
+                    "Got my favorites, bet you've got yours too",
+                    "\"Tutti Frutti,\" \"Sweet Jane,\" \"I Would Die For You\"",
+                    "I would live for me baby, let's do some dyin' first",
+                    "Lean on the box stare into the blues",
+                    "",
+                    "Pushed the buttons, still standin' there",
+                    "I'm jukebox leanin' and I got no cares now",
+                    "",
+                    "I got the jukebox lean",
+                    "Jukebox lean",
+                    "I got the jukebox lean",
+                    "Jukebox lean",
+                    "",
+                    "I'm whistlin' out the same old tune",
+                    "Whistlin' in the dark is the loudest tune",
+                    "Turn the lights on, make the fakes fess up",
+                    "Look at me, baby, I'm messin' up",
+                    "",
+                    "Pushed the buttons, still standin' there",
+                    "I'm jukebox leanin' and I got no cares now",
+                    "",
+                    "My loyalties may move and shake",
+                    "But my priorities move at 45 revs",
+                    "Needle drops, my mood sprouts from the vinyl seed",
+                    "Burn my records, watch me bleed",
+                    "",
+                    "Pushed the buttons, still standin' there",
+                    "I'm jukebox leanin' and I got no cares now",
+                    "",
+                    "I got the jukebox lean",
+                    "Jukebox lean",
+                    "I got the jukebox lean",
+                    "Jukebox lean",
+                    "",
+                    "I got a handful of change",
+                    "What do I do with it?",
+                    "I got a head full of thoughts",
+                    "What do I do with it?",
+                    "I do it clean, I do it clean",
+                    "I do it clean, I got the jukebox",
+                    "",
+                    "I got the jukebox lean",
+                    "I got the jukebox lean",
+                    "I got the jukebox lean",
+                    "I got that jukebox lean",
+                    "",
+                    "I got the juke, I got the juke",
+                    "I got the jukebox lean, yeah",
+                    "Woo!"
+                ],
+                "url": "https://cdn.shazam.com/lyrics/v1/en-US/GB/iphone/musixmatch/subtitles/219260/156/1?token=2c2b9c8884260e1e44fd298499141521",
+                "footer": "Writer(s): Matthew Reber, Eric Davidson, James Weber, William Randt\nLyrics powered by www.musixmatch.com",
+                "tabname": "Lyrics",
+                "beacondata": {
+                    "lyricsid": "28421488",
+                    "providername": "musixmatch",
+                    "commontrackid": "219260"
+                }
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/423628/youtube/video?q=New+Bomb+Turks+%22Jukebox+Lean%22"
+            }
+        ],
+        "url": "https://www.shazam.com/track/423628/jukebox-lean",
+        "artists": [
+            {
+                "id": "42",
+                "adamid": "259074720"
+            }
+        ],
+        "isrc": "USEP40335105",
+        "genres": {
+            "primary": "Alternative"
+        },
+        "urlparams": {
+            "{tracktitle}": "Jukebox+Lean",
+            "{trackartist}": "New+Bomb+Turks"
+        },
+        "myshazam": {
+            "apple": {
+                "actions": [
+                    {
+                        "name": "myshazam:apple",
+                        "type": "uri",
+                        "uri": "https://music.apple.com/gb/album/jukebox-lean/1485036479?i=1485036924&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                ]
+            }
+        },
+        "highlightsurls": {
+            "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/259074720/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+        },
+        "albumadamid": "1485036479"
+    },
+    "tagid": "2D8DD234-FF83-4197-95C8-DC28D4BEA52F"
+}

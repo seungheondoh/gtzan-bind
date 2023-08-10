@@ -1,0 +1,316 @@
+{
+    "matches": [
+        {
+            "id": "204825454",
+            "offset": 29.923193359000003,
+            "timeskew": -2.8014183e-05,
+            "frequencyskew": -0.000120818615
+        },
+        {
+            "id": "480810581",
+            "offset": 28.459791015,
+            "timeskew": -0.026330352,
+            "frequencyskew": -0.026544213
+        },
+        {
+            "id": "668337217",
+            "offset": 29.82334375,
+            "timeskew": 1.8000603e-05,
+            "frequencyskew": -8.0525875e-05
+        },
+        {
+            "id": "40588498",
+            "offset": 30.108921875,
+            "timeskew": -0.029204309,
+            "frequencyskew": -0.029362857
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691633259473,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "447021",
+        "title": "Living Dangerously (feat. Bounty Killer)",
+        "subtitle": "Barrington Levy & Bounty Killer",
+        "images": {
+            "background": "https://is2-ssl.mzstatic.com/image/thumb/Features125/v4/e3/b2/ff/e3b2ff38-69e2-560b-b0d4-a36f914c1683/mzl.nrozgrar.jpg/800x800cc.jpg",
+            "coverart": "https://is1-ssl.mzstatic.com/image/thumb/Music/9d/57/19/mzi.vgqsomqs.jpg/400x400cc.jpg",
+            "coverarthq": "https://is1-ssl.mzstatic.com/image/thumb/Music/9d/57/19/mzi.vgqsomqs.jpg/400x400cc.jpg",
+            "joecolor": "b:191b1ap:e5e6ebs:ccccd6t:bcbdc1q:a8a8b0"
+        },
+        "share": {
+            "subject": "Living Dangerously (feat. Bounty Killer) - Barrington Levy & Bounty Killer",
+            "text": "Living Dangerously (feat. Bounty Killer) by Barrington Levy & Bounty Killer",
+            "href": "https://www.shazam.com/track/447021/living-dangerously-feat-bounty-killer",
+            "image": "https://is1-ssl.mzstatic.com/image/thumb/Music/9d/57/19/mzi.vgqsomqs.jpg/400x400cc.jpg",
+            "twitter": "I used @Shazam to discover Living Dangerously (feat. Bounty Killer) by Barrington Levy & Bounty Killer.",
+            "html": "https://www.shazam.com/snippets/email-share/447021?lang=en-US&country=GB",
+            "avatar": "https://is2-ssl.mzstatic.com/image/thumb/Features125/v4/e3/b2/ff/e3b2ff38-69e2-560b-b0d4-a36f914c1683/mzl.nrozgrar.jpg/800x800cc.jpg",
+            "snapchat": "https://www.shazam.com/partner/sc/track/447021"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "actions": [
+                {
+                    "name": "apple",
+                    "type": "applemusicplay",
+                    "id": "383432311"
+                },
+                {
+                    "name": "apple",
+                    "type": "uri",
+                    "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/df/d1/14/dfd114d9-9761-acc4-034c-405ee598e23a/mzaf_5137886188800959018.plus.aac.ep.m4a"
+                }
+            ],
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/gb/album/living-dangerously-feat-bounty-killer/383432224?i=383432311&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/gb/album/living-dangerously-feat-bounty-killer/383432224?i=383432311&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                },
+                {
+                    "caption": "BUY",
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "uri": "https://itunes.apple.com/gb/album/living-dangerously-feat-bounty-killer/383432224?i=383432311&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "buy",
+                        "providername": "itunes"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "type": "buy",
+                    "listcaption": "Buy on iTunes",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "itunes"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:Living%20Dangerously%20%28feat.%20Bounty%20Killer%29%20Barrington%20Levy"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27Living+Dangerously+%28feat.+Bounty+Killer%29%27%20artist%3A%27Barrington+Levy++Bounty+Killer%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": false,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [
+                    {
+                        "image": "https://is2-ssl.mzstatic.com/image/thumb/Features125/v4/e3/b2/ff/e3b2ff38-69e2-560b-b0d4-a36f914c1683/mzl.nrozgrar.jpg/800x800cc.jpg",
+                        "caption": "Barrington Levy"
+                    },
+                    {
+                        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music/9d/57/19/mzi.vgqsomqs.jpg/400x400cc.jpg",
+                        "caption": "Living Dangerously (feat. Bounty Killer)"
+                    }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                    {
+                        "title": "Album",
+                        "text": "Barrington Levy's DJ Counteraction (11 Classic Hits Re-Charged)"
+                    },
+                    {
+                        "title": "Label",
+                        "text": "Greensleeves Records"
+                    },
+                    {
+                        "title": "Released",
+                        "text": "1995"
+                    }
+                ]
+            },
+            {
+                "type": "LYRICS",
+                "text": [
+                    "Lawd a mercy",
+                    "Lawd a mercy",
+                    "Lawd a mercy (Oooh who)",
+                    "Man a cerasee (Yeah)",
+                    "Umman yuh livin too dangerous (Uh yay)",
+                    "Too dangerous",
+                    "Too dangerous",
+                    "Umman a live dangerous (Cho!)",
+                    "Oooh woman I heard a little rumor last night",
+                    "(Little rumor last night, rumor last night)",
+                    "Somebody told me you weren't doing me right",
+                    "(She wasn't doin' me right, doin' me right)",
+                    "While I've been turning my back,",
+                    "You've been out playing the field",
+                    "(She jus playing the field, playing the field)",
+                    "Can you look me in the eyes and say to me it's not real",
+                    "(Girl that could not be real, couldn't be real)",
+                    "That's all I wanted to know (Just wanna know, girl)",
+                    "That look is giving you away (Give it away, give it away now - She was a {better} Gal)",
+                    "An I'll never believe in a single word you say (I'll never believe yuh girl)",
+                    "Girl yuh livin too dangerous (Hoy!)",
+                    "Better yuh give it up (Girl)",
+                    "Yuh never stop until yuh pass di maximum line",
+                    "Well now yuh know too much",
+                    "I need a relationship",
+                    "An not a war",
+                    "Imagine fi see yuh woman inna man car",
+                    "Tell me what yuh gonna think of her",
+                    "She an man a drink outta one glass inna bar",
+                    "Make man a rob tings",
+                    "From mi cookie jar",
+                    "Gal open up yuh eyes dem and look far",
+                    "As yuh look up to the moon",
+                    "And the pretty stars",
+                    "Thinking me out like I am in Mars",
+                    "Well that's all I can take (Lawd a mercy)",
+                    "",
+                    "Can't let you outta my sight {Duggama? } sight)",
+                    "An I wouldn't {jump} back in your life",
+                    "For one more night (Not a second, girl)",
+                    "You're living dangerously (Well!)",
+                    "Gal yuh living too dangerous for me",
+                    "You're living dangerously",
+                    "Well if it's me or Barrington Levy (Talk!)",
+                    "Living dangerously",
+                    "Gal yuh living too dangerous for me",
+                    "(Well!)",
+                    "Girl yuh livin too dangerous (Hoy!)",
+                    "Better yuh give it up (Girl)",
+                    "Yuh never stop until yuh pass di maximum line",
+                    "Well now yuh know too much",
+                    "Gal yuh betta look inna yuh life and stop flirt",
+                    "A walk sidewalk when yuh should deh work",
+                    "A wash up yuh plate",
+                    "Or wash a man shirt",
+                    "The bag a friendship",
+                    "Business naw gon work",
+                    "Yuh think it's me or your friends dem",
+                    "It going to hurt",
+                    "When me get upset",
+                    "An mi just {splurt}",
+                    "Yuh a walk pon di road",
+                    "An alla wheel up yuh skirt",
+                    "Dat not gon put one shilling",
+                    "Inna yuh purse",
+                    "Better yuh baptize",
+                    "An gwaan inna church",
+                    "And pray to God",
+                    "An put him first (Girl, hey!)",
+                    "Living dangerously",
+                    "Well gal yuh living too dangerous for me",
+                    "Living dangerously",
+                    "Well if it's me or Barrington Levy (Talk!)",
+                    "Living dangerously",
+                    "Gal yuh living too dangerous for we",
+                    "Dangerously (Lawd a mercy)",
+                    "Naw change your ways (Lawd a mercy, Lawd a mercy)",
+                    "Dangerously (Too dangerous, too dangerous)",
+                    "Naw change your ways"
+                ],
+                "url": "https://cdn.shazam.com/lyrics/v1/en-US/GB/iphone/musixmatch/subtitles/1913875/214/1?token=aa30b22330dbc4144fe14a46cae93f13",
+                "footer": "Writer(s): Winston Sela, Rodney Price, Gary Benson\nLyrics powered by www.musixmatch.com",
+                "tabname": "Lyrics",
+                "beacondata": {
+                    "lyricsid": "6394807",
+                    "providername": "musixmatch",
+                    "commontrackid": "1913875"
+                }
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/447021/youtube/video?q=Barrington+Levy+%26+Bounty+Killer+%22Living+Dangerously+(feat.+Bounty+Killer)%22"
+            },
+            {
+                "type": "RELATED",
+                "url": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-447021?startFrom=0&pageSize=20&connected=",
+                "tabname": "Related"
+            }
+        ],
+        "url": "https://www.shazam.com/track/447021/living-dangerously-feat-bounty-killer",
+        "artists": [
+            {
+                "id": "42",
+                "adamid": "308133"
+            }
+        ],
+        "isrc": "GBBZV9501237",
+        "genres": {
+            "primary": "Reggae"
+        },
+        "urlparams": {
+            "{tracktitle}": "Living+Dangerously+%28feat.+Bounty+Killer%29",
+            "{trackartist}": "Barrington+Levy+%26+Bounty+Killer"
+        },
+        "myshazam": {
+            "apple": {
+                "actions": [
+                    {
+                        "name": "myshazam:apple",
+                        "type": "uri",
+                        "uri": "https://music.apple.com/gb/album/living-dangerously-feat-bounty-killer/383432224?i=383432311&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                ]
+            }
+        },
+        "highlightsurls": {
+            "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/308133/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+        },
+        "relatedtracksurl": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-447021?startFrom=0&pageSize=20&connected=",
+        "albumadamid": "383432224"
+    },
+    "tagid": "C3778028-6AFF-4D67-9FA2-D4AA76B2AA1E"
+}

@@ -1,0 +1,305 @@
+{
+    "matches": [
+        {
+            "id": "209570874",
+            "offset": 25.406246093,
+            "timeskew": 0.004315853,
+            "frequencyskew": 0.00020134449
+        },
+        {
+            "id": "223346657",
+            "offset": -5.714168945,
+            "timeskew": 0.00022387505,
+            "frequencyskew": -8.0525875e-05
+        },
+        {
+            "id": "203633708",
+            "offset": 22.378966796,
+            "timeskew": 0.00035655499,
+            "frequencyskew": -0.00024163723
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691632865970,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "305581",
+        "title": "Three MC's and One DJ",
+        "subtitle": "Beastie Boys",
+        "images": {
+            "background": "https://is5-ssl.mzstatic.com/image/thumb/Features115/v4/16/2c/76/162c767d-b00a-5664-1548-df303ae12729/mza_8084110850478364065.png/800x800cc.jpg",
+            "coverart": "https://is3-ssl.mzstatic.com/image/thumb/Music125/v4/aa/95/31/aa953192-7552-3a1d-d87f-e724717f3947/13UABIM07217.rgb.jpg/400x400cc.jpg",
+            "coverarthq": "https://is3-ssl.mzstatic.com/image/thumb/Music125/v4/aa/95/31/aa953192-7552-3a1d-d87f-e724717f3947/13UABIM07217.rgb.jpg/400x400cc.jpg",
+            "joecolor": "b:000000p:f6e252s:f7e06dt:c5b541q:c6b357"
+        },
+        "share": {
+            "subject": "Three MC's and One DJ - Beastie Boys",
+            "text": "Three MC's and One DJ by Beastie Boys",
+            "href": "https://www.shazam.com/track/305581/three-mcs-and-one-dj",
+            "image": "https://is3-ssl.mzstatic.com/image/thumb/Music125/v4/aa/95/31/aa953192-7552-3a1d-d87f-e724717f3947/13UABIM07217.rgb.jpg/400x400cc.jpg",
+            "twitter": "I used @Shazam to discover Three MC's and One DJ by Beastie Boys.",
+            "html": "https://www.shazam.com/snippets/email-share/305581?lang=en-US&country=GB",
+            "avatar": "https://is5-ssl.mzstatic.com/image/thumb/Features115/v4/16/2c/76/162c767d-b00a-5664-1548-df303ae12729/mza_8084110850478364065.png/800x800cc.jpg",
+            "snapchat": "https://www.shazam.com/partner/sc/track/305581"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "actions": [
+                {
+                    "name": "apple",
+                    "type": "applemusicplay",
+                    "id": "721224465"
+                },
+                {
+                    "name": "apple",
+                    "type": "uri",
+                    "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/25/03/e3/2503e3ba-7764-b483-342b-367b0457ff18/mzaf_17063904931319931759.plus.aac.ep.m4a"
+                }
+            ],
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/gb/album/three-mcs-and-one-dj/721224205?i=721224465&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/gb/album/three-mcs-and-one-dj/721224205?i=721224465&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                },
+                {
+                    "caption": "BUY",
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "uri": "https://itunes.apple.com/gb/album/three-mcs-and-one-dj/721224205?i=721224465&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "buy",
+                        "providername": "itunes"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "type": "buy",
+                    "listcaption": "Buy on iTunes",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "itunes"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:Three%20MC%27s%20and%20One%20DJ%20Beastie%20Boys"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27Three+MC%5C%27s+and+One+DJ%27%20artist%3A%27Beastie+Boys%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": true,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [
+                    {
+                        "image": "https://is5-ssl.mzstatic.com/image/thumb/Features115/v4/16/2c/76/162c767d-b00a-5664-1548-df303ae12729/mza_8084110850478364065.png/800x800cc.jpg",
+                        "caption": "Beastie Boys"
+                    },
+                    {
+                        "image": "https://is3-ssl.mzstatic.com/image/thumb/Music125/v4/aa/95/31/aa953192-7552-3a1d-d87f-e724717f3947/13UABIM07217.rgb.jpg/400x400cc.jpg",
+                        "caption": "Three MC's and One DJ"
+                    }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                    {
+                        "title": "Album",
+                        "text": "Hello Nasty (Deluxe Version) [Remastered]"
+                    },
+                    {
+                        "title": "Label",
+                        "text": "Capitol Records"
+                    },
+                    {
+                        "title": "Released",
+                        "text": "1998"
+                    }
+                ]
+            },
+            {
+                "type": "LYRICS",
+                "text": [
+                    "Hey yo Adam, what's up it's Mix Master Mike",
+                    "Calling from Sacramento, um",
+                    "I've been wanting to hook up with you, uh",
+                    "Maybe on some tracks",
+                    "I got some shit right here if you're in",
+                    "I turned my turntable to a wah wah pedal",
+                    "It's called the tweak scratch",
+                    "",
+                    "'Cause nobody can do it like Mix Master can",
+                    "Come on now",
+                    "",
+                    "I've got the D double O, D double O style",
+                    "Here we go again because it's been a while",
+                    "Do me a favor don't touch that dial",
+                    "I rock from Manhattan to the Miracle Mile",
+                    "",
+                    "My name's Mike D and I'm the ladies choice",
+                    "I want to get next to you like Rolls Royce",
+                    "Y'all gather round to hear my golden voice",
+                    "'Cause when its time to rhyme you know I get noice",
+                    "",
+                    "Cruising like a fan boat on the glade",
+                    "He'll tweak ass your ass across the cross fade",
+                    "So watch your back when he takes the stage",
+                    "Or he'll send you off on a naked rampage",
+                    "",
+                    "3 MC's and one DJ",
+                    "We be getting down with no delay",
+                    "Mix Master Mike what'cha got to say",
+                    "(Bug out to the mic all the time)",
+                    "",
+                    "Sweet and sour like a tangerine",
+                    "Fresh like a box of Krispy Kremes",
+                    "Kenny Rogers' Gambler is my gambling theme",
+                    "Mix Master Mike with the scratch routine",
+                    "",
+                    "Always updated and in the know",
+                    "You know we break it down going toe to toe",
+                    "The bass is booming from down below",
+                    "And Norton is chillin' with Mario",
+                    "",
+                    "Well my name is Ad Rock I'm a Scorpio",
+                    "Don't ask me cause I just don't know",
+                    "I'm known to mop I'm known to glow",
+                    "But don't get mad 'cause I gots to go",
+                    "",
+                    "Three MC's and one DJ",
+                    "We be getting down with no delay",
+                    "Mix Master Mike what'cha got to say",
+                    "(Gotta gotta gotta get down)",
+                    "",
+                    "Mix Master cut faster",
+                    "Mix Master cut, cut, cut faster",
+                    "",
+                    "All top secret and classified",
+                    "I grab a hold of a mic and let the words glide",
+                    "It's all hypnotic and sanctified",
+                    "I never wanna let a bad day slip by",
+                    "",
+                    "We be getting stupid in your area",
+                    "Causin' all kinds of hysteria",
+                    "My beats is sick like malaria",
+                    "But don't worry I'll take care of ya",
+                    "",
+                    "Me and Adam Adam and Mario C",
+                    "In the studio it's the place to be",
+                    "To all the party people who are happy and free",
+                    "With Mix Master Mike we're making history",
+                    "",
+                    "Three MC's and one DJ",
+                    "We be getting down with no delay",
+                    "Mix Master Mike what you got to say",
+                    "(God damn that DJ make my day)"
+                ],
+                "url": "https://cdn.shazam.com/lyrics/v1/en-US/GB/iphone/musixmatch/subtitles/777178/170/1?token=455daa84e2fb394aa609b5aff4b500a5",
+                "footer": "Writer(s): Michael Louis Diamond, Adam Horovitz, Adam Nathaniel Yauch, Wendell T. Fite, Mike Anthony Schwartz\nLyrics powered by www.musixmatch.com",
+                "tabname": "Lyrics",
+                "beacondata": {
+                    "lyricsid": "27660974",
+                    "providername": "musixmatch",
+                    "commontrackid": "777178"
+                }
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/305581/youtube/video?q=Beastie+Boys+%22Three+MC's+and+One+DJ%22"
+            },
+            {
+                "type": "RELATED",
+                "url": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-305581?startFrom=0&pageSize=20&connected=",
+                "tabname": "Related"
+            }
+        ],
+        "url": "https://www.shazam.com/track/305581/three-mcs-and-one-dj",
+        "artists": [
+            {
+                "id": "42",
+                "adamid": "1971863"
+            }
+        ],
+        "isrc": "USCA20903769",
+        "genres": {
+            "primary": "Hip-Hop/Rap"
+        },
+        "urlparams": {
+            "{tracktitle}": "Three+MC%27s+and+One+DJ",
+            "{trackartist}": "Beastie+Boys"
+        },
+        "myshazam": {
+            "apple": {
+                "actions": [
+                    {
+                        "name": "myshazam:apple",
+                        "type": "uri",
+                        "uri": "https://music.apple.com/gb/album/three-mcs-and-one-dj/721224205?i=721224465&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                ]
+            }
+        },
+        "highlightsurls": {
+            "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/1971863/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios&videoIdToFilter=719873150",
+            "trackhighlighturl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/highlights/719873150?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+        },
+        "relatedtracksurl": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-305581?startFrom=0&pageSize=20&connected=",
+        "albumadamid": "721224205"
+    },
+    "tagid": "F2243B81-877F-42F7-BFB2-78DCAEA1F84E"
+}

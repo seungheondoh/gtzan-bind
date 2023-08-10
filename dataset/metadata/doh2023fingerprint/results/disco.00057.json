@@ -1,0 +1,258 @@
+{
+    "matches": [
+        {
+            "id": "222256889",
+            "offset": 29.936232421,
+            "timeskew": -9.0658665e-05,
+            "frequencyskew": -0.000120818615
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691632467373,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "5208782",
+        "title": "Auld Lang Syne",
+        "subtitle": "Boney M.",
+        "images": {
+            "background": "https://is5-ssl.mzstatic.com/image/thumb/Features125/v4/dd/18/a5/dd18a550-3b61-a829-6b34-ba39418a6c5e/mzl.jcjzgacj.jpg/800x800cc.jpg",
+            "coverart": "https://is1-ssl.mzstatic.com/image/thumb/Music/af/0f/09/mzi.aslqhxkd.jpg/400x400cc.jpg",
+            "coverarthq": "https://is1-ssl.mzstatic.com/image/thumb/Music/af/0f/09/mzi.aslqhxkd.jpg/400x400cc.jpg",
+            "joecolor": "b:04030bp:f2f7f1s:e1f1f1t:c2c6c3q:b5c1c3"
+        },
+        "share": {
+            "subject": "Auld Lang Syne - Boney M.",
+            "text": "Auld Lang Syne by Boney M.",
+            "href": "https://www.shazam.com/track/5208782/auld-lang-syne",
+            "image": "https://is1-ssl.mzstatic.com/image/thumb/Music/af/0f/09/mzi.aslqhxkd.jpg/400x400cc.jpg",
+            "twitter": "I used @Shazam to discover Auld Lang Syne by Boney M..",
+            "html": "https://www.shazam.com/snippets/email-share/5208782?lang=en-US&country=GB",
+            "avatar": "https://is5-ssl.mzstatic.com/image/thumb/Features125/v4/dd/18/a5/dd18a550-3b61-a829-6b34-ba39418a6c5e/mzl.jcjzgacj.jpg/800x800cc.jpg",
+            "snapchat": "https://www.shazam.com/partner/sc/track/5208782"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "actions": [
+                {
+                    "name": "apple",
+                    "type": "applemusicplay",
+                    "id": "250738474"
+                },
+                {
+                    "name": "apple",
+                    "type": "uri",
+                    "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/c4/96/44/c496440e-a1a0-dce9-b80b-538e00de6e6a/mzaf_1483357860816443251.plus.aac.ep.m4a"
+                }
+            ],
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/gb/album/auld-lang-syne/250737122?i=250738474&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/gb/album/auld-lang-syne/250737122?i=250738474&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                },
+                {
+                    "caption": "BUY",
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "uri": "https://itunes.apple.com/gb/album/auld-lang-syne/250737122?i=250738474&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "buy",
+                        "providername": "itunes"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "type": "buy",
+                    "listcaption": "Buy on iTunes",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "itunes"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:Auld%20Lang%20Syne%20Boney%20M."
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27Auld+Lang+Syne%27%20artist%3A%27Boney+M.%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": false,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [
+                    {
+                        "image": "https://is5-ssl.mzstatic.com/image/thumb/Features125/v4/dd/18/a5/dd18a550-3b61-a829-6b34-ba39418a6c5e/mzl.jcjzgacj.jpg/800x800cc.jpg",
+                        "caption": "Boney M."
+                    },
+                    {
+                        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music/af/0f/09/mzi.aslqhxkd.jpg/400x400cc.jpg",
+                        "caption": "Auld Lang Syne"
+                    }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                    {
+                        "title": "Album",
+                        "text": "Christmas Party"
+                    },
+                    {
+                        "title": "Label",
+                        "text": "RCA/Hansa"
+                    },
+                    {
+                        "title": "Released",
+                        "text": "1981"
+                    }
+                ]
+            },
+            {
+                "type": "LYRICS",
+                "text": [
+                    "Should auld acquaintance be forgot",
+                    "And never brought to mind?",
+                    "Should auld acquaintance be forgot",
+                    "And days of auld lang syne?",
+                    "",
+                    "For auld lang syne, my dear",
+                    "For auld lang syne",
+                    "We'll take a cup o' kindness yet",
+                    "For auld lang syne",
+                    "",
+                    "We twa hae run aboot the braes",
+                    "And pou'd the gowans fine",
+                    "We've wander'd mony a weary foot",
+                    "Sin' auld lang syne",
+                    "",
+                    "We two hae paidled i' the burn",
+                    "Frae mornin' sun till dine",
+                    "But seas between us braid hae roar'd",
+                    "Sin' auld lang syne",
+                    "",
+                    "And here's a hand, my trusty friend",
+                    "And gie's a hand o' thine",
+                    "We'll take a cup o' kindness yet",
+                    "For auld lang syne",
+                    "",
+                    "Should auld acquaintance be forgot",
+                    "And never brought to mind?",
+                    "Should auld acquaintance be forgot",
+                    "And days of auld lang syne?",
+                    "",
+                    "For auld lang syne, my dear",
+                    "For auld lang syne",
+                    "We'll take a cup o' kindness yet",
+                    "For auld lang syne",
+                    "",
+                    "For auld lang syne, my dear",
+                    "For auld lang syne",
+                    "We'll take a cup o' kindness yet",
+                    "For auld lang syne"
+                ],
+                "url": "https://cdn.shazam.com/lyrics/v1/en-US/GB/iphone/musixmatch/subtitles/863947/154/1?token=caa4d99ac412edd9545099a6e0ceaa56",
+                "footer": "Writer(s): Frank Farian\nLyrics powered by www.musixmatch.com",
+                "tabname": "Lyrics",
+                "beacondata": {
+                    "lyricsid": "20214337",
+                    "providername": "musixmatch",
+                    "commontrackid": "863947"
+                }
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/5208782/youtube/video?q=Boney+M.+%22Auld+Lang+Syne%22"
+            },
+            {
+                "type": "RELATED",
+                "url": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-5208782?startFrom=0&pageSize=20&connected=",
+                "tabname": "Related"
+            }
+        ],
+        "url": "https://www.shazam.com/track/5208782/auld-lang-syne",
+        "artists": [
+            {
+                "id": "42",
+                "adamid": "2357209"
+            }
+        ],
+        "isrc": "DED168100022",
+        "genres": {
+            "primary": "R&B/Soul"
+        },
+        "urlparams": {
+            "{tracktitle}": "Auld+Lang+Syne",
+            "{trackartist}": "Boney+M."
+        },
+        "myshazam": {
+            "apple": {
+                "actions": [
+                    {
+                        "name": "myshazam:apple",
+                        "type": "uri",
+                        "uri": "https://music.apple.com/gb/album/auld-lang-syne/250737122?i=250738474&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                ]
+            }
+        },
+        "highlightsurls": {
+            "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/2357209/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+        },
+        "relatedtracksurl": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-5208782?startFrom=0&pageSize=20&connected=",
+        "albumadamid": "250737122"
+    },
+    "tagid": "E972088A-287E-4FA7-8D21-D2CF76594E81"
+}

@@ -1,0 +1,291 @@
+{
+    "matches": [
+        {
+            "id": "212526967",
+            "offset": 30.045572265,
+            "timeskew": -0.00010752678,
+            "frequencyskew": -8.0525875e-05
+        },
+        {
+            "id": "200445074",
+            "offset": 347.18971875,
+            "timeskew": -0.030082226,
+            "frequencyskew": -8.0525875e-05
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691632873685,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "389040",
+        "title": "Shake Your Rump",
+        "subtitle": "Beastie Boys",
+        "images": {
+            "background": "https://is5-ssl.mzstatic.com/image/thumb/Features115/v4/16/2c/76/162c767d-b00a-5664-1548-df303ae12729/mza_8084110850478364065.png/800x800cc.jpg",
+            "coverart": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/96/2c/8d/962c8d5a-54d3-bd6d-d35c-1db98c10204a/19UMGIM44418.rgb.jpg/400x400cc.jpg",
+            "coverarthq": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/96/2c/8d/962c8d5a-54d3-bd6d-d35c-1db98c10204a/19UMGIM44418.rgb.jpg/400x400cc.jpg",
+            "joecolor": "b:17120fp:ebe2d4s:e2e2dft:c1b9acq:b9b8b6"
+        },
+        "share": {
+            "subject": "Shake Your Rump - Beastie Boys",
+            "text": "Shake Your Rump by Beastie Boys",
+            "href": "https://www.shazam.com/track/389040/shake-your-rump",
+            "image": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/96/2c/8d/962c8d5a-54d3-bd6d-d35c-1db98c10204a/19UMGIM44418.rgb.jpg/400x400cc.jpg",
+            "twitter": "I used @Shazam to discover Shake Your Rump by Beastie Boys.",
+            "html": "https://www.shazam.com/snippets/email-share/389040?lang=en-US&country=GB",
+            "avatar": "https://is5-ssl.mzstatic.com/image/thumb/Features115/v4/16/2c/76/162c767d-b00a-5664-1548-df303ae12729/mza_8084110850478364065.png/800x800cc.jpg",
+            "snapchat": "https://www.shazam.com/partner/sc/track/389040"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "actions": [
+                {
+                    "name": "apple",
+                    "type": "applemusicplay",
+                    "id": "1471582743"
+                },
+                {
+                    "name": "apple",
+                    "type": "uri",
+                    "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/0b/45/93/0b459365-acd3-8f6a-afc2-972ade676ce3/mzaf_9346002557187696741.plus.aac.ep.m4a"
+                }
+            ],
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/gb/album/shake-your-rump/1471582352?i=1471582743&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/gb/album/shake-your-rump/1471582352?i=1471582743&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                },
+                {
+                    "caption": "BUY",
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "uri": "https://itunes.apple.com/gb/album/shake-your-rump/1471582352?i=1471582743&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "buy",
+                        "providername": "itunes"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "type": "buy",
+                    "listcaption": "Buy on iTunes",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "itunes"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:Shake%20Your%20Rump%20Beastie%20Boys"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27Shake+Your+Rump%27%20artist%3A%27Beastie+Boys%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": false,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [
+                    {
+                        "image": "https://is5-ssl.mzstatic.com/image/thumb/Features115/v4/16/2c/76/162c767d-b00a-5664-1548-df303ae12729/mza_8084110850478364065.png/800x800cc.jpg",
+                        "caption": "Beastie Boys"
+                    },
+                    {
+                        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/96/2c/8d/962c8d5a-54d3-bd6d-d35c-1db98c10204a/19UMGIM44418.rgb.jpg/400x400cc.jpg",
+                        "caption": "Shake Your Rump"
+                    }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                    {
+                        "title": "Album",
+                        "text": "Love American Style EP"
+                    },
+                    {
+                        "title": "Label",
+                        "text": "Capitol Records"
+                    },
+                    {
+                        "title": "Released",
+                        "text": "1989"
+                    }
+                ]
+            },
+            {
+                "type": "LYRICS",
+                "text": [
+                    "Now I rock a house party at the drop of a hat",
+                    "I beat a biter down with an aluminum bat",
+                    "A lot of people, they be Jonesin' just to hear me rock the mic",
+                    "They'll be staring at the radio, staying up all night",
+                    "",
+                    "So like a pimp I'm pimpin'",
+                    "I got a boat to eat shrimp in",
+                    "Nothing wrong with my leg just B-boy limpin'",
+                    "Got arrested at the Mardi Gras for jumping on a float",
+                    "My man MCA's got a beard like a billy goat",
+                    "",
+                    "Ooh-ooh, is my disco call",
+                    "MCA, uh-huh, I'm gettin' rope y'all",
+                    "Routines, I bust rhymes, I write",
+                    "And I'll be busting routines and rhymes all night",
+                    "",
+                    "Like eating burgers or chicken, or you'll be picking your nose, man",
+                    "I'm on time homie, that's how it goes",
+                    "You heard my style, I think you missed the point",
+                    "It's the joint",
+                    "",
+                    "Mike D (yeah?) With your bad self running things",
+                    "What's up? With your bad breath onion rings",
+                    "Well, I'm Mike D, and I'm back from the dead",
+                    "Chillin' at the beach, down at Club Med",
+                    "Make another record 'cause the people they want more of this",
+                    "Suckers they be saying they can take out Adam Horovitz",
+                    "",
+                    "Hurricane, you got clout",
+                    "Other DJs, he'll put your head out",
+                    "A puppet on a string, I'm paid to sing or rhyme or do my thing",
+                    "I'm in a lava lamp, inside my brain hotel",
+                    "I might be freakin' or peakin', but I rock well",
+                    "",
+                    "The Patty Duke Show, the wrench and then I bust the tango",
+                    "Got more rhymes than Jamaica got mango",
+                    "I got the peg leg at the end of my stump-a",
+                    "",
+                    "Shake your rump-a",
+                    "",
+                    "A full clout, y'all",
+                    "A full clout, y'all",
+                    "And when the mic is in my mouth, I turn it out, y'all",
+                    "A full clout",
+                    "",
+                    "Never been dumped, 'cause I'm the most mackinest",
+                    "Never been jumped, 'cause I'm known the most packinest",
+                    "Yeah, we've got beef, chief, we're knocking out teeth, chief",
+                    "And if you don't believe us, you should question your belief, chief",
+                    "",
+                    "I'm like Sam the butcher bringing Alice the meat",
+                    "Like Fred Flintstone, driving around with bald feet",
+                    "Should I have another sip? Nah, skip it",
+                    "In the back of the ride and bust with the whippet",
+                    "Rope-a-dope dookies all around the neck",
+                    "Who-ha, got them all in check",
+                    "",
+                    "Running from the law, the press, and the parents",
+                    "(Is your name Michael Diamond?) No, mine's Clarence",
+                    "From downtown, Manhattan, the Village",
+                    "My style is wild, and you know that it still is",
+                    "Disco bag schlepping, and you're doing the bump",
+                    "",
+                    "Shake your rump-a",
+                    "Eh"
+                ],
+                "url": "https://cdn.shazam.com/lyrics/v1/en-US/GB/iphone/musixmatch/subtitles/116216048/197/1?token=7cb4e41106e92eb21b1df2184ea33540",
+                "footer": "Writer(s): Adam Horovitz, Adam Nathaniel Yauch, Matt Dike, Michael S. Simpson, John Robert King, Michael Louis Diamond\nLyrics powered by www.musixmatch.com",
+                "tabname": "Lyrics",
+                "beacondata": {
+                    "lyricsid": "30521463",
+                    "providername": "musixmatch",
+                    "commontrackid": "116216048"
+                }
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/389040/youtube/video?q=Beastie+Boys+%22Shake+Your+Rump%22"
+            },
+            {
+                "type": "RELATED",
+                "url": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-389040?startFrom=0&pageSize=20&connected=",
+                "tabname": "Related"
+            }
+        ],
+        "url": "https://www.shazam.com/track/389040/shake-your-rump",
+        "artists": [
+            {
+                "id": "42",
+                "adamid": "1971863"
+            }
+        ],
+        "isrc": "USCA28900029",
+        "genres": {
+            "primary": "Hip-Hop/Rap"
+        },
+        "urlparams": {
+            "{tracktitle}": "Shake+Your+Rump",
+            "{trackartist}": "Beastie+Boys"
+        },
+        "myshazam": {
+            "apple": {
+                "actions": [
+                    {
+                        "name": "myshazam:apple",
+                        "type": "uri",
+                        "uri": "https://music.apple.com/gb/album/shake-your-rump/1471582352?i=1471582743&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                ]
+            }
+        },
+        "highlightsurls": {
+            "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/1971863/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios&videoIdToFilter=719614163",
+            "trackhighlighturl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/highlights/719614163?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+        },
+        "relatedtracksurl": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-389040?startFrom=0&pageSize=20&connected=",
+        "albumadamid": "1471582352"
+    },
+    "tagid": "50988F7B-2C66-460E-85FB-C96636FF8997"
+}

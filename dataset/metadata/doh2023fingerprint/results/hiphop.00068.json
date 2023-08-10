@@ -1,0 +1,318 @@
+{
+    "matches": [
+        {
+            "id": "236984298",
+            "offset": 150.379421875,
+            "timeskew": -6.389618e-05,
+            "frequencyskew": -0.00016111135
+        },
+        {
+            "id": "466373391",
+            "offset": 108.35547656199999,
+            "timeskew": -0.009606481,
+            "frequencyskew": -0.0022929907
+        },
+        {
+            "id": "311527775",
+            "offset": 169.7583125,
+            "timeskew": 0.0006760359,
+            "frequencyskew": 0.00044310093
+        },
+        {
+            "id": "204697716",
+            "offset": 134.4364375,
+            "timeskew": 0.020894527,
+            "frequencyskew": 4.029274e-05
+        },
+        {
+            "id": "409227825",
+            "offset": 131.09621875,
+            "timeskew": -0.012133837,
+            "frequencyskew": -0.012168586
+        },
+        {
+            "id": "407418792",
+            "offset": 134.0279375,
+            "timeskew": 0.0014448166,
+            "frequencyskew": 0.0008058548
+        },
+        {
+            "id": "408090183",
+            "offset": 136.920546875,
+            "timeskew": 0.00052690506,
+            "frequencyskew": 0.00076544285
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691632953853,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "46683252",
+        "title": "Can I Kick It?",
+        "subtitle": "A Tribe Called Quest",
+        "images": {
+            "background": "https://is2-ssl.mzstatic.com/image/thumb/Features115/v4/a0/ad/bc/a0adbc34-694d-11c0-7bde-530856def3e0/mzl.mdbitjdo.jpg/800x800cc.jpg",
+            "coverart": "https://is5-ssl.mzstatic.com/image/thumb/Music6/v4/f5/94/7a/f5947a20-9155-1556-291a-41f8fbc819a0/886445474657.jpg/400x400cc.jpg",
+            "coverarthq": "https://is5-ssl.mzstatic.com/image/thumb/Music6/v4/f5/94/7a/f5947a20-9155-1556-291a-41f8fbc819a0/886445474657.jpg/400x400cc.jpg",
+            "joecolor": "b:a7a7a7p:0a0a0as:1f1f1ft:2a2a2aq:3a3a3a"
+        },
+        "share": {
+            "subject": "Can I Kick It? - A Tribe Called Quest",
+            "text": "Can I Kick It? by A Tribe Called Quest",
+            "href": "https://www.shazam.com/track/46683252/can-i-kick-it",
+            "image": "https://is5-ssl.mzstatic.com/image/thumb/Music6/v4/f5/94/7a/f5947a20-9155-1556-291a-41f8fbc819a0/886445474657.jpg/400x400cc.jpg",
+            "twitter": "I used @Shazam to discover Can I Kick It? by A Tribe Called Quest.",
+            "html": "https://www.shazam.com/snippets/email-share/46683252?lang=en-US&country=GB",
+            "avatar": "https://is2-ssl.mzstatic.com/image/thumb/Features115/v4/a0/ad/bc/a0adbc34-694d-11c0-7bde-530856def3e0/mzl.mdbitjdo.jpg/800x800cc.jpg",
+            "snapchat": "https://www.shazam.com/partner/sc/track/46683252"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "actions": [
+                {
+                    "name": "apple",
+                    "type": "applemusicplay",
+                    "id": "1046922428"
+                },
+                {
+                    "name": "apple",
+                    "type": "uri",
+                    "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/a8/f1/df/a8f1dffd-e4c3-02fd-b207-98aa9367e146/mzaf_3116318091171697731.plus.aac.ep.m4a"
+                }
+            ],
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/gb/album/can-i-kick-it/1046921573?i=1046922428&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/gb/album/can-i-kick-it/1046921573?i=1046922428&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                },
+                {
+                    "caption": "BUY",
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "uri": "https://itunes.apple.com/gb/album/can-i-kick-it/1046921573?i=1046922428&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "buy",
+                        "providername": "itunes"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "type": "buy",
+                    "listcaption": "Buy on iTunes",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "itunes"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:Can%20I%20Kick%20It%3F%20A%20Tribe%20Called%20Quest"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27Can+I+Kick+It%3F%27%20artist%3A%27A+Tribe+Called+Quest%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": false,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [
+                    {
+                        "image": "https://is2-ssl.mzstatic.com/image/thumb/Features115/v4/a0/ad/bc/a0adbc34-694d-11c0-7bde-530856def3e0/mzl.mdbitjdo.jpg/800x800cc.jpg",
+                        "caption": "A Tribe Called Quest"
+                    },
+                    {
+                        "image": "https://is5-ssl.mzstatic.com/image/thumb/Music6/v4/f5/94/7a/f5947a20-9155-1556-291a-41f8fbc819a0/886445474657.jpg/400x400cc.jpg",
+                        "caption": "Can I Kick It?"
+                    }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                    {
+                        "title": "Album",
+                        "text": "People's Instinctive Travels and the Paths of Rhythm (25th Anniversary Edition)"
+                    },
+                    {
+                        "title": "Label",
+                        "text": "Jive/Legacy"
+                    },
+                    {
+                        "title": "Released",
+                        "text": "1990"
+                    }
+                ]
+            },
+            {
+                "type": "LYRICS",
+                "text": [
+                    "Can I kick it? (Yes, you can!)",
+                    "Can I kick it? (Yes, you can!)",
+                    "Can I kick it? (Yes, you can!)",
+                    "Can I kick it? (Yes, you can!)",
+                    "Can I kick it? (Yes, you can!)",
+                    "Can I kick it? (Yes, you can!)",
+                    "Can I kick it? (Yes, you can!)",
+                    "Well, I'm gone (go on then!)",
+                    "",
+                    "Can I kick it?",
+                    "To all the people who can Quest like A Tribe does",
+                    "Before this, did you really know what live was?",
+                    "Comprehend to the track, for it's why 'cause",
+                    "Getting measures on the tip of the vibers",
+                    "Rock and roll to the beat of the funk fuzz",
+                    "Wipe your feet really good on the rhythm rug",
+                    "If you feel the urge to freak, do the jitterbug",
+                    "",
+                    "Come and spread your arms if you really need a hug",
+                    "Afrocentric living is a big shrug",
+                    "A life filled with fun, that's what I love",
+                    "A lower plateau is what we're above",
+                    "If you diss us, we won't even think of",
+                    "Will Nipper the doggy give a big shove?",
+                    "This rhythm really fits like a snug glove",
+                    "Like a box of positives is a plus, love",
+                    "As the Tribe flies high like a dove",
+                    "",
+                    "Can I kick it?",
+                    "",
+                    "Can I kick it?",
+                    "",
+                    "Can I kick it? (Yes, you can!)",
+                    "Can I kick it? (Yes, you can!)",
+                    "Can I kick it? (Yes, you can!)",
+                    "Can I kick it? (Yes, you can!)",
+                    "Can I kick it? (Yes, you can!)",
+                    "Can I kick it? (Yes, you can!)",
+                    "Can I kick it? (Yes, you can!)",
+                    "Well, I'm gone (go on then!)",
+                    "",
+                    "Can I kick it? To my tribe that flows in layers",
+                    "Right now, Phife is a poem sayer",
+                    "At times, I'm a studio conveyor",
+                    "Mr. Dinkins, would you please be my mayor?",
+                    "You'll be doing us a really big favor",
+                    "Boy this track really has a lot of flavor",
+                    "When it comes to rhythms Quest is your savior",
+                    "Follow us for the funky behavior",
+                    "",
+                    "Make a note on the rhythm we gave ya",
+                    "Feel free, drop your pants, check your hair",
+                    "Do you like the garments that we wear?",
+                    "I instruct you to be the obeyer",
+                    "A rhythm recipe that you'll savor",
+                    "Doesn't matter if you're minor or major",
+                    "Yes, the tribe of the game, rhythm player",
+                    "As you inhale like a breath of fresh air",
+                    "",
+                    "(Can I kick it?)",
+                    "",
+                    "(Can I kick it?)"
+                ],
+                "url": "https://cdn.shazam.com/lyrics/v1/en-US/GB/iphone/musixmatch/subtitles/2631666/265/1?token=6e3443f07c2bb5007924d42427a880e4",
+                "footer": "Writer(s): Lou Reed\nLyrics powered by www.musixmatch.com",
+                "tabname": "Lyrics",
+                "beacondata": {
+                    "lyricsid": "30347013",
+                    "providername": "musixmatch",
+                    "commontrackid": "2631666"
+                }
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/46683252/youtube/video?q=A+Tribe+Called+Quest+%22Can+I+Kick+It?%22"
+            },
+            {
+                "type": "RELATED",
+                "url": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-46683252?startFrom=0&pageSize=20&connected=",
+                "tabname": "Related"
+            }
+        ],
+        "url": "https://www.shazam.com/track/46683252/can-i-kick-it",
+        "artists": [
+            {
+                "id": "42",
+                "adamid": "1587965"
+            }
+        ],
+        "isrc": "USJI10300400",
+        "genres": {
+            "primary": "Hip-Hop/Rap"
+        },
+        "urlparams": {
+            "{tracktitle}": "Can+I+Kick+It%3F",
+            "{trackartist}": "A+Tribe+Called+Quest"
+        },
+        "myshazam": {
+            "apple": {
+                "actions": [
+                    {
+                        "name": "myshazam:apple",
+                        "type": "uri",
+                        "uri": "https://music.apple.com/gb/album/can-i-kick-it/1046921573?i=1046922428&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                ]
+            }
+        },
+        "highlightsurls": {
+            "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/1587965/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios&videoIdToFilter=1366597840",
+            "trackhighlighturl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/highlights/1366597840?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+        },
+        "relatedtracksurl": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-46683252?startFrom=0&pageSize=20&connected=",
+        "albumadamid": "1046921573"
+    },
+    "tagid": "0A10443B-BBE9-4897-BC27-77A2104C422D"
+}

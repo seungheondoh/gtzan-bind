@@ -1,0 +1,261 @@
+{
+    "matches": [
+        {
+            "id": "303373350",
+            "offset": 30.150693359,
+            "timeskew": -0.0036783218,
+            "frequencyskew": -0.0036581755
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691633265710,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "48772026",
+        "title": "The Harder They Come",
+        "subtitle": "Jimmy Cliff",
+        "images": {
+            "background": "https://is1-ssl.mzstatic.com/image/thumb/Features125/v4/5d/e0/a4/5de0a45f-411b-dd96-09cb-e1ed2cfcb3bd/mzl.koceekdm.jpg/800x800cc.jpg",
+            "coverart": "https://is5-ssl.mzstatic.com/image/thumb/Music124/v4/ee/fe/57/eefe5722-cca2-ba78-c3c0-fca085c55651/20UMGIM71814.rgb.jpg/400x400cc.jpg",
+            "coverarthq": "https://is5-ssl.mzstatic.com/image/thumb/Music124/v4/ee/fe/57/eefe5722-cca2-ba78-c3c0-fca085c55651/20UMGIM71814.rgb.jpg/400x400cc.jpg",
+            "joecolor": "b:ffffffp:18050bs:64030et:46373cq:83353e"
+        },
+        "share": {
+            "subject": "The Harder They Come - Jimmy Cliff",
+            "text": "The Harder They Come by Jimmy Cliff",
+            "href": "https://www.shazam.com/track/48772026/the-harder-they-come",
+            "image": "https://is5-ssl.mzstatic.com/image/thumb/Music124/v4/ee/fe/57/eefe5722-cca2-ba78-c3c0-fca085c55651/20UMGIM71814.rgb.jpg/400x400cc.jpg",
+            "twitter": "I used @Shazam to discover The Harder They Come by Jimmy Cliff.",
+            "html": "https://www.shazam.com/snippets/email-share/48772026?lang=en-US&country=GB",
+            "avatar": "https://is1-ssl.mzstatic.com/image/thumb/Features125/v4/5d/e0/a4/5de0a45f-411b-dd96-09cb-e1ed2cfcb3bd/mzl.koceekdm.jpg/800x800cc.jpg",
+            "snapchat": "https://www.shazam.com/partner/sc/track/48772026"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "actions": [
+                {
+                    "name": "apple",
+                    "type": "applemusicplay",
+                    "id": "1535475648"
+                },
+                {
+                    "name": "apple",
+                    "type": "uri",
+                    "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/f7/8e/64/f78e6450-2fd9-9bbe-6a4a-0d395badeb61/mzaf_11250301886801317208.plus.aac.ep.m4a"
+                }
+            ],
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/gb/album/the-harder-they-come/1535475638?i=1535475648&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/gb/album/the-harder-they-come/1535475638?i=1535475648&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                },
+                {
+                    "caption": "BUY",
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "uri": "https://itunes.apple.com/gb/album/the-harder-they-come/1535475638?i=1535475648&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "buy",
+                        "providername": "itunes"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "type": "buy",
+                    "listcaption": "Buy on iTunes",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "itunes"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:The%20Harder%20They%20Come%20Jimmy%20Cliff"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27The+Harder+They+Come%27%20artist%3A%27Jimmy+Cliff%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": false,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [
+                    {
+                        "image": "https://is1-ssl.mzstatic.com/image/thumb/Features125/v4/5d/e0/a4/5de0a45f-411b-dd96-09cb-e1ed2cfcb3bd/mzl.koceekdm.jpg/800x800cc.jpg",
+                        "caption": "Jimmy Cliff"
+                    },
+                    {
+                        "image": "https://is5-ssl.mzstatic.com/image/thumb/Music124/v4/ee/fe/57/eefe5722-cca2-ba78-c3c0-fca085c55651/20UMGIM71814.rgb.jpg/400x400cc.jpg",
+                        "caption": "The Harder They Come"
+                    }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                    {
+                        "title": "Album",
+                        "text": "The Harder They Come (Original Motion Picture Soundtrack)"
+                    },
+                    {
+                        "title": "Label",
+                        "text": "UMC (Universal Music Catalogue)"
+                    },
+                    {
+                        "title": "Released",
+                        "text": "1972"
+                    }
+                ]
+            },
+            {
+                "type": "LYRICS",
+                "text": [
+                    "Well, they tell me of a pie up in the sky",
+                    "Waiting for me when I die",
+                    "But between the day you're born and when you die",
+                    "They never seem to hear even your cry",
+                    "",
+                    "So as sure as the sun will shine",
+                    "I'm gonna get my share now, what's mine",
+                    "And then the harder they come",
+                    "The harder they fall, one and all",
+                    "Ooh, the harder they come",
+                    "The harder they fall, one and all",
+                    "",
+                    "Well, the oppressors are trying to keep me down",
+                    "Trying to drive me underground",
+                    "And they think that they have got the battle won",
+                    "I say forgive them Lord, they know not what they've done",
+                    "",
+                    "'Cause, as sure as the sun will shine",
+                    "I'm gonna get my share now, what's mine",
+                    "And then the harder they come",
+                    "The harder they fall, one and all",
+                    "Ooh, the harder they come",
+                    "Harder they fall, one and all",
+                    "",
+                    "And I keep on fighting for the things I want",
+                    "Though I know that when you're dead you can't",
+                    "But I'd rather be a free man in my grave",
+                    "Than living as a puppet or a slave",
+                    "",
+                    "So as sure as the sun will shine",
+                    "I'm gonna get my share now, what's mine",
+                    "And then the harder they come",
+                    "The harder they fall, one and all",
+                    "Ooh, the harder they come",
+                    "Harder they fall, one and all",
+                    "",
+                    "Hey, the harder they come",
+                    "The harder they fall, one and all",
+                    "Hey, the harder they come",
+                    "The harder they fall, one and all",
+                    "Hey, the harder they come",
+                    "The harder they fall, one and all"
+                ],
+                "url": "https://cdn.shazam.com/lyrics/v1/en-US/GB/iphone/musixmatch/subtitles/235491/219/1?token=463138dcb1c7950487b1765f7a6a37f4",
+                "footer": "Writer(s): Jimmy Cliff\nLyrics powered by www.musixmatch.com",
+                "tabname": "Lyrics",
+                "beacondata": {
+                    "lyricsid": "30527806",
+                    "providername": "musixmatch",
+                    "commontrackid": "235491"
+                }
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/48772026/youtube/video?q=Jimmy+Cliff+%22The+Harder+They+Come%22"
+            },
+            {
+                "type": "RELATED",
+                "url": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-48772026?startFrom=0&pageSize=20&connected=",
+                "tabname": "Related"
+            }
+        ],
+        "url": "https://www.shazam.com/track/48772026/the-harder-they-come",
+        "artists": [
+            {
+                "id": "42",
+                "adamid": "30804"
+            }
+        ],
+        "isrc": "GBAAN7200011",
+        "genres": {
+            "primary": "Reggae"
+        },
+        "urlparams": {
+            "{tracktitle}": "The+Harder+They+Come",
+            "{trackartist}": "Jimmy+Cliff"
+        },
+        "myshazam": {
+            "apple": {
+                "actions": [
+                    {
+                        "name": "myshazam:apple",
+                        "type": "uri",
+                        "uri": "https://music.apple.com/gb/album/the-harder-they-come/1535475638?i=1535475648&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                ]
+            }
+        },
+        "highlightsurls": {
+            "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/30804/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+        },
+        "relatedtracksurl": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-48772026?startFrom=0&pageSize=20&connected=",
+        "albumadamid": "1535475638"
+    },
+    "tagid": "76CE77A3-B8AE-44AD-8C87-8390EE28E583"
+}

@@ -1,0 +1,231 @@
+{
+    "matches": [
+        {
+            "id": "210389365",
+            "offset": 28.747226562,
+            "timeskew": -0.009993553,
+            "frequencyskew": -0.010336816
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691633467585,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "598973",
+        "title": "I Can't Stop Loving You",
+        "subtitle": "Johnny Tillotson",
+        "images": {
+            "background": "https://is3-ssl.mzstatic.com/image/thumb/AMCArtistImages116/v4/f5/5e/9d/f55e9daf-45e8-ab21-1566-a2831eda7a12/f6a04176-df20-4e17-b00c-6d279df264b7_ami-identity-9673a408263c59896cb1ebaec9f3d691-2023-05-03T20-32-14.845Z_cropped.png/800x800cc.jpg",
+            "coverart": "https://is2-ssl.mzstatic.com/image/thumb/Music6/v4/5f/86/2d/5f862d60-95a6-d4c2-c54c-81f75aa1a0a6/cover.jpg/400x400cc.jpg",
+            "coverarthq": "https://is2-ssl.mzstatic.com/image/thumb/Music6/v4/5f/86/2d/5f862d60-95a6-d4c2-c54c-81f75aa1a0a6/cover.jpg/400x400cc.jpg",
+            "joecolor": "b:f9eed8p:1f2125s:5c1f1ft:4b4a49q:7b4844"
+        },
+        "share": {
+            "subject": "I Can't Stop Loving You - Johnny Tillotson",
+            "text": "I Can't Stop Loving You by Johnny Tillotson",
+            "href": "https://www.shazam.com/track/598973/i-cant-stop-loving-you",
+            "image": "https://is2-ssl.mzstatic.com/image/thumb/Music6/v4/5f/86/2d/5f862d60-95a6-d4c2-c54c-81f75aa1a0a6/cover.jpg/400x400cc.jpg",
+            "twitter": "I used @Shazam to discover I Can't Stop Loving You by Johnny Tillotson.",
+            "html": "https://www.shazam.com/snippets/email-share/598973?lang=en-US&country=GB",
+            "avatar": "https://is3-ssl.mzstatic.com/image/thumb/AMCArtistImages116/v4/f5/5e/9d/f55e9daf-45e8-ab21-1566-a2831eda7a12/f6a04176-df20-4e17-b00c-6d279df264b7_ami-identity-9673a408263c59896cb1ebaec9f3d691-2023-05-03T20-32-14.845Z_cropped.png/800x800cc.jpg",
+            "snapchat": "https://www.shazam.com/partner/sc/track/598973"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "actions": [
+                {
+                    "name": "apple",
+                    "type": "applemusicplay",
+                    "id": "848358382"
+                },
+                {
+                    "name": "apple",
+                    "type": "uri",
+                    "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/d0/a2/e8/d0a2e83d-8341-ad6b-962f-d73f12298147/mzaf_6850205887420955728.plus.aac.ep.m4a"
+                }
+            ],
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/gb/album/i-cant-stop-loving-you/848358311?i=848358382&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/gb/album/i-cant-stop-loving-you/848358311?i=848358382&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                },
+                {
+                    "caption": "BUY",
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "uri": "https://itunes.apple.com/gb/album/i-cant-stop-loving-you/848358311?i=848358382&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "buy",
+                        "providername": "itunes"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "type": "buy",
+                    "listcaption": "Buy on iTunes",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "itunes"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:I%20Can%27t%20Stop%20Loving%20You%20Johnny%20Tillotson"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27I+Can%5C%27t+Stop+Loving+You%27%20artist%3A%27Johnny+Tillotson%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": false,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [
+                    {
+                        "image": "https://is3-ssl.mzstatic.com/image/thumb/AMCArtistImages116/v4/f5/5e/9d/f55e9daf-45e8-ab21-1566-a2831eda7a12/f6a04176-df20-4e17-b00c-6d279df264b7_ami-identity-9673a408263c59896cb1ebaec9f3d691-2023-05-03T20-32-14.845Z_cropped.png/800x800cc.jpg",
+                        "caption": "Johnny Tillotson"
+                    },
+                    {
+                        "image": "https://is2-ssl.mzstatic.com/image/thumb/Music6/v4/5f/86/2d/5f862d60-95a6-d4c2-c54c-81f75aa1a0a6/cover.jpg/400x400cc.jpg",
+                        "caption": "I Can't Stop Loving You"
+                    }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                    {
+                        "title": "Album",
+                        "text": "Talk Back Trembling Lips"
+                    },
+                    {
+                        "title": "Label",
+                        "text": "Rarity Music"
+                    },
+                    {
+                        "title": "Released",
+                        "text": "1963"
+                    }
+                ]
+            },
+            {
+                "type": "LYRICS",
+                "text": [
+                    "I can't stop loving you",
+                    "I've made up my mind",
+                    "To live in memory of the lonesome times",
+                    "I can't stop wanting you",
+                    "It's useless to say",
+                    "So I'll just live my life in dreams of yesterday",
+                    "",
+                    "Those happy hours that we once knew",
+                    "Tho' long ago, they still make me blue",
+                    "They say that time heals a broken heart",
+                    "But time has stood still since we've been apart",
+                    "",
+                    "I can't stop loving you",
+                    "So I've made up my mind",
+                    "To live in memories of the lonesome times",
+                    "I can't stop wanting you",
+                    "It's useless to say",
+                    "So I'll just live my life in dreams of yesterday"
+                ],
+                "url": "https://cdn.shazam.com/lyrics/v1/en-US/GB/iphone/musixmatch/subtitles/1690683/162/1?token=50ae83c43c03251ca654370098420e18",
+                "footer": "Writer(s): Don Gibson\nLyrics powered by www.musixmatch.com",
+                "tabname": "Lyrics",
+                "beacondata": {
+                    "lyricsid": "16141185",
+                    "providername": "musixmatch",
+                    "commontrackid": "1690683"
+                }
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/598973/youtube/video?q=Johnny+Tillotson+%22I+Can't+Stop+Loving+You%22"
+            }
+        ],
+        "url": "https://www.shazam.com/track/598973/i-cant-stop-loving-you",
+        "artists": [
+            {
+                "id": "42",
+                "adamid": "179707"
+            }
+        ],
+        "isrc": "FR6V82368124",
+        "genres": {
+            "primary": "Easy Listening"
+        },
+        "urlparams": {
+            "{tracktitle}": "I+Can%27t+Stop+Loving+You",
+            "{trackartist}": "Johnny+Tillotson"
+        },
+        "myshazam": {
+            "apple": {
+                "actions": [
+                    {
+                        "name": "myshazam:apple",
+                        "type": "uri",
+                        "uri": "https://music.apple.com/gb/album/i-cant-stop-loving-you/848358311?i=848358382&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                ]
+            }
+        },
+        "highlightsurls": {
+            "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/179707/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+        },
+        "albumadamid": "848358311"
+    },
+    "tagid": "0B67A66A-416B-492E-B8C3-94DF29467BE3"
+}

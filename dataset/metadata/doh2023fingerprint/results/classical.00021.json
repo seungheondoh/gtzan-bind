@@ -1,0 +1,206 @@
+{
+    "matches": [
+        {
+            "id": "215061573",
+            "offset": 30.198615234000002,
+            "timeskew": -3.5107136e-05,
+            "frequencyskew": -4.029274e-05
+        },
+        {
+            "id": "201259851",
+            "offset": 30.230011718,
+            "timeskew": 0.0001001358,
+            "frequencyskew": -6.443262e-05
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691633132841,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "55925819",
+        "title": "Symphony No. 39 in E-Flat Major, K. 543: IV. Finale (Allegro)",
+        "subtitle": "Academy of St Martin in the Fields & Sir Neville Marriner",
+        "images": {
+            "background": "https://is2-ssl.mzstatic.com/image/thumb/Music123/v4/88/db/38/88db3832-b250-af50-90a3-dbb0c5203286/pr_source.png/800x800cc.jpg",
+            "coverart": "https://is4-ssl.mzstatic.com/image/thumb/Music124/v4/8b/96/4d/8b964df3-58cc-eee3-a8fb-2b9afc98984f/00028946243329.rgb.jpg/400x400cc.jpg",
+            "coverarthq": "https://is4-ssl.mzstatic.com/image/thumb/Music124/v4/8b/96/4d/8b964df3-58cc-eee3-a8fb-2b9afc98984f/00028946243329.rgb.jpg/400x400cc.jpg",
+            "joecolor": "b:ffeb1ap:010604s:48161ct:343409q:6c411c"
+        },
+        "share": {
+            "subject": "Symphony No. 39 in E-Flat Major, K. 543: IV. Finale (Allegro) - Academy of St Martin in the Fields & Sir Neville Marriner",
+            "text": "Symphony No. 39 in E-Flat Major, K. 543: IV. Finale (Allegro) by Academy of St Martin in the Fields & Sir Neville Marriner",
+            "href": "https://www.shazam.com/track/55925819/symphony-no-39-in-e-flat-major-k-543-iv-finale-allegro",
+            "image": "https://is4-ssl.mzstatic.com/image/thumb/Music124/v4/8b/96/4d/8b964df3-58cc-eee3-a8fb-2b9afc98984f/00028946243329.rgb.jpg/400x400cc.jpg",
+            "twitter": "I used @Shazam to discover Symphony No. 39 in E-Flat Major, K. 543: IV. Finale (Allegro) by Academy of St Martin in the Fields & Sir Neville Marriner.",
+            "html": "https://www.shazam.com/snippets/email-share/55925819?lang=en-US&country=GB",
+            "avatar": "https://is2-ssl.mzstatic.com/image/thumb/Music123/v4/88/db/38/88db3832-b250-af50-90a3-dbb0c5203286/pr_source.png/800x800cc.jpg",
+            "snapchat": "https://www.shazam.com/partner/sc/track/55925819"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "actions": [
+                {
+                    "name": "apple",
+                    "type": "applemusicplay",
+                    "id": "1452198523"
+                },
+                {
+                    "name": "apple",
+                    "type": "uri",
+                    "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview124/v4/7b/32/c7/7b32c7fb-1247-0f7e-fe60-be96cfae088b/mzaf_848466829192880115.plus.aac.ep.m4a"
+                }
+            ],
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/gb/album/symphony-no-39-in-e-flat-major-k-543-iv-finale-allegro/1452197874?i=1452198523&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/gb/album/symphony-no-39-in-e-flat-major-k-543-iv-finale-allegro/1452197874?i=1452198523&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                },
+                {
+                    "caption": "BUY",
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "uri": "https://itunes.apple.com/gb/album/symphony-no-39-in-e-flat-major-k-543-iv-finale-allegro/1452197874?i=1452198523&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "buy",
+                        "providername": "itunes"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "type": "buy",
+                    "listcaption": "Buy on iTunes",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "itunes"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:Symphony%20No.%2039%20in%20E-Flat%20Major%2C%20K.%20543%3A%20IV.%20Finale%20%28Allegro%29%20Academy%20of%20St%20Martin%20in%20the%20Fields"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27Symphony+No.+39+in+E-Flat+Major%2C+K.+543%3A+IV.+Finale+%28Allegro%29%27%20artist%3A%27Academy+of+St+Martin+in+the+Fields++Sir+Neville+Marriner%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": false,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [
+                    {
+                        "image": "https://is2-ssl.mzstatic.com/image/thumb/Music123/v4/88/db/38/88db3832-b250-af50-90a3-dbb0c5203286/pr_source.png/800x800cc.jpg",
+                        "caption": "Academy of St Martin in the Fields"
+                    },
+                    {
+                        "image": "https://is4-ssl.mzstatic.com/image/thumb/Music124/v4/8b/96/4d/8b964df3-58cc-eee3-a8fb-2b9afc98984f/00028946243329.rgb.jpg/400x400cc.jpg",
+                        "caption": "Symphony No. 39 in E-Flat Major, K. 543: IV. Finale (Allegro)"
+                    }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                    {
+                        "title": "Album",
+                        "text": "Mozart for a Monday Morning"
+                    },
+                    {
+                        "title": "Label",
+                        "text": "Decca Music Group Ltd."
+                    },
+                    {
+                        "title": "Released",
+                        "text": "1990"
+                    }
+                ]
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/55925819/youtube/video?q=Academy+of+St+Martin+in+the+Fields+%26+Sir+Neville+Marriner+%22Symphony+No.+39+in+E-Flat+Major,+K.+543:+IV.+Finale+(Allegro)%22"
+            }
+        ],
+        "url": "https://www.shazam.com/track/55925819/symphony-no-39-in-e-flat-major-k-543-iv-finale-allegro",
+        "artists": [
+            {
+                "id": "42",
+                "adamid": "6783956"
+            }
+        ],
+        "isrc": "NLA507802408",
+        "genres": {
+            "primary": "Classical"
+        },
+        "urlparams": {
+            "{tracktitle}": "Symphony+No.+39+in+E-Flat+Major%2C+K.+543%3A+IV.+Finale+%28Allegro%29",
+            "{trackartist}": "Academy+of+St+Martin+in+the+Fields+%26+Sir+Neville+Marriner"
+        },
+        "myshazam": {
+            "apple": {
+                "actions": [
+                    {
+                        "name": "myshazam:apple",
+                        "type": "uri",
+                        "uri": "https://music.apple.com/gb/album/symphony-no-39-in-e-flat-major-k-543-iv-finale-allegro/1452197874?i=1452198523&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                ]
+            }
+        },
+        "highlightsurls": {
+            "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/6783956/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+        },
+        "albumadamid": "1452197874"
+    },
+    "tagid": "619CCBCF-D335-48D1-99DC-2AD57B5D9E1E"
+}

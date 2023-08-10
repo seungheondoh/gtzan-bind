@@ -1,0 +1,279 @@
+{
+    "matches": [
+        {
+            "id": "200342021",
+            "offset": 30.573201171,
+            "timeskew": -2.2888184e-05,
+            "frequencyskew": 0.0
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691633623833,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "10092580",
+        "title": "32 Flavors",
+        "subtitle": "Ani DiFranco",
+        "images": {
+            "background": "https://is3-ssl.mzstatic.com/image/thumb/AMCArtistImages126/v4/ea/e5/d6/eae5d6e9-395e-19e7-42ec-74bf5acffcf8/e9510944-4470-4b62-a6be-b693b43b687f_ami-identity-b13da8df32cd89056faba4f079506fee-2023-01-27T18-28-09.814Z_cropped.png/800x800cc.jpg",
+            "coverart": "https://is3-ssl.mzstatic.com/image/thumb/Music124/v4/f4/d9/b3/f4d9b388-e0a7-8957-33e6-495f06d80e96/cover.jpg/400x400cc.jpg",
+            "coverarthq": "https://is3-ssl.mzstatic.com/image/thumb/Music124/v4/f4/d9/b3/f4d9b388-e0a7-8957-33e6-495f06d80e96/cover.jpg/400x400cc.jpg",
+            "joecolor": "b:081414p:eff3f8s:b2cbd4t:c1c6caq:90a6ae"
+        },
+        "share": {
+            "subject": "32 Flavors - Ani DiFranco",
+            "text": "32 Flavors by Ani DiFranco",
+            "href": "https://www.shazam.com/track/10092580/32-flavors",
+            "image": "https://is3-ssl.mzstatic.com/image/thumb/Music124/v4/f4/d9/b3/f4d9b388-e0a7-8957-33e6-495f06d80e96/cover.jpg/400x400cc.jpg",
+            "twitter": "I used @Shazam to discover 32 Flavors by Ani DiFranco.",
+            "html": "https://www.shazam.com/snippets/email-share/10092580?lang=en-US&country=GB",
+            "avatar": "https://is3-ssl.mzstatic.com/image/thumb/AMCArtistImages126/v4/ea/e5/d6/eae5d6e9-395e-19e7-42ec-74bf5acffcf8/e9510944-4470-4b62-a6be-b693b43b687f_ami-identity-b13da8df32cd89056faba4f079506fee-2023-01-27T18-28-09.814Z_cropped.png/800x800cc.jpg",
+            "snapchat": "https://www.shazam.com/partner/sc/track/10092580"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "actions": [
+                {
+                    "name": "apple",
+                    "type": "applemusicplay",
+                    "id": "1208757302"
+                },
+                {
+                    "name": "apple",
+                    "type": "uri",
+                    "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/92/24/8d/92248d74-beba-0888-9cc5-d6ef4331f85e/mzaf_10748581258734831477.plus.aac.ep.m4a"
+                }
+            ],
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/gb/album/32-flavors/1208755606?i=1208757302&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/gb/album/32-flavors/1208755606?i=1208757302&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                },
+                {
+                    "caption": "BUY",
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "uri": "https://itunes.apple.com/gb/album/32-flavors/1208755606?i=1208757302&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "buy",
+                        "providername": "itunes"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "type": "buy",
+                    "listcaption": "Buy on iTunes",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "itunes"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:32%20Flavors%20Ani%20DiFranco"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%2732+Flavors%27%20artist%3A%27Ani+DiFranco%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": false,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [
+                    {
+                        "image": "https://is3-ssl.mzstatic.com/image/thumb/AMCArtistImages126/v4/ea/e5/d6/eae5d6e9-395e-19e7-42ec-74bf5acffcf8/e9510944-4470-4b62-a6be-b693b43b687f_ami-identity-b13da8df32cd89056faba4f079506fee-2023-01-27T18-28-09.814Z_cropped.png/800x800cc.jpg",
+                        "caption": "Ani DiFranco"
+                    },
+                    {
+                        "image": "https://is3-ssl.mzstatic.com/image/thumb/Music124/v4/f4/d9/b3/f4d9b388-e0a7-8957-33e6-495f06d80e96/cover.jpg/400x400cc.jpg",
+                        "caption": "32 Flavors"
+                    }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                    {
+                        "title": "Album",
+                        "text": "Not a Pretty Girl"
+                    },
+                    {
+                        "title": "Label",
+                        "text": "Righteous Babe Records"
+                    },
+                    {
+                        "title": "Released",
+                        "text": "1995"
+                    }
+                ]
+            },
+            {
+                "type": "LYRICS",
+                "text": [
+                    "Squint your eyes and look closer",
+                    "I'm not between you and your ambition",
+                    "I am a poster girl with no poster",
+                    "I am 32 flavors and then some",
+                    "And I'm beyond your peripheral vision",
+                    "So you might want to turn your head",
+                    "'Cause someday you are gonna get hungry",
+                    "And eat most of the words you just said",
+                    "",
+                    "Both my parents taught me about goodwill",
+                    "And I have done well by their names",
+                    "Just the kindness I've lavished on strangers",
+                    "Is more than I can explain",
+                    "Still there's many who've turned out their porch lights",
+                    "Just so I would think they were not home",
+                    "And hid in the dark of their windows",
+                    "Till I'd passed and left them alone",
+                    "Hey, yo, hey",
+                    "Oh, hey, yo, hey, yo",
+                    "Oh, hey, yo, hey",
+                    "Oh, hey, yo, hey, yo",
+                    "",
+                    "God help you if you are an ugly girl",
+                    "Course, too pretty is also your doom",
+                    "'Cause everyone harbors a secret hatred",
+                    "For the prettiest girl in the room",
+                    "And God help you if you are a phoenix",
+                    "And you dare to rise up from the ash",
+                    "A thousand eyes will smolder with jealousy",
+                    "While you are just flying past",
+                    "",
+                    "And I'll never try to give my life meaning",
+                    "By demeaning you",
+                    "But I would like to state for the record",
+                    "I did everything that I could do",
+                    "I'm not saying that I am a saint",
+                    "I just don't want to live that way",
+                    "No, I will never be a saint",
+                    "But I will always say",
+                    "",
+                    "Squint your eyes and look closer",
+                    "I'm not between you and your ambition",
+                    "I am a poster girl with no poster",
+                    "I am 32 flavors and then some",
+                    "And I'm beyond your peripheral vision",
+                    "So you might want to turn your head",
+                    "'Cause someday you might find you are starving",
+                    "And eating all of the words that you said",
+                    "Oh, oh, hey, yo",
+                    "Oh, hey, yo",
+                    "Oh, hey, yo, hey, yo",
+                    "Oh, hey, yo",
+                    "",
+                    "Mm, mm, mm, mm",
+                    "Mm, mm, mm, mm",
+                    "",
+                    "Oh, hey, yo",
+                    "Oh, hey, yo",
+                    "Oh, hey, yo, hey, yo",
+                    "Oh, hey, yo"
+                ],
+                "url": "https://cdn.shazam.com/lyrics/v1/en-US/GB/iphone/musixmatch/subtitles/8672/369/1?token=4607e783e26c748bb4d0e7f169ac9c59",
+                "footer": "Writer(s): Ani Di Franco\nLyrics powered by www.musixmatch.com",
+                "tabname": "Lyrics",
+                "beacondata": {
+                    "lyricsid": "1200690",
+                    "providername": "musixmatch",
+                    "commontrackid": "8672"
+                }
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/10092580/youtube/video?q=Ani+DiFranco+%2232+Flavors%22"
+            },
+            {
+                "type": "RELATED",
+                "url": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-10092580?startFrom=0&pageSize=20&connected=",
+                "tabname": "Related"
+            }
+        ],
+        "url": "https://www.shazam.com/track/10092580/32-flavors",
+        "artists": [
+            {
+                "id": "42",
+                "adamid": "3627568"
+            }
+        ],
+        "isrc": "USRB49500010",
+        "genres": {
+            "primary": "Vocal"
+        },
+        "urlparams": {
+            "{tracktitle}": "32+Flavors",
+            "{trackartist}": "Ani+DiFranco"
+        },
+        "myshazam": {
+            "apple": {
+                "actions": [
+                    {
+                        "name": "myshazam:apple",
+                        "type": "uri",
+                        "uri": "https://music.apple.com/gb/album/32-flavors/1208755606?i=1208757302&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                ]
+            }
+        },
+        "highlightsurls": {
+            "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/3627568/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+        },
+        "relatedtracksurl": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-10092580?startFrom=0&pageSize=20&connected=",
+        "albumadamid": "1208755606"
+    },
+    "tagid": "BDFC8A2C-A5F5-4213-989B-EA0E01600DC1"
+}

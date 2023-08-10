@@ -1,0 +1,305 @@
+{
+    "matches": [
+        {
+            "id": "431254487",
+            "offset": 30.0675,
+            "timeskew": -2.503395e-06,
+            "frequencyskew": -0.00016111135
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691632977061,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "54432149",
+        "title": "911 Is A Joke",
+        "subtitle": "Public Enemy",
+        "images": {
+            "background": "https://is2-ssl.mzstatic.com/image/thumb/Features125/v4/d2/c5/86/d2c58653-73d2-ae2f-efc1-d089777e7200/mzl.uxecwlva.jpg/800x800cc.jpg",
+            "coverart": "https://is4-ssl.mzstatic.com/image/thumb/Music/dd/77/b6/mzi.gkcmchvd.jpg/400x400cc.jpg",
+            "coverarthq": "https://is4-ssl.mzstatic.com/image/thumb/Music/dd/77/b6/mzi.gkcmchvd.jpg/400x400cc.jpg",
+            "joecolor": "b:ffffffp:000000s:1e1e1et:333333q:4b4b4b"
+        },
+        "share": {
+            "subject": "911 Is A Joke - Public Enemy",
+            "text": "911 Is A Joke by Public Enemy",
+            "href": "https://www.shazam.com/track/54432149/911-is-a-joke",
+            "image": "https://is4-ssl.mzstatic.com/image/thumb/Music/dd/77/b6/mzi.gkcmchvd.jpg/400x400cc.jpg",
+            "twitter": "I used @Shazam to discover 911 Is A Joke by Public Enemy.",
+            "html": "https://www.shazam.com/snippets/email-share/54432149?lang=en-US&country=GB",
+            "avatar": "https://is2-ssl.mzstatic.com/image/thumb/Features125/v4/d2/c5/86/d2c58653-73d2-ae2f-efc1-d089777e7200/mzl.uxecwlva.jpg/800x800cc.jpg",
+            "snapchat": "https://www.shazam.com/partner/sc/track/54432149"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "actions": [
+                {
+                    "name": "apple",
+                    "type": "applemusicplay",
+                    "id": "358026500"
+                },
+                {
+                    "name": "apple",
+                    "type": "uri",
+                    "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/Music/v4/aa/41/9e/aa419ec9-8cd8-4701-6f92-3357427e4636/mzaf_1836277695449751978.plus.aac.ep.m4a"
+                }
+            ],
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/gb/album/911-is-a-joke/358025330?i=358026500&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/gb/album/911-is-a-joke/358025330?i=358026500&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                },
+                {
+                    "caption": "BUY",
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "uri": "https://itunes.apple.com/gb/album/911-is-a-joke/358025330?i=358026500&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "buy",
+                        "providername": "itunes"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "type": "buy",
+                    "listcaption": "Buy on iTunes",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "itunes"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:911%20Is%20A%20Joke%20Public%20Enemy"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27911+Is+A+Joke%27%20artist%3A%27Public+Enemy%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": false,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [
+                    {
+                        "image": "https://is2-ssl.mzstatic.com/image/thumb/Features125/v4/d2/c5/86/d2c58653-73d2-ae2f-efc1-d089777e7200/mzl.uxecwlva.jpg/800x800cc.jpg",
+                        "caption": "Public Enemy"
+                    },
+                    {
+                        "image": "https://is4-ssl.mzstatic.com/image/thumb/Music/dd/77/b6/mzi.gkcmchvd.jpg/400x400cc.jpg",
+                        "caption": "911 Is A Joke"
+                    }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                    {
+                        "title": "Album",
+                        "text": "Public Enemy: The Revolverlution Tour (live)"
+                    },
+                    {
+                        "title": "Label",
+                        "text": "Charly Records"
+                    },
+                    {
+                        "title": "Released",
+                        "text": "2002"
+                    }
+                ]
+            },
+            {
+                "type": "LYRICS",
+                "text": [
+                    "Hit me!",
+                    "Somebody call an ambulance",
+                    "There's not a minute to spare",
+                    "Don't worry",
+                    "There's not a minute to spare",
+                    "Don't worry",
+                    "Going, going, gone",
+                    "",
+                    "I dialed 911 a long time ago",
+                    "Don't you see how late they're reactin'",
+                    "They only come and they come when they wanna",
+                    "So get the morgue truck and embalm the goner",
+                    "",
+                    "They don't care 'cause they stay paid anyway",
+                    "They teach ya like an ace they can't be betrayed",
+                    "I know you stumble with no use people",
+                    "If your life is on the line then you're dead today",
+                    "",
+                    "Late comers with the late comin' stretcher",
+                    "That's a body bag in disguise y'all, I betcha",
+                    "I call 'em body snatchers 'cause they come to fetch ya?",
+                    "With an autopsy ambulance just to dissect ya",
+                    "",
+                    "They are the kings 'cause they swing amputation",
+                    "Lose your arms, your legs to their miscalculation",
+                    "I can prove it to you watch the rotation",
+                    "It all adds up to a funky situation",
+                    "",
+                    "So get up, get, get, get down",
+                    "911 is a joke in yo town",
+                    "Get up, get, get, get down",
+                    "Late 911 wears the late crown",
+                    "Get up, get, get, get down",
+                    "911 is a joke in yo town",
+                    "Get up, get, get, get down",
+                    "Late 911 wears the late crown",
+                    "",
+                    "911 is a joke",
+                    "911 is a joke",
+                    "",
+                    "Everyday they don't never come correct",
+                    "You can ask my man right here with the broken neck",
+                    "He's a witness to the job never bein' done",
+                    "He would've been in full effect",
+                    "",
+                    "But late 911 was a joke 'cause they always jokin'",
+                    "They the token to your life when it's croakin'",
+                    "They need to be in a pawn shop on a",
+                    "911 is a joke we don't want 'em",
+                    "I call a cab 'cause a cab will come quicker",
+                    "The doctors huddle up and call a flea flicker",
+                    "The reason that I say that 'cause they",
+                    "Flick you off like fleas",
+                    "They be laughin' at ya while you're crawlin' on your knees",
+                    "",
+                    "And to the strength so go the length",
+                    "Thinkin' you are first when you really are tenth",
+                    "You better wake up and smell the real flavor",
+                    "Cause 911 is a fake life saver",
+                    "",
+                    "So get up, get, get, get down",
+                    "911 is a joke in yo town",
+                    "Get up, get, get, get down",
+                    "Late 911 wears the late crown",
+                    "Get up, get, get, get down",
+                    "911 is a joke in yo town",
+                    "Get up, get, get, get down",
+                    "Late 911 wears the late crown",
+                    "",
+                    "How (911 is a joke) how, how (911 is a joke)",
+                    "How, how (911 is a joke) how, how (911 is a joke)",
+                    "",
+                    "So get up, get, get, get down",
+                    "911 is a joke in yo town",
+                    "Get up, get, get, get down",
+                    "Late 911 wears the late crown",
+                    "Get up, get, get, get down",
+                    "911 is a joke in yo town",
+                    "Get up, get, get, get down",
+                    "Late 911 wears the late crown",
+                    "",
+                    "(911 is a joke)",
+                    "(911 is a joke)",
+                    "(911 is a joke)",
+                    "(911 is a joke)"
+                ],
+                "url": "https://cdn.shazam.com/lyrics/v1/en-US/GB/iphone/musixmatch/subtitles/131064/197/1?token=5d6e19e9a971c8f4646b04579ca6329f",
+                "footer": "Writer(s): George Worrell, George Clinton, William Collins, Eric Sadler, William Drayton, Keith Boxley\nLyrics powered by www.musixmatch.com",
+                "tabname": "Lyrics",
+                "beacondata": {
+                    "lyricsid": "22585122",
+                    "providername": "musixmatch",
+                    "commontrackid": "131064"
+                }
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/54432149/youtube/video?q=Public+Enemy+%22911+Is+A+Joke%22"
+            },
+            {
+                "type": "RELATED",
+                "url": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-54432149?startFrom=0&pageSize=20&connected=",
+                "tabname": "Related"
+            }
+        ],
+        "url": "https://www.shazam.com/track/54432149/911-is-a-joke",
+        "artists": [
+            {
+                "id": "42",
+                "adamid": "36954"
+            }
+        ],
+        "isrc": "GBAWA0920628",
+        "genres": {
+            "primary": "Hip-Hop/Rap"
+        },
+        "urlparams": {
+            "{tracktitle}": "911+Is+A+Joke",
+            "{trackartist}": "Public+Enemy"
+        },
+        "myshazam": {
+            "apple": {
+                "actions": [
+                    {
+                        "name": "myshazam:apple",
+                        "type": "uri",
+                        "uri": "https://music.apple.com/gb/album/911-is-a-joke/358025330?i=358026500&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                ]
+            }
+        },
+        "highlightsurls": {
+            "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/36954/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios&videoIdToFilter=1582744889",
+            "trackhighlighturl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/highlights/1582744889?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+        },
+        "relatedtracksurl": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-54432149?startFrom=0&pageSize=20&connected=",
+        "albumadamid": "358025330"
+    },
+    "tagid": "24134233-7D68-498A-BAF3-2C37F26996D1"
+}

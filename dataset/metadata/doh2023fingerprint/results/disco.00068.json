@@ -1,0 +1,307 @@
+{
+    "matches": [
+        {
+            "id": "481059903",
+            "offset": 29.847125,
+            "timeskew": -0.0025231242,
+            "frequencyskew": -0.002694726
+        },
+        {
+            "id": "219791038",
+            "offset": 29.681613281,
+            "timeskew": 0.00026988983,
+            "frequencyskew": -0.000120818615
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691632455201,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "40600558",
+        "title": "Take A Chance On Me",
+        "subtitle": "ABBA",
+        "images": {
+            "background": "https://is3-ssl.mzstatic.com/image/thumb/Features115/v4/77/b2/e3/77b2e3f8-3af4-1928-f411-901705218d2d/mza_402627401905230864.png/800x800cc.jpg",
+            "coverart": "https://is2-ssl.mzstatic.com/image/thumb/Music124/v4/71/31/8c/71318c54-5bb0-58d8-1034-d2d09edbef0c/20UMGIM76140.rgb.jpg/400x400cc.jpg",
+            "coverarthq": "https://is2-ssl.mzstatic.com/image/thumb/Music124/v4/71/31/8c/71318c54-5bb0-58d8-1034-d2d09edbef0c/20UMGIM76140.rgb.jpg/400x400cc.jpg",
+            "joecolor": "b:0d0d0dp:e9c065s:e3974dt:bd9c53q:b87c40"
+        },
+        "share": {
+            "subject": "Take A Chance On Me - ABBA",
+            "text": "Take A Chance On Me by ABBA",
+            "href": "https://www.shazam.com/track/40600558/take-a-chance-on-me",
+            "image": "https://is2-ssl.mzstatic.com/image/thumb/Music124/v4/71/31/8c/71318c54-5bb0-58d8-1034-d2d09edbef0c/20UMGIM76140.rgb.jpg/400x400cc.jpg",
+            "twitter": "I used @Shazam to discover Take A Chance On Me by ABBA.",
+            "html": "https://www.shazam.com/snippets/email-share/40600558?lang=en-US&country=GB",
+            "avatar": "https://is3-ssl.mzstatic.com/image/thumb/Features115/v4/77/b2/e3/77b2e3f8-3af4-1928-f411-901705218d2d/mza_402627401905230864.png/800x800cc.jpg",
+            "snapchat": "https://www.shazam.com/partner/sc/track/40600558"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "actions": [
+                {
+                    "name": "apple",
+                    "type": "applemusicplay",
+                    "id": "1530393143"
+                },
+                {
+                    "name": "apple",
+                    "type": "uri",
+                    "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/ca/88/15/ca8815bc-2b55-791b-2e25-7d285f06db39/mzaf_13551186085819469126.plus.aac.ep.m4a"
+                }
+            ],
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/gb/album/take-a-chance-on-me/1530391535?i=1530393143&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/gb/album/take-a-chance-on-me/1530391535?i=1530393143&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                },
+                {
+                    "caption": "BUY",
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "uri": "https://itunes.apple.com/gb/album/take-a-chance-on-me/1530391535?i=1530393143&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "buy",
+                        "providername": "itunes"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "type": "buy",
+                    "listcaption": "Buy on iTunes",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "itunes"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:Take%20A%20Chance%20On%20Me%20ABBA"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27Take+A+Chance+On+Me%27%20artist%3A%27ABBA%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": false,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [
+                    {
+                        "image": "https://is3-ssl.mzstatic.com/image/thumb/Features115/v4/77/b2/e3/77b2e3f8-3af4-1928-f411-901705218d2d/mza_402627401905230864.png/800x800cc.jpg",
+                        "caption": "ABBA"
+                    },
+                    {
+                        "image": "https://is2-ssl.mzstatic.com/image/thumb/Music124/v4/71/31/8c/71318c54-5bb0-58d8-1034-d2d09edbef0c/20UMGIM76140.rgb.jpg/400x400cc.jpg",
+                        "caption": "Take A Chance On Me"
+                    }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                    {
+                        "title": "Album",
+                        "text": "Thank You For The Music"
+                    },
+                    {
+                        "title": "Label",
+                        "text": "Polar Music International AB"
+                    },
+                    {
+                        "title": "Released",
+                        "text": "1976"
+                    }
+                ]
+            },
+            {
+                "type": "LYRICS",
+                "text": [
+                    "If you change your mind (take a chance)",
+                    "(Take a, take a chance-chance) I'm the first in line",
+                    "Honey, I'm still free (take a chance)",
+                    "Take a chance on me (take a, take a chance-chance)",
+                    "If you need me (take a, take a chance-chance)",
+                    "Let me know, gonna be around (take a chance)",
+                    "If you've got no place to go, when you're feeling down (take a chance)",
+                    "(Take a chance, take a, take a chance-chance)",
+                    "(Take a chance, take a, take a chance-chance)",
+                    "",
+                    "If you're all alone when the pretty birds have flown",
+                    "Honey I'm still free, take a chance on me",
+                    "Gonna do my very best and it ain't no lie",
+                    "If you put me to the test, if you let me try",
+                    "",
+                    "Take a chance on me",
+                    "(That's all I ask of you honey)",
+                    "Take a chance on me",
+                    "",
+                    "We can go dancing (oh-oh) we can go walking (yeah)",
+                    "As long as we're together (as long as we're together)",
+                    "Listen to some music (oh-oh) maybe just talking (yeah)",
+                    "Get to know you better (get to know you better)",
+                    "",
+                    "'Cause you know I've got",
+                    "So much that I wanna do",
+                    "When I dream I'm alone with you, it's magic",
+                    "You want me to leave it there",
+                    "Afraid of a love affair",
+                    "But I think you know",
+                    "That I can't let go",
+                    "",
+                    "If you change your mind, I'm the first in line",
+                    "Honey I'm still free, take a chance on me",
+                    "If you need me, let me know, gonna be around",
+                    "If you've got no place to go, when you're feeling down",
+                    "",
+                    "If you're all alone when the pretty birds have flown",
+                    "Honey I'm still free, take a chance on me",
+                    "Gonna do my very best and it ain't no lie",
+                    "If you put me to the test, if you let me try",
+                    "",
+                    "Take a chance on me",
+                    "(Come on, give me a break, will you?)",
+                    "Take a chance on me",
+                    "",
+                    "Oh, you can take your time baby (oh-oh) I'm in no hurry (yeah)",
+                    "Know I'm gonna get you (know I'm gonna get you)",
+                    "You don't wanna hurt me (oh-oh) baby don't worry (yeah)",
+                    "I ain't gonna let you (I ain't gonna let you)",
+                    "",
+                    "Let me tell you now",
+                    "My love is strong enough",
+                    "To last when things are rough, it's magic",
+                    "You say that I waste my time",
+                    "But I can't get you off of my mind",
+                    "No I can't let go",
+                    "'Cause I love you so",
+                    "",
+                    "If you change your mind, I'm the first in line",
+                    "Honey I'm still free, take a chance on me",
+                    "If you need me, let me know, gonna be around",
+                    "If you've got no place to go, when you're feeling down",
+                    "",
+                    "If you're all alone when the pretty birds have flown",
+                    "Honey I'm still free, take a chance on me",
+                    "Gonna do my very best, baby can't you see?",
+                    "Gotta put me to the test, take a chance on me",
+                    "(Take a chance, take a chance, take a chance on me)",
+                    "",
+                    "Ba-ba-ba-ba-baa, ba-ba-ba-ba-baa",
+                    "Honey I'm still free, take a chance on me",
+                    "Gonna do my very best, baby can't you see?",
+                    "Gotta put me to the test, take a chance on me",
+                    "(Take a chance, take a chance, take a chance on me)",
+                    "",
+                    "Ba-ba-ba-ba-baa, ba-ba-ba-ba-baa",
+                    "Honey I'm still free, take a chance on me",
+                    "Gonna do my very best, baby can't you see?",
+                    "Gotta put me to the test, take a chance on me",
+                    "Ba-ba-ba-ba-baa, ba-ba-ba-ba-baa"
+                ],
+                "url": "https://cdn.shazam.com/lyrics/v1/en-US/GB/iphone/musixmatch/subtitles/130183/244/1?token=2f3fed2c3163014d7334db95b0fa0754",
+                "footer": "Writer(s): Benny Andersso, Bj\u00f6rn Ulvaeus\nLyrics powered by www.musixmatch.com",
+                "tabname": "Lyrics",
+                "beacondata": {
+                    "lyricsid": "30309600",
+                    "providername": "musixmatch",
+                    "commontrackid": "130183"
+                }
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/40600558/youtube/video?q=ABBA+%22Take+A+Chance+On+Me%22"
+            },
+            {
+                "type": "RELATED",
+                "url": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-40600558?startFrom=0&pageSize=20&connected=",
+                "tabname": "Related"
+            }
+        ],
+        "url": "https://www.shazam.com/track/40600558/take-a-chance-on-me",
+        "artists": [
+            {
+                "id": "42",
+                "adamid": "372976"
+            }
+        ],
+        "isrc": "SEAYD7702020",
+        "genres": {
+            "primary": "Pop"
+        },
+        "urlparams": {
+            "{tracktitle}": "Take+A+Chance+On+Me",
+            "{trackartist}": "ABBA"
+        },
+        "myshazam": {
+            "apple": {
+                "actions": [
+                    {
+                        "name": "myshazam:apple",
+                        "type": "uri",
+                        "uri": "https://music.apple.com/gb/album/take-a-chance-on-me/1530391535?i=1530393143&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                ]
+            }
+        },
+        "highlightsurls": {
+            "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/372976/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios&videoIdToFilter=1440485859",
+            "trackhighlighturl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/highlights/1440485859?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+        },
+        "relatedtracksurl": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-40600558?startFrom=0&pageSize=20&connected=",
+        "albumadamid": "1530391535"
+    },
+    "tagid": "B2ABC41C-F482-4270-8D08-F3AA6DB9CA32"
+}

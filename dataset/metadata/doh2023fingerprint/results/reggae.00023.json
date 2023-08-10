@@ -1,0 +1,241 @@
+{
+    "matches": [
+        {
+            "id": "211628174",
+            "offset": 30.487240234,
+            "timeskew": 0.0014618635,
+            "frequencyskew": 0.0014508963
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691633329600,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "5221045",
+        "title": "Sun Is Shining",
+        "subtitle": "Bob Marley",
+        "images": {
+            "background": "https://is5-ssl.mzstatic.com/image/thumb/Features126/v4/e7/fa/d8/e7fad8bf-fd10-fb5d-a544-a7c8eefa812d/mza_2418279402495252125.jpg/800x800cc.jpg",
+            "coverart": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/ad/63/bb/ad63bbf5-ae46-7ebb-341b-fb0e21315f91/13UMGIM26168.rgb.jpg/400x400cc.jpg",
+            "coverarthq": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/ad/63/bb/ad63bbf5-ae46-7ebb-341b-fb0e21315f91/13UMGIM26168.rgb.jpg/400x400cc.jpg",
+            "joecolor": "b:fdfdfdp:0e0f0ds:121211t:3e3e3dq:414140"
+        },
+        "share": {
+            "subject": "Sun Is Shining - Bob Marley",
+            "text": "Sun Is Shining by Bob Marley",
+            "href": "https://www.shazam.com/track/5221045/sun-is-shining",
+            "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/ad/63/bb/ad63bbf5-ae46-7ebb-341b-fb0e21315f91/13UMGIM26168.rgb.jpg/400x400cc.jpg",
+            "twitter": "I used @Shazam to discover Sun Is Shining by Bob Marley.",
+            "html": "https://www.shazam.com/snippets/email-share/5221045?lang=en-US&country=GB",
+            "avatar": "https://is5-ssl.mzstatic.com/image/thumb/Features126/v4/e7/fa/d8/e7fad8bf-fd10-fb5d-a544-a7c8eefa812d/mza_2418279402495252125.jpg/800x800cc.jpg",
+            "snapchat": "https://www.shazam.com/partner/sc/track/5221045"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "actions": [
+                {
+                    "name": "apple",
+                    "type": "applemusicplay",
+                    "id": "1440811846"
+                },
+                {
+                    "name": "apple",
+                    "type": "uri",
+                    "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/3e/f7/23/3ef723af-ee7d-c3a5-2c09-8f103b897ffe/mzaf_5833799754427338560.plus.aac.ep.m4a"
+                }
+            ],
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/gb/album/sun-is-shining/1440811498?i=1440811846&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/gb/album/sun-is-shining/1440811498?i=1440811846&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                },
+                {
+                    "caption": "BUY",
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "uri": "https://itunes.apple.com/gb/album/sun-is-shining/1440811498?i=1440811846&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "buy",
+                        "providername": "itunes"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "type": "buy",
+                    "listcaption": "Buy on iTunes",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "itunes"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:Sun%20Is%20Shining%20Bob%20Marley"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27Sun+Is+Shining%27%20artist%3A%27Bob+Marley%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": false,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [
+                    {
+                        "image": "https://is5-ssl.mzstatic.com/image/thumb/Features126/v4/e7/fa/d8/e7fad8bf-fd10-fb5d-a544-a7c8eefa812d/mza_2418279402495252125.jpg/800x800cc.jpg",
+                        "caption": "Bob Marley"
+                    },
+                    {
+                        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/ad/63/bb/ad63bbf5-ae46-7ebb-341b-fb0e21315f91/13UMGIM26168.rgb.jpg/400x400cc.jpg",
+                        "caption": "Sun Is Shining"
+                    }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                    {
+                        "title": "Album",
+                        "text": "Kaya (Deluxe Edition)"
+                    },
+                    {
+                        "title": "Label",
+                        "text": "Tuff Gong"
+                    },
+                    {
+                        "title": "Released",
+                        "text": "1978"
+                    }
+                ]
+            },
+            {
+                "type": "LYRICS",
+                "text": [
+                    "Sun is shining, the weather is sweet, yeah",
+                    "Make you wanna move your dancing feet now",
+                    "",
+                    "To the rescue, here I am!",
+                    "Want you to know, y'all",
+                    "Can you understand?",
+                    "",
+                    "When the morning gather the rainbow, yeah, yeah",
+                    "Want you to know I'm a rainbow too now",
+                    "",
+                    "To the rescue, here I am!",
+                    "Want you to know, y'all, can ya, can ya",
+                    "Can ya understand?",
+                    "",
+                    "Sun is shining, weather is sweet now",
+                    "Make you want to move your dancing feet, yeah",
+                    "",
+                    "But to the rescue, here I am!",
+                    "Want you to know just if you can",
+                    "Here I stand!",
+                    "No, no, no, no, no, no, no, no!",
+                    "Can you understand?"
+                ],
+                "url": "https://cdn.shazam.com/lyrics/v1/en-US/GB/iphone/musixmatch/subtitles/136648069/298/1?token=e12203c94c48a2c3fd77085b5bb0f097",
+                "footer": "Writer(s): Bob Marley\nLyrics powered by www.musixmatch.com",
+                "tabname": "Lyrics",
+                "beacondata": {
+                    "lyricsid": "27141965",
+                    "providername": "musixmatch",
+                    "commontrackid": "136648069"
+                }
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/5221045/youtube/video?q=Bob+Marley+%22Sun+Is+Shining%22"
+            },
+            {
+                "type": "RELATED",
+                "url": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-5221045?startFrom=0&pageSize=20&connected=",
+                "tabname": "Related"
+            }
+        ],
+        "url": "https://www.shazam.com/track/5221045/sun-is-shining",
+        "artists": [
+            {
+                "id": "42",
+                "adamid": "121982"
+            }
+        ],
+        "isrc": "USIR27800260",
+        "genres": {
+            "primary": "Reggae"
+        },
+        "urlparams": {
+            "{tracktitle}": "Sun+Is+Shining",
+            "{trackartist}": "Bob+Marley"
+        },
+        "myshazam": {
+            "apple": {
+                "actions": [
+                    {
+                        "name": "myshazam:apple",
+                        "type": "uri",
+                        "uri": "https://music.apple.com/gb/album/sun-is-shining/1440811498?i=1440811846&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                ]
+            }
+        },
+        "highlightsurls": {
+            "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/121982/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+        },
+        "relatedtracksurl": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-5221045?startFrom=0&pageSize=20&connected=",
+        "albumadamid": "1440811498"
+    },
+    "tagid": "17525792-18E4-430F-98F3-E6262BB47036"
+}

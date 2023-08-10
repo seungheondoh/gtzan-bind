@@ -1,0 +1,298 @@
+{
+    "matches": [
+        {
+            "id": "282163083",
+            "offset": 29.63321875,
+            "timeskew": -0.0018327832,
+            "frequencyskew": -0.0020920634
+        },
+        {
+            "id": "200535476",
+            "offset": 33.422980468,
+            "timeskew": -0.010403216,
+            "frequencyskew": -0.00016111135
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691633614041,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "326168",
+        "title": "Against the Wind",
+        "subtitle": "Bob Seger & The Silver Bullet Band",
+        "images": {
+            "background": "https://is4-ssl.mzstatic.com/image/thumb/Features115/v4/fe/63/4f/fe634f16-14ca-c6d7-ba77-3d9c72330291/mzl.safnbynb.jpg/800x800cc.jpg",
+            "coverart": "https://is5-ssl.mzstatic.com/image/thumb/Music125/v4/bc/2b/a7/bc2ba744-50e7-284d-8ea9-8d643f95d9f7/17UM1IM02542.rgb.jpg/400x400cc.jpg",
+            "coverarthq": "https://is5-ssl.mzstatic.com/image/thumb/Music125/v4/bc/2b/a7/bc2ba744-50e7-284d-8ea9-8d643f95d9f7/17UM1IM02542.rgb.jpg/400x400cc.jpg",
+            "joecolor": "b:b7d0e6p:060d0ds:1c1f20t:2a3438q:3b4348"
+        },
+        "share": {
+            "subject": "Against the Wind - Bob Seger & The Silver Bullet Band",
+            "text": "Against the Wind by Bob Seger & The Silver Bullet Band",
+            "href": "https://www.shazam.com/track/326168/against-the-wind",
+            "image": "https://is5-ssl.mzstatic.com/image/thumb/Music125/v4/bc/2b/a7/bc2ba744-50e7-284d-8ea9-8d643f95d9f7/17UM1IM02542.rgb.jpg/400x400cc.jpg",
+            "twitter": "I used @Shazam to discover Against the Wind by Bob Seger & The Silver Bullet Band.",
+            "html": "https://www.shazam.com/snippets/email-share/326168?lang=en-US&country=GB",
+            "avatar": "https://is4-ssl.mzstatic.com/image/thumb/Features115/v4/fe/63/4f/fe634f16-14ca-c6d7-ba77-3d9c72330291/mzl.safnbynb.jpg/800x800cc.jpg",
+            "snapchat": "https://www.shazam.com/partner/sc/track/326168"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "actions": [
+                {
+                    "name": "apple",
+                    "type": "applemusicplay",
+                    "id": "1440830799"
+                },
+                {
+                    "name": "apple",
+                    "type": "uri",
+                    "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/43/47/95/434795a8-28cf-c54b-76cf-d118e40697dd/mzaf_3568144294187579460.plus.aac.ep.m4a"
+                }
+            ],
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/gb/album/against-the-wind/1440830467?i=1440830799&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/gb/album/against-the-wind/1440830467?i=1440830799&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                },
+                {
+                    "caption": "BUY",
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "uri": "https://itunes.apple.com/gb/album/against-the-wind/1440830467?i=1440830799&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "buy",
+                        "providername": "itunes"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "type": "buy",
+                    "listcaption": "Buy on iTunes",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "itunes"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:Against%20the%20Wind%20Bob%20Seger%20%26%20The%20Silver%20Bullet%20Band"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27Against+the+Wind%27%20artist%3A%27Bob+Seger++The+Silver+Bullet+Band%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": false,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [
+                    {
+                        "image": "https://is4-ssl.mzstatic.com/image/thumb/Features115/v4/fe/63/4f/fe634f16-14ca-c6d7-ba77-3d9c72330291/mzl.safnbynb.jpg/800x800cc.jpg",
+                        "caption": "Bob Seger & The Silver Bullet Band"
+                    },
+                    {
+                        "image": "https://is5-ssl.mzstatic.com/image/thumb/Music125/v4/bc/2b/a7/bc2ba744-50e7-284d-8ea9-8d643f95d9f7/17UM1IM02542.rgb.jpg/400x400cc.jpg",
+                        "caption": "Against the Wind"
+                    }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                    {
+                        "title": "Album",
+                        "text": "Against the Wind"
+                    },
+                    {
+                        "title": "Label",
+                        "text": "Bob Seger"
+                    },
+                    {
+                        "title": "Released",
+                        "text": "1980"
+                    }
+                ]
+            },
+            {
+                "type": "LYRICS",
+                "text": [
+                    "Seems like yesterday",
+                    "But it was long ago",
+                    "Janey was lovely, she was the queen of my nights",
+                    "There in the darkness with the radio playin' low, and",
+                    "",
+                    "And the secrets that we shared",
+                    "Mountains that we moved",
+                    "Caught like a wildfire out of control",
+                    "'Til there was nothin' left to burn and nothin' left to prove",
+                    "",
+                    "And I remember what she said to me",
+                    "How she swore that it never would end",
+                    "I remember how she held me, oh, so tight",
+                    "Wish I didn't know now what I didn't know then",
+                    "",
+                    "Against the wind",
+                    "We were runnin' against the wind",
+                    "We were young and strong, we were runnin' against the wind",
+                    "",
+                    "And the years rolled slowly past",
+                    "And I found myself alone",
+                    "Surrounded by strangers I thought were my friends",
+                    "Found myself further and further from my home and I",
+                    "",
+                    "Guess I lost my way",
+                    "There were, oh, so many roads",
+                    "I was livin' to run and runnin' to live",
+                    "Never worried about payin' or even how much I owe",
+                    "",
+                    "Movin' eight miles a minute for months at a time",
+                    "Breakin' all of the rules that would bend",
+                    "I began to find myself searchin'",
+                    "Searchin' for shelter again and again",
+                    "",
+                    "Against the wind",
+                    "Little somethin' against the wind",
+                    "I found myself seekin' shelter against the wind",
+                    "",
+                    "Well those drifters days are past me now",
+                    "I've got so much more to think about",
+                    "Deadlines and commitments",
+                    "What to leave in, what to leave out",
+                    "",
+                    "Against the wind",
+                    "I'm still runnin' against the wind",
+                    "I'm older now but still runnin' against the wind",
+                    "Well I'm older now but still runnin' against the wind",
+                    "",
+                    "(Against the wind)",
+                    "(Against the wind) still runnin'",
+                    "(Against the wind) I'm still runnin' against the wind",
+                    "(Against the wind) I'm still runnin'",
+                    "",
+                    "(Against the wind) I'm still runnin' against the wind",
+                    "(Against the wind) still runnin'",
+                    "(Against the wind) runnin' against the wind, runnin' against the wind",
+                    "(Against the wind) see the young man run",
+                    "",
+                    "(Against the wind) watch a young man run",
+                    "(Against the wind) watch the young man runnin'",
+                    "(Against the wind) he'll be runnin' against the wind",
+                    "(Against the wind) let the cowboys ride",
+                    "",
+                    "(Against the wind) hmm",
+                    "(Against the wind) let the cowboys ride",
+                    "(Against the wind) they'll be ridin' against the wind",
+                    "(Against the wind) against the wind",
+                    "",
+                    "(Against the wind) ridin' against the wind",
+                    "(Against the wind)",
+                    "(Against the wind) ride, ride, ride, ride, ride",
+                    "(Against the wind)"
+                ],
+                "url": "https://cdn.shazam.com/lyrics/v1/en-US/GB/iphone/musixmatch/subtitles/753634/333/1?token=2dd57385881942309535e65d59255c62",
+                "footer": "Writer(s): Bob Seger\nLyrics powered by www.musixmatch.com",
+                "tabname": "Lyrics",
+                "beacondata": {
+                    "lyricsid": "30237570",
+                    "providername": "musixmatch",
+                    "commontrackid": "753634"
+                }
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/326168/youtube/video?q=Bob+Seger+%26+The+Silver+Bullet+Band+%22Against+the+Wind%22"
+            },
+            {
+                "type": "RELATED",
+                "url": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-326168?startFrom=0&pageSize=20&connected=",
+                "tabname": "Related"
+            }
+        ],
+        "url": "https://www.shazam.com/track/326168/against-the-wind",
+        "artists": [
+            {
+                "id": "42",
+                "adamid": "180478133"
+            }
+        ],
+        "isrc": "USCA20300155",
+        "genres": {
+            "primary": "Rock"
+        },
+        "urlparams": {
+            "{tracktitle}": "Against+the+Wind",
+            "{trackartist}": "Bob+Seger+%26+The+Silver+Bullet+Band"
+        },
+        "myshazam": {
+            "apple": {
+                "actions": [
+                    {
+                        "name": "myshazam:apple",
+                        "type": "uri",
+                        "uri": "https://music.apple.com/gb/album/against-the-wind/1440830467?i=1440830799&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                ]
+            }
+        },
+        "highlightsurls": {
+            "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/180478133/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios&videoIdToFilter=1498251107",
+            "trackhighlighturl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/highlights/1498251107?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+        },
+        "relatedtracksurl": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-326168?startFrom=0&pageSize=20&connected=",
+        "albumadamid": "1440830467"
+    },
+    "tagid": "B8FAED91-F780-43B3-9A73-66A348C05399"
+}

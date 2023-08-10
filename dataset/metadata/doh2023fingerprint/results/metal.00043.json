@@ -1,0 +1,263 @@
+{
+    "matches": [
+        {
+            "id": "213749009",
+            "offset": 30.216363281000003,
+            "timeskew": 0.0011888742,
+            "frequencyskew": 0.0010073185
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691633813940,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "359965",
+        "title": "Straight Through the Heart",
+        "subtitle": "Dio",
+        "images": {
+            "background": "https://is2-ssl.mzstatic.com/image/thumb/Features115/v4/c8/75/23/c8752392-769a-edb8-503e-7c373243ae4d/mza_4430060434230415683.png/800x800cc.jpg",
+            "coverart": "https://is2-ssl.mzstatic.com/image/thumb/Music128/v4/82/7a/5f/827a5f77-9c5b-9eec-0ae7-b1c7971a48d7/00602498309940.rgb.jpg/400x400cc.jpg",
+            "coverarthq": "https://is2-ssl.mzstatic.com/image/thumb/Music128/v4/82/7a/5f/827a5f77-9c5b-9eec-0ae7-b1c7971a48d7/00602498309940.rgb.jpg/400x400cc.jpg",
+            "joecolor": "b:151a16p:efe7d8s:efe3e7t:c3beb1q:c3bbbd"
+        },
+        "share": {
+            "subject": "Straight Through the Heart - Dio",
+            "text": "Straight Through the Heart by Dio",
+            "href": "https://www.shazam.com/track/359965/straight-through-the-heart",
+            "image": "https://is2-ssl.mzstatic.com/image/thumb/Music128/v4/82/7a/5f/827a5f77-9c5b-9eec-0ae7-b1c7971a48d7/00602498309940.rgb.jpg/400x400cc.jpg",
+            "twitter": "I used @Shazam to discover Straight Through the Heart by Dio.",
+            "html": "https://www.shazam.com/snippets/email-share/359965?lang=en-US&country=GB",
+            "avatar": "https://is2-ssl.mzstatic.com/image/thumb/Features115/v4/c8/75/23/c8752392-769a-edb8-503e-7c373243ae4d/mza_4430060434230415683.png/800x800cc.jpg",
+            "snapchat": "https://www.shazam.com/partner/sc/track/359965"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "actions": [
+                {
+                    "name": "apple",
+                    "type": "applemusicplay",
+                    "id": "1440757615"
+                },
+                {
+                    "name": "apple",
+                    "type": "uri",
+                    "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/30/c5/8f/30c58f60-4315-faf3-c10c-052a1303a2d2/mzaf_15530309347685852316.plus.aac.ep.m4a"
+                }
+            ],
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/gb/album/straight-through-the-heart/1440757603?i=1440757615&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/gb/album/straight-through-the-heart/1440757603?i=1440757615&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                },
+                {
+                    "caption": "BUY",
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "uri": "https://itunes.apple.com/gb/album/straight-through-the-heart/1440757603?i=1440757615&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "buy",
+                        "providername": "itunes"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "type": "buy",
+                    "listcaption": "Buy on iTunes",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "itunes"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:Straight%20Through%20the%20Heart%20Dio"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27Straight+Through+the+Heart%27%20artist%3A%27Dio%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": false,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [
+                    {
+                        "image": "https://is2-ssl.mzstatic.com/image/thumb/Features115/v4/c8/75/23/c8752392-769a-edb8-503e-7c373243ae4d/mza_4430060434230415683.png/800x800cc.jpg",
+                        "caption": "Dio"
+                    },
+                    {
+                        "image": "https://is2-ssl.mzstatic.com/image/thumb/Music128/v4/82/7a/5f/827a5f77-9c5b-9eec-0ae7-b1c7971a48d7/00602498309940.rgb.jpg/400x400cc.jpg",
+                        "caption": "Straight Through the Heart"
+                    }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                    {
+                        "title": "Album",
+                        "text": "Holy Diver (Remastered)"
+                    },
+                    {
+                        "title": "Label",
+                        "text": "UMC (Universal Music Catalogue)"
+                    },
+                    {
+                        "title": "Released",
+                        "text": "1983"
+                    }
+                ]
+            },
+            {
+                "type": "LYRICS",
+                "text": [
+                    "Hanging from the cobwebs in you mind",
+                    "It looks like a long, long way to fall",
+                    "No one ever told me life was kind",
+                    "I guess I never heard it, never heard it all",
+                    "",
+                    "Living in a world of make believe",
+                    "I can hide behind what's real",
+                    "But wearing your emotions on your sleeve",
+                    "And they all know what you feel",
+                    "",
+                    "And here it comes again",
+                    "Straight through the heart",
+                    "Straight through the heart",
+                    "",
+                    "Oh, never tell a secret with your eyes",
+                    "It's the eyes that let you down",
+                    "Tell a little truth with many lies",
+                    "It's the only way I've found",
+                    "",
+                    "Oh here it comes again",
+                    "Straight through the heart",
+                    "Straight through the heart",
+                    "",
+                    "Shout to the wind",
+                    "How can you hurt me this way",
+                    "Oh once it begins",
+                    "It looks like it's coming to stay",
+                    "",
+                    "Hanging from the cobwebs in your mind",
+                    "It looks like a long, long way to fall",
+                    "No one ever told me life was kind",
+                    "I Guess I never heard it, never heard it all, no!",
+                    "",
+                    "But here it comes again",
+                    "Straight through the heart",
+                    "Straight through the heart",
+                    "Straight through the heart",
+                    "Here it comes again",
+                    "Straight through the heart",
+                    "In the middle of the heart",
+                    "Now don't stand still, they'll get you",
+                    "Right through your heart",
+                    "And here it comes, here it comes again",
+                    "Straight through the heart"
+                ],
+                "url": "https://cdn.shazam.com/lyrics/v1/en-US/GB/iphone/musixmatch/subtitles/214463/274/1?token=d40eeff594cebaa82d1eabc63a1275e6",
+                "footer": "Writer(s): Peter Goalby, Lee Kerslake, Mick Box, John Sinclair, Bob Daisley\nLyrics powered by www.musixmatch.com",
+                "tabname": "Lyrics",
+                "beacondata": {
+                    "lyricsid": "12109055",
+                    "providername": "musixmatch",
+                    "commontrackid": "214463"
+                }
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/359965/youtube/video?q=Dio+%22Straight+Through+the+Heart%22"
+            },
+            {
+                "type": "RELATED",
+                "url": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-359965?startFrom=0&pageSize=20&connected=",
+                "tabname": "Related"
+            }
+        ],
+        "url": "https://www.shazam.com/track/359965/straight-through-the-heart",
+        "artists": [
+            {
+                "id": "42",
+                "adamid": "2779392"
+            }
+        ],
+        "isrc": "GBF080400102",
+        "genres": {
+            "primary": "Metal"
+        },
+        "urlparams": {
+            "{tracktitle}": "Straight+Through+the+Heart",
+            "{trackartist}": "Dio"
+        },
+        "myshazam": {
+            "apple": {
+                "actions": [
+                    {
+                        "name": "myshazam:apple",
+                        "type": "uri",
+                        "uri": "https://music.apple.com/gb/album/straight-through-the-heart/1440757603?i=1440757615&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                ]
+            }
+        },
+        "highlightsurls": {
+            "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/2779392/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+        },
+        "relatedtracksurl": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-359965?startFrom=0&pageSize=20&connected=",
+        "albumadamid": "1440757603"
+    },
+    "tagid": "6994F3E1-A4C6-4A8A-8FF0-028F98098723"
+}

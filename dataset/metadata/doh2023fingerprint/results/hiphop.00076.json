@@ -1,0 +1,160 @@
+{
+    "matches": [
+        {
+            "id": "424805440",
+            "offset": 31.708671875,
+            "timeskew": 0.028561592,
+            "frequencyskew": 0.02838564
+        },
+        {
+            "id": "6049776",
+            "offset": 30.763464843,
+            "timeskew": 0.028632998,
+            "frequencyskew": 0.027557611
+        },
+        {
+            "id": "480216477",
+            "offset": 15.81374414,
+            "timeskew": 0.024621487,
+            "frequencyskew": 0.026062965
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691632882151,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "423726258",
+        "title": "My Baby (feat. Da Angels)",
+        "subtitle": "50 Cent",
+        "images": {
+            "background": "https://is5-ssl.mzstatic.com/image/thumb/Features115/v4/e0/40/f8/e040f81e-0778-2221-ba15-33fca4ff3827/mzl.okdyshbj.jpg/800x800cc.jpg",
+            "coverart": "https://is4-ssl.mzstatic.com/image/thumb/Music124/v4/d2/c4/7a/d2c47ac0-171e-66a2-eb6a-889667cab3a1/192641111532_Cover.jpg/400x400cc.jpg",
+            "coverarthq": "https://is4-ssl.mzstatic.com/image/thumb/Music124/v4/d2/c4/7a/d2c47ac0-171e-66a2-eb6a-889667cab3a1/192641111532_Cover.jpg/400x400cc.jpg"
+        },
+        "share": {
+            "subject": "My Baby (feat. Da Angels) - 50 Cent",
+            "text": "My Baby (feat. Da Angels) by 50 Cent",
+            "href": "https://www.shazam.com/track/423726258/my-baby-feat-da-angels",
+            "image": "https://is4-ssl.mzstatic.com/image/thumb/Music124/v4/d2/c4/7a/d2c47ac0-171e-66a2-eb6a-889667cab3a1/192641111532_Cover.jpg/400x400cc.jpg",
+            "twitter": "I used @Shazam to discover My Baby (feat. Da Angels) by 50 Cent.",
+            "html": "https://www.shazam.com/snippets/email-share/423726258?lang=en-US&country=GB",
+            "avatar": "https://is5-ssl.mzstatic.com/image/thumb/Features115/v4/e0/40/f8/e040f81e-0778-2221-ba15-33fca4ff3827/mzl.okdyshbj.jpg/800x800cc.jpg",
+            "snapchat": "https://www.shazam.com/partner/sc/track/423726258"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:subscribe",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/subscribe?mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:subscribe",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/subscribe?mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:My%20Baby%20%28feat.%20Da%20Angels%29%2050%20Cent"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27My+Baby+%28feat.+Da+Angels%29%27%20artist%3A%2750+Cent%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": false,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [
+                    {
+                        "image": "https://is5-ssl.mzstatic.com/image/thumb/Features115/v4/e0/40/f8/e040f81e-0778-2221-ba15-33fca4ff3827/mzl.okdyshbj.jpg/800x800cc.jpg",
+                        "caption": "50 Cent"
+                    },
+                    {
+                        "image": "https://is4-ssl.mzstatic.com/image/thumb/Music124/v4/d2/c4/7a/d2c47ac0-171e-66a2-eb6a-889667cab3a1/192641111532_Cover.jpg/400x400cc.jpg",
+                        "caption": "My Baby (feat. Da Angels)"
+                    }
+                ],
+                "tabname": "Song",
+                "metadata": []
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/423726258/youtube/video?q=50+Cent+%22My+Baby+(feat.+Da+Angels)%22"
+            },
+            {
+                "type": "RELATED",
+                "url": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-423726258?startFrom=0&pageSize=20&connected=",
+                "tabname": "Related"
+            }
+        ],
+        "url": "https://www.shazam.com/track/423726258/my-baby-feat-da-angels",
+        "artists": [
+            {
+                "id": "42",
+                "adamid": "112058"
+            }
+        ],
+        "genres": {
+            "primary": "Hip-Hop/Rap"
+        },
+        "urlparams": {
+            "{tracktitle}": "My+Baby+%28feat.+Da+Angels%29",
+            "{trackartist}": "50+Cent"
+        },
+        "highlightsurls": {
+            "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/112058/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+        },
+        "relatedtracksurl": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-423726258?startFrom=0&pageSize=20&connected="
+    },
+    "tagid": "DFCB90BF-187F-40A5-8EFC-0411CD02F19B"
+}

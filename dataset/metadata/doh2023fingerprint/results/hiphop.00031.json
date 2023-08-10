@@ -1,0 +1,346 @@
+{
+    "matches": [
+        {
+            "id": "208799007",
+            "offset": 74.4875,
+            "timeskew": 0.027771115,
+            "frequencyskew": 0.027670026
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691632909380,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "221400",
+        "title": "Most Girls",
+        "subtitle": "P!nk",
+        "images": {
+            "background": "https://is5-ssl.mzstatic.com/image/thumb/AMCArtistImages116/v4/14/f7/1e/14f71ec1-a9cf-7959-38c2-e3694d9b2196/e5042bea-9ec8-4719-a292-a6915c52e016_ami-identity-b0e41d97ff203955030fe0623b5bccf1-2023-03-09T20-11-06.828Z_cropped.png/800x800cc.jpg",
+            "coverart": "https://is4-ssl.mzstatic.com/image/thumb/Music124/v4/ce/3c/10/ce3c1063-f285-23f2-52b1-1e74327e2375/743217934927.jpg/400x400cc.jpg",
+            "coverarthq": "https://is4-ssl.mzstatic.com/image/thumb/Music124/v4/ce/3c/10/ce3c1063-f285-23f2-52b1-1e74327e2375/743217934927.jpg/400x400cc.jpg",
+            "joecolor": "b:dccea9p:0b0b0es:211b19t:35322dq:463e36"
+        },
+        "share": {
+            "subject": "Most Girls - P!nk",
+            "text": "Most Girls by P!nk",
+            "href": "https://www.shazam.com/track/221400/most-girls",
+            "image": "https://is4-ssl.mzstatic.com/image/thumb/Music124/v4/ce/3c/10/ce3c1063-f285-23f2-52b1-1e74327e2375/743217934927.jpg/400x400cc.jpg",
+            "twitter": "I used @Shazam to discover Most Girls by P!nk.",
+            "html": "https://www.shazam.com/snippets/email-share/221400?lang=en-US&country=GB",
+            "avatar": "https://is5-ssl.mzstatic.com/image/thumb/AMCArtistImages116/v4/14/f7/1e/14f71ec1-a9cf-7959-38c2-e3694d9b2196/e5042bea-9ec8-4719-a292-a6915c52e016_ami-identity-b0e41d97ff203955030fe0623b5bccf1-2023-03-09T20-11-06.828Z_cropped.png/800x800cc.jpg",
+            "snapchat": "https://www.shazam.com/partner/sc/track/221400"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "actions": [
+                {
+                    "name": "apple",
+                    "type": "applemusicplay",
+                    "id": "1459161054"
+                },
+                {
+                    "name": "apple",
+                    "type": "uri",
+                    "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/46/87/83/4687831f-d546-6815-9529-7a764442d81f/mzaf_10342728088464965445.plus.aac.ep.m4a"
+                }
+            ],
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/gb/album/most-girls/1459161035?i=1459161054&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/gb/album/most-girls/1459161035?i=1459161054&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                },
+                {
+                    "caption": "BUY",
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "uri": "https://itunes.apple.com/gb/album/most-girls/1459161035?i=1459161054&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "buy",
+                        "providername": "itunes"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "type": "buy",
+                    "listcaption": "Buy on iTunes",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "itunes"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:Most%20Girls%20P%21nk"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27Most+Girls%27%20artist%3A%27P%21nk%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": false,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [
+                    {
+                        "image": "https://is5-ssl.mzstatic.com/image/thumb/AMCArtistImages116/v4/14/f7/1e/14f71ec1-a9cf-7959-38c2-e3694d9b2196/e5042bea-9ec8-4719-a292-a6915c52e016_ami-identity-b0e41d97ff203955030fe0623b5bccf1-2023-03-09T20-11-06.828Z_cropped.png/800x800cc.jpg",
+                        "caption": "P!nk"
+                    },
+                    {
+                        "image": "https://is4-ssl.mzstatic.com/image/thumb/Music124/v4/ce/3c/10/ce3c1063-f285-23f2-52b1-1e74327e2375/743217934927.jpg/400x400cc.jpg",
+                        "caption": "Most Girls"
+                    }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                    {
+                        "title": "Album",
+                        "text": "Can't Take Me Home (Expanded Edition)"
+                    },
+                    {
+                        "title": "Label",
+                        "text": "Arista/LaFace Records"
+                    },
+                    {
+                        "title": "Released",
+                        "text": "2000"
+                    }
+                ]
+            },
+            {
+                "type": "LYRICS",
+                "text": [
+                    "I never cared too much for love",
+                    "It was all a bunch of mush",
+                    "That I just did not want",
+                    "",
+                    "Paid was the issue of the day",
+                    "If a girlfriend's got some game",
+                    "Couldn't be more fly",
+                    "Gettin' paid was everything",
+                    "",
+                    "But I'm not every girl",
+                    "And I don't need that world",
+                    "To validate me",
+                    "",
+                    "'Cause shorty got a job",
+                    "Shorty got a car",
+                    "Shorty can pay her own rent",
+                    "Don't wanna dance if",
+                    "It's not in my heart",
+                    "",
+                    "Most girls want a man",
+                    "With the bling-bling",
+                    "Got my own thing",
+                    "Got the ching-ching",
+                    "I just want real love",
+                    "",
+                    "Most girls want a man",
+                    "With the mean green",
+                    "Don't wanna dance",
+                    "If he can't be",
+                    "Everything that I dream of",
+                    "A man that understands real love",
+                    "(A-ha, a-ha, a-ha, a-ha, ah, ah)",
+                    "",
+                    "I was a girl about the floss",
+                    "It was all about the cost",
+                    "How much he spent on me",
+                    "",
+                    "Seek for a man who's got the means",
+                    "To be giving you diamond rings",
+                    "It's what every fly girl",
+                    "Could want or even dream",
+                    "",
+                    "But I'm not every girl",
+                    "And I don't need no G",
+                    "To take care of me",
+                    "",
+                    "'Cause shorty got a job",
+                    "Shorty got a car",
+                    "Shorty can pay her own rent",
+                    "Don't wanna dance if",
+                    "It's not in my heart",
+                    "No, oh",
+                    "",
+                    "Most girls want a man",
+                    "With the bling-bling",
+                    "Got my own thing",
+                    "Got the ching-ching",
+                    "I just want real love",
+                    "",
+                    "Most girls want a man",
+                    "With the mean green",
+                    "Don't wanna dance",
+                    "If he can't be",
+                    "Everything that I dream of",
+                    "A man that understands real love",
+                    "",
+                    "Most girls want a man",
+                    "With the bling-bling",
+                    "Got my own thing",
+                    "Got the ching-ching",
+                    "I just want real love (I just want real love)",
+                    "",
+                    "Most girls want a man",
+                    "With the mean green",
+                    "Don't wanna dance",
+                    "If he can't be",
+                    "Everything that I dream of",
+                    "A man that understands real love",
+                    "",
+                    "(A-ha, a-ha, a-ha, a-ha, ah, ah, ah)",
+                    "",
+                    "(A-ha, a-ha, a-ha, a-ha, ah, ah, ah)",
+                    "",
+                    "I'm not every girl",
+                    "And I don't need no G",
+                    "To take care of me, no",
+                    "",
+                    "'Cause shorty got a job",
+                    "Shorty got a car",
+                    "Shorty can pay her own rent",
+                    "Don't wanna dance if",
+                    "It's not in my heart",
+                    "",
+                    "Most girls want a man",
+                    "With the bling-bling",
+                    "Got my own thing",
+                    "Got the ching-ching",
+                    "I just want real love (I just want real love, can you give me real love?)",
+                    "",
+                    "Most girls want a man",
+                    "With the mean green",
+                    "Don't wanna dance",
+                    "If he can't be",
+                    "Everything that I dream of",
+                    "A man that understands real love",
+                    "",
+                    "Most girls want a man",
+                    "With the bling-bling",
+                    "Got my own thing",
+                    "Got the ching-ching",
+                    "I just want real love (real love)",
+                    "",
+                    "Most girls want a man",
+                    "With the mean green",
+                    "Don't wanna dance",
+                    "If he can't be",
+                    "Everything that I dream of",
+                    "A man that understands real love",
+                    "",
+                    "(A-ha, a-ha, a-ha, a-ha, ah, ah) oh, oh babe, 'cause I'm not most girls",
+                    "",
+                    "(A-ha, a-ha, a-ha, a-ha, ah, ah) don't wanna dance if he can't be oh, everything",
+                    "",
+                    "I, I just want real love, said I gotta have real love (A-ha, a-ha)",
+                    "",
+                    "Everything that, can you be everything that I dream of?"
+                ],
+                "url": "https://cdn.shazam.com/lyrics/v1/en-US/GB/iphone/musixmatch/subtitles/787016/299/1?token=2b20b2390678d76171484e71332a2c8a",
+                "footer": "Writer(s): Kenneth B Edmonds, Damon E Thomas\nLyrics powered by www.musixmatch.com",
+                "tabname": "Lyrics",
+                "beacondata": {
+                    "lyricsid": "30518378",
+                    "providername": "musixmatch",
+                    "commontrackid": "787016"
+                }
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/221400/youtube/video?q=P!nk+%22Most+Girls%22"
+            },
+            {
+                "type": "RELATED",
+                "url": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-221400?startFrom=0&pageSize=20&connected=",
+                "tabname": "Related"
+            }
+        ],
+        "url": "https://www.shazam.com/track/221400/most-girls",
+        "artists": [
+            {
+                "id": "42",
+                "adamid": "4488522"
+            }
+        ],
+        "isrc": "USLF20000037",
+        "genres": {
+            "primary": "Pop"
+        },
+        "urlparams": {
+            "{tracktitle}": "Most+Girls",
+            "{trackartist}": "P%21nk"
+        },
+        "myshazam": {
+            "apple": {
+                "actions": [
+                    {
+                        "name": "myshazam:apple",
+                        "type": "uri",
+                        "uri": "https://music.apple.com/gb/album/most-girls/1459161035?i=1459161054&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                ]
+            }
+        },
+        "highlightsurls": {
+            "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/4488522/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios&videoIdToFilter=295998157",
+            "trackhighlighturl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/highlights/295998157?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+        },
+        "relatedtracksurl": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-221400?startFrom=0&pageSize=20&connected=",
+        "albumadamid": "1459161035"
+    },
+    "tagid": "3866DC18-5510-4FC6-885C-1D7FA60E0BB2"
+}

@@ -1,0 +1,277 @@
+{
+    "matches": [
+        {
+            "id": "610765682",
+            "offset": 75.59409375,
+            "timeskew": 0.00049972534,
+            "frequencyskew": 0.00028192997
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691633668252,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "77150033",
+        "title": "Movin' Out (Anthony's Song)",
+        "subtitle": "Billy Joel",
+        "images": {
+            "background": "https://is1-ssl.mzstatic.com/image/thumb/Features115/v4/3d/3a/9c/3d3a9cdb-d6dc-67fb-49c6-2c09d476bc55/mza_410221866091416226.png/800x800cc.jpg",
+            "coverart": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/37/68/4c/37684c52-dbdf-9bfe-0d87-07492f43dc4c/dj.gmcbwich.jpg/400x400cc.jpg",
+            "coverarthq": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/37/68/4c/37684c52-dbdf-9bfe-0d87-07492f43dc4c/dj.gmcbwich.jpg/400x400cc.jpg",
+            "joecolor": "b:fbf9fap:131212s:141312t:414041q:424141"
+        },
+        "share": {
+            "subject": "Movin' Out (Anthony's Song) - Billy Joel",
+            "text": "Movin' Out (Anthony's Song) by Billy Joel",
+            "href": "https://www.shazam.com/track/77150033/movin-out-anthonys-song",
+            "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/37/68/4c/37684c52-dbdf-9bfe-0d87-07492f43dc4c/dj.gmcbwich.jpg/400x400cc.jpg",
+            "twitter": "I used @Shazam to discover Movin' Out (Anthony's Song) by Billy Joel.",
+            "html": "https://www.shazam.com/snippets/email-share/77150033?lang=en-US&country=GB",
+            "avatar": "https://is1-ssl.mzstatic.com/image/thumb/Features115/v4/3d/3a/9c/3d3a9cdb-d6dc-67fb-49c6-2c09d476bc55/mza_410221866091416226.png/800x800cc.jpg",
+            "snapchat": "https://www.shazam.com/partner/sc/track/77150033"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "actions": [
+                {
+                    "name": "apple",
+                    "type": "applemusicplay",
+                    "id": "158617967"
+                },
+                {
+                    "name": "apple",
+                    "type": "uri",
+                    "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/d2/cb/8e/d2cb8e31-cd27-4cf6-cb02-015f3e894400/mzaf_15600117864860931866.plus.aac.ep.m4a"
+                }
+            ],
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/gb/album/movin-out-anthonys-song/158617952?i=158617967&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/gb/album/movin-out-anthonys-song/158617952?i=158617967&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                },
+                {
+                    "caption": "BUY",
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "uri": "https://itunes.apple.com/gb/album/movin-out-anthonys-song/158617952?i=158617967&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "buy",
+                        "providername": "itunes"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "type": "buy",
+                    "listcaption": "Buy on iTunes",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "itunes"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:Movin%27%20Out%20%28Anthony%27s%20Song%29%20Billy%20Joel"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27Movin%5C%27+Out+%28Anthony%5C%27s+Song%29%27%20artist%3A%27Billy+Joel%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": false,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [
+                    {
+                        "image": "https://is1-ssl.mzstatic.com/image/thumb/Features115/v4/3d/3a/9c/3d3a9cdb-d6dc-67fb-49c6-2c09d476bc55/mza_410221866091416226.png/800x800cc.jpg",
+                        "caption": "Billy Joel"
+                    },
+                    {
+                        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/37/68/4c/37684c52-dbdf-9bfe-0d87-07492f43dc4c/dj.gmcbwich.jpg/400x400cc.jpg",
+                        "caption": "Movin' Out (Anthony's Song)"
+                    }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                    {
+                        "title": "Album",
+                        "text": "The Stranger"
+                    },
+                    {
+                        "title": "Label",
+                        "text": "Columbia"
+                    },
+                    {
+                        "title": "Released",
+                        "text": "1977"
+                    }
+                ]
+            },
+            {
+                "type": "LYRICS",
+                "text": [
+                    "Woo-hoo",
+                    "Uh-huh",
+                    "Mm, mm, mm",
+                    "",
+                    "Anthony works in the grocery store",
+                    "Saving his pennies for someday",
+                    "Mama Leone left a note on the door",
+                    "She said, \"Sonny, move out to the country\"",
+                    "Oh, but working too hard can give you a heart attack-ack-ack-ack",
+                    "",
+                    "You oughta know by now (you oughta know by now)",
+                    "Who needs a house out in Hackensack?",
+                    "Is that all you get for your money?",
+                    "",
+                    "And it seems such a waste of time",
+                    "If that's what it's all about",
+                    "Mama, if that's movin' up then I'm movin' out!",
+                    "Mmm I'm movin' out",
+                    "",
+                    "Mmm, mmm",
+                    "Woo-hoo",
+                    "Uh-huh",
+                    "",
+                    "Sergeant O'Leary is walking the beat",
+                    "At night, he becomes a bartender",
+                    "He works at Mister Cacciatore's down on Sullivan Street",
+                    "Across from the medical center",
+                    "Yeah, he's trading in his Chevy for a Cadillac-ac-ac-ac",
+                    "",
+                    "You oughta know by now (you oughta know by now)",
+                    "And if he can't drive with a broken back",
+                    "At least he can polish the fenders",
+                    "",
+                    "And it seems such a waste of time",
+                    "If that's what it's all about",
+                    "Mama, if that's movin' up then I'm movin' out!",
+                    "Mmm I'm movin' out",
+                    "",
+                    "Oh-huh",
+                    "Woo-hoo",
+                    "Uh-huh",
+                    "",
+                    "You should never argue with a crazy mi-mi-mi-mind",
+                    "You oughta know by now (you oughta know by now)",
+                    "You can pay Uncle Sam with the overtime",
+                    "Is that all you get for your money?",
+                    "",
+                    "And if that's what you have in mind",
+                    "Yeah, that's what you're all about",
+                    "Good luck movin' up, 'cause I'm movin' out!",
+                    "Mmm I'm movin' out",
+                    "",
+                    "Mmm, mmm",
+                    "Woo-hoo",
+                    "Uh-huh",
+                    "Mmm, mmm",
+                    "",
+                    "I'm movin' out!"
+                ],
+                "url": "https://cdn.shazam.com/lyrics/v1/en-US/GB/iphone/musixmatch/subtitles/9520834/210/1?token=17f1f4b0e4c4aadd02202c5b56e7f8df",
+                "footer": "Writer(s): Billy Joel\nLyrics powered by www.musixmatch.com",
+                "tabname": "Lyrics",
+                "beacondata": {
+                    "lyricsid": "30352938",
+                    "providername": "musixmatch",
+                    "commontrackid": "9520834"
+                }
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/77150033/youtube/video?q=Billy+Joel+%22Movin'+Out+(Anthony's+Song)%22"
+            },
+            {
+                "type": "RELATED",
+                "url": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-77150033?startFrom=0&pageSize=20&connected=",
+                "tabname": "Related"
+            }
+        ],
+        "url": "https://www.shazam.com/track/77150033/movin-out-anthonys-song",
+        "artists": [
+            {
+                "id": "42",
+                "adamid": "485953"
+            }
+        ],
+        "isrc": "USSM17700369",
+        "genres": {
+            "primary": "Rock"
+        },
+        "urlparams": {
+            "{tracktitle}": "Movin%27+Out+%28Anthony%27s+Song%29",
+            "{trackartist}": "Billy+Joel"
+        },
+        "myshazam": {
+            "apple": {
+                "actions": [
+                    {
+                        "name": "myshazam:apple",
+                        "type": "uri",
+                        "uri": "https://music.apple.com/gb/album/movin-out-anthonys-song/158617952?i=158617967&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                ]
+            }
+        },
+        "highlightsurls": {
+            "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/485953/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+        },
+        "relatedtracksurl": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-77150033?startFrom=0&pageSize=20&connected=",
+        "albumadamid": "158617952"
+    },
+    "tagid": "BA115B34-5B30-4FD2-AF23-E60C36CCE95A"
+}

@@ -1,0 +1,404 @@
+{
+    "matches": [
+        {
+            "id": "160266105",
+            "offset": 14.397131835,
+            "timeskew": 0.00014579296,
+            "frequencyskew": -4.6014786e-05
+        },
+        {
+            "id": "306651915",
+            "offset": 29.659683593,
+            "timeskew": 0.0011526346,
+            "frequencyskew": 0.0008058548
+        },
+        {
+            "id": "282357034",
+            "offset": 29.616351562,
+            "timeskew": 0.0009930134,
+            "frequencyskew": 0.0007251501
+        },
+        {
+            "id": "515807894",
+            "offset": 29.210376953,
+            "timeskew": -0.01552099,
+            "frequencyskew": -0.015663326
+        },
+        {
+            "id": "212891246",
+            "offset": 29.835949218000003,
+            "timeskew": 0.0013244152,
+            "frequencyskew": 0.00084614754
+        },
+        {
+            "id": "68723480",
+            "offset": 30.162203125,
+            "timeskew": -0.015602827,
+            "frequencyskew": -0.015663326
+        },
+        {
+            "id": "293271600",
+            "offset": 29.417136718000002,
+            "timeskew": -0.00835377,
+            "frequencyskew": -0.00882107
+        },
+        {
+            "id": "207001929",
+            "offset": 29.813445312,
+            "timeskew": 0.0026601553,
+            "frequencyskew": 0.0023386478
+        },
+        {
+            "id": "265890228",
+            "offset": 29.942865234,
+            "timeskew": 0.0010560751,
+            "frequencyskew": 0.00096702576
+        },
+        {
+            "id": "429446763",
+            "offset": 6.325181639999999,
+            "timeskew": 9.703636e-05,
+            "frequencyskew": -0.00024163723
+        },
+        {
+            "id": "277393706",
+            "offset": 29.701164062,
+            "timeskew": 0.0041189194,
+            "frequencyskew": 0.004763603
+        },
+        {
+            "id": "209671149",
+            "offset": 30.18203125,
+            "timeskew": 0.0024518967,
+            "frequencyskew": 0.0027424097
+        },
+        {
+            "id": "304519319",
+            "offset": 29.810617187,
+            "timeskew": 4.7445297e-05,
+            "frequencyskew": 0.0
+        },
+        {
+            "id": "289564593",
+            "offset": 59.602796875,
+            "timeskew": 7.331371e-05,
+            "frequencyskew": -4.029274e-05
+        },
+        {
+            "id": "240143631",
+            "offset": 30.449904296,
+            "timeskew": 0.00014042854,
+            "frequencyskew": 0.0
+        },
+        {
+            "id": "273031315",
+            "offset": 177.512421875,
+            "timeskew": -0.0073726177,
+            "frequencyskew": -8.0525875e-05
+        },
+        {
+            "id": "602863260",
+            "offset": 455.21671875,
+            "timeskew": 0.0016919374,
+            "frequencyskew": 0.0012896061
+        },
+        {
+            "id": "489981962",
+            "offset": 251.922359375,
+            "timeskew": -0.023424983,
+            "frequencyskew": -8.0525875e-05
+        },
+        {
+            "id": "514877392",
+            "offset": 14.232602539,
+            "timeskew": -0.0005040765,
+            "frequencyskew": 0.00084614754
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691632444329,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "379611",
+        "title": "Let's Groove",
+        "subtitle": "Earth, Wind & Fire",
+        "images": {
+            "background": "https://is4-ssl.mzstatic.com/image/thumb/Features115/v4/5a/37/5f/5a375fa5-ead8-6f77-6e4d-b94f43804ba1/mza_917709224484712798.png/800x800cc.jpg",
+            "coverart": "https://is1-ssl.mzstatic.com/image/thumb/Features125/v4/ca/f8/29/caf82937-caba-e739-79b1-fe53a673dd53/dj.vikfvxxi.jpg/400x400cc.jpg",
+            "coverarthq": "https://is1-ssl.mzstatic.com/image/thumb/Features125/v4/ca/f8/29/caf82937-caba-e739-79b1-fe53a673dd53/dj.vikfvxxi.jpg/400x400cc.jpg",
+            "joecolor": "b:424787p:fee7b0s:edaf9dt:d8c6a8q:cb9a98"
+        },
+        "share": {
+            "subject": "Let's Groove - Earth, Wind & Fire",
+            "text": "Let's Groove by Earth, Wind & Fire",
+            "href": "https://www.shazam.com/track/379611/lets-groove",
+            "image": "https://is1-ssl.mzstatic.com/image/thumb/Features125/v4/ca/f8/29/caf82937-caba-e739-79b1-fe53a673dd53/dj.vikfvxxi.jpg/400x400cc.jpg",
+            "twitter": "I used @Shazam to discover Let's Groove by Earth, Wind & Fire.",
+            "html": "https://www.shazam.com/snippets/email-share/379611?lang=en-US&country=GB",
+            "avatar": "https://is4-ssl.mzstatic.com/image/thumb/Features115/v4/5a/37/5f/5a375fa5-ead8-6f77-6e4d-b94f43804ba1/mza_917709224484712798.png/800x800cc.jpg",
+            "snapchat": "https://www.shazam.com/partner/sc/track/379611"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "actions": [
+                {
+                    "name": "apple",
+                    "type": "applemusicplay",
+                    "id": "523229275"
+                },
+                {
+                    "name": "apple",
+                    "type": "uri",
+                    "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/0b/b6/14/0bb614b0-7d0d-6429-0b92-d754450b5c27/mzaf_7313916963413286890.plus.aac.ep.m4a"
+                }
+            ],
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/gb/album/lets-groove/523229261?i=523229275&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/gb/album/lets-groove/523229261?i=523229275&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                },
+                {
+                    "caption": "BUY",
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "uri": "https://itunes.apple.com/gb/album/lets-groove/523229261?i=523229275&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "buy",
+                        "providername": "itunes"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "type": "buy",
+                    "listcaption": "Buy on iTunes",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "itunes"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:Let%27s%20Groove%20Earth%2C%20Wind%20%26%20Fire"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27Let%5C%27s+Groove%27%20artist%3A%27Earth%2C+Wind++Fire%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": false,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [
+                    {
+                        "image": "https://is4-ssl.mzstatic.com/image/thumb/Features115/v4/5a/37/5f/5a375fa5-ead8-6f77-6e4d-b94f43804ba1/mza_917709224484712798.png/800x800cc.jpg",
+                        "caption": "Earth, Wind & Fire"
+                    },
+                    {
+                        "image": "https://is1-ssl.mzstatic.com/image/thumb/Features125/v4/ca/f8/29/caf82937-caba-e739-79b1-fe53a673dd53/dj.vikfvxxi.jpg/400x400cc.jpg",
+                        "caption": "Let's Groove"
+                    }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                    {
+                        "title": "Album",
+                        "text": "Raise!"
+                    },
+                    {
+                        "title": "Label",
+                        "text": "Legacy Recordings"
+                    },
+                    {
+                        "title": "Released",
+                        "text": "1981"
+                    }
+                ]
+            },
+            {
+                "type": "LYRICS",
+                "text": [
+                    "We can boogie down, down, upon down",
+                    "The boogie down, down, upon down",
+                    "The boogie down, down, upon down",
+                    "The boogie down, down",
+                    "",
+                    "Let's groove tonight",
+                    "Share the spice of life",
+                    "Baby slice it right",
+                    "We're gonna groove tonight",
+                    "",
+                    "Let this groove, get you to move",
+                    "It's alright, alright, alright",
+                    "Let this groove, set in your shoes",
+                    "So stand up, alright, alright",
+                    "",
+                    "Gonna tell ya what you can do",
+                    "With my love, alright",
+                    "Let you know girl you're looking good",
+                    "You're outta sight, alright",
+                    "",
+                    "Just move yourself and glide like a 747",
+                    "And lose yourself in the sky among the clouds in the heaven cause",
+                    "",
+                    "Let this groove, light up your fuse",
+                    "It's alright, alright, alright, oo oh oh",
+                    "Let this groove, set in your shoes",
+                    "So stand up alright, alright",
+                    "",
+                    "Let me tell ya what you can do",
+                    "With my love, alright",
+                    "Gotta let you know girl you're looking good",
+                    "You're outta sight, alright",
+                    "",
+                    "Just tell the DJ",
+                    "To play your favourite tune",
+                    "Then you know it's okay",
+                    "What you found is happening now, oh",
+                    "",
+                    "Let this groove, light up your fuse, it's alright, alright, alright",
+                    "Let this groove, set in your shoes, so stand up, stand up, alright",
+                    "Let this groove, get you to move, it's alright, alright, alright, yeah",
+                    "Let this groove set in your shoes, so stand up, alright, alright",
+                    "",
+                    "You will find peace of mind on the floor",
+                    "Take a little time, come and see, you and me",
+                    "Give a little sign, I'll be there after a while",
+                    "If you want my love",
+                    "",
+                    "We can boogie on down, down",
+                    "Boogie on down, down",
+                    "We boogie on down, down",
+                    "We boogie on down, on down (boogie!)",
+                    "",
+                    "Let's groove tonight",
+                    "Share the spice of life",
+                    "Baby slice it right",
+                    "We're gonna groove tonight",
+                    "",
+                    "Let this groove, light up your fuse, it's alright, alright, alright, oh",
+                    "Let this groove set in your shoes, so stand up, alright, alright",
+                    "Let this groove, get you to move it's alright, alright, alright, oo oh oh",
+                    "Let this groove set in your shoes, so stand up, alright, alright",
+                    "",
+                    "You just move yourself, yourself",
+                    "You just move yourself, mmmmmm",
+                    "Groove tonight, huh",
+                    "Share the spice of life",
+                    "Baby slice it right",
+                    "We gonna groove tonight, oh yeah",
+                    "You just move yourself, mmmmmm",
+                    "You just move yourself",
+                    "Just move, yeah",
+                    "",
+                    "Hey, alright",
+                    "",
+                    "Let this groove, light up your fuse, it's alright, alright, alright",
+                    "Let this groove, set in your shoes, so stand up, stand up, alright"
+                ],
+                "url": "https://cdn.shazam.com/lyrics/v1/en-US/GB/iphone/musixmatch/subtitles/788519/298/1?token=cdf6d14efccfe3cf96f473d7ad37574a",
+                "footer": "Writer(s): Maurice White, Wayne Vaughn\nLyrics powered by www.musixmatch.com",
+                "tabname": "Lyrics",
+                "beacondata": {
+                    "lyricsid": "29730540",
+                    "providername": "musixmatch",
+                    "commontrackid": "788519"
+                }
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/379611/youtube/video?q=Earth,+Wind+%26+Fire+%22Let's+Groove%22"
+            },
+            {
+                "type": "RELATED",
+                "url": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-379611?startFrom=0&pageSize=20&connected=",
+                "tabname": "Related"
+            }
+        ],
+        "url": "https://www.shazam.com/track/379611/lets-groove",
+        "artists": [
+            {
+                "id": "42",
+                "adamid": "290699"
+            }
+        ],
+        "isrc": "USSM18100641",
+        "genres": {
+            "primary": "R&B/Soul"
+        },
+        "urlparams": {
+            "{tracktitle}": "Let%27s+Groove",
+            "{trackartist}": "Earth%2C+Wind+%26+Fire"
+        },
+        "myshazam": {
+            "apple": {
+                "actions": [
+                    {
+                        "name": "myshazam:apple",
+                        "type": "uri",
+                        "uri": "https://music.apple.com/gb/album/lets-groove/523229261?i=523229275&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                ]
+            }
+        },
+        "highlightsurls": {
+            "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/290699/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+        },
+        "relatedtracksurl": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-379611?startFrom=0&pageSize=20&connected=",
+        "albumadamid": "523229261"
+    },
+    "tagid": "40145B58-A094-4F4B-A1CF-E57E134C6C21"
+}

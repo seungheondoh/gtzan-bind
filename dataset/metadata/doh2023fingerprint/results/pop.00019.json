@@ -1,0 +1,300 @@
+{
+    "matches": [
+        {
+            "id": "297734757",
+            "offset": 29.731630859,
+            "timeskew": 9.226799e-05,
+            "frequencyskew": 0.0
+        },
+        {
+            "id": "463355609",
+            "offset": 81.364648437,
+            "timeskew": 0.009498954,
+            "frequencyskew": -0.000120818615
+        },
+        {
+            "id": "450328121",
+            "offset": 46.530554687000006,
+            "timeskew": -4.553795e-05,
+            "frequencyskew": -4.029274e-05
+        },
+        {
+            "id": "463201274",
+            "offset": 29.818958984000002,
+            "timeskew": -0.010412276,
+            "frequencyskew": -0.00024163723
+        },
+        {
+            "id": "263864121",
+            "offset": 30.104603514999997,
+            "timeskew": -0.0001835823,
+            "frequencyskew": -0.00024163723
+        },
+        {
+            "id": "470727746",
+            "offset": 19.002011718000002,
+            "timeskew": -0.024350882,
+            "frequencyskew": -0.0011672378
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691632685899,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "41249307",
+        "title": "...Baby One More Time",
+        "subtitle": "Britney Spears",
+        "images": {
+            "background": "https://is4-ssl.mzstatic.com/image/thumb/Features115/v4/53/a7/66/53a76640-0730-3751-19cd-aac7d85c20b8/mzl.izsetnqd.jpeg/800x800cc.jpg",
+            "coverart": "https://is4-ssl.mzstatic.com/image/thumb/Music125/v4/7b/f7/0e/7bf70ecc-b16b-01d8-b14c-00ccae5062c7/dj.wvceujiz.jpg/400x400cc.jpg",
+            "coverarthq": "https://is4-ssl.mzstatic.com/image/thumb/Music125/v4/7b/f7/0e/7bf70ecc-b16b-01d8-b14c-00ccae5062c7/dj.wvceujiz.jpg/400x400cc.jpg",
+            "joecolor": "b:ffedebp:4f190bs:4b291at:724338q:6f5043"
+        },
+        "share": {
+            "subject": "...Baby One More Time - Britney Spears",
+            "text": "...Baby One More Time by Britney Spears",
+            "href": "https://www.shazam.com/track/41249307/baby-one-more-time",
+            "image": "https://is4-ssl.mzstatic.com/image/thumb/Music125/v4/7b/f7/0e/7bf70ecc-b16b-01d8-b14c-00ccae5062c7/dj.wvceujiz.jpg/400x400cc.jpg",
+            "twitter": "I used @Shazam to discover ...Baby One More Time by Britney Spears.",
+            "html": "https://www.shazam.com/snippets/email-share/41249307?lang=en-US&country=GB",
+            "avatar": "https://is4-ssl.mzstatic.com/image/thumb/Features115/v4/53/a7/66/53a76640-0730-3751-19cd-aac7d85c20b8/mzl.izsetnqd.jpeg/800x800cc.jpg",
+            "snapchat": "https://www.shazam.com/partner/sc/track/41249307"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "actions": [
+                {
+                    "name": "apple",
+                    "type": "applemusicplay",
+                    "id": "273143820"
+                },
+                {
+                    "name": "apple",
+                    "type": "uri",
+                    "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/54/2f/10/542f10c0-8f6f-8803-37f6-bc45c3327b41/mzaf_9547459566157646314.plus.aac.ep.m4a"
+                }
+            ],
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/gb/album/baby-one-more-time/273143723?i=273143820&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/gb/album/baby-one-more-time/273143723?i=273143820&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                },
+                {
+                    "caption": "BUY",
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "uri": "https://itunes.apple.com/gb/album/baby-one-more-time/273143723?i=273143820&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "buy",
+                        "providername": "itunes"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "type": "buy",
+                    "listcaption": "Buy on iTunes",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "itunes"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:...Baby%20One%20More%20Time%20Britney%20Spears"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27...Baby+One+More+Time%27%20artist%3A%27Britney+Spears%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": false,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [
+                    {
+                        "image": "https://is4-ssl.mzstatic.com/image/thumb/Features115/v4/53/a7/66/53a76640-0730-3751-19cd-aac7d85c20b8/mzl.izsetnqd.jpeg/800x800cc.jpg",
+                        "caption": "Britney Spears"
+                    },
+                    {
+                        "image": "https://is4-ssl.mzstatic.com/image/thumb/Music125/v4/7b/f7/0e/7bf70ecc-b16b-01d8-b14c-00ccae5062c7/dj.wvceujiz.jpg/400x400cc.jpg",
+                        "caption": "...Baby One More Time"
+                    }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                    {
+                        "title": "Album",
+                        "text": "...Baby One More Time (Deluxe Version)"
+                    },
+                    {
+                        "title": "Label",
+                        "text": "Jive"
+                    },
+                    {
+                        "title": "Released",
+                        "text": "1998"
+                    }
+                ]
+            },
+            {
+                "type": "LYRICS",
+                "text": [
+                    "Oh, baby, baby",
+                    "Oh, baby, baby",
+                    "",
+                    "Oh, baby, baby, how was I supposed to know",
+                    "That something wasn't right here?",
+                    "Oh, baby, baby, I shouldn't have let you go",
+                    "And now you're out of sight, yeah",
+                    "",
+                    "Show me how you want it to be",
+                    "Tell me, baby, 'cause I need to know now, oh, because",
+                    "",
+                    "My loneliness is killing me (and I)",
+                    "I must confess I still believe (still believe)",
+                    "When I'm not with you I lose my mind",
+                    "Give me a sign, hit me baby one more time",
+                    "",
+                    "Oh, baby, baby, the reason I breathe is you",
+                    "Boy, you got me blinded",
+                    "Oh, pretty baby, there's nothing that I wouldn't do",
+                    "It's not the way I planned it",
+                    "",
+                    "Show me how you want it to be",
+                    "Tell me, baby, 'cause I need to know now, oh, because",
+                    "",
+                    "My loneliness is killing me (and I)",
+                    "I must confess I still believe (still believe)",
+                    "When I'm not with you I lose my mind",
+                    "Give me a sign, hit me baby one more time",
+                    "",
+                    "Oh, baby, baby",
+                    "Oh-oh",
+                    "Oh, baby, baby",
+                    "Eh-eh-yeah",
+                    "Oh, baby, baby, how was I supposed to know?",
+                    "",
+                    "Oh, pretty baby, I shouldn't have let you go",
+                    "I must confess that my loneliness is killing me now",
+                    "Don't you know I still believe",
+                    "That you will be here, and give me a sign",
+                    "Hit me baby one more time",
+                    "",
+                    "My loneliness is killing me (and I)",
+                    "I must confess I still believe (still believe)",
+                    "When I'm not with you I lose my mind",
+                    "Give me a sign, hit me baby one more time",
+                    "",
+                    "I must confess that my loneliness is killing me now",
+                    "Don't you know I still believe",
+                    "That you will be here, and give me a sign",
+                    "Hit me baby one more time"
+                ],
+                "url": "https://cdn.shazam.com/lyrics/v1/en-US/GB/iphone/musixmatch/subtitles/117615/212/1?token=7ee32249a24ce388d1cc65ebf105d3ef",
+                "footer": "Writer(s): Martin Sandberg\nLyrics powered by www.musixmatch.com",
+                "tabname": "Lyrics",
+                "beacondata": {
+                    "lyricsid": "28440246",
+                    "providername": "musixmatch",
+                    "commontrackid": "117615"
+                }
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/41249307/youtube/video?q=Britney+Spears+%22...Baby+One+More+Time%22"
+            },
+            {
+                "type": "RELATED",
+                "url": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-41249307?startFrom=0&pageSize=20&connected=",
+                "tabname": "Related"
+            }
+        ],
+        "url": "https://www.shazam.com/track/41249307/baby-one-more-time",
+        "artists": [
+            {
+                "id": "42",
+                "adamid": "217005"
+            }
+        ],
+        "isrc": "USJI19810404",
+        "genres": {
+            "primary": "Pop"
+        },
+        "urlparams": {
+            "{tracktitle}": "...Baby+One+More+Time",
+            "{trackartist}": "Britney+Spears"
+        },
+        "myshazam": {
+            "apple": {
+                "actions": [
+                    {
+                        "name": "myshazam:apple",
+                        "type": "uri",
+                        "uri": "https://music.apple.com/gb/album/baby-one-more-time/273143723?i=273143820&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                ]
+            }
+        },
+        "highlightsurls": {
+            "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/217005/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios&videoIdToFilter=307560076",
+            "trackhighlighturl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/highlights/307560076?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+        },
+        "relatedtracksurl": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-41249307?startFrom=0&pageSize=20&connected=",
+        "albumadamid": "273143723"
+    },
+    "tagid": "D7E6FE47-C8AA-4A52-9255-535C9CBB69B9"
+}

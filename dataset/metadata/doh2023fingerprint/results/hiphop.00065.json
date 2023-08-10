@@ -1,0 +1,310 @@
+{
+    "matches": [
+        {
+            "id": "276776769",
+            "offset": 149.6811875,
+            "timeskew": -0.0025619268,
+            "frequencyskew": -0.0025742054
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691632896323,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "11210848",
+        "title": "Check the Rhime",
+        "subtitle": "A Tribe Called Quest",
+        "images": {
+            "background": "https://is2-ssl.mzstatic.com/image/thumb/Features115/v4/a0/ad/bc/a0adbc34-694d-11c0-7bde-530856def3e0/mzl.mdbitjdo.jpg/800x800cc.jpg",
+            "coverart": "https://is3-ssl.mzstatic.com/image/thumb/Music115/v4/e0/14/c8/e014c80a-425b-e01a-1124-cee985bcb5e6/dj.qafpkddz.jpg/400x400cc.jpg",
+            "coverarthq": "https://is3-ssl.mzstatic.com/image/thumb/Music115/v4/e0/14/c8/e014c80a-425b-e01a-1124-cee985bcb5e6/dj.qafpkddz.jpg/400x400cc.jpg",
+            "joecolor": "b:060604p:f14d75s:f83942t:c23e5fq:c72f35"
+        },
+        "share": {
+            "subject": "Check the Rhime - A Tribe Called Quest",
+            "text": "Check the Rhime by A Tribe Called Quest",
+            "href": "https://www.shazam.com/track/11210848/check-the-rhime",
+            "image": "https://is3-ssl.mzstatic.com/image/thumb/Music115/v4/e0/14/c8/e014c80a-425b-e01a-1124-cee985bcb5e6/dj.qafpkddz.jpg/400x400cc.jpg",
+            "twitter": "I used @Shazam to discover Check the Rhime by A Tribe Called Quest.",
+            "html": "https://www.shazam.com/snippets/email-share/11210848?lang=en-US&country=GB",
+            "avatar": "https://is2-ssl.mzstatic.com/image/thumb/Features115/v4/a0/ad/bc/a0adbc34-694d-11c0-7bde-530856def3e0/mzl.mdbitjdo.jpg/800x800cc.jpg",
+            "snapchat": "https://www.shazam.com/partner/sc/track/11210848"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "actions": [
+                {
+                    "name": "apple",
+                    "type": "applemusicplay",
+                    "id": "278911473"
+                },
+                {
+                    "name": "apple",
+                    "type": "uri",
+                    "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/54/26/bf/5426bfce-802c-2eb3-b784-c147e8b7c78b/mzaf_16377241149692453912.plus.aac.ep.m4a"
+                }
+            ],
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/gb/album/check-the-rhime/278911460?i=278911473&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/gb/album/check-the-rhime/278911460?i=278911473&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                },
+                {
+                    "caption": "BUY",
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "uri": "https://itunes.apple.com/gb/album/check-the-rhime/278911460?i=278911473&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "buy",
+                        "providername": "itunes"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "type": "buy",
+                    "listcaption": "Buy on iTunes",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "itunes"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:Check%20the%20Rhime%20A%20Tribe%20Called%20Quest"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27Check+the+Rhime%27%20artist%3A%27A+Tribe+Called+Quest%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": false,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [
+                    {
+                        "image": "https://is2-ssl.mzstatic.com/image/thumb/Features115/v4/a0/ad/bc/a0adbc34-694d-11c0-7bde-530856def3e0/mzl.mdbitjdo.jpg/800x800cc.jpg",
+                        "caption": "A Tribe Called Quest"
+                    },
+                    {
+                        "image": "https://is3-ssl.mzstatic.com/image/thumb/Music115/v4/e0/14/c8/e014c80a-425b-e01a-1124-cee985bcb5e6/dj.qafpkddz.jpg/400x400cc.jpg",
+                        "caption": "Check the Rhime"
+                    }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                    {
+                        "title": "Album",
+                        "text": "The Low End Theory"
+                    },
+                    {
+                        "title": "Label",
+                        "text": "Jive"
+                    },
+                    {
+                        "title": "Released",
+                        "text": "1991"
+                    }
+                ]
+            },
+            {
+                "type": "LYRICS",
+                "text": [
+                    "Back in the days on the boulevard of Linden",
+                    "We used to kick routines and presence was fittin'",
+                    "It was I, The Abstract",
+                    "And me the five footer",
+                    "I kicks the mad style so step off the frankfurter",
+                    "Yo, Phife, you remember that routine",
+                    "That we used to make spiffy like Mr. Clean?",
+                    "Um, um, a tidbit, um, a smidgen",
+                    "I don't get the message so you gots to run the pigeon",
+                    "",
+                    "You on point Phife?",
+                    "All the time, Tip",
+                    "You on point Phife?",
+                    "All the time, Tip",
+                    "You on point Phife?",
+                    "All the time, Tip",
+                    "Well, then grab the microphone and let your words rip",
+                    "",
+                    "Now here's a funky introduction of how nice I am",
+                    "Tell your mother, tell your father, send a telegram",
+                    "I'm like an energizer 'cause, you see, I last long",
+                    "My crew is never ever wack because we stand strong",
+                    "Now if you say my style is wack that's where you're dead wrong",
+                    "I slayed that body in El Segundo then push it along",
+                    "You'd be a fool to reply that Phife is not the man",
+                    "'Cause you know, and I know that you know who I am",
+                    "A special shot of peace goes out to all my pals, you see",
+                    "And a middle finger goes for all you punk MC's",
+                    "",
+                    "'Cause I love it when you wack MC's despise me",
+                    "They get vexed, I roll next, can't none contest me",
+                    "I'm just a fly MC who's five foot three and very brave",
+                    "On job remaining, no I'm chaining 'cause I misbehave",
+                    "I come correct in full effect have all my hoes in check",
+                    "And before I get the butt the Jim must be erect",
+                    "You see, my aura's positive I don't promote no junk",
+                    "See, I'm far from a bully and I ain't a punk",
+                    "Extremity in rhythm, yeah that's what you heard",
+                    "So just clean out your ears and just check the word",
+                    "",
+                    "Check the rhyme y'all, check the rhyme y'all",
+                    "Check the rhyme y'all, check the rhyme y'all",
+                    "Check the rhyme y'all, check the rhyme y'all",
+                    "Check it out, check it out",
+                    "Check the rhyme y'all, check the rhyme y'all",
+                    "Check the rhyme y'all, check the rhyme y'all",
+                    "Check the rhyme y'all, check the rhyme y'all",
+                    "Check it out, check it out",
+                    "",
+                    "Back in days on the boulevard of Linden",
+                    "We used to kick routines and the presence was fittin'",
+                    "It was I the Phifer",
+                    "And me The Abstract",
+                    "The rhymes were so rumpin' that the brothers rode the 'zack",
+                    "Ayo, Tip, do you recall when we used to rock",
+                    "Those fly routines on your cousin's block",
+                    "Um, let me see, damn I can't remember",
+                    "I receive the message and you will play the sender",
+                    "",
+                    "You on point Tip?",
+                    "All the time Phife",
+                    "You on point Tip?",
+                    "Yeah, all the time Phife",
+                    "You on point Tip?",
+                    "Yo, all the time Phife",
+                    "So play the resurrector and give the dead some life",
+                    "",
+                    "Okay, if knowledge is the key then just show me the lock",
+                    "Got the scrawny legs, but I move just like Lou Brock",
+                    "With speed, I'm agile plus I'm worth your while",
+                    "One hundred percent intelligent black child",
+                    "My optic presentation sizzles the retina",
+                    "How far must I go to gain respect? Um",
+                    "Well, it's kind of simple, just remain your own",
+                    "Or you'll be crazy sad and alone",
+                    "",
+                    "Industry rule number four thousand and eighty",
+                    "Record company people are shady",
+                    "So kids watch your back 'cause I think they smoke crack",
+                    "I don't doubt it. Look at how they act",
+                    "Off to better things like a hip-hop forum",
+                    "Pass me the rock, and I'll storm with the crew and proper",
+                    "What you say Hammer? Proper",
+                    "Rap is not pop, if you call it that then stop",
+                    "",
+                    "NC, y'all, check the rhyme y'all",
+                    "SC, y'all, check it out y'all",
+                    "Virginia, check the rhyme y'all",
+                    "Check it out, check it out",
+                    "In London, check the rhyme, y'all"
+                ],
+                "url": "https://cdn.shazam.com/lyrics/v1/en-US/GB/iphone/musixmatch/subtitles/2631674/216/1?token=925dc9582eaa6a6155b1f73bdcac5977",
+                "footer": "Writer(s): Leon Ware, Richard Rudolph, Roger Ball, Minnie Riperton, Kamal Ibn John Fareed, Ali Shaheed Muhammed, Malik Izaak Taylor, Owen Onnie Mc Intyre\nLyrics powered by www.musixmatch.com",
+                "tabname": "Lyrics",
+                "beacondata": {
+                    "lyricsid": "30435230",
+                    "providername": "musixmatch",
+                    "commontrackid": "2631674"
+                }
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/11210848/youtube/video?q=A+Tribe+Called+Quest+%22Check+the+Rhime%22"
+            },
+            {
+                "type": "RELATED",
+                "url": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-11210848?startFrom=0&pageSize=20&connected=",
+                "tabname": "Related"
+            }
+        ],
+        "url": "https://www.shazam.com/track/11210848/check-the-rhime",
+        "artists": [
+            {
+                "id": "42",
+                "adamid": "1587965"
+            }
+        ],
+        "isrc": "USJI19100005",
+        "genres": {
+            "primary": "Rap"
+        },
+        "urlparams": {
+            "{tracktitle}": "Check+the+Rhime",
+            "{trackartist}": "A+Tribe+Called+Quest"
+        },
+        "myshazam": {
+            "apple": {
+                "actions": [
+                    {
+                        "name": "myshazam:apple",
+                        "type": "uri",
+                        "uri": "https://music.apple.com/gb/album/check-the-rhime/278911460?i=278911473&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                ]
+            }
+        },
+        "highlightsurls": {
+            "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/1587965/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios&videoIdToFilter=1379870057",
+            "trackhighlighturl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/highlights/1379870057?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+        },
+        "relatedtracksurl": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-11210848?startFrom=0&pageSize=20&connected=",
+        "albumadamid": "278911460"
+    },
+    "tagid": "113B63F6-E98B-44D9-87B8-CEBEC4448799"
+}

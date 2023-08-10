@@ -1,0 +1,226 @@
+{
+    "matches": [
+        {
+            "id": "221525963",
+            "offset": 29.999720702999998,
+            "timeskew": 3.0994415e-05,
+            "frequencyskew": -0.000120818615
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691632647880,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "544056",
+        "title": "Hobo's Son",
+        "subtitle": "Kelly Joe Phelps",
+        "images": {
+            "background": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/9b/05/ea/9b05ea19-6dde-14fc-ad10-09b5f2e4e692/mzi.mxxcjhap.jpg/400x400cc.jpg",
+            "coverart": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/9b/05/ea/9b05ea19-6dde-14fc-ad10-09b5f2e4e692/mzi.mxxcjhap.jpg/400x400cc.jpg",
+            "coverarthq": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/9b/05/ea/9b05ea19-6dde-14fc-ad10-09b5f2e4e692/mzi.mxxcjhap.jpg/400x400cc.jpg",
+            "joecolor": "b:9cbad4p:0b1e31s:11283ft:283d52q:2d455d"
+        },
+        "share": {
+            "subject": "Hobo's Son - Kelly Joe Phelps",
+            "text": "Hobo's Son by Kelly Joe Phelps",
+            "href": "https://www.shazam.com/track/544056/hobos-son",
+            "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/9b/05/ea/9b05ea19-6dde-14fc-ad10-09b5f2e4e692/mzi.mxxcjhap.jpg/400x400cc.jpg",
+            "twitter": "I used @Shazam to discover Hobo's Son by Kelly Joe Phelps.",
+            "html": "https://www.shazam.com/snippets/email-share/544056?lang=en-US&country=GB",
+            "snapchat": "https://www.shazam.com/partner/sc/track/544056"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "actions": [
+                {
+                    "name": "apple",
+                    "type": "applemusicplay",
+                    "id": "162488222"
+                },
+                {
+                    "name": "apple",
+                    "type": "uri",
+                    "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/56/15/25/561525ca-6f6a-ccdc-ee97-cc89ade08aee/mzaf_12283039529744115864.plus.aac.ep.m4a"
+                }
+            ],
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/gb/album/hobos-son/162488101?i=162488222&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/gb/album/hobos-son/162488101?i=162488222&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                },
+                {
+                    "caption": "BUY",
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "uri": "https://itunes.apple.com/gb/album/hobos-son/162488101?i=162488222&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "buy",
+                        "providername": "itunes"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "type": "buy",
+                    "listcaption": "Buy on iTunes",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "itunes"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:Hobo%27s%20Son%20Kelly%20Joe%20Phelps"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27Hobo%5C%27s+Son%27%20artist%3A%27Kelly+Joe+Phelps%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": false,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [
+                    {
+                        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/9b/05/ea/9b05ea19-6dde-14fc-ad10-09b5f2e4e692/mzi.mxxcjhap.jpg/400x400cc.jpg",
+                        "caption": "Hobo's Son"
+                    }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                    {
+                        "title": "Album",
+                        "text": "Shine Eyed Mister Zen"
+                    },
+                    {
+                        "title": "Label",
+                        "text": "Ryko/Rhino"
+                    },
+                    {
+                        "title": "Released",
+                        "text": "2000"
+                    }
+                ]
+            },
+            {
+                "type": "LYRICS",
+                "text": [
+                    "One cold summer night sally slipped away",
+                    "Door left open wide not a word to say",
+                    "Hard luck took its toll I can't blame her none",
+                    "Not today might be here tomorrow",
+                    "",
+                    "She knew better fare when a girl at home",
+                    "Hope for a settled life, not this world to roam",
+                    "Let my prayer be heard and guide me on her way",
+                    "Not today might be here tomorrow",
+                    "",
+                    "Been three years and change since I held her near",
+                    "Up and down these roads I've looked everywhere",
+                    "And not once have I seen the color of her hair",
+                    "Not today might be here tomorrow",
+                    "",
+                    "I'll be a hobo's son surely all my days",
+                    "Whittle off the hours with a memory for my blade",
+                    "And carve the hand of sally dear hoping her to find",
+                    "Not today might be here tomorrow"
+                ],
+                "footer": "Writer(s): Kelly Joe Phelps\nLyrics powered by www.musixmatch.com",
+                "tabname": "Lyrics",
+                "beacondata": {
+                    "lyricsid": "595275",
+                    "providername": "musixmatch",
+                    "commontrackid": "1100395"
+                }
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/544056/youtube/video?q=Kelly+Joe+Phelps+%22Hobo's+Son%22"
+            }
+        ],
+        "url": "https://www.shazam.com/track/544056/hobos-son",
+        "artists": [
+            {
+                "id": "42",
+                "adamid": "19032758"
+            }
+        ],
+        "isrc": "USRY20412445",
+        "genres": {
+            "primary": "Blues"
+        },
+        "urlparams": {
+            "{tracktitle}": "Hobo%27s+Son",
+            "{trackartist}": "Kelly+Joe+Phelps"
+        },
+        "myshazam": {
+            "apple": {
+                "actions": [
+                    {
+                        "name": "myshazam:apple",
+                        "type": "uri",
+                        "uri": "https://music.apple.com/gb/album/hobos-son/162488101?i=162488222&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                ]
+            }
+        },
+        "highlightsurls": {
+            "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/19032758/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+        },
+        "albumadamid": "162488101"
+    },
+    "tagid": "3F3F3351-644F-46E6-9187-28F12F08B868"
+}

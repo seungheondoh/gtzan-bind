@@ -1,0 +1,261 @@
+{
+    "matches": [
+        {
+            "id": "206701349",
+            "offset": 30.525341796,
+            "timeskew": -4.2259693e-05,
+            "frequencyskew": 0.0
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691633435474,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "55029423",
+        "title": "Let Your Love Flow",
+        "subtitle": "Loretta Lynn",
+        "images": {
+            "background": "https://is4-ssl.mzstatic.com/image/thumb/Features122/v4/aa/d6/99/aad699a1-756c-46a7-3a46-f7c3735d9511/mza_4234528266926946468.png/800x800cc.jpg",
+            "coverart": "https://is3-ssl.mzstatic.com/image/thumb/Features/v4/9d/db/3d/9ddb3dd6-6f12-7f69-fa3a-e820ee3d4c38/V4HttpAssetRepositoryClient-ticket.zlxkpzdj.jpg-9141474939913541182.jpg/400x400cc.jpg",
+            "coverarthq": "https://is3-ssl.mzstatic.com/image/thumb/Features/v4/9d/db/3d/9ddb3dd6-6f12-7f69-fa3a-e820ee3d4c38/V4HttpAssetRepositoryClient-ticket.zlxkpzdj.jpg-9141474939913541182.jpg/400x400cc.jpg",
+            "joecolor": "b:010103p:ffc928s:e4b582t:cca020q:b79168"
+        },
+        "share": {
+            "subject": "Let Your Love Flow - Loretta Lynn",
+            "text": "Let Your Love Flow by Loretta Lynn",
+            "href": "https://www.shazam.com/track/55029423/let-your-love-flow",
+            "image": "https://is3-ssl.mzstatic.com/image/thumb/Features/v4/9d/db/3d/9ddb3dd6-6f12-7f69-fa3a-e820ee3d4c38/V4HttpAssetRepositoryClient-ticket.zlxkpzdj.jpg-9141474939913541182.jpg/400x400cc.jpg",
+            "twitter": "I used @Shazam to discover Let Your Love Flow by Loretta Lynn.",
+            "html": "https://www.shazam.com/snippets/email-share/55029423?lang=en-US&country=GB",
+            "avatar": "https://is4-ssl.mzstatic.com/image/thumb/Features122/v4/aa/d6/99/aad699a1-756c-46a7-3a46-f7c3735d9511/mza_4234528266926946468.png/800x800cc.jpg",
+            "snapchat": "https://www.shazam.com/partner/sc/track/55029423"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "actions": [
+                {
+                    "name": "apple",
+                    "type": "applemusicplay",
+                    "id": "477915264"
+                },
+                {
+                    "name": "apple",
+                    "type": "uri",
+                    "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/74/a2/10/74a21021-2b30-a71c-c316-dac83964c5eb/mzaf_3753140010189020243.plus.aac.ep.m4a"
+                }
+            ],
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/gb/album/let-your-love-flow/477915249?i=477915264&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/gb/album/let-your-love-flow/477915249?i=477915264&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                },
+                {
+                    "caption": "BUY",
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "uri": "https://itunes.apple.com/gb/album/let-your-love-flow/477915249?i=477915264&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "buy",
+                        "providername": "itunes"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "type": "buy",
+                    "listcaption": "Buy on iTunes",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "itunes"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:Let%20Your%20Love%20Flow%20Loretta%20Lynn"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27Let+Your+Love+Flow%27%20artist%3A%27Loretta+Lynn%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": false,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [
+                    {
+                        "image": "https://is4-ssl.mzstatic.com/image/thumb/Features122/v4/aa/d6/99/aad699a1-756c-46a7-3a46-f7c3735d9511/mza_4234528266926946468.png/800x800cc.jpg",
+                        "caption": "Loretta Lynn"
+                    },
+                    {
+                        "image": "https://is3-ssl.mzstatic.com/image/thumb/Features/v4/9d/db/3d/9ddb3dd6-6f12-7f69-fa3a-e820ee3d4c38/V4HttpAssetRepositoryClient-ticket.zlxkpzdj.jpg-9141474939913541182.jpg/400x400cc.jpg",
+                        "caption": "Let Your Love Flow"
+                    }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                    {
+                        "title": "Album",
+                        "text": "Loretta Lynn - Hey Loretta"
+                    },
+                    {
+                        "title": "Label",
+                        "text": "Top Town Records"
+                    },
+                    {
+                        "title": "Released",
+                        "text": "1966"
+                    }
+                ]
+            },
+            {
+                "type": "LYRICS",
+                "text": [
+                    "There's a reason for the sunshine sky",
+                    "And there's a reason why I'm feelin' so high",
+                    "Must be the season when that love light shines all around us",
+                    "",
+                    "So let that feelin' grab you deep inside and send you reelin'",
+                    "Where your love can't hide and you stealin'",
+                    "Through the moonless nights with your lover",
+                    "",
+                    "Just let your love flow like a mountain stream",
+                    "And let your love grow with the smallest of dreams",
+                    "And let your love show",
+                    "And you'll know what I mean, it's the season",
+                    "",
+                    "Just let your love fly like a bird on a wing",
+                    "And let your love bind you to all living things",
+                    "And let your love shine",
+                    "And you'll know what I mean that's the reason",
+                    "",
+                    "There's a reason for the warm summer nights",
+                    "And there's a reason for the candle lights",
+                    "Must be the season when the love light shines all around us",
+                    "",
+                    "So let that wonder take you into space",
+                    "And lay you under its loving embrace",
+                    "To feel the thunder as it warms your face, you can't hold back",
+                    "",
+                    "Just let your love flow like a mountain stream",
+                    "And let your love grow with the smallest of dreams",
+                    "And let your love show",
+                    "And you'll know what I mean it's the season",
+                    "",
+                    "Just let your love fly like a bird on a wing",
+                    "And let your love bind you to all living things",
+                    "And let your love shine",
+                    "And you'll know what I mean that's the reason",
+                    "",
+                    "Just let your love flow like a mountain stream",
+                    "And let your love grow with the smallest of dreams",
+                    "And let your love show",
+                    "And you'll know what I mean it's the season",
+                    "",
+                    "Just let your love fly like a bird on a wing",
+                    "And let your love bind you to all living things",
+                    "And let your love shine",
+                    "And you'll know what I mean that's the reason",
+                    "",
+                    "It's the season"
+                ],
+                "url": "https://cdn.shazam.com/lyrics/v1/en-US/GB/iphone/musixmatch/subtitles/237697/178/1?token=1b3c683280e694126766a947eddc743f",
+                "footer": "Writer(s): Jerry Williams Jr\nLyrics powered by www.musixmatch.com",
+                "tabname": "Lyrics",
+                "beacondata": {
+                    "lyricsid": "19940969",
+                    "providername": "musixmatch",
+                    "commontrackid": "237697"
+                }
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/55029423/youtube/video?q=Loretta+Lynn+%22Let+Your+Love+Flow%22"
+            }
+        ],
+        "url": "https://www.shazam.com/track/55029423/let-your-love-flow",
+        "artists": [
+            {
+                "id": "42",
+                "adamid": "59398"
+            }
+        ],
+        "isrc": "GB67V1106379",
+        "genres": {
+            "primary": "Country"
+        },
+        "urlparams": {
+            "{tracktitle}": "Let+Your+Love+Flow",
+            "{trackartist}": "Loretta+Lynn"
+        },
+        "myshazam": {
+            "apple": {
+                "actions": [
+                    {
+                        "name": "myshazam:apple",
+                        "type": "uri",
+                        "uri": "https://music.apple.com/gb/album/let-your-love-flow/477915249?i=477915264&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                ]
+            }
+        },
+        "highlightsurls": {
+            "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/59398/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios&videoIdToFilter=438398969",
+            "trackhighlighturl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/highlights/438398969?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+        },
+        "albumadamid": "477915249"
+    },
+    "tagid": "8ECCD0C9-D24C-4A6C-8234-EE1997F909C8"
+}

@@ -1,0 +1,195 @@
+{
+    "matches": [
+        {
+            "id": "201962045",
+            "offset": 320.70871875,
+            "timeskew": 7.855892e-05,
+            "frequencyskew": 0.0
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691632239131,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "11063556",
+        "title": "For Adults Only",
+        "subtitle": "Joris Teepe Quintet",
+        "images": {
+            "background": "https://is4-ssl.mzstatic.com/image/thumb/Music/5d/26/61/mzi.vkacojib.jpg/400x400cc.jpg",
+            "coverart": "https://is4-ssl.mzstatic.com/image/thumb/Music/5d/26/61/mzi.vkacojib.jpg/400x400cc.jpg",
+            "coverarthq": "https://is4-ssl.mzstatic.com/image/thumb/Music/5d/26/61/mzi.vkacojib.jpg/400x400cc.jpg",
+            "joecolor": "b:090c10p:f7e8ebs:f6e7dct:c8bcbfq:c6bcb3"
+        },
+        "share": {
+            "subject": "For Adults Only - Joris Teepe Quintet",
+            "text": "For Adults Only by Joris Teepe Quintet",
+            "href": "https://www.shazam.com/track/11063556/for-adults-only",
+            "image": "https://is4-ssl.mzstatic.com/image/thumb/Music/5d/26/61/mzi.vkacojib.jpg/400x400cc.jpg",
+            "twitter": "I used @Shazam to discover For Adults Only by Joris Teepe Quintet.",
+            "html": "https://www.shazam.com/snippets/email-share/11063556?lang=en-US&country=GB",
+            "snapchat": "https://www.shazam.com/partner/sc/track/11063556"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "actions": [
+                {
+                    "name": "apple",
+                    "type": "applemusicplay",
+                    "id": "219936382"
+                },
+                {
+                    "name": "apple",
+                    "type": "uri",
+                    "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/Music2/v4/54/66/0e/54660ec7-ec23-3140-139f-69c40de9ee8b/mzaf_5737754639721201528.plus.aac.ep.m4a"
+                }
+            ],
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/gb/album/for-adults-only/219936076?i=219936382&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/gb/album/for-adults-only/219936076?i=219936382&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                },
+                {
+                    "caption": "BUY",
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "uri": "https://itunes.apple.com/gb/album/for-adults-only/219936076?i=219936382&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "buy",
+                        "providername": "itunes"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "type": "buy",
+                    "listcaption": "Buy on iTunes",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "itunes"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:For%20Adults%20Only%20Joris%20Teepe%20Quintet"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27For+Adults+Only%27%20artist%3A%27Joris+Teepe+Quintet%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": false,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [
+                    {
+                        "image": "https://is4-ssl.mzstatic.com/image/thumb/Music/5d/26/61/mzi.vkacojib.jpg/400x400cc.jpg",
+                        "caption": "For Adults Only"
+                    }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                    {
+                        "title": "Album",
+                        "text": "For Adults Only"
+                    },
+                    {
+                        "title": "Label",
+                        "text": "Postcards"
+                    },
+                    {
+                        "title": "Released",
+                        "text": "2000"
+                    }
+                ]
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/11063556/youtube/video?q=Joris+Teepe+Quintet+%22For+Adults+Only%22"
+            }
+        ],
+        "url": "https://www.shazam.com/track/11063556/for-adults-only",
+        "artists": [
+            {
+                "id": "42",
+                "adamid": "219936078"
+            }
+        ],
+        "isrc": "USZ6S0072109",
+        "genres": {
+            "primary": "Jazz"
+        },
+        "urlparams": {
+            "{tracktitle}": "For+Adults+Only",
+            "{trackartist}": "Joris+Teepe+Quintet"
+        },
+        "myshazam": {
+            "apple": {
+                "actions": [
+                    {
+                        "name": "myshazam:apple",
+                        "type": "uri",
+                        "uri": "https://music.apple.com/gb/album/for-adults-only/219936076?i=219936382&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                ]
+            }
+        },
+        "highlightsurls": {
+            "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/219936078/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+        },
+        "albumadamid": "219936076"
+    },
+    "tagid": "360F72AA-4D95-4875-B6B5-B3C9657055D9"
+}

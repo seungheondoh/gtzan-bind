@@ -1,0 +1,270 @@
+{
+    "matches": [
+        {
+            "id": "211981854",
+            "offset": 30.022486328,
+            "timeskew": 0.0010106564,
+            "frequencyskew": 0.00096702576
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691633321779,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "5221016",
+        "title": "Easy Skanking",
+        "subtitle": "Bob Marley & The Wailers",
+        "images": {
+            "background": "https://is5-ssl.mzstatic.com/image/thumb/Features125/v4/0e/10/96/0e10963d-8c5d-f176-3651-796ec44d0c97/mzl.kdlmyecx.jpg/800x800cc.jpg",
+            "coverart": "https://is5-ssl.mzstatic.com/image/thumb/Music115/v4/dd/34/d7/dd34d74c-5dad-740c-0843-c5c0eeabc4da/06UMGIM11277.rgb.jpg/400x400cc.jpg",
+            "coverarthq": "https://is5-ssl.mzstatic.com/image/thumb/Music115/v4/dd/34/d7/dd34d74c-5dad-740c-0843-c5c0eeabc4da/06UMGIM11277.rgb.jpg/400x400cc.jpg",
+            "joecolor": "b:ffffffp:010100s:292b2dt:343433q:545557"
+        },
+        "share": {
+            "subject": "Easy Skanking - Bob Marley & The Wailers",
+            "text": "Easy Skanking by Bob Marley & The Wailers",
+            "href": "https://www.shazam.com/track/5221016/easy-skanking",
+            "image": "https://is5-ssl.mzstatic.com/image/thumb/Music115/v4/dd/34/d7/dd34d74c-5dad-740c-0843-c5c0eeabc4da/06UMGIM11277.rgb.jpg/400x400cc.jpg",
+            "twitter": "I used @Shazam to discover Easy Skanking by Bob Marley & The Wailers.",
+            "html": "https://www.shazam.com/snippets/email-share/5221016?lang=en-US&country=GB",
+            "avatar": "https://is5-ssl.mzstatic.com/image/thumb/Features125/v4/0e/10/96/0e10963d-8c5d-f176-3651-796ec44d0c97/mzl.kdlmyecx.jpg/800x800cc.jpg",
+            "snapchat": "https://www.shazam.com/partner/sc/track/5221016"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "actions": [
+                {
+                    "name": "apple",
+                    "type": "applemusicplay",
+                    "id": "1440818216"
+                },
+                {
+                    "name": "apple",
+                    "type": "uri",
+                    "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/bd/ce/a2/bdcea23f-ad5d-df3a-d0a5-624139057870/mzaf_2001232726699889300.plus.aac.ep.m4a"
+                }
+            ],
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/gb/album/easy-skanking/1440818212?i=1440818216&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/gb/album/easy-skanking/1440818212?i=1440818216&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                },
+                {
+                    "caption": "BUY",
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "uri": "https://itunes.apple.com/gb/album/easy-skanking/1440818212?i=1440818216&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "buy",
+                        "providername": "itunes"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "type": "buy",
+                    "listcaption": "Buy on iTunes",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "itunes"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:Easy%20Skanking%20Bob%20Marley%20%26%20The%20Wailers"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27Easy+Skanking%27%20artist%3A%27Bob+Marley++The+Wailers%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": false,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [
+                    {
+                        "image": "https://is5-ssl.mzstatic.com/image/thumb/Features125/v4/0e/10/96/0e10963d-8c5d-f176-3651-796ec44d0c97/mzl.kdlmyecx.jpg/800x800cc.jpg",
+                        "caption": "Bob Marley & The Wailers"
+                    },
+                    {
+                        "image": "https://is5-ssl.mzstatic.com/image/thumb/Music115/v4/dd/34/d7/dd34d74c-5dad-740c-0843-c5c0eeabc4da/06UMGIM11277.rgb.jpg/400x400cc.jpg",
+                        "caption": "Easy Skanking"
+                    }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                    {
+                        "title": "Album",
+                        "text": "Kaya (2013 Remaster)"
+                    },
+                    {
+                        "title": "Label",
+                        "text": "Island Records"
+                    },
+                    {
+                        "title": "Released",
+                        "text": "1978"
+                    }
+                ]
+            },
+            {
+                "type": "LYRICS",
+                "text": [
+                    "Easy skanking (Skanking it easy)",
+                    "Easy skanking (Skanking it slow)",
+                    "Easy skanking (Skanking it easy)",
+                    "Easy skanking (Skanking it slow)",
+                    "",
+                    "Excuse me while I light my spliff (Spliff)",
+                    "Oh God I gotta take a lift (Lift)",
+                    "From reality I just can't drift (Drift)",
+                    "That's why I am staying with this riff (Riff)",
+                    "",
+                    "Take it easy (Easy skanking)",
+                    "Lord I take it easy (Easy skanking)",
+                    "Take it easy (Easy skanking)",
+                    "Got to take it easy (Easy skanking)",
+                    "Seen",
+                    "",
+                    "We're taking it easy (Ooh wa-da-da-da-da)",
+                    "We're taking it slow (Ooh wa-da-da-da-da)",
+                    "We're taking it easy",
+                    "Got to take it slow",
+                    "So take it easy skanking (Wa-da-da-da-da-da)",
+                    "Whoa, take it easy skanking",
+                    "Take it easy skanking (Wa-da-da-da-da-da)",
+                    "Take it easy skanking",
+                    "",
+                    "Excuse me while I light my spliff (Spliff)",
+                    "Oh God I gotta take a lift (Lift)",
+                    "From reality I just can't drift (Drift)",
+                    "That's why I am staying with this riff (Riff)",
+                    "",
+                    "Take it easy (Take it easy)",
+                    "Got to take it easy (Taking it slow)",
+                    "Take it easy (Take it easy)",
+                    "Skanky take it easy (Taking it slow)",
+                    "",
+                    "Tell you what",
+                    "Herb for my wine (Wa-da-da-da-da)",
+                    "Honey for my strong drink (Wa-da-da-da-da)",
+                    "Herb for the wine",
+                    "Honey for my strong drink",
+                    "",
+                    "I'll take it easy (Take it easy)",
+                    "Skanky take it easy (Skanking it slow)",
+                    "Take it (Take it easy) easy",
+                    "Take it (Skanking it slow) easy",
+                    "Take it easy (Take it easy)",
+                    "Oh oh oh (Skanking it slow)",
+                    "A little bit easier (Take it easy)",
+                    "Skanky take it easy (Skanking it slow)",
+                    "(Take it easy, take it easy, take it easy, take it easy...)"
+                ],
+                "url": "https://cdn.shazam.com/lyrics/v1/en-US/GB/iphone/musixmatch/subtitles/7531743/176/1?token=8b2cb52d846e5d025f2fd5437bd89709",
+                "footer": "Writer(s): Bob Marley\nLyrics powered by www.musixmatch.com",
+                "tabname": "Lyrics",
+                "beacondata": {
+                    "lyricsid": "20586839",
+                    "providername": "musixmatch",
+                    "commontrackid": "7531743"
+                }
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/5221016/youtube/video?q=Bob+Marley+%26+The+Wailers+%22Easy+Skanking%22"
+            },
+            {
+                "type": "RELATED",
+                "url": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-5221016?startFrom=0&pageSize=20&connected=",
+                "tabname": "Related"
+            }
+        ],
+        "url": "https://www.shazam.com/track/5221016/easy-skanking",
+        "artists": [
+            {
+                "id": "42",
+                "adamid": "3174628"
+            }
+        ],
+        "isrc": "USIR27800257",
+        "genres": {
+            "primary": "Reggae"
+        },
+        "urlparams": {
+            "{tracktitle}": "Easy+Skanking",
+            "{trackartist}": "Bob+Marley+%26+The+Wailers"
+        },
+        "myshazam": {
+            "apple": {
+                "actions": [
+                    {
+                        "name": "myshazam:apple",
+                        "type": "uri",
+                        "uri": "https://music.apple.com/gb/album/easy-skanking/1440818212?i=1440818216&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                ]
+            }
+        },
+        "highlightsurls": {
+            "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/3174628/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios&videoIdToFilter=1453022506",
+            "trackhighlighturl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/highlights/1453022506?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+        },
+        "relatedtracksurl": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-5221016?startFrom=0&pageSize=20&connected=",
+        "albumadamid": "1440818212"
+    },
+    "tagid": "A4BD5315-C0F7-4F90-84B8-8633A8AA2281"
+}

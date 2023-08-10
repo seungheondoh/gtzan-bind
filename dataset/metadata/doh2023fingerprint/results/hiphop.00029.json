@@ -1,0 +1,345 @@
+{
+    "matches": [
+        {
+            "id": "239167253",
+            "offset": 20.204884765,
+            "timeskew": -0.0003528595,
+            "frequencyskew": 0.0
+        },
+        {
+            "id": "114487548",
+            "offset": 20.21421875,
+            "timeskew": -0.00045496225,
+            "frequencyskew": -8.0525875e-05
+        },
+        {
+            "id": "311117528",
+            "offset": 9.268257812,
+            "timeskew": -0.0021246076,
+            "frequencyskew": -0.002132237
+        },
+        {
+            "id": "239125212",
+            "offset": 8.987855468,
+            "timeskew": -0.01930654,
+            "frequencyskew": 0.0
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691632967881,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "5171544",
+        "title": "Try Again",
+        "subtitle": "Aaliyah",
+        "images": {
+            "background": "https://is5-ssl.mzstatic.com/image/thumb/Features125/v4/cb/c2/4b/cbc24b92-4edf-37ef-e9bd-5aa834fd357a/pr_source.png/800x800cc.jpg",
+            "coverart": "https://is3-ssl.mzstatic.com/image/thumb/Music115/v4/6a/2f/c9/6a2fc9af-ff72-2872-2d44-fd55d894cc50/194690430633_cover.jpg/400x400cc.jpg",
+            "coverarthq": "https://is3-ssl.mzstatic.com/image/thumb/Music115/v4/6a/2f/c9/6a2fc9af-ff72-2872-2d44-fd55d894cc50/194690430633_cover.jpg/400x400cc.jpg",
+            "joecolor": "b:020202p:f9e7e5s:f7b071t:c8b9b7q:c68d5b"
+        },
+        "share": {
+            "subject": "Try Again - Aaliyah",
+            "text": "Try Again by Aaliyah",
+            "href": "https://www.shazam.com/track/5171544/try-again",
+            "image": "https://is3-ssl.mzstatic.com/image/thumb/Music115/v4/6a/2f/c9/6a2fc9af-ff72-2872-2d44-fd55d894cc50/194690430633_cover.jpg/400x400cc.jpg",
+            "twitter": "I used @Shazam to discover Try Again by Aaliyah.",
+            "html": "https://www.shazam.com/snippets/email-share/5171544?lang=en-US&country=GB",
+            "avatar": "https://is5-ssl.mzstatic.com/image/thumb/Features125/v4/cb/c2/4b/cbc24b92-4edf-37ef-e9bd-5aa834fd357a/pr_source.png/800x800cc.jpg",
+            "snapchat": "https://www.shazam.com/partner/sc/track/5171544"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "actions": [
+                {
+                    "name": "apple",
+                    "type": "applemusicplay",
+                    "id": "1579592601"
+                },
+                {
+                    "name": "apple",
+                    "type": "uri",
+                    "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/c5/ab/07/c5ab07cc-b556-c79d-75bf-ec16f56117f5/mzaf_8303720540837452948.plus.aac.ep.m4a"
+                }
+            ],
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/gb/album/try-again/1579592586?i=1579592601&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/gb/album/try-again/1579592586?i=1579592601&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                },
+                {
+                    "caption": "BUY",
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "uri": "https://itunes.apple.com/gb/album/try-again/1579592586?i=1579592601&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "buy",
+                        "providername": "itunes"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "type": "buy",
+                    "listcaption": "Buy on iTunes",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "itunes"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:Try%20Again%20Aaliyah"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27Try+Again%27%20artist%3A%27Aaliyah%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": false,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [
+                    {
+                        "image": "https://is5-ssl.mzstatic.com/image/thumb/Features125/v4/cb/c2/4b/cbc24b92-4edf-37ef-e9bd-5aa834fd357a/pr_source.png/800x800cc.jpg",
+                        "caption": "Aaliyah"
+                    },
+                    {
+                        "image": "https://is3-ssl.mzstatic.com/image/thumb/Music115/v4/6a/2f/c9/6a2fc9af-ff72-2872-2d44-fd55d894cc50/194690430633_cover.jpg/400x400cc.jpg",
+                        "caption": "Try Again"
+                    }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                    {
+                        "title": "Album",
+                        "text": "I Care 4 U"
+                    },
+                    {
+                        "title": "Label",
+                        "text": "Blackground Records, LLC"
+                    },
+                    {
+                        "title": "Released",
+                        "text": "2000"
+                    }
+                ]
+            },
+            {
+                "type": "LYRICS",
+                "text": [
+                    "It's been a long time (long time)",
+                    "We shouldn't have left you (left you)",
+                    "Without a dope beat to step to",
+                    "Step to, step to, step to (step)",
+                    "Step to, step to, freaky-freaky",
+                    "",
+                    "It's been a long time (time)",
+                    "We shouldn't have left you (left you)",
+                    "Without a dope beat to step to",
+                    "Step to, step to, step to (step)",
+                    "Step to, freaky-freaky-freaky",
+                    "Baby girl, uh",
+                    "",
+                    "What would you do to get to me?",
+                    "What would you say to have your way?",
+                    "Would you give up or try again?",
+                    "If I hesitate to let you in",
+                    "Now would you be yourself or play a role?",
+                    "Tell all the boys or keep it low?",
+                    "If I say no, would you turn away?",
+                    "Or play me off, or would you stay? Oh",
+                    "",
+                    "And if at first you don't succeed (first you don't succeed)",
+                    "Then dust yourself off and try again",
+                    "You can dust it off and try again, try again",
+                    "'Cause if at first you don't succeed (first you don't succeed)",
+                    "You can dust it off and try again",
+                    "Dust yourself off and try again, try again (again, again)",
+                    "",
+                    "I'm into you, you into me",
+                    "But I can't let it go so easily",
+                    "Not 'til I see what this could be",
+                    "Could be eternity or just a week",
+                    "But, yo, our chemistry is off the chain",
+                    "It's perfect now, but will it change?",
+                    "This ain't a yes, this ain't a no",
+                    "Just do your thing",
+                    "We'll see how we go",
+                    "",
+                    "And if at first you don't succeed (first you don't succeed)",
+                    "Then dust yourself off and try again (again)",
+                    "You can dust it off and try again, try again",
+                    "'Cause if at first you don't succeed (first you don't succeed)",
+                    "You can dust it off and try again (try again)",
+                    "Dust yourself off and try again, try again (again, again)",
+                    "",
+                    "So, you don't wanna throw it all away",
+                    "I might be shy on the first date",
+                    "What about the next date?",
+                    "Huh, huh, huh, huh (oh)",
+                    "I said, you don't wanna throw it all away",
+                    "I might be buggin' on the first date",
+                    "What about the next date? (Date)",
+                    "Huh (huh), huh (huh), uh (huh), huh (oh)",
+                    "",
+                    "And if at first you don't succeed (first you don't succeed)",
+                    "Then dust yourself off and try again",
+                    "You can dust it off and try again, try again",
+                    "'Cause if at first you don't succeed (first you don't succeed)",
+                    "You can dust it off and try again",
+                    "Dust yourself off and try again, try again, again, again",
+                    "",
+                    "And if at first you don't succeed (first you don't succeed, yeah)",
+                    "Then dust yourself off and try again (you can)",
+                    "You can dust it off and try again, try again (again)",
+                    "'Cause if at first you don't succeed (first you don't succeed)",
+                    "You can dust it off and try again (again)",
+                    "Dust yourself off and try again (yeah), try again (again, again)",
+                    "",
+                    "And if at first you don't succeed (first you don't succeed)",
+                    "Then dust yourself off and try again (yeah)",
+                    "You can dust it off and try again, try again (Yeah)",
+                    "'Cause if at first you don't succeed (first you don't succeed, baby)",
+                    "You can dust it off and try again (hey, yeah)",
+                    "Dust yourself off and try again, try again (again, again)",
+                    "",
+                    "It's been a long time (time)",
+                    "We shouldn't have left you (left you)",
+                    "Without a dope beat to step to",
+                    "Step to, step to, step to (step)",
+                    "Step to, step to, step to (freaky)",
+                    "It's been a long time (time)",
+                    "We shouldn't have left you (left you)",
+                    "Without a dope beat to step to",
+                    "Step to, step to, step to",
+                    "Step to, step to, step to (freaky-freaky)",
+                    "",
+                    "And if at first you don't succeed (first you don't succeed)",
+                    "Then dust yourself off and try again",
+                    "You can dust it off and try again, try again",
+                    "'Cause if at first you don't succeed (first you don't succeed)",
+                    "You can dust it off and try again",
+                    "Dust yourself off and try again, try again (again, again)",
+                    "",
+                    "It's been a long time (time)",
+                    "We shouldn't have left you (left you)",
+                    "Without a dope beat to step to",
+                    "Step to, step to, step to, what?",
+                    "Step to, step to, freaky-freaky (whoa)",
+                    "It's been a long time (time)",
+                    "We shouldn't have left you (left you)",
+                    "Without a dope beat to step to",
+                    "Step to, step to, step to, what?",
+                    "Step to, step to, freaky-freaky (we out)",
+                    "",
+                    "One mo' again",
+                    "The new millennium, baby",
+                    "And we out, you guess who it is"
+                ],
+                "url": "https://cdn.shazam.com/lyrics/v1/en-US/GB/iphone/musixmatch/subtitles/133198295/285/1?token=46851eda7dd12cb92b0e8281f80a244b",
+                "footer": "Writer(s): Timothy Mosley, Stephen Garrett\nLyrics powered by www.musixmatch.com",
+                "tabname": "Lyrics",
+                "beacondata": {
+                    "lyricsid": "30398226",
+                    "providername": "musixmatch",
+                    "commontrackid": "133198295"
+                }
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/5171544/youtube/video?q=Aaliyah+%22Try+Again%22"
+            },
+            {
+                "type": "RELATED",
+                "url": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-5171544?startFrom=0&pageSize=20&connected=",
+                "tabname": "Related"
+            }
+        ],
+        "url": "https://www.shazam.com/track/5171544/try-again",
+        "artists": [
+            {
+                "id": "42",
+                "adamid": "1636487"
+            }
+        ],
+        "isrc": "USUYG1352908",
+        "genres": {
+            "primary": "R&B/Soul"
+        },
+        "urlparams": {
+            "{tracktitle}": "Try+Again",
+            "{trackartist}": "Aaliyah"
+        },
+        "myshazam": {
+            "apple": {
+                "actions": [
+                    {
+                        "name": "myshazam:apple",
+                        "type": "uri",
+                        "uri": "https://music.apple.com/gb/album/try-again/1579592586?i=1579592601&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                ]
+            }
+        },
+        "highlightsurls": {
+            "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/1636487/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+        },
+        "relatedtracksurl": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-5171544?startFrom=0&pageSize=20&connected=",
+        "albumadamid": "1579592586"
+    },
+    "tagid": "4C77CB89-EA01-4997-A4EA-75AB649A628A"
+}

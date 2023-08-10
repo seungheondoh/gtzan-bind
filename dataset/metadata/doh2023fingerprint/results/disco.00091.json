@@ -1,0 +1,256 @@
+{
+    "matches": [
+        {
+            "id": "206252784",
+            "offset": 27.384359375,
+            "timeskew": -0.0015297532,
+            "frequencyskew": -0.0014488101
+        },
+        {
+            "id": "242436031",
+            "offset": 26.860140625,
+            "timeskew": -0.01922983,
+            "frequencyskew": -0.019856513
+        },
+        {
+            "id": "334727056",
+            "offset": 29.812359375,
+            "timeskew": 0.0041435957,
+            "frequencyskew": 0.0033887625
+        },
+        {
+            "id": "218231611",
+            "offset": 26.400976562,
+            "timeskew": -0.019621313,
+            "frequencyskew": -0.020527363
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691632485991,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "86245877",
+        "title": "Fly Robin Fly",
+        "subtitle": "Silver Convention",
+        "images": {
+            "background": "https://is3-ssl.mzstatic.com/image/thumb/Features124/v4/7e/0a/cd/7e0acdb2-5187-0c23-bbf5-73aa9db8e7d5/pr_source.png/800x800cc.jpg",
+            "coverart": "https://is2-ssl.mzstatic.com/image/thumb/Music124/v4/80/a1/7f/80a17f6e-af9f-fa2a-ea49-30ced7f6ec66/mzi.kifpsuud.jpg/400x400cc.jpg",
+            "coverarthq": "https://is2-ssl.mzstatic.com/image/thumb/Music124/v4/80/a1/7f/80a17f6e-af9f-fa2a-ea49-30ced7f6ec66/mzi.kifpsuud.jpg/400x400cc.jpg",
+            "joecolor": "b:160f00p:efda87s:d3b15ft:c3b16cq:ad904c"
+        },
+        "share": {
+            "subject": "Fly Robin Fly - Silver Convention",
+            "text": "Fly Robin Fly by Silver Convention",
+            "href": "https://www.shazam.com/track/86245877/fly-robin-fly",
+            "image": "https://is2-ssl.mzstatic.com/image/thumb/Music124/v4/80/a1/7f/80a17f6e-af9f-fa2a-ea49-30ced7f6ec66/mzi.kifpsuud.jpg/400x400cc.jpg",
+            "twitter": "I used @Shazam to discover Fly Robin Fly by Silver Convention.",
+            "html": "https://www.shazam.com/snippets/email-share/86245877?lang=en-US&country=GB",
+            "avatar": "https://is3-ssl.mzstatic.com/image/thumb/Features124/v4/7e/0a/cd/7e0acdb2-5187-0c23-bbf5-73aa9db8e7d5/pr_source.png/800x800cc.jpg",
+            "snapchat": "https://www.shazam.com/partner/sc/track/86245877"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "actions": [
+                {
+                    "name": "apple",
+                    "type": "applemusicplay",
+                    "id": "394743930"
+                },
+                {
+                    "name": "apple",
+                    "type": "uri",
+                    "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/aa/64/d9/aa64d91b-dc40-c1ce-c8e9-6f1fa612cde6/mzaf_9447561067302100052.plus.aac.ep.m4a"
+                }
+            ],
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/gb/album/fly-robin-fly/394743923?i=394743930&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/gb/album/fly-robin-fly/394743923?i=394743930&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                },
+                {
+                    "caption": "BUY",
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "uri": "https://itunes.apple.com/gb/album/fly-robin-fly/394743923?i=394743930&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "buy",
+                        "providername": "itunes"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "type": "buy",
+                    "listcaption": "Buy on iTunes",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "itunes"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:Fly%20Robin%20Fly%20Silver%20Convention"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27Fly+Robin+Fly%27%20artist%3A%27Silver+Convention%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": false,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [
+                    {
+                        "image": "https://is3-ssl.mzstatic.com/image/thumb/Features124/v4/7e/0a/cd/7e0acdb2-5187-0c23-bbf5-73aa9db8e7d5/pr_source.png/800x800cc.jpg",
+                        "caption": "Silver Convention"
+                    },
+                    {
+                        "image": "https://is2-ssl.mzstatic.com/image/thumb/Music124/v4/80/a1/7f/80a17f6e-af9f-fa2a-ea49-30ced7f6ec66/mzi.kifpsuud.jpg/400x400cc.jpg",
+                        "caption": "Fly Robin Fly"
+                    }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                    {
+                        "title": "Album",
+                        "text": "Fly Robin Fly"
+                    },
+                    {
+                        "title": "Label",
+                        "text": "Butterfly Productions"
+                    },
+                    {
+                        "title": "Released",
+                        "text": "1975"
+                    }
+                ]
+            },
+            {
+                "type": "LYRICS",
+                "text": [
+                    "Fly, robin fly",
+                    "Fly, robin fly",
+                    "Fly, robin fly",
+                    "Up, up to the sky",
+                    "",
+                    "Fly, robin fly",
+                    "Fly, robin fly",
+                    "Fly, robin fly",
+                    "Up, up to the sky",
+                    "",
+                    "Fly, robin fly",
+                    "Fly, robin fly",
+                    "Fly, robin fly",
+                    "Up, up to the sky",
+                    "",
+                    "Fly, robin fly",
+                    "Fly, robin fly",
+                    "Fly, robin fly",
+                    "Up, up to the sky"
+                ],
+                "url": "https://cdn.shazam.com/lyrics/v1/en-US/GB/iphone/musixmatch/subtitles/1404876/230/1?token=fe20662bb2a6a9833320ce639327c5ad",
+                "footer": "Writer(s): Sylvester Levay, Stephan Prager\nLyrics powered by www.musixmatch.com",
+                "tabname": "Lyrics",
+                "beacondata": {
+                    "lyricsid": "18975366",
+                    "providername": "musixmatch",
+                    "commontrackid": "1404876"
+                }
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/86245877/youtube/video?q=Silver+Convention+%22Fly+Robin+Fly%22"
+            },
+            {
+                "type": "RELATED",
+                "url": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-86245877?startFrom=0&pageSize=20&connected=",
+                "tabname": "Related"
+            }
+        ],
+        "url": "https://www.shazam.com/track/86245877/fly-robin-fly",
+        "artists": [
+            {
+                "id": "42",
+                "adamid": "110907908"
+            }
+        ],
+        "isrc": "USRDC7520003",
+        "genres": {
+            "primary": "Dance"
+        },
+        "urlparams": {
+            "{tracktitle}": "Fly+Robin+Fly",
+            "{trackartist}": "Silver+Convention"
+        },
+        "myshazam": {
+            "apple": {
+                "actions": [
+                    {
+                        "name": "myshazam:apple",
+                        "type": "uri",
+                        "uri": "https://music.apple.com/gb/album/fly-robin-fly/394743923?i=394743930&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                ]
+            }
+        },
+        "highlightsurls": {
+            "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/110907908/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+        },
+        "relatedtracksurl": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-86245877?startFrom=0&pageSize=20&connected=",
+        "albumadamid": "394743923"
+    },
+    "tagid": "0B3B2B34-DF02-4088-9E22-1108E6071476"
+}

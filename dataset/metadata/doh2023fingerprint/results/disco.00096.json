@@ -1,0 +1,265 @@
+{
+    "matches": [
+        {
+            "id": "272122268",
+            "offset": 29.782388671,
+            "timeskew": -0.003067851,
+            "frequencyskew": -0.002815187
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691632382381,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "360166",
+        "title": "Shame, Shame, Shame",
+        "subtitle": "Shirley & Company",
+        "images": {
+            "background": "https://is2-ssl.mzstatic.com/image/thumb/Music116/v4/fa/47/2c/fa472cff-15aa-9348-db49-c9557cdfd28a/4050538771367.jpg/400x400cc.jpg",
+            "coverart": "https://is2-ssl.mzstatic.com/image/thumb/Music116/v4/fa/47/2c/fa472cff-15aa-9348-db49-c9557cdfd28a/4050538771367.jpg/400x400cc.jpg",
+            "coverarthq": "https://is2-ssl.mzstatic.com/image/thumb/Music116/v4/fa/47/2c/fa472cff-15aa-9348-db49-c9557cdfd28a/4050538771367.jpg/400x400cc.jpg",
+            "joecolor": "b:c3180ep:fdebcbs:fde711t:f1c0a5q:f1be11"
+        },
+        "share": {
+            "subject": "Shame, Shame, Shame - Shirley & Company",
+            "text": "Shame, Shame, Shame by Shirley & Company",
+            "href": "https://www.shazam.com/track/360166/shame-shame-shame",
+            "image": "https://is2-ssl.mzstatic.com/image/thumb/Music116/v4/fa/47/2c/fa472cff-15aa-9348-db49-c9557cdfd28a/4050538771367.jpg/400x400cc.jpg",
+            "twitter": "I used @Shazam to discover Shame, Shame, Shame by Shirley & Company.",
+            "html": "https://www.shazam.com/snippets/email-share/360166?lang=en-US&country=GB",
+            "snapchat": "https://www.shazam.com/partner/sc/track/360166"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "actions": [
+                {
+                    "name": "apple",
+                    "type": "applemusicplay",
+                    "id": "1604451376"
+                },
+                {
+                    "name": "apple",
+                    "type": "uri",
+                    "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/73/fc/23/73fc235c-725e-2d2d-9071-97c1ac1e940d/mzaf_14537903254294877685.plus.aac.ep.m4a"
+                }
+            ],
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/gb/album/shame-shame-shame/1604451374?i=1604451376&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/gb/album/shame-shame-shame/1604451374?i=1604451376&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                },
+                {
+                    "caption": "BUY",
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "uri": "https://itunes.apple.com/gb/album/shame-shame-shame/1604451374?i=1604451376&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "buy",
+                        "providername": "itunes"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "type": "buy",
+                    "listcaption": "Buy on iTunes",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "itunes"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:Shame%2C%20Shame%2C%20Shame%20Shirley%20%26%20Company"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27Shame%2C+Shame%2C+Shame%27%20artist%3A%27Shirley++Company%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": false,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [
+                    {
+                        "image": "https://is2-ssl.mzstatic.com/image/thumb/Music116/v4/fa/47/2c/fa472cff-15aa-9348-db49-c9557cdfd28a/4050538771367.jpg/400x400cc.jpg",
+                        "caption": "Shame, Shame, Shame"
+                    }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                    {
+                        "title": "Album",
+                        "text": "Shame Shame Shame"
+                    },
+                    {
+                        "title": "Label",
+                        "text": "Sanctuary Records"
+                    },
+                    {
+                        "title": "Released",
+                        "text": "1975"
+                    }
+                ]
+            },
+            {
+                "type": "LYRICS",
+                "text": [
+                    "Shame shame shame on you",
+                    "If you can't dance too",
+                    "REPEAT",
+                    "",
+                    "Can't stop me now hear what I say",
+                    "My feet wanna move so get out my way",
+                    "I'm gonna have my say",
+                    "I'm going to every discotheque",
+                    "I'm gonna dance dance dance dance ooh",
+                    "Till the break of day I say",
+                    "",
+                    "CHORUS",
+                    "Shame shame shame hey shame on you",
+                    "If you can't dance too",
+                    "I say shame shame shame",
+                    "Shame shame shame",
+                    "Shame shame on you",
+                    "If you can't dance too",
+                    "",
+                    "Don't stop the motion",
+                    "If you get the notion",
+                    "You can't stop the groove",
+                    "'Cos you just won't move",
+                    "Got my sun-roof down",
+                    "Got my diamonds in the back",
+                    "So put on your shaky wig baby",
+                    "If you don't I ain't comin' back",
+                    "",
+                    "REPEAT CHORUS",
+                    "",
+                    "If you don't want to go",
+                    "Remember one monkey don't stop no show",
+                    "My body needs action ain't gonna blow",
+                    "Yes I'm going out I'm going to find a dancin' man",
+                    "If you really think you're fast",
+                    "Try to catch me if you can",
+                    "I say shame shame shame yeah (aah) shame on you",
+                    "If you can't dance too",
+                    "",
+                    "It's a shame shame shame",
+                    "Shame shame shame",
+                    "Shame shame on you",
+                    "If you can't dance too",
+                    "If you can't dance",
+                    "",
+                    "REPEAT CHORUS",
+                    "",
+                    "(Shame) said shame (shame) said shame",
+                    "(Shame) shame on you",
+                    "If you can't dance too if you can't dance",
+                    "REPEAT TO FADE"
+                ],
+                "url": "https://cdn.shazam.com/lyrics/v1/en-US/GB/iphone/musixmatch/subtitles/9712535/238/1?token=e0d7d5174f60c69cf9f28420878673a0",
+                "footer": "Writer(s): Jimmy Reed\nLyrics powered by www.musixmatch.com",
+                "tabname": "Lyrics",
+                "beacondata": {
+                    "lyricsid": "7911546",
+                    "providername": "musixmatch",
+                    "commontrackid": "9712535"
+                }
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/360166/youtube/video?q=Shirley+%26+Company+%22Shame,+Shame,+Shame%22"
+            },
+            {
+                "type": "RELATED",
+                "url": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-360166?startFrom=0&pageSize=20&connected=",
+                "tabname": "Related"
+            }
+        ],
+        "url": "https://www.shazam.com/track/360166/shame-shame-shame",
+        "artists": [
+            {
+                "id": "42",
+                "adamid": "79993894"
+            }
+        ],
+        "isrc": "GBAJE0501052",
+        "genres": {
+            "primary": "Dance"
+        },
+        "urlparams": {
+            "{tracktitle}": "Shame%2C+Shame%2C+Shame",
+            "{trackartist}": "Shirley+%26+Company"
+        },
+        "myshazam": {
+            "apple": {
+                "actions": [
+                    {
+                        "name": "myshazam:apple",
+                        "type": "uri",
+                        "uri": "https://music.apple.com/gb/album/shame-shame-shame/1604451374?i=1604451376&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                ]
+            }
+        },
+        "highlightsurls": {
+            "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/79993894/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+        },
+        "relatedtracksurl": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-360166?startFrom=0&pageSize=20&connected=",
+        "albumadamid": "1604451374"
+    },
+    "tagid": "F6AEB91B-2BFB-4F9F-BE21-35FEBFCBEFF7"
+}

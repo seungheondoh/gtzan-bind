@@ -1,0 +1,320 @@
+{
+    "matches": [
+        {
+            "id": "208301622",
+            "offset": 29.934298828,
+            "timeskew": -2.026558e-05,
+            "frequencyskew": -0.00028187037
+        },
+        {
+            "id": "482639505",
+            "offset": 29.903371093,
+            "timeskew": 0.00066423416,
+            "frequencyskew": 0.00048339367
+        },
+        {
+            "id": "219626625",
+            "offset": 7.216467284999999,
+            "timeskew": 0.0034310818,
+            "frequencyskew": 0.0033079386
+        },
+        {
+            "id": "383814826",
+            "offset": 25.690470703,
+            "timeskew": 0.0021756887,
+            "frequencyskew": 0.0019350052
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691632456793,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "5970392",
+        "title": "Heaven Must Be Missing An Angel",
+        "subtitle": "Tavares",
+        "images": {
+            "background": "https://is2-ssl.mzstatic.com/image/thumb/Features115/v4/3f/94/a8/3f94a876-97c0-e612-1f15-5ec7cdcf4b1e/pr_source.png/800x800cc.jpg",
+            "coverart": "https://is1-ssl.mzstatic.com/image/thumb/Music/b8/e8/69/mzi.svoyiyxd.jpg/400x400cc.jpg",
+            "coverarthq": "https://is1-ssl.mzstatic.com/image/thumb/Music/b8/e8/69/mzi.svoyiyxd.jpg/400x400cc.jpg",
+            "joecolor": "b:000200p:f9eb38s:75d6d1t:c7bd2dq:5eaca7"
+        },
+        "share": {
+            "subject": "Heaven Must Be Missing An Angel - Tavares",
+            "text": "Heaven Must Be Missing An Angel by Tavares",
+            "href": "https://www.shazam.com/track/5970392/heaven-must-be-missing-an-angel",
+            "image": "https://is1-ssl.mzstatic.com/image/thumb/Music/b8/e8/69/mzi.svoyiyxd.jpg/400x400cc.jpg",
+            "twitter": "I used @Shazam to discover Heaven Must Be Missing An Angel by Tavares.",
+            "html": "https://www.shazam.com/snippets/email-share/5970392?lang=en-US&country=GB",
+            "avatar": "https://is2-ssl.mzstatic.com/image/thumb/Features115/v4/3f/94/a8/3f94a876-97c0-e612-1f15-5ec7cdcf4b1e/pr_source.png/800x800cc.jpg",
+            "snapchat": "https://www.shazam.com/partner/sc/track/5970392"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "actions": [
+                {
+                    "name": "apple",
+                    "type": "applemusicplay",
+                    "id": "399265159"
+                },
+                {
+                    "name": "apple",
+                    "type": "uri",
+                    "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/82/45/3f/82453f43-62a3-d9e9-13db-dd8c8b4df1ce/mzaf_2965325416206592565.plus.aac.ep.m4a"
+                }
+            ],
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/gb/album/heaven-must-be-missing-an-angel/399264558?i=399265159&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/gb/album/heaven-must-be-missing-an-angel/399264558?i=399265159&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                },
+                {
+                    "caption": "BUY",
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "uri": "https://itunes.apple.com/gb/album/heaven-must-be-missing-an-angel/399264558?i=399265159&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "buy",
+                        "providername": "itunes"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "type": "buy",
+                    "listcaption": "Buy on iTunes",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "itunes"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:Heaven%20Must%20Be%20Missing%20An%20Angel%20Tavares"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27Heaven+Must+Be+Missing+An+Angel%27%20artist%3A%27Tavares%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": false,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [
+                    {
+                        "image": "https://is2-ssl.mzstatic.com/image/thumb/Features115/v4/3f/94/a8/3f94a876-97c0-e612-1f15-5ec7cdcf4b1e/pr_source.png/800x800cc.jpg",
+                        "caption": "Tavares"
+                    },
+                    {
+                        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music/b8/e8/69/mzi.svoyiyxd.jpg/400x400cc.jpg",
+                        "caption": "Heaven Must Be Missing An Angel"
+                    }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                    {
+                        "title": "Album",
+                        "text": "Tavares - Whodunit - Live!"
+                    },
+                    {
+                        "title": "Label",
+                        "text": "LicenseMusic ApS"
+                    },
+                    {
+                        "title": "Released",
+                        "text": "1996"
+                    }
+                ]
+            },
+            {
+                "type": "LYRICS",
+                "text": [
+                    "Heaven must be missin' an angel",
+                    "Missin' one angel, child, 'cause you're here with me right now",
+                    "(Your love is heavenly, baby",
+                    "Heavenly to me, baby)",
+                    "",
+                    "Your kiss, ah, filled with tenderness",
+                    "I want all I can get of your sexiness",
+                    "Showers, your love comes in showers",
+                    "And every hour of the hour",
+                    "You let me feel your loving power",
+                    "",
+                    "There's a rainbow over my shoulder",
+                    "When you came, my cup runneth over",
+                    "You gave me your heavenly love",
+                    "And if one night you hear crying from above",
+                    "",
+                    "It's 'cause heaven must be missin' an angel",
+                    "Missin' one angel, child, 'cause you're here with me right now",
+                    "(Your love is heavenly, baby",
+                    "Heavenly to me, baby)",
+                    "",
+                    "Oh, heaven (heaven)",
+                    "Ooh, heaven (heaven)",
+                    "Ooh, heaven (heaven)",
+                    "Heaven (heaven)",
+                    "",
+                    "Ooh I'm captured by your spell",
+                    "You're different, girl, I can tell",
+                    "When you're layin' on my pillow, baby",
+                    "Above your pretty head, there's a halo, that's why I know",
+                    "",
+                    "(Heaven) Heaven must be missin' an angel",
+                    "Missin' one angel, child, 'cause you're here with me right now (Mmm ha)",
+                    "(Your love is heavenly, baby",
+                    "Heavenly to me, baby) Ooh my sweet little angel (Heaven)",
+                    "My pretty little angel (Heaven)",
+                    "",
+                    "I love you, love you, love you,",
+                    "Love you, love you, baby, say right now",
+                    "(Heaven)",
+                    "Aah heaven",
+                    "",
+                    "(Heaven, heaven) Must be missing an angel",
+                    "(Heaven, heaven)",
+                    "Missing one angel, child, 'cause you're here with me right now (Heaven, heaven)",
+                    "Oh, my heaven (Heaven)",
+                    "Missin' an angel (Heaven)",
+                    "",
+                    "(Heaven)",
+                    "(Heaven)",
+                    "",
+                    "You must have slipped away along the Milky Way",
+                    "It's 'cause (your kiss) your kiss (is filled with tenderness)",
+                    "You came C.O.D. on a moonbeam straight to me",
+                    "Just like showers, showers (showers showers showers)",
+                    "",
+                    "(Ooh ooh ooh, ooh ooh ooh ooh)",
+                    "(Ooh ooh ooh, ooh ooh ooh ooh)",
+                    "",
+                    "Your heavenly power gets stronger by the hour",
+                    "(Heaven must be missin' an angel)",
+                    "I'm captured by your spell, oh, girl, can't you tell",
+                    "",
+                    "(Heaven) Heaven (must be missin' an angel)",
+                    "(Heaven, heaven) Ooh ooh",
+                    "(Heaven, heaven) Ooh ooh",
+                    "(Heaven, heaven) Ooh",
+                    "",
+                    "(Heaven, heaven) Ooh so-so good, so-so good, so-so good, baby, mmm",
+                    "Yeah",
+                    "I love the way you move, I love the way you groove",
+                    "Uh",
+                    "Just like heaven, oh, baby",
+                    "Heaven, yeah",
+                    "(Heaven, heaven)",
+                    "Heaven (heaven)",
+                    "Ooh, my heaven (heaven)",
+                    "Ooh, you're lookin' so good (heaven)",
+                    "Oh, baby, I got to have my love, yeah (Heaven, heaven)",
+                    "Need it bad, Lord, baby, yeah",
+                    "I got to have my love, yeah (Heaven)",
+                    "Goin' to hold you, shake it down",
+                    "Gonna shake it down, shake it right down the joint..."
+                ],
+                "url": "https://cdn.shazam.com/lyrics/v1/en-US/GB/iphone/musixmatch/subtitles/1056176/211/1?token=3006cb10f40683b1eb3abf1a45c0a489",
+                "footer": "Writer(s): Frederick J. Perren, Keni St. Lewis\nLyrics powered by www.musixmatch.com",
+                "tabname": "Lyrics",
+                "beacondata": {
+                    "lyricsid": "27614032",
+                    "providername": "musixmatch",
+                    "commontrackid": "1056176"
+                }
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/5970392/youtube/video?q=Tavares+%22Heaven+Must+Be+Missing+An+Angel%22"
+            },
+            {
+                "type": "RELATED",
+                "url": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-5970392?startFrom=0&pageSize=20&connected=",
+                "tabname": "Related"
+            }
+        ],
+        "url": "https://www.shazam.com/track/5970392/heaven-must-be-missing-an-angel",
+        "artists": [
+            {
+                "id": "42",
+                "adamid": "3624077"
+            }
+        ],
+        "isrc": "GBAWA0215471",
+        "genres": {
+            "primary": "R&B/Soul"
+        },
+        "urlparams": {
+            "{tracktitle}": "Heaven+Must+Be+Missing+An+Angel",
+            "{trackartist}": "Tavares"
+        },
+        "myshazam": {
+            "apple": {
+                "actions": [
+                    {
+                        "name": "myshazam:apple",
+                        "type": "uri",
+                        "uri": "https://music.apple.com/gb/album/heaven-must-be-missing-an-angel/399264558?i=399265159&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                ]
+            }
+        },
+        "highlightsurls": {
+            "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/3624077/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+        },
+        "relatedtracksurl": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-5970392?startFrom=0&pageSize=20&connected=",
+        "albumadamid": "399264558"
+    },
+    "tagid": "8B30D1D5-3251-48E2-9E74-25A0B9AFFAA0"
+}

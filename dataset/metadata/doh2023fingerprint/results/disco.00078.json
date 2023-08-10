@@ -1,0 +1,279 @@
+{
+    "matches": [
+        {
+            "id": "221125450",
+            "offset": 30.048824218,
+            "timeskew": -0.00053048134,
+            "frequencyskew": -0.0007649064
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691632476665,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "146404091",
+        "title": "I Am What I Am (2014 Club Version)",
+        "subtitle": "Gloria Gaynor",
+        "images": {
+            "background": "https://is4-ssl.mzstatic.com/image/thumb/Features125/v4/06/6d/b7/066db7b1-bf0a-e032-61f9-fd607a0b0d76/mzl.jruxuhnc.jpg/800x800cc.jpg",
+            "coverart": "https://is5-ssl.mzstatic.com/image/thumb/Music2/v4/dc/8f/32/dc8f32f3-7feb-820a-b036-7bfd578de78a/888608939171.jpg/400x400cc.jpg",
+            "coverarthq": "https://is5-ssl.mzstatic.com/image/thumb/Music2/v4/dc/8f/32/dc8f32f3-7feb-820a-b036-7bfd578de78a/888608939171.jpg/400x400cc.jpg",
+            "joecolor": "b:1d0914p:ecd2bes:d6ad87t:c2aa9cq:b18c70"
+        },
+        "share": {
+            "subject": "I Am What I Am (2014 Club Version) - Gloria Gaynor",
+            "text": "I Am What I Am (2014 Club Version) by Gloria Gaynor",
+            "href": "https://www.shazam.com/track/146404091/i-am-what-i-am-2014-club-version",
+            "image": "https://is5-ssl.mzstatic.com/image/thumb/Music2/v4/dc/8f/32/dc8f32f3-7feb-820a-b036-7bfd578de78a/888608939171.jpg/400x400cc.jpg",
+            "twitter": "I used @Shazam to discover I Am What I Am (2014 Club Version) by Gloria Gaynor.",
+            "html": "https://www.shazam.com/snippets/email-share/146404091?lang=en-US&country=GB",
+            "avatar": "https://is4-ssl.mzstatic.com/image/thumb/Features125/v4/06/6d/b7/066db7b1-bf0a-e032-61f9-fd607a0b0d76/mzl.jruxuhnc.jpg/800x800cc.jpg",
+            "snapchat": "https://www.shazam.com/partner/sc/track/146404091"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "actions": [
+                {
+                    "name": "apple",
+                    "type": "applemusicplay",
+                    "id": "858980735"
+                },
+                {
+                    "name": "apple",
+                    "type": "uri",
+                    "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/16/41/56/164156cb-8552-007e-7479-4cbca47c201d/mzaf_1396485929140391120.plus.aac.ep.m4a"
+                }
+            ],
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/gb/album/i-am-what-i-am-2014-club-version/858980717?i=858980735&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/gb/album/i-am-what-i-am-2014-club-version/858980717?i=858980735&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                },
+                {
+                    "caption": "BUY",
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "uri": "https://itunes.apple.com/gb/album/i-am-what-i-am-2014-club-version/858980717?i=858980735&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "buy",
+                        "providername": "itunes"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "type": "buy",
+                    "listcaption": "Buy on iTunes",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "itunes"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:I%20Am%20What%20I%20Am%20%282014%20Club%20Version%29%20Gloria%20Gaynor"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27I+Am+What+I+Am+%282014+Club+Version%29%27%20artist%3A%27Gloria+Gaynor%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": false,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [
+                    {
+                        "image": "https://is4-ssl.mzstatic.com/image/thumb/Features125/v4/06/6d/b7/066db7b1-bf0a-e032-61f9-fd607a0b0d76/mzl.jruxuhnc.jpg/800x800cc.jpg",
+                        "caption": "Gloria Gaynor"
+                    },
+                    {
+                        "image": "https://is5-ssl.mzstatic.com/image/thumb/Music2/v4/dc/8f/32/dc8f32f3-7feb-820a-b036-7bfd578de78a/888608939171.jpg/400x400cc.jpg",
+                        "caption": "I Am What I Am (2014 Club Version)"
+                    }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                    {
+                        "title": "Album",
+                        "text": "I Am What I Am (2014 Club Version) - Single"
+                    },
+                    {
+                        "title": "Label",
+                        "text": "Silver Blue Records"
+                    },
+                    {
+                        "title": "Released",
+                        "text": "2014"
+                    }
+                ]
+            },
+            {
+                "type": "LYRICS",
+                "text": [
+                    "I am what I am",
+                    "I am my own special creation",
+                    "So come take a look",
+                    "Give me the hook or the ovation",
+                    "",
+                    "It's my world",
+                    "That I want to have a little pride in",
+                    "My world",
+                    "And it's not a place I have to hide in",
+                    "",
+                    "Life's not worth a dam till I can say",
+                    "I am what I am",
+                    "",
+                    "I am what I am",
+                    "I don't want praise I don't want pity",
+                    "I bang my own drum",
+                    "Some think it's noise I think it's pretty",
+                    "",
+                    "And so what if I love each sparkle and each bangle",
+                    "Why not see things from a different angle",
+                    "Your life is a shame",
+                    "Till you can shout out I am what I am",
+                    "",
+                    "I am what I am",
+                    "And what I am needs no excuses",
+                    "I deal my own deck",
+                    "Sometimes the aces sometimes the deuces",
+                    "",
+                    "It's one life and there's no return and no deposit",
+                    "One life so it's time to open up your closet",
+                    "Life's not worth a damn till you can shout out",
+                    "I am what I am",
+                    "",
+                    "I am what I am",
+                    "",
+                    "I am what I am",
+                    "And what I am needs no excuses",
+                    "I deal my own deck sometimes",
+                    "The aces sometimes the deuces",
+                    "",
+                    "It's one life and there's no return and no deposit",
+                    "One life so it's time to open up your closet",
+                    "Life's not worth a dam till you can shout out",
+                    "I am what I am",
+                    "",
+                    "I am, I am, I am good",
+                    "I am, I am, I am strong",
+                    "I am, I am, I am worthy",
+                    "I am, I am, I belong",
+                    "",
+                    "I am, I am",
+                    "Whoo, whoo, whoo",
+                    "I am",
+                    "",
+                    "I am, I am, I am useful",
+                    "I am, I am, I am true",
+                    "I am, I am, somebody",
+                    "I am as good as you",
+                    "",
+                    "Yes, I am"
+                ],
+                "url": "https://cdn.shazam.com/lyrics/v1/en-US/GB/iphone/musixmatch/subtitles/39578366/353/1?token=e4b363bfbacb2aa8c9b525eded0abdb3",
+                "footer": "Writer(s): Jerry Herman\nLyrics powered by www.musixmatch.com",
+                "tabname": "Lyrics",
+                "beacondata": {
+                    "lyricsid": "11428347",
+                    "providername": "musixmatch",
+                    "commontrackid": "39578366"
+                }
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/146404091/youtube/video?q=Gloria+Gaynor+%22I+Am+What+I+Am+(2014+Club+Version)%22"
+            },
+            {
+                "type": "RELATED",
+                "url": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-146404091?startFrom=0&pageSize=20&connected=",
+                "tabname": "Related"
+            }
+        ],
+        "url": "https://www.shazam.com/track/146404091/i-am-what-i-am-2014-club-version",
+        "artists": [
+            {
+                "id": "42",
+                "adamid": "136869"
+            }
+        ],
+        "isrc": "QMFME1442586",
+        "genres": {
+            "primary": "Disco"
+        },
+        "urlparams": {
+            "{tracktitle}": "I+Am+What+I+Am+%282014+Club+Version%29",
+            "{trackartist}": "Gloria+Gaynor"
+        },
+        "myshazam": {
+            "apple": {
+                "actions": [
+                    {
+                        "name": "myshazam:apple",
+                        "type": "uri",
+                        "uri": "https://music.apple.com/gb/album/i-am-what-i-am-2014-club-version/858980717?i=858980735&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                ]
+            }
+        },
+        "highlightsurls": {
+            "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/136869/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+        },
+        "relatedtracksurl": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-146404091?startFrom=0&pageSize=20&connected=",
+        "albumadamid": "858980717"
+    },
+    "tagid": "EF6FF83E-922C-4B71-84E5-FFA5A740E5E1"
+}

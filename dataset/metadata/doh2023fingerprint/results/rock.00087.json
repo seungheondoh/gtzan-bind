@@ -1,0 +1,263 @@
+{
+    "matches": [
+        {
+            "id": "216664415",
+            "offset": 30.313634765,
+            "timeskew": -3.1113625e-05,
+            "frequencyskew": 0.0
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691633593090,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "349366",
+        "title": "Rockin' In the Free World",
+        "subtitle": "Neil Young",
+        "images": {
+            "background": "https://is5-ssl.mzstatic.com/image/thumb/Features115/v4/a4/d8/ba/a4d8ba5a-1ab4-2108-335d-5f016f4b8434/mza_2244565565382308263.png/800x800cc.jpg",
+            "coverart": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/64/5f/36/645f3612-b2ba-8cf1-c814-cb9d3a2216c5/dj.lmxzvmtb.jpg/400x400cc.jpg",
+            "coverarthq": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/64/5f/36/645f3612-b2ba-8cf1-c814-cb9d3a2216c5/dj.lmxzvmtb.jpg/400x400cc.jpg",
+            "joecolor": "b:2e252ap:ffffffs:e96a9et:d5d3d4q:c45c87"
+        },
+        "share": {
+            "subject": "Rockin' In the Free World - Neil Young",
+            "text": "Rockin' In the Free World by Neil Young",
+            "href": "https://www.shazam.com/track/349366/rockin-in-the-free-world",
+            "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/64/5f/36/645f3612-b2ba-8cf1-c814-cb9d3a2216c5/dj.lmxzvmtb.jpg/400x400cc.jpg",
+            "twitter": "I used @Shazam to discover Rockin' In the Free World by Neil Young.",
+            "html": "https://www.shazam.com/snippets/email-share/349366?lang=en-US&country=GB",
+            "avatar": "https://is5-ssl.mzstatic.com/image/thumb/Features115/v4/a4/d8/ba/a4d8ba5a-1ab4-2108-335d-5f016f4b8434/mza_2244565565382308263.png/800x800cc.jpg",
+            "snapchat": "https://www.shazam.com/partner/sc/track/349366"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "actions": [
+                {
+                    "name": "apple",
+                    "type": "applemusicplay",
+                    "id": "320266889"
+                },
+                {
+                    "name": "apple",
+                    "type": "uri",
+                    "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/ab/5d/24/ab5d24ca-26f8-b351-cfcc-07e0ee97f9ce/mzaf_4921064009622949673.plus.aac.ep.m4a"
+                }
+            ],
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/gb/album/rockin-in-the-free-world/320266667?i=320266889&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/gb/album/rockin-in-the-free-world/320266667?i=320266889&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                },
+                {
+                    "caption": "BUY",
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "uri": "https://itunes.apple.com/gb/album/rockin-in-the-free-world/320266667?i=320266889&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "buy",
+                        "providername": "itunes"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "type": "buy",
+                    "listcaption": "Buy on iTunes",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "itunes"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:Rockin%27%20In%20the%20Free%20World%20Neil%20Young"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27Rockin%5C%27+In+the+Free+World%27%20artist%3A%27Neil+Young%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": false,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [
+                    {
+                        "image": "https://is5-ssl.mzstatic.com/image/thumb/Features115/v4/a4/d8/ba/a4d8ba5a-1ab4-2108-335d-5f016f4b8434/mza_2244565565382308263.png/800x800cc.jpg",
+                        "caption": "Neil Young"
+                    },
+                    {
+                        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/64/5f/36/645f3612-b2ba-8cf1-c814-cb9d3a2216c5/dj.lmxzvmtb.jpg/400x400cc.jpg",
+                        "caption": "Rockin' In the Free World"
+                    }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                    {
+                        "title": "Album",
+                        "text": "Freedom"
+                    },
+                    {
+                        "title": "Label",
+                        "text": "Rhino"
+                    },
+                    {
+                        "title": "Released",
+                        "text": "1989"
+                    }
+                ]
+            },
+            {
+                "type": "LYRICS",
+                "text": [
+                    "There's colors on the street",
+                    "Red, white, and blue",
+                    "People shufflin' their feet",
+                    "People sleepin' in their shoes",
+                    "",
+                    "There's a warning sign on the road ahead",
+                    "There's a lot of people saying we'd be better off dead",
+                    "Don't feel like Satan, but I am to them",
+                    "So I try to forget it any way I can",
+                    "",
+                    "Keep on rockin' in the free world",
+                    "Keep on rockin' in the free world",
+                    "Keep on rockin' in the free world",
+                    "Keep on rockin' in the free world",
+                    "",
+                    "I see a woman in the night",
+                    "With a baby in her hand",
+                    "There's an old street light (near a garbage can)",
+                    "Near a garbage can (near a garbage can)",
+                    "",
+                    "Now she put the kid away and she's gone to get a hit",
+                    "She hates her life and what she's done to it",
+                    "There's one more kid that'll never go to school",
+                    "Never get to fall in love, never get to be cool",
+                    "",
+                    "Keep on rockin' in the free world",
+                    "Keep on rockin' in the free world",
+                    "Keep on rockin' in the free world",
+                    "Keep on rockin' in the free world",
+                    "",
+                    "We got a thousand points of light",
+                    "For the homeless man",
+                    "We got a kinder, gentler machine gun hand",
+                    "",
+                    "We've got department stores and toilet paper",
+                    "Got styrofoam boxes for the ozone layer",
+                    "Got a man of the people says, \"Keep hope alive\"",
+                    "Got fuel to burn, got roads to drive",
+                    "",
+                    "Keep on rockin' in the free world",
+                    "Keep on rockin' in the free world",
+                    "Keep on rockin' in the free world",
+                    "Keep on rockin' in the free world"
+                ],
+                "url": "https://cdn.shazam.com/lyrics/v1/en-US/GB/iphone/musixmatch/subtitles/11666646/281/1?token=04777298ea8c6533310b216170bac0af",
+                "footer": "Writer(s): Neil Young, Frank Sampedro\nLyrics powered by www.musixmatch.com",
+                "tabname": "Lyrics",
+                "beacondata": {
+                    "lyricsid": "26370756",
+                    "providername": "musixmatch",
+                    "commontrackid": "11666646"
+                }
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/349366/youtube/video?q=Neil+Young+%22Rockin'+In+the+Free+World%22"
+            },
+            {
+                "type": "RELATED",
+                "url": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-349366?startFrom=0&pageSize=20&connected=",
+                "tabname": "Related"
+            }
+        ],
+        "url": "https://www.shazam.com/track/349366/rockin-in-the-free-world",
+        "artists": [
+            {
+                "id": "42",
+                "adamid": "147370"
+            }
+        ],
+        "isrc": "USRE19900712",
+        "genres": {
+            "primary": "Rock"
+        },
+        "urlparams": {
+            "{tracktitle}": "Rockin%27+In+the+Free+World",
+            "{trackartist}": "Neil+Young"
+        },
+        "myshazam": {
+            "apple": {
+                "actions": [
+                    {
+                        "name": "myshazam:apple",
+                        "type": "uri",
+                        "uri": "https://music.apple.com/gb/album/rockin-in-the-free-world/320266667?i=320266889&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                ]
+            }
+        },
+        "highlightsurls": {
+            "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/147370/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios&videoIdToFilter=1562112391",
+            "trackhighlighturl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/highlights/1562112391?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+        },
+        "relatedtracksurl": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-349366?startFrom=0&pageSize=20&connected=",
+        "albumadamid": "320266667"
+    },
+    "tagid": "2F52F79B-591E-4632-893E-0185F05BABC5"
+}

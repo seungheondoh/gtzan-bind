@@ -1,0 +1,279 @@
+{
+    "matches": [
+        {
+            "id": "292339198",
+            "offset": 30.044529296,
+            "timeskew": -5.4359436e-05,
+            "frequencyskew": 0.0
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691632850242,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "20073192",
+        "title": "Come On Over (All I Want Is You)",
+        "subtitle": "Christina Aguilera",
+        "images": {
+            "background": "https://is4-ssl.mzstatic.com/image/thumb/Features116/v4/17/79/bd/1779bd84-ebd0-d1b4-101c-4fc1e2044fa7/mzl.kdnoleru.jpg/800x800cc.jpg",
+            "coverart": "https://is5-ssl.mzstatic.com/image/thumb/Music125/v4/6b/25/9b/6b259bc3-3e53-4339-80b0-5b50131c8901/888880771674.jpg/400x400cc.jpg",
+            "coverarthq": "https://is5-ssl.mzstatic.com/image/thumb/Music125/v4/6b/25/9b/6b259bc3-3e53-4339-80b0-5b50131c8901/888880771674.jpg/400x400cc.jpg",
+            "joecolor": "b:f0e8e5p:2a211fs:392c27t:524946q:5e514d"
+        },
+        "share": {
+            "subject": "Come On Over (All I Want Is You) - Christina Aguilera",
+            "text": "Come On Over (All I Want Is You) by Christina Aguilera",
+            "href": "https://www.shazam.com/track/20073192/come-on-over-all-i-want-is-you",
+            "image": "https://is5-ssl.mzstatic.com/image/thumb/Music125/v4/6b/25/9b/6b259bc3-3e53-4339-80b0-5b50131c8901/888880771674.jpg/400x400cc.jpg",
+            "twitter": "I used @Shazam to discover Come On Over (All I Want Is You) by Christina Aguilera.",
+            "html": "https://www.shazam.com/snippets/email-share/20073192?lang=en-US&country=GB",
+            "avatar": "https://is4-ssl.mzstatic.com/image/thumb/Features116/v4/17/79/bd/1779bd84-ebd0-d1b4-101c-4fc1e2044fa7/mzl.kdnoleru.jpg/800x800cc.jpg",
+            "snapchat": "https://www.shazam.com/partner/sc/track/20073192"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "actions": [
+                {
+                    "name": "apple",
+                    "type": "applemusicplay",
+                    "id": "1308542777"
+                },
+                {
+                    "name": "apple",
+                    "type": "uri",
+                    "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/59/2e/fa/592efa91-8d80-669b-8cb8-07677b4657d2/mzaf_11445161707454587386.plus.aac.ep.m4a"
+                }
+            ],
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/gb/album/come-on-over-all-i-want-is-you/1308542675?i=1308542777&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/gb/album/come-on-over-all-i-want-is-you/1308542675?i=1308542777&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                },
+                {
+                    "caption": "BUY",
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "uri": "https://itunes.apple.com/gb/album/come-on-over-all-i-want-is-you/1308542675?i=1308542777&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "buy",
+                        "providername": "itunes"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "type": "buy",
+                    "listcaption": "Buy on iTunes",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "itunes"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:Come%20On%20Over%20%28All%20I%20Want%20Is%20You%29%20Christina%20Aguilera"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27Come+On+Over+%28All+I+Want+Is+You%29%27%20artist%3A%27Christina+Aguilera%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": false,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [
+                    {
+                        "image": "https://is4-ssl.mzstatic.com/image/thumb/Features116/v4/17/79/bd/1779bd84-ebd0-d1b4-101c-4fc1e2044fa7/mzl.kdnoleru.jpg/800x800cc.jpg",
+                        "caption": "Christina Aguilera"
+                    },
+                    {
+                        "image": "https://is5-ssl.mzstatic.com/image/thumb/Music125/v4/6b/25/9b/6b259bc3-3e53-4339-80b0-5b50131c8901/888880771674.jpg/400x400cc.jpg",
+                        "caption": "Come On Over (All I Want Is You)"
+                    }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                    {
+                        "title": "Album",
+                        "text": "Christina Aguilera (Expanded Edition)"
+                    },
+                    {
+                        "title": "Label",
+                        "text": "RCA Records Label"
+                    },
+                    {
+                        "title": "Released",
+                        "text": "1999"
+                    }
+                ]
+            },
+            {
+                "type": "LYRICS",
+                "text": [
+                    "Come on over, come on over, baby",
+                    "Come on over, come on over, baby",
+                    "Come on over, come on over, baby",
+                    "Come on over, come on over, baby",
+                    "",
+                    "Hey, boy, don't you know",
+                    "I've got something going on? Yes, I do",
+                    "All my friends are gonna come, gonna party all night long, ooh yeah",
+                    "I know, you know, I just want us to go",
+                    "The fun we'll have, you'll never be alone",
+                    "So boy, won't you come?",
+                    "We will party 'til the dawn, listen to me",
+                    "",
+                    "All I want is you (come over here, baby)",
+                    "All I want is you (you make me go crazy)",
+                    "All I want is you, now baby, don't be shy, you better cross the line",
+                    "I'm gonna love you right, all I want is you",
+                    "",
+                    "Come on over, come on over, baby",
+                    "Come on over, come on over, baby",
+                    "",
+                    "I want you to know you could be the one for me",
+                    "Yes, you could (yes, you could)",
+                    "You've got all I'm looking for",
+                    "You've got personality",
+                    "",
+                    "I know (I know), you know (you know), I'm gonna give more",
+                    "But boy you know, I never felt this way before",
+                    "So, boy, won't you come? Won't you come and open the door?",
+                    "Listen to me",
+                    "",
+                    "All I want is you (come over here, baby)",
+                    "All I want is you (you make me go crazy)",
+                    "All I want is you (now baby, don't be shy)",
+                    "You better cross the line",
+                    "I'm gonna love you right, all I want is you",
+                    "",
+                    "Come on over, come on over, baby (come on over)",
+                    "Come on over, come on over, baby",
+                    "Come on over, come on over, baby (come on over, baby)",
+                    "Come on over, come on over, baby",
+                    "Come on over",
+                    "",
+                    "And now baby, don't be shy, you better cross the line",
+                    "I'm gonna love you right",
+                    "",
+                    "All I want is you (come over here, baby)",
+                    "All I want is you (oh, you make me go crazy)",
+                    "All I want is you and (now baby, don't be shy)",
+                    "You better cross the line",
+                    "I'm gonna love you right",
+                    "'Cause all I want is you",
+                    "",
+                    "All I want is you",
+                    "All I want is you (you make me go crazy)",
+                    "All I want is you (now baby, don't be shy)",
+                    "You better cross the line",
+                    "I'm gonna love you right",
+                    "'Cause all I want is you"
+                ],
+                "url": "https://cdn.shazam.com/lyrics/v1/en-US/GB/iphone/musixmatch/subtitles/102600/189/1?token=2035dbe32dc472271667f5c951043510",
+                "footer": "Writer(s): Guy Roche, Chaka Blackmon, Ray Cham, Ron Fair, Paul Rein, Christina Aguilera, Johan Aberg, Shelly Peiken, Eric Dawkins\nLyrics powered by www.musixmatch.com",
+                "tabname": "Lyrics",
+                "beacondata": {
+                    "lyricsid": "30454016",
+                    "providername": "musixmatch",
+                    "commontrackid": "102600"
+                }
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/20073192/youtube/video?q=Christina+Aguilera+%22Come+On+Over+(All+I+Want+Is+You)%22"
+            },
+            {
+                "type": "RELATED",
+                "url": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-20073192?startFrom=0&pageSize=20&connected=",
+                "tabname": "Related"
+            }
+        ],
+        "url": "https://www.shazam.com/track/20073192/come-on-over-all-i-want-is-you",
+        "artists": [
+            {
+                "id": "42",
+                "adamid": "259398"
+            }
+        ],
+        "isrc": "USRC19900161",
+        "genres": {
+            "primary": "Pop"
+        },
+        "urlparams": {
+            "{tracktitle}": "Come+On+Over+%28All+I+Want+Is+You%29",
+            "{trackartist}": "Christina+Aguilera"
+        },
+        "myshazam": {
+            "apple": {
+                "actions": [
+                    {
+                        "name": "myshazam:apple",
+                        "type": "uri",
+                        "uri": "https://music.apple.com/gb/album/come-on-over-all-i-want-is-you/1308542675?i=1308542777&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                ]
+            }
+        },
+        "highlightsurls": {
+            "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/259398/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios&videoIdToFilter=379641879",
+            "trackhighlighturl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/highlights/379641879?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+        },
+        "relatedtracksurl": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-20073192?startFrom=0&pageSize=20&connected=",
+        "albumadamid": "1308542675"
+    },
+    "tagid": "3252CF75-88DD-4CF3-A428-50890F9FD22B"
+}

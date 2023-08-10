@@ -1,0 +1,296 @@
+{
+    "matches": [
+        {
+            "id": "200821864",
+            "offset": 29.550240234,
+            "timeskew": -0.014149189,
+            "frequencyskew": -0.014195442
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691633339203,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "11247078",
+        "title": "Judge Dread",
+        "subtitle": "Prince Buster",
+        "images": {
+            "background": "https://is5-ssl.mzstatic.com/image/thumb/Music124/v4/86/b1/09/86b1091a-7d68-ca0f-593e-2bc75bd98323/859720060807_cover.jpg/400x400cc.jpg",
+            "coverart": "https://is5-ssl.mzstatic.com/image/thumb/Music124/v4/86/b1/09/86b1091a-7d68-ca0f-593e-2bc75bd98323/859720060807_cover.jpg/400x400cc.jpg",
+            "coverarthq": "https://is5-ssl.mzstatic.com/image/thumb/Music124/v4/86/b1/09/86b1091a-7d68-ca0f-593e-2bc75bd98323/859720060807_cover.jpg/400x400cc.jpg",
+            "joecolor": "b:002cb9p:edf2f5s:e7f4eft:bdcae9q:b9cce4"
+        },
+        "share": {
+            "subject": "Judge Dread - Prince Buster",
+            "text": "Judge Dread by Prince Buster",
+            "href": "https://www.shazam.com/track/11247078/judge-dread",
+            "image": "https://is5-ssl.mzstatic.com/image/thumb/Music124/v4/86/b1/09/86b1091a-7d68-ca0f-593e-2bc75bd98323/859720060807_cover.jpg/400x400cc.jpg",
+            "twitter": "I used @Shazam to discover Judge Dread by Prince Buster.",
+            "html": "https://www.shazam.com/snippets/email-share/11247078?lang=en-US&country=GB",
+            "snapchat": "https://www.shazam.com/partner/sc/track/11247078"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "actions": [
+                {
+                    "name": "apple",
+                    "type": "applemusicplay",
+                    "id": "1221718398"
+                },
+                {
+                    "name": "apple",
+                    "type": "uri",
+                    "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/8c/ea/bf/8ceabf3f-4731-02a5-b586-eb24f4dc7aa2/mzaf_9856034676772374522.plus.aac.ep.m4a"
+                }
+            ],
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/gb/album/judge-dread/1221718397?i=1221718398&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/gb/album/judge-dread/1221718397?i=1221718398&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                },
+                {
+                    "caption": "BUY",
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "uri": "https://itunes.apple.com/gb/album/judge-dread/1221718397?i=1221718398&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "buy",
+                        "providername": "itunes"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "type": "buy",
+                    "listcaption": "Buy on iTunes",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "itunes"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:Judge%20Dread%20Prince%20Buster"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27Judge+Dread%27%20artist%3A%27Prince+Buster%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": false,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [
+                    {
+                        "image": "https://is5-ssl.mzstatic.com/image/thumb/Music124/v4/86/b1/09/86b1091a-7d68-ca0f-593e-2bc75bd98323/859720060807_cover.jpg/400x400cc.jpg",
+                        "caption": "Judge Dread"
+                    }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                    {
+                        "title": "Album",
+                        "text": "Judge Dread"
+                    },
+                    {
+                        "title": "Label",
+                        "text": "PRINCE BUSTER MUSIC"
+                    },
+                    {
+                        "title": "Released",
+                        "text": "1967"
+                    }
+                ]
+            },
+            {
+                "type": "LYRICS",
+                "text": [
+                    "\"Order, now my court is in session, will you please stand?",
+                    "First, allow me to introduce myself, my name is Judge Hundred-Years",
+                    "Some people call me Judge Dread",
+                    "Now, I have come here to whoop you, to try all you rudeboys",
+                    "For shooting black people",
+                    "In my court only we talk, cause I'm vexed, and I am the rudeboy today",
+                    "?\"",
+                    "",
+                    "\"Yes, sir\"",
+                    "",
+                    "\"Rudeboy Adolfus James?\"",
+                    "",
+                    "\"Yes, sir\"",
+                    "",
+                    "\"Rudeboy Emmanuel Zechariah Zechipaul?\"",
+                    "",
+                    "\"Present\"",
+                    "",
+                    "\"George Grabandflee?\"",
+                    "",
+                    "\"Present\"",
+                    "",
+                    "\"Hmm... Adolfus James, I see here you have been charged with",
+                    "Ten shooting attempts",
+                    "Five murder charge",
+                    "Six grab and flee charge\"",
+                    "",
+                    "\"But your honor, I didn't--\"",
+                    "",
+                    "\"--Hush up! Guilty or not guilty?\"",
+                    "",
+                    "\"Not guilty, sir\"",
+                    "",
+                    "\"I don't care what you say, take four hundred years. Stand down",
+                    "Emmanuel Zechariah Zechipaul?\"",
+                    "",
+                    "\"Yes, sir?\"",
+                    "",
+                    "\"You've been charged with fifteen charge of shooting attempts",
+                    "Fifteen murder charge",
+                    "And I heard that you was the one there on Sutton Street",
+                    "Who tell the judge, 'Rudeboys don't care'",
+                    "Well, this is King Street, and my name is Judge Dread, and I don't care",
+                    "Now take four hundred years\"",
+                    "",
+                    "\"But ya don't know what I would say, your good honor--\"",
+                    "",
+                    "\"--Hush up! What you trying to do, shoot me, too?\"",
+                    "",
+                    "\"No, your honor, but I--\"",
+                    "",
+                    "\"Quiet! Four hundred more years for you!... George Grabandflee?\"",
+                    "",
+                    "\"Yes, sir?\"",
+                    "",
+                    "\"Stop your crying, rudeboys don't cry, that's what I hear\"",
+                    "",
+                    "\"But I didn't do that, dem frame me, and I don't deserve that--\"",
+                    "",
+                    "\"--I don't care, hush up! This is my court!",
+                    "You're charged for robbing school-children",
+                    "Rob with aggravation...\"",
+                    "",
+                    "\"Hush up, order!",
+                    "Adolfus James?\"",
+                    "",
+                    "\"Yes sir?\"",
+                    "",
+                    "\"You rob school-children",
+                    "You? the people's house",
+                    "You shot black people\"",
+                    "",
+                    "\"But your honor, I didn't--\"",
+                    "",
+                    "\"--Hush up! Just for talking, I now charge you for contempt, and that",
+                    "Is a separate hundred years",
+                    "I hereby sentence you to four hundred years\"",
+                    "",
+                    "\"I said hush up, hush up!",
+                    "You're sentenced to four hundred years and five hundred lashes",
+                    "I am going to set an example, I--rudeboys don't cry, don't cry!",
+                    "When I was in harbor, I hear you were tough. Court adjourned, take them away!\""
+                ],
+                "url": "https://cdn.shazam.com/lyrics/v1/en-US/GB/iphone/musixmatch/subtitles/1651108/218/1?token=074091a33f7d3331aed46266f09c8e87",
+                "footer": "Writer(s): C Campbell\nLyrics powered by www.musixmatch.com",
+                "tabname": "Lyrics",
+                "beacondata": {
+                    "lyricsid": "11988772",
+                    "providername": "musixmatch",
+                    "commontrackid": "1651108"
+                }
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/11247078/youtube/video?q=Prince+Buster+%22Judge+Dread%22"
+            },
+            {
+                "type": "RELATED",
+                "url": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-11247078?startFrom=0&pageSize=20&connected=",
+                "tabname": "Related"
+            }
+        ],
+        "url": "https://www.shazam.com/track/11247078/judge-dread",
+        "artists": [
+            {
+                "id": "42",
+                "adamid": "20805162"
+            }
+        ],
+        "isrc": "TCACY1765532",
+        "genres": {
+            "primary": "Reggae"
+        },
+        "urlparams": {
+            "{tracktitle}": "Judge+Dread",
+            "{trackartist}": "Prince+Buster"
+        },
+        "myshazam": {
+            "apple": {
+                "actions": [
+                    {
+                        "name": "myshazam:apple",
+                        "type": "uri",
+                        "uri": "https://music.apple.com/gb/album/judge-dread/1221718397?i=1221718398&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                ]
+            }
+        },
+        "highlightsurls": {
+            "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/20805162/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+        },
+        "relatedtracksurl": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-11247078?startFrom=0&pageSize=20&connected=",
+        "albumadamid": "1221718397"
+    },
+    "tagid": "BC932C6E-8CFA-44C8-BDAB-3B4484BC6D1C"
+}

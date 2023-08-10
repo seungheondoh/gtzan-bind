@@ -1,0 +1,290 @@
+{
+    "matches": [
+        {
+            "id": "202101563",
+            "offset": 29.404693359,
+            "timeskew": -0.01750195,
+            "frequencyskew": -0.017762184
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691632937784,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "5223107",
+        "title": "Keeping It Moving",
+        "subtitle": "A Tribe Called Quest",
+        "images": {
+            "background": "https://is2-ssl.mzstatic.com/image/thumb/Features115/v4/a0/ad/bc/a0adbc34-694d-11c0-7bde-530856def3e0/mzl.mdbitjdo.jpg/800x800cc.jpg",
+            "coverart": "https://is3-ssl.mzstatic.com/image/thumb/Music6/v4/02/90/01/029001ed-7fb8-1794-25c9-39fdc0fa6312/dj.ouvfuois.jpg/400x400cc.jpg",
+            "coverarthq": "https://is3-ssl.mzstatic.com/image/thumb/Music6/v4/02/90/01/029001ed-7fb8-1794-25c9-39fdc0fa6312/dj.ouvfuois.jpg/400x400cc.jpg",
+            "joecolor": "b:100211p:fcf7f4s:ffce82t:cdc6c6q:cfa56b"
+        },
+        "share": {
+            "subject": "Keeping It Moving - A Tribe Called Quest",
+            "text": "Keeping It Moving by A Tribe Called Quest",
+            "href": "https://www.shazam.com/track/5223107/keeping-it-moving",
+            "image": "https://is3-ssl.mzstatic.com/image/thumb/Music6/v4/02/90/01/029001ed-7fb8-1794-25c9-39fdc0fa6312/dj.ouvfuois.jpg/400x400cc.jpg",
+            "twitter": "I used @Shazam to discover Keeping It Moving by A Tribe Called Quest.",
+            "html": "https://www.shazam.com/snippets/email-share/5223107?lang=en-US&country=GB",
+            "avatar": "https://is2-ssl.mzstatic.com/image/thumb/Features115/v4/a0/ad/bc/a0adbc34-694d-11c0-7bde-530856def3e0/mzl.mdbitjdo.jpg/800x800cc.jpg",
+            "snapchat": "https://www.shazam.com/partner/sc/track/5223107"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "actions": [
+                {
+                    "name": "apple",
+                    "type": "applemusicplay",
+                    "id": "254978272"
+                },
+                {
+                    "name": "apple",
+                    "type": "uri",
+                    "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/f7/ac/c0/f7acc068-89c9-f70c-7e06-751fda59f2c9/mzaf_11692837286828107151.plus.aac.ep.m4a"
+                }
+            ],
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/gb/album/keeping-it-moving/254976948?i=254978272&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/gb/album/keeping-it-moving/254976948?i=254978272&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                },
+                {
+                    "caption": "BUY",
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "uri": "https://itunes.apple.com/gb/album/keeping-it-moving/254976948?i=254978272&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "buy",
+                        "providername": "itunes"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "type": "buy",
+                    "listcaption": "Buy on iTunes",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "itunes"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:Keeping%20It%20Moving%20A%20Tribe%20Called%20Quest"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27Keeping+It+Moving%27%20artist%3A%27A+Tribe+Called+Quest%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": true,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [
+                    {
+                        "image": "https://is2-ssl.mzstatic.com/image/thumb/Features115/v4/a0/ad/bc/a0adbc34-694d-11c0-7bde-530856def3e0/mzl.mdbitjdo.jpg/800x800cc.jpg",
+                        "caption": "A Tribe Called Quest"
+                    },
+                    {
+                        "image": "https://is3-ssl.mzstatic.com/image/thumb/Music6/v4/02/90/01/029001ed-7fb8-1794-25c9-39fdc0fa6312/dj.ouvfuois.jpg/400x400cc.jpg",
+                        "caption": "Keeping It Moving"
+                    }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                    {
+                        "title": "Album",
+                        "text": "Beats, Rhymes & Life"
+                    },
+                    {
+                        "title": "Label",
+                        "text": "Jive"
+                    },
+                    {
+                        "title": "Released",
+                        "text": "1996"
+                    }
+                ]
+            },
+            {
+                "type": "LYRICS",
+                "text": [
+                    "Q-Tip:",
+                    "Somethin for your earhole, so you can clean them shits out",
+                    "It seems that some don't understand what I'm talkin about",
+                    "How you get West coast nigga, from West coast hater?",
+                    "I could never dis a whole coast, my time is too greater(true)",
+                    "Yeah, we from the East, the land of originators",
+                    "You also from the West, the land of innovators",
+                    "The only difference of the two is the style of the rap",
+                    "Plus the musical track, this beef shit is so wack",
+                    "Let me let y'all brothas know I ain't no West coast disser",
+                    "Another thing I'm not is a damn ass kisser",
+                    "So listen to my words as I set things straight",
+                    "I ain't got no beef, so don't come in my face",
+                    "",
+                    "Keep it movin, yeah to the K.I.M.",
+                    "Keep it movin, yeah yeah to the K.I.M.",
+                    "I ain't got no time for schuckin and jivin",
+                    "Keep it movin, keep it movin, yeah yeah to the K.I.M.",
+                    "Keep it movin, yeah yeah to the K.I.M.",
+                    "I ain't got no time for schuckin and jivin",
+                    "",
+                    "Q-Tip:",
+                    "Hip hop... a way of life",
+                    "It doesn't tell you how to raise a child or treat a wife",
+                    "I verbalize over... rhyme friendly",
+                    "That puts a listener in a frenzy, so pop me in your Benzi",
+                    "You dig it? Get wit it or get your melon splitted",
+                    "If you ever try to combat, Sir Walter moves the king",
+                    "We got the illy team that doesn't even sweat the gleam",
+                    "Or glamour, we'll figure 4 your ass like Greg the Hammer",
+                    "Man, we rockin joints like The Who or Santana",
+                    "Keep jams packed and hotter than Havana",
+                    "Positivity is the key in the lock",
+                    "Put your hand on it, turn it to the right, ak",
+                    "We doin daredevil dandies on these mics",
+                    "Peace out to the whole Hiero who's puffin on the hydro",
+                    "Yeah dun, we movin how we like",
+                    "Since the days of rockin hi-los, we keepin things on pyro, fire",
+                    "As we move with zeal and desire",
+                    "Now, the hip hop plan, hope you complier",
+                    "Son, we havin tunnel vision but my sight is real real broad",
+                    "Cuz I can't afford to miss that call",
+                    "Makin moves, not movies, as get on the ball",
+                    "And we keepin things covered like a female shawl",
+                    "When I watch hockey, yo, I just look for the brawl",
+                    "Quest, Quest and you know we signin out y'all",
+                    "",
+                    "Keep it movin, yeah yeah, to the K.I.M.",
+                    "Keep it movin, yeah yeah, to the K.I.M.",
+                    "I ain't got no time for schuckin and jivin",
+                    "Keep it movin, yeah yeah",
+                    "Keep it movin, yeah yeah, to the K.I.M.",
+                    "Keep it movin, true dat, to the K.I.M.",
+                    "I ain't got no time for schuckin and jivin",
+                    "",
+                    "The Pharcyde, you know we do it up, uh, you know we do it up, uh",
+                    "The Hiero, you know we do it up, yeah yeah, you know we do it up",
+                    "Yeah, to the Mobb Deep, The Infamous, we do it up, yeah yeah",
+                    "You know we do it up",
+                    "To my peoples Know Naim, yeah, you know we do it up, uh uh",
+                    "You know we do it up",
+                    "To my man DJ Quik, uh, you know we do it up, uh uh, a do, a do it up",
+                    "To my man Biz Mark, yeah yeah, you know we do it up, uh uh",
+                    "You know we do it up",
+                    "To my man Ike Love love, you know we do it up, yeah yeah",
+                    "You know we do it up",
+                    "And my man Extra P, P, you know we do it up, uh uh uh-uh, uh, uh up",
+                    "I can't forget Dr. Dre, uh, you know we do it up",
+                    "MC Eiht, uh, you know we do it up",
+                    "Shelly Mae, uh, you know we do it up",
+                    "Muhammad, uh, you know we do it up (fading out)"
+                ],
+                "url": "https://cdn.shazam.com/lyrics/v1/en-US/GB/iphone/musixmatch/subtitles/2631746/218/1?token=ff40b2673b71067c16c79b539afdd95c",
+                "footer": "Writer(s): Kamaal Ibn John Fareed, Ali Shaheed Jones-muhammad, James Dewitt Yancey, Malik Izaak Taylor, Dexter Raymond Jr. Mills\nLyrics powered by www.musixmatch.com",
+                "tabname": "Lyrics",
+                "beacondata": {
+                    "lyricsid": "1221922",
+                    "providername": "musixmatch",
+                    "commontrackid": "2631746"
+                }
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/5223107/youtube/video?q=A+Tribe+Called+Quest+%22Keeping+It+Moving%22"
+            },
+            {
+                "type": "RELATED",
+                "url": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-5223107?startFrom=0&pageSize=20&connected=",
+                "tabname": "Related"
+            }
+        ],
+        "url": "https://www.shazam.com/track/5223107/keeping-it-moving",
+        "artists": [
+            {
+                "id": "42",
+                "adamid": "1587965"
+            }
+        ],
+        "isrc": "USJI19610439",
+        "genres": {
+            "primary": "Hip-Hop/Rap"
+        },
+        "urlparams": {
+            "{tracktitle}": "Keeping+It+Moving",
+            "{trackartist}": "A+Tribe+Called+Quest"
+        },
+        "myshazam": {
+            "apple": {
+                "actions": [
+                    {
+                        "name": "myshazam:apple",
+                        "type": "uri",
+                        "uri": "https://music.apple.com/gb/album/keeping-it-moving/254976948?i=254978272&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                ]
+            }
+        },
+        "highlightsurls": {
+            "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/1587965/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+        },
+        "relatedtracksurl": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-5223107?startFrom=0&pageSize=20&connected=",
+        "albumadamid": "254976948"
+    },
+    "tagid": "69D01492-82AF-4DCC-8ECB-40C1D01CD6EC"
+}

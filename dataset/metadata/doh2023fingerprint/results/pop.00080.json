@@ -1,0 +1,330 @@
+{
+    "matches": [
+        {
+            "id": "235745537",
+            "offset": 30.142011718000003,
+            "timeskew": -0.0001450777,
+            "frequencyskew": -4.029274e-05
+        },
+        {
+            "id": "247373808",
+            "offset": 29.791988281000002,
+            "timeskew": 8.34465e-07,
+            "frequencyskew": -8.0525875e-05
+        },
+        {
+            "id": "617336338",
+            "offset": 176.78946875,
+            "timeskew": -2.8789043e-05,
+            "frequencyskew": -0.00016111135
+        },
+        {
+            "id": "100876011",
+            "offset": 87.014820312,
+            "timeskew": -0.00079095364,
+            "frequencyskew": 0.0
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691632721078,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "5161339",
+        "title": "Lady Marmalade",
+        "subtitle": "Christina Aguilera, Lil' Kim, M\u00fda & P!nk",
+        "images": {
+            "background": "https://is4-ssl.mzstatic.com/image/thumb/Features116/v4/17/79/bd/1779bd84-ebd0-d1b4-101c-4fc1e2044fa7/mzl.kdnoleru.jpg/800x800cc.jpg",
+            "coverart": "https://is5-ssl.mzstatic.com/image/thumb/Music128/v4/e1/ae/99/e1ae9974-ef04-a3f2-445c-422f1cf0f88f/00606949050726.rgb.jpg/400x400cc.jpg",
+            "coverarthq": "https://is5-ssl.mzstatic.com/image/thumb/Music128/v4/e1/ae/99/e1ae9974-ef04-a3f2-445c-422f1cf0f88f/00606949050726.rgb.jpg/400x400cc.jpg",
+            "joecolor": "b:4c2717p:f49f3bs:ea8f62t:d28733q:ca7a53"
+        },
+        "share": {
+            "subject": "Lady Marmalade - Christina Aguilera, Lil' Kim, M\u00fda & P!nk",
+            "text": "Lady Marmalade by Christina Aguilera, Lil' Kim, M\u00fda & P!nk",
+            "href": "https://www.shazam.com/track/5161339/lady-marmalade",
+            "image": "https://is5-ssl.mzstatic.com/image/thumb/Music128/v4/e1/ae/99/e1ae9974-ef04-a3f2-445c-422f1cf0f88f/00606949050726.rgb.jpg/400x400cc.jpg",
+            "twitter": "I used @Shazam to discover Lady Marmalade by Christina Aguilera, Lil' Kim, M\u00fda & P!nk.",
+            "html": "https://www.shazam.com/snippets/email-share/5161339?lang=en-US&country=GB",
+            "avatar": "https://is4-ssl.mzstatic.com/image/thumb/Features116/v4/17/79/bd/1779bd84-ebd0-d1b4-101c-4fc1e2044fa7/mzl.kdnoleru.jpg/800x800cc.jpg",
+            "snapchat": "https://www.shazam.com/partner/sc/track/5161339"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "actions": [
+                {
+                    "name": "apple",
+                    "type": "applemusicplay",
+                    "id": "1440892107"
+                },
+                {
+                    "name": "apple",
+                    "type": "uri",
+                    "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/7d/c7/d7/7dc7d7b1-9f33-883a-93c2-2047940fd7c7/mzaf_13075756610269619253.plus.aac.ep.m4a"
+                }
+            ],
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/gb/album/lady-marmalade/1440891578?i=1440892107&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/gb/album/lady-marmalade/1440891578?i=1440892107&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                },
+                {
+                    "caption": "BUY",
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "uri": "https://itunes.apple.com/gb/album/lady-marmalade/1440891578?i=1440892107&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "buy",
+                        "providername": "itunes"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "type": "buy",
+                    "listcaption": "Buy on iTunes",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "itunes"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:Lady%20Marmalade%20Christina%20Aguilera"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27Lady+Marmalade%27%20artist%3A%27Christina+Aguilera%2C+Lil%5C%27+Kim%2C+M%C3%BDa++P%21nk%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": false,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [
+                    {
+                        "image": "https://is4-ssl.mzstatic.com/image/thumb/Features116/v4/17/79/bd/1779bd84-ebd0-d1b4-101c-4fc1e2044fa7/mzl.kdnoleru.jpg/800x800cc.jpg",
+                        "caption": "Christina Aguilera"
+                    },
+                    {
+                        "image": "https://is5-ssl.mzstatic.com/image/thumb/Music128/v4/e1/ae/99/e1ae9974-ef04-a3f2-445c-422f1cf0f88f/00606949050726.rgb.jpg/400x400cc.jpg",
+                        "caption": "Lady Marmalade"
+                    }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                    {
+                        "title": "Album",
+                        "text": "Moulin Rouge (Soundtrack from the Motion Picture)"
+                    },
+                    {
+                        "title": "Label",
+                        "text": "Moulin Rouge / Interscope"
+                    },
+                    {
+                        "title": "Released",
+                        "text": "2001"
+                    }
+                ]
+            },
+            {
+                "type": "LYRICS",
+                "text": [
+                    "Where's all my soul sista's?",
+                    "Lemme hear y'all flow sista's",
+                    "Hey sista', go sista', soul sista', flow sista' (uh)",
+                    "Hey sista', go sista', soul sista', go sista'",
+                    "",
+                    "He met Marmalade down in old Moulin Rouge",
+                    "Struttin' her stuff on the street",
+                    "She said, \"Hello, hey Joe! You wanna give it a go?\"",
+                    "Oh! Uh-huh",
+                    "",
+                    "Gitchie, gitchie, ya-ya, da-da (hey, hey, hey)",
+                    "Gitchie, gitchie, ya-ya, here (here)",
+                    "",
+                    "Mocha Chocolata, ya-ya (ooh, yeah)",
+                    "",
+                    "Creole Lady Marmalade",
+                    "",
+                    "What-what, what-what, what-what?",
+                    "Ooh, oh",
+                    "",
+                    "Voulez-vous coucher avec moi, ce soir? (Oh-oh)",
+                    "Voulez-vous coucher avec moi?",
+                    "Yeah, yeah, yeah, yeah",
+                    "",
+                    "He sat in her boudoir while she freshened up",
+                    "(Hey sista', go sista', soul sista', flow sista')",
+                    "Boy drank all that Magnolia wine",
+                    "On her black satin sheets where he started to freak, yeah",
+                    "",
+                    "Gitchie, gitchie, ya-ya, da-da (da-da-da)",
+                    "Gitchie, gitchie, ya-ya, here, ooh, yeah, yeah",
+                    "",
+                    "Mocha Chocolata, ya-ya (yeah, yeah)",
+                    "Creole Lady Marmalade, uh",
+                    "",
+                    "Voulez-vous coucher avec moi, ce soir? (Ce soir)",
+                    "(What, what, what?)",
+                    "Voulez-vous coucher avec moi? (Ooh)",
+                    "",
+                    "Yeah, yeah, uh",
+                    "We come through with the money and the garter belts",
+                    "Let him know we 'bout that cake straight out the gate (uh)",
+                    "We independent women, some mistake us for whores",
+                    "I'm sayin', \"Why spend mine when I can spend yours?\"",
+                    "Disagree? Well, that's you, and I'm sorry",
+                    "I'ma keep playing these cats out like Atari",
+                    "Wear high heel shoes, get love from the dudes",
+                    "Four badass chicks from the Moulin Rouge, uh",
+                    "Hey sista's, soul sista's, betta get that dough, sista's",
+                    "",
+                    "We drink wine with diamonds in the glass",
+                    "By the case, the meaning of expensive taste",
+                    "If you wanna Gitchie, Gitchie, ya-ya (come on)",
+                    "Mocha Chocolata (what?)",
+                    "Real Lady Marmalade",
+                    "",
+                    "One more time, c'mon now",
+                    "",
+                    "Marmalade (ooh, oh)",
+                    "Lady Marmalade (ooh, yeah, yeah)",
+                    "Marmalade (no, oh, yeah)",
+                    "",
+                    "Hey, hey, hey!",
+                    "Touch of her skin, feeling silky smooth, oh",
+                    "Color of caf\u00e9 au lait, alright",
+                    "Made the savage beast inside roar until he cried",
+                    "More (more), more (more), more",
+                    "",
+                    "Now he's back home doin' 9 to 5 (9 to 5)",
+                    "He's livin' the grey flannel life",
+                    "(Oh, baby turns off to sleep, memories creep)",
+                    "More (more), more (more), more",
+                    "",
+                    "Gitchie, gitchie, ya-ya, da-da (da-da, yeah)",
+                    "Gitchie, gitchie, ya-ya, here (ooh)",
+                    "Mocha Chocolata, ya-ya (yeah)",
+                    "Creole Lady Marmalade",
+                    "",
+                    "Voulez-vous coucher avec moi, ce soir? (Ce soir)",
+                    "Voulez-vous coucher avec moi? (All my sista's, yeah)",
+                    "Voulez-vous coucher avec moi, ce soir? (Ce soir)",
+                    "Voulez-vous coucher avec moi? (C'mon! Uh)",
+                    "",
+                    "Christina (hey, oh)",
+                    "P!nk (Lady Marmalade)",
+                    "Lil' Kim (hey, hey, uh, uh, uh, uh, uh, uh, uh)",
+                    "",
+                    "M\u00fda (oh, oh, ooh)",
+                    "Rockwilder, baby (baby)",
+                    "Moulin Rouge (oh-ooh; da-da)",
+                    "Misdemeanor here",
+                    "Creole Lady Marmalade",
+                    "Ooh, ooh, yes-ah"
+                ],
+                "url": "https://cdn.shazam.com/lyrics/v1/en-US/GB/iphone/musixmatch/subtitles/11449971/264/1?token=8849894e6fd36f23d952ee3e842da9af",
+                "footer": "Writer(s): Kenny Nolan, Robert Crewe\nLyrics powered by www.musixmatch.com",
+                "tabname": "Lyrics",
+                "beacondata": {
+                    "lyricsid": "30587048",
+                    "providername": "musixmatch",
+                    "commontrackid": "11449971"
+                }
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/5161339/youtube/video?q=Christina+Aguilera,+Lil'+Kim,+M%C3%BDa+%26+P!nk+%22Lady+Marmalade%22"
+            },
+            {
+                "type": "RELATED",
+                "url": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-5161339?startFrom=0&pageSize=20&connected=",
+                "tabname": "Related"
+            }
+        ],
+        "url": "https://www.shazam.com/track/5161339/lady-marmalade",
+        "artists": [
+            {
+                "id": "42",
+                "adamid": "259398"
+            }
+        ],
+        "isrc": "USIR10110334",
+        "genres": {
+            "primary": "Soundtrack"
+        },
+        "urlparams": {
+            "{tracktitle}": "Lady+Marmalade",
+            "{trackartist}": "Christina+Aguilera%2C+Lil%27+Kim%2C+M%C3%BDa+%26+P%21nk"
+        },
+        "myshazam": {
+            "apple": {
+                "actions": [
+                    {
+                        "name": "myshazam:apple",
+                        "type": "uri",
+                        "uri": "https://music.apple.com/gb/album/lady-marmalade/1440891578?i=1440892107&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                ]
+            }
+        },
+        "highlightsurls": {
+            "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/259398/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+        },
+        "relatedtracksurl": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-5161339?startFrom=0&pageSize=20&connected=",
+        "albumadamid": "1440891578"
+    },
+    "tagid": "4E125240-F3FE-4865-AB58-A24CCB29A4A3"
+}

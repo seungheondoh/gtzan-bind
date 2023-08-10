@@ -1,0 +1,317 @@
+{
+    "matches": [
+        {
+            "id": "289075303",
+            "offset": 29.640201171,
+            "timeskew": -0.01038903,
+            "frequencyskew": -0.010974348
+        },
+        {
+            "id": "358116978",
+            "offset": 76.53508593699999,
+            "timeskew": -4.8995018e-05,
+            "frequencyskew": -0.00036239624
+        },
+        {
+            "id": "203633097",
+            "offset": 61.051234375,
+            "timeskew": -0.0015272498,
+            "frequencyskew": -0.0011672378
+        },
+        {
+            "id": "201819807",
+            "offset": 61.020640625,
+            "timeskew": -0.0013184547,
+            "frequencyskew": -0.0015694499
+        },
+        {
+            "id": "261214108",
+            "offset": 76.492101562,
+            "timeskew": -0.0010857582,
+            "frequencyskew": -0.001247704
+        },
+        {
+            "id": "45257657",
+            "offset": 76.798015625,
+            "timeskew": -0.006214738,
+            "frequencyskew": -0.006423056
+        },
+        {
+            "id": "335000746",
+            "offset": 53.234054687000004,
+            "timeskew": -0.001565516,
+            "frequencyskew": -0.001850903
+        },
+        {
+            "id": "202637865",
+            "offset": 75.98240625,
+            "timeskew": -0.006040156,
+            "frequencyskew": -0.0061429143
+        },
+        {
+            "id": "260621775",
+            "offset": 76.602640625,
+            "timeskew": -0.0004543662,
+            "frequencyskew": -0.0015023947
+        },
+        {
+            "id": "122596865",
+            "offset": 56.7580625,
+            "timeskew": -0.00062298775,
+            "frequencyskew": -0.0005981922
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691632399665,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "10604064",
+        "title": "High Energy",
+        "subtitle": "Evelyn Thomas",
+        "images": {
+            "background": "https://is3-ssl.mzstatic.com/image/thumb/Music/v4/e1/0e/7e/e10e7efe-2ea9-d607-597d-5dac7810052f/dj.svilfndg.jpg/400x400cc.jpg",
+            "coverart": "https://is3-ssl.mzstatic.com/image/thumb/Music/v4/e1/0e/7e/e10e7efe-2ea9-d607-597d-5dac7810052f/dj.svilfndg.jpg/400x400cc.jpg",
+            "coverarthq": "https://is3-ssl.mzstatic.com/image/thumb/Music/v4/e1/0e/7e/e10e7efe-2ea9-d607-597d-5dac7810052f/dj.svilfndg.jpg/400x400cc.jpg",
+            "joecolor": "b:775201p:ffd373s:f4a703t:e3b95dq:db9602"
+        },
+        "share": {
+            "subject": "High Energy - Evelyn Thomas",
+            "text": "High Energy by Evelyn Thomas",
+            "href": "https://www.shazam.com/track/10604064/high-energy",
+            "image": "https://is3-ssl.mzstatic.com/image/thumb/Music/v4/e1/0e/7e/e10e7efe-2ea9-d607-597d-5dac7810052f/dj.svilfndg.jpg/400x400cc.jpg",
+            "twitter": "I used @Shazam to discover High Energy by Evelyn Thomas.",
+            "html": "https://www.shazam.com/snippets/email-share/10604064?lang=en-US&country=GB",
+            "snapchat": "https://www.shazam.com/partner/sc/track/10604064"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "actions": [
+                {
+                    "name": "apple",
+                    "type": "applemusicplay",
+                    "id": "256553668"
+                },
+                {
+                    "name": "apple",
+                    "type": "uri",
+                    "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/11/91/98/11919890-bcb6-4aaa-663c-7373ebbf2c2c/mzaf_2950548393385755977.plus.aac.ep.m4a"
+                }
+            ],
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/gb/album/high-energy/256553654?i=256553668&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/gb/album/high-energy/256553654?i=256553668&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                },
+                {
+                    "caption": "BUY",
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "uri": "https://itunes.apple.com/gb/album/high-energy/256553654?i=256553668&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "buy",
+                        "providername": "itunes"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "type": "buy",
+                    "listcaption": "Buy on iTunes",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "itunes"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:High%20Energy%20Evelyn%20Thomas"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27High+Energy%27%20artist%3A%27Evelyn+Thomas%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": false,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [
+                    {
+                        "image": "https://is3-ssl.mzstatic.com/image/thumb/Music/v4/e1/0e/7e/e10e7efe-2ea9-d607-597d-5dac7810052f/dj.svilfndg.jpg/400x400cc.jpg",
+                        "caption": "High Energy"
+                    }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                    {
+                        "title": "Album",
+                        "text": "High Energy"
+                    },
+                    {
+                        "title": "Label",
+                        "text": "Motorcity OMP"
+                    },
+                    {
+                        "title": "Released",
+                        "text": "1980"
+                    }
+                ]
+            },
+            {
+                "type": "LYRICS",
+                "text": [
+                    "High energy, your love is lifting me",
+                    "Whoa-ooh high energy",
+                    "Your love is lifting me",
+                    "Lifting me high",
+                    "",
+                    "It was only last week that we first met",
+                    "When I was walking down the street",
+                    "You came up from behind me and I knew",
+                    "That our eyes were gonna meet",
+                    "",
+                    "That's when I fell into your arms",
+                    "Imagine my surprise",
+                    "I thought this only happened in fairy tales",
+                    "Love hit me right between the eyes",
+                    "Oh yeah",
+                    "",
+                    "High energy, your love is lifting me",
+                    "Whoa-ooh high energy, yeah",
+                    "Your love is lifting me",
+                    "Lifting me high... high",
+                    "",
+                    "When you call me on the phone you make my spirit rise",
+                    "I'm glad the others didn't last",
+                    "It's a blessing in disguise",
+                    "",
+                    "Every time you're touching me",
+                    "It gives me such a thrill",
+                    "When I look deep into your eyes",
+                    "My heart just can't keep still, oh no",
+                    "",
+                    "High energy, your love is lifting me",
+                    "Whoa-ooh high energy, yeah",
+                    "Your love is lifting me",
+                    "Lifting me high, high",
+                    "",
+                    "All the gold that's in Fort Knox couldn't buy this happiness",
+                    "With your love I don't need money",
+                    "I don't need success",
+                    "",
+                    "I became a victim of a sudden love attack, yeah",
+                    "It happened in a blink of an eye",
+                    "And there's no holding back, oh",
+                    "",
+                    "High energy, yeah, your love is lifting me",
+                    "Whoa, whoa, whoa, whoa-ooh high energy, ooh yeah",
+                    "Your love is lifting me",
+                    "Lifting me high (energy)",
+                    "(Your love is lifting me",
+                    "High energy)"
+                ],
+                "url": "https://cdn.shazam.com/lyrics/v1/en-US/GB/iphone/musixmatch/subtitles/1288018/219/1?token=b20ab45341709c2985f1a29a5ad532c1",
+                "footer": "Writer(s): Ian Levine, Fiachra Trench\nLyrics powered by www.musixmatch.com",
+                "tabname": "Lyrics",
+                "beacondata": {
+                    "lyricsid": "30311938",
+                    "providername": "musixmatch",
+                    "commontrackid": "1288018"
+                }
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/10604064/youtube/video?q=Evelyn+Thomas+%22High+Energy%22"
+            },
+            {
+                "type": "RELATED",
+                "url": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-10604064?startFrom=0&pageSize=20&connected=",
+                "tabname": "Related"
+            }
+        ],
+        "url": "https://www.shazam.com/track/10604064/high-energy",
+        "artists": [
+            {
+                "id": "42",
+                "adamid": "86497253"
+            }
+        ],
+        "isrc": "USA560657910",
+        "genres": {
+            "primary": "Pop"
+        },
+        "urlparams": {
+            "{tracktitle}": "High+Energy",
+            "{trackartist}": "Evelyn+Thomas"
+        },
+        "myshazam": {
+            "apple": {
+                "actions": [
+                    {
+                        "name": "myshazam:apple",
+                        "type": "uri",
+                        "uri": "https://music.apple.com/gb/album/high-energy/256553654?i=256553668&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                ]
+            }
+        },
+        "highlightsurls": {
+            "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/86497253/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+        },
+        "relatedtracksurl": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-10604064?startFrom=0&pageSize=20&connected=",
+        "albumadamid": "256553654"
+    },
+    "tagid": "34554865-3C25-44E2-AAA1-5741CB820650"
+}

@@ -1,0 +1,242 @@
+{
+    "matches": [
+        {
+            "id": "212182227",
+            "offset": 29.893263671,
+            "timeskew": 0.0019298792,
+            "frequencyskew": 0.0020157099
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691632508457,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "99523610",
+        "title": "I Can't Leave You Alone",
+        "subtitle": "George McCrae",
+        "images": {
+            "background": "https://is3-ssl.mzstatic.com/image/thumb/Features125/v4/7f/8f/44/7f8f44bb-d2fd-1e85-d4c4-4ce5e1bead7a/pr_source.png/800x800cc.jpg",
+            "coverart": "https://is2-ssl.mzstatic.com/image/thumb/Music124/v4/1e/bb/dd/1ebbdd25-338b-db7f-df1d-dc3b780655b6/dj.aijxjqxp.jpg/400x400cc.jpg",
+            "coverarthq": "https://is2-ssl.mzstatic.com/image/thumb/Music124/v4/1e/bb/dd/1ebbdd25-338b-db7f-df1d-dc3b780655b6/dj.aijxjqxp.jpg/400x400cc.jpg",
+            "joecolor": "b:311800p:c4e3f2s:a8d3e8t:a6bac1q:90aeba"
+        },
+        "share": {
+            "subject": "I Can't Leave You Alone - George McCrae",
+            "text": "I Can't Leave You Alone by George McCrae",
+            "href": "https://www.shazam.com/track/99523610/i-cant-leave-you-alone",
+            "image": "https://is2-ssl.mzstatic.com/image/thumb/Music124/v4/1e/bb/dd/1ebbdd25-338b-db7f-df1d-dc3b780655b6/dj.aijxjqxp.jpg/400x400cc.jpg",
+            "twitter": "I used @Shazam to discover I Can't Leave You Alone by George McCrae.",
+            "html": "https://www.shazam.com/snippets/email-share/99523610?lang=en-US&country=GB",
+            "avatar": "https://is3-ssl.mzstatic.com/image/thumb/Features125/v4/7f/8f/44/7f8f44bb-d2fd-1e85-d4c4-4ce5e1bead7a/pr_source.png/800x800cc.jpg",
+            "snapchat": "https://www.shazam.com/partner/sc/track/99523610"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "actions": [
+                {
+                    "name": "apple",
+                    "type": "applemusicplay",
+                    "id": "219167018"
+                },
+                {
+                    "name": "apple",
+                    "type": "uri",
+                    "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/e0/c7/8e/e0c78ee6-8397-7111-648b-92a3604668fb/mzaf_60361072269496992.plus.aac.ep.m4a"
+                }
+            ],
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/gb/album/i-cant-leave-you-alone/219166967?i=219167018&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/gb/album/i-cant-leave-you-alone/219166967?i=219167018&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                },
+                {
+                    "caption": "BUY",
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "uri": "https://itunes.apple.com/gb/album/i-cant-leave-you-alone/219166967?i=219167018&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "buy",
+                        "providername": "itunes"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "type": "buy",
+                    "listcaption": "Buy on iTunes",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "itunes"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:I%20Can%27t%20Leave%20You%20Alone%20George%20McCrae"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27I+Can%5C%27t+Leave+You+Alone%27%20artist%3A%27George+McCrae%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": false,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [
+                    {
+                        "image": "https://is3-ssl.mzstatic.com/image/thumb/Features125/v4/7f/8f/44/7f8f44bb-d2fd-1e85-d4c4-4ce5e1bead7a/pr_source.png/800x800cc.jpg",
+                        "caption": "George McCrae"
+                    },
+                    {
+                        "image": "https://is2-ssl.mzstatic.com/image/thumb/Music124/v4/1e/bb/dd/1ebbdd25-338b-db7f-df1d-dc3b780655b6/dj.aijxjqxp.jpg/400x400cc.jpg",
+                        "caption": "I Can't Leave You Alone"
+                    }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                    {
+                        "title": "Album",
+                        "text": "Rock You Baby"
+                    },
+                    {
+                        "title": "Label",
+                        "text": "Collecting Records OMP"
+                    },
+                    {
+                        "title": "Released",
+                        "text": "1974"
+                    }
+                ]
+            },
+            {
+                "type": "LYRICS",
+                "text": [
+                    "Baby, it happens when you're close to me",
+                    "My heart starts beating, hey, a strong beat",
+                    "",
+                    "Oh, I can't leave you alone, can't leave you alone",
+                    "Oh, I can't leave you alone, can't leave you alone",
+                    "That's why I keep holdin' on, keep holdin' on",
+                    "Keep holdin' on, keep holdin' on",
+                    "",
+                    "Oh darling, I can't resist your love, your love",
+                    "'Cause honey, I love you, I love you much, too much",
+                    "",
+                    "Oh, I can't leave you alone, can't leave you alone",
+                    "Oh, I can't leave you alone, can't leave you alone",
+                    "That's why I keep holdin' on, keep holdin' on",
+                    "Keep holdin' on, keep holdin' on",
+                    "",
+                    "Oh, I can't leave you alone, can't leave you alone",
+                    "Oh, I can't leave you alone, can't leave you alone",
+                    "Can't leave you, no, can't leave you alone",
+                    "Can't leave you, no, can't leave you alone",
+                    "Can't leave you, no, can't leave you alone",
+                    "Can't leave you, no, can't leave you alone",
+                    "Can't leave you, no, can't leave you alone"
+                ],
+                "url": "https://cdn.shazam.com/lyrics/v1/en-US/GB/iphone/musixmatch/subtitles/12504257/178/1?token=17a5bb7f928817a841109b15c819ee0b",
+                "footer": "Writer(s): Harry Wayne Casey, Rick Finch\nLyrics powered by www.musixmatch.com",
+                "tabname": "Lyrics",
+                "beacondata": {
+                    "lyricsid": "8494296",
+                    "providername": "musixmatch",
+                    "commontrackid": "12504257"
+                }
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/99523610/youtube/video?q=George+McCrae+%22I+Can't+Leave+You+Alone%22"
+            },
+            {
+                "type": "RELATED",
+                "url": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-99523610?startFrom=0&pageSize=20&connected=",
+                "tabname": "Related"
+            }
+        ],
+        "url": "https://www.shazam.com/track/99523610/i-cant-leave-you-alone",
+        "artists": [
+            {
+                "id": "42",
+                "adamid": "14809587"
+            }
+        ],
+        "isrc": "USA560632523",
+        "genres": {
+            "primary": "Soul"
+        },
+        "urlparams": {
+            "{tracktitle}": "I+Can%27t+Leave+You+Alone",
+            "{trackartist}": "George+McCrae"
+        },
+        "myshazam": {
+            "apple": {
+                "actions": [
+                    {
+                        "name": "myshazam:apple",
+                        "type": "uri",
+                        "uri": "https://music.apple.com/gb/album/i-cant-leave-you-alone/219166967?i=219167018&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                ]
+            }
+        },
+        "highlightsurls": {
+            "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/14809587/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+        },
+        "relatedtracksurl": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-99523610?startFrom=0&pageSize=20&connected=",
+        "albumadamid": "219166967"
+    },
+    "tagid": "3807B8DA-80E6-4426-A88C-01BCB5334F27"
+}

@@ -1,0 +1,246 @@
+{
+    "matches": [
+        {
+            "id": "281048147",
+            "offset": 29.633845703,
+            "timeskew": -0.0048448443,
+            "frequencyskew": -0.004781127
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691632656232,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "79091901",
+        "title": "Preachin' Blues (Up Jumped the Devil)",
+        "subtitle": "Robert Johnson",
+        "images": {
+            "background": "https://is1-ssl.mzstatic.com/image/thumb/Features125/v4/ca/df/91/cadf91c2-0f43-7a03-d6e5-91778c2701ba/pr_source.png/800x800cc.jpg",
+            "coverart": "https://is3-ssl.mzstatic.com/image/thumb/Music/74/b9/1a/mzi.tnsmyghn.jpg/400x400cc.jpg",
+            "coverarthq": "https://is3-ssl.mzstatic.com/image/thumb/Music/74/b9/1a/mzi.tnsmyghn.jpg/400x400cc.jpg",
+            "joecolor": "b:bebeb6p:190400s:3b241at:3a2924q:554239"
+        },
+        "share": {
+            "subject": "Preachin' Blues (Up Jumped the Devil) - Robert Johnson",
+            "text": "Preachin' Blues (Up Jumped the Devil) by Robert Johnson",
+            "href": "https://www.shazam.com/track/79091901/preachin-blues-up-jumped-the-devil",
+            "image": "https://is3-ssl.mzstatic.com/image/thumb/Music/74/b9/1a/mzi.tnsmyghn.jpg/400x400cc.jpg",
+            "twitter": "I used @Shazam to discover Preachin' Blues (Up Jumped the Devil) by Robert Johnson.",
+            "html": "https://www.shazam.com/snippets/email-share/79091901?lang=en-US&country=GB",
+            "avatar": "https://is1-ssl.mzstatic.com/image/thumb/Features125/v4/ca/df/91/cadf91c2-0f43-7a03-d6e5-91778c2701ba/pr_source.png/800x800cc.jpg",
+            "snapchat": "https://www.shazam.com/partner/sc/track/79091901"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "actions": [
+                {
+                    "name": "apple",
+                    "type": "applemusicplay",
+                    "id": "193896568"
+                },
+                {
+                    "name": "apple",
+                    "type": "uri",
+                    "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/63/4a/7d/634a7d39-1ccb-98f6-b66d-359bdd8b154e/mzaf_8662173167882409951.plus.aac.ep.m4a"
+                }
+            ],
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/gb/album/preachin-blues-up-jumped-the-devil/193895743?i=193896568&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/gb/album/preachin-blues-up-jumped-the-devil/193895743?i=193896568&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                },
+                {
+                    "caption": "BUY",
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "uri": "https://itunes.apple.com/gb/album/preachin-blues-up-jumped-the-devil/193895743?i=193896568&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "buy",
+                        "providername": "itunes"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "type": "buy",
+                    "listcaption": "Buy on iTunes",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "itunes"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:Preachin%27%20Blues%20%28Up%20Jumped%20the%20Devil%29%20Robert%20Johnson"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27Preachin%5C%27+Blues+%28Up+Jumped+the+Devil%29%27%20artist%3A%27Robert+Johnson%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": false,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [
+                    {
+                        "image": "https://is1-ssl.mzstatic.com/image/thumb/Features125/v4/ca/df/91/cadf91c2-0f43-7a03-d6e5-91778c2701ba/pr_source.png/800x800cc.jpg",
+                        "caption": "Robert Johnson"
+                    },
+                    {
+                        "image": "https://is3-ssl.mzstatic.com/image/thumb/Music/74/b9/1a/mzi.tnsmyghn.jpg/400x400cc.jpg",
+                        "caption": "Preachin' Blues (Up Jumped the Devil)"
+                    }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                    {
+                        "title": "Album",
+                        "text": "King of the Delta Blues Singers, Vol. 2"
+                    },
+                    {
+                        "title": "Label",
+                        "text": "Columbia/Legacy"
+                    },
+                    {
+                        "title": "Released",
+                        "text": "1939"
+                    }
+                ]
+            },
+            {
+                "type": "LYRICS",
+                "text": [
+                    "Mmmmm mmmmm",
+                    "I's up this mornin', ah, blues walkin' like a man",
+                    "I's up this mornin', ah, blues walkin' like a man",
+                    "Worried blues, give me your right hand",
+                    "",
+                    "And the blues fell mama's child, tore me all upside down",
+                    "Blues fell mama's child, and it tore me all upside down",
+                    "Travel on, poor Bob, just can't turn you 'round",
+                    "",
+                    "The blues, is a low-down shakin' chill",
+                    "(Spoken: Yes, preach 'em now)",
+                    "Mmmmm mmmmm",
+                    "Is a low-down shakin' chill",
+                    "You ain't never had 'em I, hope you never will",
+                    "",
+                    "Well, the blues, is a achin' old heart disease",
+                    "(Spoken: Do it now, you gon' do it? Tell me all about it)",
+                    "The blues, is a low-down achin' heart disease",
+                    "Like consumption, killing me by degrees",
+                    "",
+                    "I can study rain, oh oh drive, oh oh drive my blues",
+                    "I been studyin' the rain and, I'm 'on drive my blues away",
+                    "Goin' to the 'stil'ry1, stay out there all day",
+                    "",
+                    "This is Robert Johnson's version of Preachin' The Blues Parts 1 and 2 that Son",
+                    "House Recorded in 1930.",
+                    "Note 1: alternatively \"steeray\" instead of \" 'stil'ry\" as for distillery"
+                ],
+                "url": "https://cdn.shazam.com/lyrics/v1/en-US/GB/iphone/musixmatch/subtitles/16309644/173/1?token=d05a0ca022658e512d60cfe597e56355",
+                "footer": "Writer(s): Robert Johnson\nLyrics powered by www.musixmatch.com",
+                "tabname": "Lyrics",
+                "beacondata": {
+                    "lyricsid": "7141280",
+                    "providername": "musixmatch",
+                    "commontrackid": "16309644"
+                }
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/79091901/youtube/video?q=Robert+Johnson+%22Preachin'+Blues+(Up+Jumped+the+Devil)%22"
+            },
+            {
+                "type": "RELATED",
+                "url": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-79091901?startFrom=0&pageSize=20&connected=",
+                "tabname": "Related"
+            }
+        ],
+        "url": "https://www.shazam.com/track/79091901/preachin-blues-up-jumped-the-devil",
+        "artists": [
+            {
+                "id": "42",
+                "adamid": "314626"
+            }
+        ],
+        "isrc": "USSM10404761",
+        "genres": {
+            "primary": "Blues"
+        },
+        "urlparams": {
+            "{tracktitle}": "Preachin%27+Blues+%28Up+Jumped+the+Devil%29",
+            "{trackartist}": "Robert+Johnson"
+        },
+        "myshazam": {
+            "apple": {
+                "actions": [
+                    {
+                        "name": "myshazam:apple",
+                        "type": "uri",
+                        "uri": "https://music.apple.com/gb/album/preachin-blues-up-jumped-the-devil/193895743?i=193896568&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                ]
+            }
+        },
+        "highlightsurls": {
+            "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/314626/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+        },
+        "relatedtracksurl": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-79091901?startFrom=0&pageSize=20&connected=",
+        "albumadamid": "193895743"
+    },
+    "tagid": "771E42BF-6FA3-4EB0-9A90-20AE6406D1C2"
+}

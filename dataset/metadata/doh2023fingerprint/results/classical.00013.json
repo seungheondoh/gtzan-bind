@@ -1,0 +1,137 @@
+{
+    "matches": [
+        {
+            "id": "367190712",
+            "offset": 31.014888671,
+            "timeskew": 4.9948692e-05,
+            "frequencyskew": 0.0
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691633069907,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "56762279",
+        "title": "Symphony No. 36 in C Major, K425 'Linz': III. Menuetto",
+        "subtitle": "Gunther Hasselmann",
+        "images": {
+            "background": "https://is4-ssl.mzstatic.com/image/thumb/Music111/v4/9c/9f/ba/9c9fbad4-831f-4bf5-0d94-1ff30cd430f6/8433391364635.jpg/400x400cc.jpg",
+            "coverart": "https://is4-ssl.mzstatic.com/image/thumb/Music111/v4/9c/9f/ba/9c9fbad4-831f-4bf5-0d94-1ff30cd430f6/8433391364635.jpg/400x400cc.jpg",
+            "coverarthq": "https://is4-ssl.mzstatic.com/image/thumb/Music111/v4/9c/9f/ba/9c9fbad4-831f-4bf5-0d94-1ff30cd430f6/8433391364635.jpg/400x400cc.jpg"
+        },
+        "share": {
+            "subject": "Symphony No. 36 in C Major, K425 'Linz': III. Menuetto - Gunther Hasselmann",
+            "text": "Symphony No. 36 in C Major, K425 'Linz': III. Menuetto by Gunther Hasselmann",
+            "href": "https://www.shazam.com/track/56762279/symphony-no-36-in-c-major-k425-linz-iii-menuetto",
+            "image": "https://is4-ssl.mzstatic.com/image/thumb/Music111/v4/9c/9f/ba/9c9fbad4-831f-4bf5-0d94-1ff30cd430f6/8433391364635.jpg/400x400cc.jpg",
+            "twitter": "I used @Shazam to discover Symphony No. 36 in C Major, K425 'Linz': III. Menuetto by Gunther Hasselmann.",
+            "html": "https://www.shazam.com/snippets/email-share/56762279?lang=en-US&country=GB",
+            "snapchat": "https://www.shazam.com/partner/sc/track/56762279"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:subscribe",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/subscribe?mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:subscribe",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/subscribe?mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:Symphony%20No.%2036%20in%20C%20Major%2C%20K425%20%27Linz%27%3A%20III.%20Menuetto%20Gunther%20Hasselmann"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27Symphony+No.+36+in+C+Major%2C+K425+%5C%27Linz%5C%27%3A+III.+Menuetto%27%20artist%3A%27Gunther+Hasselmann%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": false,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [
+                    {
+                        "image": "https://is4-ssl.mzstatic.com/image/thumb/Music111/v4/9c/9f/ba/9c9fbad4-831f-4bf5-0d94-1ff30cd430f6/8433391364635.jpg/400x400cc.jpg",
+                        "caption": "Symphony No. 36 in C Major, K425 'Linz': III. Menuetto"
+                    }
+                ],
+                "tabname": "Song",
+                "metadata": []
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/56762279/youtube/video?q=Gunther+Hasselmann+%22Symphony+No.+36+in+C+Major,+K425+'Linz':+III.+Menuetto%22"
+            }
+        ],
+        "url": "https://www.shazam.com/track/56762279/symphony-no-36-in-c-major-k425-linz-iii-menuetto",
+        "artists": [
+            {
+                "id": "42",
+                "adamid": "943165034"
+            }
+        ],
+        "genres": {
+            "primary": "Classical"
+        },
+        "urlparams": {
+            "{tracktitle}": "Symphony+No.+36+in+C+Major%2C+K425+%27Linz%27%3A+III.+Menuetto",
+            "{trackartist}": "Gunther+Hasselmann"
+        },
+        "highlightsurls": {
+            "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/943165034/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+        }
+    },
+    "tagid": "D88CA1BB-F7C2-41E0-9C47-45436A60AF12"
+}

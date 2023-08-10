@@ -1,0 +1,332 @@
+{
+    "matches": [
+        {
+            "id": "205746438",
+            "offset": 29.523320312,
+            "timeskew": -1.257658e-05,
+            "frequencyskew": -0.00016111135
+        },
+        {
+            "id": "382615734",
+            "offset": 132.8938125,
+            "timeskew": -0.00027495623,
+            "frequencyskew": -0.0003221631
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691632955344,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "5908850",
+        "title": "Gravel Pit (feat. RZA, Method Man, Ghostface Killah, Raekwon & U-God)",
+        "subtitle": "Wu-Tang Clan",
+        "images": {
+            "background": "https://is3-ssl.mzstatic.com/image/thumb/Features115/v4/52/3f/5a/523f5ad6-2ee5-1c26-ba10-87ae5d67b7e4/mza_11236463794140923759.png/800x800cc.jpg",
+            "coverart": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/f1/48/f7/f148f7f4-7a50-69c9-b3b5-125d7b87541c/mzi.eybqcvps.jpg/400x400cc.jpg",
+            "coverarthq": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/f1/48/f7/f148f7f4-7a50-69c9-b3b5-125d7b87541c/mzi.eybqcvps.jpg/400x400cc.jpg",
+            "joecolor": "b:020403p:fffdffs:d0c496t:cccbccq:a79d79"
+        },
+        "share": {
+            "subject": "Gravel Pit (feat. RZA, Method Man, Ghostface Killah, Raekwon & U-God) - Wu-Tang Clan",
+            "text": "Gravel Pit (feat. RZA, Method Man, Ghostface Killah, Raekwon & U-God) by Wu-Tang Clan",
+            "href": "https://www.shazam.com/track/5908850/gravel-pit-feat-rza-method-man-ghostface-killah-raekwon",
+            "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/f1/48/f7/f148f7f4-7a50-69c9-b3b5-125d7b87541c/mzi.eybqcvps.jpg/400x400cc.jpg",
+            "twitter": "I used @Shazam to discover Gravel Pit (feat. RZA, Method Man, Ghostface Killah, Raekwon & U-God) by Wu-Tang Clan.",
+            "html": "https://www.shazam.com/snippets/email-share/5908850?lang=en-US&country=GB",
+            "avatar": "https://is3-ssl.mzstatic.com/image/thumb/Features115/v4/52/3f/5a/523f5ad6-2ee5-1c26-ba10-87ae5d67b7e4/mza_11236463794140923759.png/800x800cc.jpg",
+            "snapchat": "https://www.shazam.com/partner/sc/track/5908850"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "actions": [
+                {
+                    "name": "apple",
+                    "type": "applemusicplay",
+                    "id": "457508096"
+                },
+                {
+                    "name": "apple",
+                    "type": "uri",
+                    "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/69/40/25/694025c4-ebca-e4f2-4858-291824cd4a3b/mzaf_3489623802973941936.plus.aac.ep.m4a"
+                }
+            ],
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/gb/album/gravel-pit-feat-rza-method-man-ghostface-killah-raekwon/457508066?i=457508096&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/gb/album/gravel-pit-feat-rza-method-man-ghostface-killah-raekwon/457508066?i=457508096&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                },
+                {
+                    "caption": "BUY",
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "uri": "https://itunes.apple.com/gb/album/gravel-pit-feat-rza-method-man-ghostface-killah-raekwon/457508066?i=457508096&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "buy",
+                        "providername": "itunes"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "type": "buy",
+                    "listcaption": "Buy on iTunes",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "itunes"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:Gravel%20Pit%20%28feat.%20RZA%2C%20Method%20Man%2C%20Ghostface%20Killah%2C%20Raekwon%20%26%20U-God%29%20Wu-Tang%20Clan"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27Gravel+Pit+%28feat.+RZA%2C+Method+Man%2C+Ghostface+Killah%2C+Raekwon++U-God%29%27%20artist%3A%27Wu-Tang+Clan%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": true,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [
+                    {
+                        "image": "https://is3-ssl.mzstatic.com/image/thumb/Features115/v4/52/3f/5a/523f5ad6-2ee5-1c26-ba10-87ae5d67b7e4/mza_11236463794140923759.png/800x800cc.jpg",
+                        "caption": "Wu-Tang Clan"
+                    },
+                    {
+                        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/f1/48/f7/f148f7f4-7a50-69c9-b3b5-125d7b87541c/mzi.eybqcvps.jpg/400x400cc.jpg",
+                        "caption": "Gravel Pit (feat. RZA, Method Man, Ghostface Killah, Raekwon & U-God)"
+                    }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                    {
+                        "title": "Album",
+                        "text": "The W"
+                    },
+                    {
+                        "title": "Label",
+                        "text": "LOUD Records"
+                    },
+                    {
+                        "title": "Released",
+                        "text": "2000"
+                    }
+                ]
+            },
+            {
+                "type": "LYRICS",
+                "text": [
+                    "One, two, one, two, yo, check this out",
+                    "It's the jump off right now",
+                    "I want everybody to put your work down, put your guns down",
+                    "An' report to the pit, the gravel pit",
+                    "Leave your problems at home, leave your children at home",
+                    "We gon' take it back underground, I be Bobby Boulders",
+                    "Wu-Tang Clan on yo' mind one time",
+                    "It's the jump off, so just jump off my nigga",
+                    "",
+                    "Check out my gravel pit",
+                    "A mystery unravelin'",
+                    "Wu-Tang is the CD that I travel with",
+                    "Don't go against the grain if you can't handle it",
+                    "",
+                    "Ha, holla 'cross from the land of the lost",
+                    "Behold the pale horse, off course",
+                    "Follow me, Wu-Tang gotta be",
+                    "The best thing since stocks in Clark Wallabees",
+                    "African killers bees, black watch",
+                    "On your radio, blowin' out yo' watts",
+                    "From Park Hill, the house on haunted hill",
+                    "Every time you walk by your back get a chill",
+                    "",
+                    "Let's peel, who want to talk rap skills?",
+                    "I spit like a semi-automatic to the grill",
+                    "Elbow grease an' elbow room",
+                    "Baby, play me, baby, fall down, go boom",
+                    "Party people gather 'round",
+                    "Count down to apocalypse",
+                    "I'm the kid with the golden arms",
+                    "An' I'm the motherfuckin' Hot Nicks",
+                    "",
+                    "Pass the blunt, my nigga don't front",
+                    "You had it for a minute but it seem like a month",
+                    "Now I'm chokin', smokin', hopin'",
+                    "I don't croakin' from overdosin'",
+                    "Hey kid (walk straight master, you're high)",
+                    "Wu an' Meth got you open, let's ride",
+                    "",
+                    "Can't stand niggas that floss too much",
+                    "Can't stand Bentleys, they cost too much",
+                    "Kid wanna get up then kid get touched",
+                    "Kid wanna stick up then kid get stuck",
+                    "I'm the one that called your bluff when your boy tried to act tough",
+                    "Remember what Ol' Dirty said, \"I'll fuck yo' ass up\", now listen",
+                    "",
+                    "Check out my gravel pit",
+                    "A mystery unravelin'",
+                    "Wu-Tang is the CD that I travel with",
+                    "Don't go against the grain if you can't handle it",
+                    "",
+                    "E with the English, extin'uish styles extremist",
+                    "Bald head beamers run wild",
+                    "It's the kid with the gold cup, stepped out like, \"What?\"",
+                    "What's poppin? An' y'all niggas dobo",
+                    "Blastin' shae shae, chocolate shortae",
+                    "Rich color mocks, rock those all day",
+                    "1960 shit, I'm Goldie",
+                    "That's right motherfucker, don't hold me",
+                    "The world's greatest, Las Vegas, paid as rock",
+                    "Skin painted on my face look ageless",
+                    "Perfect combos, Ghost bang out condos, Jeff from Hamo",
+                    "Ex three Bangos, Bancos, stank hoes in plain clothes",
+                    "Change those, bang those, same old, same old",
+                    "",
+                    "Yeah y'all, straight up this the jump off right here",
+                    "The gravel pit, word up, represent, rocket boulders",
+                    "All my rich gangsta style, killers, y'all know what time it is",
+                    "Shorty do your thing, get up on that right now, boo, do you?",
+                    "That's what I'm talkin' 'bout",
+                    "",
+                    "Yo, step to my groove, move like this",
+                    "When we shoot the gift, of course it's ruthless",
+                    "Grab the mic with no excuses",
+                    "In a sec, grab the techs an' loot this",
+                    "Executin', shakin' all sets an' I'm breakin' all hex",
+                    "I'm takin' all bets, move all best, who want the dram' next",
+                    "You all stank, we got the bigger bank, bigger shank to fill your tank",
+                    "Still the same kill you for real, while you crank",
+                    "",
+                    "Slide, do or die, fry to bake",
+                    "Admire the greats, on fire with a heart of hate",
+                    "Bitter shark, every part I take",
+                    "Heavy darts that quake",
+                    "It's okay, all fakes, get caught by the dropkicks",
+                    "You know the thrill, yes, it's Park Hill, yo, we hit 'em with the hot grits",
+                    "On the go, check the flow, sayin', \"Wu don't rock shit\"",
+                    "Stop quick, hold the gossip, stop sweatin' my pockets",
+                    "I hear the hot shit",
+                    "",
+                    "Check out my gravel pit",
+                    "A mystery unravelin'",
+                    "Wu-Tang is the CD that I travel with",
+                    "Don't go against the grain if you can't handle it",
+                    "You don't have to move a mountain",
+                    "Just gimme the strength to climb",
+                    "Oh Lord, Don't take away my stumbling blocks to lead me around",
+                    "",
+                    "Back, back an' forth an' forth",
+                    "Back, back an' forth an' forth",
+                    "Back, back an' forth an' forth",
+                    "As we go",
+                    "Back, back an' forth an' forth",
+                    "Back, back an' forth an' forth",
+                    "Back, back an' forth an' forth",
+                    "As we go"
+                ],
+                "url": "https://cdn.shazam.com/lyrics/v1/en-US/GB/iphone/musixmatch/subtitles/10522612/257/1?token=9427e5eca895827b21f5f5561875c327",
+                "footer": "Writer(s): Robert F. Diggs, Lamont Hawkins, Tomi Jenkins, Paulisa Moorman, Clifford Smith, Dennis David Coles, Antoine Dominique Duhamel, Kevin Lloyd Kendrick, Larry Blackmon, Nathan David Leftenant\nLyrics powered by www.musixmatch.com",
+                "tabname": "Lyrics",
+                "beacondata": {
+                    "lyricsid": "25442489",
+                    "providername": "musixmatch",
+                    "commontrackid": "10522612"
+                }
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/5908850/youtube/video?q=Wu-Tang+Clan+%22Gravel+Pit+(feat.+RZA,+Method+Man,+Ghostface+Killah,+Raekwon+%26+U-God)%22"
+            },
+            {
+                "type": "RELATED",
+                "url": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-5908850?startFrom=0&pageSize=20&connected=",
+                "tabname": "Related"
+            }
+        ],
+        "url": "https://www.shazam.com/track/5908850/gravel-pit-feat-rza-method-man-ghostface-killah-raekwon",
+        "artists": [
+            {
+                "id": "42",
+                "adamid": "200986"
+            }
+        ],
+        "isrc": "USLR50000691",
+        "genres": {
+            "primary": "Hip-Hop/Rap"
+        },
+        "urlparams": {
+            "{tracktitle}": "Gravel+Pit+%28feat.+RZA%2C+Method+Man%2C+Ghostface+Killah%2C+Raekwon+%26+U-God%29",
+            "{trackartist}": "Wu-Tang+Clan"
+        },
+        "myshazam": {
+            "apple": {
+                "actions": [
+                    {
+                        "name": "myshazam:apple",
+                        "type": "uri",
+                        "uri": "https://music.apple.com/gb/album/gravel-pit-feat-rza-method-man-ghostface-killah-raekwon/457508066?i=457508096&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                ]
+            }
+        },
+        "highlightsurls": {
+            "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/200986/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios&videoIdToFilter=602342018",
+            "trackhighlighturl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/highlights/602342018?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+        },
+        "relatedtracksurl": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-5908850?startFrom=0&pageSize=20&connected=",
+        "albumadamid": "457508066"
+    },
+    "tagid": "21CB5DD9-82F0-4B7F-A1B7-100CF927B88D"
+}

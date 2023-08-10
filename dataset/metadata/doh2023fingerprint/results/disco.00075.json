@@ -1,0 +1,318 @@
+{
+    "matches": [
+        {
+            "id": "437871533",
+            "offset": 33.335011718000004,
+            "timeskew": 0.00063848495,
+            "frequencyskew": 0.0006042719
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691632427181,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "264284",
+        "title": "Macho Man",
+        "subtitle": "Village People",
+        "images": {
+            "background": "https://is4-ssl.mzstatic.com/image/thumb/Features115/v4/e3/55/43/e3554361-2546-80e9-bf39-8a4831656f7a/mzl.apihkaht.jpg/800x800cc.jpg",
+            "coverart": "https://is1-ssl.mzstatic.com/image/thumb/Music/ab/e5/41/mzi.fxoexcoh.jpg/400x400cc.jpg",
+            "coverarthq": "https://is1-ssl.mzstatic.com/image/thumb/Music/ab/e5/41/mzi.fxoexcoh.jpg/400x400cc.jpg",
+            "joecolor": "b:180b05p:f9f8f2s:d9824et:ccc8c3q:b26a3f"
+        },
+        "share": {
+            "subject": "Macho Man - Village People",
+            "text": "Macho Man by Village People",
+            "href": "https://www.shazam.com/track/264284/macho-man",
+            "image": "https://is1-ssl.mzstatic.com/image/thumb/Music/ab/e5/41/mzi.fxoexcoh.jpg/400x400cc.jpg",
+            "twitter": "I used @Shazam to discover Macho Man by Village People.",
+            "html": "https://www.shazam.com/snippets/email-share/264284?lang=en-US&country=GB",
+            "avatar": "https://is4-ssl.mzstatic.com/image/thumb/Features115/v4/e3/55/43/e3554361-2546-80e9-bf39-8a4831656f7a/mzl.apihkaht.jpg/800x800cc.jpg",
+            "snapchat": "https://www.shazam.com/partner/sc/track/264284"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "actions": [
+                {
+                    "name": "apple",
+                    "type": "applemusicplay",
+                    "id": "392804861"
+                },
+                {
+                    "name": "apple",
+                    "type": "uri",
+                    "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/f7/2e/63/f72e63aa-a847-92a1-c656-6a0d333eaddb/mzaf_7473553651291098782.plus.aac.ep.m4a"
+                }
+            ],
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/gb/album/macho-man/392804793?i=392804861&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/gb/album/macho-man/392804793?i=392804861&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                },
+                {
+                    "caption": "BUY",
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "uri": "https://itunes.apple.com/gb/album/macho-man/392804793?i=392804861&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "buy",
+                        "providername": "itunes"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "type": "buy",
+                    "listcaption": "Buy on iTunes",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "itunes"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:Macho%20Man%20Village%20People"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27Macho+Man%27%20artist%3A%27Village+People%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": false,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [
+                    {
+                        "image": "https://is4-ssl.mzstatic.com/image/thumb/Features115/v4/e3/55/43/e3554361-2546-80e9-bf39-8a4831656f7a/mzl.apihkaht.jpg/800x800cc.jpg",
+                        "caption": "Village People"
+                    },
+                    {
+                        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music/ab/e5/41/mzi.fxoexcoh.jpg/400x400cc.jpg",
+                        "caption": "Macho Man"
+                    }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                    {
+                        "title": "Album",
+                        "text": "San Francisco Macho Man"
+                    },
+                    {
+                        "title": "Label",
+                        "text": "Scorpio Music"
+                    },
+                    {
+                        "title": "Released",
+                        "text": "1978"
+                    }
+                ]
+            },
+            {
+                "type": "LYRICS",
+                "text": [
+                    "Body (body), wanna feel my body (wanna feel my body)",
+                    "Body (baby), such a thrill, my body (such a thrill, my body)",
+                    "Body (yeh yeh), wanna touch my body (wanna touch my body)",
+                    "Body (baby), it's too much, my body (it's too much, my body)",
+                    "Body (yeh yeh), check it out, my body (check it out, my body)",
+                    "Body (baby), don't you doubt, my body (don't you doubt, my body)",
+                    "Body (yeh yeh), talking about my body (talking about my body)",
+                    "Body (well), checking out my body (listen here)",
+                    "",
+                    "Every man wants to be a macho, macho man",
+                    "To have the kind of body always in demand",
+                    "Joggin' in the mornings, go man go",
+                    "Workouts in the health spa, muscles grow",
+                    "",
+                    "You can best believe me, he's a macho man",
+                    "Glad he took you down with anyone you can",
+                    "Hey! Hey! Hey, hey, hey!",
+                    "",
+                    "Macho, macho man (macho man, yeah)",
+                    "I gotta be a macho man (I gotta be a macho man)",
+                    "Macho, macho man (yeah)",
+                    "I gotta be a macho (oowh)",
+                    "",
+                    "Macho, macho man (yeah)",
+                    "I gotta be a macho man",
+                    "Macho, macho man (yeah, yeah)",
+                    "I gotta be a macho",
+                    "",
+                    "Body (body), it's so hot, my body (it's so hot, my body)",
+                    "Body (baby), love to pop my body (love to pop my body)",
+                    "Body (yeh yeh), love to please my body (love to please my body)",
+                    "Body (baby), don't you tease my body (don't you tease my body)",
+                    "Body (yeh), you'll adore my body (you'll adore my body)",
+                    "Body (baby), come explore my body (come explore my body)",
+                    "Body (yeh yeh), made by God, my body (made by God, my body)",
+                    "Body (baby), it's so good, my body (heey)",
+                    "",
+                    "You can tell a macho, he has a funky walk",
+                    "His western shirts and leather, always look so boss",
+                    "Funky with his body, he's a king",
+                    "Call him Mister Ego, dig his chains",
+                    "",
+                    "You can best believe that, he's a macho man",
+                    "He likes to be the leader, he never dresses grand",
+                    "Hey! Hey! Hey, hey, hey!",
+                    "",
+                    "Macho, macho man (macho man, yeah)",
+                    "I've got to be, a macho man (I've got to be)",
+                    "Macho, macho man (yeah)",
+                    "I've got to be a macho! (Alright)",
+                    "",
+                    "Macho, macho man (yeah, yeah)",
+                    "I've got to be, a macho man",
+                    "Macho, macho man",
+                    "I've got to be a macho! (Alright!)",
+                    "",
+                    "(Ugh! Macho, baby!)",
+                    "Body (body), body (oh yeah)",
+                    "Body, wanna feel my body (body, wanna feel my body)",
+                    "Body (baby), body (alright)",
+                    "Body, come and thrill my body (body, come and thrill my body)",
+                    "Body (baby), body (alright)",
+                    "Body, love to funk, my body (body, love to funk, my body)",
+                    "Body (baby), body (uh)",
+                    "Body, it's so hot, my body (body, it's so hot)",
+                    "",
+                    "(Body, ow, ugh)",
+                    "(It's so hot, baby)",
+                    "(My body, ugh)",
+                    "(Alright)",
+                    "",
+                    "Every man ought to be a macho, macho man",
+                    "To live a life of freedom, machos make a stand",
+                    "Have your own lifestyles and ideals",
+                    "Possess the strength of confidence, that's the skill",
+                    "",
+                    "You can best believe that he's a macho man",
+                    "He's the special god son in anybody's land",
+                    "Hey! Hey! Hey, hey, hey!",
+                    "",
+                    "Macho, macho man (macho man, yeah)",
+                    "I gotta be a macho man (I gotta be a)",
+                    "Macho, macho man (mucho, mucho, macho man)",
+                    "I've got to be a macho! (Dig the hair on my chest)",
+                    "",
+                    "Macho, macho man (see my big thick mustache)",
+                    "I gotta be a macho man (all right, I gotta be a)",
+                    "Macho, macho man (mucho, mucho, macho man)",
+                    "I've got to be a macho! (Dig broad shoulders, yeah)",
+                    "",
+                    "Macho, macho man (dig my muscles!)",
+                    "I gotta be a macho man (talking about)",
+                    "Macho, macho man (mucho, mucho, macho man)",
+                    "I gotta be a macho (hey)",
+                    "",
+                    "(Macho, macho man)",
+                    "I gotta be a macho man",
+                    "(I gotta be a mucho mucho, macho macho man)",
+                    "(Alright, I said I'm a man, yeah!)"
+                ],
+                "url": "https://cdn.shazam.com/lyrics/v1/en-US/GB/iphone/musixmatch/subtitles/126321/314/1?token=7686e2c04266b971a72b63f73101611e",
+                "footer": "Writer(s): Henri Belolo, Jacques Morali, Beauris Whitehead, Victor Willis\nLyrics powered by www.musixmatch.com",
+                "tabname": "Lyrics",
+                "beacondata": {
+                    "lyricsid": "30264788",
+                    "providername": "musixmatch",
+                    "commontrackid": "126321"
+                }
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/264284/youtube/video?q=Village+People+%22Macho+Man%22"
+            },
+            {
+                "type": "RELATED",
+                "url": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-264284?startFrom=0&pageSize=20&connected=",
+                "tabname": "Related"
+            }
+        ],
+        "url": "https://www.shazam.com/track/264284/macho-man",
+        "artists": [
+            {
+                "id": "42",
+                "adamid": "51097"
+            }
+        ],
+        "isrc": "FR6V80878887",
+        "genres": {
+            "primary": "Pop"
+        },
+        "urlparams": {
+            "{tracktitle}": "Macho+Man",
+            "{trackartist}": "Village+People"
+        },
+        "myshazam": {
+            "apple": {
+                "actions": [
+                    {
+                        "name": "myshazam:apple",
+                        "type": "uri",
+                        "uri": "https://music.apple.com/gb/album/macho-man/392804793?i=392804861&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                ]
+            }
+        },
+        "highlightsurls": {
+            "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/51097/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+        },
+        "relatedtracksurl": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-264284?startFrom=0&pageSize=20&connected=",
+        "albumadamid": "392804793"
+    },
+    "tagid": "642CAEE8-3F3F-4AB2-BD6E-0ADA665A57B7"
+}

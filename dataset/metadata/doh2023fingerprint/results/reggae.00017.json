@@ -1,0 +1,263 @@
+{
+    "matches": [
+        {
+            "id": "447006643",
+            "offset": 29.474025389999998,
+            "timeskew": -0.00010716915,
+            "frequencyskew": -0.00020134449
+        },
+        {
+            "id": "247089571",
+            "offset": 29.487773437,
+            "timeskew": 0.002811432,
+            "frequencyskew": 0.0026211739
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691633244548,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "5221036",
+        "title": "Crazy Baldhead",
+        "subtitle": "Bob Marley & The Wailers",
+        "images": {
+            "background": "https://is5-ssl.mzstatic.com/image/thumb/Features125/v4/0e/10/96/0e10963d-8c5d-f176-3651-796ec44d0c97/mzl.kdlmyecx.jpg/800x800cc.jpg",
+            "coverart": "https://is4-ssl.mzstatic.com/image/thumb/Music128/v4/28/66/2a/28662aae-b9ce-2957-784b-5dea18fdbe89/00602537663125.rgb.jpg/400x400cc.jpg",
+            "coverarthq": "https://is4-ssl.mzstatic.com/image/thumb/Music128/v4/28/66/2a/28662aae-b9ce-2957-784b-5dea18fdbe89/00602537663125.rgb.jpg/400x400cc.jpg",
+            "joecolor": "b:d39f77p:000301s:281717t:2a2218q:4a322a"
+        },
+        "share": {
+            "subject": "Crazy Baldhead - Bob Marley & The Wailers",
+            "text": "Crazy Baldhead by Bob Marley & The Wailers",
+            "href": "https://www.shazam.com/track/5221036/crazy-baldhead",
+            "image": "https://is4-ssl.mzstatic.com/image/thumb/Music128/v4/28/66/2a/28662aae-b9ce-2957-784b-5dea18fdbe89/00602537663125.rgb.jpg/400x400cc.jpg",
+            "twitter": "I used @Shazam to discover Crazy Baldhead by Bob Marley & The Wailers.",
+            "html": "https://www.shazam.com/snippets/email-share/5221036?lang=en-US&country=GB",
+            "avatar": "https://is5-ssl.mzstatic.com/image/thumb/Features125/v4/0e/10/96/0e10963d-8c5d-f176-3651-796ec44d0c97/mzl.kdlmyecx.jpg/800x800cc.jpg",
+            "snapchat": "https://www.shazam.com/partner/sc/track/5221036"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "actions": [
+                {
+                    "name": "apple",
+                    "type": "applemusicplay",
+                    "id": "1440859218"
+                },
+                {
+                    "name": "apple",
+                    "type": "uri",
+                    "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/df/64/5c/df645c4a-a3d2-5899-cca7-3900fde59d80/mzaf_4865991108252924915.plus.aac.ep.m4a"
+                }
+            ],
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/gb/album/crazy-baldhead/1440858988?i=1440859218&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/gb/album/crazy-baldhead/1440858988?i=1440859218&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                },
+                {
+                    "caption": "BUY",
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "uri": "https://itunes.apple.com/gb/album/crazy-baldhead/1440858988?i=1440859218&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "buy",
+                        "providername": "itunes"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "type": "buy",
+                    "listcaption": "Buy on iTunes",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "itunes"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:Crazy%20Baldhead%20Bob%20Marley%20%26%20The%20Wailers"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27Crazy+Baldhead%27%20artist%3A%27Bob+Marley++The+Wailers%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": false,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [
+                    {
+                        "image": "https://is5-ssl.mzstatic.com/image/thumb/Features125/v4/0e/10/96/0e10963d-8c5d-f176-3651-796ec44d0c97/mzl.kdlmyecx.jpg/800x800cc.jpg",
+                        "caption": "Bob Marley & The Wailers"
+                    },
+                    {
+                        "image": "https://is4-ssl.mzstatic.com/image/thumb/Music128/v4/28/66/2a/28662aae-b9ce-2957-784b-5dea18fdbe89/00602537663125.rgb.jpg/400x400cc.jpg",
+                        "caption": "Crazy Baldhead"
+                    }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                    {
+                        "title": "Album",
+                        "text": "Rastaman Vibration (2013 Remaster)"
+                    },
+                    {
+                        "title": "Label",
+                        "text": "Island Records"
+                    },
+                    {
+                        "title": "Released",
+                        "text": "1976"
+                    }
+                ]
+            },
+            {
+                "type": "LYRICS",
+                "text": [
+                    "Them crazy, them crazy",
+                    "We gonna chase those crazy baldheads out of town",
+                    "Chase those crazy baldheads out of our town",
+                    "",
+                    "I and I build the cabin",
+                    "I and I plant the corn",
+                    "Didn't my people before me slave for this country?",
+                    "Now you look me with a scorn",
+                    "Then you eat up all my corn",
+                    "",
+                    "We gonna chase those crazy",
+                    "Chase them crazy",
+                    "Chase those crazy baldheads out of town",
+                    "",
+                    "Built your penitentiary",
+                    "We build your schools",
+                    "Brainwash education to make us the fools",
+                    "Hatred's your reward for our love",
+                    "Tellin' us of your God above",
+                    "",
+                    "We gonna chase those crazy",
+                    "Chase those crazy bump heads",
+                    "Chase those crazy baldheads out of the yard (town)",
+                    "",
+                    "Chase those crazy baldheads out of town",
+                    "",
+                    "We gonna chase those crazy",
+                    "Chase them crazy bumpheads",
+                    "Chase those crazy baldheads out of the yard",
+                    "",
+                    "Here comes the conman",
+                    "Comin' with his con plan",
+                    "We won't take no bribe",
+                    "We've got to stay alive",
+                    "",
+                    "We gonna chase those crazy",
+                    "Chase those crazy baldheads",
+                    "Chase those crazy baldheads out of town"
+                ],
+                "url": "https://cdn.shazam.com/lyrics/v1/en-US/GB/iphone/musixmatch/subtitles/7531648/201/1?token=0a9e604ea7fec593ee7db883bca2716a",
+                "footer": "Writer(s): Vincent Ford, Rita Marley\nLyrics powered by www.musixmatch.com",
+                "tabname": "Lyrics",
+                "beacondata": {
+                    "lyricsid": "30561658",
+                    "providername": "musixmatch",
+                    "commontrackid": "7531648"
+                }
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/5221036/youtube/video?q=Bob+Marley+%26+The+Wailers+%22Crazy+Baldhead%22"
+            },
+            {
+                "type": "RELATED",
+                "url": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-5221036?startFrom=0&pageSize=20&connected=",
+                "tabname": "Related"
+            }
+        ],
+        "url": "https://www.shazam.com/track/5221036/crazy-baldhead",
+        "artists": [
+            {
+                "id": "42",
+                "adamid": "3174628"
+            }
+        ],
+        "isrc": "USIR27600006",
+        "genres": {
+            "primary": "Reggae"
+        },
+        "urlparams": {
+            "{tracktitle}": "Crazy+Baldhead",
+            "{trackartist}": "Bob+Marley+%26+The+Wailers"
+        },
+        "myshazam": {
+            "apple": {
+                "actions": [
+                    {
+                        "name": "myshazam:apple",
+                        "type": "uri",
+                        "uri": "https://music.apple.com/gb/album/crazy-baldhead/1440858988?i=1440859218&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                ]
+            }
+        },
+        "highlightsurls": {
+            "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/3174628/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+        },
+        "relatedtracksurl": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-5221036?startFrom=0&pageSize=20&connected=",
+        "albumadamid": "1440858988"
+    },
+    "tagid": "93E53C57-4B6D-453E-AD26-E5E3BA4B6874"
+}

@@ -1,0 +1,244 @@
+{
+    "matches": [
+        {
+            "id": "304892659",
+            "offset": 30.377123046,
+            "timeskew": 0.011794686,
+            "frequencyskew": 0.012271881
+        },
+        {
+            "id": "278844176",
+            "offset": 29.956564453,
+            "timeskew": -0.004684329,
+            "frequencyskew": -0.0053821206
+        },
+        {
+            "id": "249725603",
+            "offset": 29.745951171,
+            "timeskew": -0.010240316,
+            "frequencyskew": -0.011577308
+        },
+        {
+            "id": "346112137",
+            "offset": 30.871841796000002,
+            "timeskew": 0.011974573,
+            "frequencyskew": 0.010037899
+        },
+        {
+            "id": "408124901",
+            "offset": 30.60425,
+            "timeskew": 0.0010573864,
+            "frequencyskew": -0.00053685904
+        },
+        {
+            "id": "202187262",
+            "offset": 30.027107421,
+            "timeskew": 0.00010919571,
+            "frequencyskew": -0.000120818615
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691632229132,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "10465732",
+        "title": "Sugar Foot Stomp",
+        "subtitle": "Fletcher Henderson",
+        "images": {
+            "background": "https://is3-ssl.mzstatic.com/image/thumb/Features115/v4/91/71/34/917134ea-a94f-832f-9aad-4d70e0e52321/pr_source.png/800x800cc.jpg",
+            "coverart": "https://is2-ssl.mzstatic.com/image/thumb/Music116/v4/71/71/d4/7171d47d-4129-b5a4-8dd5-d77cb1f1a43d/197188097035.jpg/400x400cc.jpg",
+            "coverarthq": "https://is2-ssl.mzstatic.com/image/thumb/Music116/v4/71/71/d4/7171d47d-4129-b5a4-8dd5-d77cb1f1a43d/197188097035.jpg/400x400cc.jpg",
+            "joecolor": "b:f3f7fap:0e0c08s:12100ct:3c3b38q:3f3e3b"
+        },
+        "share": {
+            "subject": "Sugar Foot Stomp - Fletcher Henderson",
+            "text": "Sugar Foot Stomp by Fletcher Henderson",
+            "href": "https://www.shazam.com/track/10465732/sugar-foot-stomp",
+            "image": "https://is2-ssl.mzstatic.com/image/thumb/Music116/v4/71/71/d4/7171d47d-4129-b5a4-8dd5-d77cb1f1a43d/197188097035.jpg/400x400cc.jpg",
+            "twitter": "I used @Shazam to discover Sugar Foot Stomp by Fletcher Henderson.",
+            "html": "https://www.shazam.com/snippets/email-share/10465732?lang=en-US&country=GB",
+            "avatar": "https://is3-ssl.mzstatic.com/image/thumb/Features115/v4/91/71/34/917134ea-a94f-832f-9aad-4d70e0e52321/pr_source.png/800x800cc.jpg",
+            "snapchat": "https://www.shazam.com/partner/sc/track/10465732"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "actions": [
+                {
+                    "name": "apple",
+                    "type": "applemusicplay",
+                    "id": "1674034138"
+                },
+                {
+                    "name": "apple",
+                    "type": "uri",
+                    "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/bf/a2/53/bfa253c3-350e-5de7-e5cd-61d0631ef180/mzaf_17174126518915383082.plus.aac.ep.m4a"
+                }
+            ],
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/gb/album/sugar-foot-stomp/1674033882?i=1674034138&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/gb/album/sugar-foot-stomp/1674033882?i=1674034138&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                },
+                {
+                    "caption": "BUY",
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "uri": "https://itunes.apple.com/gb/album/sugar-foot-stomp/1674033882?i=1674034138&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "buy",
+                        "providername": "itunes"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "type": "buy",
+                    "listcaption": "Buy on iTunes",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "itunes"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:Sugar%20Foot%20Stomp%20Fletcher%20Henderson"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27Sugar+Foot+Stomp%27%20artist%3A%27Fletcher+Henderson%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": false,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [
+                    {
+                        "image": "https://is3-ssl.mzstatic.com/image/thumb/Features115/v4/91/71/34/917134ea-a94f-832f-9aad-4d70e0e52321/pr_source.png/800x800cc.jpg",
+                        "caption": "Fletcher Henderson"
+                    },
+                    {
+                        "image": "https://is2-ssl.mzstatic.com/image/thumb/Music116/v4/71/71/d4/7171d47d-4129-b5a4-8dd5-d77cb1f1a43d/197188097035.jpg/400x400cc.jpg",
+                        "caption": "Sugar Foot Stomp"
+                    }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                    {
+                        "title": "Album",
+                        "text": "Yeah Man!"
+                    },
+                    {
+                        "title": "Label",
+                        "text": "Hep Records"
+                    },
+                    {
+                        "title": "Released",
+                        "text": "1994"
+                    }
+                ]
+            },
+            {
+                "type": "LYRICS",
+                "text": [
+                    "Oh, play that thing"
+                ],
+                "url": "https://cdn.shazam.com/lyrics/v1/en-US/GB/iphone/musixmatch/subtitles/81498826/188/1?token=a9dbef086a3c3273a9defb78218a0011",
+                "footer": "Writer(s): Joseph Oliver, Louis Armstrong, Walter Melrose\nLyrics powered by www.musixmatch.com",
+                "tabname": "Lyrics",
+                "beacondata": {
+                    "lyricsid": "19755998",
+                    "providername": "musixmatch",
+                    "commontrackid": "81498826"
+                }
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/10465732/youtube/video?q=Fletcher+Henderson+%22Sugar+Foot+Stomp%22"
+            }
+        ],
+        "url": "https://www.shazam.com/track/10465732/sugar-foot-stomp",
+        "artists": [
+            {
+                "id": "42",
+                "adamid": "337985"
+            }
+        ],
+        "isrc": "QM4TW2374812",
+        "genres": {
+            "primary": "Big Band"
+        },
+        "urlparams": {
+            "{tracktitle}": "Sugar+Foot+Stomp",
+            "{trackartist}": "Fletcher+Henderson"
+        },
+        "myshazam": {
+            "apple": {
+                "actions": [
+                    {
+                        "name": "myshazam:apple",
+                        "type": "uri",
+                        "uri": "https://music.apple.com/gb/album/sugar-foot-stomp/1674033882?i=1674034138&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                ]
+            }
+        },
+        "highlightsurls": {
+            "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/337985/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+        },
+        "albumadamid": "1674033882"
+    },
+    "tagid": "CD05C7D9-DE8A-4588-B2E4-3269FF483F0D"
+}

@@ -1,0 +1,306 @@
+{
+    "matches": [
+        {
+            "id": "210478665",
+            "offset": 29.970830078,
+            "timeskew": -8.034706e-05,
+            "frequencyskew": -0.00036239624
+        },
+        {
+            "id": "288988172",
+            "offset": 29.969189453,
+            "timeskew": -0.00019693375,
+            "frequencyskew": -0.00036239624
+        },
+        {
+            "id": "211511497",
+            "offset": 29.824982421,
+            "timeskew": -0.0015501976,
+            "frequencyskew": -0.0021724105
+        },
+        {
+            "id": "355961350",
+            "offset": 62.275046875,
+            "timeskew": 0.000108003616,
+            "frequencyskew": -8.0525875e-05
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691633641645,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "11088174",
+        "title": "Burning Heart",
+        "subtitle": "Survivor",
+        "images": {
+            "background": "https://is2-ssl.mzstatic.com/image/thumb/Features115/v4/98/67/bc/9867bcf7-4ef7-9da2-f7d3-ebc3445a8c27/mzl.iiahiccf.jpg/800x800cc.jpg",
+            "coverart": "https://is1-ssl.mzstatic.com/image/thumb/Features/85/2d/e8/dj.rwozvgyn.jpg/400x400cc.jpg",
+            "coverarthq": "https://is1-ssl.mzstatic.com/image/thumb/Features/85/2d/e8/dj.rwozvgyn.jpg/400x400cc.jpg",
+            "joecolor": "b:241a10p:dac4a3s:df8c5dt:b5a286q:b9754d"
+        },
+        "share": {
+            "subject": "Burning Heart - Survivor",
+            "text": "Burning Heart by Survivor",
+            "href": "https://www.shazam.com/track/11088174/burning-heart",
+            "image": "https://is1-ssl.mzstatic.com/image/thumb/Features/85/2d/e8/dj.rwozvgyn.jpg/400x400cc.jpg",
+            "twitter": "I used @Shazam to discover Burning Heart by Survivor.",
+            "html": "https://www.shazam.com/snippets/email-share/11088174?lang=en-US&country=GB",
+            "avatar": "https://is2-ssl.mzstatic.com/image/thumb/Features115/v4/98/67/bc/9867bcf7-4ef7-9da2-f7d3-ebc3445a8c27/mzl.iiahiccf.jpg/800x800cc.jpg",
+            "snapchat": "https://www.shazam.com/partner/sc/track/11088174"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "actions": [
+                {
+                    "name": "apple",
+                    "type": "applemusicplay",
+                    "id": "251170348"
+                },
+                {
+                    "name": "apple",
+                    "type": "uri",
+                    "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/f6/de/39/f6de39ba-3ef4-08e4-a3a0-ef356668b24e/mzaf_6178507872708443760.plus.aac.ep.m4a"
+                }
+            ],
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/gb/album/burning-heart/251170285?i=251170348&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/gb/album/burning-heart/251170285?i=251170348&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                },
+                {
+                    "caption": "BUY",
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "uri": "https://itunes.apple.com/gb/album/burning-heart/251170285?i=251170348&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "buy",
+                        "providername": "itunes"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "type": "buy",
+                    "listcaption": "Buy on iTunes",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "itunes"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:Burning%20Heart%20Survivor"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27Burning+Heart%27%20artist%3A%27Survivor%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": false,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [
+                    {
+                        "image": "https://is2-ssl.mzstatic.com/image/thumb/Features115/v4/98/67/bc/9867bcf7-4ef7-9da2-f7d3-ebc3445a8c27/mzl.iiahiccf.jpg/800x800cc.jpg",
+                        "caption": "Survivor"
+                    },
+                    {
+                        "image": "https://is1-ssl.mzstatic.com/image/thumb/Features/85/2d/e8/dj.rwozvgyn.jpg/400x400cc.jpg",
+                        "caption": "Burning Heart"
+                    }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                    {
+                        "title": "Album",
+                        "text": "The Best of Survivor"
+                    },
+                    {
+                        "title": "Label",
+                        "text": "Volcano/Legacy"
+                    },
+                    {
+                        "title": "Released",
+                        "text": "1980"
+                    }
+                ]
+            },
+            {
+                "type": "LYRICS",
+                "text": [
+                    "Two worlds collide",
+                    "Rival nations",
+                    "It's a primitive clash",
+                    "Venting years of frustration",
+                    "Bravely we hope",
+                    "Against all hope",
+                    "There is so much at stake",
+                    "Seems our freedom's up",
+                    "Against the ropes",
+                    "Does the crowd understand?",
+                    "Is it East versus West",
+                    "Or man against man?",
+                    "Can any nation stand alone?",
+                    "",
+                    "In the burning Heart",
+                    "Just about to burst",
+                    "There's a quest for answers",
+                    "An unquenchable thirst",
+                    "In the darkest night",
+                    "Rising like a spire",
+                    "In the burning heart",
+                    "The unmistakable fire",
+                    "",
+                    "In the burning heart",
+                    "",
+                    "In the warrious code",
+                    "There's no surrender",
+                    "Though his body says stop",
+                    "His spirit cries, never!",
+                    "Deep in our soul",
+                    "A quiet ember",
+                    "Know it's you against you",
+                    "",
+                    "It's the paradox",
+                    "That drives us all",
+                    "It's a battle of wills",
+                    "In the heat of attack",
+                    "It's the passion that kills",
+                    "The victory is yours alone",
+                    "",
+                    "In the burning heart",
+                    "Just about to burst",
+                    "There's a quest for answers",
+                    "An unquenchable thirst",
+                    "In the darkest night",
+                    "Rising like a spire",
+                    "In the burning heart",
+                    "The unmistakable fire",
+                    "",
+                    "In the burning heart",
+                    "Just about to burst",
+                    "There's a quest for answers",
+                    "An unquenchable thirst",
+                    "In the darkest night",
+                    "Rising like a spire",
+                    "In the burning heart",
+                    "The unmistakable fire",
+                    "",
+                    "In the burning heart",
+                    "Just about to burst",
+                    "There's a quest for answers",
+                    "An unquenchable thirst",
+                    "In the darkest night",
+                    "Rising like a spire",
+                    "In the burning heart",
+                    "The unmistakable fire",
+                    "",
+                    "In the burning heart"
+                ],
+                "url": "https://cdn.shazam.com/lyrics/v1/en-US/GB/iphone/musixmatch/subtitles/93309/230/1?token=c8edc0f3e7da5e88b21eea8d7b34ef82",
+                "footer": "Writer(s): James M Peterik, Frank Sullivan\nLyrics powered by www.musixmatch.com",
+                "tabname": "Lyrics",
+                "beacondata": {
+                    "lyricsid": "19893249",
+                    "providername": "musixmatch",
+                    "commontrackid": "93309"
+                }
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/11088174/youtube/video?q=Survivor+%22Burning+Heart%22"
+            },
+            {
+                "type": "RELATED",
+                "url": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-11088174?startFrom=0&pageSize=20&connected=",
+                "tabname": "Related"
+            }
+        ],
+        "url": "https://www.shazam.com/track/11088174/burning-heart",
+        "artists": [
+            {
+                "id": "42",
+                "adamid": "3713599"
+            }
+        ],
+        "isrc": "USVR19300003",
+        "genres": {
+            "primary": "Rock"
+        },
+        "urlparams": {
+            "{tracktitle}": "Burning+Heart",
+            "{trackartist}": "Survivor"
+        },
+        "myshazam": {
+            "apple": {
+                "actions": [
+                    {
+                        "name": "myshazam:apple",
+                        "type": "uri",
+                        "uri": "https://music.apple.com/gb/album/burning-heart/251170285?i=251170348&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                ]
+            }
+        },
+        "highlightsurls": {
+            "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/3713599/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios&videoIdToFilter=1535283994",
+            "trackhighlighturl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/highlights/1535283994?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+        },
+        "relatedtracksurl": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-11088174?startFrom=0&pageSize=20&connected=",
+        "albumadamid": "251170285"
+    },
+    "tagid": "E6B56164-99EF-4CA3-99F7-686490AC69FC"
+}

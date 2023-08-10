@@ -1,0 +1,341 @@
+{
+    "matches": [
+        {
+            "id": "480891466",
+            "offset": 29.911367187,
+            "timeskew": 5.340576e-05,
+            "frequencyskew": -4.029274e-05
+        },
+        {
+            "id": "279510895",
+            "offset": 29.4231875,
+            "timeskew": -0.01791948,
+            "frequencyskew": -0.018118143
+        },
+        {
+            "id": "20149214",
+            "offset": 29.638699218000003,
+            "timeskew": 0.0002452135,
+            "frequencyskew": 0.00036251545
+        },
+        {
+            "id": "235016447",
+            "offset": 29.155148437,
+            "timeskew": -0.017736852,
+            "frequencyskew": -0.017920375
+        },
+        {
+            "id": "480795847",
+            "offset": 28.898748046,
+            "timeskew": -0.025664747,
+            "frequencyskew": -0.025759816
+        },
+        {
+            "id": "538757001",
+            "offset": 110.158164062,
+            "timeskew": -0.010555744,
+            "frequencyskew": -0.016970694
+        },
+        {
+            "id": "491746781",
+            "offset": 16.745367187,
+            "timeskew": 0.0029432774,
+            "frequencyskew": 0.00096702576
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691633575641,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "20118027",
+        "title": "Sympathy For The Devil",
+        "subtitle": "The Rolling Stones",
+        "images": {
+            "background": "https://is3-ssl.mzstatic.com/image/thumb/Features125/v4/50/6a/dd/506addd0-1a1c-ebbf-7ec3-7ebbd2785035/mza_827834569591675074.png/800x800cc.jpg",
+            "coverart": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/fb/45/90/fb4590ab-394c-7a90-fae2-07a1a745d0eb/23UMGIM65461.rgb.jpg/400x400cc.jpg",
+            "coverarthq": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/fb/45/90/fb4590ab-394c-7a90-fae2-07a1a745d0eb/23UMGIM65461.rgb.jpg/400x400cc.jpg",
+            "joecolor": "b:ffffffp:410a12s:5e080bt:673b41q:7e393c"
+        },
+        "share": {
+            "subject": "Sympathy For The Devil - The Rolling Stones",
+            "text": "Sympathy For The Devil by The Rolling Stones",
+            "href": "https://www.shazam.com/track/20118027/sympathy-for-the-devil",
+            "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/fb/45/90/fb4590ab-394c-7a90-fae2-07a1a745d0eb/23UMGIM65461.rgb.jpg/400x400cc.jpg",
+            "twitter": "I used @Shazam to discover Sympathy For The Devil by The Rolling Stones.",
+            "html": "https://www.shazam.com/snippets/email-share/20118027?lang=en-US&country=GB",
+            "avatar": "https://is3-ssl.mzstatic.com/image/thumb/Features125/v4/50/6a/dd/506addd0-1a1c-ebbf-7ec3-7ebbd2785035/mza_827834569591675074.png/800x800cc.jpg",
+            "snapchat": "https://www.shazam.com/partner/sc/track/20118027"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "actions": [
+                {
+                    "name": "apple",
+                    "type": "applemusicplay",
+                    "id": "1698451798"
+                },
+                {
+                    "name": "apple",
+                    "type": "uri",
+                    "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/89/8d/9c/898d9c8d-4666-389e-8a5f-03f26577c1f3/mzaf_10913737722548133238.plus.aac.ep.m4a"
+                }
+            ],
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/gb/album/sympathy-for-the-devil/1698451527?i=1698451798&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/gb/album/sympathy-for-the-devil/1698451527?i=1698451798&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                },
+                {
+                    "caption": "BUY",
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "uri": "https://itunes.apple.com/gb/album/sympathy-for-the-devil/1698451527?i=1698451798&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "buy",
+                        "providername": "itunes"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "type": "buy",
+                    "listcaption": "Buy on iTunes",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "itunes"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:Sympathy%20For%20The%20Devil%20The%20Rolling%20Stones"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27Sympathy+For+The+Devil%27%20artist%3A%27The+Rolling+Stones%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": false,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [
+                    {
+                        "image": "https://is3-ssl.mzstatic.com/image/thumb/Features125/v4/50/6a/dd/506addd0-1a1c-ebbf-7ec3-7ebbd2785035/mza_827834569591675074.png/800x800cc.jpg",
+                        "caption": "The Rolling Stones"
+                    },
+                    {
+                        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/fb/45/90/fb4590ab-394c-7a90-fae2-07a1a745d0eb/23UMGIM65461.rgb.jpg/400x400cc.jpg",
+                        "caption": "Sympathy For The Devil"
+                    }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                    {
+                        "title": "Album",
+                        "text": "Forty Licks"
+                    },
+                    {
+                        "title": "Label",
+                        "text": "Polydor Records"
+                    },
+                    {
+                        "title": "Released",
+                        "text": "1968"
+                    }
+                ]
+            },
+            {
+                "type": "LYRICS",
+                "text": [
+                    "Please allow me to introduce myself",
+                    "I'm a man of wealth and taste",
+                    "I've been around for a long, long years",
+                    "Stole million man's soul an faith",
+                    "",
+                    "And I was 'round when Jesus Christ",
+                    "Had his moment of doubt and pain",
+                    "Made damn sure that Pilate",
+                    "Washed his hands and sealed his fate",
+                    "",
+                    "Pleased to meet you",
+                    "Hope you guess my name",
+                    "But what's puzzling you",
+                    "Is the nature of my game",
+                    "",
+                    "Stuck around St. Petersburg",
+                    "When I saw it was a time for a change",
+                    "Killed Tsar and his ministers",
+                    "Anastasia screamed in vain",
+                    "",
+                    "I rode a tank",
+                    "Held a general's rank",
+                    "When the blitzkrieg raged",
+                    "And the bodies stank",
+                    "",
+                    "Pleased to meet you",
+                    "Hope you guess my name, oh yeah",
+                    "Ah, what's puzzling you",
+                    "Is the nature of my game, oh yeah",
+                    "",
+                    "I watched with glee",
+                    "While your kings and queens",
+                    "Fought for ten decades",
+                    "For the gods they made",
+                    "",
+                    "I shouted out",
+                    "Who killed the Kennedys?",
+                    "When after all",
+                    "It was you and me",
+                    "",
+                    "Let me please introduce myself",
+                    "I'm a man of wealth and taste",
+                    "And I laid traps for troubadours",
+                    "Who get killed before they reached Bombay",
+                    "",
+                    "Pleased to meet you",
+                    "Hope you guessed my name, oh yeah",
+                    "But what's puzzling you",
+                    "Is the nature of my game, oh yeah, get down, baby",
+                    "",
+                    "Pleased to meet you",
+                    "Hope you guessed my name, oh yeah",
+                    "But what's confusing you",
+                    "Is just the nature of my game",
+                    "",
+                    "Just as every cop is a criminal",
+                    "And all the sinners saints",
+                    "As heads is tails",
+                    "Just call me Lucifer",
+                    "'Cause I'm in need of some restraint",
+                    "",
+                    "So if you meet me",
+                    "Have some courtesy",
+                    "Have some sympathy, and some taste",
+                    "Use all your well-learned politnesse",
+                    "Or I'll lay your soul to waste, mm yeah",
+                    "",
+                    "Pleased to meet you",
+                    "Hope you guessed my name, mm yeah",
+                    "But what's puzzling you",
+                    "Is the nature of my game, mm mean it, get down",
+                    "",
+                    "Woo, who",
+                    "Oh yeah, get on down",
+                    "Oh yeah",
+                    "Aah yeah",
+                    "",
+                    "Tell me baby, what's my name?",
+                    "Tell me honey, can ya guess my name?",
+                    "Tell me baby, what's my name?",
+                    "I tell you one time, you're to blame",
+                    "",
+                    "What's my name",
+                    "Tell me, baby, what's my name?",
+                    "Tell me, sweetie, what's my name?"
+                ],
+                "url": "https://cdn.shazam.com/lyrics/v1/en-US/GB/iphone/musixmatch/subtitles/102776535/384/1?token=5aa94c5b66ac190d08080ab3b80d27aa",
+                "footer": "Writer(s): Mick Jagger, Keith Richards\nLyrics powered by www.musixmatch.com",
+                "tabname": "Lyrics",
+                "beacondata": {
+                    "lyricsid": "19955523",
+                    "providername": "musixmatch",
+                    "commontrackid": "102776535"
+                }
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/20118027/youtube/video?q=The+Rolling+Stones+%22Sympathy+For+The+Devil%22"
+            },
+            {
+                "type": "RELATED",
+                "url": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-20118027?startFrom=0&pageSize=20&connected=",
+                "tabname": "Related"
+            }
+        ],
+        "url": "https://www.shazam.com/track/20118027/sympathy-for-the-devil",
+        "artists": [
+            {
+                "id": "42",
+                "adamid": "1249595"
+            }
+        ],
+        "isrc": "USA176810010",
+        "genres": {
+            "primary": "Rock"
+        },
+        "urlparams": {
+            "{tracktitle}": "Sympathy+For+The+Devil",
+            "{trackartist}": "The+Rolling+Stones"
+        },
+        "myshazam": {
+            "apple": {
+                "actions": [
+                    {
+                        "name": "myshazam:apple",
+                        "type": "uri",
+                        "uri": "https://music.apple.com/gb/album/sympathy-for-the-devil/1698451527?i=1698451798&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                ]
+            }
+        },
+        "highlightsurls": {
+            "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/1249595/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios&videoIdToFilter=1537011867",
+            "trackhighlighturl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/highlights/1537011867?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+        },
+        "relatedtracksurl": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-20118027?startFrom=0&pageSize=20&connected=",
+        "albumadamid": "1698451527"
+    },
+    "tagid": "4154301C-1DCC-4454-AFCF-664FA93296A5"
+}

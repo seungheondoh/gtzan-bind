@@ -1,0 +1,276 @@
+{
+    "matches": [
+        {
+            "id": "216053377",
+            "offset": 30.034125,
+            "timeskew": 0.00012433529,
+            "frequencyskew": 0.0
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691633236518,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "100173124",
+        "title": "Identity",
+        "subtitle": "Burning Spear",
+        "images": {
+            "background": "https://is1-ssl.mzstatic.com/image/thumb/Features125/v4/52/7e/7d/527e7d95-67cb-ca07-ff9c-30e8ded8eb68/pr_source.png/800x800cc.jpg",
+            "coverart": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/f4/ee/af/f4eeaf8d-c182-d6a1-58d9-94a0063c9d6a/828283032521_cover.jpg/400x400cc.jpg",
+            "coverarthq": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/f4/ee/af/f4eeaf8d-c182-d6a1-58d9-94a0063c9d6a/828283032521_cover.jpg/400x400cc.jpg",
+            "joecolor": "b:1c1e13p:e9edecs:d5a77ft:c0c4c1q:b08b69"
+        },
+        "share": {
+            "subject": "Identity - Burning Spear",
+            "text": "Identity by Burning Spear",
+            "href": "https://www.shazam.com/track/100173124/identity",
+            "image": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/f4/ee/af/f4eeaf8d-c182-d6a1-58d9-94a0063c9d6a/828283032521_cover.jpg/400x400cc.jpg",
+            "twitter": "I used @Shazam to discover Identity by Burning Spear.",
+            "html": "https://www.shazam.com/snippets/email-share/100173124?lang=en-US&country=GB",
+            "avatar": "https://is1-ssl.mzstatic.com/image/thumb/Features125/v4/52/7e/7d/527e7d95-67cb-ca07-ff9c-30e8ded8eb68/pr_source.png/800x800cc.jpg",
+            "snapchat": "https://www.shazam.com/partner/sc/track/100173124"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "actions": [
+                {
+                    "name": "apple",
+                    "type": "applemusicplay",
+                    "id": "318365618"
+                },
+                {
+                    "name": "apple",
+                    "type": "uri",
+                    "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/54/5d/80/545d8053-21dd-4b03-eca4-0cc1123af586/mzaf_16157616459518719975.plus.aac.ep.m4a"
+                }
+            ],
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/gb/album/identity/318365593?i=318365618&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/gb/album/identity/318365593?i=318365618&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                },
+                {
+                    "caption": "BUY",
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "uri": "https://itunes.apple.com/gb/album/identity/318365593?i=318365618&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "buy",
+                        "providername": "itunes"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "type": "buy",
+                    "listcaption": "Buy on iTunes",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "itunes"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:Identity%20Burning%20Spear"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27Identity%27%20artist%3A%27Burning+Spear%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": false,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [
+                    {
+                        "image": "https://is1-ssl.mzstatic.com/image/thumb/Features125/v4/52/7e/7d/527e7d95-67cb-ca07-ff9c-30e8ded8eb68/pr_source.png/800x800cc.jpg",
+                        "caption": "Burning Spear"
+                    },
+                    {
+                        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/f4/ee/af/f4eeaf8d-c182-d6a1-58d9-94a0063c9d6a/828283032521_cover.jpg/400x400cc.jpg",
+                        "caption": "Identity"
+                    }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                    {
+                        "title": "Album",
+                        "text": "The World Should Know"
+                    },
+                    {
+                        "title": "Label",
+                        "text": "Burning Music"
+                    },
+                    {
+                        "title": "Released",
+                        "text": "1993"
+                    }
+                ]
+            },
+            {
+                "type": "LYRICS",
+                "text": [
+                    "So they want I to change my identity",
+                    "Musically, musically, musically",
+                    "So they want I to change my identity",
+                    "Musically, musically, musically",
+                    "",
+                    "This ya music race",
+                    "Commercial race",
+                    "Political race",
+                    "This ya music race",
+                    "Commercial race",
+                    "Political race",
+                    "",
+                    "So they want I to change my identity",
+                    "Musically, musically, musically",
+                    "So they want I to change my identity",
+                    "Musically, musically, musically",
+                    "My identity, my identity",
+                    "",
+                    "Jah work must be done",
+                    "Jah work must be done",
+                    "Jah work must be done",
+                    "Jah work must be done",
+                    "",
+                    "Work in the East",
+                    "Work in the West",
+                    "Work in the North",
+                    "Work in the South",
+                    "Work over there",
+                    "We work over here",
+                    "Work everywhere",
+                    "Work over there",
+                    "We work over here",
+                    "Work everywhere",
+                    "",
+                    "So they want I to change my identity",
+                    "Musically, musically, musically",
+                    "So they want I to change my identity",
+                    "Musically, musically, musically",
+                    "My identity, my identity",
+                    "",
+                    "Who will stand up for the people",
+                    "Musically, musically, musically",
+                    "Who will stand up for the people",
+                    "Musically, musically, musically",
+                    "",
+                    "So they want I to change my identity",
+                    "Musically, musically, musically",
+                    "My identity, my identity",
+                    "Musically, musically, musically",
+                    "The people is for the music",
+                    "The music is for the people",
+                    "Musically, musically, musically",
+                    "So they want I to change my identity",
+                    "Musically, musically, musically",
+                    "So they want I to change my identity",
+                    "Musically, musically, musically",
+                    "My identity, my identity"
+                ],
+                "url": "https://cdn.shazam.com/lyrics/v1/en-US/GB/iphone/musixmatch/subtitles/1296809/239/1?token=86524b2cd8130009c8f9e98559cdcd81",
+                "footer": "Writer(s): Winston Rodney\nLyrics powered by www.musixmatch.com",
+                "tabname": "Lyrics",
+                "beacondata": {
+                    "lyricsid": "12921255",
+                    "providername": "musixmatch",
+                    "commontrackid": "1296809"
+                }
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/100173124/youtube/video?q=Burning+Spear+%22Identity%22"
+            },
+            {
+                "type": "RELATED",
+                "url": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-100173124?startFrom=0&pageSize=20&connected=",
+                "tabname": "Related"
+            }
+        ],
+        "url": "https://www.shazam.com/track/100173124/identity",
+        "artists": [
+            {
+                "id": "42",
+                "adamid": "1587884"
+            }
+        ],
+        "isrc": "USTC90968285",
+        "genres": {
+            "primary": "Reggae"
+        },
+        "urlparams": {
+            "{tracktitle}": "Identity",
+            "{trackartist}": "Burning+Spear"
+        },
+        "myshazam": {
+            "apple": {
+                "actions": [
+                    {
+                        "name": "myshazam:apple",
+                        "type": "uri",
+                        "uri": "https://music.apple.com/gb/album/identity/318365593?i=318365618&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                ]
+            }
+        },
+        "highlightsurls": {
+            "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/1587884/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+        },
+        "relatedtracksurl": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-100173124?startFrom=0&pageSize=20&connected=",
+        "albumadamid": "318365593"
+    },
+    "tagid": "DF37C36E-EDE6-44FB-B743-9688749EA0B5"
+}

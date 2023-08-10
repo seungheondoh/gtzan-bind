@@ -1,0 +1,309 @@
+{
+    "matches": [
+        {
+            "id": "20144660",
+            "offset": -2.6338759759999997,
+            "timeskew": -3.3080578e-05,
+            "frequencyskew": 0.0
+        },
+        {
+            "id": "310723837",
+            "offset": 26.116429687,
+            "timeskew": -1.6629696e-05,
+            "frequencyskew": 0.0
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691632843682,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "10304637",
+        "title": "I Get Lonely",
+        "subtitle": "Janet Jackson",
+        "images": {
+            "background": "https://is4-ssl.mzstatic.com/image/thumb/Features125/v4/a5/ff/c6/a5ffc651-ee12-f65b-3c34-35c598c2560e/pr_source.png/800x800cc.jpg",
+            "coverart": "https://is2-ssl.mzstatic.com/image/thumb/Music122/v4/c3/c4/94/c3c494ca-7981-9b5b-ea15-4804ffd7edd8/13UABIM57025.rgb.jpg/400x400cc.jpg",
+            "coverarthq": "https://is2-ssl.mzstatic.com/image/thumb/Music122/v4/c3/c4/94/c3c494ca-7981-9b5b-ea15-4804ffd7edd8/13UABIM57025.rgb.jpg/400x400cc.jpg",
+            "joecolor": "b:a03524p:ffffc9s:ffdba4t:ebd6a8q:ebb98a"
+        },
+        "share": {
+            "subject": "I Get Lonely - Janet Jackson",
+            "text": "I Get Lonely by Janet Jackson",
+            "href": "https://www.shazam.com/track/10304637/i-get-lonely",
+            "image": "https://is2-ssl.mzstatic.com/image/thumb/Music122/v4/c3/c4/94/c3c494ca-7981-9b5b-ea15-4804ffd7edd8/13UABIM57025.rgb.jpg/400x400cc.jpg",
+            "twitter": "I used @Shazam to discover I Get Lonely by Janet Jackson.",
+            "html": "https://www.shazam.com/snippets/email-share/10304637?lang=en-US&country=GB",
+            "avatar": "https://is4-ssl.mzstatic.com/image/thumb/Features125/v4/a5/ff/c6/a5ffc651-ee12-f65b-3c34-35c598c2560e/pr_source.png/800x800cc.jpg",
+            "snapchat": "https://www.shazam.com/partner/sc/track/10304637"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "actions": [
+                {
+                    "name": "apple",
+                    "type": "applemusicplay",
+                    "id": "1646563792"
+                },
+                {
+                    "name": "apple",
+                    "type": "uri",
+                    "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/87/c7/71/87c771db-0bb8-0042-fb26-7f19a1ea8124/mzaf_1929524750140718864.plus.aac.ep.m4a"
+                }
+            ],
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/gb/album/i-get-lonely/1646562637?i=1646563792&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/gb/album/i-get-lonely/1646562637?i=1646563792&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                },
+                {
+                    "caption": "BUY",
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "uri": "https://itunes.apple.com/gb/album/i-get-lonely/1646562637?i=1646563792&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "buy",
+                        "providername": "itunes"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "type": "buy",
+                    "listcaption": "Buy on iTunes",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "itunes"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:I%20Get%20Lonely%20Janet%20Jackson"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27I+Get+Lonely%27%20artist%3A%27Janet+Jackson%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": false,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [
+                    {
+                        "image": "https://is4-ssl.mzstatic.com/image/thumb/Features125/v4/a5/ff/c6/a5ffc651-ee12-f65b-3c34-35c598c2560e/pr_source.png/800x800cc.jpg",
+                        "caption": "Janet Jackson"
+                    },
+                    {
+                        "image": "https://is2-ssl.mzstatic.com/image/thumb/Music122/v4/c3/c4/94/c3c494ca-7981-9b5b-ea15-4804ffd7edd8/13UABIM57025.rgb.jpg/400x400cc.jpg",
+                        "caption": "I Get Lonely"
+                    }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                    {
+                        "title": "Album",
+                        "text": "The Velvet Rope"
+                    },
+                    {
+                        "title": "Label",
+                        "text": "Virgin Records"
+                    },
+                    {
+                        "title": "Released",
+                        "text": "1997"
+                    }
+                ]
+            },
+            {
+                "type": "LYRICS",
+                "text": [
+                    "I get so lonely",
+                    "I can't let just anybody hold me",
+                    "You are the one that lives in me, my dear",
+                    "Want no one but you",
+                    "",
+                    "I get so lonely",
+                    "I can't let just anybody hold me",
+                    "You are the one that lives in me, my dear",
+                    "Want no one but...",
+                    "",
+                    "Sittin' here with my tears",
+                    "All alone with my fears",
+                    "I'm wonderin' if I have to do without you",
+                    "But there's no reason why I fell asleep late last night",
+                    "Cryin' like a newborn child",
+                    "Holdin' myself close, pretendin' my arms are yours",
+                    "I want no one but you",
+                    "",
+                    "I get so lonely",
+                    "I can't let just anybody hold me",
+                    "You are the one that lives in me, my dear",
+                    "Want no one but you",
+                    "",
+                    "I get so lonely",
+                    "I can't let just anybody hold me",
+                    "You are the one that lives in me, my dear",
+                    "Want no one but...",
+                    "",
+                    "I still remember to the day",
+                    "In fact it was a 3rd Monday",
+                    "You came along to be the one for me",
+                    "And now I'm alone",
+                    "I'm sittin' here by the phone",
+                    "Call and say that you're okay",
+                    "So that I'll have the chance to beg you to stay",
+                    "I want no one but you",
+                    "",
+                    "I get so lonely",
+                    "I can't let just anybody hold me",
+                    "You are the one that lives in me, my dear",
+                    "I want no one but you",
+                    "",
+                    "I get so lonely",
+                    "Can't let just anybody hold me",
+                    "You are the one that lives in me, my dear",
+                    "Want no one but you",
+                    "",
+                    "I get so lonely (Every time I see your face, baby, ooh)",
+                    "Can't let just anybody hold me (Every time I hear your name)",
+                    "You are the one that lives in me, baby",
+                    "Want no one but you",
+                    "",
+                    "I get so lonely (Every time I see your face, baby, ooh)",
+                    "Can't let just anybody hold me (Every time I hear your name)",
+                    "You are the one that lives in me, my dear",
+                    "Want no one but you",
+                    "",
+                    "Gonna break it down, break it down, break it down",
+                    "Gonna break it down, break it down, break it down, oh oh",
+                    "",
+                    "You know that I know that I get so lonely thinkin' of you, ooh, hoo",
+                    "No, no",
+                    "",
+                    "I get so lonely (I get lonely when I hear your name)",
+                    "I can't let just anybody hold me (I get lonely when I see your face)",
+                    "You are the one that lives in me, my dear",
+                    "Want no one but you",
+                    "",
+                    "I get so lonely (Get lonely when I hear your name)",
+                    "I can't let just anybody hold me (I get lonely when I see your face)",
+                    "You are the one that lives in me, my dear",
+                    "Want no one but you",
+                    "",
+                    "I get so lonely (Every time I see your face, baby)",
+                    "Can't let just anybody hold me (Every time I hear your name)",
+                    "You are the love that lives in me, my dear",
+                    "",
+                    "Want no one but you",
+                    "",
+                    "I get so lonely (Every time I hear your name, baby)",
+                    "Can't let just anybody hold me (Every time I see your face)",
+                    "You are the one that lives in me, my dear",
+                    "Want no one but you"
+                ],
+                "url": "https://cdn.shazam.com/lyrics/v1/en-US/GB/iphone/musixmatch/subtitles/40797/240/1?token=52d13e09718f0f9bb372f5df2ba1d37d",
+                "footer": "Writer(s): Terry Lewis, James Harris, Janet Jackson\nLyrics powered by www.musixmatch.com",
+                "tabname": "Lyrics",
+                "beacondata": {
+                    "lyricsid": "30522915",
+                    "providername": "musixmatch",
+                    "commontrackid": "40797"
+                }
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/10304637/youtube/video?q=Janet+Jackson+%22I+Get+Lonely%22"
+            },
+            {
+                "type": "RELATED",
+                "url": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-10304637?startFrom=0&pageSize=20&connected=",
+                "tabname": "Related"
+            }
+        ],
+        "url": "https://www.shazam.com/track/10304637/i-get-lonely",
+        "artists": [
+            {
+                "id": "42",
+                "adamid": "1272779"
+            }
+        ],
+        "isrc": "USVI29700019",
+        "genres": {
+            "primary": "R&B/Soul"
+        },
+        "urlparams": {
+            "{tracktitle}": "I+Get+Lonely",
+            "{trackartist}": "Janet+Jackson"
+        },
+        "myshazam": {
+            "apple": {
+                "actions": [
+                    {
+                        "name": "myshazam:apple",
+                        "type": "uri",
+                        "uri": "https://music.apple.com/gb/album/i-get-lonely/1646562637?i=1646563792&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                ]
+            }
+        },
+        "highlightsurls": {
+            "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/1272779/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios&videoIdToFilter=1647668296",
+            "trackhighlighturl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/highlights/1647668296?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+        },
+        "relatedtracksurl": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-10304637?startFrom=0&pageSize=20&connected=",
+        "albumadamid": "1646562637"
+    },
+    "tagid": "74A7562F-E33E-48BA-B5C3-CD5B4283A8BC"
+}

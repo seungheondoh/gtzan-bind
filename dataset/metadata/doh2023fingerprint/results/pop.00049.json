@@ -1,0 +1,283 @@
+{
+    "matches": [
+        {
+            "id": "524921550",
+            "offset": 29.817103515,
+            "timeskew": -1.0430813e-05,
+            "frequencyskew": 0.0
+        },
+        {
+            "id": "2976908",
+            "offset": 30.15378125,
+            "timeskew": 0.00075757504,
+            "frequencyskew": -0.00016111135
+        },
+        {
+            "id": "644877890",
+            "offset": 198.719484375,
+            "timeskew": -7.8856945e-05,
+            "frequencyskew": -0.0003221631
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691632735444,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "2976908",
+        "title": "Pero Me Acuerdo de T\u00ed",
+        "subtitle": "Christina Aguilera",
+        "images": {
+            "background": "https://is4-ssl.mzstatic.com/image/thumb/Features116/v4/17/79/bd/1779bd84-ebd0-d1b4-101c-4fc1e2044fa7/mzl.kdnoleru.jpg/800x800cc.jpg",
+            "coverart": "https://is5-ssl.mzstatic.com/image/thumb/Music/96/86/5d/mzi.ljrnowog.jpg/400x400cc.jpg",
+            "coverarthq": "https://is5-ssl.mzstatic.com/image/thumb/Music/96/86/5d/mzi.ljrnowog.jpg/400x400cc.jpg",
+            "joecolor": "b:e7e5e8p:332528s:4b1836t:574b4eq:6a4159"
+        },
+        "share": {
+            "subject": "Pero Me Acuerdo de T\u00ed - Christina Aguilera",
+            "text": "Pero Me Acuerdo de T\u00ed by Christina Aguilera",
+            "href": "https://www.shazam.com/track/2976908/pero-me-acuerdo-de-t%C3%AD",
+            "image": "https://is5-ssl.mzstatic.com/image/thumb/Music/96/86/5d/mzi.ljrnowog.jpg/400x400cc.jpg",
+            "twitter": "I used @Shazam to discover Pero Me Acuerdo de T\u00ed by Christina Aguilera.",
+            "html": "https://www.shazam.com/snippets/email-share/2976908?lang=en-US&country=GB",
+            "avatar": "https://is4-ssl.mzstatic.com/image/thumb/Features116/v4/17/79/bd/1779bd84-ebd0-d1b4-101c-4fc1e2044fa7/mzl.kdnoleru.jpg/800x800cc.jpg",
+            "snapchat": "https://www.shazam.com/partner/sc/track/2976908"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "actions": [
+                {
+                    "name": "apple",
+                    "type": "applemusicplay",
+                    "id": "401221112"
+                },
+                {
+                    "name": "apple",
+                    "type": "uri",
+                    "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/19/fe/97/19fe97f1-63e5-3d0a-b63e-fb67d88865a0/mzaf_1172989827083403751.plus.aac.ep.m4a"
+                }
+            ],
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/gb/album/pero-me-acuerdo-de-t%C3%AD/401220619?i=401221112&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/gb/album/pero-me-acuerdo-de-t%C3%AD/401220619?i=401221112&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                },
+                {
+                    "caption": "BUY",
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "uri": "https://itunes.apple.com/gb/album/pero-me-acuerdo-de-t%C3%AD/401220619?i=401221112&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "buy",
+                        "providername": "itunes"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "type": "buy",
+                    "listcaption": "Buy on iTunes",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "itunes"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:Pero%20Me%20Acuerdo%20de%20T%C3%AD%20Christina%20Aguilera"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27Pero+Me+Acuerdo+de+T%C3%AD%27%20artist%3A%27Christina+Aguilera%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": false,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [
+                    {
+                        "image": "https://is4-ssl.mzstatic.com/image/thumb/Features116/v4/17/79/bd/1779bd84-ebd0-d1b4-101c-4fc1e2044fa7/mzl.kdnoleru.jpg/800x800cc.jpg",
+                        "caption": "Christina Aguilera"
+                    },
+                    {
+                        "image": "https://is5-ssl.mzstatic.com/image/thumb/Music/96/86/5d/mzi.ljrnowog.jpg/400x400cc.jpg",
+                        "caption": "Pero Me Acuerdo de T\u00ed"
+                    }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                    {
+                        "title": "Album",
+                        "text": "Chicas de Hoy"
+                    },
+                    {
+                        "title": "Label",
+                        "text": "RCA Records Label"
+                    },
+                    {
+                        "title": "Released",
+                        "text": "2000"
+                    }
+                ]
+            },
+            {
+                "type": "LYRICS",
+                "text": [
+                    "Ahora que ya mi vida se encuentra normal",
+                    "Que tengo en casa quien sue\u00f1a con verme llegar",
+                    "Ahora puedo decir que me encuentro de pie",
+                    "Ahora que me va muy bien",
+                    "",
+                    "Ahora que con el tiempo logr\u00e9 superar",
+                    "Aquel amor que por poco me llega a matar, no-uh-uh",
+                    "Ahora ya no hay m\u00e1s dolor",
+                    "Ahora al fin vuelvo a ser yo",
+                    "",
+                    "Pero me acuerdo de ti",
+                    "Y otra vez pierdo la calma",
+                    "Pero me acuerdo de ti",
+                    "Y se me desgarra el alma",
+                    "",
+                    "Pero me acuerdo de ti",
+                    "Y se borra mi sonrisa",
+                    "Pero me acuerdo de ti",
+                    "Y mi mundo se hace trizas",
+                    "",
+                    "Uh-uh-uh, uh-oh-oh",
+                    "Nah-ah-ah, eh-eh",
+                    "",
+                    "Ahora que mi futuro comienza a brillar, mmh",
+                    "Ahora que me han devuelto la seguridad",
+                    "Ahora ya no hay m\u00e1s dolor",
+                    "Ahora al fin vuelvo a ser yo",
+                    "",
+                    "Pero me acuerdo de ti",
+                    "Y otra vez pierdo la calma",
+                    "Pero me acuerdo de ti",
+                    "Y se me desgarra el alma",
+                    "",
+                    "Pero me acuerdo de ti",
+                    "Y se borra mi sonrisa",
+                    "Pero me acuerdo de ti",
+                    "Y mi mundo se hace trizas",
+                    "",
+                    "Oh-oh-uh-uh, uoh",
+                    "",
+                    "(Pero me acuerdo de ti) No-oh-oh, oh, eh-eh, no, no",
+                    "(Pero me acuerdo de ti) Y se me desgarra el alma",
+                    "Oh, pero me acuerdo de ti, mi sonrisa",
+                    "(Pero me acuerdo de ti) Mi mundo trizas",
+                    "",
+                    "(Pero me acuerdo de ti) Uh-uh-uh, ah-ah-ah-ah",
+                    "(Pero me acuerdo de ti) Oh pero me, pero me, pero me",
+                    "Pero me acuerdo de ti",
+                    "(Pero me acuerdo de ti) Oh-uh-uh-uh, uh-oh",
+                    "",
+                    "(Pero me acuerdo de ti)"
+                ],
+                "url": "https://cdn.shazam.com/lyrics/v1/en-US/GB/iphone/musixmatch/subtitles/102788/265/1?token=4d6a5ca84b597a55c5d4a7c3f059631e",
+                "footer": "Writer(s): Rudy Amado Perez\nLyrics powered by www.musixmatch.com",
+                "tabname": "Lyrics",
+                "beacondata": {
+                    "lyricsid": "20045898",
+                    "providername": "musixmatch",
+                    "commontrackid": "102788"
+                }
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/2976908/youtube/video?q=Christina+Aguilera+%22Pero+Me+Acuerdo+de+T%C3%AD%22"
+            },
+            {
+                "type": "RELATED",
+                "url": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-2976908?startFrom=0&pageSize=20&connected=",
+                "tabname": "Related"
+            }
+        ],
+        "url": "https://www.shazam.com/track/2976908/pero-me-acuerdo-de-t%C3%AD",
+        "artists": [
+            {
+                "id": "42",
+                "adamid": "259398"
+            }
+        ],
+        "isrc": "USRC10000566",
+        "genres": {
+            "primary": "Pop in Spanish"
+        },
+        "urlparams": {
+            "{tracktitle}": "Pero+Me+Acuerdo+de+T%C3%AD",
+            "{trackartist}": "Christina+Aguilera"
+        },
+        "myshazam": {
+            "apple": {
+                "actions": [
+                    {
+                        "name": "myshazam:apple",
+                        "type": "uri",
+                        "uri": "https://music.apple.com/gb/album/pero-me-acuerdo-de-t%C3%AD/401220619?i=401221112&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                ]
+            }
+        },
+        "highlightsurls": {
+            "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/259398/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios&videoIdToFilter=300702170",
+            "trackhighlighturl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/highlights/300702170?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+        },
+        "relatedtracksurl": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-2976908?startFrom=0&pageSize=20&connected=",
+        "albumadamid": "401220619"
+    },
+    "tagid": "9695C678-165B-42A3-B353-0A1C03CDA0D7"
+}

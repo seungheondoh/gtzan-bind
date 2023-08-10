@@ -1,0 +1,195 @@
+{
+    "matches": [
+        {
+            "id": "207202879",
+            "offset": 30.000478514999998,
+            "timeskew": 7.724762e-05,
+            "frequencyskew": 0.0
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691632627837,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "57339812",
+        "title": "What's Wrong",
+        "subtitle": "Magic Slim",
+        "images": {
+            "background": "https://is2-ssl.mzstatic.com/image/thumb/Music6/v4/79/b5/23/79b52369-2eb6-088a-ef45-d038923c6ea0/889845813873.jpg/400x400cc.jpg",
+            "coverart": "https://is2-ssl.mzstatic.com/image/thumb/Music6/v4/79/b5/23/79b52369-2eb6-088a-ef45-d038923c6ea0/889845813873.jpg/400x400cc.jpg",
+            "coverarthq": "https://is2-ssl.mzstatic.com/image/thumb/Music6/v4/79/b5/23/79b52369-2eb6-088a-ef45-d038923c6ea0/889845813873.jpg/400x400cc.jpg",
+            "joecolor": "b:0b1728p:fefefes:b1bbcat:cdd0d3q:909aa9"
+        },
+        "share": {
+            "subject": "What's Wrong - Magic Slim",
+            "text": "What's Wrong by Magic Slim",
+            "href": "https://www.shazam.com/track/57339812/whats-wrong",
+            "image": "https://is2-ssl.mzstatic.com/image/thumb/Music6/v4/79/b5/23/79b52369-2eb6-088a-ef45-d038923c6ea0/889845813873.jpg/400x400cc.jpg",
+            "twitter": "I used @Shazam to discover What's Wrong by Magic Slim.",
+            "html": "https://www.shazam.com/snippets/email-share/57339812?lang=en-US&country=GB",
+            "snapchat": "https://www.shazam.com/partner/sc/track/57339812"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "actions": [
+                {
+                    "name": "apple",
+                    "type": "applemusicplay",
+                    "id": "1052200847"
+                },
+                {
+                    "name": "apple",
+                    "type": "uri",
+                    "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/dd/8c/d5/dd8cd5b7-974d-b573-d81a-d489c66f22d0/mzaf_15429869824223080465.plus.aac.ep.m4a"
+                }
+            ],
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/gb/album/whats-wrong/1052200387?i=1052200847&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/gb/album/whats-wrong/1052200387?i=1052200847&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                },
+                {
+                    "caption": "BUY",
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "uri": "https://itunes.apple.com/gb/album/whats-wrong/1052200387?i=1052200847&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "buy",
+                        "providername": "itunes"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "type": "buy",
+                    "listcaption": "Buy on iTunes",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "itunes"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:What%27s%20Wrong%20Magic%20Slim"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27What%5C%27s+Wrong%27%20artist%3A%27Magic+Slim%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": false,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [
+                    {
+                        "image": "https://is2-ssl.mzstatic.com/image/thumb/Music6/v4/79/b5/23/79b52369-2eb6-088a-ef45-d038923c6ea0/889845813873.jpg/400x400cc.jpg",
+                        "caption": "What's Wrong"
+                    }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                    {
+                        "title": "Album",
+                        "text": "Blues Legends: Magic Slim"
+                    },
+                    {
+                        "title": "Label",
+                        "text": "Blind Pig Records"
+                    },
+                    {
+                        "title": "Released",
+                        "text": "2000"
+                    }
+                ]
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/57339812/youtube/video?q=Magic+Slim+%22What's+Wrong%22"
+            }
+        ],
+        "url": "https://www.shazam.com/track/57339812/whats-wrong",
+        "artists": [
+            {
+                "id": "42",
+                "adamid": "75112414"
+            }
+        ],
+        "isrc": "USBP10306001",
+        "genres": {
+            "primary": "Blues"
+        },
+        "urlparams": {
+            "{tracktitle}": "What%27s+Wrong",
+            "{trackartist}": "Magic+Slim"
+        },
+        "myshazam": {
+            "apple": {
+                "actions": [
+                    {
+                        "name": "myshazam:apple",
+                        "type": "uri",
+                        "uri": "https://music.apple.com/gb/album/whats-wrong/1052200387?i=1052200847&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                ]
+            }
+        },
+        "highlightsurls": {
+            "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/75112414/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+        },
+        "albumadamid": "1052200387"
+    },
+    "tagid": "7FAC93F6-A3C6-4C4A-8833-39A1B821D408"
+}

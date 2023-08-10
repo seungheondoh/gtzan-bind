@@ -1,0 +1,240 @@
+{
+    "matches": [
+        {
+            "id": "236360862",
+            "offset": 12.558293944999999,
+            "timeskew": -0.0021978617,
+            "frequencyskew": -0.0035378337
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691632383905,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "5895166",
+        "title": "Reaching for the Best",
+        "subtitle": "The Exciters",
+        "images": {
+            "background": "https://is5-ssl.mzstatic.com/image/thumb/Music/ac/97/35/mzi.ktxiruyh.tif/400x400cc.jpg",
+            "coverart": "https://is5-ssl.mzstatic.com/image/thumb/Music/ac/97/35/mzi.ktxiruyh.tif/400x400cc.jpg",
+            "coverarthq": "https://is5-ssl.mzstatic.com/image/thumb/Music/ac/97/35/mzi.ktxiruyh.tif/400x400cc.jpg",
+            "joecolor": "b:000000p:a6ddfbs:46b6d0t:85b1c9q:3891a6"
+        },
+        "share": {
+            "subject": "Reaching for the Best - The Exciters",
+            "text": "Reaching for the Best by The Exciters",
+            "href": "https://www.shazam.com/track/5895166/reaching-for-the-best",
+            "image": "https://is5-ssl.mzstatic.com/image/thumb/Music/ac/97/35/mzi.ktxiruyh.tif/400x400cc.jpg",
+            "twitter": "I used @Shazam to discover Reaching for the Best by The Exciters.",
+            "html": "https://www.shazam.com/snippets/email-share/5895166?lang=en-US&country=GB",
+            "snapchat": "https://www.shazam.com/partner/sc/track/5895166"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "actions": [
+                {
+                    "name": "apple",
+                    "type": "applemusicplay",
+                    "id": "259177365"
+                },
+                {
+                    "name": "apple",
+                    "type": "uri",
+                    "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/f1/c9/c8/f1c9c82b-5ccb-6e9d-8d36-b9b106d77641/mzaf_8482242875053521219.plus.aac.ep.m4a"
+                }
+            ],
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/gb/album/reaching-for-the-best/259176430?i=259177365&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/gb/album/reaching-for-the-best/259176430?i=259177365&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                },
+                {
+                    "caption": "BUY",
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "uri": "https://itunes.apple.com/gb/album/reaching-for-the-best/259176430?i=259177365&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "buy",
+                        "providername": "itunes"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "type": "buy",
+                    "listcaption": "Buy on iTunes",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "itunes"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:Reaching%20for%20the%20Best%20The%20Exciters"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27Reaching+for+the+Best%27%20artist%3A%27The+Exciters%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": false,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [
+                    {
+                        "image": "https://is5-ssl.mzstatic.com/image/thumb/Music/ac/97/35/mzi.ktxiruyh.tif/400x400cc.jpg",
+                        "caption": "Reaching for the Best"
+                    }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                    {
+                        "title": "Album",
+                        "text": "Reaching for the Best"
+                    },
+                    {
+                        "title": "Label",
+                        "text": "Motorcity OMP"
+                    },
+                    {
+                        "title": "Released",
+                        "text": "1990"
+                    }
+                ]
+            },
+            {
+                "type": "LYRICS",
+                "text": [
+                    "I got the price for a ford",
+                    "Looking for a rolls royce",
+                    "They wanna keep me down",
+                    "I can't afford a house",
+                    "I want something better than all the rest",
+                    "All my life I've reaching for the best",
+                    "Reaching for lifes happiness",
+                    "Reaching for the very very best",
+                    "Ooh yeah",
+                    "",
+                    "I want a pocket full of money",
+                    "But I don't have a pocket",
+                    "Gotta be a star",
+                    "I just don't have anything",
+                    "I got a feeling more than the rest",
+                    "All my life I've been reaching for the best",
+                    "Reaching for lifes happiness",
+                    "Reaching for the very very best",
+                    "",
+                    "Ooh yeah",
+                    "",
+                    "I'm reaching for the very best",
+                    "Reaching for the very very best of life",
+                    "I dream of running away",
+                    "With a friend",
+                    "Want a whole lot of money",
+                    "Wanna be somebody"
+                ],
+                "footer": "Writer(s): H. Rooney, Ian Levine\nLyrics powered by www.musixmatch.com",
+                "tabname": "Lyrics",
+                "beacondata": {
+                    "lyricsid": "16410187",
+                    "providername": "musixmatch",
+                    "commontrackid": "1260567"
+                }
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/5895166/youtube/video?q=The+Exciters+%22Reaching+for+the+Best%22"
+            },
+            {
+                "type": "RELATED",
+                "url": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-5895166?startFrom=0&pageSize=20&connected=",
+                "tabname": "Related"
+            }
+        ],
+        "url": "https://www.shazam.com/track/5895166/reaching-for-the-best",
+        "artists": [
+            {
+                "id": "42",
+                "adamid": "79660349"
+            }
+        ],
+        "isrc": "USA560669487",
+        "genres": {
+            "primary": "R&B/Soul"
+        },
+        "urlparams": {
+            "{tracktitle}": "Reaching+for+the+Best",
+            "{trackartist}": "The+Exciters"
+        },
+        "myshazam": {
+            "apple": {
+                "actions": [
+                    {
+                        "name": "myshazam:apple",
+                        "type": "uri",
+                        "uri": "https://music.apple.com/gb/album/reaching-for-the-best/259176430?i=259177365&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                ]
+            }
+        },
+        "highlightsurls": {
+            "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/79660349/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+        },
+        "relatedtracksurl": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-5895166?startFrom=0&pageSize=20&connected=",
+        "albumadamid": "259176430"
+    },
+    "tagid": "F56610E0-A94E-489B-A384-65A6FE15C78F"
+}

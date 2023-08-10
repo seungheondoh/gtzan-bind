@@ -1,0 +1,234 @@
+{
+    "matches": [
+        {
+            "id": "201260126",
+            "offset": 30.374435546,
+            "timeskew": 0.00025057793,
+            "frequencyskew": -0.00020134449
+        },
+        {
+            "id": "201204908",
+            "offset": 30.372427734000002,
+            "timeskew": 7.355213e-05,
+            "frequencyskew": 0.0
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691633038768,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "45810535",
+        "title": "Symphony No. 40 in G Minor, K. 550: I. Molto Allegro",
+        "subtitle": "Sir Neville Marriner & Academy of St Martin in the Fields",
+        "images": {
+            "background": "https://is3-ssl.mzstatic.com/image/thumb/Features115/v4/0c/05/1a/0c051ad5-7cf7-f405-9e12-084162bf1970/pr_source.png/800x800cc.jpg",
+            "coverart": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/62/a5/5c/62a55cc2-7327-f792-c4d2-9ff0a54af5c9/5059460093577.jpg/400x400cc.jpg",
+            "coverarthq": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/62/a5/5c/62a55cc2-7327-f792-c4d2-9ff0a54af5c9/5059460093577.jpg/400x400cc.jpg",
+            "joecolor": "b:513216p:ead3b5s:fad365t:cbb395q:d8b255"
+        },
+        "share": {
+            "subject": "Symphony No. 40 in G Minor, K. 550: I. Molto Allegro - Sir Neville Marriner & Academy of St Martin in the Fields",
+            "text": "Symphony No. 40 in G Minor, K. 550: I. Molto Allegro by Sir Neville Marriner & Academy of St Martin in the Fields",
+            "href": "https://www.shazam.com/track/45810535/symphony-no-40-in-g-minor-k-550-i-molto-allegro",
+            "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/62/a5/5c/62a55cc2-7327-f792-c4d2-9ff0a54af5c9/5059460093577.jpg/400x400cc.jpg",
+            "twitter": "I used @Shazam to discover Symphony No. 40 in G Minor, K. 550: I. Molto Allegro by Sir Neville Marriner & Academy of St Martin in the Fields.",
+            "html": "https://www.shazam.com/snippets/email-share/45810535?lang=en-US&country=GB",
+            "avatar": "https://is3-ssl.mzstatic.com/image/thumb/Features115/v4/0c/05/1a/0c051ad5-7cf7-f405-9e12-084162bf1970/pr_source.png/800x800cc.jpg",
+            "snapchat": "https://www.shazam.com/partner/sc/track/45810535"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "actions": [
+                {
+                    "name": "apple",
+                    "type": "applemusicplay",
+                    "id": "1581065445"
+                },
+                {
+                    "name": "apple",
+                    "type": "uri",
+                    "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/dc/65/ca/dc65ca03-93ec-90c7-8716-510b283c924c/mzaf_17666247265552266870.plus.aac.ep.m4a"
+                }
+            ],
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/gb/album/symphony-no-40-in-g-minor-k-550-i-molto-allegro/1581065443?i=1581065445&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/gb/album/symphony-no-40-in-g-minor-k-550-i-molto-allegro/1581065443?i=1581065445&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                },
+                {
+                    "caption": "BUY",
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "uri": "https://itunes.apple.com/gb/album/symphony-no-40-in-g-minor-k-550-i-molto-allegro/1581065443?i=1581065445&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "buy",
+                        "providername": "itunes"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "type": "buy",
+                    "listcaption": "Buy on iTunes",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "itunes"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:Symphony%20No.%2040%20in%20G%20Minor%2C%20K.%20550%3A%20I.%20Molto%20Allegro%20Sir%20Neville%20Marriner"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27Symphony+No.+40+in+G+Minor%2C+K.+550%3A+I.+Molto+Allegro%27%20artist%3A%27Sir+Neville+Marriner++Academy+of+St+Martin+in+the+Fields%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": false,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [
+                    {
+                        "image": "https://is3-ssl.mzstatic.com/image/thumb/Features115/v4/0c/05/1a/0c051ad5-7cf7-f405-9e12-084162bf1970/pr_source.png/800x800cc.jpg",
+                        "caption": "Sir Neville Marriner"
+                    },
+                    {
+                        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/62/a5/5c/62a55cc2-7327-f792-c4d2-9ff0a54af5c9/5059460093577.jpg/400x400cc.jpg",
+                        "caption": "Symphony No. 40 in G Minor, K. 550: I. Molto Allegro"
+                    }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                    {
+                        "title": "Album",
+                        "text": "Mozart Sinfonie Vol. 1"
+                    },
+                    {
+                        "title": "Label",
+                        "text": "Warner Music Group - X5 Music Group"
+                    },
+                    {
+                        "title": "Released",
+                        "text": "1987"
+                    }
+                ]
+            },
+            {
+                "type": "LYRICS",
+                "text": [
+                    "Instrumental song!",
+                    "Instrumental song!",
+                    "Instrumental song!",
+                    "Instrumental song!",
+                    "Instrumental song!",
+                    "Instrumental song!",
+                    "Instrumental song!",
+                    "Instrumental song!",
+                    "Instrumental song!",
+                    "Instrumental song!"
+                ],
+                "footer": "Writer(s): Wolfgang Amadeus Mozart\nLyrics powered by www.musixmatch.com",
+                "tabname": "Lyrics",
+                "beacondata": {
+                    "lyricsid": "14618001",
+                    "providername": "musixmatch",
+                    "commontrackid": "15350336"
+                }
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/45810535/youtube/video?q=Sir+Neville+Marriner+%26+Academy+of+St+Martin+in+the+Fields+%22Symphony+No.+40+in+G+Minor,+K.+550:+I.+Molto+Allegro%22"
+            },
+            {
+                "type": "RELATED",
+                "url": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-45810535?startFrom=0&pageSize=20&connected=",
+                "tabname": "Related"
+            }
+        ],
+        "url": "https://www.shazam.com/track/45810535/symphony-no-40-in-g-minor-k-550-i-molto-allegro",
+        "artists": [
+            {
+                "id": "42",
+                "adamid": "281778"
+            }
+        ],
+        "isrc": "GBAYC8600877",
+        "genres": {
+            "primary": "Classical"
+        },
+        "urlparams": {
+            "{tracktitle}": "Symphony+No.+40+in+G+Minor%2C+K.+550%3A+I.+Molto+Allegro",
+            "{trackartist}": "Sir+Neville+Marriner+%26+Academy+of+St+Martin+in+the+Fields"
+        },
+        "myshazam": {
+            "apple": {
+                "actions": [
+                    {
+                        "name": "myshazam:apple",
+                        "type": "uri",
+                        "uri": "https://music.apple.com/gb/album/symphony-no-40-in-g-minor-k-550-i-molto-allegro/1581065443?i=1581065445&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                ]
+            }
+        },
+        "highlightsurls": {
+            "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/281778/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+        },
+        "relatedtracksurl": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-45810535?startFrom=0&pageSize=20&connected=",
+        "albumadamid": "1581065443"
+    },
+    "tagid": "2C654582-BA84-4D96-BB57-FA4CA52BA3B6"
+}

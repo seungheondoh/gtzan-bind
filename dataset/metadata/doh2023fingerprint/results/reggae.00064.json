@@ -1,0 +1,213 @@
+{
+    "matches": [
+        {
+            "id": "338460251",
+            "offset": 29.944060546,
+            "timeskew": 0.007160306,
+            "frequencyskew": -0.0025742054
+        },
+        {
+            "id": "471144107",
+            "offset": 88.530023437,
+            "timeskew": -0.016702533,
+            "frequencyskew": -0.0028419495
+        },
+        {
+            "id": "403288890",
+            "offset": 123.531921875,
+            "timeskew": 0.01363492,
+            "frequencyskew": -0.00070858
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691633275272,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "60898212",
+        "title": "Spanglers Dub",
+        "subtitle": "Junia Walker AllStars",
+        "images": {
+            "background": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/64/ae/cb/64aecba4-9f55-f020-953c-d32d42e183f1/888608367219.jpg/400x400cc.jpg",
+            "coverart": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/64/ae/cb/64aecba4-9f55-f020-953c-d32d42e183f1/888608367219.jpg/400x400cc.jpg",
+            "coverarthq": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/64/ae/cb/64aecba4-9f55-f020-953c-d32d42e183f1/888608367219.jpg/400x400cc.jpg",
+            "joecolor": "b:a13100p:fdfd20s:fbaa48t:ebd419q:e99239"
+        },
+        "share": {
+            "subject": "Spanglers Dub - Junia Walker AllStars",
+            "text": "Spanglers Dub by Junia Walker AllStars",
+            "href": "https://www.shazam.com/track/60898212/spanglers-dub",
+            "image": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/64/ae/cb/64aecba4-9f55-f020-953c-d32d42e183f1/888608367219.jpg/400x400cc.jpg",
+            "twitter": "I used @Shazam to discover Spanglers Dub by Junia Walker AllStars.",
+            "html": "https://www.shazam.com/snippets/email-share/60898212?lang=en-US&country=GB",
+            "snapchat": "https://www.shazam.com/partner/sc/track/60898212"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "actions": [
+                {
+                    "name": "apple",
+                    "type": "applemusicplay",
+                    "id": "809278468"
+                },
+                {
+                    "name": "apple",
+                    "type": "uri",
+                    "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/d8/33/bf/d833bf81-3764-5fb0-33e0-ba80d72ca583/mzaf_9644551854807023635.plus.aac.ep.m4a"
+                }
+            ],
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/gb/album/spanglers-dub/809278179?i=809278468&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/gb/album/spanglers-dub/809278179?i=809278468&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                },
+                {
+                    "caption": "BUY",
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "uri": "https://itunes.apple.com/gb/album/spanglers-dub/809278179?i=809278468&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "buy",
+                        "providername": "itunes"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "type": "buy",
+                    "listcaption": "Buy on iTunes",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "itunes"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:Spanglers%20Dub%20Junia%20Walker%20AllStars"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27Spanglers+Dub%27%20artist%3A%27Junia+Walker+AllStars%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": false,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [
+                    {
+                        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/64/ae/cb/64aecba4-9f55-f020-953c-d32d42e183f1/888608367219.jpg/400x400cc.jpg",
+                        "caption": "Spanglers Dub"
+                    }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                    {
+                        "title": "Album",
+                        "text": "Jusic 30 Years of Dub and More"
+                    },
+                    {
+                        "title": "Label",
+                        "text": "Jusic International  Label"
+                    },
+                    {
+                        "title": "Released",
+                        "text": "2014"
+                    }
+                ]
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/60898212/youtube/video?q=Junia+Walker+AllStars+%22Spanglers+Dub%22"
+            },
+            {
+                "type": "RELATED",
+                "url": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-60898212?startFrom=0&pageSize=20&connected=",
+                "tabname": "Related"
+            }
+        ],
+        "url": "https://www.shazam.com/track/60898212/spanglers-dub",
+        "artists": [
+            {
+                "id": "42",
+                "adamid": "79377710"
+            }
+        ],
+        "isrc": "GBJXC1400217",
+        "genres": {
+            "primary": "Dub"
+        },
+        "urlparams": {
+            "{tracktitle}": "Spanglers+Dub",
+            "{trackartist}": "Junia+Walker+AllStars"
+        },
+        "myshazam": {
+            "apple": {
+                "actions": [
+                    {
+                        "name": "myshazam:apple",
+                        "type": "uri",
+                        "uri": "https://music.apple.com/gb/album/spanglers-dub/809278179?i=809278468&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                ]
+            }
+        },
+        "highlightsurls": {
+            "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/79377710/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+        },
+        "relatedtracksurl": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-60898212?startFrom=0&pageSize=20&connected=",
+        "albumadamid": "809278179"
+    },
+    "tagid": "BF31A104-B4C8-4C8D-8940-18405A3489C8"
+}

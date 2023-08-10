@@ -1,0 +1,255 @@
+{
+    "matches": [
+        {
+            "id": "234092137",
+            "offset": 30.1686875,
+            "timeskew": -2.7954578e-05,
+            "frequencyskew": -0.00040262938
+        },
+        {
+            "id": "256024736",
+            "offset": 30.154808593000002,
+            "timeskew": -0.00036287308,
+            "frequencyskew": -0.00028187037
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691633692571,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "233061",
+        "title": "The Trooper",
+        "subtitle": "Iron Maiden",
+        "images": {
+            "background": "https://is2-ssl.mzstatic.com/image/thumb/AMCArtistImages126/v4/f3/31/66/f331663d-58d6-6384-67f8-db128d80c595/edab5d8f-8259-48f4-b132-7affc73b4ee9_ami-identity-fee7c2067942b66dfa71ed95e525c1dd-2023-06-16T13-38-48.218Z_cropped.png/800x800cc.jpg",
+            "coverart": "https://is2-ssl.mzstatic.com/image/thumb/Music125/v4/6a/d3/a6/6ad3a693-2eee-8fc7-5a33-06f1a5409f8c/825646129201.jpg/400x400cc.jpg",
+            "coverarthq": "https://is2-ssl.mzstatic.com/image/thumb/Music125/v4/6a/d3/a6/6ad3a693-2eee-8fc7-5a33-06f1a5409f8c/825646129201.jpg/400x400cc.jpg",
+            "joecolor": "b:060d05p:fcc835s:f62b29t:cba22bq:c62522"
+        },
+        "share": {
+            "subject": "The Trooper - Iron Maiden",
+            "text": "The Trooper by Iron Maiden",
+            "href": "https://www.shazam.com/track/233061/the-trooper",
+            "image": "https://is2-ssl.mzstatic.com/image/thumb/Music125/v4/6a/d3/a6/6ad3a693-2eee-8fc7-5a33-06f1a5409f8c/825646129201.jpg/400x400cc.jpg",
+            "twitter": "I used @Shazam to discover The Trooper by Iron Maiden.",
+            "html": "https://www.shazam.com/snippets/email-share/233061?lang=en-US&country=GB",
+            "avatar": "https://is2-ssl.mzstatic.com/image/thumb/AMCArtistImages126/v4/f3/31/66/f331663d-58d6-6384-67f8-db128d80c595/edab5d8f-8259-48f4-b132-7affc73b4ee9_ami-identity-fee7c2067942b66dfa71ed95e525c1dd-2023-06-16T13-38-48.218Z_cropped.png/800x800cc.jpg",
+            "snapchat": "https://www.shazam.com/partner/sc/track/233061"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "actions": [
+                {
+                    "name": "apple",
+                    "type": "applemusicplay",
+                    "id": "979938033"
+                },
+                {
+                    "name": "apple",
+                    "type": "uri",
+                    "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/45/36/5b/45365b3d-e152-065e-8a2c-8c4a7448387e/mzaf_2703590284247542386.plus.aac.ep.m4a"
+                }
+            ],
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/gb/album/the-trooper/979936834?i=979938033&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/gb/album/the-trooper/979936834?i=979938033&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                },
+                {
+                    "caption": "BUY",
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "uri": "https://itunes.apple.com/gb/album/the-trooper/979936834?i=979938033&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "buy",
+                        "providername": "itunes"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "type": "buy",
+                    "listcaption": "Buy on iTunes",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "itunes"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:The%20Trooper%20Iron%20Maiden"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27The+Trooper%27%20artist%3A%27Iron+Maiden%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": false,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [
+                    {
+                        "image": "https://is2-ssl.mzstatic.com/image/thumb/AMCArtistImages126/v4/f3/31/66/f331663d-58d6-6384-67f8-db128d80c595/edab5d8f-8259-48f4-b132-7affc73b4ee9_ami-identity-fee7c2067942b66dfa71ed95e525c1dd-2023-06-16T13-38-48.218Z_cropped.png/800x800cc.jpg",
+                        "caption": "Iron Maiden"
+                    },
+                    {
+                        "image": "https://is2-ssl.mzstatic.com/image/thumb/Music125/v4/6a/d3/a6/6ad3a693-2eee-8fc7-5a33-06f1a5409f8c/825646129201.jpg/400x400cc.jpg",
+                        "caption": "The Trooper"
+                    }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                    {
+                        "title": "Album",
+                        "text": "Piece of Mind"
+                    },
+                    {
+                        "title": "Label",
+                        "text": "Parlophone UK"
+                    },
+                    {
+                        "title": "Released",
+                        "text": "1983"
+                    }
+                ]
+            },
+            {
+                "type": "LYRICS",
+                "text": [
+                    "You'll take my life, but I'll take yours too",
+                    "You'll fire your musket, but I'll run you through",
+                    "So when you're waiting for the next attack",
+                    "You'd better stand, there's no turning back",
+                    "",
+                    "The bugle sounds, the charge begins",
+                    "But on this battlefield, no one wins",
+                    "The smell of acrid smoke and horses' breath",
+                    "As I plunge on into certain death",
+                    "",
+                    "The horse, he sweats with fear, we break to run",
+                    "The mighty roar of the Russian guns",
+                    "And as we race towards the human wall",
+                    "The screams of pain as my comrades fall",
+                    "",
+                    "We hurdle bodies that lay on the ground",
+                    "And the Russians fire another round",
+                    "We get so near, yet so far away",
+                    "We won't live to fight another day",
+                    "",
+                    "We get so close, near enough to fight",
+                    "When a Russian gets me in his sights",
+                    "He pulls the trigger and I feel the blow",
+                    "A burst of rounds take my horse below",
+                    "",
+                    "And as I lay there gazing at the sky",
+                    "My body's numb and my throat is dry",
+                    "And as I lay forgotten and alone",
+                    "Without a tear, I draw my parting groan"
+                ],
+                "url": "https://cdn.shazam.com/lyrics/v1/en-US/GB/iphone/musixmatch/subtitles/805173/250/1?token=8960c62334d7f30246a5ddacbf6cd546",
+                "footer": "Writer(s): Stephen Percy Harris\nLyrics powered by www.musixmatch.com",
+                "tabname": "Lyrics",
+                "beacondata": {
+                    "lyricsid": "19782532",
+                    "providername": "musixmatch",
+                    "commontrackid": "805173"
+                }
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/233061/youtube/video?q=Iron+Maiden+%22The+Trooper%22"
+            },
+            {
+                "type": "RELATED",
+                "url": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-233061?startFrom=0&pageSize=20&connected=",
+                "tabname": "Related"
+            }
+        ],
+        "url": "https://www.shazam.com/track/233061/the-trooper",
+        "artists": [
+            {
+                "id": "42",
+                "adamid": "546381"
+            }
+        ],
+        "isrc": "GBCHB1500031",
+        "genres": {
+            "primary": "Metal"
+        },
+        "urlparams": {
+            "{tracktitle}": "The+Trooper",
+            "{trackartist}": "Iron+Maiden"
+        },
+        "myshazam": {
+            "apple": {
+                "actions": [
+                    {
+                        "name": "myshazam:apple",
+                        "type": "uri",
+                        "uri": "https://music.apple.com/gb/album/the-trooper/979936834?i=979938033&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                ]
+            }
+        },
+        "highlightsurls": {
+            "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/546381/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios&videoIdToFilter=1074507934",
+            "trackhighlighturl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/highlights/1074507934?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+        },
+        "relatedtracksurl": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-233061?startFrom=0&pageSize=20&connected=",
+        "albumadamid": "979936834"
+    },
+    "tagid": "546678EB-48C9-41A4-B813-861FB14AC80F"
+}

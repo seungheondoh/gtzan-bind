@@ -1,0 +1,264 @@
+{
+    "matches": [
+        {
+            "id": "237543699",
+            "offset": 30.074597656,
+            "timeskew": 8.261204e-05,
+            "frequencyskew": -0.000120818615
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691633648251,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "10250710",
+        "title": "Made of Stone",
+        "subtitle": "The Stone Roses",
+        "images": {
+            "background": "https://is5-ssl.mzstatic.com/image/thumb/Features115/v4/93/38/10/93381084-ef07-4f04-16e0-3f5120d3d850/mza_7360562026449807387.png/800x800cc.jpg",
+            "coverart": "https://is2-ssl.mzstatic.com/image/thumb/Music124/v4/dd/c6/5f/ddc65f19-f7fe-c708-74c8-6ac2bfe16f3b/mzi.czfvtuoi.jpg/400x400cc.jpg",
+            "coverarthq": "https://is2-ssl.mzstatic.com/image/thumb/Music124/v4/dd/c6/5f/ddc65f19-f7fe-c708-74c8-6ac2bfe16f3b/mzi.czfvtuoi.jpg/400x400cc.jpg",
+            "joecolor": "b:2a1912p:fffff4s:dabc80t:d4d0c6q:b79b6a"
+        },
+        "share": {
+            "subject": "Made of Stone - The Stone Roses",
+            "text": "Made of Stone by The Stone Roses",
+            "href": "https://www.shazam.com/track/10250710/made-of-stone",
+            "image": "https://is2-ssl.mzstatic.com/image/thumb/Music124/v4/dd/c6/5f/ddc65f19-f7fe-c708-74c8-6ac2bfe16f3b/mzi.czfvtuoi.jpg/400x400cc.jpg",
+            "twitter": "I used @Shazam to discover Made of Stone by The Stone Roses.",
+            "html": "https://www.shazam.com/snippets/email-share/10250710?lang=en-US&country=GB",
+            "avatar": "https://is5-ssl.mzstatic.com/image/thumb/Features115/v4/93/38/10/93381084-ef07-4f04-16e0-3f5120d3d850/mza_7360562026449807387.png/800x800cc.jpg",
+            "snapchat": "https://www.shazam.com/partner/sc/track/10250710"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "actions": [
+                {
+                    "name": "apple",
+                    "type": "applemusicplay",
+                    "id": "325540034"
+                },
+                {
+                    "name": "apple",
+                    "type": "uri",
+                    "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/5c/f8/ff/5cf8ff37-4152-d2a0-ae5d-b9b2ad06f2a6/mzaf_14227106534107206535.plus.aac.ep.m4a"
+                }
+            ],
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/gb/album/made-of-stone/325539526?i=325540034&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/gb/album/made-of-stone/325539526?i=325540034&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                },
+                {
+                    "caption": "BUY",
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "uri": "https://itunes.apple.com/gb/album/made-of-stone/325539526?i=325540034&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "buy",
+                        "providername": "itunes"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "type": "buy",
+                    "listcaption": "Buy on iTunes",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "itunes"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:Made%20of%20Stone%20The%20Stone%20Roses"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27Made+of+Stone%27%20artist%3A%27The+Stone+Roses%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": false,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [
+                    {
+                        "image": "https://is5-ssl.mzstatic.com/image/thumb/Features115/v4/93/38/10/93381084-ef07-4f04-16e0-3f5120d3d850/mza_7360562026449807387.png/800x800cc.jpg",
+                        "caption": "The Stone Roses"
+                    },
+                    {
+                        "image": "https://is2-ssl.mzstatic.com/image/thumb/Music124/v4/dd/c6/5f/ddc65f19-f7fe-c708-74c8-6ac2bfe16f3b/mzi.czfvtuoi.jpg/400x400cc.jpg",
+                        "caption": "Made of Stone"
+                    }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                    {
+                        "title": "Album",
+                        "text": "The Stone Roses (20th Anniversary Collector's Edition)"
+                    },
+                    {
+                        "title": "Label",
+                        "text": "Silvertone"
+                    },
+                    {
+                        "title": "Released",
+                        "text": "1989"
+                    }
+                ]
+            },
+            {
+                "type": "LYRICS",
+                "text": [
+                    "Your knuckles whiten on the wheel",
+                    "The last thing that your hands will feel",
+                    "Your final flight can't be delayed",
+                    "",
+                    "No Earth, just sky, it's so serene",
+                    "Your pink fat lips let go a scream",
+                    "You fry and melt, I love the scene",
+                    "",
+                    "Sometimes I fantasize",
+                    "When the streets are cold and lonely",
+                    "And the cars they burn below me",
+                    "Don't these times",
+                    "Fill your eyes?",
+                    "When the streets are cold and lonely",
+                    "And the cars they burn below me",
+                    "Are you all alone?",
+                    "Is anybody home?",
+                    "",
+                    "I'm standing warm against the cold",
+                    "Now that the flames have taken hold",
+                    "At least you left your life in style",
+                    "",
+                    "And for as far as I can see",
+                    "Ten twisted grills grin back at me",
+                    "Bad money dies, I love the scene",
+                    "",
+                    "Sometimes I fantasize",
+                    "When the streets are cold and lonely",
+                    "And the cars they burn below me",
+                    "Don't these times",
+                    "Fill your eyes?",
+                    "When the streets are cold and lonely",
+                    "And the cars they burn below me",
+                    "Are you all alone?",
+                    "Is anybody home?",
+                    "",
+                    "Sometimes I fantasize",
+                    "When the streets are cold and lonely",
+                    "And the cars they burn below me",
+                    "Don't these times",
+                    "Fill your eyes?",
+                    "When the streets are cold and lonely",
+                    "And the cars they burn below me",
+                    "Are you all alone?",
+                    "Are you made of stone?"
+                ],
+                "url": "https://cdn.shazam.com/lyrics/v1/en-US/GB/iphone/musixmatch/subtitles/6278/253/1?token=fc7a73a4d24d022e918f2c1da0e4d1d4",
+                "footer": "Writer(s): Ian George Brown, John Squire\nLyrics powered by www.musixmatch.com",
+                "tabname": "Lyrics",
+                "beacondata": {
+                    "lyricsid": "28249035",
+                    "providername": "musixmatch",
+                    "commontrackid": "6278"
+                }
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/10250710/youtube/video?q=The+Stone+Roses+%22Made+of+Stone%22"
+            },
+            {
+                "type": "RELATED",
+                "url": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-10250710?startFrom=0&pageSize=20&connected=",
+                "tabname": "Related"
+            }
+        ],
+        "url": "https://www.shazam.com/track/10250710/made-of-stone",
+        "artists": [
+            {
+                "id": "42",
+                "adamid": "158384403"
+            }
+        ],
+        "isrc": "GBAHJ0900008",
+        "genres": {
+            "primary": "Alternative"
+        },
+        "urlparams": {
+            "{tracktitle}": "Made+of+Stone",
+            "{trackartist}": "The+Stone+Roses"
+        },
+        "myshazam": {
+            "apple": {
+                "actions": [
+                    {
+                        "name": "myshazam:apple",
+                        "type": "uri",
+                        "uri": "https://music.apple.com/gb/album/made-of-stone/325539526?i=325540034&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                ]
+            }
+        },
+        "highlightsurls": {
+            "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/158384403/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+        },
+        "relatedtracksurl": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-10250710?startFrom=0&pageSize=20&connected=",
+        "albumadamid": "325539526"
+    },
+    "tagid": "140E0D1C-D2A9-46CC-A197-D2A4D09B6599"
+}

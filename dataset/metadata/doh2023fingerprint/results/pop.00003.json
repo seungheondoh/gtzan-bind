@@ -1,0 +1,272 @@
+{
+    "matches": [
+        {
+            "id": "292553788",
+            "offset": 29.995648437,
+            "timeskew": 0.00023174286,
+            "frequencyskew": 4.029274e-05
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691632780116,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "42054298",
+        "title": "Hand In My Pocket",
+        "subtitle": "Alanis Morissette",
+        "images": {
+            "background": "https://is5-ssl.mzstatic.com/image/thumb/Features125/v4/21/30/52/2130527d-d2cc-b3de-fb7e-6e4f400e5c45/mza_9397103542788987636.png/800x800cc.jpg",
+            "coverart": "https://is3-ssl.mzstatic.com/image/thumb/Features124/v4/5f/3b/ca/5f3bca60-024c-d4aa-d638-6d58e7e81461/mza_1406686761081396977.jpg/400x400cc.jpg",
+            "coverarthq": "https://is3-ssl.mzstatic.com/image/thumb/Features124/v4/5f/3b/ca/5f3bca60-024c-d4aa-d638-6d58e7e81461/mza_1406686761081396977.jpg/400x400cc.jpg",
+            "joecolor": "b:e1d9ccp:0a0805s:0b0a07t:35322dq:36332e"
+        },
+        "share": {
+            "subject": "Hand In My Pocket - Alanis Morissette",
+            "text": "Hand In My Pocket by Alanis Morissette",
+            "href": "https://www.shazam.com/track/42054298/hand-in-my-pocket",
+            "image": "https://is3-ssl.mzstatic.com/image/thumb/Features124/v4/5f/3b/ca/5f3bca60-024c-d4aa-d638-6d58e7e81461/mza_1406686761081396977.jpg/400x400cc.jpg",
+            "twitter": "I used @Shazam to discover Hand In My Pocket by Alanis Morissette.",
+            "html": "https://www.shazam.com/snippets/email-share/42054298?lang=en-US&country=GB",
+            "avatar": "https://is5-ssl.mzstatic.com/image/thumb/Features125/v4/21/30/52/2130527d-d2cc-b3de-fb7e-6e4f400e5c45/mza_9397103542788987636.png/800x800cc.jpg",
+            "snapchat": "https://www.shazam.com/partner/sc/track/42054298"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "actions": [
+                {
+                    "name": "apple",
+                    "type": "applemusicplay",
+                    "id": "1031419962"
+                },
+                {
+                    "name": "apple",
+                    "type": "uri",
+                    "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/a2/3a/1d/a23a1d99-2889-775d-4d26-76049a6bfa1e/mzaf_12772132048354738018.plus.aac.ep.m4a"
+                }
+            ],
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/gb/album/hand-in-my-pocket/1031419290?i=1031419962&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/gb/album/hand-in-my-pocket/1031419290?i=1031419962&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                },
+                {
+                    "caption": "BUY",
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "uri": "https://itunes.apple.com/gb/album/hand-in-my-pocket/1031419290?i=1031419962&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "buy",
+                        "providername": "itunes"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "type": "buy",
+                    "listcaption": "Buy on iTunes",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "itunes"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:Hand%20In%20My%20Pocket%20Alanis%20Morissette"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27Hand+In+My+Pocket%27%20artist%3A%27Alanis+Morissette%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": false,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [
+                    {
+                        "image": "https://is5-ssl.mzstatic.com/image/thumb/Features125/v4/21/30/52/2130527d-d2cc-b3de-fb7e-6e4f400e5c45/mza_9397103542788987636.png/800x800cc.jpg",
+                        "caption": "Alanis Morissette"
+                    },
+                    {
+                        "image": "https://is3-ssl.mzstatic.com/image/thumb/Features124/v4/5f/3b/ca/5f3bca60-024c-d4aa-d638-6d58e7e81461/mza_1406686761081396977.jpg/400x400cc.jpg",
+                        "caption": "Hand In My Pocket"
+                    }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                    {
+                        "title": "Album",
+                        "text": "Jagged Little Pill (Collector's Edition)"
+                    },
+                    {
+                        "title": "Label",
+                        "text": "Rhino/Warner Records"
+                    },
+                    {
+                        "title": "Released",
+                        "text": "1995"
+                    }
+                ]
+            },
+            {
+                "type": "LYRICS",
+                "text": [
+                    "I'm broke but I'm happy",
+                    "I'm poor but I'm kind",
+                    "I'm short but I'm healthy, yeah",
+                    "",
+                    "I'm high but I'm grounded",
+                    "I'm sane but I'm overwhelmed",
+                    "I'm lost but I'm hopeful, baby",
+                    "",
+                    "And what it all comes down to",
+                    "Is that everything's gonna be fine, fine, fine",
+                    "'Cause I've got one hand in my pocket",
+                    "And the other one is giving a high five",
+                    "",
+                    "Well, I feel drunk but I'm sober",
+                    "I'm young and I'm underpaid",
+                    "I'm tired but I'm working, yeah",
+                    "",
+                    "I care but I'm restless",
+                    "I'm here but I'm really gone",
+                    "I'm wrong and I'm sorry, baby",
+                    "",
+                    "And what it all comes down to",
+                    "Is that everything's gonna be quite alright",
+                    "'Cause I've got one hand in my pocket",
+                    "And the other one is flicking a cigarette",
+                    "",
+                    "And what it all comes down to",
+                    "Is I haven't got it all figured out just yet",
+                    "Yeah, yeah, yeah, oh",
+                    "'Cause I've got one hand in my pocket",
+                    "And the other one is giving a peace sign",
+                    "",
+                    "I'm free but I'm focused",
+                    "I'm green but I'm wise",
+                    "I'm hard but I'm friendly, baby",
+                    "",
+                    "I'm sad but I'm laughing",
+                    "I'm brave but I'm chicken shit",
+                    "I'm sick but I'm pretty, baby",
+                    "",
+                    "And what it all boils down to",
+                    "Is that no one's really got it figured out just yet",
+                    "Yeah, yeah, yeah, oh",
+                    "'Cause I've got one hand in my pocket",
+                    "And the other one is playing a piano",
+                    "",
+                    "And what it all comes down to my dear friends, yeah, yeah",
+                    "Is that everything is just fine, fine, fine, fine",
+                    "'Cause I've got one hand in my pocket",
+                    "And the other one is hailing a taxi cab",
+                    "",
+                    "Thank you"
+                ],
+                "url": "https://cdn.shazam.com/lyrics/v1/en-US/GB/iphone/musixmatch/subtitles/15405430/222/1?token=19cd48e7466b05187866d4f6955eab90",
+                "footer": "Writer(s): Glen Ballard, Alanis Nadine Morissette\nLyrics powered by www.musixmatch.com",
+                "tabname": "Lyrics",
+                "beacondata": {
+                    "lyricsid": "24592010",
+                    "providername": "musixmatch",
+                    "commontrackid": "15405430"
+                }
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/42054298/youtube/video?q=Alanis+Morissette+%22Hand+In+My+Pocket%22"
+            },
+            {
+                "type": "RELATED",
+                "url": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-42054298?startFrom=0&pageSize=20&connected=",
+                "tabname": "Related"
+            }
+        ],
+        "url": "https://www.shazam.com/track/42054298/hand-in-my-pocket",
+        "artists": [
+            {
+                "id": "42",
+                "adamid": "1092859"
+            }
+        ],
+        "isrc": "USMV21500039",
+        "genres": {
+            "primary": "Alternative"
+        },
+        "urlparams": {
+            "{tracktitle}": "Hand+In+My+Pocket",
+            "{trackartist}": "Alanis+Morissette"
+        },
+        "myshazam": {
+            "apple": {
+                "actions": [
+                    {
+                        "name": "myshazam:apple",
+                        "type": "uri",
+                        "uri": "https://music.apple.com/gb/album/hand-in-my-pocket/1031419290?i=1031419962&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                ]
+            }
+        },
+        "highlightsurls": {
+            "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/1092859/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios&videoIdToFilter=281896833",
+            "trackhighlighturl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/highlights/281896833?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+        },
+        "relatedtracksurl": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-42054298?startFrom=0&pageSize=20&connected=",
+        "albumadamid": "1031419290"
+    },
+    "tagid": "A8B7116E-7F36-47A2-AE11-C5251103509B"
+}

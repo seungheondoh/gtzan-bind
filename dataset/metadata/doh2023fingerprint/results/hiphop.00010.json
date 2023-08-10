@@ -1,0 +1,302 @@
+{
+    "matches": [
+        {
+            "id": "211222084",
+            "offset": 30.029019531000003,
+            "timeskew": 2.026558e-06,
+            "frequencyskew": -4.029274e-05
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691632888458,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "10523928",
+        "title": "Skills to Pay the Bills",
+        "subtitle": "Beastie Boys",
+        "images": {
+            "background": "https://is5-ssl.mzstatic.com/image/thumb/Features115/v4/16/2c/76/162c767d-b00a-5664-1548-df303ae12729/mza_8084110850478364065.png/800x800cc.jpg",
+            "coverart": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/3e/2e/d4/3e2ed421-dbc4-a027-060d-1625daa3bbb4/00724352294053.rgb.jpg/400x400cc.jpg",
+            "coverarthq": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/3e/2e/d4/3e2ed421-dbc4-a027-060d-1625daa3bbb4/00724352294053.rgb.jpg/400x400cc.jpg",
+            "joecolor": "b:ffffffp:070201s:262726t:393534q:515251"
+        },
+        "share": {
+            "subject": "Skills to Pay the Bills - Beastie Boys",
+            "text": "Skills to Pay the Bills by Beastie Boys",
+            "href": "https://www.shazam.com/track/10523928/skills-to-pay-the-bills",
+            "image": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/3e/2e/d4/3e2ed421-dbc4-a027-060d-1625daa3bbb4/00724352294053.rgb.jpg/400x400cc.jpg",
+            "twitter": "I used @Shazam to discover Skills to Pay the Bills by Beastie Boys.",
+            "html": "https://www.shazam.com/snippets/email-share/10523928?lang=en-US&country=GB",
+            "avatar": "https://is5-ssl.mzstatic.com/image/thumb/Features115/v4/16/2c/76/162c767d-b00a-5664-1548-df303ae12729/mza_8084110850478364065.png/800x800cc.jpg",
+            "snapchat": "https://www.shazam.com/partner/sc/track/10523928"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "actions": [
+                {
+                    "name": "apple",
+                    "type": "applemusicplay",
+                    "id": "724618810"
+                },
+                {
+                    "name": "apple",
+                    "type": "uri",
+                    "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/89/f6/bb/89f6bb35-2b0f-bba9-6d76-d0a7779e33ba/mzaf_14346121891416947583.plus.aac.ep.m4a"
+                }
+            ],
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/gb/album/skills-to-pay-the-bills/724618302?i=724618810&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/gb/album/skills-to-pay-the-bills/724618302?i=724618810&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                },
+                {
+                    "caption": "BUY",
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "uri": "https://itunes.apple.com/gb/album/skills-to-pay-the-bills/724618302?i=724618810&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "buy",
+                        "providername": "itunes"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "type": "buy",
+                    "listcaption": "Buy on iTunes",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "itunes"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:Skills%20to%20Pay%20the%20Bills%20Beastie%20Boys"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27Skills+to+Pay+the+Bills%27%20artist%3A%27Beastie+Boys%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": true,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [
+                    {
+                        "image": "https://is5-ssl.mzstatic.com/image/thumb/Features115/v4/16/2c/76/162c767d-b00a-5664-1548-df303ae12729/mza_8084110850478364065.png/800x800cc.jpg",
+                        "caption": "Beastie Boys"
+                    },
+                    {
+                        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/3e/2e/d4/3e2ed421-dbc4-a027-060d-1625daa3bbb4/00724352294053.rgb.jpg/400x400cc.jpg",
+                        "caption": "Skills to Pay the Bills"
+                    }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                    {
+                        "title": "Album",
+                        "text": "Anthology: The Sounds of Science"
+                    },
+                    {
+                        "title": "Label",
+                        "text": "Capitol Records"
+                    },
+                    {
+                        "title": "Released",
+                        "text": "1999"
+                    }
+                ]
+            },
+            {
+                "type": "LYRICS",
+                "text": [
+                    "I've got the skills to pay the bills",
+                    "I got the, got the, got the skills to pay the bills",
+                    "I've got the skills to pay the bills",
+                    "What you got? I got the skills to pay the bills",
+                    "",
+                    "I'm Mike D and I'm bustin' out trap kits",
+                    "The time has come so I'm going to rap this",
+                    "You Rip Van Winkle, now you're gonna wake up",
+                    "MCs, pick up a hobby that you're gonna take up",
+                    "Well, on the stage I'm known to break fool",
+                    "But when I'm at the table, it's the Futterman's rule",
+                    "Workin' on my game 'cause it's time to tax",
+                    "I'm on a crazy mission to wax Bob Mack",
+                    "Up to the top, 'til the very last drop",
+                    "I'll make you tapes of the rhymes I say",
+                    "I'm selling sex rhymes by the pound",
+                    "You horny MCs, I watch you getting around my",
+                    "",
+                    "The skills to pay the bills",
+                    "I got the, got the, got the skills to pay the bills",
+                    "I got the, got the, got the skills to pay the bills",
+                    "I got the skills to pay the bills, ya'll",
+                    "",
+                    "So it better pull through when it comes to me",
+                    "Let it go down like it's supposed to be",
+                    "Words together like birds in a flock",
+                    "Ah yes rhymes on time like the hands on a clock",
+                    "Well, I'm an epileptic, a skept-a-cleptic",
+                    "I'm cutting up the beats from the bear, I clept it",
+                    "I fucked around and then I lost my tooth",
+                    "I'm telling everybody it's the goddamn truth",
+                    "Like Dennis Coffey, I'm a Scorpio",
+                    "Like my man Schneider, I'm a super ho",
+                    "Making mountains out of molehills and rockin' some mo' skills",
+                    "Butt naked beats with butt naked fills",
+                    "",
+                    "I got the skills (what skills?)",
+                    "To pay the bills",
+                    "I got the skills (what skills?)",
+                    "To pay the bills",
+                    "I got the skills (what skills?)",
+                    "To pay the bills",
+                    "I got the skills to pay the bills, ya'll",
+                    "",
+                    "A-wella', wella', wella', wella', welcome back",
+                    "I don't sell bullets and I don't sell crack",
+                    "Rub a little oil on my neck and back",
+                    "Now listen baby doll, we outta hit the sack",
+                    "The original, Young Aboriginal",
+                    "Continued evolution of an individual, well, I'll tell ya",
+                    "Got so many rhymes, ya know my throat is sore",
+                    "It's 1992 and still no one to vote for",
+                    "Well, like my words is what I'm seeing through my own eyes",
+                    "A little vision of the truth in a world of lies",
+                    "When it comes to coming off, I like to get my fill",
+                    "Well, I got the skills",
+                    "",
+                    "I got the skills to pay the bills",
+                    "I got the, got the, got the skills to pay the bills",
+                    "What you got, Mike? My skills to pay the bills",
+                    "I got the skills to pay the bills, y'all",
+                    "",
+                    "Woo, getta, got, gotta, got, gotta, got some",
+                    "We got the mad skills in '92, boy",
+                    "Yeah, you know what I'm saying",
+                    "Skills, y'all, I got skills to pay the bills",
+                    "Skills, y'all, skills to pay the bills",
+                    "What skills? Skills, skills to pay the bills",
+                    "Yeah, yeah, skills to pay the bills",
+                    "",
+                    "What skills? Money, money",
+                    "What skills? Money, money",
+                    "What skills? Makin', makin', makin' money",
+                    "What skills? Makin', makin' money",
+                    "What skills, ya'll? I gotta pay the bills",
+                    "I got skills, y'all, to pay the bills",
+                    "I got skills, ya'll",
+                    "I got a, I got a, dollar, dollar bills, ya'll",
+                    "I gotta pay the rent",
+                    "I got skills to pay the rent",
+                    "Mario C, yeah, he's paid the bills",
+                    "Mike D, y'all, you know I pay the bills",
+                    "Ad-Rock, yeah, let's pay the bills"
+                ],
+                "url": "https://cdn.shazam.com/lyrics/v1/en-US/GB/iphone/musixmatch/subtitles/777027/193/1?token=e68a0d93edbd34b25ea79b2b2ce0eda3",
+                "footer": "Writer(s): Michael Louis Diamond, Adam Horovitz, Adam Nathaniel Yauch\nLyrics powered by www.musixmatch.com",
+                "tabname": "Lyrics",
+                "beacondata": {
+                    "lyricsid": "29909932",
+                    "providername": "musixmatch",
+                    "commontrackid": "777027"
+                }
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/10523928/youtube/video?q=Beastie+Boys+%22Skills+to+Pay+the+Bills%22"
+            },
+            {
+                "type": "RELATED",
+                "url": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-10523928?startFrom=0&pageSize=20&connected=",
+                "tabname": "Related"
+            }
+        ],
+        "url": "https://www.shazam.com/track/10523928/skills-to-pay-the-bills",
+        "artists": [
+            {
+                "id": "42",
+                "adamid": "1971863"
+            }
+        ],
+        "isrc": "USCA29901029",
+        "genres": {
+            "primary": "Hip-Hop/Rap"
+        },
+        "urlparams": {
+            "{tracktitle}": "Skills+to+Pay+the+Bills",
+            "{trackartist}": "Beastie+Boys"
+        },
+        "myshazam": {
+            "apple": {
+                "actions": [
+                    {
+                        "name": "myshazam:apple",
+                        "type": "uri",
+                        "uri": "https://music.apple.com/gb/album/skills-to-pay-the-bills/724618302?i=724618810&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                ]
+            }
+        },
+        "highlightsurls": {
+            "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/1971863/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+        },
+        "relatedtracksurl": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-10523928?startFrom=0&pageSize=20&connected=",
+        "albumadamid": "724618302"
+    },
+    "tagid": "D99A396D-EDA8-4032-A679-9AB7F1E5FEE0"
+}

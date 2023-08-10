@@ -1,0 +1,249 @@
+{
+    "matches": [
+        {
+            "id": "283571975",
+            "offset": 30.017451171,
+            "timeskew": -0.0013257861,
+            "frequencyskew": -0.0012074709
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691632641162,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "53488660",
+        "title": "Sugar Mama",
+        "subtitle": "John Lee Hooker",
+        "images": {
+            "background": "https://is3-ssl.mzstatic.com/image/thumb/Features125/v4/37/a2/79/37a279e5-d29c-f554-8c32-21263bf40a04/mzl.fijrwzwn.jpg/800x800cc.jpg",
+            "coverart": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/b5/5a/68/b55a68dd-6a9b-75b6-6ed1-47cd273cac5d/00076732925829.rgb.jpg/400x400cc.jpg",
+            "coverarthq": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/b5/5a/68/b55a68dd-6a9b-75b6-6ed1-47cd273cac5d/00076732925829.rgb.jpg/400x400cc.jpg",
+            "joecolor": "b:ffffffp:070507s:3c252ft:393738q:635058"
+        },
+        "share": {
+            "subject": "Sugar Mama - John Lee Hooker",
+            "text": "Sugar Mama by John Lee Hooker",
+            "href": "https://www.shazam.com/track/53488660/sugar-mama",
+            "image": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/b5/5a/68/b55a68dd-6a9b-75b6-6ed1-47cd273cac5d/00076732925829.rgb.jpg/400x400cc.jpg",
+            "twitter": "I used @Shazam to discover Sugar Mama by John Lee Hooker.",
+            "html": "https://www.shazam.com/snippets/email-share/53488660?lang=en-US&country=GB",
+            "avatar": "https://is3-ssl.mzstatic.com/image/thumb/Features125/v4/37/a2/79/37a279e5-d29c-f554-8c32-21263bf40a04/mzl.fijrwzwn.jpg/800x800cc.jpg",
+            "snapchat": "https://www.shazam.com/partner/sc/track/53488660"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "actions": [
+                {
+                    "name": "apple",
+                    "type": "applemusicplay",
+                    "id": "1443927312"
+                },
+                {
+                    "name": "apple",
+                    "type": "uri",
+                    "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/97/fa/00/97fa00df-3958-be7e-5018-276d211df14e/mzaf_10051614486042247130.plus.aac.ep.m4a"
+                }
+            ],
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/gb/album/sugar-mama/1443926831?i=1443927312&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/gb/album/sugar-mama/1443926831?i=1443927312&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                },
+                {
+                    "caption": "BUY",
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "uri": "https://itunes.apple.com/gb/album/sugar-mama/1443926831?i=1443927312&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "buy",
+                        "providername": "itunes"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "type": "buy",
+                    "listcaption": "Buy on iTunes",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "itunes"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:Sugar%20Mama%20John%20Lee%20Hooker"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27Sugar+Mama%27%20artist%3A%27John+Lee+Hooker%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": false,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [
+                    {
+                        "image": "https://is3-ssl.mzstatic.com/image/thumb/Features125/v4/37/a2/79/37a279e5-d29c-f554-8c32-21263bf40a04/mzl.fijrwzwn.jpg/800x800cc.jpg",
+                        "caption": "John Lee Hooker"
+                    },
+                    {
+                        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/b5/5a/68/b55a68dd-6a9b-75b6-6ed1-47cd273cac5d/00076732925829.rgb.jpg/400x400cc.jpg",
+                        "caption": "Sugar Mama"
+                    }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                    {
+                        "title": "Album",
+                        "text": "House of the Blues"
+                    },
+                    {
+                        "title": "Label",
+                        "text": "Geffen*"
+                    },
+                    {
+                        "title": "Released",
+                        "text": "1959"
+                    }
+                ]
+            },
+            {
+                "type": "LYRICS",
+                "text": [
+                    "Sugar Mama, Sugar Mama",
+                    "Sugar Mama, please come back to me",
+                    "Sugar Mama, Sugar Mama",
+                    "Sugar Mama, please come back to me",
+                    "Bring my granulated sugar, Sugar Mama",
+                    "Sugar mama ease my misery",
+                    "",
+                    "They been braggin' 'bout your sugar, Sugar Mama",
+                    "They been braggin' all over town",
+                    "They been braggin' 'bout your sugar",
+                    "They been braggin' all over town",
+                    "Everywhere I go, Sugar Mama",
+                    "Sugar mama, sure can hear your name",
+                    "",
+                    "We done crazy about you Sugar mama",
+                    "Because you ease my worried mind",
+                    "We done crazy about you, Sugar mama",
+                    "Because you ease my worried mind",
+                    "",
+                    "You've got something, Sugar Mama",
+                    "Ain't nobody else got but you",
+                    "",
+                    "I like my coffee sweet early in the mornin'",
+                    "You know I'm crazy 'bout my tea at night",
+                    "You know what I mean about that, Sugar Mama",
+                    "",
+                    "I like my coffee sweet early in the mornin'",
+                    "You know I'm crazy 'bout my tea at night",
+                    "Don't get my sugar three times a day, oh",
+                    "Lord, you know, me and you just can't get along right"
+                ],
+                "url": "https://cdn.shazam.com/lyrics/v1/en-US/GB/iphone/musixmatch/subtitles/242391/194/1?token=618ce046b7bb490475f909ee348baa1a",
+                "footer": "Writer(s): Gillian Williamson\nLyrics powered by www.musixmatch.com",
+                "tabname": "Lyrics",
+                "beacondata": {
+                    "lyricsid": "32216312",
+                    "providername": "musixmatch",
+                    "commontrackid": "242391"
+                }
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/53488660/youtube/video?q=John+Lee+Hooker+%22Sugar+Mama%22"
+            },
+            {
+                "type": "RELATED",
+                "url": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-53488660?startFrom=0&pageSize=20&connected=",
+                "tabname": "Related"
+            }
+        ],
+        "url": "https://www.shazam.com/track/53488660/sugar-mama",
+        "artists": [
+            {
+                "id": "42",
+                "adamid": "97536"
+            }
+        ],
+        "isrc": "USMC15246590",
+        "genres": {
+            "primary": "Blues"
+        },
+        "urlparams": {
+            "{tracktitle}": "Sugar+Mama",
+            "{trackartist}": "John+Lee+Hooker"
+        },
+        "myshazam": {
+            "apple": {
+                "actions": [
+                    {
+                        "name": "myshazam:apple",
+                        "type": "uri",
+                        "uri": "https://music.apple.com/gb/album/sugar-mama/1443926831?i=1443927312&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                ]
+            }
+        },
+        "highlightsurls": {
+            "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/97536/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+        },
+        "relatedtracksurl": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-53488660?startFrom=0&pageSize=20&connected=",
+        "albumadamid": "1443926831"
+    },
+    "tagid": "37FE9F28-C1D6-411D-A220-27FE992096F3"
+}

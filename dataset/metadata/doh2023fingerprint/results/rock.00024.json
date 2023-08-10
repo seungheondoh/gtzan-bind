@@ -1,0 +1,246 @@
+{
+    "matches": [
+        {
+            "id": "206599889",
+            "offset": 1.064119995,
+            "timeskew": 9.298325e-06,
+            "frequencyskew": 0.0
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691633588349,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "10002703",
+        "title": "Who Wants To Live Forever",
+        "subtitle": "Queen",
+        "images": {
+            "background": "https://is4-ssl.mzstatic.com/image/thumb/Features115/v4/92/51/6a/92516a08-4257-36f8-a195-671a667bf86c/mza_8897456724926114550.png/800x800cc.jpg",
+            "coverart": "https://is5-ssl.mzstatic.com/image/thumb/Music125/v4/87/b4/95/87b49583-0084-4893-f9d6-2239a845f56a/14UMGIM41691.rgb.jpg/400x400cc.jpg",
+            "coverarthq": "https://is5-ssl.mzstatic.com/image/thumb/Music125/v4/87/b4/95/87b49583-0084-4893-f9d6-2239a845f56a/14UMGIM41691.rgb.jpg/400x400cc.jpg",
+            "joecolor": "b:191b16p:f8c540s:f36567t:cba337q:c75656"
+        },
+        "share": {
+            "subject": "Who Wants To Live Forever - Queen",
+            "text": "Who Wants To Live Forever by Queen",
+            "href": "https://www.shazam.com/track/10002703/who-wants-to-live-forever",
+            "image": "https://is5-ssl.mzstatic.com/image/thumb/Music125/v4/87/b4/95/87b49583-0084-4893-f9d6-2239a845f56a/14UMGIM41691.rgb.jpg/400x400cc.jpg",
+            "twitter": "I used @Shazam to discover Who Wants To Live Forever by Queen.",
+            "html": "https://www.shazam.com/snippets/email-share/10002703?lang=en-US&country=GB",
+            "avatar": "https://is4-ssl.mzstatic.com/image/thumb/Features115/v4/92/51/6a/92516a08-4257-36f8-a195-671a667bf86c/mza_8897456724926114550.png/800x800cc.jpg",
+            "snapchat": "https://www.shazam.com/partner/sc/track/10002703"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "actions": [
+                {
+                    "name": "apple",
+                    "type": "applemusicplay",
+                    "id": "1440857950"
+                },
+                {
+                    "name": "apple",
+                    "type": "uri",
+                    "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/3e/19/8d/3e198dd6-695c-0419-d047-756fc8fef652/mzaf_17391574724526262993.plus.aac.ep.m4a"
+                }
+            ],
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/gb/album/who-wants-to-live-forever/1440857922?i=1440857950&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/gb/album/who-wants-to-live-forever/1440857922?i=1440857950&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                },
+                {
+                    "caption": "BUY",
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "uri": "https://itunes.apple.com/gb/album/who-wants-to-live-forever/1440857922?i=1440857950&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "buy",
+                        "providername": "itunes"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "type": "buy",
+                    "listcaption": "Buy on iTunes",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "itunes"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:Who%20Wants%20To%20Live%20Forever%20Queen"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27Who+Wants+To+Live+Forever%27%20artist%3A%27Queen%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": false,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [
+                    {
+                        "image": "https://is4-ssl.mzstatic.com/image/thumb/Features115/v4/92/51/6a/92516a08-4257-36f8-a195-671a667bf86c/mza_8897456724926114550.png/800x800cc.jpg",
+                        "caption": "Queen"
+                    },
+                    {
+                        "image": "https://is5-ssl.mzstatic.com/image/thumb/Music125/v4/87/b4/95/87b49583-0084-4893-f9d6-2239a845f56a/14UMGIM41691.rgb.jpg/400x400cc.jpg",
+                        "caption": "Who Wants To Live Forever"
+                    }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                    {
+                        "title": "Album",
+                        "text": "A Kind of Magic"
+                    },
+                    {
+                        "title": "Label",
+                        "text": "EMI"
+                    },
+                    {
+                        "title": "Released",
+                        "text": "1986"
+                    }
+                ]
+            },
+            {
+                "type": "LYRICS",
+                "text": [
+                    "There's no time for us",
+                    "There's no place for us",
+                    "What is this thing that builds our dreams, yet slips away from us",
+                    "",
+                    "Who wants to live forever",
+                    "Who wants to live forever",
+                    "Oh ooo oh",
+                    "There's no chance for us",
+                    "It's all decided for us",
+                    "This world has only one sweet moment set aside for us",
+                    "",
+                    "Who wants to live forever",
+                    "Who wants to live forever",
+                    "Ooh",
+                    "Who dares to love forever",
+                    "Oh oo woh, when love must die",
+                    "",
+                    "But touch my tears with your lips",
+                    "Touch my world with your fingertips",
+                    "And we can have forever",
+                    "And we can love forever",
+                    "Forever is our today",
+                    "",
+                    "Who wants to live forever",
+                    "Who wants to live forever",
+                    "Forever is our today",
+                    "Who waits forever anyway?"
+                ],
+                "url": "https://cdn.shazam.com/lyrics/v1/en-US/GB/iphone/musixmatch/subtitles/14059326/358/1?token=cabc752e3115ef1b946ebb1216b44dee",
+                "footer": "Writer(s): Brian May\nLyrics powered by www.musixmatch.com",
+                "tabname": "Lyrics",
+                "beacondata": {
+                    "lyricsid": "8719644",
+                    "providername": "musixmatch",
+                    "commontrackid": "14059326"
+                }
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/10002703/youtube/video?q=Queen+%22Who+Wants+To+Live+Forever%22"
+            },
+            {
+                "type": "RELATED",
+                "url": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-10002703?startFrom=0&pageSize=20&connected=",
+                "tabname": "Related"
+            }
+        ],
+        "url": "https://www.shazam.com/track/10002703/who-wants-to-live-forever",
+        "artists": [
+            {
+                "id": "42",
+                "adamid": "3296287"
+            }
+        ],
+        "isrc": "GBUM71106193",
+        "genres": {
+            "primary": "Rock"
+        },
+        "urlparams": {
+            "{tracktitle}": "Who+Wants+To+Live+Forever",
+            "{trackartist}": "Queen"
+        },
+        "myshazam": {
+            "apple": {
+                "actions": [
+                    {
+                        "name": "myshazam:apple",
+                        "type": "uri",
+                        "uri": "https://music.apple.com/gb/album/who-wants-to-live-forever/1440857922?i=1440857950&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                ]
+            }
+        },
+        "highlightsurls": {
+            "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/3296287/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+        },
+        "relatedtracksurl": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-10002703?startFrom=0&pageSize=20&connected=",
+        "albumadamid": "1440857922"
+    },
+    "tagid": "02B2FD79-06F4-4B95-9A4B-2C894013EDBD"
+}

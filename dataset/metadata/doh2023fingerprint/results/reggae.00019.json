@@ -1,0 +1,264 @@
+{
+    "matches": [
+        {
+            "id": "200214041",
+            "offset": 29.816529296000002,
+            "timeskew": 0.00159657,
+            "frequencyskew": 0.0016525984
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691633279912,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "5212563",
+        "title": "War",
+        "subtitle": "Bob Marley & The Wailers",
+        "images": {
+            "background": "https://is5-ssl.mzstatic.com/image/thumb/Features125/v4/0e/10/96/0e10963d-8c5d-f176-3651-796ec44d0c97/mzl.kdlmyecx.jpg/800x800cc.jpg",
+            "coverart": "https://is4-ssl.mzstatic.com/image/thumb/Music128/v4/28/66/2a/28662aae-b9ce-2957-784b-5dea18fdbe89/00602537663125.rgb.jpg/400x400cc.jpg",
+            "coverarthq": "https://is4-ssl.mzstatic.com/image/thumb/Music128/v4/28/66/2a/28662aae-b9ce-2957-784b-5dea18fdbe89/00602537663125.rgb.jpg/400x400cc.jpg",
+            "joecolor": "b:d39f77p:000301s:281717t:2a2218q:4a322a"
+        },
+        "share": {
+            "subject": "War - Bob Marley & The Wailers",
+            "text": "War by Bob Marley & The Wailers",
+            "href": "https://www.shazam.com/track/5212563/war",
+            "image": "https://is4-ssl.mzstatic.com/image/thumb/Music128/v4/28/66/2a/28662aae-b9ce-2957-784b-5dea18fdbe89/00602537663125.rgb.jpg/400x400cc.jpg",
+            "twitter": "I used @Shazam to discover War by Bob Marley & The Wailers.",
+            "html": "https://www.shazam.com/snippets/email-share/5212563?lang=en-US&country=GB",
+            "avatar": "https://is5-ssl.mzstatic.com/image/thumb/Features125/v4/0e/10/96/0e10963d-8c5d-f176-3651-796ec44d0c97/mzl.kdlmyecx.jpg/800x800cc.jpg",
+            "snapchat": "https://www.shazam.com/partner/sc/track/5212563"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "actions": [
+                {
+                    "name": "apple",
+                    "type": "applemusicplay",
+                    "id": "1440859227"
+                },
+                {
+                    "name": "apple",
+                    "type": "uri",
+                    "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/97/55/1f/97551f76-fcd7-b565-5ff1-5d67728521b1/mzaf_6626141701497377797.plus.aac.ep.m4a"
+                }
+            ],
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/gb/album/war/1440858988?i=1440859227&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/gb/album/war/1440858988?i=1440859227&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                },
+                {
+                    "caption": "BUY",
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "uri": "https://itunes.apple.com/gb/album/war/1440858988?i=1440859227&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "buy",
+                        "providername": "itunes"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "type": "buy",
+                    "listcaption": "Buy on iTunes",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "itunes"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:War%20Bob%20Marley%20%26%20The%20Wailers"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27War%27%20artist%3A%27Bob+Marley++The+Wailers%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": false,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [
+                    {
+                        "image": "https://is5-ssl.mzstatic.com/image/thumb/Features125/v4/0e/10/96/0e10963d-8c5d-f176-3651-796ec44d0c97/mzl.kdlmyecx.jpg/800x800cc.jpg",
+                        "caption": "Bob Marley & The Wailers"
+                    },
+                    {
+                        "image": "https://is4-ssl.mzstatic.com/image/thumb/Music128/v4/28/66/2a/28662aae-b9ce-2957-784b-5dea18fdbe89/00602537663125.rgb.jpg/400x400cc.jpg",
+                        "caption": "War"
+                    }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                    {
+                        "title": "Album",
+                        "text": "Rastaman Vibration (2013 Remaster)"
+                    },
+                    {
+                        "title": "Label",
+                        "text": "Island Records"
+                    },
+                    {
+                        "title": "Released",
+                        "text": "1976"
+                    }
+                ]
+            },
+            {
+                "type": "LYRICS",
+                "text": [
+                    "Until the philosophy which hold one race superior",
+                    "And another inferior",
+                    "Is finally and permanently",
+                    "Discredited and abandoned",
+                    "Everywhere is war",
+                    "Me say war",
+                    "",
+                    "That until there no longer first class and second class citizens of any nation",
+                    "Until the colour of a man's skin is of no more significance than the colour of his eyes",
+                    "Me say war",
+                    "",
+                    "That until the basic human rights are equally guaranteed to all",
+                    "Without regard to race",
+                    "Dis a war",
+                    "",
+                    "That until that day, dream of lasting peace, world citizenship",
+                    "Rule of international morality",
+                    "Will remain in but a fleeting illusion to be pursued, but never attained",
+                    "Now everywhere is war",
+                    "War",
+                    "",
+                    "And until the ignoble and unhappy regimes that hold our brothers in Angola",
+                    "In Mozambique, South Africa",
+                    "Sub-human bondage have been toppled, utterly destroyed",
+                    "Well, everywhere is war",
+                    "Me say war",
+                    "",
+                    "War in the east",
+                    "War in the west",
+                    "War up north",
+                    "War down south",
+                    "War, war",
+                    "",
+                    "Rumours of war",
+                    "And until that day the African continent will not know peace",
+                    "We Africans will fight, we find it necessary",
+                    "And we know we shall win, as we are confident",
+                    "In the victory",
+                    "",
+                    "Of good over evil",
+                    "Good over evil, yeah",
+                    "Good over evil",
+                    "Good over evil, yeah",
+                    "Good over evil",
+                    "Good over evil, yeah"
+                ],
+                "url": "https://cdn.shazam.com/lyrics/v1/en-US/GB/iphone/musixmatch/subtitles/7532751/216/1?token=cf6382de4d9fd736f64a25a1366e13fe",
+                "footer": "Writer(s): Allen Cole, Carleton Barrett\nLyrics powered by www.musixmatch.com",
+                "tabname": "Lyrics",
+                "beacondata": {
+                    "lyricsid": "30454557",
+                    "providername": "musixmatch",
+                    "commontrackid": "7532751"
+                }
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/5212563/youtube/video?q=Bob+Marley+%26+The+Wailers+%22War%22"
+            },
+            {
+                "type": "RELATED",
+                "url": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-5212563?startFrom=0&pageSize=20&connected=",
+                "tabname": "Related"
+            }
+        ],
+        "url": "https://www.shazam.com/track/5212563/war",
+        "artists": [
+            {
+                "id": "42",
+                "adamid": "3174628"
+            }
+        ],
+        "isrc": "USIR27600009",
+        "genres": {
+            "primary": "Reggae"
+        },
+        "urlparams": {
+            "{tracktitle}": "War",
+            "{trackartist}": "Bob+Marley+%26+The+Wailers"
+        },
+        "myshazam": {
+            "apple": {
+                "actions": [
+                    {
+                        "name": "myshazam:apple",
+                        "type": "uri",
+                        "uri": "https://music.apple.com/gb/album/war/1440858988?i=1440859227&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                ]
+            }
+        },
+        "highlightsurls": {
+            "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/3174628/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+        },
+        "relatedtracksurl": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-5212563?startFrom=0&pageSize=20&connected=",
+        "albumadamid": "1440858988"
+    },
+    "tagid": "C56A85B7-B48F-448D-B104-E14A0BFE7187"
+}

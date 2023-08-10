@@ -1,0 +1,120 @@
+{
+    "matches": [
+        {
+            "id": "623644422",
+            "offset": 30.560289062,
+            "timeskew": 0.0013093948,
+            "frequencyskew": 0.0010073185
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691632493903,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "623644422",
+        "title": "I'm For You",
+        "subtitle": "Today, Tomorrow, Forever",
+        "share": {
+            "subject": "I'm For You - Today, Tomorrow, Forever",
+            "text": "I'm For You by Today, Tomorrow, Forever",
+            "href": "https://www.shazam.com/track/623644422/im-for-you",
+            "twitter": "I used @Shazam to discover I'm For You by Today, Tomorrow, Forever.",
+            "html": "https://www.shazam.com/snippets/email-share/623644422?lang=en-US&country=GB",
+            "snapchat": "https://www.shazam.com/partner/sc/track/623644422"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:subscribe",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/subscribe?mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:subscribe",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/subscribe?mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:I%27m%20For%20You%20Today%2C%20Tomorrow%2C%20Forever"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27I%5C%27m+For+You%27%20artist%3A%27Today%2C+Tomorrow%2C+Forever%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": false,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [],
+                "tabname": "Song",
+                "metadata": [
+                    {
+                        "title": "Title",
+                        "text": "I'm For You"
+                    }
+                ]
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/623644422/youtube/video?q=Today,+Tomorrow,+Forever+%22I'm+For+You%22"
+            }
+        ],
+        "url": "https://www.shazam.com/track/623644422/im-for-you",
+        "urlparams": {
+            "{tracktitle}": "I%27m+For+You",
+            "{trackartist}": "Today%2C+Tomorrow%2C+Forever"
+        },
+        "highlightsurls": {}
+    },
+    "tagid": "8E523A4F-BB81-4A62-ACFD-21E00FD6BE00"
+}

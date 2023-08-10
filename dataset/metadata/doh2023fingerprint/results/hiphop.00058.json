@@ -1,0 +1,291 @@
+{
+    "matches": [
+        {
+            "id": "212313981",
+            "offset": 30.803886718,
+            "timeskew": -0.00019997358,
+            "frequencyskew": 0.0
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691632904653,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "263055",
+        "title": "3 Lil' Putos",
+        "subtitle": "Cypress Hill",
+        "images": {
+            "background": "https://is2-ssl.mzstatic.com/image/thumb/Features125/v4/a2/a5/b2/a2a5b2a9-face-ea63-facc-9d3afc837d83/pr_source.png/800x800cc.jpg",
+            "coverart": "https://is2-ssl.mzstatic.com/image/thumb/Music115/v4/f0/6f/0d/f06f0d17-87e4-8c35-723a-76870e60d3e2/5099747407529.jpg/400x400cc.jpg",
+            "coverarthq": "https://is2-ssl.mzstatic.com/image/thumb/Music115/v4/f0/6f/0d/f06f0d17-87e4-8c35-723a-76870e60d3e2/5099747407529.jpg/400x400cc.jpg",
+            "joecolor": "b:171918p:e0e0e0s:d7c4act:b8b8b8q:b1a28e"
+        },
+        "share": {
+            "subject": "3 Lil' Putos - Cypress Hill",
+            "text": "3 Lil' Putos by Cypress Hill",
+            "href": "https://www.shazam.com/track/263055/3-lil-putos",
+            "image": "https://is2-ssl.mzstatic.com/image/thumb/Music115/v4/f0/6f/0d/f06f0d17-87e4-8c35-723a-76870e60d3e2/5099747407529.jpg/400x400cc.jpg",
+            "twitter": "I used @Shazam to discover 3 Lil' Putos by Cypress Hill.",
+            "html": "https://www.shazam.com/snippets/email-share/263055?lang=en-US&country=GB",
+            "avatar": "https://is2-ssl.mzstatic.com/image/thumb/Features125/v4/a2/a5/b2/a2a5b2a9-face-ea63-facc-9d3afc837d83/pr_source.png/800x800cc.jpg",
+            "snapchat": "https://www.shazam.com/partner/sc/track/263055"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "actions": [
+                {
+                    "name": "apple",
+                    "type": "applemusicplay",
+                    "id": "266797684"
+                },
+                {
+                    "name": "apple",
+                    "type": "uri",
+                    "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/52/a1/c4/52a1c425-f86f-4e49-9ce8-5ff554c4c1be/mzaf_3661727072968208938.plus.aac.ep.m4a"
+                }
+            ],
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/gb/album/3-lil-putos/266797392?i=266797684&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/gb/album/3-lil-putos/266797392?i=266797684&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                },
+                {
+                    "caption": "BUY",
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "uri": "https://itunes.apple.com/gb/album/3-lil-putos/266797392?i=266797684&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "buy",
+                        "providername": "itunes"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "type": "buy",
+                    "listcaption": "Buy on iTunes",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "itunes"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:3%20Lil%27%20Putos%20Cypress%20Hill"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%273+Lil%5C%27+Putos%27%20artist%3A%27Cypress+Hill%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": true,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [
+                    {
+                        "image": "https://is2-ssl.mzstatic.com/image/thumb/Features125/v4/a2/a5/b2/a2a5b2a9-face-ea63-facc-9d3afc837d83/pr_source.png/800x800cc.jpg",
+                        "caption": "Cypress Hill"
+                    },
+                    {
+                        "image": "https://is2-ssl.mzstatic.com/image/thumb/Music115/v4/f0/6f/0d/f06f0d17-87e4-8c35-723a-76870e60d3e2/5099747407529.jpg/400x400cc.jpg",
+                        "caption": "3 Lil' Putos"
+                    }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                    {
+                        "title": "Album",
+                        "text": "Black Sunday"
+                    },
+                    {
+                        "title": "Label",
+                        "text": "Columbia"
+                    },
+                    {
+                        "title": "Released",
+                        "text": "1993"
+                    }
+                ]
+            },
+            {
+                "type": "LYRICS",
+                "text": [
+                    "\"Live and direct\"",
+                    "",
+                    "One little two little three little putos",
+                    "Tried to jack me they got the boot-o",
+                    "Taking no shit when push comes to shove",
+                    "'Cause the niggas showed me no love",
+                    "Step back punk 'cause I'm a Latino",
+                    "What I bring you is the hardcore lingo",
+                    "Funky, but ya don't understand",
+                    "Now I gotta stand with the Glock in my hand",
+                    "No scope",
+                    "And there's no hope",
+                    "'Cause I'm dishin'",
+                    "Out my .45 slug and it ain't missin'",
+                    "Here it comes hissin'",
+                    "Here it comes hummin' at ya",
+                    "Now the slug is comin' at ya",
+                    "",
+                    "One little two little three hoodlums",
+                    "Gotta hit the ground 'cause here the slug comes",
+                    "What do you know, click clack goes the gun",
+                    "Make 'em run boy, make 'em run boy, make 'em run",
+                    "",
+                    "Cuando entro, loonie es el fuerte",
+                    "Speakin' to the gente",
+                    "'Cause I'm insane in the mente",
+                    "Movin' em back, click-click goes the gun",
+                    "Make 'em run boy, make 'em run boy, make 'em run",
+                    "It's no fun",
+                    "When I got to break you off some",
+                    "Of the psycobeta beatdown, boy you get done",
+                    "Serio",
+                    "Here we go",
+                    "Off for the muchacho",
+                    "Come if you really want some of the chingazo",
+                    "Me caso you don't hear this little lazo",
+                    "Cypress Hill, breaking you off a pedazo",
+                    "Humming at ya",
+                    "Don't make me come gatt ya",
+                    "Punk 'cause I still will be comin' at ya",
+                    "",
+                    "One little two little three hoodlums",
+                    "Gotta hit the ground 'cause here the slug comes",
+                    "What do you know, click clack goes the gun",
+                    "Make 'em run boy, make 'em run boy, make 'em run",
+                    "",
+                    "When I come in, kickin' with a vengeance",
+                    "Swift of the engines",
+                    "Coming like the three little indians",
+                    "Stompin' around on the ground on the plains",
+                    "'Cause a nigga like me is goin' insane",
+                    "In the brain",
+                    "So I gotta maintain",
+                    "My direction",
+                    "What I mighta gained",
+                    "Without my protection",
+                    "Not a damn thing",
+                    "So when I come just bring",
+                    "That new style, break ya off like a chicken wing",
+                    "Buckooock!",
+                    "So you can just suck my cock",
+                    "Like a fat blunt, stoned is the way of the walk",
+                    "When I'm peepin'",
+                    "Checkin' out the punk-ass creepin'",
+                    "I let the dogs loose then I let the dogs sick 'em",
+                    "Graaah! Nigga don't make me catch ya",
+                    "Punk 'cause I still will be comin' at ya",
+                    "",
+                    "One little two little three hoodlums",
+                    "Gotta hit the ground 'cause here the slug comes",
+                    "What do you know, click clack goes the gun",
+                    "Make 'em run boy, make 'em run boy, make 'em run"
+                ],
+                "url": "https://cdn.shazam.com/lyrics/v1/en-US/GB/iphone/musixmatch/subtitles/21704231/220/1?token=ef4dd41dc28ceb7fd24da1260c4ae144",
+                "footer": "Writer(s): Bobby Gentry, Larry Muggerud, Lawrence Krsone Parker, Louis M. Freeze, Sterling B. Ii Scott, Senen Reyes\nLyrics powered by www.musixmatch.com",
+                "tabname": "Lyrics",
+                "beacondata": {
+                    "lyricsid": "1342748",
+                    "providername": "musixmatch",
+                    "commontrackid": "21704231"
+                }
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/263055/youtube/video?q=Cypress+Hill+%223+Lil'+Putos%22"
+            },
+            {
+                "type": "RELATED",
+                "url": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-263055?startFrom=0&pageSize=20&connected=",
+                "tabname": "Related"
+            }
+        ],
+        "url": "https://www.shazam.com/track/263055/3-lil-putos",
+        "artists": [
+            {
+                "id": "42",
+                "adamid": "465802"
+            }
+        ],
+        "isrc": "USSM19303138",
+        "genres": {
+            "primary": "West Coast Rap"
+        },
+        "urlparams": {
+            "{tracktitle}": "3+Lil%27+Putos",
+            "{trackartist}": "Cypress+Hill"
+        },
+        "myshazam": {
+            "apple": {
+                "actions": [
+                    {
+                        "name": "myshazam:apple",
+                        "type": "uri",
+                        "uri": "https://music.apple.com/gb/album/3-lil-putos/266797392?i=266797684&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                ]
+            }
+        },
+        "highlightsurls": {
+            "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/465802/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+        },
+        "relatedtracksurl": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-263055?startFrom=0&pageSize=20&connected=",
+        "albumadamid": "266797392"
+    },
+    "tagid": "38BF4B62-8583-4F23-8B01-76FF744BE63A"
+}

@@ -1,0 +1,314 @@
+{
+    "matches": [
+        {
+            "id": "444494415",
+            "offset": 29.938009765,
+            "timeskew": 0.00018644333,
+            "frequencyskew": -4.029274e-05
+        },
+        {
+            "id": "486348028",
+            "offset": 424.14271875,
+            "timeskew": -0.007236123,
+            "frequencyskew": -0.003698349
+        },
+        {
+            "id": "509469232",
+            "offset": 112.563609375,
+            "timeskew": -0.0018497705,
+            "frequencyskew": -0.002132237
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691632872172,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "5751073",
+        "title": "Brass Monkey",
+        "subtitle": "Beastie Boys",
+        "images": {
+            "background": "https://is5-ssl.mzstatic.com/image/thumb/Features115/v4/16/2c/76/162c767d-b00a-5664-1548-df303ae12729/mza_8084110850478364065.png/800x800cc.jpg",
+            "coverart": "https://is4-ssl.mzstatic.com/image/thumb/Music114/v4/e4/d7/81/e4d781e8-bd3f-486a-cd18-e9b3a7d12b34/00731452735126.rgb.jpg/400x400cc.jpg",
+            "coverarthq": "https://is4-ssl.mzstatic.com/image/thumb/Music114/v4/e4/d7/81/e4d781e8-bd3f-486a-cd18-e9b3a7d12b34/00731452735126.rgb.jpg/400x400cc.jpg",
+            "joecolor": "b:d6ccb3p:121513s:191a19t:393933q:3f3e37"
+        },
+        "share": {
+            "subject": "Brass Monkey - Beastie Boys",
+            "text": "Brass Monkey by Beastie Boys",
+            "href": "https://www.shazam.com/track/5751073/brass-monkey",
+            "image": "https://is4-ssl.mzstatic.com/image/thumb/Music114/v4/e4/d7/81/e4d781e8-bd3f-486a-cd18-e9b3a7d12b34/00731452735126.rgb.jpg/400x400cc.jpg",
+            "twitter": "I used @Shazam to discover Brass Monkey by Beastie Boys.",
+            "html": "https://www.shazam.com/snippets/email-share/5751073?lang=en-US&country=GB",
+            "avatar": "https://is5-ssl.mzstatic.com/image/thumb/Features115/v4/16/2c/76/162c767d-b00a-5664-1548-df303ae12729/mza_8084110850478364065.png/800x800cc.jpg",
+            "snapchat": "https://www.shazam.com/partner/sc/track/5751073"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "actions": [
+                {
+                    "name": "apple",
+                    "type": "applemusicplay",
+                    "id": "1440912369"
+                },
+                {
+                    "name": "apple",
+                    "type": "uri",
+                    "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/b8/d4/25/b8d425db-d788-73ef-eafc-925192e2b102/mzaf_12308928365065647947.plus.aac.ep.m4a"
+                }
+            ],
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/gb/album/brass-monkey/1440912031?i=1440912369&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/gb/album/brass-monkey/1440912031?i=1440912369&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                },
+                {
+                    "caption": "BUY",
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "uri": "https://itunes.apple.com/gb/album/brass-monkey/1440912031?i=1440912369&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "buy",
+                        "providername": "itunes"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "type": "buy",
+                    "listcaption": "Buy on iTunes",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "itunes"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:Brass%20Monkey%20Beastie%20Boys"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27Brass+Monkey%27%20artist%3A%27Beastie+Boys%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": false,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [
+                    {
+                        "image": "https://is5-ssl.mzstatic.com/image/thumb/Features115/v4/16/2c/76/162c767d-b00a-5664-1548-df303ae12729/mza_8084110850478364065.png/800x800cc.jpg",
+                        "caption": "Beastie Boys"
+                    },
+                    {
+                        "image": "https://is4-ssl.mzstatic.com/image/thumb/Music114/v4/e4/d7/81/e4d781e8-bd3f-486a-cd18-e9b3a7d12b34/00731452735126.rgb.jpg/400x400cc.jpg",
+                        "caption": "Brass Monkey"
+                    }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                    {
+                        "title": "Album",
+                        "text": "Licensed to Ill"
+                    },
+                    {
+                        "title": "Label",
+                        "text": "Def Jam Recordings"
+                    },
+                    {
+                        "title": "Released",
+                        "text": "1986"
+                    }
+                ]
+            },
+            {
+                "type": "LYRICS",
+                "text": [
+                    "Brass Monkey",
+                    "That funky Monkey",
+                    "Brass Monkey junkie",
+                    "That funky Monkey",
+                    "Brass",
+                    "",
+                    "Got this dance that's more than real",
+                    "Drink Brass Monkey, here's how you feel",
+                    "You put your left leg down",
+                    "Your right leg up",
+                    "Tilt your head back, let's finish the cup",
+                    "",
+                    "MCA with the bottle, D rocks the can",
+                    "Ad-Rock gets nice with Charlie Chan",
+                    "We're offered Mo\u00ebt",
+                    "We don't mind Chivas",
+                    "Wherever we go, we bring Monkey with us",
+                    "",
+                    "Ad-Rock drinks three, Mike D is D",
+                    "Double R foots the bill most definitely",
+                    "I drink Brass Monkey and I rock well",
+                    "I got a castle in Brooklyn, that's where I dwell",
+                    "",
+                    "Brass Monkey",
+                    "That funky Monkey",
+                    "Brass Monkey junkie",
+                    "That funky Monkey",
+                    "",
+                    "Because (brass)",
+                    "I drink it anytime and any place",
+                    "When it's time to get ill, I pour it on my face",
+                    "Monkey tastes def when you pour it on ice",
+                    "Come on, y'all, it's time to get nice",
+                    "",
+                    "Cooling by the lockers, getting kind of funky",
+                    "Me and the crew, we're drinking Brass Monkey",
+                    "This girl walked by, she gave me the eye",
+                    "I reached in the locker, grabbed a Spanish fly",
+                    "",
+                    "I put it in the Monkey, mixed it in a cup",
+                    "Went over to the girl, \"Yo, baby, what's up?\"",
+                    "I offered her a sip (sip)",
+                    "The girl she gave me lip (lip)",
+                    "It did begin, the stuff wore in and now she's on my tip",
+                    "",
+                    "Brass Monkey",
+                    "That funky Monkey",
+                    "Brass Monkey junkie",
+                    "That funky Monkey",
+                    "Brass",
+                    "",
+                    "Step up to the bar and put the girl down",
+                    "She takes a big gulp and slaps it around",
+                    "You take a sip, you can do it",
+                    "You get right to it",
+                    "We had a case in the place",
+                    "And we went right through it",
+                    "",
+                    "You got a dry martini, you thinking you're cool",
+                    "Take you place at the bar, I smack you off your stool",
+                    "I'll down a 40 dog in a single gulp",
+                    "And if you got beef, you'll get beat to a pulp",
+                    "",
+                    "Monkey and parties and reelin' and rockin'",
+                    "Def-def, girls-girls, all y'all jockin'",
+                    "The song and dance keepin' you in a trance",
+                    "If you don't buy my record, I got my advance",
+                    "",
+                    "I drink it, I think it, I see it, I be it",
+                    "I love Brass Monkey, but I don't give D it",
+                    "We got the bottle, you got the cup",
+                    "Come on everybody, let's get f-",
+                    "",
+                    "Brass Monkey",
+                    "That funky Monkey",
+                    "Brass Monkey junkie",
+                    "That funky Monkey",
+                    "Brass Monkey",
+                    "That funky Monkey",
+                    "Brass Monkey junkie",
+                    "That funky Monkey",
+                    "",
+                    "Brass Monkey!"
+                ],
+                "url": "https://cdn.shazam.com/lyrics/v1/en-US/GB/iphone/musixmatch/subtitles/116216061/157/1?token=92a75d4e3f6ad9f0943d6e5949e2ba76",
+                "footer": "Writer(s): Adam Yauch, Neil Diamond, Rick Rubin, Adam Horowitz\nLyrics powered by www.musixmatch.com",
+                "tabname": "Lyrics",
+                "beacondata": {
+                    "lyricsid": "27210885",
+                    "providername": "musixmatch",
+                    "commontrackid": "116216061"
+                }
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/5751073/youtube/video?q=Beastie+Boys+%22Brass+Monkey%22"
+            },
+            {
+                "type": "RELATED",
+                "url": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-5751073?startFrom=0&pageSize=20&connected=",
+                "tabname": "Related"
+            }
+        ],
+        "url": "https://www.shazam.com/track/5751073/brass-monkey",
+        "artists": [
+            {
+                "id": "42",
+                "adamid": "1971863"
+            }
+        ],
+        "isrc": "USDJ28600011",
+        "genres": {
+            "primary": "Hip-Hop/Rap"
+        },
+        "urlparams": {
+            "{tracktitle}": "Brass+Monkey",
+            "{trackartist}": "Beastie+Boys"
+        },
+        "myshazam": {
+            "apple": {
+                "actions": [
+                    {
+                        "name": "myshazam:apple",
+                        "type": "uri",
+                        "uri": "https://music.apple.com/gb/album/brass-monkey/1440912031?i=1440912369&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                ]
+            }
+        },
+        "highlightsurls": {
+            "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/1971863/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+        },
+        "relatedtracksurl": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-5751073?startFrom=0&pageSize=20&connected=",
+        "albumadamid": "1440912031"
+    },
+    "tagid": "2302457D-2217-4896-AA08-9BFFDF00663E"
+}

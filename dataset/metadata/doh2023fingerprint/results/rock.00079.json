@@ -1,0 +1,280 @@
+{
+    "matches": [
+        {
+            "id": "284014825",
+            "offset": 29.810611328,
+            "timeskew": -0.0013618469,
+            "frequencyskew": -0.0013683438
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691633640097,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "311570",
+        "title": "High On You",
+        "subtitle": "Survivor",
+        "images": {
+            "background": "https://is2-ssl.mzstatic.com/image/thumb/Features115/v4/98/67/bc/9867bcf7-4ef7-9da2-f7d3-ebc3445a8c27/mzl.iiahiccf.jpg/800x800cc.jpg",
+            "coverart": "https://is1-ssl.mzstatic.com/image/thumb/Music/c9/f0/77/mzi.jbzpuehp.jpg/400x400cc.jpg",
+            "coverarthq": "https://is1-ssl.mzstatic.com/image/thumb/Music/c9/f0/77/mzi.jbzpuehp.jpg/400x400cc.jpg",
+            "joecolor": "b:79aa46p:151010s:191112t:292e1aq:2c2f1c"
+        },
+        "share": {
+            "subject": "High On You - Survivor",
+            "text": "High On You by Survivor",
+            "href": "https://www.shazam.com/track/311570/high-on-you",
+            "image": "https://is1-ssl.mzstatic.com/image/thumb/Music/c9/f0/77/mzi.jbzpuehp.jpg/400x400cc.jpg",
+            "twitter": "I used @Shazam to discover High On You by Survivor.",
+            "html": "https://www.shazam.com/snippets/email-share/311570?lang=en-US&country=GB",
+            "avatar": "https://is2-ssl.mzstatic.com/image/thumb/Features115/v4/98/67/bc/9867bcf7-4ef7-9da2-f7d3-ebc3445a8c27/mzl.iiahiccf.jpg/800x800cc.jpg",
+            "snapchat": "https://www.shazam.com/partner/sc/track/311570"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "actions": [
+                {
+                    "name": "apple",
+                    "type": "applemusicplay",
+                    "id": "258553573"
+                },
+                {
+                    "name": "apple",
+                    "type": "uri",
+                    "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/4e/ec/0c/4eec0cf0-8759-d8c9-2076-d0ff6b32307f/mzaf_778810416723824859.plus.aac.ep.m4a"
+                }
+            ],
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/gb/album/high-on-you/258553472?i=258553573&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/gb/album/high-on-you/258553472?i=258553573&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                },
+                {
+                    "caption": "BUY",
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "uri": "https://itunes.apple.com/gb/album/high-on-you/258553472?i=258553573&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "buy",
+                        "providername": "itunes"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "type": "buy",
+                    "listcaption": "Buy on iTunes",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "itunes"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:High%20On%20You%20Survivor"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27High+On+You%27%20artist%3A%27Survivor%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": false,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [
+                    {
+                        "image": "https://is2-ssl.mzstatic.com/image/thumb/Features115/v4/98/67/bc/9867bcf7-4ef7-9da2-f7d3-ebc3445a8c27/mzl.iiahiccf.jpg/800x800cc.jpg",
+                        "caption": "Survivor"
+                    },
+                    {
+                        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music/c9/f0/77/mzi.jbzpuehp.jpg/400x400cc.jpg",
+                        "caption": "High On You"
+                    }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                    {
+                        "title": "Album",
+                        "text": "Vital Signs"
+                    },
+                    {
+                        "title": "Label",
+                        "text": "Volcano"
+                    },
+                    {
+                        "title": "Released",
+                        "text": "1984"
+                    }
+                ]
+            },
+            {
+                "type": "LYRICS",
+                "text": [
+                    "There you stood, that'll teach her",
+                    "To look so good and feel so right",
+                    "Let me tell you about the girl I met last night",
+                    "",
+                    "It's understood, I had to reach her",
+                    "I let the wheel of fortune spin",
+                    "I touched your hand before the crowd started crashin' in",
+                    "",
+                    "Now I'm higher than a kite",
+                    "I know I'm getting hooked on your love",
+                    "Talkin' to myself, runnin' in the heat",
+                    "Beggin' for your touch",
+                    "In the middle of the street",
+                    "",
+                    "And I, I can't stop thinkin' about you, girl",
+                    "I must be livin' in a fantasy world",
+                    "I'm so high on you",
+                    "",
+                    "Smart and coy, a little crazy",
+                    "The kind of face that starts a fight",
+                    "Let me tell you about the girl I had last night",
+                    "",
+                    "Piercin' eyes, like a raven",
+                    "You seemed to share my secret sin",
+                    "We were high before the night started kickin' in",
+                    "",
+                    "Now I'm screamin' in the night",
+                    "I know I'm getting hooked on your love",
+                    "Talkin' to myself, runnin' in the heat",
+                    "Beggin' for your touch",
+                    "In the middle of the street",
+                    "",
+                    "And I, I can't stop thinkin' about you, girl",
+                    "I must be livin' in a fantasy world",
+                    "I've searched the whole world over",
+                    "To find a heart so true",
+                    "Such complete intoxication",
+                    "I'm high on you",
+                    "",
+                    "There you stood, that'll teach her",
+                    "To look so good and feel so right",
+                    "Let me tell you about the girl I met last night",
+                    "",
+                    "Now I'm higher than a kite",
+                    "I know I'm getting hooked on your love",
+                    "Talkin' to myself, runnin' in the heat",
+                    "Beggin' for your touch in the middle of the street",
+                    "",
+                    "And I, I can't stop thinkin' about you, girl",
+                    "I must be livin' in a fantasy world",
+                    "I've searched the whole world over",
+                    "To find a heart so true",
+                    "Such complete intoxication",
+                    "I'm high on you",
+                    "",
+                    "I'm high on you",
+                    "",
+                    "I'm high on you",
+                    "",
+                    "I'm high on you"
+                ],
+                "url": "https://cdn.shazam.com/lyrics/v1/en-US/GB/iphone/musixmatch/subtitles/93339/248/1?token=5d5dd12fc4c0cdb41e625bea9fb5b9af",
+                "footer": "Writer(s): James M Peterik, Frank Sullivan\nLyrics powered by www.musixmatch.com",
+                "tabname": "Lyrics",
+                "beacondata": {
+                    "lyricsid": "21638878",
+                    "providername": "musixmatch",
+                    "commontrackid": "93339"
+                }
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/311570/youtube/video?q=Survivor+%22High+On+You%22"
+            },
+            {
+                "type": "RELATED",
+                "url": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-311570?startFrom=0&pageSize=20&connected=",
+                "tabname": "Related"
+            }
+        ],
+        "url": "https://www.shazam.com/track/311570/high-on-you",
+        "artists": [
+            {
+                "id": "42",
+                "adamid": "3713599"
+            }
+        ],
+        "isrc": "USVR19600002",
+        "genres": {
+            "primary": "Rock"
+        },
+        "urlparams": {
+            "{tracktitle}": "High+On+You",
+            "{trackartist}": "Survivor"
+        },
+        "myshazam": {
+            "apple": {
+                "actions": [
+                    {
+                        "name": "myshazam:apple",
+                        "type": "uri",
+                        "uri": "https://music.apple.com/gb/album/high-on-you/258553472?i=258553573&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                ]
+            }
+        },
+        "highlightsurls": {
+            "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/3713599/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios&videoIdToFilter=1535125457",
+            "trackhighlighturl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/highlights/1535125457?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+        },
+        "relatedtracksurl": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-311570?startFrom=0&pageSize=20&connected=",
+        "albumadamid": "258553472"
+    },
+    "tagid": "111AB23A-7451-4C9F-B600-52AACA7EC417"
+}

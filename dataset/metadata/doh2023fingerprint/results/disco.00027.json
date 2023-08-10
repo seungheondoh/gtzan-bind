@@ -1,0 +1,356 @@
+{
+    "matches": [
+        {
+            "id": "268031208",
+            "offset": 30.892164062,
+            "timeskew": -0.0011499524,
+            "frequencyskew": -0.0010063648
+        },
+        {
+            "id": "405861277",
+            "offset": 30.101322265,
+            "timeskew": -0.0003864169,
+            "frequencyskew": -0.00036239624
+        },
+        {
+            "id": "40648949",
+            "offset": 30.807070312,
+            "timeskew": -0.0010491014,
+            "frequencyskew": -0.0010063648
+        },
+        {
+            "id": "208559322",
+            "offset": 29.978697264999997,
+            "timeskew": 0.0046690702,
+            "frequencyskew": 0.004642248
+        },
+        {
+            "id": "561310364",
+            "offset": 12.607479492,
+            "timeskew": -0.0017518401,
+            "frequencyskew": -0.0020518303
+        },
+        {
+            "id": "45246331",
+            "offset": 30.819050781,
+            "timeskew": -0.00030696392,
+            "frequencyskew": -0.00028187037
+        },
+        {
+            "id": "275273813",
+            "offset": 27.077017578,
+            "timeskew": -0.001440525,
+            "frequencyskew": -0.0008856058
+        },
+        {
+            "id": "332801993",
+            "offset": 29.829123046,
+            "timeskew": 0.00063991547,
+            "frequencyskew": 0.00020134449
+        },
+        {
+            "id": "208381089",
+            "offset": 30.200271484,
+            "timeskew": 0.0045850277,
+            "frequencyskew": 0.00443995
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691632462815,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "61974934",
+        "title": "Rapper's Delight",
+        "subtitle": "The Sugarhill Gang",
+        "images": {
+            "background": "https://is2-ssl.mzstatic.com/image/thumb/Features125/v4/c1/d7/12/c1d712a6-1eae-ac73-75cb-1a4533185cf2/pr_source.png/800x800cc.jpg",
+            "coverart": "https://is4-ssl.mzstatic.com/image/thumb/Music124/v4/08/6b/84/086b841c-6e73-0920-fc64-bf841286d7d3/5414939542473.jpg/400x400cc.jpg",
+            "coverarthq": "https://is4-ssl.mzstatic.com/image/thumb/Music124/v4/08/6b/84/086b841c-6e73-0920-fc64-bf841286d7d3/5414939542473.jpg/400x400cc.jpg",
+            "joecolor": "b:00111ep:ecebf1s:03adf6t:bdc0c6q:028eca"
+        },
+        "share": {
+            "subject": "Rapper's Delight - The Sugarhill Gang",
+            "text": "Rapper's Delight by The Sugarhill Gang",
+            "href": "https://www.shazam.com/track/61974934/rappers-delight",
+            "image": "https://is4-ssl.mzstatic.com/image/thumb/Music124/v4/08/6b/84/086b841c-6e73-0920-fc64-bf841286d7d3/5414939542473.jpg/400x400cc.jpg",
+            "twitter": "I used @Shazam to discover Rapper's Delight by The Sugarhill Gang.",
+            "html": "https://www.shazam.com/snippets/email-share/61974934?lang=en-US&country=GB",
+            "avatar": "https://is2-ssl.mzstatic.com/image/thumb/Features125/v4/c1/d7/12/c1d712a6-1eae-ac73-75cb-1a4533185cf2/pr_source.png/800x800cc.jpg",
+            "snapchat": "https://www.shazam.com/partner/sc/track/61974934"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "actions": [
+                {
+                    "name": "apple",
+                    "type": "applemusicplay",
+                    "id": "1193796430"
+                },
+                {
+                    "name": "apple",
+                    "type": "uri",
+                    "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/99/97/cf/9997cfda-bcab-caad-866e-8583936b1699/mzaf_7769559833145807512.plus.aac.ep.m4a"
+                }
+            ],
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/gb/album/rappers-delight/1193796423?i=1193796430&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/gb/album/rappers-delight/1193796423?i=1193796430&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                },
+                {
+                    "caption": "BUY",
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "uri": "https://itunes.apple.com/gb/album/rappers-delight/1193796423?i=1193796430&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "buy",
+                        "providername": "itunes"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "type": "buy",
+                    "listcaption": "Buy on iTunes",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "itunes"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:Rapper%27s%20Delight%20The%20Sugarhill%20Gang"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27Rapper%5C%27s+Delight%27%20artist%3A%27The+Sugarhill+Gang%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": false,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [
+                    {
+                        "image": "https://is2-ssl.mzstatic.com/image/thumb/Features125/v4/c1/d7/12/c1d712a6-1eae-ac73-75cb-1a4533185cf2/pr_source.png/800x800cc.jpg",
+                        "caption": "The Sugarhill Gang"
+                    },
+                    {
+                        "image": "https://is4-ssl.mzstatic.com/image/thumb/Music124/v4/08/6b/84/086b841c-6e73-0920-fc64-bf841286d7d3/5414939542473.jpg/400x400cc.jpg",
+                        "caption": "Rapper's Delight"
+                    }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                    {
+                        "title": "Album",
+                        "text": "The Greatest Hits"
+                    },
+                    {
+                        "title": "Label",
+                        "text": "Castle Communications"
+                    },
+                    {
+                        "title": "Released",
+                        "text": "2000"
+                    }
+                ]
+            },
+            {
+                "type": "LYRICS",
+                "text": [
+                    "I Said A Hip Hop,",
+                    "Hippie To The Hippie,",
+                    "The Hip, Hip A Hop, And You Don't Stop, A Rock It",
+                    "To The Bang Bang Boogie, Say, Up Jump The Boogie,",
+                    "To The Rhythm Of The Boogie, The Beat.",
+                    "Now, What You Hear Is Not A Test - I'm Rappin' To The Beat,",
+                    "And Me, The Groove, And My Friends Are Gonna Try To Move Your Feet.",
+                    "See, I Am Wonder Mike, And I'd Like To Say Hello,",
+                    "To The Black, To The White, The Red And The Brown,",
+                    "The Purple And Yellow. But First, I Gotta",
+                    "Bang Bang, The Boogie To The Boogie,",
+                    "Say Up Jump The Boogie To The Bang Bang Boogie,",
+                    "Let's Rock, You Don't Stop,",
+                    "Rock The Rhythm That'll Make Your Body Rock.",
+                    "Well So Far You've Heard My Voice But I Brought Two Friends Along,",
+                    "And The Next On The Mic Is My Man Hank,",
+                    "C'mon, Hank, Sing That Song!",
+                    "Check It Out, I'm The C-A-S-A-N, The O-V-A,",
+                    "And The Rest Is F-L-Y,",
+                    "You See I Go By The Code Of The Doctor Of The Mix,",
+                    "And These Reasons I'll Tell You Why.",
+                    "You See, I'm Six Foot One, And I'm Tons Of Fun",
+                    "When I Dress To A D,",
+                    "You See, I Got More Clothes Than Muhammad Ali",
+                    "And I Dress So Viciously.",
+                    "I Got Bodyguards, I Got Two Big Cars",
+                    "That Definitely Ain't The Wack,",
+                    "I Got A Lincoln Continental And A Sunfoofed Cadillac.",
+                    "So After School I Take A Dip In The Pool,",
+                    "Which Is Really On The Wall,",
+                    "I Got A Colour Tv, So I Can See",
+                    "The Knicks Play Basketball. Hear Me Talk About",
+                    "Checkbooks, Credit Cards, Mo' Money",
+                    "Than A Sucker Could Ever Spend,",
+                    "But I Wouldn't Give A Sucker Or A Bum Form The Rucker",
+                    "Not A Dime 'Til I Made It Again. Everybody Go",
+                    "Ho-Tel, Mo-Tel, Whatcha Gonna Do Today? (Say What?)",
+                    "'Cos I'm A Get A Fly Girl,",
+                    "Gonna Get Some Spank N' Drive Off In A Def Oj. Everybody Go",
+                    "Ho-Tel, Mo-Tel, Holiday Inn,",
+                    "Say If Your Girl Starts Actin' Up, Then You Take Her Friend.",
+                    "Master Gee! My Mellow!",
+                    "It's On To You, So Whatcha Gonna Do?",
+                    "Well, It's On'n'n'on'n'on On'n'on,",
+                    "The Beat Don't Stop Until The Break Of Dawn.",
+                    "I Said M-A-S, T-E-R, A G With A Double E,",
+                    "I Said I Go By The Unforgettable Name",
+                    "Of The Man They Call The Master Gee.",
+                    "Well, My Name Is Known All Over The World",
+                    "By All The Foxy Ladies And The Pretty Girls.",
+                    "I'm Goin' Down In History",
+                    "As The Baddest Rapper There Ever Could Be.",
+                    "Now I'm Feelin' The Highs And You're Feelin' The Lows,",
+                    "The Beat Starts Gettin' Into Your Toes",
+                    "You Start Poppin' Your Fingers And Stompin' Your Feet",
+                    "And Movin' Your Body While While You're Sitting In Your Seat",
+                    "And Then Damn! Ya Start Doin' The Freak, I Said",
+                    "Damn! Right Outta Your Seat",
+                    "Then You Throw Your Hands High In The Air,",
+                    "Ya Rockin' To The Rhythm, Shake Your Derriere",
+                    "Ya Rockin' To The Beat Without A Care,",
+                    "With The Sureshot Mcs For The Affair.",
+                    "Now, I'm Not As Tall As The Rest Of The Gang",
+                    "But I Rap To The Beat Just The Same.",
+                    "I Got A Little Face, And A Pair Of Brown Eyes",
+                    "All I'm Here To Do, Ladies, Is Hypnotize",
+                    "Singin' On'n'n'on'n'on On'n'on,",
+                    "The Beat Don't Stop Until The Break Of Dawn",
+                    "Singin' On'n'n'on'n'on On'n'on,",
+                    "Like A Hot Buttered Pop Da Pop Da Pop Dibbie Dibbie",
+                    "Pop Da Pop Pop, Don't You Dare Stop",
+                    "Come Alive Y'all, Gimme Whatcha Got",
+                    "I Guess By Now You Can Take A Hunch",
+                    "And Find That I Am The Baby Of The Bunch",
+                    "But That's Okay, I Still Keep In Stride,",
+                    "'Cos All I'm Here To Do Is Just Wiggle Your Behind",
+                    "Singin' On'n'n'on'n'on On'n'on,",
+                    "The Beat Don't Stop Until The Break Of Dawn.",
+                    "Singin' On'n'n'on'n'on On'n'on,",
+                    "Rock Rock, Y'all, Throw It On The Floor",
+                    "I'm Gonna Freak You Here, I'm Gona Freak You There,",
+                    "I'm Gonna Move You Outta This Atmosphere.",
+                    "'Cos I'm One Of A Kind And I'll Shock Your Mind",
+                    "I'll Put Tnt In Your Behind. I Said",
+                    "One, Two, Three, Four, Come On, Girls, Get On The Floor",
+                    "A-Come Alive, Y'all, A-Gimme Whatcha Got",
+                    "'Cos I'm Guaranteed To Make You Rock",
+                    "I Said One, Two, Three, Four, Tell Me, Wonder Mike",
+                    "What Are You Waiting For?"
+                ],
+                "url": "https://cdn.shazam.com/lyrics/v1/en-US/GB/iphone/musixmatch/subtitles/14666798/428/1?token=7c963ec366c5f487e82a4a127801ef2e",
+                "footer": "Writer(s): Bernard Edwards\nLyrics powered by www.musixmatch.com",
+                "tabname": "Lyrics",
+                "beacondata": {
+                    "lyricsid": "17525664",
+                    "providername": "musixmatch",
+                    "commontrackid": "14666798"
+                }
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/61974934/youtube/video?q=The+Sugarhill+Gang+%22Rapper's+Delight%22"
+            },
+            {
+                "type": "RELATED",
+                "url": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-61974934?startFrom=0&pageSize=20&connected=",
+                "tabname": "Related"
+            }
+        ],
+        "url": "https://www.shazam.com/track/61974934/rappers-delight",
+        "artists": [
+            {
+                "id": "42",
+                "adamid": "24176035"
+            }
+        ],
+        "isrc": "GBUM70814016",
+        "genres": {
+            "primary": "Dance"
+        },
+        "urlparams": {
+            "{tracktitle}": "Rapper%27s+Delight",
+            "{trackartist}": "The+Sugarhill+Gang"
+        },
+        "myshazam": {
+            "apple": {
+                "actions": [
+                    {
+                        "name": "myshazam:apple",
+                        "type": "uri",
+                        "uri": "https://music.apple.com/gb/album/rappers-delight/1193796423?i=1193796430&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                ]
+            }
+        },
+        "highlightsurls": {
+            "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/24176035/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+        },
+        "relatedtracksurl": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-61974934?startFrom=0&pageSize=20&connected=",
+        "albumadamid": "1193796423"
+    },
+    "tagid": "18C387A3-9E30-4E76-AE51-8E735D42BE01"
+}

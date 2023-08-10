@@ -1,0 +1,261 @@
+{
+    "matches": [
+        {
+            "id": "480813632",
+            "offset": 29.531451171,
+            "timeskew": -0.009709537,
+            "frequencyskew": -0.009874344
+        },
+        {
+            "id": "223129160",
+            "offset": 29.683824218,
+            "timeskew": -0.0063587427,
+            "frequencyskew": -0.007023096
+        },
+        {
+            "id": "233429805",
+            "offset": 29.095138671,
+            "timeskew": -0.018280804,
+            "frequencyskew": -0.0012879372
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691632530170,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "2872078",
+        "title": "Come On In My Kitchen",
+        "subtitle": "Robert Johnson",
+        "images": {
+            "background": "https://is1-ssl.mzstatic.com/image/thumb/Features125/v4/ca/df/91/cadf91c2-0f43-7a03-d6e5-91778c2701ba/pr_source.png/800x800cc.jpg",
+            "coverart": "https://is5-ssl.mzstatic.com/image/thumb/Music/v4/e8/6d/91/e86d91ae-32ce-2eab-3124-41af9c3a1311/5099751723929.jpg/400x400cc.jpg",
+            "coverarthq": "https://is5-ssl.mzstatic.com/image/thumb/Music/v4/e8/6d/91/e86d91ae-32ce-2eab-3124-41af9c3a1311/5099751723929.jpg/400x400cc.jpg",
+            "joecolor": "b:1e6a79p:faed49s:bfe77dt:ced353q:9fce7d"
+        },
+        "share": {
+            "subject": "Come On In My Kitchen - Robert Johnson",
+            "text": "Come On In My Kitchen by Robert Johnson",
+            "href": "https://www.shazam.com/track/2872078/come-on-in-my-kitchen",
+            "image": "https://is5-ssl.mzstatic.com/image/thumb/Music/v4/e8/6d/91/e86d91ae-32ce-2eab-3124-41af9c3a1311/5099751723929.jpg/400x400cc.jpg",
+            "twitter": "I used @Shazam to discover Come On In My Kitchen by Robert Johnson.",
+            "html": "https://www.shazam.com/snippets/email-share/2872078?lang=en-US&country=GB",
+            "avatar": "https://is1-ssl.mzstatic.com/image/thumb/Features125/v4/ca/df/91/cadf91c2-0f43-7a03-d6e5-91778c2701ba/pr_source.png/800x800cc.jpg",
+            "snapchat": "https://www.shazam.com/partner/sc/track/2872078"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "actions": [
+                {
+                    "name": "apple",
+                    "type": "applemusicplay",
+                    "id": "580433054"
+                },
+                {
+                    "name": "apple",
+                    "type": "uri",
+                    "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/6a/64/27/6a6427ba-c5fc-3ecf-a4cf-3fcfa28c42bb/mzaf_16768803412732214563.plus.aac.ep.m4a"
+                }
+            ],
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/gb/album/come-on-in-my-kitchen/580432955?i=580433054&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/gb/album/come-on-in-my-kitchen/580432955?i=580433054&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                },
+                {
+                    "caption": "BUY",
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "uri": "https://itunes.apple.com/gb/album/come-on-in-my-kitchen/580432955?i=580433054&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "buy",
+                        "providername": "itunes"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "type": "buy",
+                    "listcaption": "Buy on iTunes",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "itunes"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:Come%20On%20In%20My%20Kitchen%20Robert%20Johnson"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27Come+On+In+My+Kitchen%27%20artist%3A%27Robert+Johnson%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": false,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [
+                    {
+                        "image": "https://is1-ssl.mzstatic.com/image/thumb/Features125/v4/ca/df/91/cadf91c2-0f43-7a03-d6e5-91778c2701ba/pr_source.png/800x800cc.jpg",
+                        "caption": "Robert Johnson"
+                    },
+                    {
+                        "image": "https://is5-ssl.mzstatic.com/image/thumb/Music/v4/e8/6d/91/e86d91ae-32ce-2eab-3124-41af9c3a1311/5099751723929.jpg/400x400cc.jpg",
+                        "caption": "Come On In My Kitchen"
+                    }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                    {
+                        "title": "Album",
+                        "text": "Guitar & Bass"
+                    },
+                    {
+                        "title": "Label",
+                        "text": "Sony Music Media"
+                    },
+                    {
+                        "title": "Released",
+                        "text": "1990"
+                    }
+                ]
+            },
+            {
+                "type": "LYRICS",
+                "text": [
+                    "Mmm mmm mmm mmm mmm mmm",
+                    "Mmm mmm mmm mmm mmm",
+                    "Mmm mmm mmm mmm mmm mmm",
+                    "Mmm mmm mmm mmm mmm",
+                    "You'd better come on in my kitchen",
+                    "Babe it going to be rainin outdoors",
+                    "Ah the woman I love",
+                    "Took from my best friend",
+                    "Some joker got lucky",
+                    "Stiole her back again",
+                    "You'd better come on in my kitchen",
+                    "Babe it going to be rainin outdoors",
+                    "Oh-ah she's gone",
+                    "I know she won't come back again",
+                    "I've taken the last nickel",
+                    "Out of her nation sack",
+                    "You'd better come on in my kitchen",
+                    "Babe it going to be rainin outdoors",
+                    "When a woman gets in trouble",
+                    "Everybody throws her down",
+                    "Lookin for her good friend",
+                    "None can be found",
+                    "You'd better come on in my kitchen",
+                    "Babe it going to be rainin outdoors",
+                    "Winter time's comin",
+                    "Its gonna be slow",
+                    "You can't make the winter babe",
+                    "Thats dry long so",
+                    "You'd better come on in my kitchen",
+                    "Babe it going to be rainin outdoors"
+                ],
+                "url": "https://cdn.shazam.com/lyrics/v1/en-US/GB/iphone/musixmatch/subtitles/16285714/171/1?token=80ac7a7589a3612ae03c8f6a32f2b906",
+                "footer": "Writer(s): Robert Johnson, T. Colley\nLyrics powered by www.musixmatch.com",
+                "tabname": "Lyrics",
+                "beacondata": {
+                    "lyricsid": "8889713",
+                    "providername": "musixmatch",
+                    "commontrackid": "16285714"
+                }
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/2872078/youtube/video?q=Robert+Johnson+%22Come+On+In+My+Kitchen%22"
+            },
+            {
+                "type": "RELATED",
+                "url": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-2872078?startFrom=0&pageSize=20&connected=",
+                "tabname": "Related"
+            }
+        ],
+        "url": "https://www.shazam.com/track/2872078/come-on-in-my-kitchen",
+        "artists": [
+            {
+                "id": "42",
+                "adamid": "314626"
+            }
+        ],
+        "isrc": "USSM19000070",
+        "genres": {
+            "primary": "Pop"
+        },
+        "urlparams": {
+            "{tracktitle}": "Come+On+In+My+Kitchen",
+            "{trackartist}": "Robert+Johnson"
+        },
+        "myshazam": {
+            "apple": {
+                "actions": [
+                    {
+                        "name": "myshazam:apple",
+                        "type": "uri",
+                        "uri": "https://music.apple.com/gb/album/come-on-in-my-kitchen/580432955?i=580433054&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                ]
+            }
+        },
+        "highlightsurls": {
+            "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/314626/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+        },
+        "relatedtracksurl": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-2872078?startFrom=0&pageSize=20&connected=",
+        "albumadamid": "580432955"
+    },
+    "tagid": "34C12BA8-306D-437C-873A-67DD3311548D"
+}

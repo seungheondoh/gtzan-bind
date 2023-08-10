@@ -1,0 +1,311 @@
+{
+    "matches": [
+        {
+            "id": "222541486",
+            "offset": 29.867599609,
+            "timeskew": 0.00021219254,
+            "frequencyskew": 0.0
+        },
+        {
+            "id": "222390271",
+            "offset": 29.654265625,
+            "timeskew": 0.0001989603,
+            "frequencyskew": -0.000120818615
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691632732175,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "368425",
+        "title": "Love You for Always",
+        "subtitle": "Mandy Moore",
+        "images": {
+            "background": "https://is4-ssl.mzstatic.com/image/thumb/Music126/v4/f4/2c/92/f42c92af-dcfb-468e-3160-73529ffb22cd/pr_source.png/800x800cc.jpg",
+            "coverart": "https://is3-ssl.mzstatic.com/image/thumb/Music/6f/c4/09/mzi.usnoynqk.jpg/400x400cc.jpg",
+            "coverarthq": "https://is3-ssl.mzstatic.com/image/thumb/Music/6f/c4/09/mzi.usnoynqk.jpg/400x400cc.jpg",
+            "joecolor": "b:ffffffp:110806s:3c2406t:413938q:635038"
+        },
+        "share": {
+            "subject": "Love You for Always - Mandy Moore",
+            "text": "Love You for Always by Mandy Moore",
+            "href": "https://www.shazam.com/track/368425/love-you-for-always",
+            "image": "https://is3-ssl.mzstatic.com/image/thumb/Music/6f/c4/09/mzi.usnoynqk.jpg/400x400cc.jpg",
+            "twitter": "I used @Shazam to discover Love You for Always by Mandy Moore.",
+            "html": "https://www.shazam.com/snippets/email-share/368425?lang=en-US&country=GB",
+            "avatar": "https://is4-ssl.mzstatic.com/image/thumb/Music126/v4/f4/2c/92/f42c92af-dcfb-468e-3160-73529ffb22cd/pr_source.png/800x800cc.jpg",
+            "snapchat": "https://www.shazam.com/partner/sc/track/368425"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "actions": [
+                {
+                    "name": "apple",
+                    "type": "applemusicplay",
+                    "id": "193018601"
+                },
+                {
+                    "name": "apple",
+                    "type": "uri",
+                    "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/05/0d/a1/050da175-5892-6f44-e8fa-005b45d5cb3c/mzaf_16621881635317335401.plus.aac.ep.m4a"
+                }
+            ],
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/gb/album/love-you-for-always/193018462?i=193018601&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/gb/album/love-you-for-always/193018462?i=193018601&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                },
+                {
+                    "caption": "BUY",
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "uri": "https://itunes.apple.com/gb/album/love-you-for-always/193018462?i=193018601&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "buy",
+                        "providername": "itunes"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "type": "buy",
+                    "listcaption": "Buy on iTunes",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "itunes"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:Love%20You%20for%20Always%20Mandy%20Moore"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27Love+You+for+Always%27%20artist%3A%27Mandy+Moore%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": false,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [
+                    {
+                        "image": "https://is4-ssl.mzstatic.com/image/thumb/Music126/v4/f4/2c/92/f42c92af-dcfb-468e-3160-73529ffb22cd/pr_source.png/800x800cc.jpg",
+                        "caption": "Mandy Moore"
+                    },
+                    {
+                        "image": "https://is3-ssl.mzstatic.com/image/thumb/Music/6f/c4/09/mzi.usnoynqk.jpg/400x400cc.jpg",
+                        "caption": "Love You for Always"
+                    }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                    {
+                        "title": "Album",
+                        "text": "So Real"
+                    },
+                    {
+                        "title": "Label",
+                        "text": "Epic/550 Music"
+                    },
+                    {
+                        "title": "Released",
+                        "text": "1999"
+                    }
+                ]
+            },
+            {
+                "type": "LYRICS",
+                "text": [
+                    "1, 2, 3, 4... 1, 2, 3, 4... Boy I wanna be where you are",
+                    "It don't matter if you're near or you're far",
+                    "You're fillin' my heart All the way to the top",
+                    "And it's you...",
+                    "I'm lovin' for always",
+                    "Catch me, I'm a shooting star",
+                    "Make a wish",
+                    "Close your eyes, cross your heart",
+                    "Your love is so rare",
+                    "And I'm glad that you're here in my arms",
+                    "I'll love you for always Dreamin' of you tonight",
+                    "Prayin' that you will be mine",
+                    "Hopin' you'll be holding me tight",
+                    "Never ever letting me go",
+                    "I need you to know... 1, 2, 3, 4... You came into my life",
+                    "Made everything go right",
+                    "So sweet and tenderly",
+                    "Unlock the love, you've got the key",
+                    "Oh, I'm so satisfied",
+                    "This kind of love I just can't hide",
+                    "I'm gonna love you for always",
+                    "I'm gonna love you...",
+                    "Took my heart for a carousel ride",
+                    "Made it feel what I knew inside",
+                    "When I'm with you",
+                    "All that I seem to do is smile",
+                    "I love you for always",
+                    "Boy I'm floating on a cloud",
+                    "Wanna scream and shout it out loud",
+                    "I found amazing grace--In your eyes, in your face",
+                    "I'm in love...",
+                    "With you for always",
+                    "Dreamin' of you tonight",
+                    "Prayin' that you will be mine",
+                    "Hopin' you'll be holding me tight",
+                    "Never ever letting me go",
+                    "I need you to know... 1, 2, 3, 4... You came into my life",
+                    "Made everything go right",
+                    "So sweet and tenderly",
+                    "Unlock the love, you've got the key",
+                    "Oh, I'm so satisfied",
+                    "This kind of love I just can't hide",
+                    "I'm gonna love you for always",
+                    "I'm gonna love you for always",
+                    "I'm gonna love you, For always it's true",
+                    "I'm gonna love you for always",
+                    "I'm gonna love you for always Love You For Always So Real1, 2, 3, 4... 1, 2, 3, 4... Boy I wanna be where you are",
+                    "It don't matter if you're near or you're far",
+                    "You're fillin' my heart All the way to the top",
+                    "And it's you...",
+                    "I'm lovin' for always",
+                    "Catch me, I'm a shooting star",
+                    "Make a wish",
+                    "Close your eyes, cross your heart",
+                    "Your love is so rare",
+                    "And I'm glad that you're here in my arms",
+                    "I'll love you for always Dreamin' of you tonight",
+                    "Prayin' that you will be mine",
+                    "Hopin' you'll be holding me tight",
+                    "Never ever letting me go",
+                    "I need you to know... 1, 2, 3, 4... You came into my life",
+                    "Made everything go right",
+                    "So sweet and tenderly",
+                    "Unlock the love, you've got the key",
+                    "Oh, I'm so satisfied",
+                    "This kind of love I just can't hide",
+                    "I'm gonna love you for always",
+                    "I'm gonna love you...",
+                    "Took my heart for a carousel ride",
+                    "Made it feel what I knew inside",
+                    "When I'm with you",
+                    "All that I seem to do is smile",
+                    "I love you for always",
+                    "Boy I'm floating on a cloud",
+                    "Wanna scream and shout it out loud",
+                    "I found amazing grace--In your eyes, in your face",
+                    "I'm in love...",
+                    "With you for always",
+                    "Dreamin' of you tonight",
+                    "Prayin' that you will be mine",
+                    "Hopin' you'll be holding me tight",
+                    "Never ever letting me go",
+                    "I need you to know... 1, 2, 3, 4... You came into my life",
+                    "Made everything go right",
+                    "So sweet and tenderly",
+                    "Unlock the love, you've got the key",
+                    "Oh, I'm so satisfied",
+                    "This kind of love I just can't hide",
+                    "I'm gonna love you for always",
+                    "I'm gonna love you for always",
+                    "I'm gonna love you, For always it's true",
+                    "I'm gonna love you for always",
+                    "I'm gonna love you for always"
+                ],
+                "footer": "Writer(s): Anthony C. Battaglia, Shaun Fisher\nLyrics powered by www.musixmatch.com",
+                "tabname": "Lyrics",
+                "beacondata": {
+                    "lyricsid": "3435774",
+                    "providername": "musixmatch",
+                    "commontrackid": "848380"
+                }
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/368425/youtube/video?q=Mandy+Moore+%22Love+You+for+Always%22"
+            }
+        ],
+        "url": "https://www.shazam.com/track/368425/love-you-for-always",
+        "artists": [
+            {
+                "id": "42",
+                "adamid": "464984"
+            }
+        ],
+        "isrc": "USSM19908408",
+        "genres": {
+            "primary": "Pop"
+        },
+        "urlparams": {
+            "{tracktitle}": "Love+You+for+Always",
+            "{trackartist}": "Mandy+Moore"
+        },
+        "myshazam": {
+            "apple": {
+                "actions": [
+                    {
+                        "name": "myshazam:apple",
+                        "type": "uri",
+                        "uri": "https://music.apple.com/gb/album/love-you-for-always/193018462?i=193018601&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                ]
+            }
+        },
+        "highlightsurls": {
+            "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/464984/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+        },
+        "albumadamid": "193018462"
+    },
+    "tagid": "FDCBD4B3-BB23-47A0-8D82-1BC20D272F06"
+}

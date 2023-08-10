@@ -1,0 +1,250 @@
+{
+    "matches": [
+        {
+            "id": "291681264",
+            "offset": 30.01227539,
+            "timeskew": 0.00012660027,
+            "frequencyskew": 0.0
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691633443494,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "473960",
+        "title": "Maria",
+        "subtitle": "George Strait",
+        "images": {
+            "background": "https://is5-ssl.mzstatic.com/image/thumb/Features115/v4/5c/bc/5c/5cbc5cc4-2f14-512a-25a8-9bc4c37d4c11/mzl.whvoujpl.jpg/800x800cc.jpg",
+            "coverart": "https://is4-ssl.mzstatic.com/image/thumb/Music124/v4/f0/c8/36/f0c83650-b55f-40ea-e021-26bdb7f1ca2e/00008817002026.rgb.jpg/400x400cc.jpg",
+            "coverarthq": "https://is4-ssl.mzstatic.com/image/thumb/Music124/v4/f0/c8/36/f0c83650-b55f-40ea-e021-26bdb7f1ca2e/00008817002026.rgb.jpg/400x400cc.jpg",
+            "joecolor": "b:030d0ep:91b4e9s:73aee9t:7492bdq:5c8ebd"
+        },
+        "share": {
+            "subject": "Maria - George Strait",
+            "text": "Maria by George Strait",
+            "href": "https://www.shazam.com/track/473960/maria",
+            "image": "https://is4-ssl.mzstatic.com/image/thumb/Music124/v4/f0/c8/36/f0c83650-b55f-40ea-e021-26bdb7f1ca2e/00008817002026.rgb.jpg/400x400cc.jpg",
+            "twitter": "I used @Shazam to discover Maria by George Strait.",
+            "html": "https://www.shazam.com/snippets/email-share/473960?lang=en-US&country=GB",
+            "avatar": "https://is5-ssl.mzstatic.com/image/thumb/Features115/v4/5c/bc/5c/5cbc5cc4-2f14-512a-25a8-9bc4c37d4c11/mzl.whvoujpl.jpg/800x800cc.jpg",
+            "snapchat": "https://www.shazam.com/partner/sc/track/473960"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "actions": [
+                {
+                    "name": "apple",
+                    "type": "applemusicplay",
+                    "id": "1444041530"
+                },
+                {
+                    "name": "apple",
+                    "type": "uri",
+                    "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/3c/8c/24/3c8c2432-4038-8878-a257-561473fdeb0f/mzaf_9171312435041049071.plus.aac.ep.m4a"
+                }
+            ],
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/gb/album/maria/1444041057?i=1444041530&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/gb/album/maria/1444041057?i=1444041530&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                },
+                {
+                    "caption": "BUY",
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "uri": "https://itunes.apple.com/gb/album/maria/1444041057?i=1444041530&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "buy",
+                        "providername": "itunes"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "type": "buy",
+                    "listcaption": "Buy on iTunes",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "itunes"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:Maria%20George%20Strait"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27Maria%27%20artist%3A%27George+Strait%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": false,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [
+                    {
+                        "image": "https://is5-ssl.mzstatic.com/image/thumb/Features115/v4/5c/bc/5c/5cbc5cc4-2f14-512a-25a8-9bc4c37d4c11/mzl.whvoujpl.jpg/800x800cc.jpg",
+                        "caption": "George Strait"
+                    },
+                    {
+                        "image": "https://is4-ssl.mzstatic.com/image/thumb/Music124/v4/f0/c8/36/f0c83650-b55f-40ea-e021-26bdb7f1ca2e/00008817002026.rgb.jpg/400x400cc.jpg",
+                        "caption": "Maria"
+                    }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                    {
+                        "title": "Album",
+                        "text": "One Step at a Time"
+                    },
+                    {
+                        "title": "Label",
+                        "text": "MCA Nashville"
+                    },
+                    {
+                        "title": "Released",
+                        "text": "1998"
+                    }
+                ]
+            },
+            {
+                "type": "LYRICS",
+                "text": [
+                    "There's a soft rain tappin' on your window",
+                    "There's a cool breeze blowin' off the bay",
+                    "And a warm flame dancin' with our shadows",
+                    "To music playin' far away",
+                    "",
+                    "I never meant to stay an hour",
+                    "I thought that I was passin' through",
+                    "Another town along the highway",
+                    "I never meant to fall for you",
+                    "",
+                    "But I can't speak for you, Maria",
+                    "I only know the way I feel",
+                    "When I sleep with you, Maria",
+                    "There's nothin' left for dreams to steal",
+                    "",
+                    "On a Bible by the mirror",
+                    "The only treasures that we hold",
+                    "The only secrets that we're keepin'",
+                    "A watch, a chain, a cross of gold",
+                    "",
+                    "But I can't speak for you, Maria",
+                    "I only know the way I feel",
+                    "When I sleep with you, Maria",
+                    "There's nothin' left for dreams to steal",
+                    "",
+                    "When the sunlight brings the mornin'",
+                    "I can't tell you what I'll do",
+                    "But I've a mind to take you with me",
+                    "And I've a heart to stay with you",
+                    "",
+                    "But I can't speak for you, Maria",
+                    "I only know the way I feel",
+                    "When I sleep with you, Maria",
+                    "There's nothin' left for dreams to steal",
+                    "",
+                    "When I sleep with you, Maria",
+                    "There's nothin' left for dreams to steal"
+                ],
+                "url": "https://cdn.shazam.com/lyrics/v1/en-US/GB/iphone/musixmatch/subtitles/237399/279/1?token=935b0dd6827ac2f3e95027839d7c90f8",
+                "footer": "Writer(s): Daniel Joseph Moore, Louis C. Stevenson, Lourens Hermanus Fourie\nLyrics powered by www.musixmatch.com",
+                "tabname": "Lyrics",
+                "beacondata": {
+                    "lyricsid": "24722298",
+                    "providername": "musixmatch",
+                    "commontrackid": "237399"
+                }
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/473960/youtube/video?q=George+Strait+%22Maria%22"
+            }
+        ],
+        "url": "https://www.shazam.com/track/473960/maria",
+        "artists": [
+            {
+                "id": "42",
+                "adamid": "96353"
+            }
+        ],
+        "isrc": "USMC19701152",
+        "genres": {
+            "primary": "Pop"
+        },
+        "urlparams": {
+            "{tracktitle}": "Maria",
+            "{trackartist}": "George+Strait"
+        },
+        "myshazam": {
+            "apple": {
+                "actions": [
+                    {
+                        "name": "myshazam:apple",
+                        "type": "uri",
+                        "uri": "https://music.apple.com/gb/album/maria/1444041057?i=1444041530&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                ]
+            }
+        },
+        "highlightsurls": {
+            "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/96353/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+        },
+        "albumadamid": "1444041057"
+    },
+    "tagid": "3CF22017-CC34-4A03-8997-530247F3A816"
+}

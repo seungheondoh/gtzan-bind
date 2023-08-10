@@ -1,0 +1,195 @@
+{
+    "matches": [
+        {
+            "id": "560814680",
+            "offset": 29.973128906000003,
+            "timeskew": -0.00010204315,
+            "frequencyskew": -9.202957e-05
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691632560454,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "449992660",
+        "title": "I Bought a Racoon",
+        "subtitle": "Buckwheat Zydeco Ils Sont Partis",
+        "images": {
+            "background": "https://is2-ssl.mzstatic.com/image/thumb/Music124/v4/0b/db/c5/0bdbc5b1-53ba-7bd1-a7c2-dffd9f0a0f04/195497896981.jpg/400x400cc.jpg",
+            "coverart": "https://is2-ssl.mzstatic.com/image/thumb/Music124/v4/0b/db/c5/0bdbc5b1-53ba-7bd1-a7c2-dffd9f0a0f04/195497896981.jpg/400x400cc.jpg",
+            "coverarthq": "https://is2-ssl.mzstatic.com/image/thumb/Music124/v4/0b/db/c5/0bdbc5b1-53ba-7bd1-a7c2-dffd9f0a0f04/195497896981.jpg/400x400cc.jpg",
+            "joecolor": "b:f4de28p:000000s:64130bt:302c08q:813b11"
+        },
+        "share": {
+            "subject": "I Bought a Racoon - Buckwheat Zydeco Ils Sont Partis",
+            "text": "I Bought a Racoon by Buckwheat Zydeco Ils Sont Partis",
+            "href": "https://www.shazam.com/track/449992660/i-bought-a-racoon",
+            "image": "https://is2-ssl.mzstatic.com/image/thumb/Music124/v4/0b/db/c5/0bdbc5b1-53ba-7bd1-a7c2-dffd9f0a0f04/195497896981.jpg/400x400cc.jpg",
+            "twitter": "I used @Shazam to discover I Bought a Racoon by Buckwheat Zydeco Ils Sont Partis.",
+            "html": "https://www.shazam.com/snippets/email-share/449992660?lang=en-US&country=GB",
+            "snapchat": "https://www.shazam.com/partner/sc/track/449992660"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "actions": [
+                {
+                    "name": "apple",
+                    "type": "applemusicplay",
+                    "id": "1556745833"
+                },
+                {
+                    "name": "apple",
+                    "type": "uri",
+                    "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview124/v4/9f/a3/8c/9fa38c34-44b1-560a-c558-c9daece44bc6/mzaf_345030511622332931.plus.aac.ep.m4a"
+                }
+            ],
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/gb/album/i-bought-a-racoon/1556745659?i=1556745833&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/gb/album/i-bought-a-racoon/1556745659?i=1556745833&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                },
+                {
+                    "caption": "BUY",
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "uri": "https://itunes.apple.com/gb/album/i-bought-a-racoon/1556745659?i=1556745833&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "buy",
+                        "providername": "itunes"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "type": "buy",
+                    "listcaption": "Buy on iTunes",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "itunes"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:I%20Bought%20a%20Racoon%20Buckwheat%20Zydeco%20Ils%20Sont%20Partis"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27I+Bought+a+Racoon%27%20artist%3A%27Buckwheat+Zydeco+Ils+Sont+Partis%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": false,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [
+                    {
+                        "image": "https://is2-ssl.mzstatic.com/image/thumb/Music124/v4/0b/db/c5/0bdbc5b1-53ba-7bd1-a7c2-dffd9f0a0f04/195497896981.jpg/400x400cc.jpg",
+                        "caption": "I Bought a Racoon"
+                    }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                    {
+                        "title": "Album",
+                        "text": "One for the Road"
+                    },
+                    {
+                        "title": "Label",
+                        "text": "Paula Records"
+                    },
+                    {
+                        "title": "Released",
+                        "text": "1979"
+                    }
+                ]
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/449992660/youtube/video?q=Buckwheat+Zydeco+Ils+Sont+Partis+%22I+Bought+a+Racoon%22"
+            }
+        ],
+        "url": "https://www.shazam.com/track/449992660/i-bought-a-racoon",
+        "artists": [
+            {
+                "id": "42",
+                "adamid": "1556745832"
+            }
+        ],
+        "isrc": "QM4TW2123328",
+        "genres": {
+            "primary": "Zydeco"
+        },
+        "urlparams": {
+            "{tracktitle}": "I+Bought+a+Racoon",
+            "{trackartist}": "Buckwheat+Zydeco+Ils+Sont+Partis"
+        },
+        "myshazam": {
+            "apple": {
+                "actions": [
+                    {
+                        "name": "myshazam:apple",
+                        "type": "uri",
+                        "uri": "https://music.apple.com/gb/album/i-bought-a-racoon/1556745659?i=1556745833&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                ]
+            }
+        },
+        "highlightsurls": {
+            "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/1556745832/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+        },
+        "albumadamid": "1556745659"
+    },
+    "tagid": "B386E7DA-37D3-4C5E-B30A-47F9BD72C280"
+}

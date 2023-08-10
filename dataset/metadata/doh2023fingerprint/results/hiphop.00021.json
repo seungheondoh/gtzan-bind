@@ -1,0 +1,262 @@
+{
+    "matches": [
+        {
+            "id": "209570810",
+            "offset": 30.868953125,
+            "timeskew": -5.5134296e-05,
+            "frequencyskew": -8.0525875e-05
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691632883705,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "305552",
+        "title": "The Negotiation Limerick File",
+        "subtitle": "Beastie Boys",
+        "images": {
+            "background": "https://is5-ssl.mzstatic.com/image/thumb/Features115/v4/16/2c/76/162c767d-b00a-5664-1548-df303ae12729/mza_8084110850478364065.png/800x800cc.jpg",
+            "coverart": "https://is3-ssl.mzstatic.com/image/thumb/Music125/v4/aa/95/31/aa953192-7552-3a1d-d87f-e724717f3947/13UABIM07217.rgb.jpg/400x400cc.jpg",
+            "coverarthq": "https://is3-ssl.mzstatic.com/image/thumb/Music125/v4/aa/95/31/aa953192-7552-3a1d-d87f-e724717f3947/13UABIM07217.rgb.jpg/400x400cc.jpg",
+            "joecolor": "b:000000p:f6e252s:f7e06dt:c5b541q:c6b357"
+        },
+        "share": {
+            "subject": "The Negotiation Limerick File - Beastie Boys",
+            "text": "The Negotiation Limerick File by Beastie Boys",
+            "href": "https://www.shazam.com/track/305552/the-negotiation-limerick-file",
+            "image": "https://is3-ssl.mzstatic.com/image/thumb/Music125/v4/aa/95/31/aa953192-7552-3a1d-d87f-e724717f3947/13UABIM07217.rgb.jpg/400x400cc.jpg",
+            "twitter": "I used @Shazam to discover The Negotiation Limerick File by Beastie Boys.",
+            "html": "https://www.shazam.com/snippets/email-share/305552?lang=en-US&country=GB",
+            "avatar": "https://is5-ssl.mzstatic.com/image/thumb/Features115/v4/16/2c/76/162c767d-b00a-5664-1548-df303ae12729/mza_8084110850478364065.png/800x800cc.jpg",
+            "snapchat": "https://www.shazam.com/partner/sc/track/305552"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "actions": [
+                {
+                    "name": "apple",
+                    "type": "applemusicplay",
+                    "id": "721224489"
+                },
+                {
+                    "name": "apple",
+                    "type": "uri",
+                    "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/de/40/22/de402211-2c20-e323-02ef-6a972a7f48d2/mzaf_8228939135538571757.plus.aac.ep.m4a"
+                }
+            ],
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/gb/album/the-negotiation-limerick-file/721224205?i=721224489&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/gb/album/the-negotiation-limerick-file/721224205?i=721224489&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                },
+                {
+                    "caption": "BUY",
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "uri": "https://itunes.apple.com/gb/album/the-negotiation-limerick-file/721224205?i=721224489&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "buy",
+                        "providername": "itunes"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "type": "buy",
+                    "listcaption": "Buy on iTunes",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "itunes"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:The%20Negotiation%20Limerick%20File%20Beastie%20Boys"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27The+Negotiation+Limerick+File%27%20artist%3A%27Beastie+Boys%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": false,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [
+                    {
+                        "image": "https://is5-ssl.mzstatic.com/image/thumb/Features115/v4/16/2c/76/162c767d-b00a-5664-1548-df303ae12729/mza_8084110850478364065.png/800x800cc.jpg",
+                        "caption": "Beastie Boys"
+                    },
+                    {
+                        "image": "https://is3-ssl.mzstatic.com/image/thumb/Music125/v4/aa/95/31/aa953192-7552-3a1d-d87f-e724717f3947/13UABIM07217.rgb.jpg/400x400cc.jpg",
+                        "caption": "The Negotiation Limerick File"
+                    }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                    {
+                        "title": "Album",
+                        "text": "Hello Nasty (Deluxe Version) [Remastered]"
+                    },
+                    {
+                        "title": "Label",
+                        "text": "Capitol Records"
+                    },
+                    {
+                        "title": "Released",
+                        "text": "1998"
+                    }
+                ]
+            },
+            {
+                "type": "LYRICS",
+                "text": [
+                    "My DJ's got the cuts and the beats are on",
+                    "We're comin' with the lyrics and we're comin' strong",
+                    "And the rhythm's on time, every word and rhyme",
+                    "When it comes to keep it real, I keep it really wrong",
+                    "",
+                    "At the risk of sounding crass, I would like to mention",
+                    "That I'm well aware of your wack intentions",
+                    "To usurp my prose, you so-and-so",
+                    "It's my primary bone of contention",
+                    "",
+                    "I tell you, everybody, I've had it",
+                    "With all these people with static",
+                    "I'll go insane if it don't rain",
+                    "Sucker MCs are problematic",
+                    "",
+                    "I love it when you hit those switches",
+                    "I curve ball what my pitch is",
+                    "So here we-here we come, like dum-ditty-dum",
+                    "I keep all five boroughs in stitches",
+                    "",
+                    "Sound, sound, sound, sound",
+                    "Sound, sounds sweeter through the echoplex",
+                    "It'll spin you around and throw you in a hex",
+                    "Until you feel no pain inside your brain",
+                    "All your worries are soothed by the sound effects",
+                    "",
+                    "You read it in the Post and the Daily News",
+                    "Listen, everybody, let's show improve",
+                    "Don't let me begin about heroin",
+                    "Living six feet deep just ain't the move",
+                    "",
+                    "We're giving you soul power",
+                    "I like it sweet and sour",
+                    "When it comes to rhymes and beat designs",
+                    "I'm at the control tower",
+                    "",
+                    "Tell me what makes you so afraid",
+                    "Of all these people you say you hate",
+                    "Just give it one time for your mind",
+                    "And let's try to negotiate",
+                    "",
+                    "Let's try to negotiate",
+                    "Oh, let's try to negotiate"
+                ],
+                "url": "https://cdn.shazam.com/lyrics/v1/en-US/GB/iphone/musixmatch/subtitles/777149/166/1?token=637c6dec35736e293a4ff72328ca8afd",
+                "footer": "Writer(s): Michael Louis Diamond, Adam Horovitz, Adam Nathaniel Yauch, Mario Caldato Jr.\nLyrics powered by www.musixmatch.com",
+                "tabname": "Lyrics",
+                "beacondata": {
+                    "lyricsid": "30204948",
+                    "providername": "musixmatch",
+                    "commontrackid": "777149"
+                }
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/305552/youtube/video?q=Beastie+Boys+%22The+Negotiation+Limerick+File%22"
+            },
+            {
+                "type": "RELATED",
+                "url": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-305552?startFrom=0&pageSize=20&connected=",
+                "tabname": "Related"
+            }
+        ],
+        "url": "https://www.shazam.com/track/305552/the-negotiation-limerick-file",
+        "artists": [
+            {
+                "id": "42",
+                "adamid": "1971863"
+            }
+        ],
+        "isrc": "USCA20903773",
+        "genres": {
+            "primary": "Hip-Hop/Rap"
+        },
+        "urlparams": {
+            "{tracktitle}": "The+Negotiation+Limerick+File",
+            "{trackartist}": "Beastie+Boys"
+        },
+        "myshazam": {
+            "apple": {
+                "actions": [
+                    {
+                        "name": "myshazam:apple",
+                        "type": "uri",
+                        "uri": "https://music.apple.com/gb/album/the-negotiation-limerick-file/721224205?i=721224489&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                ]
+            }
+        },
+        "highlightsurls": {
+            "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/1971863/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+        },
+        "relatedtracksurl": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-305552?startFrom=0&pageSize=20&connected=",
+        "albumadamid": "721224205"
+    },
+    "tagid": "9146A3A6-4FF8-4180-9829-7EB9A6B0DD75"
+}

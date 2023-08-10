@@ -1,0 +1,268 @@
+{
+    "matches": [
+        {
+            "id": "403709293",
+            "offset": 55.45996875,
+            "timeskew": -2.7120113e-05,
+            "frequencyskew": -8.0525875e-05
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691633717485,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "5914928",
+        "title": "Rocket",
+        "subtitle": "Def Leppard",
+        "images": {
+            "background": "https://is5-ssl.mzstatic.com/image/thumb/Music122/v4/e2/47/47/e24747b5-384c-8c23-59ca-262051f08999/pr_source.png/800x800cc.jpg",
+            "coverart": "https://is2-ssl.mzstatic.com/image/thumb/Music115/v4/0f/76/fa/0f76fa8d-8341-c0af-84d8-543b9193c728/17UM1IM41552.rgb.jpg/400x400cc.jpg",
+            "coverarthq": "https://is2-ssl.mzstatic.com/image/thumb/Music115/v4/0f/76/fa/0f76fa8d-8341-c0af-84d8-543b9193c728/17UM1IM41552.rgb.jpg/400x400cc.jpg",
+            "joecolor": "b:000000p:f0fbf5s:50b2e3t:c0c9c4q:408eb6"
+        },
+        "share": {
+            "subject": "Rocket - Def Leppard",
+            "text": "Rocket by Def Leppard",
+            "href": "https://www.shazam.com/track/5914928/rocket",
+            "image": "https://is2-ssl.mzstatic.com/image/thumb/Music115/v4/0f/76/fa/0f76fa8d-8341-c0af-84d8-543b9193c728/17UM1IM41552.rgb.jpg/400x400cc.jpg",
+            "twitter": "I used @Shazam to discover Rocket by Def Leppard.",
+            "html": "https://www.shazam.com/snippets/email-share/5914928?lang=en-US&country=GB",
+            "avatar": "https://is5-ssl.mzstatic.com/image/thumb/Music122/v4/e2/47/47/e24747b5-384c-8c23-59ca-262051f08999/pr_source.png/800x800cc.jpg",
+            "snapchat": "https://www.shazam.com/partner/sc/track/5914928"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "actions": [
+                {
+                    "name": "apple",
+                    "type": "applemusicplay",
+                    "id": "1440904084"
+                },
+                {
+                    "name": "apple",
+                    "type": "uri",
+                    "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/60/4d/67/604d67d5-dc8b-c9ff-26bc-61b10629aca1/mzaf_5878776045448908247.plus.aac.ep.m4a"
+                }
+            ],
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/gb/album/rocket/1440903625?i=1440904084&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/gb/album/rocket/1440903625?i=1440904084&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                },
+                {
+                    "caption": "BUY",
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "uri": "https://itunes.apple.com/gb/album/rocket/1440903625?i=1440904084&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "buy",
+                        "providername": "itunes"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "type": "buy",
+                    "listcaption": "Buy on iTunes",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "itunes"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:Rocket%20Def%20Leppard"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27Rocket%27%20artist%3A%27Def+Leppard%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": false,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [
+                    {
+                        "image": "https://is5-ssl.mzstatic.com/image/thumb/Music122/v4/e2/47/47/e24747b5-384c-8c23-59ca-262051f08999/pr_source.png/800x800cc.jpg",
+                        "caption": "Def Leppard"
+                    },
+                    {
+                        "image": "https://is2-ssl.mzstatic.com/image/thumb/Music115/v4/0f/76/fa/0f76fa8d-8341-c0af-84d8-543b9193c728/17UM1IM41552.rgb.jpg/400x400cc.jpg",
+                        "caption": "Rocket"
+                    }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                    {
+                        "title": "Album",
+                        "text": "Hysteria"
+                    },
+                    {
+                        "title": "Label",
+                        "text": "UMC (Universal Music Catalogue)"
+                    },
+                    {
+                        "title": "Released",
+                        "text": "1987"
+                    }
+                ]
+            },
+            {
+                "type": "LYRICS",
+                "text": [
+                    "Guitar!",
+                    "Drums!",
+                    "",
+                    "White light, strange city, mad music all around",
+                    "Midnight street magic, crazy people crazy sound",
+                    "Jack flash, rocket man, sgt. Pepper and the band",
+                    "Ziggy, Benny and the jets, take a rocket, we just gotta fly",
+                    "",
+                    "I can take you through the center of the dark",
+                    "We gonna fly",
+                    "On a collision course to crash into my heart",
+                    "I will be your, I will be your, I'll be your",
+                    "",
+                    "Rocket, yeah, satellite of love",
+                    "Rocket, yeah, satellite of love",
+                    "Rocket, yeah, satellite of love",
+                    "Rocket, baby, c'mon",
+                    "I'll be your satellite of love",
+                    "",
+                    "Spotlight magnetic razor rhythm laser love",
+                    "Guitar, drums, load up, stun!",
+                    "Jet black, Johnny B, Jean Genie, killer queen",
+                    "Dizzy, Lizzy, major Tom, so c'mon, we just gotta fly",
+                    "",
+                    "I can take you through the center of the dark",
+                    "We gonna fly",
+                    "On a collision course to crash into my heart",
+                    "I will be your, I will be your, I'll be your",
+                    "",
+                    "Rocket, yeah, satellite of love",
+                    "Rocket, yeah, satellite of love",
+                    "Rocket, yeah, satellite of love",
+                    "Rocket, baby, c'mon, we're gonna fly",
+                    "",
+                    "I can take you through the center of the dark",
+                    "We gonna fly",
+                    "On a collision course to crash into my heart",
+                    "I will be your, I will be your, I'll be your",
+                    "",
+                    "Rocket, yeah, satellite of love",
+                    "Rocket, yeah, satellite of love",
+                    "Rocket, yeah, satellite of love",
+                    "Guitar, drums, light up",
+                    "",
+                    "We gonna fly, rocket yeah",
+                    "We gonna fly",
+                    "Rocket, yeah",
+                    "Rocket, baby, yeah"
+                ],
+                "url": "https://cdn.shazam.com/lyrics/v1/en-US/GB/iphone/musixmatch/subtitles/108531525/396/1?token=74caed7a3f3b699a17486d1b329eaaf0",
+                "footer": "Writer(s): Joseph Elliott, Mutt Lange, Philip Kenneth Collen, Richard Savage, Richard John Cyril Allen, Stephen Maynard Clark\nLyrics powered by www.musixmatch.com",
+                "tabname": "Lyrics",
+                "beacondata": {
+                    "lyricsid": "24522266",
+                    "providername": "musixmatch",
+                    "commontrackid": "108531525"
+                }
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/5914928/youtube/video?q=Def+Leppard+%22Rocket%22"
+            },
+            {
+                "type": "RELATED",
+                "url": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-5914928?startFrom=0&pageSize=20&connected=",
+                "tabname": "Related"
+            }
+        ],
+        "url": "https://www.shazam.com/track/5914928/rocket",
+        "artists": [
+            {
+                "id": "42",
+                "adamid": "117554"
+            }
+        ],
+        "isrc": "GBF088790002",
+        "genres": {
+            "primary": "Hard Rock"
+        },
+        "urlparams": {
+            "{tracktitle}": "Rocket",
+            "{trackartist}": "Def+Leppard"
+        },
+        "myshazam": {
+            "apple": {
+                "actions": [
+                    {
+                        "name": "myshazam:apple",
+                        "type": "uri",
+                        "uri": "https://music.apple.com/gb/album/rocket/1440903625?i=1440904084&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                ]
+            }
+        },
+        "highlightsurls": {
+            "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/117554/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios&videoIdToFilter=1362349313",
+            "trackhighlighturl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/highlights/1362349313?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+        },
+        "relatedtracksurl": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-5914928?startFrom=0&pageSize=20&connected=",
+        "albumadamid": "1440903625"
+    },
+    "tagid": "BBD9E212-3442-4E20-ACF3-3D04F93B9CCB"
+}

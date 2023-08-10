@@ -1,0 +1,260 @@
+{
+    "matches": [
+        {
+            "id": "249368459",
+            "offset": 29.894361328,
+            "timeskew": 3.8146973e-05,
+            "frequencyskew": -8.0525875e-05
+        },
+        {
+            "id": "568320232",
+            "offset": 29.76503125,
+            "timeskew": -0.0012848377,
+            "frequencyskew": -0.0009661317
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691632583457,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "336941",
+        "title": "One Bourbon, One Scotch, One Beer",
+        "subtitle": "John Lee Hooker",
+        "images": {
+            "background": "https://is3-ssl.mzstatic.com/image/thumb/Features125/v4/37/a2/79/37a279e5-d29c-f554-8c32-21263bf40a04/mzl.fijrwzwn.jpg/800x800cc.jpg",
+            "coverart": "https://is2-ssl.mzstatic.com/image/thumb/Music128/v4/d0/11/92/d011926c-1869-9188-858b-00f38419a921/00076732927120.rgb.jpg/400x400cc.jpg",
+            "coverarthq": "https://is2-ssl.mzstatic.com/image/thumb/Music128/v4/d0/11/92/d011926c-1869-9188-858b-00f38419a921/00076732927120.rgb.jpg/400x400cc.jpg",
+            "joecolor": "b:ffffffp:0e0c0fs:1b1816t:3e3d3fq:494645"
+        },
+        "share": {
+            "subject": "One Bourbon, One Scotch, One Beer - John Lee Hooker",
+            "text": "One Bourbon, One Scotch, One Beer by John Lee Hooker",
+            "href": "https://www.shazam.com/track/336941/one-bourbon-one-scotch-one-beer",
+            "image": "https://is2-ssl.mzstatic.com/image/thumb/Music128/v4/d0/11/92/d011926c-1869-9188-858b-00f38419a921/00076732927120.rgb.jpg/400x400cc.jpg",
+            "twitter": "I used @Shazam to discover One Bourbon, One Scotch, One Beer by John Lee Hooker.",
+            "html": "https://www.shazam.com/snippets/email-share/336941?lang=en-US&country=GB",
+            "avatar": "https://is3-ssl.mzstatic.com/image/thumb/Features125/v4/37/a2/79/37a279e5-d29c-f554-8c32-21263bf40a04/mzl.fijrwzwn.jpg/800x800cc.jpg",
+            "snapchat": "https://www.shazam.com/partner/sc/track/336941"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "actions": [
+                {
+                    "name": "apple",
+                    "type": "applemusicplay",
+                    "id": "1443903656"
+                },
+                {
+                    "name": "apple",
+                    "type": "uri",
+                    "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/63/7a/fa/637afad9-1b88-9140-52bb-596d25d4d536/mzaf_11505279554881395058.plus.aac.ep.m4a"
+                }
+            ],
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/gb/album/one-bourbon-one-scotch-one-beer/1443903193?i=1443903656&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/gb/album/one-bourbon-one-scotch-one-beer/1443903193?i=1443903656&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                },
+                {
+                    "caption": "BUY",
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "uri": "https://itunes.apple.com/gb/album/one-bourbon-one-scotch-one-beer/1443903193?i=1443903656&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "buy",
+                        "providername": "itunes"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "type": "buy",
+                    "listcaption": "Buy on iTunes",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "itunes"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:One%20Bourbon%2C%20One%20Scotch%2C%20One%20Beer%20John%20Lee%20Hooker"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27One+Bourbon%2C+One+Scotch%2C+One+Beer%27%20artist%3A%27John+Lee+Hooker%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": false,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [
+                    {
+                        "image": "https://is3-ssl.mzstatic.com/image/thumb/Features125/v4/37/a2/79/37a279e5-d29c-f554-8c32-21263bf40a04/mzl.fijrwzwn.jpg/800x800cc.jpg",
+                        "caption": "John Lee Hooker"
+                    },
+                    {
+                        "image": "https://is2-ssl.mzstatic.com/image/thumb/Music128/v4/d0/11/92/d011926c-1869-9188-858b-00f38419a921/00076732927120.rgb.jpg/400x400cc.jpg",
+                        "caption": "One Bourbon, One Scotch, One Beer"
+                    }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                    {
+                        "title": "Album",
+                        "text": "The Real Folk Blues"
+                    },
+                    {
+                        "title": "Label",
+                        "text": "Geffen*"
+                    },
+                    {
+                        "title": "Released",
+                        "text": "1966"
+                    }
+                ]
+            },
+            {
+                "type": "LYRICS",
+                "text": [
+                    "One bourbon, one scotch, and one beer",
+                    "One bourbon, one scotch, and one beer",
+                    "",
+                    "Hey, mister bartender come here",
+                    "I want another drink and I want it now",
+                    "My baby she gone, she been gone two night",
+                    "I ain't seen my baby since night before last",
+                    "",
+                    "One bourbon, one scotch, and one beer",
+                    "",
+                    "And then I sit there, gettin' high, mellow",
+                    "Knocked out, feeling good and by the time",
+                    "I looked on the wall, at the old clock on the wall",
+                    "By that time, it was 10:30 daddy",
+                    "I looked down the bar, at the bartender",
+                    "He said, \"Now what do you want Johnny?\"",
+                    "",
+                    "One bourbon, one scotch, and one beer",
+                    "",
+                    "Well, my baby she gone, she been gone two night",
+                    "I ain't seen my baby since night before last",
+                    "I wanna get drunk 'til I'm off of my mind",
+                    "",
+                    "One bourbon, one scotch, and one beer",
+                    "",
+                    "And I sat there, gettin' high, stoned",
+                    "Knocked out, and by the time",
+                    "I looked on the wall, at the old clock again",
+                    "And by that time, it was a quarter to two",
+                    "Last call for alcohol",
+                    "I said \"Hey mister bartender, what do you want?\"",
+                    "",
+                    "One bourbon, one scotch, and one beer",
+                    "One bourbon, one scotch, and one beer",
+                    "One bourbon, one scotch"
+                ],
+                "url": "https://cdn.shazam.com/lyrics/v1/en-US/GB/iphone/musixmatch/subtitles/242234/184/1?token=f1f75bb370848276bee50b6ee16c4979",
+                "footer": "Writer(s): John Lee Hooker\nLyrics powered by www.musixmatch.com",
+                "tabname": "Lyrics",
+                "beacondata": {
+                    "lyricsid": "30398811",
+                    "providername": "musixmatch",
+                    "commontrackid": "242234"
+                }
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/336941/youtube/video?q=John+Lee+Hooker+%22One+Bourbon,+One+Scotch,+One+Beer%22"
+            },
+            {
+                "type": "RELATED",
+                "url": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-336941?startFrom=0&pageSize=20&connected=",
+                "tabname": "Related"
+            }
+        ],
+        "url": "https://www.shazam.com/track/336941/one-bourbon-one-scotch-one-beer",
+        "artists": [
+            {
+                "id": "42",
+                "adamid": "97536"
+            }
+        ],
+        "isrc": "USMC16647772",
+        "genres": {
+            "primary": "Blues"
+        },
+        "urlparams": {
+            "{tracktitle}": "One+Bourbon%2C+One+Scotch%2C+One+Beer",
+            "{trackartist}": "John+Lee+Hooker"
+        },
+        "myshazam": {
+            "apple": {
+                "actions": [
+                    {
+                        "name": "myshazam:apple",
+                        "type": "uri",
+                        "uri": "https://music.apple.com/gb/album/one-bourbon-one-scotch-one-beer/1443903193?i=1443903656&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                ]
+            }
+        },
+        "highlightsurls": {
+            "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/97536/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+        },
+        "relatedtracksurl": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-336941?startFrom=0&pageSize=20&connected=",
+        "albumadamid": "1443903193"
+    },
+    "tagid": "C6D147FA-56F4-4D28-8552-868ABC842C9C"
+}

@@ -1,0 +1,311 @@
+{
+    "matches": [
+        {
+            "id": "294600407",
+            "offset": 30.34652539,
+            "timeskew": -0.00014579296,
+            "frequencyskew": -0.00016111135
+        },
+        {
+            "id": "409195526",
+            "offset": 29.881207031000002,
+            "timeskew": -1.2934208e-05,
+            "frequencyskew": 0.0
+        },
+        {
+            "id": "318860516",
+            "offset": 29.831728515,
+            "timeskew": -0.00011307001,
+            "frequencyskew": -4.029274e-05
+        },
+        {
+            "id": "202529661",
+            "offset": 29.81036914,
+            "timeskew": 0.0059114695,
+            "frequencyskew": 0.0054922104
+        },
+        {
+            "id": "219763096",
+            "offset": 30.92415625,
+            "timeskew": 0.0023978949,
+            "frequencyskew": 0.0021771193
+        },
+        {
+            "id": "481708837",
+            "offset": 30.209972656,
+            "timeskew": 0.0031268597,
+            "frequencyskew": 0.0025808811
+        },
+        {
+            "id": "216291576",
+            "offset": 30.127289062,
+            "timeskew": 0.004270673,
+            "frequencyskew": 0.00375247
+        },
+        {
+            "id": "479429361",
+            "offset": 29.958761718,
+            "timeskew": 0.0042364597,
+            "frequencyskew": 0.003914237
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691632500452,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "327808",
+        "title": "Cuba",
+        "subtitle": "Gibson Brothers",
+        "images": {
+            "background": "https://is1-ssl.mzstatic.com/image/thumb/Music/ca/83/4e/mzi.rwbqqhvj.jpg/400x400cc.jpg",
+            "coverart": "https://is1-ssl.mzstatic.com/image/thumb/Music/ca/83/4e/mzi.rwbqqhvj.jpg/400x400cc.jpg",
+            "coverarthq": "https://is1-ssl.mzstatic.com/image/thumb/Music/ca/83/4e/mzi.rwbqqhvj.jpg/400x400cc.jpg",
+            "joecolor": "b:fffcfdp:0b0b0as:551a1at:3c3b3bq:774747"
+        },
+        "share": {
+            "subject": "Cuba - Gibson Brothers",
+            "text": "Cuba by Gibson Brothers",
+            "href": "https://www.shazam.com/track/327808/cuba",
+            "image": "https://is1-ssl.mzstatic.com/image/thumb/Music/ca/83/4e/mzi.rwbqqhvj.jpg/400x400cc.jpg",
+            "twitter": "I used @Shazam to discover Cuba by Gibson Brothers.",
+            "html": "https://www.shazam.com/snippets/email-share/327808?lang=en-US&country=GB",
+            "snapchat": "https://www.shazam.com/partner/sc/track/327808"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "actions": [
+                {
+                    "name": "apple",
+                    "type": "applemusicplay",
+                    "id": "497193517"
+                },
+                {
+                    "name": "apple",
+                    "type": "uri",
+                    "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/d1/41/75/d141753e-0cb5-d6cc-8967-883d5813fff6/mzaf_12518244020188644946.plus.aac.ep.m4a"
+                }
+            ],
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/gb/album/cuba/497193510?i=497193517&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/gb/album/cuba/497193510?i=497193517&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                },
+                {
+                    "caption": "BUY",
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "uri": "https://itunes.apple.com/gb/album/cuba/497193510?i=497193517&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "buy",
+                        "providername": "itunes"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "type": "buy",
+                    "listcaption": "Buy on iTunes",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "itunes"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:Cuba%20Gibson%20Brothers"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27Cuba%27%20artist%3A%27Gibson+Brothers%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": false,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [
+                    {
+                        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music/ca/83/4e/mzi.rwbqqhvj.jpg/400x400cc.jpg",
+                        "caption": "Cuba"
+                    }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                    {
+                        "title": "Album",
+                        "text": "Blue Island"
+                    },
+                    {
+                        "title": "Label",
+                        "text": "Edel Records"
+                    },
+                    {
+                        "title": "Released",
+                        "text": "2005"
+                    }
+                ]
+            },
+            {
+                "type": "LYRICS",
+                "text": [
+                    "Cuba, quiero bailar la salsa",
+                    "Cuba, quiero bailar la salsa",
+                    "",
+                    "You dance to the music",
+                    "Like nobody does",
+                    "The first time I saw you",
+                    "I knew it was love",
+                    "",
+                    "Cuba, quiero bailar la salsa",
+                    "Cuba, quiero bailar la salsa",
+                    "",
+                    "My heart is on fire",
+                    "The night is divine",
+                    "My only desire",
+                    "Is making you mine",
+                    "",
+                    "You're the one that I want",
+                    "You're the one",
+                    "Yes, you are",
+                    "",
+                    "Cuba, quiero bailar la salsa",
+                    "Cuba, quiero bailar la salsa",
+                    "",
+                    "When you're in motion",
+                    "You seem not to care",
+                    "You hide your emotion",
+                    "No joy, no despair",
+                    "",
+                    "You're the one that I want",
+                    "You're the one",
+                    "Yes, you are",
+                    "",
+                    "Cuba, quiero bailar la salsa",
+                    "Cuba, quiero bailar la salsa",
+                    "",
+                    "You dance to the music",
+                    "Like nobody does",
+                    "The first time I saw you",
+                    "I knew it was love",
+                    "",
+                    "You're the one that I want",
+                    "You're the one",
+                    "Yes, you are",
+                    "",
+                    "You're the one that I want",
+                    "You're the one",
+                    "Yes, you are",
+                    "",
+                    "Cuba, quiero bailar la salsa",
+                    "Cuba, quiero bailar la salsa",
+                    "Cuba, quiero bailar la salsa",
+                    "Cuba, quiero bailar la salsa",
+                    "",
+                    "Cuba, quiero bailar la salsa",
+                    "Cuba..."
+                ],
+                "url": "https://cdn.shazam.com/lyrics/v1/en-US/GB/iphone/musixmatch/subtitles/13261095/439/1?token=369c3d7873ccc0807b3526bf1f31a79d",
+                "footer": "Writer(s): Daniel Vangarde, Jean Kluger, Alex Francfort\nLyrics powered by www.musixmatch.com",
+                "tabname": "Lyrics",
+                "beacondata": {
+                    "lyricsid": "22643776",
+                    "providername": "musixmatch",
+                    "commontrackid": "13261095"
+                }
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/327808/youtube/video?q=Gibson+Brothers+%22Cuba%22"
+            },
+            {
+                "type": "RELATED",
+                "url": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-327808?startFrom=0&pageSize=20&connected=",
+                "tabname": "Related"
+            }
+        ],
+        "url": "https://www.shazam.com/track/327808/cuba",
+        "artists": [
+            {
+                "id": "42",
+                "adamid": "53354071"
+            }
+        ],
+        "isrc": "DEH840500603",
+        "genres": {
+            "primary": "Pop"
+        },
+        "urlparams": {
+            "{tracktitle}": "Cuba",
+            "{trackartist}": "Gibson+Brothers"
+        },
+        "myshazam": {
+            "apple": {
+                "actions": [
+                    {
+                        "name": "myshazam:apple",
+                        "type": "uri",
+                        "uri": "https://music.apple.com/gb/album/cuba/497193510?i=497193517&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                ]
+            }
+        },
+        "highlightsurls": {
+            "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/53354071/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+        },
+        "relatedtracksurl": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-327808?startFrom=0&pageSize=20&connected=",
+        "albumadamid": "497193510"
+    },
+    "tagid": "90FBEC2E-0559-4CBD-AB43-BDF71A2E7003"
+}

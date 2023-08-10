@@ -1,0 +1,304 @@
+{
+    "matches": [
+        {
+            "id": "270993200",
+            "offset": 29.657263671,
+            "timeskew": 0.00017535686,
+            "frequencyskew": 0.00013804436
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691633748225,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "2883983",
+        "title": "My Faeryland Forgotten",
+        "subtitle": "Dark Tranquillity",
+        "images": {
+            "background": "https://is1-ssl.mzstatic.com/image/thumb/Features125/v4/40/de/29/40de298d-edf1-2a8a-a823-13c570d38efe/mzl.mfcnvbtd.jpg/800x800cc.jpg",
+            "coverart": "https://is1-ssl.mzstatic.com/image/thumb/Music6/v4/0c/46/9b/0c469b94-0351-1669-583f-fdd601775571/6417871013420_Cover.jpg/400x400cc.jpg",
+            "coverarthq": "https://is1-ssl.mzstatic.com/image/thumb/Music6/v4/0c/46/9b/0c469b94-0351-1669-583f-fdd601775571/6417871013420_Cover.jpg/400x400cc.jpg",
+            "joecolor": "b:283756p:e4eafas:b4c7e4t:bec6d9q:98aac7"
+        },
+        "share": {
+            "subject": "My Faeryland Forgotten - Dark Tranquillity",
+            "text": "My Faeryland Forgotten by Dark Tranquillity",
+            "href": "https://www.shazam.com/track/2883983/my-faeryland-forgotten",
+            "image": "https://is1-ssl.mzstatic.com/image/thumb/Music6/v4/0c/46/9b/0c469b94-0351-1669-583f-fdd601775571/6417871013420_Cover.jpg/400x400cc.jpg",
+            "twitter": "I used @Shazam to discover My Faeryland Forgotten by Dark Tranquillity.",
+            "html": "https://www.shazam.com/snippets/email-share/2883983?lang=en-US&country=GB",
+            "avatar": "https://is1-ssl.mzstatic.com/image/thumb/Features125/v4/40/de/29/40de298d-edf1-2a8a-a823-13c570d38efe/mzl.mfcnvbtd.jpg/800x800cc.jpg",
+            "snapchat": "https://www.shazam.com/partner/sc/track/2883983"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "actions": [
+                {
+                    "name": "apple",
+                    "type": "applemusicplay",
+                    "id": "706045478"
+                },
+                {
+                    "name": "apple",
+                    "type": "uri",
+                    "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/be/db/4a/bedb4a81-5830-ac93-bb73-e2a61015c8a5/mzaf_12569023885988402335.plus.aac.ep.m4a"
+                }
+            ],
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/gb/album/my-faeryland-forgotten/706045383?i=706045478&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/gb/album/my-faeryland-forgotten/706045383?i=706045478&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                },
+                {
+                    "caption": "BUY",
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "uri": "https://itunes.apple.com/gb/album/my-faeryland-forgotten/706045383?i=706045478&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "buy",
+                        "providername": "itunes"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "type": "buy",
+                    "listcaption": "Buy on iTunes",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "itunes"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:My%20Faeryland%20Forgotten%20Dark%20Tranquillity"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27My+Faeryland+Forgotten%27%20artist%3A%27Dark+Tranquillity%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": false,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [
+                    {
+                        "image": "https://is1-ssl.mzstatic.com/image/thumb/Features125/v4/40/de/29/40de298d-edf1-2a8a-a823-13c570d38efe/mzl.mfcnvbtd.jpg/800x800cc.jpg",
+                        "caption": "Dark Tranquillity"
+                    },
+                    {
+                        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music6/v4/0c/46/9b/0c469b94-0351-1669-583f-fdd601775571/6417871013420_Cover.jpg/400x400cc.jpg",
+                        "caption": "My Faeryland Forgotten"
+                    }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                    {
+                        "title": "Album",
+                        "text": "Skydancer"
+                    },
+                    {
+                        "title": "Label",
+                        "text": "Clandestine Music"
+                    },
+                    {
+                        "title": "Released",
+                        "text": "1993"
+                    }
+                ]
+            },
+            {
+                "type": "LYRICS",
+                "text": [
+                    "Labyrinth of time...",
+                    "Mine alone for now and ever more",
+                    "(I'm all alone...)",
+                    "",
+                    "...and I flew",
+                    "Above sepulchral monoliths,",
+                    "Nebulously dancing beneath the dew",
+                    "(Of morning, in ye twilightland of old)",
+                    "Abiding teardrops borne by thorns,",
+                    "Thine fragments I twine true",
+                    "(In mourning, stream adorned in rage untold)",
+                    "",
+                    "...flow adorned in rage untold",
+                    "Eternal - forever - more",
+                    "And they'll forever grow",
+                    "And hold in heart what springs anew",
+                    "",
+                    "From the shadowsglades unwitnessed",
+                    "Which light the flames",
+                    "From deep within where we all grew",
+                    "...Everlasting ember-glow",
+                    "",
+                    "Labyrinth of Time,",
+                    "In harmony confined",
+                    "",
+                    "Thus the dark heat from",
+                    "Beyond the stars",
+                    "Engulfed a world of fear still robed in ice",
+                    "A throne in fire dies...",
+                    "Pulsating through the skies",
+                    "",
+                    "He who wore the gown",
+                    "Shall drown the \"Reich of tears\" in cries",
+                    "Enthroned in fire dies...",
+                    "A kingdom's last demise",
+                    "",
+                    "And I know...",
+                    "The ardent hearth midst life and death",
+                    "Won't end my journey morrowless",
+                    "(I won't laugh in mirth all sorrowless)",
+                    "",
+                    "Come, fly afloat on a wave of emotions,",
+                    "Of crestfallen scorn",
+                    "Oh, this my whirlwind of darkness",
+                    "A tide I once lulled but alas now withdrawn",
+                    "",
+                    "Now... hand in hand with sorrow",
+                    "Towards the still, perpetual seas",
+                    "Into the tranquil depths of solitude",
+                    "In bliss my spirit flees",
+                    "",
+                    "Through the wind I will go",
+                    "To my twilightland, alone",
+                    "Where sanctuary is mine",
+                    "Within my throneworld, my labyrinth of time",
+                    "",
+                    "And he who is the God",
+                    "Of an infinite shape and faces,",
+                    "Ever weaving fates of life",
+                    "Upon the pattern of his traces",
+                    "In the Golden Dawn of Winter",
+                    "He'll stand risen from the night",
+                    "In serenity all solemn,",
+                    "Clad in moonlight's milky white",
+                    "",
+                    "Through the wind I will go",
+                    "To my twilightland, alone",
+                    "Where sanctuary is mine",
+                    "Within the hands of this labyrinth of time",
+                    "",
+                    "Labyrinth of time...",
+                    "Eternal - forever - more",
+                    "Time... infinity of mind",
+                    "Divinity of life",
+                    "",
+                    "Labyrinth of time",
+                    "In harmony confined",
+                    "",
+                    "Burn - upon my",
+                    "Might - by my",
+                    "Command - into the fire",
+                    "",
+                    "Your throne of fire fell...",
+                    "Bestowed upon your Hell",
+                    "",
+                    "Burnt shall be your",
+                    "\"Might\", and your",
+                    "Command shan't drown my fire",
+                    "(...My Faeryland Forgotten)",
+                    "",
+                    "...Mine alone for now and ever more"
+                ],
+                "url": "https://cdn.shazam.com/lyrics/v1/en-US/GB/iphone/musixmatch/subtitles/1427978/277/1?token=1bcf3b82023fcc4a6981abeaa9bc73e1",
+                "footer": "Writer(s): Martin Hans Knut Henriksson, Anders Mikael Jivarp, Niklas Bo Sundin, Anders Par Friden, Mikael Bengt Stanne\nLyrics powered by www.musixmatch.com",
+                "tabname": "Lyrics",
+                "beacondata": {
+                    "lyricsid": "1352202",
+                    "providername": "musixmatch",
+                    "commontrackid": "1427978"
+                }
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/2883983/youtube/video?q=Dark+Tranquillity+%22My+Faeryland+Forgotten%22"
+            }
+        ],
+        "url": "https://www.shazam.com/track/2883983/my-faeryland-forgotten",
+        "artists": [
+            {
+                "id": "42",
+                "adamid": "18243687"
+            }
+        ],
+        "isrc": "GBDHC1247408",
+        "genres": {
+            "primary": "Metal"
+        },
+        "urlparams": {
+            "{tracktitle}": "My+Faeryland+Forgotten",
+            "{trackartist}": "Dark+Tranquillity"
+        },
+        "myshazam": {
+            "apple": {
+                "actions": [
+                    {
+                        "name": "myshazam:apple",
+                        "type": "uri",
+                        "uri": "https://music.apple.com/gb/album/my-faeryland-forgotten/706045383?i=706045478&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                ]
+            }
+        },
+        "highlightsurls": {
+            "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/18243687/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+        },
+        "albumadamid": "706045383"
+    },
+    "tagid": "1249C60F-8B5B-442E-A3D5-DAC6F626C69F"
+}

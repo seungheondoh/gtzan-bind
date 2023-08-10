@@ -1,0 +1,195 @@
+{
+    "matches": [
+        {
+            "id": "235488133",
+            "offset": 30.007017578,
+            "timeskew": -6.633997e-05,
+            "frequencyskew": 0.0
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691632651356,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "57555425",
+        "title": "Squeeze-Box Boogie",
+        "subtitle": "Clifton Chenier",
+        "images": {
+            "background": "https://is5-ssl.mzstatic.com/image/thumb/Music115/v4/00/3c/25/003c2539-b117-8795-a019-94519e418dda/21UMGIM71408.rgb.jpg/400x400cc.jpg",
+            "coverart": "https://is5-ssl.mzstatic.com/image/thumb/Music115/v4/00/3c/25/003c2539-b117-8795-a019-94519e418dda/21UMGIM71408.rgb.jpg/400x400cc.jpg",
+            "coverarthq": "https://is5-ssl.mzstatic.com/image/thumb/Music115/v4/00/3c/25/003c2539-b117-8795-a019-94519e418dda/21UMGIM71408.rgb.jpg/400x400cc.jpg",
+            "joecolor": "b:191917p:9eed50s:fa592bt:84c344q:cd4c27"
+        },
+        "share": {
+            "subject": "Squeeze-Box Boogie - Clifton Chenier",
+            "text": "Squeeze-Box Boogie by Clifton Chenier",
+            "href": "https://www.shazam.com/track/57555425/squeeze-box-boogie",
+            "image": "https://is5-ssl.mzstatic.com/image/thumb/Music115/v4/00/3c/25/003c2539-b117-8795-a019-94519e418dda/21UMGIM71408.rgb.jpg/400x400cc.jpg",
+            "twitter": "I used @Shazam to discover Squeeze-Box Boogie by Clifton Chenier.",
+            "html": "https://www.shazam.com/snippets/email-share/57555425?lang=en-US&country=GB",
+            "snapchat": "https://www.shazam.com/partner/sc/track/57555425"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "actions": [
+                {
+                    "name": "apple",
+                    "type": "applemusicplay",
+                    "id": "1583598722"
+                },
+                {
+                    "name": "apple",
+                    "type": "uri",
+                    "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/44/f2/55/44f2559e-f398-4884-e492-0fadde26a4a8/mzaf_11840127001558444253.plus.aac.p.m4a"
+                }
+            ],
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/gb/album/squeeze-box-boogie/1583598710?i=1583598722&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/gb/album/squeeze-box-boogie/1583598710?i=1583598722&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                },
+                {
+                    "caption": "BUY",
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "uri": "https://itunes.apple.com/gb/album/squeeze-box-boogie/1583598710?i=1583598722&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "buy",
+                        "providername": "itunes"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "type": "buy",
+                    "listcaption": "Buy on iTunes",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "itunes"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:Squeeze-Box%20Boogie%20Clifton%20Chenier"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27Squeeze-Box+Boogie%27%20artist%3A%27Clifton+Chenier%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": false,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [
+                    {
+                        "image": "https://is5-ssl.mzstatic.com/image/thumb/Music115/v4/00/3c/25/003c2539-b117-8795-a019-94519e418dda/21UMGIM71408.rgb.jpg/400x400cc.jpg",
+                        "caption": "Squeeze-Box Boogie"
+                    }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                    {
+                        "title": "Album",
+                        "text": "Bayou Blues"
+                    },
+                    {
+                        "title": "Label",
+                        "text": "Specialty"
+                    },
+                    {
+                        "title": "Released",
+                        "text": "1955"
+                    }
+                ]
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/57555425/youtube/video?q=Clifton+Chenier+%22Squeeze-Box+Boogie%22"
+            }
+        ],
+        "url": "https://www.shazam.com/track/57555425/squeeze-box-boogie",
+        "artists": [
+            {
+                "id": "42",
+                "adamid": "2716210"
+            }
+        ],
+        "isrc": "USSPI5500301",
+        "genres": {
+            "primary": "World"
+        },
+        "urlparams": {
+            "{tracktitle}": "Squeeze-Box+Boogie",
+            "{trackartist}": "Clifton+Chenier"
+        },
+        "myshazam": {
+            "apple": {
+                "actions": [
+                    {
+                        "name": "myshazam:apple",
+                        "type": "uri",
+                        "uri": "https://music.apple.com/gb/album/squeeze-box-boogie/1583598710?i=1583598722&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                ]
+            }
+        },
+        "highlightsurls": {
+            "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/2716210/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+        },
+        "albumadamid": "1583598710"
+    },
+    "tagid": "F9EDDA1D-57F9-4F81-930B-D15718D66AE5"
+}

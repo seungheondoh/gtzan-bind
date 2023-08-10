@@ -1,0 +1,278 @@
+{
+    "matches": [
+        {
+            "id": "209570840",
+            "offset": 29.973673828,
+            "timeskew": 1.6331673e-05,
+            "frequencyskew": 0.0
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691632891571,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "305570",
+        "title": "Intergalactic",
+        "subtitle": "Beastie Boys",
+        "images": {
+            "background": "https://is5-ssl.mzstatic.com/image/thumb/Features115/v4/16/2c/76/162c767d-b00a-5664-1548-df303ae12729/mza_8084110850478364065.png/800x800cc.jpg",
+            "coverart": "https://is3-ssl.mzstatic.com/image/thumb/Music125/v4/aa/95/31/aa953192-7552-3a1d-d87f-e724717f3947/13UABIM07217.rgb.jpg/400x400cc.jpg",
+            "coverarthq": "https://is3-ssl.mzstatic.com/image/thumb/Music125/v4/aa/95/31/aa953192-7552-3a1d-d87f-e724717f3947/13UABIM07217.rgb.jpg/400x400cc.jpg",
+            "joecolor": "b:000000p:f6e252s:f7e06dt:c5b541q:c6b357"
+        },
+        "share": {
+            "subject": "Intergalactic - Beastie Boys",
+            "text": "Intergalactic by Beastie Boys",
+            "href": "https://www.shazam.com/track/305570/intergalactic",
+            "image": "https://is3-ssl.mzstatic.com/image/thumb/Music125/v4/aa/95/31/aa953192-7552-3a1d-d87f-e724717f3947/13UABIM07217.rgb.jpg/400x400cc.jpg",
+            "twitter": "I used @Shazam to discover Intergalactic by Beastie Boys.",
+            "html": "https://www.shazam.com/snippets/email-share/305570?lang=en-US&country=GB",
+            "avatar": "https://is5-ssl.mzstatic.com/image/thumb/Features115/v4/16/2c/76/162c767d-b00a-5664-1548-df303ae12729/mza_8084110850478364065.png/800x800cc.jpg",
+            "snapchat": "https://www.shazam.com/partner/sc/track/305570"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "actions": [
+                {
+                    "name": "apple",
+                    "type": "applemusicplay",
+                    "id": "721224385"
+                },
+                {
+                    "name": "apple",
+                    "type": "uri",
+                    "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/4d/21/8f/4d218f57-db3a-5304-8778-15743cd28c1d/mzaf_3875807828552249466.plus.aac.ep.m4a"
+                }
+            ],
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/gb/album/intergalactic/721224205?i=721224385&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/gb/album/intergalactic/721224205?i=721224385&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                },
+                {
+                    "caption": "BUY",
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "uri": "https://itunes.apple.com/gb/album/intergalactic/721224205?i=721224385&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "buy",
+                        "providername": "itunes"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "type": "buy",
+                    "listcaption": "Buy on iTunes",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "itunes"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:Intergalactic%20Beastie%20Boys"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27Intergalactic%27%20artist%3A%27Beastie+Boys%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": false,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [
+                    {
+                        "image": "https://is5-ssl.mzstatic.com/image/thumb/Features115/v4/16/2c/76/162c767d-b00a-5664-1548-df303ae12729/mza_8084110850478364065.png/800x800cc.jpg",
+                        "caption": "Beastie Boys"
+                    },
+                    {
+                        "image": "https://is3-ssl.mzstatic.com/image/thumb/Music125/v4/aa/95/31/aa953192-7552-3a1d-d87f-e724717f3947/13UABIM07217.rgb.jpg/400x400cc.jpg",
+                        "caption": "Intergalactic"
+                    }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                    {
+                        "title": "Album",
+                        "text": "Hello Nasty (Deluxe Version) [Remastered]"
+                    },
+                    {
+                        "title": "Label",
+                        "text": "Capitol Records"
+                    },
+                    {
+                        "title": "Released",
+                        "text": "1998"
+                    }
+                ]
+            },
+            {
+                "type": "LYRICS",
+                "text": [
+                    "Well, now don't you tell me to smile",
+                    "You stick around I'll make it worth your while",
+                    "Got numbers beyond what you can dial",
+                    "Maybe it's, because I'm so versatile",
+                    "",
+                    "Style profile I said",
+                    "It always brings me back when I hear (oh child)",
+                    "From the Hudson River out to the Nile",
+                    "I run the marathon 'til the very last mile",
+                    "",
+                    "If you battle me I will revile",
+                    "People always say my style is wild",
+                    "You've got gall you've got guile",
+                    "To step to me I'm a rapophile",
+                    "If you want to battle your in denial",
+                    "Coming from Uranus to check my style",
+                    "Go ahead put my rhymes on trial",
+                    "Cast you off into exile",
+                    "",
+                    "Jazz and awol that's our team",
+                    "Step inside the party disrupt the whole scene",
+                    "When it comes to beats well I'm a fiend",
+                    "I like my sugar with coffee and cream",
+                    "",
+                    "Well, I got to keep it going keep it going full steam",
+                    "Too sweet to be sour too nice to be mean",
+                    "On the tough guy style I'm not too keen",
+                    "To try to change the world I will plot and scheme",
+                    "",
+                    "Mario C likes to keep it clean",
+                    "Gonna shine like a sun beam",
+                    "Keep on rapping, 'cause that's my dream",
+                    "Got an A from Moe Dee for sticking to themes",
+                    "",
+                    "When it comes to envy y'all is green",
+                    "Jealous of the rhyme and the rhyme routine",
+                    "Another dimension new galaxy",
+                    "Intergalactic planetary",
+                    "",
+                    "From the family tree of old school (hip hop)",
+                    "Kick off your shoes and relax your (socks)",
+                    "The rhymes will spread just like a pox (pox)",
+                    "'Cause the music is live like an electric shock",
+                    "",
+                    "I am known to do the wop (wop)",
+                    "Also known for the flintstone flop (flop)",
+                    "Tammy D getting biz on the crop (crop)",
+                    "Beastie Boys known to let the beat, drop",
+                    "",
+                    "When I wrote graffiti my name was slop",
+                    "If my rap's soup my beats is stock",
+                    "Step from the tables as I start to chop",
+                    "I'm a lumber jack DJ Adrock",
+                    "",
+                    "If you try to knock me you'll get mocked",
+                    "I'll stir fry you in my wok",
+                    "Your knees'll start shaking and your fingers pop",
+                    "Like a pinch on the neck of Mr. Spock"
+                ],
+                "url": "https://cdn.shazam.com/lyrics/v1/en-US/GB/iphone/musixmatch/subtitles/47751478/231/1?token=3c79a1cc1eaf78e343de329f59b3b8f5",
+                "footer": "Writer(s): Michael Louis Diamond, Adam Nathaniel Yauch, Mario Caldato Jr., Adam Keefe Horovitz\nLyrics powered by www.musixmatch.com",
+                "tabname": "Lyrics",
+                "beacondata": {
+                    "lyricsid": "20073450",
+                    "providername": "musixmatch",
+                    "commontrackid": "47751478"
+                }
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/305570/youtube/video?q=Beastie+Boys+%22Intergalactic%22"
+            },
+            {
+                "type": "RELATED",
+                "url": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-305570?startFrom=0&pageSize=20&connected=",
+                "tabname": "Related"
+            }
+        ],
+        "url": "https://www.shazam.com/track/305570/intergalactic",
+        "artists": [
+            {
+                "id": "42",
+                "adamid": "1971863"
+            }
+        ],
+        "isrc": "USCA20903764",
+        "genres": {
+            "primary": "Hip-Hop/Rap"
+        },
+        "urlparams": {
+            "{tracktitle}": "Intergalactic",
+            "{trackartist}": "Beastie+Boys"
+        },
+        "myshazam": {
+            "apple": {
+                "actions": [
+                    {
+                        "name": "myshazam:apple",
+                        "type": "uri",
+                        "uri": "https://music.apple.com/gb/album/intergalactic/721224205?i=721224385&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                ]
+            }
+        },
+        "highlightsurls": {
+            "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/1971863/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios&videoIdToFilter=719607411",
+            "trackhighlighturl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/highlights/719607411?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+        },
+        "relatedtracksurl": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-305570?startFrom=0&pageSize=20&connected=",
+        "albumadamid": "721224205"
+    },
+    "tagid": "678F0F93-4C92-47D8-8066-021933055827"
+}

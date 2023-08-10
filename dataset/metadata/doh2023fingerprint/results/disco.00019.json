@@ -1,0 +1,300 @@
+{
+    "matches": [
+        {
+            "id": "206755584",
+            "offset": 30.258804687,
+            "timeskew": -0.00030362606,
+            "frequencyskew": -0.00036239624
+        },
+        {
+            "id": "287091509",
+            "offset": 29.892605468000003,
+            "timeskew": -0.0002964735,
+            "frequencyskew": -0.00040262938
+        },
+        {
+            "id": "278784666",
+            "offset": 30.16555664,
+            "timeskew": 0.0014238358,
+            "frequencyskew": 0.0013701916
+        },
+        {
+            "id": "45333490",
+            "offset": 30.942357421,
+            "timeskew": 0.0010274649,
+            "frequencyskew": 0.0014508963
+        },
+        {
+            "id": "40330293",
+            "offset": 30.865705077999998,
+            "timeskew": -0.0013332367,
+            "frequencyskew": -0.00060391426
+        },
+        {
+            "id": "443048957",
+            "offset": 30.127011718000002,
+            "timeskew": -0.00034153461,
+            "frequencyskew": -4.029274e-05
+        },
+        {
+            "id": "5696728",
+            "offset": 31.072498046,
+            "timeskew": 0.031323433,
+            "frequencyskew": 0.031888366
+        },
+        {
+            "id": "72636983",
+            "offset": 30.026222656,
+            "timeskew": 0.002400875,
+            "frequencyskew": 0.0032271147
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691632394990,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "2981471",
+        "title": "I\u2019m Doin\u2019 Fine Now",
+        "subtitle": "New York City",
+        "images": {
+            "background": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/e4/7a/7d/e47a7db7-faa9-a370-1533-0dfb13f20b68/cover.jpg/400x400cc.jpg",
+            "coverart": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/e4/7a/7d/e47a7db7-faa9-a370-1533-0dfb13f20b68/cover.jpg/400x400cc.jpg",
+            "coverarthq": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/e4/7a/7d/e47a7db7-faa9-a370-1533-0dfb13f20b68/cover.jpg/400x400cc.jpg",
+            "joecolor": "b:ffffe7p:19120es:191312t:47423aq:47423c"
+        },
+        "share": {
+            "subject": "I\u2019m Doin\u2019 Fine Now - New York City",
+            "text": "I\u2019m Doin\u2019 Fine Now by New York City",
+            "href": "https://www.shazam.com/track/2981471/im-doin-fine-now",
+            "image": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/e4/7a/7d/e47a7db7-faa9-a370-1533-0dfb13f20b68/cover.jpg/400x400cc.jpg",
+            "twitter": "I used @Shazam to discover I\u2019m Doin\u2019 Fine Now by New York City.",
+            "html": "https://www.shazam.com/snippets/email-share/2981471?lang=en-US&country=GB",
+            "snapchat": "https://www.shazam.com/partner/sc/track/2981471"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "actions": [
+                {
+                    "name": "apple",
+                    "type": "applemusicplay",
+                    "id": "1190578508"
+                },
+                {
+                    "name": "apple",
+                    "type": "uri",
+                    "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/85/f5/f6/85f5f617-7204-8b52-f8fa-da6e79a21915/mzaf_5065615199848366136.plus.aac.ep.m4a"
+                }
+            ],
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/gb/album/im-doin-fine-now/1190578072?i=1190578508&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/gb/album/im-doin-fine-now/1190578072?i=1190578508&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                },
+                {
+                    "caption": "BUY",
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "uri": "https://itunes.apple.com/gb/album/im-doin-fine-now/1190578072?i=1190578508&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "buy",
+                        "providername": "itunes"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "type": "buy",
+                    "listcaption": "Buy on iTunes",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "itunes"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:I%E2%80%99m%20Doin%E2%80%99%20Fine%20Now%20New%20York%20City"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27I%E2%80%99m+Doin%E2%80%99+Fine+Now%27%20artist%3A%27New+York+City%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": false,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [
+                    {
+                        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/e4/7a/7d/e47a7db7-faa9-a370-1533-0dfb13f20b68/cover.jpg/400x400cc.jpg",
+                        "caption": "I\u2019m Doin\u2019 Fine Now"
+                    }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                    {
+                        "title": "Album",
+                        "text": "I'm Doin' Fine Now"
+                    },
+                    {
+                        "title": "Label",
+                        "text": "Crimson"
+                    },
+                    {
+                        "title": "Released",
+                        "text": "1973"
+                    }
+                ]
+            },
+            {
+                "type": "LYRICS",
+                "text": [
+                    "Remember the day you up and left",
+                    "I nearly cried myself to death, oh yeah",
+                    "And then I met someone else",
+                    "She made me stop and get a hold of myself",
+                    "",
+                    "Oh girl, I'm doin' fine now",
+                    "Without you, baby",
+                    "I'm doin' fine now",
+                    "Without you baby",
+                    "",
+                    "Remember the day you walked away",
+                    "I ran behind you and I begged ya to stay, oh yeah",
+                    "But you never heard a word I said",
+                    "You kept on steppin'",
+                    "Never turning your head, yeah",
+                    "",
+                    "Oh girl, I'm doin' fine now",
+                    "Without you, baby",
+                    "I'm doin' fine now",
+                    "Without you, baby",
+                    "",
+                    "Do-do-do",
+                    "Do-do-do-do-do",
+                    "Do-do-do",
+                    "",
+                    "I'm doin' fine now",
+                    "Without you, baby",
+                    "I'm doin' fine now",
+                    "Without you, baby",
+                    "(I'm doin' fine now)",
+                    "Hey, you had a chance now",
+                    "Baby, baby",
+                    "(I'm doin' fine now)",
+                    "(Without you baby)",
+                    "Say, you had your chance",
+                    "Baby, baby",
+                    "(I'm doin' fine now)",
+                    "(Without you baby)",
+                    "You didn't want me around",
+                    "(I'm doin' fine now)",
+                    "(Without you baby)",
+                    "You had your chance",
+                    "(I'm doin' fine now)",
+                    "(Without you baby)"
+                ],
+                "url": "https://cdn.shazam.com/lyrics/v1/en-US/GB/iphone/musixmatch/subtitles/2589061/167/1?token=b5b86e1d5ca90fdd0d4081afa93922ef",
+                "footer": "Writer(s): Marshall Sherman, Thom Bell\nLyrics powered by www.musixmatch.com",
+                "tabname": "Lyrics",
+                "beacondata": {
+                    "lyricsid": "1649550",
+                    "providername": "musixmatch",
+                    "commontrackid": "2589061"
+                }
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/2981471/youtube/video?q=New+York+City+%22I%E2%80%99m+Doin%E2%80%99+Fine+Now%22"
+            },
+            {
+                "type": "RELATED",
+                "url": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-2981471?startFrom=0&pageSize=20&connected=",
+                "tabname": "Related"
+            }
+        ],
+        "url": "https://www.shazam.com/track/2981471/im-doin-fine-now",
+        "artists": [
+            {
+                "id": "42",
+                "adamid": "219074025"
+            }
+        ],
+        "isrc": "GBLGL1259690",
+        "genres": {
+            "primary": "R&B/Soul"
+        },
+        "urlparams": {
+            "{tracktitle}": "I%E2%80%99m+Doin%E2%80%99+Fine+Now",
+            "{trackartist}": "New+York+City"
+        },
+        "myshazam": {
+            "apple": {
+                "actions": [
+                    {
+                        "name": "myshazam:apple",
+                        "type": "uri",
+                        "uri": "https://music.apple.com/gb/album/im-doin-fine-now/1190578072?i=1190578508&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                ]
+            }
+        },
+        "highlightsurls": {
+            "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/219074025/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+        },
+        "relatedtracksurl": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-2981471?startFrom=0&pageSize=20&connected=",
+        "albumadamid": "1190578072"
+    },
+    "tagid": "4A8B5923-170C-400F-95BA-5F7747B89EDB"
+}

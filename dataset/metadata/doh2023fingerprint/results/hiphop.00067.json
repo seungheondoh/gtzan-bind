@@ -1,0 +1,302 @@
+{
+    "matches": [
+        {
+            "id": "357660056",
+            "offset": 150.1341875,
+            "timeskew": -8.189678e-05,
+            "frequencyskew": -4.029274e-05
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691632970919,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "52124359",
+        "title": "Award Tour",
+        "subtitle": "A Tribe Called Quest",
+        "images": {
+            "background": "https://is2-ssl.mzstatic.com/image/thumb/Features115/v4/a0/ad/bc/a0adbc34-694d-11c0-7bde-530856def3e0/mzl.mdbitjdo.jpg/800x800cc.jpg",
+            "coverart": "https://is3-ssl.mzstatic.com/image/thumb/Music125/v4/e7/d3/7d/e7d37d49-6b95-c7a7-c393-de38b1263205/dj.wnaxioby.jpg/400x400cc.jpg",
+            "coverarthq": "https://is3-ssl.mzstatic.com/image/thumb/Music125/v4/e7/d3/7d/e7d37d49-6b95-c7a7-c393-de38b1263205/dj.wnaxioby.jpg/400x400cc.jpg",
+            "joecolor": "b:c9bfb6p:181215s:241e1et:3b3435q:453e3c"
+        },
+        "share": {
+            "subject": "Award Tour - A Tribe Called Quest",
+            "text": "Award Tour by A Tribe Called Quest",
+            "href": "https://www.shazam.com/track/52124359/award-tour",
+            "image": "https://is3-ssl.mzstatic.com/image/thumb/Music125/v4/e7/d3/7d/e7d37d49-6b95-c7a7-c393-de38b1263205/dj.wnaxioby.jpg/400x400cc.jpg",
+            "twitter": "I used @Shazam to discover Award Tour by A Tribe Called Quest.",
+            "html": "https://www.shazam.com/snippets/email-share/52124359?lang=en-US&country=GB",
+            "avatar": "https://is2-ssl.mzstatic.com/image/thumb/Features115/v4/a0/ad/bc/a0adbc34-694d-11c0-7bde-530856def3e0/mzl.mdbitjdo.jpg/800x800cc.jpg",
+            "snapchat": "https://www.shazam.com/partner/sc/track/52124359"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "actions": [
+                {
+                    "name": "apple",
+                    "type": "applemusicplay",
+                    "id": "265670554"
+                },
+                {
+                    "name": "apple",
+                    "type": "uri",
+                    "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/58/db/06/58db0637-6adf-eb6d-231b-5e9af3ab1a46/mzaf_15194434109718335585.plus.aac.ep.m4a"
+                }
+            ],
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/gb/album/award-tour/265670545?i=265670554&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/gb/album/award-tour/265670545?i=265670554&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                },
+                {
+                    "caption": "BUY",
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "uri": "https://itunes.apple.com/gb/album/award-tour/265670545?i=265670554&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "buy",
+                        "providername": "itunes"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "type": "buy",
+                    "listcaption": "Buy on iTunes",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "itunes"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:Award%20Tour%20A%20Tribe%20Called%20Quest"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27Award+Tour%27%20artist%3A%27A+Tribe+Called+Quest%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": true,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [
+                    {
+                        "image": "https://is2-ssl.mzstatic.com/image/thumb/Features115/v4/a0/ad/bc/a0adbc34-694d-11c0-7bde-530856def3e0/mzl.mdbitjdo.jpg/800x800cc.jpg",
+                        "caption": "A Tribe Called Quest"
+                    },
+                    {
+                        "image": "https://is3-ssl.mzstatic.com/image/thumb/Music125/v4/e7/d3/7d/e7d37d49-6b95-c7a7-c393-de38b1263205/dj.wnaxioby.jpg/400x400cc.jpg",
+                        "caption": "Award Tour"
+                    }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                    {
+                        "title": "Album",
+                        "text": "Midnight Marauders"
+                    },
+                    {
+                        "title": "Label",
+                        "text": "Jive"
+                    },
+                    {
+                        "title": "Released",
+                        "text": "1993"
+                    }
+                ]
+            },
+            {
+                "type": "LYRICS",
+                "text": [
+                    "We on award tour with Muhammad my man",
+                    "Goin' each and every place with the mic in their hand",
+                    "New York, NJ, N.C., VA",
+                    "We on award tour with Muhammad my man",
+                    "Goin' each and every place with the mic in their hand",
+                    "Oaktown, L.A., San Fran, St. John",
+                    "",
+                    "People give your ears so, I be sublime",
+                    "It's enjoyable to know you and the concubine",
+                    "Niggaz, take off your coats ladies, act like gems",
+                    "Sit down, Indian style, as we recite these hymns",
+                    "See, lyrically I'm Mario Andretti on the mo-mo",
+                    "Ludicrously speedy, or infectious with the slow-mo",
+                    "Heard me in the eighties, J Beez on the promo",
+                    "On my never endin' quest to get the paper on the caper",
+                    "But now, let me take it to the queens side",
+                    "I'm takin it to Brooklyn side",
+                    "All the residential questers to invade the way",
+                    "Hold up a second son, 'cuz we almost there",
+                    "You can be a black man and lose all your soul",
+                    "You can be white and groove but don't perp the roll",
+                    "See my sh-t is universal, if you got knowledge and dolo",
+                    "Of delf for self, see there's no one else",
+                    "Who can drop it on the angle, acute at that",
+                    "So, do that, do that, do do that that that (Come on)",
+                    "Do that, do that, do do that that that (Ok)",
+                    "Do that, do that, do do that that that",
+                    "I'm buggin' out so, let me get back 'cuz I'm wettin niggaz",
+                    "So, run and tell the others 'cuz we are the brothas",
+                    "",
+                    "I learned how to build mics in my workshop class",
+                    "",
+                    "So give me this award, and let's not make it the last",
+                    "",
+                    "We on award tour with Muhammad my man",
+                    "Goin' each and every place with the mic in their hand",
+                    "",
+                    "Chinatown, Spokane, London, Tokyo",
+                    "We on award tour with Muhammad my man",
+                    "",
+                    "Goin' each and every place with the mic in their hand",
+                    "Houston, Delaware, DC, Dallas",
+                    "",
+                    "Back in '89, I simply slid into place",
+                    "Buddy, buddy, buddy all up in your face",
+                    "A lot of kids was bustin' rhymes, but they had no taste",
+                    "Some said Quest was wack, but now is that the case",
+                    "I have a quest to have the mic in my hand",
+                    "Without that, it's like Kryptonite and Superman",
+                    "So Shaheed come in with the sugar cuts",
+                    "Phife Dawg's my name, but on stage, call me Dynomutt",
+                    "When was the last time you heard the Phifer sloppy",
+                    "Lyrics anonymous, you'll never hear me copy",
+                    "Top notch baby, never comin' less",
+                    "Sky's the limit, you gots to believe up in quest",
+                    "Sit back, relax, get up out the path",
+                    "If not that, here's the dancefloor, come move that -ss",
+                    "Non believers, you can the steps",
+                    "I roll with Shaheed and the brotha abstract",
+                    "Niggaz know the time when the quest is in the jam",
+                    "I never let a statue tell me how nice I am",
+                    "",
+                    "Comin' with more hits than the Braves and the Yankees",
+                    "Livin' mad phat like an over sized Bam-bi",
+                    "The wackest crews try to dis, it makes me laugh",
+                    "",
+                    "When my track record's longer than a DC-20 aircraft",
+                    "So, next time that you think you want somethin' here",
+                    "Make somethin' deffer, take that garbage to St. Elsewhere",
+                    "",
+                    "We on award tour with Muhammad my man",
+                    "Goin' each and every place with the mic in their hand",
+                    "S.C., Maryland, New Orleans, Motown",
+                    "We on award tour with Muhammad my man",
+                    "Goin' each and every place with the mic in their hand",
+                    "Chinatown, Spokane, London, Tokyo",
+                    "We on award tour with Muhammad my man",
+                    "Goin' each and every place with the mic in their hand",
+                    "Houston, Delaware, DC, Dallas",
+                    "We on Award Tour with Muhammad my man",
+                    "Goin' each and every place with the mic in their hand",
+                    "New York, NJ, N.C., VA"
+                ],
+                "url": "https://cdn.shazam.com/lyrics/v1/en-US/GB/iphone/musixmatch/subtitles/2631632/205/1?token=f61e77d3bf32d4032c76fba09e900648",
+                "footer": "Writer(s): Malik Izaak Taylor, Ali Shaheed Jones-muhammad, Kamaal Ibn John Fareed, Weldon Johnathan Jr. Irvine\nLyrics powered by www.musixmatch.com",
+                "tabname": "Lyrics",
+                "beacondata": {
+                    "lyricsid": "19796573",
+                    "providername": "musixmatch",
+                    "commontrackid": "2631632"
+                }
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/52124359/youtube/video?q=A+Tribe+Called+Quest+%22Award+Tour%22"
+            },
+            {
+                "type": "RELATED",
+                "url": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-52124359?startFrom=0&pageSize=20&connected=",
+                "tabname": "Related"
+            }
+        ],
+        "url": "https://www.shazam.com/track/52124359/award-tour",
+        "artists": [
+            {
+                "id": "42",
+                "adamid": "1587965"
+            }
+        ],
+        "isrc": "USJI10300405",
+        "genres": {
+            "primary": "Hip-Hop/Rap"
+        },
+        "urlparams": {
+            "{tracktitle}": "Award+Tour",
+            "{trackartist}": "A+Tribe+Called+Quest"
+        },
+        "myshazam": {
+            "apple": {
+                "actions": [
+                    {
+                        "name": "myshazam:apple",
+                        "type": "uri",
+                        "uri": "https://music.apple.com/gb/album/award-tour/265670545?i=265670554&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                ]
+            }
+        },
+        "highlightsurls": {
+            "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/1587965/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios&videoIdToFilter=1366596465",
+            "trackhighlighturl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/highlights/1366596465?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+        },
+        "relatedtracksurl": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-52124359?startFrom=0&pageSize=20&connected=",
+        "albumadamid": "265670545"
+    },
+    "tagid": "B9F4B552-950D-446C-8B3B-333C1B5FBCF5"
+}

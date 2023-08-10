@@ -1,0 +1,246 @@
+{
+    "matches": [
+        {
+            "id": "484105482",
+            "offset": 29.731333984,
+            "timeskew": 0.0002797842,
+            "frequencyskew": 0.0003222227
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691633735254,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "2884009",
+        "title": "Away, Delight, Away",
+        "subtitle": "Dark Tranquillity",
+        "images": {
+            "background": "https://is1-ssl.mzstatic.com/image/thumb/Features125/v4/40/de/29/40de298d-edf1-2a8a-a823-13c570d38efe/mzl.mfcnvbtd.jpg/800x800cc.jpg",
+            "coverart": "https://is3-ssl.mzstatic.com/image/thumb/Music6/v4/16/48/69/16486944-beba-03d3-fc51-97f6f46b3416/6417871012324_Cover.jpg/400x400cc.jpg",
+            "coverarthq": "https://is3-ssl.mzstatic.com/image/thumb/Music6/v4/16/48/69/16486944-beba-03d3-fc51-97f6f46b3416/6417871012324_Cover.jpg/400x400cc.jpg",
+            "joecolor": "b:340b00p:fefdfbs:c3e6fft:d6cdc9q:a6bbcb"
+        },
+        "share": {
+            "subject": "Away, Delight, Away - Dark Tranquillity",
+            "text": "Away, Delight, Away by Dark Tranquillity",
+            "href": "https://www.shazam.com/track/2884009/away-delight-away",
+            "image": "https://is3-ssl.mzstatic.com/image/thumb/Music6/v4/16/48/69/16486944-beba-03d3-fc51-97f6f46b3416/6417871012324_Cover.jpg/400x400cc.jpg",
+            "twitter": "I used @Shazam to discover Away, Delight, Away by Dark Tranquillity.",
+            "html": "https://www.shazam.com/snippets/email-share/2884009?lang=en-US&country=GB",
+            "avatar": "https://is1-ssl.mzstatic.com/image/thumb/Features125/v4/40/de/29/40de298d-edf1-2a8a-a823-13c570d38efe/mzl.mfcnvbtd.jpg/800x800cc.jpg",
+            "snapchat": "https://www.shazam.com/partner/sc/track/2884009"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "actions": [
+                {
+                    "name": "apple",
+                    "type": "applemusicplay",
+                    "id": "706181537"
+                },
+                {
+                    "name": "apple",
+                    "type": "uri",
+                    "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/21/71/ed/2171ed9c-082b-2f3f-0f63-b80f68390494/mzaf_11089307620230256996.plus.aac.ep.m4a"
+                }
+            ],
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/gb/album/away-delight-away/706181530?i=706181537&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/gb/album/away-delight-away/706181530?i=706181537&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                },
+                {
+                    "caption": "BUY",
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "uri": "https://itunes.apple.com/gb/album/away-delight-away/706181530?i=706181537&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "buy",
+                        "providername": "itunes"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "type": "buy",
+                    "listcaption": "Buy on iTunes",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "itunes"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:Away%2C%20Delight%2C%20Away%20Dark%20Tranquillity"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27Away%2C+Delight%2C+Away%27%20artist%3A%27Dark+Tranquillity%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": false,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [
+                    {
+                        "image": "https://is1-ssl.mzstatic.com/image/thumb/Features125/v4/40/de/29/40de298d-edf1-2a8a-a823-13c570d38efe/mzl.mfcnvbtd.jpg/800x800cc.jpg",
+                        "caption": "Dark Tranquillity"
+                    },
+                    {
+                        "image": "https://is3-ssl.mzstatic.com/image/thumb/Music6/v4/16/48/69/16486944-beba-03d3-fc51-97f6f46b3416/6417871012324_Cover.jpg/400x400cc.jpg",
+                        "caption": "Away, Delight, Away"
+                    }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                    {
+                        "title": "Album",
+                        "text": "Of Chaos and Eternal Night - EP"
+                    },
+                    {
+                        "title": "Label",
+                        "text": "Clandestine Music"
+                    },
+                    {
+                        "title": "Released",
+                        "text": "1995"
+                    }
+                ]
+            },
+            {
+                "type": "LYRICS",
+                "text": [
+                    "[Henriksson, Johansson]",
+                    "",
+                    "As false as our minds our eyes refuse to see",
+                    "They claw for the falseness in me",
+                    "From where all life springs anew",
+                    "We are cleansed through the crystal fire",
+                    "Fill me with sound, fill me with hatred",
+                    "Let my life bring life to the soil",
+                    "The soil beneath my feet",
+                    "Messenger of pain sailing silence",
+                    "Commander of my sorrow riding rage",
+                    "Infinity is eternal - never born so it may never die",
+                    "Colours speak my name",
+                    "Through the crowns I am baptised in the",
+                    "First gnawing rays from a blackened sun",
+                    "In the name of my blood I curse thee",
+                    "Shelter me under the trees",
+                    "Spread your twilight wings",
+                    "My broken body is dripping with sin",
+                    "Your skin so delicate",
+                    "Your undemanding bliss will carry me far",
+                    "I bid farewell to this godforsaken land",
+                    "Nevermore shall I return",
+                    "I join with the riders on the horizon",
+                    "For they are my blood!",
+                    "For they are my saviours!",
+                    "They bring me hatred, bring me fire",
+                    "They take me down to the land I know not",
+                    "Then crush me - Take me down",
+                    "Then they build me once more again",
+                    "Slayer of my anger sailing silence",
+                    "The angel of my lust",
+                    "She is tasting shame"
+                ],
+                "url": "https://cdn.shazam.com/lyrics/v1/en-US/GB/iphone/musixmatch/subtitles/1427911/320/1?token=343fa7c0782067f7435a25f7fde657df",
+                "footer": "Writer(s): Niklas Bo Sundin, Anders Mikael Jivarp, Martin Hans Knut Henriksson, Mikael Bengt Stanne, Fredrik Lars Johansson\nLyrics powered by www.musixmatch.com",
+                "tabname": "Lyrics",
+                "beacondata": {
+                    "lyricsid": "1352150",
+                    "providername": "musixmatch",
+                    "commontrackid": "1427911"
+                }
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/2884009/youtube/video?q=Dark+Tranquillity+%22Away,+Delight,+Away%22"
+            }
+        ],
+        "url": "https://www.shazam.com/track/2884009/away-delight-away",
+        "artists": [
+            {
+                "id": "42",
+                "adamid": "18243687"
+            }
+        ],
+        "isrc": "GBDHC1247303",
+        "genres": {
+            "primary": "Metal"
+        },
+        "urlparams": {
+            "{tracktitle}": "Away%2C+Delight%2C+Away",
+            "{trackartist}": "Dark+Tranquillity"
+        },
+        "myshazam": {
+            "apple": {
+                "actions": [
+                    {
+                        "name": "myshazam:apple",
+                        "type": "uri",
+                        "uri": "https://music.apple.com/gb/album/away-delight-away/706181530?i=706181537&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                ]
+            }
+        },
+        "highlightsurls": {
+            "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/18243687/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+        },
+        "albumadamid": "706181530"
+    },
+    "tagid": "5F5B7BE8-0E8B-4FE5-93C8-FDC67BA82612"
+}

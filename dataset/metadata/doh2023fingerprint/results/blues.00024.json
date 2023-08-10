@@ -1,0 +1,261 @@
+{
+    "matches": [
+        {
+            "id": "215133164",
+            "offset": 28.974804687,
+            "timeskew": -0.010191202,
+            "frequencyskew": -0.010439336
+        },
+        {
+            "id": "310523369",
+            "offset": 29.191697265,
+            "timeskew": -0.006315887,
+            "frequencyskew": -0.005718589
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691632659454,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "275432744",
+        "title": "Traveling Riverside Blues",
+        "subtitle": "Robert Johnson",
+        "images": {
+            "background": "https://is1-ssl.mzstatic.com/image/thumb/Features125/v4/ca/df/91/cadf91c2-0f43-7a03-d6e5-91778c2701ba/pr_source.png/800x800cc.jpg",
+            "coverart": "https://is5-ssl.mzstatic.com/image/thumb/Music/v4/e8/6d/91/e86d91ae-32ce-2eab-3124-41af9c3a1311/5099751723929.jpg/400x400cc.jpg",
+            "coverarthq": "https://is5-ssl.mzstatic.com/image/thumb/Music/v4/e8/6d/91/e86d91ae-32ce-2eab-3124-41af9c3a1311/5099751723929.jpg/400x400cc.jpg",
+            "joecolor": "b:1e6a79p:faed49s:bfe77dt:ced353q:9fce7d"
+        },
+        "share": {
+            "subject": "Traveling Riverside Blues - Robert Johnson",
+            "text": "Traveling Riverside Blues by Robert Johnson",
+            "href": "https://www.shazam.com/track/275432744/traveling-riverside-blues",
+            "image": "https://is5-ssl.mzstatic.com/image/thumb/Music/v4/e8/6d/91/e86d91ae-32ce-2eab-3124-41af9c3a1311/5099751723929.jpg/400x400cc.jpg",
+            "twitter": "I used @Shazam to discover Traveling Riverside Blues by Robert Johnson.",
+            "html": "https://www.shazam.com/snippets/email-share/275432744?lang=en-US&country=GB",
+            "avatar": "https://is1-ssl.mzstatic.com/image/thumb/Features125/v4/ca/df/91/cadf91c2-0f43-7a03-d6e5-91778c2701ba/pr_source.png/800x800cc.jpg",
+            "snapchat": "https://www.shazam.com/partner/sc/track/275432744"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "actions": [
+                {
+                    "name": "apple",
+                    "type": "applemusicplay",
+                    "id": "580433063"
+                },
+                {
+                    "name": "apple",
+                    "type": "uri",
+                    "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/9e/3d/94/9e3d9468-1c27-3a19-5d28-be1391b97233/mzaf_12821170282158006412.plus.aac.ep.m4a"
+                }
+            ],
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/gb/album/traveling-riverside-blues/580432955?i=580433063&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/gb/album/traveling-riverside-blues/580432955?i=580433063&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                },
+                {
+                    "caption": "BUY",
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "uri": "https://itunes.apple.com/gb/album/traveling-riverside-blues/580432955?i=580433063&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "buy",
+                        "providername": "itunes"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "type": "buy",
+                    "listcaption": "Buy on iTunes",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "itunes"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:Traveling%20Riverside%20Blues%20Robert%20Johnson"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27Traveling+Riverside+Blues%27%20artist%3A%27Robert+Johnson%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": false,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [
+                    {
+                        "image": "https://is1-ssl.mzstatic.com/image/thumb/Features125/v4/ca/df/91/cadf91c2-0f43-7a03-d6e5-91778c2701ba/pr_source.png/800x800cc.jpg",
+                        "caption": "Robert Johnson"
+                    },
+                    {
+                        "image": "https://is5-ssl.mzstatic.com/image/thumb/Music/v4/e8/6d/91/e86d91ae-32ce-2eab-3124-41af9c3a1311/5099751723929.jpg/400x400cc.jpg",
+                        "caption": "Traveling Riverside Blues"
+                    }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                    {
+                        "title": "Album",
+                        "text": "Guitar & Bass"
+                    },
+                    {
+                        "title": "Label",
+                        "text": "Sony Music Media"
+                    },
+                    {
+                        "title": "Released",
+                        "text": "1937"
+                    }
+                ]
+            },
+            {
+                "type": "LYRICS",
+                "text": [
+                    "If your man gets personal,",
+                    "Want you to have your fun.",
+                    "If your man gets personal,",
+                    "",
+                    "Want you to have your fun.",
+                    "Well, come on back to Friar's Point, mama,",
+                    "Barrelhouse all night long.",
+                    "",
+                    "I got womens in Vicksburg,",
+                    "Clean on into Tennessee.",
+                    "I got womens in Vicksburg,",
+                    "Clean on into Tennessee.",
+                    "But my Friar's Point rider, now,",
+                    "Hops all over me.",
+                    "",
+                    "I ain't gonna state no color but",
+                    "Her front teeth is crowned with gold.",
+                    "I ain't gonna state no color but",
+                    "Her front teeth is crowned with gold.",
+                    "She got a mortgage on my body, Lord,",
+                    "A lien on my soul.",
+                    "",
+                    "Well, I'm going down to Rosedale,",
+                    "Rider by my side.",
+                    "Lord, I'm going down to Rosedale,",
+                    "Rider by my side.",
+                    "Well, we can still barrelhouse, babe,",
+                    "On the riverside.",
+                    "",
+                    "You can squeeze my lemon till",
+                    "Juice run down my leg.",
+                    "You can squeeze my lemon till",
+                    "Juice run down my leg.",
+                    "That's what I'm talking about!",
+                    "But I'll be going back to Friar's Point, mama,",
+                    "Rocking to my head."
+                ],
+                "url": "https://cdn.shazam.com/lyrics/v1/en-US/GB/iphone/musixmatch/subtitles/48926454/168/1?token=68e21351c1c285eb89ae1210c18e7e74",
+                "footer": "Writer(s): Robert Anthony Plant, Robert Johnson, Jimmy Page\nLyrics powered by www.musixmatch.com",
+                "tabname": "Lyrics",
+                "beacondata": {
+                    "lyricsid": "15470145",
+                    "providername": "musixmatch",
+                    "commontrackid": "48926454"
+                }
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/275432744/youtube/video?q=Robert+Johnson+%22Traveling+Riverside+Blues%22"
+            },
+            {
+                "type": "RELATED",
+                "url": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-275432744?startFrom=0&pageSize=20&connected=",
+                "tabname": "Related"
+            }
+        ],
+        "url": "https://www.shazam.com/track/275432744/traveling-riverside-blues",
+        "artists": [
+            {
+                "id": "42",
+                "adamid": "314626"
+            }
+        ],
+        "isrc": "USSM19000096",
+        "genres": {
+            "primary": "Pop"
+        },
+        "urlparams": {
+            "{tracktitle}": "Traveling+Riverside+Blues",
+            "{trackartist}": "Robert+Johnson"
+        },
+        "myshazam": {
+            "apple": {
+                "actions": [
+                    {
+                        "name": "myshazam:apple",
+                        "type": "uri",
+                        "uri": "https://music.apple.com/gb/album/traveling-riverside-blues/580432955?i=580433063&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                ]
+            }
+        },
+        "highlightsurls": {
+            "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/314626/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+        },
+        "relatedtracksurl": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-275432744?startFrom=0&pageSize=20&connected=",
+        "albumadamid": "580432955"
+    },
+    "tagid": "7696A558-CAFF-47DF-87E3-FF7365E83099"
+}

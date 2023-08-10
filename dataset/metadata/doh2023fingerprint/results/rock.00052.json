@@ -1,0 +1,192 @@
+{
+    "matches": [
+        {
+            "id": "300473197",
+            "offset": 29.786517577999998,
+            "timeskew": 0.00012934208,
+            "frequencyskew": -0.00020134449
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691633610933,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "45503084",
+        "title": "Woman",
+        "subtitle": "Simple Minds",
+        "images": {
+            "background": "https://is3-ssl.mzstatic.com/image/thumb/Features115/v4/c9/2e/92/c92e9224-2714-1ea7-5b92-1beb3cc03edc/pr_source.png/800x800cc.jpg",
+            "coverart": "https://is2-ssl.mzstatic.com/image/thumb/Music/y2004/m06/d25/h02/s06.rdenwcwn.jpg/400x400cc.jpg",
+            "coverarthq": "https://is2-ssl.mzstatic.com/image/thumb/Music/y2004/m06/d25/h02/s06.rdenwcwn.jpg/400x400cc.jpg"
+        },
+        "share": {
+            "subject": "Woman - Simple Minds",
+            "text": "Woman by Simple Minds",
+            "href": "https://www.shazam.com/track/45503084/woman",
+            "image": "https://is2-ssl.mzstatic.com/image/thumb/Music/y2004/m06/d25/h02/s06.rdenwcwn.jpg/400x400cc.jpg",
+            "twitter": "I used @Shazam to discover Woman by Simple Minds.",
+            "html": "https://www.shazam.com/snippets/email-share/45503084?lang=en-US&country=GB",
+            "avatar": "https://is3-ssl.mzstatic.com/image/thumb/Features115/v4/c9/2e/92/c92e9224-2714-1ea7-5b92-1beb3cc03edc/pr_source.png/800x800cc.jpg",
+            "snapchat": "https://www.shazam.com/partner/sc/track/45503084"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:subscribe",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/subscribe?mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:subscribe",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/subscribe?mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:Woman%20Simple%20Minds"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27Woman%27%20artist%3A%27Simple+Minds%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": false,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [
+                    {
+                        "image": "https://is3-ssl.mzstatic.com/image/thumb/Features115/v4/c9/2e/92/c92e9224-2714-1ea7-5b92-1beb3cc03edc/pr_source.png/800x800cc.jpg",
+                        "caption": "Simple Minds"
+                    },
+                    {
+                        "image": "https://is2-ssl.mzstatic.com/image/thumb/Music/y2004/m06/d25/h02/s06.rdenwcwn.jpg/400x400cc.jpg",
+                        "caption": "Woman"
+                    }
+                ],
+                "tabname": "Song",
+                "metadata": []
+            },
+            {
+                "type": "LYRICS",
+                "text": [
+                    "Spirit of girl I know's in front of me",
+                    "I brought her home its where she'd want to be",
+                    "Picture of some strange tattooed bird on her thigh",
+                    "Shine on walk on take a walk with me",
+                    "",
+                    "Something going I can tell",
+                    "The way you know its meant to be",
+                    "There's something taking all your life",
+                    "You're drifting far away from me",
+                    "",
+                    "Spirit of the one I love walk in the room",
+                    "It gets so hard when it's all too soon",
+                    "Lover's lonely planet blue smoke in your eyes",
+                    "Shine on get home when are you gonna rise",
+                    "",
+                    "Shook my life",
+                    "Mercury",
+                    "You don't live here any more",
+                    "Shine on",
+                    "Mercury",
+                    "",
+                    "Walking the the sunlight to the old courtyard",
+                    "Where the weather's warm and the air tastes sweet",
+                    "In a world where words can say what's in her eyes,",
+                    "She will epitomise, so let her rest in peace.",
+                    "",
+                    "Something's going I can tell",
+                    "The way you know it's meant to be",
+                    "Something taking all your life",
+                    "And you're drifting far away from me",
+                    "",
+                    "Something I can tell you",
+                    "Mercury",
+                    "Something I can tell you",
+                    "Really want to tell you I'd really love to tell you",
+                    "",
+                    "Written by: Kerr/Burchill Reproduced Without Permission"
+                ],
+                "url": "https://cdn.shazam.com/lyrics/v1/en-US/GB/iphone/musixmatch/subtitles/286112/280/1?token=e71332842321a939359645f845a13aee",
+                "footer": "Writer(s): James Kerr, Charles Burchill, Stephen Lipson\nLyrics powered by www.musixmatch.com",
+                "tabname": "Lyrics",
+                "beacondata": {
+                    "lyricsid": "1768743",
+                    "providername": "musixmatch",
+                    "commontrackid": "286112"
+                }
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/45503084/youtube/video?q=Simple+Minds+%22Woman%22"
+            }
+        ],
+        "url": "https://www.shazam.com/track/45503084/woman",
+        "artists": [
+            {
+                "id": "42",
+                "adamid": "645533"
+            }
+        ],
+        "genres": {
+            "primary": "Rock"
+        },
+        "urlparams": {
+            "{tracktitle}": "Woman",
+            "{trackartist}": "Simple+Minds"
+        },
+        "highlightsurls": {
+            "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/645533/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+        }
+    },
+    "tagid": "12E12A7E-7734-4DE1-ADAA-4DA970E2736B"
+}

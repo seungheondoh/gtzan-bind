@@ -1,0 +1,261 @@
+{
+    "matches": [
+        {
+            "id": "410093513",
+            "offset": 124.801992187,
+            "timeskew": 0.019798636,
+            "frequencyskew": 0.019642591
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691633491716,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "10516993",
+        "title": "Best of Intentions",
+        "subtitle": "Travis Tritt",
+        "images": {
+            "background": "https://is4-ssl.mzstatic.com/image/thumb/AMCArtistImages116/v4/22/b1/17/22b11799-1a3d-e126-b440-48c53ac62d83/a207993a-7b2c-4367-80c3-cbf0369e5ff3_ami-identity-9ae63970dd3933e7075ff9f5645e3c65-2023-03-04T21-55-13.945Z_cropped.png/800x800cc.jpg",
+            "coverart": "https://is4-ssl.mzstatic.com/image/thumb/Music/ea/5f/7d/mzi.dexizjpa.jpg/400x400cc.jpg",
+            "coverarthq": "https://is4-ssl.mzstatic.com/image/thumb/Music/ea/5f/7d/mzi.dexizjpa.jpg/400x400cc.jpg",
+            "joecolor": "b:270a0fp:d0cfe2s:c1bed1t:aea8b8q:a29aaa"
+        },
+        "share": {
+            "subject": "Best of Intentions - Travis Tritt",
+            "text": "Best of Intentions by Travis Tritt",
+            "href": "https://www.shazam.com/track/10516993/best-of-intentions",
+            "image": "https://is4-ssl.mzstatic.com/image/thumb/Music/ea/5f/7d/mzi.dexizjpa.jpg/400x400cc.jpg",
+            "twitter": "I used @Shazam to discover Best of Intentions by Travis Tritt.",
+            "html": "https://www.shazam.com/snippets/email-share/10516993?lang=en-US&country=GB",
+            "avatar": "https://is4-ssl.mzstatic.com/image/thumb/AMCArtistImages116/v4/22/b1/17/22b11799-1a3d-e126-b440-48c53ac62d83/a207993a-7b2c-4367-80c3-cbf0369e5ff3_ami-identity-9ae63970dd3933e7075ff9f5645e3c65-2023-03-04T21-55-13.945Z_cropped.png/800x800cc.jpg",
+            "snapchat": "https://www.shazam.com/partner/sc/track/10516993"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "actions": [
+                {
+                    "name": "apple",
+                    "type": "applemusicplay",
+                    "id": "170335897"
+                },
+                {
+                    "name": "apple",
+                    "type": "uri",
+                    "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/f7/e1/0e/f7e10e9d-1755-3c7e-e35c-7f63fcf9b068/mzaf_293746413639946606.plus.aac.ep.m4a"
+                }
+            ],
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/gb/album/best-of-intentions/170335498?i=170335897&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/gb/album/best-of-intentions/170335498?i=170335897&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                },
+                {
+                    "caption": "BUY",
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "uri": "https://itunes.apple.com/gb/album/best-of-intentions/170335498?i=170335897&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "buy",
+                        "providername": "itunes"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "type": "buy",
+                    "listcaption": "Buy on iTunes",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "itunes"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:Best%20of%20Intentions%20Travis%20Tritt"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27Best+of+Intentions%27%20artist%3A%27Travis+Tritt%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": false,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [
+                    {
+                        "image": "https://is4-ssl.mzstatic.com/image/thumb/AMCArtistImages116/v4/22/b1/17/22b11799-1a3d-e126-b440-48c53ac62d83/a207993a-7b2c-4367-80c3-cbf0369e5ff3_ami-identity-9ae63970dd3933e7075ff9f5645e3c65-2023-03-04T21-55-13.945Z_cropped.png/800x800cc.jpg",
+                        "caption": "Travis Tritt"
+                    },
+                    {
+                        "image": "https://is4-ssl.mzstatic.com/image/thumb/Music/ea/5f/7d/mzi.dexizjpa.jpg/400x400cc.jpg",
+                        "caption": "Best of Intentions"
+                    }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                    {
+                        "title": "Album",
+                        "text": "Down the Road I Go"
+                    },
+                    {
+                        "title": "Label",
+                        "text": "Columbia Nashville"
+                    },
+                    {
+                        "title": "Released",
+                        "text": "2000"
+                    }
+                ]
+            },
+            {
+                "type": "LYRICS",
+                "text": [
+                    "I had big plans for our future",
+                    "Said I'd give you the whole world somehow",
+                    "I tried making good on that promise",
+                    "Thought I'd be so much further by now",
+                    "Never could build you a castle",
+                    "Even though you're the queen of my heart",
+                    "But I've had the best of intentions from the start",
+                    "",
+                    "Now some people think I'm a loser",
+                    "'Cause I seldom get things right",
+                    "But you make me feel like a winner",
+                    "When you wrap me in your arms so tight",
+                    "Please tell me you will remember",
+                    "No matter how much I do wrong",
+                    "That I had the best of intentions all along",
+                    "",
+                    "I'd give you a ring and I promised you things",
+                    "I always thought we'd do",
+                    "But my best-laid plan slipped right through my hands",
+                    "To show my love for you",
+                    "And if you could read my heart",
+                    "Then you'd know without exception",
+                    "It was all with the best of intentions",
+                    "",
+                    "I gave you a ring and I promised you things",
+                    "I always thought we'd do",
+                    "But my best-laid plan slipped right through my hands",
+                    "To show my love for you",
+                    "And if you could read my heart",
+                    "Then you'd know without exception",
+                    "It was all with the best of intentions",
+                    "",
+                    "So here I am asking forgiveness",
+                    "And praying that you'll understand",
+                    "Don't think I take you for granted",
+                    "Girl, I know just how lucky I am",
+                    "Though you deserve so much better",
+                    "You won't find devotion more true",
+                    "'Cause I've had the best of intentions",
+                    "Girl, I've had the best of intentions",
+                    "Yes, I've had the best of intentions loving you, oh-woah"
+                ],
+                "url": "https://cdn.shazam.com/lyrics/v1/en-US/GB/iphone/musixmatch/subtitles/1060715/257/1?token=614c712c4e62113155265bcd8c557f6a",
+                "footer": "Writer(s): Travis Tritt\nLyrics powered by www.musixmatch.com",
+                "tabname": "Lyrics",
+                "beacondata": {
+                    "lyricsid": "23776690",
+                    "providername": "musixmatch",
+                    "commontrackid": "1060715"
+                }
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/10516993/youtube/video?q=Travis+Tritt+%22Best+of+Intentions%22"
+            },
+            {
+                "type": "RELATED",
+                "url": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-10516993?startFrom=0&pageSize=20&connected=",
+                "tabname": "Related"
+            }
+        ],
+        "url": "https://www.shazam.com/track/10516993/best-of-intentions",
+        "artists": [
+            {
+                "id": "42",
+                "adamid": "27430"
+            }
+        ],
+        "isrc": "USSM10009865",
+        "genres": {
+            "primary": "Country"
+        },
+        "urlparams": {
+            "{tracktitle}": "Best+of+Intentions",
+            "{trackartist}": "Travis+Tritt"
+        },
+        "myshazam": {
+            "apple": {
+                "actions": [
+                    {
+                        "name": "myshazam:apple",
+                        "type": "uri",
+                        "uri": "https://music.apple.com/gb/album/best-of-intentions/170335498?i=170335897&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                ]
+            }
+        },
+        "highlightsurls": {
+            "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/27430/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios&videoIdToFilter=327831266",
+            "trackhighlighturl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/highlights/327831266?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+        },
+        "relatedtracksurl": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-10516993?startFrom=0&pageSize=20&connected=",
+        "albumadamid": "170335498"
+    },
+    "tagid": "33514143-5B60-475C-8720-8CC6E0F77613"
+}

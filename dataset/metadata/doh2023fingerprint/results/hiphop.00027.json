@@ -1,0 +1,284 @@
+{
+    "matches": [
+        {
+            "id": "202008772",
+            "offset": 111.23621875,
+            "timeskew": 0.000111699104,
+            "frequencyskew": -0.00016111135
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691632861306,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "55725444",
+        "title": "One Two",
+        "subtitle": "The Ambassador",
+        "images": {
+            "background": "https://is3-ssl.mzstatic.com/image/thumb/Music114/v4/a9/40/59/a9405948-9cff-ecf7-138e-3cc4c5257133/6928.jpg/400x400cc.jpg",
+            "coverart": "https://is3-ssl.mzstatic.com/image/thumb/Music114/v4/a9/40/59/a9405948-9cff-ecf7-138e-3cc4c5257133/6928.jpg/400x400cc.jpg",
+            "coverarthq": "https://is3-ssl.mzstatic.com/image/thumb/Music114/v4/a9/40/59/a9405948-9cff-ecf7-138e-3cc4c5257133/6928.jpg/400x400cc.jpg",
+            "joecolor": "b:e5e5c3p:0c0e12s:262a1at:373935q:4c503b"
+        },
+        "share": {
+            "subject": "One Two - The Ambassador",
+            "text": "One Two by The Ambassador",
+            "href": "https://www.shazam.com/track/55725444/one-two",
+            "image": "https://is3-ssl.mzstatic.com/image/thumb/Music114/v4/a9/40/59/a9405948-9cff-ecf7-138e-3cc4c5257133/6928.jpg/400x400cc.jpg",
+            "twitter": "I used @Shazam to discover One Two by The Ambassador.",
+            "html": "https://www.shazam.com/snippets/email-share/55725444?lang=en-US&country=GB",
+            "snapchat": "https://www.shazam.com/partner/sc/track/55725444"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "actions": [
+                {
+                    "name": "apple",
+                    "type": "applemusicplay",
+                    "id": "1533679854"
+                },
+                {
+                    "name": "apple",
+                    "type": "uri",
+                    "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/04/38/47/043847ce-f2fa-7839-49a5-110850cf59e1/mzaf_17996497549224263673.plus.aac.ep.m4a"
+                }
+            ],
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/gb/album/one-two/1533679852?i=1533679854&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/gb/album/one-two/1533679852?i=1533679854&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                },
+                {
+                    "caption": "BUY",
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "uri": "https://itunes.apple.com/gb/album/one-two/1533679852?i=1533679854&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "buy",
+                        "providername": "itunes"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "type": "buy",
+                    "listcaption": "Buy on iTunes",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "itunes"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:One%20Two%20The%20Ambassador"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27One+Two%27%20artist%3A%27The+Ambassador%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": false,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [
+                    {
+                        "image": "https://is3-ssl.mzstatic.com/image/thumb/Music114/v4/a9/40/59/a9405948-9cff-ecf7-138e-3cc4c5257133/6928.jpg/400x400cc.jpg",
+                        "caption": "One Two"
+                    }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                    {
+                        "title": "Album",
+                        "text": "Christology"
+                    },
+                    {
+                        "title": "Label",
+                        "text": "Cross Movement Records"
+                    },
+                    {
+                        "title": "Released",
+                        "text": "2000"
+                    }
+                ]
+            },
+            {
+                "type": "LYRICS",
+                "text": [
+                    "(Chorus)",
+                    "One, two",
+                    "No gats, no blunts, no brew",
+                    "One, two",
+                    "To my adults and my youth",
+                    "One, two",
+                    "The ax is at the root",
+                    "One, two",
+                    "It's time to bear fruit",
+                    "One, two",
+                    "",
+                    "Lyrically putting you down with truth it's the",
+                    "Divine mixture",
+                    "Rhymes plus divine Scripture",
+                    "No hold back Jesus is in the rhyme so that",
+                    "Your heart can be confronted",
+                    "By the God who wants your soul back",
+                    "And no matter what we have to do we take control back",
+                    "And turn the show back over to Jesus, yea you know that",
+                    "Rhymes are pro-Christ instead of pro this and pro that",
+                    "Cause many Christian songs lyrically are spiritually low fat",
+                    "Religion sells but we dwell in anti-Christian realms",
+                    "So if you love Him then you've got to represent Him well",
+                    "Pants might be saggin' slightly but just imagine",
+                    "Me displayin' the beauty of Christ like a pageant",
+                    "In your area I'm tellin' ya Christ will marry ya",
+                    "But you've got to switch, let Him be your long distance carrier",
+                    "No switching fee and you'll get more than just some minutes free",
+                    "Cause when it's Jesus your minutes merge into infinity",
+                    "",
+                    "(Chorus)",
+                    "",
+                    "This rap is just another effort to attract this",
+                    "World that's into Internets and faxes",
+                    "The fact is, it's gonna burn to ashes like matches",
+                    "But at last kids you've got the Good News, now pass it",
+                    "Be graphic, cause the masses cut classes so they ain't heard it",
+                    "But watch the way you word it you don't want to change the verdict",
+                    "Death, we borrow the breath plus the chest",
+                    "Man used legs to step, man knew God then left Him",
+                    "Steady theivin', leaving God for no reason",
+                    "We've been booted out of Eden",
+                    "What a fall like the autumn season",
+                    "Instead of God we look to stars and science",
+                    "Separated from the power like an unplugged appliance",
+                    "Dig this, another Savior? Check the Script",
+                    "It's a myth, it's like a pig's fist, it don't exist",
+                    "If you find a witness do forget this",
+                    "The devil's in the blinding business",
+                    "The counterfeit shining business",
+                    "",
+                    "(Chorus)",
+                    "",
+                    "Understand sin sick man, you need a doctor",
+                    "My \"knocka,\" better call on Christ, only He gotcha",
+                    "We all need a substitutionary Bleeder",
+                    "Cause sin draws the blood from men like a mosquito",
+                    "Bow your knee to the Great Hope, Jesus the scapegoat",
+                    "Not hard to find like bad school kid with fake notes",
+                    "Some reject Christ cause it's popular",
+                    "Unaware his death is stoppin' the",
+                    "Wrath of holy God from droppin' ya",
+                    "Hope the Good News starts rockin' ya",
+                    "Before the last tick tock from the biological clock in ya",
+                    "Ahh, it's finite man acting autonomous",
+                    "You say you want to trust? Then believe cause it's synonymous",
+                    "Admit it, He died for sins that you committed",
+                    "You did it, but if you trust Christ then He'll forget it",
+                    "He's with it, considered the price and still He fitted",
+                    "His deity inside humanity just for the visit",
+                    "When the issue of paying for sins comes up even +Giants+ jet",
+                    "In the Garden they say, \"+Knick+ that\"",
+                    "In +Shea+ they say, \"We ain't +Met+\"",
+                    "A blood sport with such a display of skillz",
+                    "Cause even in +Buffalo+ they know they can't pay the +Bills+",
+                    "",
+                    "(Chorus)"
+                ],
+                "footer": "Writer(s): Mervyn Noel De Peyer, Axel Georg Kroell, Shawn Myles\nLyrics powered by www.musixmatch.com",
+                "tabname": "Lyrics",
+                "beacondata": {
+                    "lyricsid": "1818261",
+                    "providername": "musixmatch",
+                    "commontrackid": "22090303"
+                }
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/55725444/youtube/video?q=The+Ambassador+%22One+Two%22"
+            }
+        ],
+        "url": "https://www.shazam.com/track/55725444/one-two",
+        "artists": [
+            {
+                "id": "42",
+                "adamid": "184300666"
+            }
+        ],
+        "isrc": "US4N80700241",
+        "genres": {
+            "primary": "Hip-Hop/Rap"
+        },
+        "urlparams": {
+            "{tracktitle}": "One+Two",
+            "{trackartist}": "The+Ambassador"
+        },
+        "myshazam": {
+            "apple": {
+                "actions": [
+                    {
+                        "name": "myshazam:apple",
+                        "type": "uri",
+                        "uri": "https://music.apple.com/gb/album/one-two/1533679852?i=1533679854&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                ]
+            }
+        },
+        "highlightsurls": {
+            "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/184300666/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+        },
+        "albumadamid": "1533679852"
+    },
+    "tagid": "3CA35712-87BC-4FD0-8547-D05C52451699"
+}

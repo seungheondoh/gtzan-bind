@@ -1,0 +1,268 @@
+{
+    "matches": [
+        {
+            "id": "213679095",
+            "offset": 30.06690625,
+            "timeskew": 8.833408e-05,
+            "frequencyskew": 0.0
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691633651395,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "10309064",
+        "title": "(Song for My) Sugar Spun Sister (Remastered)",
+        "subtitle": "The Stone Roses",
+        "images": {
+            "background": "https://is5-ssl.mzstatic.com/image/thumb/Features115/v4/93/38/10/93381084-ef07-4f04-16e0-3f5120d3d850/mza_7360562026449807387.png/800x800cc.jpg",
+            "coverart": "https://is5-ssl.mzstatic.com/image/thumb/Features115/v4/de/bd/71/debd715a-d49b-1ec8-6b4d-bf3f25e0e90b/dj.rldpqukx.jpg/400x400cc.jpg",
+            "coverarthq": "https://is5-ssl.mzstatic.com/image/thumb/Features115/v4/de/bd/71/debd715a-d49b-1ec8-6b4d-bf3f25e0e90b/dj.rldpqukx.jpg/400x400cc.jpg",
+            "joecolor": "b:fef9e6p:1e2a24s:2e3027t:4a544aq:58584d"
+        },
+        "share": {
+            "subject": "(Song for My) Sugar Spun Sister (Remastered) - The Stone Roses",
+            "text": "(Song for My) Sugar Spun Sister (Remastered) by The Stone Roses",
+            "href": "https://www.shazam.com/track/10309064/song-for-my-sugar-spun-sister-remastered",
+            "image": "https://is5-ssl.mzstatic.com/image/thumb/Features115/v4/de/bd/71/debd715a-d49b-1ec8-6b4d-bf3f25e0e90b/dj.rldpqukx.jpg/400x400cc.jpg",
+            "twitter": "I used @Shazam to discover (Song for My) Sugar Spun Sister (Remastered) by The Stone Roses.",
+            "html": "https://www.shazam.com/snippets/email-share/10309064?lang=en-US&country=GB",
+            "avatar": "https://is5-ssl.mzstatic.com/image/thumb/Features115/v4/93/38/10/93381084-ef07-4f04-16e0-3f5120d3d850/mza_7360562026449807387.png/800x800cc.jpg",
+            "snapchat": "https://www.shazam.com/partner/sc/track/10309064"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "actions": [
+                {
+                    "name": "apple",
+                    "type": "applemusicplay",
+                    "id": "322969539"
+                },
+                {
+                    "name": "apple",
+                    "type": "uri",
+                    "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/db/7c/e6/db7ce6ab-3c89-1805-4eaf-7ee76fc34aba/mzaf_10180535122029237128.plus.aac.ep.m4a"
+                }
+            ],
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/gb/album/song-for-my-sugar-spun-sister-remastered/322969529?i=322969539&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/gb/album/song-for-my-sugar-spun-sister-remastered/322969529?i=322969539&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                },
+                {
+                    "caption": "BUY",
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "uri": "https://itunes.apple.com/gb/album/song-for-my-sugar-spun-sister-remastered/322969529?i=322969539&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "buy",
+                        "providername": "itunes"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "type": "buy",
+                    "listcaption": "Buy on iTunes",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "itunes"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:%28Song%20for%20My%29%20Sugar%20Spun%20Sister%20%28Remastered%29%20The%20Stone%20Roses"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27%28Song+for+My%29+Sugar+Spun+Sister+%28Remastered%29%27%20artist%3A%27The+Stone+Roses%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": false,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [
+                    {
+                        "image": "https://is5-ssl.mzstatic.com/image/thumb/Features115/v4/93/38/10/93381084-ef07-4f04-16e0-3f5120d3d850/mza_7360562026449807387.png/800x800cc.jpg",
+                        "caption": "The Stone Roses"
+                    },
+                    {
+                        "image": "https://is5-ssl.mzstatic.com/image/thumb/Features115/v4/de/bd/71/debd715a-d49b-1ec8-6b4d-bf3f25e0e90b/dj.rldpqukx.jpg/400x400cc.jpg",
+                        "caption": "(Song for My) Sugar Spun Sister (Remastered)"
+                    }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                    {
+                        "title": "Album",
+                        "text": "The Stone Roses (Remastered)"
+                    },
+                    {
+                        "title": "Label",
+                        "text": "Sony Music UK"
+                    },
+                    {
+                        "title": "Released",
+                        "text": "1989"
+                    }
+                ]
+            },
+            {
+                "type": "LYRICS",
+                "text": [
+                    "Her hair",
+                    "Soft drifted snow",
+                    "Death white",
+                    "I'd like to know",
+                    "Why she hates",
+                    "All that she does",
+                    "But she gives",
+                    "It all that she's got",
+                    "",
+                    "Until the sky turns green",
+                    "The grass is several shades of blue",
+                    "Every Member of Parliament trips on glue",
+                    "",
+                    "Until the sky turns green",
+                    "And the grass is several shades of blue",
+                    "Every Member of Parliament trips on glue",
+                    "",
+                    "It takes all these things and all that time",
+                    "'Til my sugar spun sister's happy",
+                    "With this love of mine",
+                    "It'll take all these things and oh, much more",
+                    "",
+                    "I've paid",
+                    "For fifteen or more",
+                    "But my guts",
+                    "Can't take many more",
+                    "",
+                    "My hands are stuck",
+                    "To my jeans",
+                    "And she knows, she knows",
+                    "What this must mean",
+                    "",
+                    "She wakes up with the Sun",
+                    "She asked me what is all the fuss",
+                    "As she gave me more than she thought she should",
+                    "",
+                    "She wakes up with the Sun",
+                    "I think what have I done",
+                    "As I gave her more than I thought I would, oh",
+                    "",
+                    "It takes all these things and all that time",
+                    "'Til my sugar spun sister's happy",
+                    "With this love of mine",
+                    "",
+                    "Yeah, yeah, yeah",
+                    "The candy floss girl",
+                    "The sticky fingered boy",
+                    "Oh, that sister of mine",
+                    "Yeah"
+                ],
+                "url": "https://cdn.shazam.com/lyrics/v1/en-US/GB/iphone/musixmatch/subtitles/6176/206/1?token=f1084658fb3e64ba0279774cccd75027",
+                "footer": "Writer(s): Ian George Brown, John Squire\nLyrics powered by www.musixmatch.com",
+                "tabname": "Lyrics",
+                "beacondata": {
+                    "lyricsid": "28248843",
+                    "providername": "musixmatch",
+                    "commontrackid": "6176"
+                }
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/10309064/youtube/video?q=The+Stone+Roses+%22(Song+for+My)+Sugar+Spun+Sister+(Remastered)%22"
+            },
+            {
+                "type": "RELATED",
+                "url": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-10309064?startFrom=0&pageSize=20&connected=",
+                "tabname": "Related"
+            }
+        ],
+        "url": "https://www.shazam.com/track/10309064/song-for-my-sugar-spun-sister-remastered",
+        "artists": [
+            {
+                "id": "42",
+                "adamid": "158384403"
+            }
+        ],
+        "isrc": "GBAHJ0900007",
+        "genres": {
+            "primary": "Alternative"
+        },
+        "urlparams": {
+            "{tracktitle}": "%28Song+for+My%29+Sugar+Spun+Sister+%28Remastered%29",
+            "{trackartist}": "The+Stone+Roses"
+        },
+        "myshazam": {
+            "apple": {
+                "actions": [
+                    {
+                        "name": "myshazam:apple",
+                        "type": "uri",
+                        "uri": "https://music.apple.com/gb/album/song-for-my-sugar-spun-sister-remastered/322969529?i=322969539&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                ]
+            }
+        },
+        "highlightsurls": {
+            "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/158384403/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+        },
+        "relatedtracksurl": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-10309064?startFrom=0&pageSize=20&connected=",
+        "albumadamid": "322969529"
+    },
+    "tagid": "D0229343-CC41-499C-8B09-FDC146B6E870"
+}

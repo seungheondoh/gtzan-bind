@@ -1,0 +1,329 @@
+{
+    "matches": [
+        {
+            "id": "442728047",
+            "offset": 29.980746093,
+            "timeskew": 9.8228455e-05,
+            "frequencyskew": -8.0525875e-05
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691633004236,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "11184320",
+        "title": "Fight The Power",
+        "subtitle": "Public Enemy",
+        "images": {
+            "background": "https://is2-ssl.mzstatic.com/image/thumb/Features125/v4/d2/c5/86/d2c58653-73d2-ae2f-efc1-d089777e7200/mzl.uxecwlva.jpg/800x800cc.jpg",
+            "coverart": "https://is5-ssl.mzstatic.com/image/thumb/Music114/v4/83/22/02/83220255-a069-e327-ef72-c2a47685f92a/FIXIMG00602435254623.rgb.jpg/400x400cc.jpg",
+            "coverarthq": "https://is5-ssl.mzstatic.com/image/thumb/Music114/v4/83/22/02/83220255-a069-e327-ef72-c2a47685f92a/FIXIMG00602435254623.rgb.jpg/400x400cc.jpg",
+            "joecolor": "b:000000p:ffffffs:eeeeeet:cbcbcbq:bfbfbf"
+        },
+        "share": {
+            "subject": "Fight The Power - Public Enemy",
+            "text": "Fight The Power by Public Enemy",
+            "href": "https://www.shazam.com/track/11184320/fight-the-power",
+            "image": "https://is5-ssl.mzstatic.com/image/thumb/Music114/v4/83/22/02/83220255-a069-e327-ef72-c2a47685f92a/FIXIMG00602435254623.rgb.jpg/400x400cc.jpg",
+            "twitter": "I used @Shazam to discover Fight The Power by Public Enemy.",
+            "html": "https://www.shazam.com/snippets/email-share/11184320?lang=en-US&country=GB",
+            "avatar": "https://is2-ssl.mzstatic.com/image/thumb/Features125/v4/d2/c5/86/d2c58653-73d2-ae2f-efc1-d089777e7200/mzl.uxecwlva.jpg/800x800cc.jpg",
+            "snapchat": "https://www.shazam.com/partner/sc/track/11184320"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "actions": [
+                {
+                    "name": "apple",
+                    "type": "applemusicplay",
+                    "id": "1531780503"
+                },
+                {
+                    "name": "apple",
+                    "type": "uri",
+                    "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/06/b0/dc/06b0dc6b-b50e-e6ca-6bc5-0ec8e6c96f88/mzaf_13142886081024463999.plus.aac.ep.m4a"
+                }
+            ],
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/gb/album/fight-the-power/1531780502?i=1531780503&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/gb/album/fight-the-power/1531780502?i=1531780503&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                },
+                {
+                    "caption": "BUY",
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "uri": "https://itunes.apple.com/gb/album/fight-the-power/1531780502?i=1531780503&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "buy",
+                        "providername": "itunes"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "type": "buy",
+                    "listcaption": "Buy on iTunes",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "itunes"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:Fight%20The%20Power%20Public%20Enemy"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27Fight+The+Power%27%20artist%3A%27Public+Enemy%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": false,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [
+                    {
+                        "image": "https://is2-ssl.mzstatic.com/image/thumb/Features125/v4/d2/c5/86/d2c58653-73d2-ae2f-efc1-d089777e7200/mzl.uxecwlva.jpg/800x800cc.jpg",
+                        "caption": "Public Enemy"
+                    },
+                    {
+                        "image": "https://is5-ssl.mzstatic.com/image/thumb/Music114/v4/83/22/02/83220255-a069-e327-ef72-c2a47685f92a/FIXIMG00602435254623.rgb.jpg/400x400cc.jpg",
+                        "caption": "Fight The Power"
+                    }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                    {
+                        "title": "Album",
+                        "text": "Fight The Power"
+                    },
+                    {
+                        "title": "Label",
+                        "text": "UME - Global Clearing House"
+                    },
+                    {
+                        "title": "Released",
+                        "text": "1989"
+                    }
+                ]
+            },
+            {
+                "type": "LYRICS",
+                "text": [
+                    "Yet our best trained, best educated, best equipped",
+                    "Best prepared troops refuse to fight",
+                    "As a matter of fact, it's safe to say that they would rather switch",
+                    "Than fight",
+                    "",
+                    "1989 the number another summer (get down)",
+                    "Sound of the funky drummer",
+                    "Music hitting your heart 'cause I know you got soul",
+                    "(Brothers and sisters, hey)",
+                    "Listen if you're missing y'all",
+                    "Swinging while I'm singing",
+                    "Giving whatcha getting",
+                    "Knowing what I know",
+                    "While the Black bands sweating",
+                    "And the rhythm rhymes rolling",
+                    "Got to give us what we want",
+                    "Gotta give us what we need",
+                    "Our freedom of speech is freedom or death",
+                    "We got to fight the powers that be",
+                    "Lemme hear you say",
+                    "",
+                    "Fight the power",
+                    "Fight the power",
+                    "Fight the power",
+                    "Fight the power",
+                    "Fight the power",
+                    "Fight the power",
+                    "Fight the power",
+                    "We've got to fight the powers that be",
+                    "",
+                    "As the rhythm designed to bounce",
+                    "What counts is that the rhymes",
+                    "Designed to fill your mind",
+                    "Now that you've realized the pride's arrived",
+                    "We got to pump the stuff to make us tough",
+                    "",
+                    "From the heart",
+                    "It's a start, a work of art",
+                    "To revolutionize make a change nothing's strange",
+                    "People, people we are the same",
+                    "No we're not the same",
+                    "'Cause we don't know the game",
+                    "What we need is awareness, we can't get careless",
+                    "You say what is this?",
+                    "My beloved lets get down to business",
+                    "Mental self defensive fitness",
+                    "Don't rush the show",
+                    "You gotta go for what you know",
+                    "Make everybody see, in order to fight the powers that be",
+                    "Lemme hear you say",
+                    "",
+                    "Fight the power",
+                    "Fight the power",
+                    "Fight the power",
+                    "Fight the power",
+                    "Fight the power",
+                    "Fight the power",
+                    "Fight the power",
+                    "We've got to fight the powers that be",
+                    "",
+                    "Fight the power",
+                    "Fight the power",
+                    "Fight the power",
+                    "Fight the power",
+                    "Fight the power",
+                    "Fight the power",
+                    "We've got to fight the powers that be",
+                    "",
+                    "Elvis was a hero to most",
+                    "Elvis was a hero to most",
+                    "Elvis was a hero to most",
+                    "But he never meant s- to me you see",
+                    "Straight up racist that sucker was",
+                    "Simple and plain",
+                    "Mother f- him and John Wayne",
+                    "'Cause I'm Black and I'm proud",
+                    "I'm ready and hyped plus I'm amped",
+                    "Most of my heroes don't appear on no stamps",
+                    "Sample a look back you look and find",
+                    "Nothing but rednecks for 400 years if you check",
+                    "",
+                    "Don't worry be happy",
+                    "Was a number one jam",
+                    "Damn if I say it you can slap me right here",
+                    "(Get it) lets get this party started right",
+                    "Right on, c'mon",
+                    "What we got to say?",
+                    "Power to the people no delay",
+                    "Make everybody see",
+                    "In order to fight the powers that be",
+                    "",
+                    "Fight the power",
+                    "Fight the power",
+                    "Fight the power",
+                    "Fight the power",
+                    "We've got to fight the powers that be",
+                    "",
+                    "What we got to say?",
+                    "Fight the power",
+                    "What we got to say?",
+                    "Fight the power",
+                    "What we got to say?",
+                    "Fight the power",
+                    "What we got to say?",
+                    "Fight the power",
+                    "",
+                    "Yo, check this out man",
+                    "Ok talk to me 'bout the future of",
+                    "Public Enemy",
+                    "Future of Public Enemy gotta"
+                ],
+                "url": "https://cdn.shazam.com/lyrics/v1/en-US/GB/iphone/musixmatch/subtitles/131186/282/1?token=a255e0de4835853b293676d63aff970e",
+                "footer": "Writer(s): Ernie Isley, Rudolph Isley, Christopher H Jasper, Christopher Jasper, Ronald Isley, O'kelly Isley, Marvin Isley\nLyrics powered by www.musixmatch.com",
+                "tabname": "Lyrics",
+                "beacondata": {
+                    "lyricsid": "30432214",
+                    "providername": "musixmatch",
+                    "commontrackid": "131186"
+                }
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/11184320/youtube/video?q=Public+Enemy+%22Fight+The+Power%22"
+            },
+            {
+                "type": "RELATED",
+                "url": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-11184320?startFrom=0&pageSize=20&connected=",
+                "tabname": "Related"
+            }
+        ],
+        "url": "https://www.shazam.com/track/11184320/fight-the-power",
+        "artists": [
+            {
+                "id": "42",
+                "adamid": "36954"
+            }
+        ],
+        "isrc": "USDJ29000034",
+        "genres": {
+            "primary": "Hip-Hop/Rap"
+        },
+        "urlparams": {
+            "{tracktitle}": "Fight+The+Power",
+            "{trackartist}": "Public+Enemy"
+        },
+        "myshazam": {
+            "apple": {
+                "actions": [
+                    {
+                        "name": "myshazam:apple",
+                        "type": "uri",
+                        "uri": "https://music.apple.com/gb/album/fight-the-power/1531780502?i=1531780503&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                ]
+            }
+        },
+        "highlightsurls": {
+            "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/36954/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+        },
+        "relatedtracksurl": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-11184320?startFrom=0&pageSize=20&connected=",
+        "albumadamid": "1531780502"
+    },
+    "tagid": "E9938C8B-EA24-4599-A9D9-6EF3B798A615"
+}

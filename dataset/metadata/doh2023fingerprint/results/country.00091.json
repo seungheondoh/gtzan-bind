@@ -1,0 +1,266 @@
+{
+    "matches": [
+        {
+            "id": "285562933",
+            "offset": 30.011900389999997,
+            "timeskew": -0.00011843443,
+            "frequencyskew": -8.0525875e-05
+        },
+        {
+            "id": "304423435",
+            "offset": 29.941662109,
+            "timeskew": -0.00023031235,
+            "frequencyskew": -0.00020134449
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691633456525,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "483852",
+        "title": "Cloud of Dust",
+        "subtitle": "Brad Paisley",
+        "images": {
+            "background": "https://is2-ssl.mzstatic.com/image/thumb/Features125/v4/6f/0c/49/6f0c4983-dfe2-7907-16d8-2e7aaf9fea97/mzl.buakmgap.jpg/800x800cc.jpg",
+            "coverart": "https://is4-ssl.mzstatic.com/image/thumb/Music124/v4/49/b7/8b/49b78b63-52d3-ec7a-e85a-18338c1acf50/888880341167.jpg/400x400cc.jpg",
+            "coverarthq": "https://is4-ssl.mzstatic.com/image/thumb/Music124/v4/49/b7/8b/49b78b63-52d3-ec7a-e85a-18338c1acf50/888880341167.jpg/400x400cc.jpg",
+            "joecolor": "b:231f20p:c5e8fcs:abdcf9t:a4c0d0q:90b6cd"
+        },
+        "share": {
+            "subject": "Cloud of Dust - Brad Paisley",
+            "text": "Cloud of Dust by Brad Paisley",
+            "href": "https://www.shazam.com/track/483852/cloud-of-dust",
+            "image": "https://is4-ssl.mzstatic.com/image/thumb/Music124/v4/49/b7/8b/49b78b63-52d3-ec7a-e85a-18338c1acf50/888880341167.jpg/400x400cc.jpg",
+            "twitter": "I used @Shazam to discover Cloud of Dust by Brad Paisley.",
+            "html": "https://www.shazam.com/snippets/email-share/483852?lang=en-US&country=GB",
+            "avatar": "https://is2-ssl.mzstatic.com/image/thumb/Features125/v4/6f/0c/49/6f0c4983-dfe2-7907-16d8-2e7aaf9fea97/mzl.buakmgap.jpg/800x800cc.jpg",
+            "snapchat": "https://www.shazam.com/partner/sc/track/483852"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "actions": [
+                {
+                    "name": "apple",
+                    "type": "applemusicplay",
+                    "id": "286726840"
+                },
+                {
+                    "name": "apple",
+                    "type": "uri",
+                    "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/45/08/fa/4508fa38-0476-1b1a-5823-08ff6f537f8b/mzaf_2041513618080304765.plus.aac.ep.m4a"
+                }
+            ],
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/gb/album/cloud-of-dust/286726740?i=286726840&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/gb/album/cloud-of-dust/286726740?i=286726840&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                },
+                {
+                    "caption": "BUY",
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "uri": "https://itunes.apple.com/gb/album/cloud-of-dust/286726740?i=286726840&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "buy",
+                        "providername": "itunes"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "type": "buy",
+                    "listcaption": "Buy on iTunes",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "itunes"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:Cloud%20of%20Dust%20Brad%20Paisley"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27Cloud+of+Dust%27%20artist%3A%27Brad+Paisley%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": false,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [
+                    {
+                        "image": "https://is2-ssl.mzstatic.com/image/thumb/Features125/v4/6f/0c/49/6f0c4983-dfe2-7907-16d8-2e7aaf9fea97/mzl.buakmgap.jpg/800x800cc.jpg",
+                        "caption": "Brad Paisley"
+                    },
+                    {
+                        "image": "https://is4-ssl.mzstatic.com/image/thumb/Music124/v4/49/b7/8b/49b78b63-52d3-ec7a-e85a-18338c1acf50/888880341167.jpg/400x400cc.jpg",
+                        "caption": "Cloud of Dust"
+                    }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                    {
+                        "title": "Album",
+                        "text": "Who Needs Pictures"
+                    },
+                    {
+                        "title": "Label",
+                        "text": "Arista Nashville"
+                    },
+                    {
+                        "title": "Released",
+                        "text": "1999"
+                    }
+                ]
+            },
+            {
+                "type": "LYRICS",
+                "text": [
+                    "West Texas forecast more of the same",
+                    "Sunny and mild, no chance of rain",
+                    "That ol' John Deere tractor ain't moved in days",
+                    "Oh, but he's out there climbin' back on",
+                    "Because he's yet to admit, that his crops are all gone",
+                    "",
+                    "She stares out the window fightin' back tears",
+                    "And watches him wastin' his time in the fields",
+                    "They're havin' problems payin' the bills",
+                    "Oh, and she knows that it won't be long",
+                    "Before the bank finally places a lien on the farm",
+                    "",
+                    "And the tractor keeps rollin'",
+                    "The dust rises high",
+                    "Creatin' the only cloud in the sky",
+                    "He's holdin' his ground",
+                    "But it's gettin' tough",
+                    "He's keepin' his faith",
+                    "In the Lord up above",
+                    "And prayin' for rain",
+                    "Through a cloud of dust",
+                    "",
+                    "Yesterday somethin' in town caught his eye",
+                    "The old hardware store had a \"help wanted\" sign",
+                    "He thought about stoppin' but he drove on by",
+                    "'Cause he just can't bear to let go",
+                    "After all, it's the only life he's ever known",
+                    "",
+                    "And the tractor keeps rollin'",
+                    "The dust rises high",
+                    "Creatin' the only cloud in the sky",
+                    "He's holdin' his ground",
+                    "But it's gettin' tough",
+                    "He's keepin' his faith",
+                    "In the Lord up above",
+                    "And prayin' for rain",
+                    "Through a cloud of dust",
+                    "",
+                    "Yeah, he's holdin' his ground",
+                    "But it's gettin' tough",
+                    "He's keepin' his faith",
+                    "In the Lord up above",
+                    "And prayin' for rain",
+                    "Through a cloud of dust",
+                    "",
+                    "West Texas forecast more of the same",
+                    "Sunny and mild, no chance of rain"
+                ],
+                "url": "https://cdn.shazam.com/lyrics/v1/en-US/GB/iphone/musixmatch/subtitles/1272009/245/1?token=ad983cd1c20281e9af2427d523eaf0c4",
+                "footer": "Writer(s): Brad Paisley, Chris Dubois\nLyrics powered by www.musixmatch.com",
+                "tabname": "Lyrics",
+                "beacondata": {
+                    "lyricsid": "27556982",
+                    "providername": "musixmatch",
+                    "commontrackid": "1272009"
+                }
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/483852/youtube/video?q=Brad+Paisley+%22Cloud+of+Dust%22"
+            }
+        ],
+        "url": "https://www.shazam.com/track/483852/cloud-of-dust",
+        "artists": [
+            {
+                "id": "42",
+                "adamid": "203739"
+            }
+        ],
+        "isrc": "USAN29800051",
+        "genres": {
+            "primary": "Country"
+        },
+        "urlparams": {
+            "{tracktitle}": "Cloud+of+Dust",
+            "{trackartist}": "Brad+Paisley"
+        },
+        "myshazam": {
+            "apple": {
+                "actions": [
+                    {
+                        "name": "myshazam:apple",
+                        "type": "uri",
+                        "uri": "https://music.apple.com/gb/album/cloud-of-dust/286726740?i=286726840&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                ]
+            }
+        },
+        "highlightsurls": {
+            "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/203739/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+        },
+        "albumadamid": "286726740"
+    },
+    "tagid": "3093ADD3-2678-4E9C-9F84-7248FFD1FB8E"
+}

@@ -1,0 +1,385 @@
+{
+    "matches": [
+        {
+            "id": "481166698",
+            "offset": 31.355216796,
+            "timeskew": 0.00010406971,
+            "frequencyskew": -0.00024163723
+        },
+        {
+            "id": "237401912",
+            "offset": 31.467875,
+            "timeskew": 0.00016355515,
+            "frequencyskew": -0.00024163723
+        },
+        {
+            "id": "222256539",
+            "offset": 30.806914062,
+            "timeskew": 3.9219856e-05,
+            "frequencyskew": -4.029274e-05
+        },
+        {
+            "id": "211613795",
+            "offset": 30.535462889999998,
+            "timeskew": 0.00027251244,
+            "frequencyskew": -4.029274e-05
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691632740258,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "67841784",
+        "title": "Survivor",
+        "subtitle": "Destiny's Child",
+        "images": {
+            "background": "https://is1-ssl.mzstatic.com/image/thumb/Features115/v4/23/46/07/234607da-f99e-870f-44e7-b8ceb8dec358/mza_17495699682120654147.png/800x800cc.jpg",
+            "coverart": "https://is3-ssl.mzstatic.com/image/thumb/Music125/v4/7e/28/e7/7e28e782-98fe-e4b6-4a36-7f192c46907b/888880746269.jpg/400x400cc.jpg",
+            "coverarthq": "https://is3-ssl.mzstatic.com/image/thumb/Music125/v4/7e/28/e7/7e28e782-98fe-e4b6-4a36-7f192c46907b/888880746269.jpg/400x400cc.jpg",
+            "joecolor": "b:ffffffp:090909s:3e241ft:3a3a3aq:64504b"
+        },
+        "share": {
+            "subject": "Survivor - Destiny's Child",
+            "text": "Survivor by Destiny's Child",
+            "href": "https://www.shazam.com/track/67841784/survivor",
+            "image": "https://is3-ssl.mzstatic.com/image/thumb/Music125/v4/7e/28/e7/7e28e782-98fe-e4b6-4a36-7f192c46907b/888880746269.jpg/400x400cc.jpg",
+            "twitter": "I used @Shazam to discover Survivor by Destiny's Child.",
+            "html": "https://www.shazam.com/snippets/email-share/67841784?lang=en-US&country=GB",
+            "avatar": "https://is1-ssl.mzstatic.com/image/thumb/Features115/v4/23/46/07/234607da-f99e-870f-44e7-b8ceb8dec358/mza_17495699682120654147.png/800x800cc.jpg",
+            "snapchat": "https://www.shazam.com/partner/sc/track/67841784"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "actions": [
+                {
+                    "name": "apple",
+                    "type": "applemusicplay",
+                    "id": "1301495399"
+                },
+                {
+                    "name": "apple",
+                    "type": "uri",
+                    "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/00/a6/85/00a68575-96af-211d-372b-13857e1649d6/mzaf_14865637504130329004.plus.aac.ep.m4a"
+                }
+            ],
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/gb/album/survivor/1301493743?i=1301495399&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/gb/album/survivor/1301493743?i=1301495399&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                },
+                {
+                    "caption": "BUY",
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "uri": "https://itunes.apple.com/gb/album/survivor/1301493743?i=1301495399&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "buy",
+                        "providername": "itunes"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "type": "buy",
+                    "listcaption": "Buy on iTunes",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "itunes"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:Survivor%20Destiny%27s%20Child"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27Survivor%27%20artist%3A%27Destiny%5C%27s+Child%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": false,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [
+                    {
+                        "image": "https://is1-ssl.mzstatic.com/image/thumb/Features115/v4/23/46/07/234607da-f99e-870f-44e7-b8ceb8dec358/mza_17495699682120654147.png/800x800cc.jpg",
+                        "caption": "Destiny's Child"
+                    },
+                    {
+                        "image": "https://is3-ssl.mzstatic.com/image/thumb/Music125/v4/7e/28/e7/7e28e782-98fe-e4b6-4a36-7f192c46907b/888880746269.jpg/400x400cc.jpg",
+                        "caption": "Survivor"
+                    }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                    {
+                        "title": "Album",
+                        "text": "Survivor"
+                    },
+                    {
+                        "title": "Label",
+                        "text": "Columbia"
+                    },
+                    {
+                        "title": "Released",
+                        "text": "2001"
+                    }
+                ]
+            },
+            {
+                "type": "LYRICS",
+                "text": [
+                    "Now that you're out of my life",
+                    "I'm so much better",
+                    "You thought that I'd be weak without you",
+                    "But I'm stronger",
+                    "You thought that I'd be broke without you",
+                    "But I'm richer",
+                    "You thought that I'd be sad without you",
+                    "I laugh harder",
+                    "",
+                    "You thought I wouldn't grow without you",
+                    "Now I'm wiser",
+                    "Thought that I'd be helpless without you",
+                    "But I'm smarter",
+                    "You thought that I'd be stressed without you",
+                    "But I'm chillin'",
+                    "You thought I wouldn't sell without you",
+                    "Sold 9 million",
+                    "",
+                    "I'm a Survivor (What?)",
+                    "I'm not gon' give up (What?)",
+                    "I'm not gon' stop (What?)",
+                    "I'm gon' work harder (What?)",
+                    "I'm a Survivor (What?)",
+                    "I'm gonna make it (What?)",
+                    "I will survive (What?)",
+                    "Keep on survivin' (What?)",
+                    "",
+                    "I'm a Survivor (What?)",
+                    "I'm not gon' give up (What?)",
+                    "I'm not gon' stop (What?)",
+                    "I'm gon' work harder (What?)",
+                    "I'm a Survivor (What?)",
+                    "I'm gonna make it (What?)",
+                    "I will survive (What?)",
+                    "Keep on survivin' (What?)",
+                    "",
+                    "Thought I couldn't breathe without you",
+                    "I'm inhaling",
+                    "You thought I couldn't see without you",
+                    "Perfect vision",
+                    "You thought I couldn't last without you",
+                    "But I'm lastin'",
+                    "You thought that I would die without you",
+                    "But I'm livin'",
+                    "",
+                    "Thought that I would fail without you",
+                    "But I'm on top",
+                    "Thought it would be over by now",
+                    "But it won't stop",
+                    "Thought that I would self destruct",
+                    "But I'm still here",
+                    "Even in my years to come",
+                    "I'm still gon' be here",
+                    "",
+                    "I'm a Survivor (What?)",
+                    "I'm not gon' give up (What?)",
+                    "I'm not gon' stop (What?)",
+                    "I'm gon' work harder (What?)",
+                    "I'm a Survivor (What?)",
+                    "I'm gonna make it (What?)",
+                    "I will survive (What?)",
+                    "Keep on Survivin' (What?)",
+                    "",
+                    "I'm a Survivor (What?)",
+                    "I'm not gon' give up (What?)",
+                    "I'm not gon' stop (What?)",
+                    "I'm gon' work harder (What?)",
+                    "I'm a Survivor (What?)",
+                    "I'm gonna make it (What?)",
+                    "I will survive (What?)",
+                    "Keep on survivin' (What?)",
+                    "",
+                    "I'm wishin' you the best",
+                    "Pray that you are blessed",
+                    "Bring much success, no stress, and lots of happiness",
+                    "(I'm better than that)",
+                    "I'm not gon' blast you on the radio",
+                    "(I'm better than that)",
+                    "I'm not gon' lie on you and your family",
+                    "(I'm better than that)",
+                    "I'm not gon' hate on you in the magazines",
+                    "(I'm better than that)",
+                    "I'm not gon' compromise my Christianity",
+                    "(I'm better than that)",
+                    "You know I'm not gon' diss you on the internet",
+                    "'Cause my mama taught me better than that",
+                    "",
+                    "I'm a Survivor (What?)",
+                    "I'm not gon' give up (What?)",
+                    "I'm not gon' stop (What?)",
+                    "I'm gon' work harder (What?)",
+                    "I'm a survivor (What?)",
+                    "I'm gonna make it (What?)",
+                    "I will survive (What?)",
+                    "Keep on Survivin' (What?)",
+                    "",
+                    "I'm a Survivor (What?)",
+                    "I'm not gon' give up (What?)",
+                    "I'm not gon' stop (What?)",
+                    "I'm gon' work harder (What?)",
+                    "I'm a Survivor (What?)",
+                    "I'm gonna make it (What?)",
+                    "I will survive (What?)",
+                    "Keep on survivin' (What?)",
+                    "",
+                    "Oh (oh) oh (oh)",
+                    "Oh (oh) oh (oh)",
+                    "Oh, woah (oh, woah), oh, woah (oh, woah)",
+                    "Oh, woah (oh, woah), oh, woah, woah",
+                    "",
+                    "After of all of the darkness and sadness",
+                    "Soon comes happiness",
+                    "If I surround my self with positive things",
+                    "I'll gain prosperity",
+                    "",
+                    "I'm a Survivor (What?)",
+                    "I'm not gon' give up (What?)",
+                    "I'm not gon' stop (What?)",
+                    "I'm gon' work harder (What?)",
+                    "I'm a Survivor (What?)",
+                    "I'm gonna make it (What?)",
+                    "I will survive (What?)",
+                    "Keep on survivin' (What?)",
+                    "I'm a Survivor (What?)",
+                    "I'm not gon' give up (What?)",
+                    "I'm not gon' stop (What?)",
+                    "I'm gon' work harder (What?)",
+                    "I'm a Survivor (What?)",
+                    "I'm gonna make it (What?)",
+                    "I will survive (What?)",
+                    "Keep on survivin' (What?)",
+                    "",
+                    "I'm a Survivor (What?)",
+                    "I'm not gon' give up (What?)",
+                    "I'm not gon' stop (What?)",
+                    "I'm gon' work harder (What?)",
+                    "I'm a Survivor (What?)",
+                    "I'm gonna make it (What?)",
+                    "I will survive (What?)",
+                    "Keep on survivin' (What?)",
+                    "I'm a Survivor (What?)",
+                    "I'm not gon' give up (What?)",
+                    "I'm not gon' stop (What?)",
+                    "I'm gon' work harder (What?)",
+                    "I'm a Survivor (What?)",
+                    "I'm gonna make it (What?)",
+                    "I will survive (What?)",
+                    "Keep on survivin' (What?)"
+                ],
+                "url": "https://cdn.shazam.com/lyrics/v1/en-US/GB/iphone/musixmatch/subtitles/11736290/241/1?token=e2393830b279fd64e4d957e6930e5625",
+                "footer": "Writer(s): Anthony Dent, Beyonce Knowles, Mathew Knowles\nLyrics powered by www.musixmatch.com",
+                "tabname": "Lyrics",
+                "beacondata": {
+                    "lyricsid": "30335353",
+                    "providername": "musixmatch",
+                    "commontrackid": "11736290"
+                }
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/67841784/youtube/video?q=Destiny's+Child+%22Survivor%22"
+            },
+            {
+                "type": "RELATED",
+                "url": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-67841784?startFrom=0&pageSize=20&connected=",
+                "tabname": "Related"
+            }
+        ],
+        "url": "https://www.shazam.com/track/67841784/survivor",
+        "artists": [
+            {
+                "id": "42",
+                "adamid": "634287"
+            }
+        ],
+        "isrc": "USSM10019326",
+        "genres": {
+            "primary": "R&B/Soul"
+        },
+        "urlparams": {
+            "{tracktitle}": "Survivor",
+            "{trackartist}": "Destiny%27s+Child"
+        },
+        "myshazam": {
+            "apple": {
+                "actions": [
+                    {
+                        "name": "myshazam:apple",
+                        "type": "uri",
+                        "uri": "https://music.apple.com/gb/album/survivor/1301493743?i=1301495399&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                ]
+            }
+        },
+        "highlightsurls": {
+            "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/634287/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+        },
+        "relatedtracksurl": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-67841784?startFrom=0&pageSize=20&connected=",
+        "albumadamid": "1301493743"
+    },
+    "tagid": "948F48AD-2B76-4D87-BD40-92C78A405BA3"
+}

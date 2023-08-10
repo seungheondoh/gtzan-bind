@@ -1,0 +1,195 @@
+{
+    "matches": [
+        {
+            "id": "248884183",
+            "offset": 25.654349609,
+            "timeskew": 1.50203705e-05,
+            "frequencyskew": -4.029274e-05
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691632886798,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "69838736",
+        "title": "Divine Lines (feat. Epsilon)",
+        "subtitle": "Dirt featuring Epsilon",
+        "images": {
+            "background": "https://is1-ssl.mzstatic.com/image/thumb/Features/v4/37/ca/13/37ca1344-c5c3-a952-9cc7-599a908e192d/dj.zyfbtggv.jpg/400x400cc.jpg",
+            "coverart": "https://is1-ssl.mzstatic.com/image/thumb/Features/v4/37/ca/13/37ca1344-c5c3-a952-9cc7-599a908e192d/dj.zyfbtggv.jpg/400x400cc.jpg",
+            "coverarthq": "https://is1-ssl.mzstatic.com/image/thumb/Features/v4/37/ca/13/37ca1344-c5c3-a952-9cc7-599a908e192d/dj.zyfbtggv.jpg/400x400cc.jpg",
+            "joecolor": "b:eacf59p:251b14s:23241bt:4c3f22q:4b4627"
+        },
+        "share": {
+            "subject": "Divine Lines (feat. Epsilon) - Dirt featuring Epsilon",
+            "text": "Divine Lines (feat. Epsilon) by Dirt featuring Epsilon",
+            "href": "https://www.shazam.com/track/69838736/divine-lines-feat-epsilon",
+            "image": "https://is1-ssl.mzstatic.com/image/thumb/Features/v4/37/ca/13/37ca1344-c5c3-a952-9cc7-599a908e192d/dj.zyfbtggv.jpg/400x400cc.jpg",
+            "twitter": "I used @Shazam to discover Divine Lines (feat. Epsilon) by Dirt featuring Epsilon.",
+            "html": "https://www.shazam.com/snippets/email-share/69838736?lang=en-US&country=GB",
+            "snapchat": "https://www.shazam.com/partner/sc/track/69838736"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "actions": [
+                {
+                    "name": "apple",
+                    "type": "applemusicplay",
+                    "id": "215506379"
+                },
+                {
+                    "name": "apple",
+                    "type": "uri",
+                    "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/Music2/v4/e1/c1/e8/e1c1e8f2-31f8-a6de-566b-22c6e4985169/mzaf_4792897559212684043.plus.aac.ep.m4a"
+                }
+            ],
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/gb/album/divine-lines-feat-epsilon/215505495?i=215506379&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/gb/album/divine-lines-feat-epsilon/215505495?i=215506379&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                },
+                {
+                    "caption": "BUY",
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "uri": "https://itunes.apple.com/gb/album/divine-lines-feat-epsilon/215505495?i=215506379&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "buy",
+                        "providername": "itunes"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "type": "buy",
+                    "listcaption": "Buy on iTunes",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "itunes"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:Divine%20Lines%20%28feat.%20Epsilon%29%20Jeremiah%20Dirt"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27Divine+Lines+%28feat.+Epsilon%29%27%20artist%3A%27Dirt+featuring+Epsilon%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": false,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [
+                    {
+                        "image": "https://is1-ssl.mzstatic.com/image/thumb/Features/v4/37/ca/13/37ca1344-c5c3-a952-9cc7-599a908e192d/dj.zyfbtggv.jpg/400x400cc.jpg",
+                        "caption": "Divine Lines (feat. Epsilon)"
+                    }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                    {
+                        "title": "Album",
+                        "text": "A War to Restore"
+                    },
+                    {
+                        "title": "Label",
+                        "text": "Shadow of The Locust"
+                    },
+                    {
+                        "title": "Released",
+                        "text": "2000"
+                    }
+                ]
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/69838736/youtube/video?q=Dirt+featuring+Epsilon+%22Divine+Lines+(feat.+Epsilon)%22"
+            }
+        ],
+        "url": "https://www.shazam.com/track/69838736/divine-lines-feat-epsilon",
+        "artists": [
+            {
+                "id": "42",
+                "adamid": "593150981"
+            }
+        ],
+        "isrc": "USACX0510798",
+        "genres": {
+            "primary": "Hip-Hop/Rap"
+        },
+        "urlparams": {
+            "{tracktitle}": "Divine+Lines+%28feat.+Epsilon%29",
+            "{trackartist}": "Dirt+featuring+Epsilon"
+        },
+        "myshazam": {
+            "apple": {
+                "actions": [
+                    {
+                        "name": "myshazam:apple",
+                        "type": "uri",
+                        "uri": "https://music.apple.com/gb/album/divine-lines-feat-epsilon/215505495?i=215506379&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                ]
+            }
+        },
+        "highlightsurls": {
+            "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/593150981/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+        },
+        "albumadamid": "215505495"
+    },
+    "tagid": "C9C0A372-FFC7-464E-8E75-3682C6131A62"
+}

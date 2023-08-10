@@ -1,0 +1,262 @@
+{
+    "matches": [
+        {
+            "id": "234418771",
+            "offset": 30.013759765,
+            "timeskew": 4.863739e-05,
+            "frequencyskew": -0.000120818615
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691633578783,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "5271104",
+        "title": "French Fries W- Pepper",
+        "subtitle": "Morphine",
+        "images": {
+            "background": "https://is3-ssl.mzstatic.com/image/thumb/Features125/v4/8b/1d/03/8b1d0379-29ca-ae07-ebeb-37206ae354f6/pr_source.png/800x800cc.jpg",
+            "coverart": "https://is5-ssl.mzstatic.com/image/thumb/Music122/v4/16/74/cb/1674cbec-5294-b22e-8de9-d055c9d9f227/cover.jpg/400x400cc.jpg",
+            "coverarthq": "https://is5-ssl.mzstatic.com/image/thumb/Music122/v4/16/74/cb/1674cbec-5294-b22e-8de9-d055c9d9f227/cover.jpg/400x400cc.jpg",
+            "joecolor": "b:004ab1p:ffffffs:bdfffet:cbdaefq:97daee"
+        },
+        "share": {
+            "subject": "French Fries W- Pepper - Morphine",
+            "text": "French Fries W- Pepper by Morphine",
+            "href": "https://www.shazam.com/track/5271104/french-fries-w-pepper",
+            "image": "https://is5-ssl.mzstatic.com/image/thumb/Music122/v4/16/74/cb/1674cbec-5294-b22e-8de9-d055c9d9f227/cover.jpg/400x400cc.jpg",
+            "twitter": "I used @Shazam to discover French Fries W- Pepper by Morphine.",
+            "html": "https://www.shazam.com/snippets/email-share/5271104?lang=en-US&country=GB",
+            "avatar": "https://is3-ssl.mzstatic.com/image/thumb/Features125/v4/8b/1d/03/8b1d0379-29ca-ae07-ebeb-37206ae354f6/pr_source.png/800x800cc.jpg",
+            "snapchat": "https://www.shazam.com/partner/sc/track/5271104"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "actions": [
+                {
+                    "name": "apple",
+                    "type": "applemusicplay",
+                    "id": "1649513263"
+                },
+                {
+                    "name": "apple",
+                    "type": "uri",
+                    "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/f3/58/ff/f358ffb2-fff0-895d-4395-77b5f372cebd/mzaf_7925025027213494182.plus.aac.ep.m4a"
+                }
+            ],
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/gb/album/french-fries-w-pepper/1649513252?i=1649513263&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/gb/album/french-fries-w-pepper/1649513252?i=1649513263&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                },
+                {
+                    "caption": "BUY",
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "uri": "https://itunes.apple.com/gb/album/french-fries-w-pepper/1649513252?i=1649513263&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "buy",
+                        "providername": "itunes"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "type": "buy",
+                    "listcaption": "Buy on iTunes",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "itunes"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:French%20Fries%20W-%20Pepper%20Morphine"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27French+Fries+W-+Pepper%27%20artist%3A%27Morphine%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": false,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [
+                    {
+                        "image": "https://is3-ssl.mzstatic.com/image/thumb/Features125/v4/8b/1d/03/8b1d0379-29ca-ae07-ebeb-37206ae354f6/pr_source.png/800x800cc.jpg",
+                        "caption": "Morphine"
+                    },
+                    {
+                        "image": "https://is5-ssl.mzstatic.com/image/thumb/Music122/v4/16/74/cb/1674cbec-5294-b22e-8de9-d055c9d9f227/cover.jpg/400x400cc.jpg",
+                        "caption": "French Fries W- Pepper"
+                    }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                    {
+                        "title": "Album",
+                        "text": "Like Swimming"
+                    },
+                    {
+                        "title": "Label",
+                        "text": "Morphine"
+                    },
+                    {
+                        "title": "Released",
+                        "text": "1997"
+                    }
+                ]
+            },
+            {
+                "type": "LYRICS",
+                "text": [
+                    "Yeah!",
+                    "C'mon!",
+                    "You and me are meant to be like a brand new board",
+                    "And an anonymous wave",
+                    "",
+                    "Thing is honey, I'm your need for every chillin'",
+                    "In tryin' to catch some waves",
+                    "Without you I'll sing the blues",
+                    "Said a rock rock rock rock rock and roll",
+                    "So I'm hopin' you'll miss me too",
+                    "And your down to do whatever since I rode the moon",
+                    "March to the beat (oh!)",
+                    "I march to the beat gonna do my thing (hey!)",
+                    "March to the beat (oh!)",
+                    "I march to the beat gonna do my thing",
+                    "C'mon and feel this beat cause I gotta be me",
+                    "You let em move those feet and they'll set you free",
+                    "C'mon you need to see that I gotta be me",
+                    "I gotta be, gotta be, gotta gotta be me",
+                    "C'mon and feel this beat cause I gotta be me!",
+                    "You let em move those feet and they'll set you free",
+                    "C'mon you need to see that I gotta be me",
+                    "I gotta be, gotta be, gotta gotta be me!",
+                    "Like you, i'm original",
+                    "Tryin' to move this world from where it's at",
+                    "Your laid back and I get stressed",
+                    "Yeah whenever we're together, were more than that",
+                    "My model sees the day and night",
+                    "And yours says lets go with the flow",
+                    "That's no reason to say goodbye",
+                    "Now if your fast enough for a girl on the go!",
+                    "March to the beat (oh!)",
+                    "I march to the beat gonna do my thing (hey!)",
+                    "March to the beat (oh!)",
+                    "I march to the beat gonna do my thing",
+                    "C'mon and feel this beat cause I gotta be me",
+                    "You let em move those feet and they'll set you free",
+                    "C'mon you need to see that I gotta be me",
+                    "I gotta be, gotta be, gotta gotta be me!",
+                    "C'mon and feel this beat cause I gotta be me!",
+                    "You let em move those feet and they'll set you free",
+                    "C'mon you need to see that I gotta be me",
+                    "I gotta be, gotta be, gotta gotta be me!"
+                ],
+                "url": "https://cdn.shazam.com/lyrics/v1/en-US/GB/iphone/musixmatch/subtitles/777267/173/1?token=039c38b18f5652752926c203a71690f7",
+                "footer": "Writer(s): Mark J. Sandman\nLyrics powered by www.musixmatch.com",
+                "tabname": "Lyrics",
+                "beacondata": {
+                    "lyricsid": "11815664",
+                    "providername": "musixmatch",
+                    "commontrackid": "777267"
+                }
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/5271104/youtube/video?q=Morphine+%22French+Fries+W-+Pepper%22"
+            },
+            {
+                "type": "RELATED",
+                "url": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-5271104?startFrom=0&pageSize=20&connected=",
+                "tabname": "Related"
+            }
+        ],
+        "url": "https://www.shazam.com/track/5271104/french-fries-w-pepper",
+        "artists": [
+            {
+                "id": "42",
+                "adamid": "3444725"
+            }
+        ],
+        "isrc": "AEA0D2244557",
+        "genres": {
+            "primary": "Rock"
+        },
+        "urlparams": {
+            "{tracktitle}": "French+Fries+W-+Pepper",
+            "{trackartist}": "Morphine"
+        },
+        "myshazam": {
+            "apple": {
+                "actions": [
+                    {
+                        "name": "myshazam:apple",
+                        "type": "uri",
+                        "uri": "https://music.apple.com/gb/album/french-fries-w-pepper/1649513252?i=1649513263&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                ]
+            }
+        },
+        "highlightsurls": {
+            "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/3444725/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+        },
+        "relatedtracksurl": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-5271104?startFrom=0&pageSize=20&connected=",
+        "albumadamid": "1649513252"
+    },
+    "tagid": "B67EA016-3987-4964-A739-BC8C21382454"
+}

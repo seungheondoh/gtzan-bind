@@ -1,0 +1,310 @@
+{
+    "matches": [
+        {
+            "id": "485916858",
+            "offset": 29.862388671,
+            "timeskew": 9.88245e-05,
+            "frequencyskew": -8.0525875e-05
+        },
+        {
+            "id": "299335750",
+            "offset": 29.926597656000002,
+            "timeskew": 0.00012612343,
+            "frequencyskew": -8.0525875e-05
+        },
+        {
+            "id": "73507562",
+            "offset": 29.590365234,
+            "timeskew": 0.00022745132,
+            "frequencyskew": -0.00016111135
+        },
+        {
+            "id": "98755975",
+            "offset": 30.14602539,
+            "timeskew": -2.7418137e-06,
+            "frequencyskew": -0.000120818615
+        },
+        {
+            "id": "5391062",
+            "offset": 29.889117187,
+            "timeskew": 7.56979e-05,
+            "frequencyskew": -0.00016111135
+        },
+        {
+            "id": "317633161",
+            "offset": 30.099726562,
+            "timeskew": 0.00045633316,
+            "frequencyskew": -8.0525875e-05
+        },
+        {
+            "id": "264227415",
+            "offset": 29.856949218,
+            "timeskew": 1.8835068e-05,
+            "frequencyskew": 8.058548e-05
+        },
+        {
+            "id": "268525273",
+            "offset": 29.730136718,
+            "timeskew": -0.0044949055,
+            "frequencyskew": -0.0042999983
+        },
+        {
+            "id": "223742920",
+            "offset": 29.505208984,
+            "timeskew": -0.0039792657,
+            "frequencyskew": -0.004179716
+        },
+        {
+            "id": "268835161",
+            "offset": 30.163019531000003,
+            "timeskew": -0.0032806396,
+            "frequencyskew": -0.0028553605
+        },
+        {
+            "id": "511108347",
+            "offset": 29.628904296,
+            "timeskew": -0.0042791367,
+            "frequencyskew": -0.004380226
+        },
+        {
+            "id": "72040238",
+            "offset": 29.527623046000002,
+            "timeskew": -0.004124999,
+            "frequencyskew": -0.0040192604
+        },
+        {
+            "id": "354937512",
+            "offset": 29.197824218,
+            "timeskew": -0.019784331,
+            "frequencyskew": -0.019777596
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691632676027,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "57308954",
+        "title": "Dreamin' Blues",
+        "subtitle": "John Lee Hooker",
+        "images": {
+            "background": "https://is3-ssl.mzstatic.com/image/thumb/Features125/v4/37/a2/79/37a279e5-d29c-f554-8c32-21263bf40a04/mzl.fijrwzwn.jpg/800x800cc.jpg",
+            "coverart": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/ba/b8/fa/bab8fa7d-81c5-4ebc-0a0d-7b6e137ae5b1/00076732919927.rgb.jpg/400x400cc.jpg",
+            "coverarthq": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/ba/b8/fa/bab8fa7d-81c5-4ebc-0a0d-7b6e137ae5b1/00076732919927.rgb.jpg/400x400cc.jpg",
+            "joecolor": "b:161618p:f8f5f0s:eef5fdt:cbc8c5q:c3c8cf"
+        },
+        "share": {
+            "subject": "Dreamin' Blues - John Lee Hooker",
+            "text": "Dreamin' Blues by John Lee Hooker",
+            "href": "https://www.shazam.com/track/57308954/dreamin-blues",
+            "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/ba/b8/fa/bab8fa7d-81c5-4ebc-0a0d-7b6e137ae5b1/00076732919927.rgb.jpg/400x400cc.jpg",
+            "twitter": "I used @Shazam to discover Dreamin' Blues by John Lee Hooker.",
+            "html": "https://www.shazam.com/snippets/email-share/57308954?lang=en-US&country=GB",
+            "avatar": "https://is3-ssl.mzstatic.com/image/thumb/Features125/v4/37/a2/79/37a279e5-d29c-f554-8c32-21263bf40a04/mzl.fijrwzwn.jpg/800x800cc.jpg",
+            "snapchat": "https://www.shazam.com/partner/sc/track/57308954"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "actions": [
+                {
+                    "name": "apple",
+                    "type": "applemusicplay",
+                    "id": "1444014769"
+                },
+                {
+                    "name": "apple",
+                    "type": "uri",
+                    "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/98/e9/6b/98e96b72-7c0a-4ca9-e49e-c926eb5c0c20/mzaf_10941249363953246761.plus.aac.ep.m4a"
+                }
+            ],
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/gb/album/dreamin-blues/1444014192?i=1444014769&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/gb/album/dreamin-blues/1444014192?i=1444014769&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                },
+                {
+                    "caption": "BUY",
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "uri": "https://itunes.apple.com/gb/album/dreamin-blues/1444014192?i=1444014769&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "buy",
+                        "providername": "itunes"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "type": "buy",
+                    "listcaption": "Buy on iTunes",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "itunes"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:Dreamin%27%20Blues%20John%20Lee%20Hooker"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27Dreamin%5C%27+Blues%27%20artist%3A%27John+Lee+Hooker%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": false,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [
+                    {
+                        "image": "https://is3-ssl.mzstatic.com/image/thumb/Features125/v4/37/a2/79/37a279e5-d29c-f554-8c32-21263bf40a04/mzl.fijrwzwn.jpg/800x800cc.jpg",
+                        "caption": "John Lee Hooker"
+                    },
+                    {
+                        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/ba/b8/fa/bab8fa7d-81c5-4ebc-0a0d-7b6e137ae5b1/00076732919927.rgb.jpg/400x400cc.jpg",
+                        "caption": "Dreamin' Blues"
+                    }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                    {
+                        "title": "Album",
+                        "text": "Plays & Sings The Blues"
+                    },
+                    {
+                        "title": "Label",
+                        "text": "Geffen*"
+                    },
+                    {
+                        "title": "Released",
+                        "text": "1961"
+                    }
+                ]
+            },
+            {
+                "type": "LYRICS",
+                "text": [
+                    "My baby left me this morning",
+                    "People just about four o'clock",
+                    "My baby left me this morning",
+                    "People just about four o'clock",
+                    "She left me dreamin', dreamin'",
+                    "People then I woke up crying",
+                    "",
+                    "Me and my baby don't get along so well",
+                    "We don't do a doggone thing but fuss and fight all",
+                    "Most all the time, she left me to dream",
+                    "People dream most all the time",
+                    "",
+                    "Ever since my baby left me",
+                    "I don't do a doggone thing but dream",
+                    "Yes, my nightmares are killing me now",
+                    "",
+                    "You know I lay down dreamin'",
+                    "People, God knows that I wake up crying",
+                    "",
+                    "Yes, since my baby's been gone",
+                    "People, I just can't eat a bite",
+                    "I'm gonna get up in the morning",
+                    "Going down that lonesome road",
+                    "I don't find my baby",
+                    "People, I won't be back no more"
+                ],
+                "url": "https://cdn.shazam.com/lyrics/v1/en-US/GB/iphone/musixmatch/subtitles/26043242/186/1?token=057b5d22f4eeb3432d694128b31d1a78",
+                "footer": "Writer(s): John Lee Hooker\nLyrics powered by www.musixmatch.com",
+                "tabname": "Lyrics",
+                "beacondata": {
+                    "lyricsid": "32228156",
+                    "providername": "musixmatch",
+                    "commontrackid": "26043242"
+                }
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/57308954/youtube/video?q=John+Lee+Hooker+%22Dreamin'+Blues%22"
+            }
+        ],
+        "url": "https://www.shazam.com/track/57308954/dreamin-blues",
+        "artists": [
+            {
+                "id": "42",
+                "adamid": "97536"
+            }
+        ],
+        "isrc": "USMC15101252",
+        "genres": {
+            "primary": "Blues"
+        },
+        "urlparams": {
+            "{tracktitle}": "Dreamin%27+Blues",
+            "{trackartist}": "John+Lee+Hooker"
+        },
+        "myshazam": {
+            "apple": {
+                "actions": [
+                    {
+                        "name": "myshazam:apple",
+                        "type": "uri",
+                        "uri": "https://music.apple.com/gb/album/dreamin-blues/1444014192?i=1444014769&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                ]
+            }
+        },
+        "highlightsurls": {
+            "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/97536/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+        },
+        "albumadamid": "1444014192"
+    },
+    "tagid": "FC67ECC1-ADBE-4F9F-80C8-2EB8999C8DFD"
+}

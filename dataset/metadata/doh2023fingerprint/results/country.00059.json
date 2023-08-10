@@ -1,0 +1,248 @@
+{
+    "matches": [
+        {
+            "id": "479784907",
+            "offset": 30.191738281000003,
+            "timeskew": 9.417534e-06,
+            "frequencyskew": -0.000120818615
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691633377720,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "5277734",
+        "title": "I Still Believe In You",
+        "subtitle": "Vince Gill",
+        "images": {
+            "background": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/60/4c/f5/604cf541-d910-4110-0f64-0a86beda613e/pr_source.png/800x800cc.jpg",
+            "coverart": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/16/e2/81/16e28184-54a7-74e9-9800-68f5f2ca68e6/00602567830566.rgb.jpg/400x400cc.jpg",
+            "coverarthq": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/16/e2/81/16e28184-54a7-74e9-9800-68f5f2ca68e6/00602567830566.rgb.jpg/400x400cc.jpg",
+            "joecolor": "b:13100bp:e6c7cfs:ec9f71t:bca2a8q:c0825c"
+        },
+        "share": {
+            "subject": "I Still Believe In You - Vince Gill",
+            "text": "I Still Believe In You by Vince Gill",
+            "href": "https://www.shazam.com/track/5277734/i-still-believe-in-you",
+            "image": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/16/e2/81/16e28184-54a7-74e9-9800-68f5f2ca68e6/00602567830566.rgb.jpg/400x400cc.jpg",
+            "twitter": "I used @Shazam to discover I Still Believe In You by Vince Gill.",
+            "html": "https://www.shazam.com/snippets/email-share/5277734?lang=en-US&country=GB",
+            "avatar": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/60/4c/f5/604cf541-d910-4110-0f64-0a86beda613e/pr_source.png/800x800cc.jpg",
+            "snapchat": "https://www.shazam.com/partner/sc/track/5277734"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "actions": [
+                {
+                    "name": "apple",
+                    "type": "applemusicplay",
+                    "id": "1434898738"
+                },
+                {
+                    "name": "apple",
+                    "type": "uri",
+                    "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/d7/df/d4/d7dfd4c7-55e8-e90c-bd3a-f6642973e601/mzaf_12456531824039982635.plus.aac.ep.m4a"
+                }
+            ],
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/gb/album/i-still-believe-in-you/1434898730?i=1434898738&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/gb/album/i-still-believe-in-you/1434898730?i=1434898738&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                },
+                {
+                    "caption": "BUY",
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "uri": "https://itunes.apple.com/gb/album/i-still-believe-in-you/1434898730?i=1434898738&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "buy",
+                        "providername": "itunes"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "type": "buy",
+                    "listcaption": "Buy on iTunes",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "itunes"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:I%20Still%20Believe%20In%20You%20Vince%20Gill"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27I+Still+Believe+In+You%27%20artist%3A%27Vince+Gill%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": false,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [
+                    {
+                        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/60/4c/f5/604cf541-d910-4110-0f64-0a86beda613e/pr_source.png/800x800cc.jpg",
+                        "caption": "Vince Gill"
+                    },
+                    {
+                        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/16/e2/81/16e28184-54a7-74e9-9800-68f5f2ca68e6/00602567830566.rgb.jpg/400x400cc.jpg",
+                        "caption": "I Still Believe In You"
+                    }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                    {
+                        "title": "Album",
+                        "text": "Best of Vince Gill"
+                    },
+                    {
+                        "title": "Label",
+                        "text": "MCA Nashville"
+                    },
+                    {
+                        "title": "Released",
+                        "text": "1992"
+                    }
+                ]
+            },
+            {
+                "type": "LYRICS",
+                "text": [
+                    "Everybody wants a little piece of my time",
+                    "But still I put you at the end of the line",
+                    "How it breaks my heart to cause you this pain",
+                    "To see the tears you cry fallin' like rain",
+                    "Give me the chance to prove",
+                    "And I'll make it up to you",
+                    "",
+                    "I still believe in you",
+                    "With a love that will always be",
+                    "Standing so strong and true",
+                    "Baby, I still believe in you and me",
+                    "",
+                    "Somewhere along the way, I guess I just lost track",
+                    "Only thinkin' of myself, never lookin' back",
+                    "For all the times I've hurt you, I apologize",
+                    "I'm sorry it took so long to finally realize",
+                    "Give me the chance to prove",
+                    "That nothing's worth losing you",
+                    "",
+                    "I still believe in you",
+                    "With a love that will always be",
+                    "Standing so strong and true",
+                    "Baby, I still believe in you and me",
+                    "",
+                    "Baby, I still believe in you",
+                    "With a love that will always be",
+                    "Standing so strong and true",
+                    "Baby, I still believe in you and me"
+                ],
+                "url": "https://cdn.shazam.com/lyrics/v1/en-US/GB/iphone/musixmatch/subtitles/951480/238/1?token=272b6badbc489febbef72fd87c5ace58",
+                "footer": "Writer(s): Vincent Gill, John Jarvis\nLyrics powered by www.musixmatch.com",
+                "tabname": "Lyrics",
+                "beacondata": {
+                    "lyricsid": "20118405",
+                    "providername": "musixmatch",
+                    "commontrackid": "951480"
+                }
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/5277734/youtube/video?q=Vince+Gill+%22I+Still+Believe+In+You%22"
+            },
+            {
+                "type": "RELATED",
+                "url": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-5277734?startFrom=0&pageSize=20&connected=",
+                "tabname": "Related"
+            }
+        ],
+        "url": "https://www.shazam.com/track/5277734/i-still-believe-in-you",
+        "artists": [
+            {
+                "id": "42",
+                "adamid": "27175"
+            }
+        ],
+        "isrc": "USMC19238515",
+        "genres": {
+            "primary": "Country"
+        },
+        "urlparams": {
+            "{tracktitle}": "I+Still+Believe+In+You",
+            "{trackartist}": "Vince+Gill"
+        },
+        "myshazam": {
+            "apple": {
+                "actions": [
+                    {
+                        "name": "myshazam:apple",
+                        "type": "uri",
+                        "uri": "https://music.apple.com/gb/album/i-still-believe-in-you/1434898730?i=1434898738&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                ]
+            }
+        },
+        "highlightsurls": {
+            "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/27175/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios&videoIdToFilter=1616245794",
+            "trackhighlighturl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/highlights/1616245794?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+        },
+        "relatedtracksurl": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-5277734?startFrom=0&pageSize=20&connected=",
+        "albumadamid": "1434898730"
+    },
+    "tagid": "0ECD3E93-7825-4855-B77F-7434390445A7"
+}

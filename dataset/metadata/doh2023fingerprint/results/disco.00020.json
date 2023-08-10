@@ -1,0 +1,305 @@
+{
+    "matches": [
+        {
+            "id": "213100576",
+            "offset": 29.824951171000002,
+            "timeskew": 8.34465e-07,
+            "frequencyskew": -0.000120818615
+        },
+        {
+            "id": "213897924",
+            "offset": 29.871865234,
+            "timeskew": -0.009195924,
+            "frequencyskew": -0.009738803
+        },
+        {
+            "id": "290048221",
+            "offset": 30.013947265,
+            "timeskew": -0.010490596,
+            "frequencyskew": -0.011412382
+        },
+        {
+            "id": "202307893",
+            "offset": 28.619033203,
+            "timeskew": -0.048356712,
+            "frequencyskew": -0.04890448
+        },
+        {
+            "id": "211888963",
+            "offset": 29.792607421,
+            "timeskew": -0.014114201,
+            "frequencyskew": -0.014592409
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691632435061,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "11119671",
+        "title": "Patches",
+        "subtitle": "Clarence Carter",
+        "images": {
+            "background": "https://is5-ssl.mzstatic.com/image/thumb/Music113/v4/ad/54/63/ad5463f6-8ef7-ad5a-97b2-dcfe025c404f/cover.jpg/400x400cc.jpg",
+            "coverart": "https://is5-ssl.mzstatic.com/image/thumb/Music113/v4/ad/54/63/ad5463f6-8ef7-ad5a-97b2-dcfe025c404f/cover.jpg/400x400cc.jpg",
+            "coverarthq": "https://is5-ssl.mzstatic.com/image/thumb/Music113/v4/ad/54/63/ad5463f6-8ef7-ad5a-97b2-dcfe025c404f/cover.jpg/400x400cc.jpg",
+            "joecolor": "b:fe9900p:0d0d0ds:262626t:3d290aq:513d1e"
+        },
+        "share": {
+            "subject": "Patches - Clarence Carter",
+            "text": "Patches by Clarence Carter",
+            "href": "https://www.shazam.com/track/11119671/patches",
+            "image": "https://is5-ssl.mzstatic.com/image/thumb/Music113/v4/ad/54/63/ad5463f6-8ef7-ad5a-97b2-dcfe025c404f/cover.jpg/400x400cc.jpg",
+            "twitter": "I used @Shazam to discover Patches by Clarence Carter.",
+            "html": "https://www.shazam.com/snippets/email-share/11119671?lang=en-US&country=GB",
+            "snapchat": "https://www.shazam.com/partner/sc/track/11119671"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "actions": [
+                {
+                    "name": "apple",
+                    "type": "applemusicplay",
+                    "id": "1513100228"
+                },
+                {
+                    "name": "apple",
+                    "type": "uri",
+                    "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/8b/f1/18/8bf118db-1286-876c-491a-8052bdcac96a/mzaf_6309770866828006063.plus.aac.ep.m4a"
+                }
+            ],
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/gb/album/patches/1513100102?i=1513100228&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/gb/album/patches/1513100102?i=1513100228&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                },
+                {
+                    "caption": "BUY",
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "uri": "https://itunes.apple.com/gb/album/patches/1513100102?i=1513100228&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "buy",
+                        "providername": "itunes"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "type": "buy",
+                    "listcaption": "Buy on iTunes",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "itunes"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:Patches%20Clarence%20Carter"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27Patches%27%20artist%3A%27Clarence+Carter%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": false,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [
+                    {
+                        "image": "https://is5-ssl.mzstatic.com/image/thumb/Music113/v4/ad/54/63/ad5463f6-8ef7-ad5a-97b2-dcfe025c404f/cover.jpg/400x400cc.jpg",
+                        "caption": "Patches"
+                    }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                    {
+                        "title": "Album",
+                        "text": "Patches"
+                    },
+                    {
+                        "title": "Label",
+                        "text": "HHO"
+                    },
+                    {
+                        "title": "Released",
+                        "text": "1970"
+                    }
+                ]
+            },
+            {
+                "type": "LYRICS",
+                "text": [
+                    "I was born and raised down in Alabama",
+                    "On a farm way back up in the woods",
+                    "I was so ragged the folks used to call me Patches",
+                    "Papa used to tease me about it",
+                    "Deep down inside he was hurt 'cause he'd done all he could",
+                    "",
+                    "My papa was a great old man",
+                    "I can see him with a shovel in his hand",
+                    "See, education he never had",
+                    "He did wonders when the times got bad",
+                    "The little money from the crops he raised",
+                    "Barely paid the bills we made",
+                    "Oh, life had kicked him down to the ground",
+                    "When he tried to get up, life would kick him back down",
+                    "One day papa called me to his dyin' bed",
+                    "Put his hands on my shoulders and in tears he said",
+                    "",
+                    "He said, \"Patches, I'm depending on you son",
+                    "To pull the family through",
+                    "My son, it's all left up to you\"",
+                    "",
+                    "Two days later, papa passed away",
+                    "And I became a man that day",
+                    "So I told mama I was gonna quit school",
+                    "But she said that was daddy's strictest rule",
+                    "",
+                    "So every morning 'fore I went to school",
+                    "I fed the chickens and I chopped wood too",
+                    "Sometimes I felt that I couldn't go on",
+                    "I wanted to leave, just run away from home",
+                    "But I would remember what my daddy said",
+                    "With tears in his eyes on his dyin' bed",
+                    "",
+                    "He said, \"Patches, I'm depending on you son",
+                    "I tried to do my best",
+                    "It's up to you to do the rest\"",
+                    "",
+                    "Then one day a strong rain came and washed all the crops away",
+                    "And at the age of 13 I thought I was carrying",
+                    "The weight of the whole world on my shoulders",
+                    "Mama knew what I was going through, because",
+                    "",
+                    "Every day, I had to work the fields",
+                    "'Cause that's the only way we got our meals",
+                    "See, I was the oldest of the family",
+                    "And everybody else depended on me",
+                    "Every night I heard my mama pray",
+                    "\"Lord, give him strength to face another day\"",
+                    "Though years have passed and all the kids are grown",
+                    "The angels took mama to a brand new home",
+                    "Lord knows people, I shed a tear",
+                    "My daddy's voice helped me through the years",
+                    "",
+                    "Sayin', \"Patches, I'm depending on you son",
+                    "To pull the family through",
+                    "My son, it's all left up to you\"",
+                    "Oh, \"Patches, I'm depending on you son",
+                    "I tried to do my best",
+                    "It's up to you to do the rest\"",
+                    "",
+                    "I could still hear papa when he's sayin'",
+                    "\"Patches, I'm depending on you son",
+                    "To pull the family through",
+                    "My son, it's all left up to you\"",
+                    "Oh, I like to hear father's voice say",
+                    "\"Patches, I'm depending on you son",
+                    "I've tried to do the best...\""
+                ],
+                "url": "https://cdn.shazam.com/lyrics/v1/en-US/GB/iphone/musixmatch/subtitles/12641706/183/1?token=8e3a19db1d4d62aad841ef01637b671d",
+                "footer": "Writer(s): Ronald Dunbar, General N. Johnson\nLyrics powered by www.musixmatch.com",
+                "tabname": "Lyrics",
+                "beacondata": {
+                    "lyricsid": "26123832",
+                    "providername": "musixmatch",
+                    "commontrackid": "12641706"
+                }
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/11119671/youtube/video?q=Clarence+Carter+%22Patches%22"
+            },
+            {
+                "type": "RELATED",
+                "url": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-11119671?startFrom=0&pageSize=20&connected=",
+                "tabname": "Related"
+            }
+        ],
+        "url": "https://www.shazam.com/track/11119671/patches",
+        "artists": [
+            {
+                "id": "42",
+                "adamid": "2088579"
+            }
+        ],
+        "isrc": "GBXHC2031825",
+        "genres": {
+            "primary": "Rock"
+        },
+        "urlparams": {
+            "{tracktitle}": "Patches",
+            "{trackartist}": "Clarence+Carter"
+        },
+        "myshazam": {
+            "apple": {
+                "actions": [
+                    {
+                        "name": "myshazam:apple",
+                        "type": "uri",
+                        "uri": "https://music.apple.com/gb/album/patches/1513100102?i=1513100228&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                ]
+            }
+        },
+        "highlightsurls": {
+            "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/2088579/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+        },
+        "relatedtracksurl": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-11119671?startFrom=0&pageSize=20&connected=",
+        "albumadamid": "1513100102"
+    },
+    "tagid": "BE97E3A6-2A4B-43B5-B637-85A3CF7D382D"
+}

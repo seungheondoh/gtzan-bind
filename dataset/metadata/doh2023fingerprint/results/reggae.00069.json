@@ -1,0 +1,275 @@
+{
+    "matches": [
+        {
+            "id": "309932520",
+            "offset": 29.966078125,
+            "timeskew": -0.015101731,
+            "frequencyskew": -0.015108168
+        },
+        {
+            "id": "353639129",
+            "offset": 29.567007812,
+            "timeskew": -0.017892182,
+            "frequencyskew": -0.017485201
+        },
+        {
+            "id": "10931599",
+            "offset": 29.875238281,
+            "timeskew": -0.002376616,
+            "frequencyskew": -0.002815187
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691633288293,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "374067",
+        "title": "Israelites",
+        "subtitle": "Desmond Dekker",
+        "images": {
+            "background": "https://is5-ssl.mzstatic.com/image/thumb/Features115/v4/61/18/20/61182022-db33-35a3-ab60-d96ad34df7c0/pr_source.png/800x800cc.jpg",
+            "coverart": "https://is1-ssl.mzstatic.com/image/thumb/Music111/v4/d8/fb/1f/d8fb1f98-d1af-9f5f-bafd-3a684c536631/4050538227048.jpg/400x400cc.jpg",
+            "coverarthq": "https://is1-ssl.mzstatic.com/image/thumb/Music111/v4/d8/fb/1f/d8fb1f98-d1af-9f5f-bafd-3a684c536631/4050538227048.jpg/400x400cc.jpg",
+            "joecolor": "b:302d28p:f1b739s:f57d22t:cb9b36q:cd6d23"
+        },
+        "share": {
+            "subject": "Israelites - Desmond Dekker",
+            "text": "Israelites by Desmond Dekker",
+            "href": "https://www.shazam.com/track/374067/israelites",
+            "image": "https://is1-ssl.mzstatic.com/image/thumb/Music111/v4/d8/fb/1f/d8fb1f98-d1af-9f5f-bafd-3a684c536631/4050538227048.jpg/400x400cc.jpg",
+            "twitter": "I used @Shazam to discover Israelites by Desmond Dekker.",
+            "html": "https://www.shazam.com/snippets/email-share/374067?lang=en-US&country=GB",
+            "avatar": "https://is5-ssl.mzstatic.com/image/thumb/Features115/v4/61/18/20/61182022-db33-35a3-ab60-d96ad34df7c0/pr_source.png/800x800cc.jpg",
+            "snapchat": "https://www.shazam.com/partner/sc/track/374067"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "actions": [
+                {
+                    "name": "apple",
+                    "type": "applemusicplay",
+                    "id": "1206553839"
+                },
+                {
+                    "name": "apple",
+                    "type": "uri",
+                    "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/39/ef/78/39ef783d-d342-ca24-216d-9b77a8f1ed6c/mzaf_9609088930750468593.plus.aac.ep.m4a"
+                }
+            ],
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/gb/album/israelites/1206553670?i=1206553839&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/gb/album/israelites/1206553670?i=1206553839&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                },
+                {
+                    "caption": "BUY",
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "uri": "https://itunes.apple.com/gb/album/israelites/1206553670?i=1206553839&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "buy",
+                        "providername": "itunes"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "type": "buy",
+                    "listcaption": "Buy on iTunes",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "itunes"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:Israelites%20Desmond%20Dekker"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27Israelites%27%20artist%3A%27Desmond+Dekker%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": false,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [
+                    {
+                        "image": "https://is5-ssl.mzstatic.com/image/thumb/Features115/v4/61/18/20/61182022-db33-35a3-ab60-d96ad34df7c0/pr_source.png/800x800cc.jpg",
+                        "caption": "Desmond Dekker"
+                    },
+                    {
+                        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music111/v4/d8/fb/1f/d8fb1f98-d1af-9f5f-bafd-3a684c536631/4050538227048.jpg/400x400cc.jpg",
+                        "caption": "Israelites"
+                    }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                    {
+                        "title": "Album",
+                        "text": "The Israelites"
+                    },
+                    {
+                        "title": "Label",
+                        "text": "Trojan Records"
+                    },
+                    {
+                        "title": "Released",
+                        "text": "1968"
+                    }
+                ]
+            },
+            {
+                "type": "LYRICS",
+                "text": [
+                    "Get up in the morning, slaving for bread, sir",
+                    "So that every mouth can be fed",
+                    "Poor, poor me, Israelites, aah",
+                    "",
+                    "Get up in the morning, slaving for bread, sir",
+                    "So that every mouth can be fed",
+                    "Poor me, the Israelite",
+                    "",
+                    "My wife and my kids, they packed up and leave me",
+                    "Darling, she said, \"I was yours to be seen\"",
+                    "Poor me, the Israelite",
+                    "",
+                    "Shirt them a-tear up, trousers are gone",
+                    "I don't want to end up like Bonnie and-",
+                    "Poor me, the Israelite (Bonnie and Clyde)",
+                    "",
+                    "After a storm there must be a calm",
+                    "They catch me in the farm",
+                    "You sound your alarm",
+                    "Poor, poor me, Israelites",
+                    "",
+                    "I said I get up in the morning, slaving for bread, sir",
+                    "So that every mouth can be fed",
+                    "Poor me, Israelite, aah",
+                    "",
+                    "My wife and my kids, they are packed up and leave me",
+                    "Darling, she said, I was yours to be seen",
+                    "Poor me, Israelites, aah",
+                    "",
+                    "Show them my tear up trousers are gone",
+                    "I don't want to end up like Bonnie and-",
+                    "A-poor a-poor me, Israelites (like Bonnie and Clyde)",
+                    "",
+                    "After a storm, there must be a calm",
+                    "They catch me in the farm",
+                    "You sound your alarm",
+                    "Poor me, Israelite",
+                    "Poor, poor me, Israelites",
+                    "Poor me, Israelite",
+                    "Poor me, Israelite",
+                    "Poor me, Israelite",
+                    "Poor me, Israelite",
+                    "Poor me, Israelite",
+                    "Poor me, Israelite"
+                ],
+                "url": "https://cdn.shazam.com/lyrics/v1/en-US/GB/iphone/musixmatch/subtitles/1401484/155/1?token=edc272c0f8f5dc2eee7695eccef8a404",
+                "footer": "Writer(s): Desmond Dekker\nLyrics powered by www.musixmatch.com",
+                "tabname": "Lyrics",
+                "beacondata": {
+                    "lyricsid": "23195667",
+                    "providername": "musixmatch",
+                    "commontrackid": "1401484"
+                }
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/374067/youtube/video?q=Desmond+Dekker+%22Israelites%22"
+            },
+            {
+                "type": "RELATED",
+                "url": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-374067?startFrom=0&pageSize=20&connected=",
+                "tabname": "Related"
+            }
+        ],
+        "url": "https://www.shazam.com/track/374067/israelites",
+        "artists": [
+            {
+                "id": "42",
+                "adamid": "3175629"
+            }
+        ],
+        "isrc": "GBAJE6800413",
+        "genres": {
+            "primary": "Reggae"
+        },
+        "urlparams": {
+            "{tracktitle}": "Israelites",
+            "{trackartist}": "Desmond+Dekker"
+        },
+        "myshazam": {
+            "apple": {
+                "actions": [
+                    {
+                        "name": "myshazam:apple",
+                        "type": "uri",
+                        "uri": "https://music.apple.com/gb/album/israelites/1206553670?i=1206553839&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                ]
+            }
+        },
+        "highlightsurls": {
+            "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/3175629/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+        },
+        "relatedtracksurl": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-374067?startFrom=0&pageSize=20&connected=",
+        "albumadamid": "1206553670"
+    },
+    "tagid": "F68363FB-767A-44D5-8412-9CA6CB4542B3"
+}

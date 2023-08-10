@@ -1,0 +1,235 @@
+{
+    "matches": [
+        {
+            "id": "476946349",
+            "offset": 29.395619139999997,
+            "timeskew": -0.0008401871,
+            "frequencyskew": -0.0009661317
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691632608295,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "346001",
+        "title": "Dirty Pool",
+        "subtitle": "Stevie Ray Vaughan & Double Trouble",
+        "images": {
+            "background": "https://is4-ssl.mzstatic.com/image/thumb/Features115/v4/ff/5b/49/ff5b49b7-5d59-8fb3-a901-001d20f29f6e/mzl.bzbetibz.jpg/800x800cc.jpg",
+            "coverart": "https://is2-ssl.mzstatic.com/image/thumb/Music115/v4/27/50/02/27500228-f8e4-8c5c-bb1c-8bfbec68a5fb/886443827141.jpg/400x400cc.jpg",
+            "coverarthq": "https://is2-ssl.mzstatic.com/image/thumb/Music115/v4/27/50/02/27500228-f8e4-8c5c-bb1c-8bfbec68a5fb/886443827141.jpg/400x400cc.jpg",
+            "joecolor": "b:ccbfb6p:0c0b0ds:1d1c20t:322f2fq:403c3e"
+        },
+        "share": {
+            "subject": "Dirty Pool - Stevie Ray Vaughan & Double Trouble",
+            "text": "Dirty Pool by Stevie Ray Vaughan & Double Trouble",
+            "href": "https://www.shazam.com/track/346001/dirty-pool",
+            "image": "https://is2-ssl.mzstatic.com/image/thumb/Music115/v4/27/50/02/27500228-f8e4-8c5c-bb1c-8bfbec68a5fb/886443827141.jpg/400x400cc.jpg",
+            "twitter": "I used @Shazam to discover Dirty Pool by Stevie Ray Vaughan & Double Trouble.",
+            "html": "https://www.shazam.com/snippets/email-share/346001?lang=en-US&country=GB",
+            "avatar": "https://is4-ssl.mzstatic.com/image/thumb/Features115/v4/ff/5b/49/ff5b49b7-5d59-8fb3-a901-001d20f29f6e/mzl.bzbetibz.jpg/800x800cc.jpg",
+            "snapchat": "https://www.shazam.com/partner/sc/track/346001"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "actions": [
+                {
+                    "name": "apple",
+                    "type": "applemusicplay",
+                    "id": "930561343"
+                },
+                {
+                    "name": "apple",
+                    "type": "uri",
+                    "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/e1/43/18/e1431869-217b-c226-307b-9c20932d265e/mzaf_12674959442780084145.plus.aac.ep.m4a"
+                }
+            ],
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/gb/album/dirty-pool/930561264?i=930561343&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/gb/album/dirty-pool/930561264?i=930561343&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                },
+                {
+                    "caption": "BUY",
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "uri": "https://itunes.apple.com/gb/album/dirty-pool/930561264?i=930561343&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "buy",
+                        "providername": "itunes"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "type": "buy",
+                    "listcaption": "Buy on iTunes",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "itunes"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:Dirty%20Pool%20Stevie%20Ray%20Vaughan%20%26%20Double%20Trouble"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27Dirty+Pool%27%20artist%3A%27Stevie+Ray+Vaughan++Double+Trouble%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": false,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [
+                    {
+                        "image": "https://is4-ssl.mzstatic.com/image/thumb/Features115/v4/ff/5b/49/ff5b49b7-5d59-8fb3-a901-001d20f29f6e/mzl.bzbetibz.jpg/800x800cc.jpg",
+                        "caption": "Stevie Ray Vaughan & Double Trouble"
+                    },
+                    {
+                        "image": "https://is2-ssl.mzstatic.com/image/thumb/Music115/v4/27/50/02/27500228-f8e4-8c5c-bb1c-8bfbec68a5fb/886443827141.jpg/400x400cc.jpg",
+                        "caption": "Dirty Pool"
+                    }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                    {
+                        "title": "Album",
+                        "text": "Texas Flood"
+                    },
+                    {
+                        "title": "Label",
+                        "text": "Epic/Legacy"
+                    },
+                    {
+                        "title": "Released",
+                        "text": "1983"
+                    }
+                ]
+            },
+            {
+                "type": "LYRICS",
+                "text": [
+                    "True love is gone, I's been played for a fool",
+                    "True love is gone, I's been played for a fool",
+                    "I'm turnin' the tables on you",
+                    "You've been playin' dirty pool",
+                    "",
+                    "You said you'd call the shots darlin'",
+                    "All your friends thought that was cool",
+                    "You said you'd call the shots darlin'",
+                    "All your friends thought that was cool",
+                    "Yeah, but when you shot at the eight ball baby",
+                    "I knew you were playin' dirty pool",
+                    "",
+                    "They say that life, life is a game of give an' take",
+                    "They say that life, life is a game of give an' take",
+                    "I'm tellin' you one thing right now little baby",
+                    "I won't be the one to pay for your mistakes, oh, no baby"
+                ],
+                "url": "https://cdn.shazam.com/lyrics/v1/en-US/GB/iphone/musixmatch/subtitles/13005540/300/1?token=576d9b304a6658db996055c529c02277",
+                "footer": "Writer(s): Doyle Bramhall, Stevie Ray Vaughan\nLyrics powered by www.musixmatch.com",
+                "tabname": "Lyrics",
+                "beacondata": {
+                    "lyricsid": "21120534",
+                    "providername": "musixmatch",
+                    "commontrackid": "13005540"
+                }
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/346001/youtube/video?q=Stevie+Ray+Vaughan+%26+Double+Trouble+%22Dirty+Pool%22"
+            },
+            {
+                "type": "RELATED",
+                "url": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-346001?startFrom=0&pageSize=20&connected=",
+                "tabname": "Related"
+            }
+        ],
+        "url": "https://www.shazam.com/track/346001/dirty-pool",
+        "artists": [
+            {
+                "id": "42",
+                "adamid": "601067"
+            }
+        ],
+        "isrc": "USSM18300424",
+        "genres": {
+            "primary": "Rock"
+        },
+        "urlparams": {
+            "{tracktitle}": "Dirty+Pool",
+            "{trackartist}": "Stevie+Ray+Vaughan+%26+Double+Trouble"
+        },
+        "myshazam": {
+            "apple": {
+                "actions": [
+                    {
+                        "name": "myshazam:apple",
+                        "type": "uri",
+                        "uri": "https://music.apple.com/gb/album/dirty-pool/930561264?i=930561343&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                ]
+            }
+        },
+        "highlightsurls": {
+            "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/601067/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+        },
+        "relatedtracksurl": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-346001?startFrom=0&pageSize=20&connected=",
+        "albumadamid": "930561264"
+    },
+    "tagid": "3BFE8F3E-7799-4C06-A0B6-762141EC9F8A"
+}

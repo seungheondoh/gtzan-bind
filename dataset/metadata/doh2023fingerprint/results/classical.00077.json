@@ -1,0 +1,206 @@
+{
+    "matches": [
+        {
+            "id": "210301257",
+            "offset": 28.000007812,
+            "timeskew": -0.00019592047,
+            "frequencyskew": -0.000120818615
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691633111176,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "47894460",
+        "title": "Piano Sonata No. 8 in C Minor, Op.13 'Path\u00e9tique': I. Grave - Allegro di molto e con brio",
+        "subtitle": "Daniel Barenboim",
+        "images": {
+            "background": "https://is4-ssl.mzstatic.com/image/thumb/Features125/v4/10/a9/3a/10a93a91-f96a-20eb-c10b-36f3c4502d6c/mza_13354598310532190852.png/800x800cc.jpg",
+            "coverart": "https://is2-ssl.mzstatic.com/image/thumb/Features6/v4/68/a9/22/68a922fd-7d0f-e57f-2cd6-16ad2f948ebd/dj.zlsuywog.jpg/400x400cc.jpg",
+            "coverarthq": "https://is2-ssl.mzstatic.com/image/thumb/Features6/v4/68/a9/22/68a922fd-7d0f-e57f-2cd6-16ad2f948ebd/dj.zlsuywog.jpg/400x400cc.jpg",
+            "joecolor": "b:090a0cp:f69370s:f65b44t:c6785cq:c74b39"
+        },
+        "share": {
+            "subject": "Piano Sonata No. 8 in C Minor, Op.13 'Path\u00e9tique': I. Grave - Allegro di molto e con brio - Daniel Barenboim",
+            "text": "Piano Sonata No. 8 in C Minor, Op.13 'Path\u00e9tique': I. Grave - Allegro di molto e con brio by Daniel Barenboim",
+            "href": "https://www.shazam.com/track/47894460/piano-sonata-no-8-in-c-minor-op-13-path%C3%A9tique-i-grave",
+            "image": "https://is2-ssl.mzstatic.com/image/thumb/Features6/v4/68/a9/22/68a922fd-7d0f-e57f-2cd6-16ad2f948ebd/dj.zlsuywog.jpg/400x400cc.jpg",
+            "twitter": "I used @Shazam to discover Piano Sonata No. 8 in C Minor, Op.13 'Path\u00e9tique': I. Grave - Allegro di molto e con brio by Daniel Barenboim.",
+            "html": "https://www.shazam.com/snippets/email-share/47894460?lang=en-US&country=GB",
+            "avatar": "https://is4-ssl.mzstatic.com/image/thumb/Features125/v4/10/a9/3a/10a93a91-f96a-20eb-c10b-36f3c4502d6c/mza_13354598310532190852.png/800x800cc.jpg",
+            "snapchat": "https://www.shazam.com/partner/sc/track/47894460"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "actions": [
+                {
+                    "name": "apple",
+                    "type": "applemusicplay",
+                    "id": "695462986"
+                },
+                {
+                    "name": "apple",
+                    "type": "uri",
+                    "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/86/59/b0/8659b0da-71c4-f690-01af-eabcd4b7069f/mzaf_2204469852363264349.plus.aac.ep.m4a"
+                }
+            ],
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/gb/album/piano-sonata-no-8-in-c-minor-op-13-path%C3%A9tique-i-grave/695462752?i=695462986&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/gb/album/piano-sonata-no-8-in-c-minor-op-13-path%C3%A9tique-i-grave/695462752?i=695462986&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                },
+                {
+                    "caption": "BUY",
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "uri": "https://itunes.apple.com/gb/album/piano-sonata-no-8-in-c-minor-op-13-path%C3%A9tique-i-grave/695462752?i=695462986&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "buy",
+                        "providername": "itunes"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "type": "buy",
+                    "listcaption": "Buy on iTunes",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "itunes"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:Piano%20Sonata%20No.%208%20in%20C%20Minor%2C%20Op.13%20%27Path%C3%A9tique%27%3A%20I.%20Grave%20-%20Allegro%20di%20molto%20e%20con%20brio%20Daniel%20Barenboim"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27Piano+Sonata+No.+8+in+C+Minor%2C+Op.13+%5C%27Path%C3%A9tique%5C%27%3A+I.+Grave+-+Allegro+di+molto+e+con+brio%27%20artist%3A%27Daniel+Barenboim%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": false,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [
+                    {
+                        "image": "https://is4-ssl.mzstatic.com/image/thumb/Features125/v4/10/a9/3a/10a93a91-f96a-20eb-c10b-36f3c4502d6c/mza_13354598310532190852.png/800x800cc.jpg",
+                        "caption": "Daniel Barenboim"
+                    },
+                    {
+                        "image": "https://is2-ssl.mzstatic.com/image/thumb/Features6/v4/68/a9/22/68a922fd-7d0f-e57f-2cd6-16ad2f948ebd/dj.zlsuywog.jpg/400x400cc.jpg",
+                        "caption": "Piano Sonata No. 8 in C Minor, Op.13 'Path\u00e9tique': I. Grave - Allegro di molto e con brio"
+                    }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                    {
+                        "title": "Album",
+                        "text": "Beethoven : Piano Sonatas"
+                    },
+                    {
+                        "title": "Label",
+                        "text": "Warner Classics"
+                    },
+                    {
+                        "title": "Released",
+                        "text": "1997"
+                    }
+                ]
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/47894460/youtube/video?q=Daniel+Barenboim+%22Piano+Sonata+No.+8+in+C+Minor,+Op.13+'Path%C3%A9tique':+I.+Grave+-+Allegro+di+molto+e+con+brio%22"
+            },
+            {
+                "type": "RELATED",
+                "url": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-47894460?startFrom=0&pageSize=20&connected=",
+                "tabname": "Related"
+            }
+        ],
+        "url": "https://www.shazam.com/track/47894460/piano-sonata-no-8-in-c-minor-op-13-path%C3%A9tique-i-grave",
+        "artists": [
+            {
+                "id": "42",
+                "adamid": "77867"
+            }
+        ],
+        "isrc": "GBAYC9801157",
+        "genres": {
+            "primary": "Classical"
+        },
+        "urlparams": {
+            "{tracktitle}": "Piano+Sonata+No.+8+in+C+Minor%2C+Op.13+%27Path%C3%A9tique%27%3A+I.+Grave+-+Allegro+di+molto+e+con+brio",
+            "{trackartist}": "Daniel+Barenboim"
+        },
+        "myshazam": {
+            "apple": {
+                "actions": [
+                    {
+                        "name": "myshazam:apple",
+                        "type": "uri",
+                        "uri": "https://music.apple.com/gb/album/piano-sonata-no-8-in-c-minor-op-13-path%C3%A9tique-i-grave/695462752?i=695462986&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                ]
+            }
+        },
+        "highlightsurls": {
+            "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/77867/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+        },
+        "relatedtracksurl": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-47894460?startFrom=0&pageSize=20&connected=",
+        "albumadamid": "695462752"
+    },
+    "tagid": "C6211A5C-0ACA-46BB-8151-AF1480C76956"
+}

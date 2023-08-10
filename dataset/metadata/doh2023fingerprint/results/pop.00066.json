@@ -1,0 +1,126 @@
+{
+    "matches": [
+        {
+            "id": "40371894",
+            "offset": 30.045724609,
+            "timeskew": 6.258488e-05,
+            "frequencyskew": 0.0
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691632830971,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "40371894",
+        "title": "Could I Have This Kiss Forever (Baladas)",
+        "subtitle": "Whitney Houston And Enrique Iglesias",
+        "share": {
+            "subject": "Could I Have This Kiss Forever (Baladas) - Whitney Houston And Enrique Iglesias",
+            "text": "Could I Have This Kiss Forever (Baladas) by Whitney Houston And Enrique Iglesias",
+            "href": "https://www.shazam.com/track/40371894/could-i-have-this-kiss-forever-baladas",
+            "twitter": "I used @Shazam to discover Could I Have This Kiss Forever (Baladas) by Whitney Houston And Enrique Iglesias.",
+            "html": "https://www.shazam.com/snippets/email-share/40371894?lang=en-US&country=GB",
+            "snapchat": "https://www.shazam.com/partner/sc/track/40371894"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:subscribe",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/subscribe?mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:subscribe",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/subscribe?mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:Could%20I%20Have%20This%20Kiss%20Forever%20%28Baladas%29%20Whitney%20Houston%20And%20Enrique%20Iglesias"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27Could+I+Have+This+Kiss+Forever+%28Baladas%29%27%20artist%3A%27Whitney+Houston+And+Enrique+Iglesias%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": false,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [],
+                "tabname": "Song",
+                "metadata": [
+                    {
+                        "title": "Title",
+                        "text": "Could I Have This Kiss Forever (Baladas)"
+                    }
+                ]
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/40371894/youtube/video?q=Whitney+Houston+And+Enrique+Iglesias+%22Could+I+Have+This+Kiss+Forever+(Baladas)%22"
+            },
+            {
+                "type": "RELATED",
+                "url": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-40371894?startFrom=0&pageSize=20&connected=",
+                "tabname": "Related"
+            }
+        ],
+        "url": "https://www.shazam.com/track/40371894/could-i-have-this-kiss-forever-baladas",
+        "urlparams": {
+            "{tracktitle}": "Could+I+Have+This+Kiss+Forever+%28Baladas%29",
+            "{trackartist}": "Whitney+Houston+And+Enrique+Iglesias"
+        },
+        "highlightsurls": {},
+        "relatedtracksurl": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-40371894?startFrom=0&pageSize=20&connected="
+    },
+    "tagid": "2F419A07-2633-42FD-8483-322021AFD995"
+}

@@ -1,0 +1,333 @@
+{
+    "matches": [
+        {
+            "id": "438081504",
+            "offset": 97.79205468699999,
+            "timeskew": 0.0042487383,
+            "frequencyskew": 0.004359007
+        },
+        {
+            "id": "268472041",
+            "offset": 98.50375781199999,
+            "timeskew": 0.004485488,
+            "frequencyskew": 0.004318595
+        },
+        {
+            "id": "269529421",
+            "offset": 97.626671875,
+            "timeskew": 0.0062428713,
+            "frequencyskew": 0.0062214136
+        },
+        {
+            "id": "218468151",
+            "offset": 97.73424218699999,
+            "timeskew": 0.005486846,
+            "frequencyskew": 0.00520885
+        },
+        {
+            "id": "310909953",
+            "offset": 97.606390625,
+            "timeskew": 0.006468892,
+            "frequencyskew": 0.0064240694
+        },
+        {
+            "id": "263448849",
+            "offset": 97.821875,
+            "timeskew": 0.0052779913,
+            "frequencyskew": 0.0050469637
+        },
+        {
+            "id": "251749889",
+            "offset": 97.908867187,
+            "timeskew": 0.007147312,
+            "frequencyskew": 0.0071538687
+        },
+        {
+            "id": "305556282",
+            "offset": 90.60528125,
+            "timeskew": -0.0019032955,
+            "frequencyskew": -0.0020920634
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691632450616,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "53982678",
+        "title": "I Will Survive",
+        "subtitle": "Gloria Gaynor",
+        "images": {
+            "background": "https://is4-ssl.mzstatic.com/image/thumb/Features125/v4/06/6d/b7/066db7b1-bf0a-e032-61f9-fd607a0b0d76/mzl.jruxuhnc.jpg/800x800cc.jpg",
+            "coverart": "https://is2-ssl.mzstatic.com/image/thumb/Music6/v4/ac/2a/5d/ac2a5d11-0683-30c5-3d61-a85dcef36e88/888003592599.jpg/400x400cc.jpg",
+            "coverarthq": "https://is2-ssl.mzstatic.com/image/thumb/Music6/v4/ac/2a/5d/ac2a5d11-0683-30c5-3d61-a85dcef36e88/888003592599.jpg/400x400cc.jpg",
+            "joecolor": "b:000000p:ffffffs:ff08b8t:cbcbcbq:cb0693"
+        },
+        "share": {
+            "subject": "I Will Survive - Gloria Gaynor",
+            "text": "I Will Survive by Gloria Gaynor",
+            "href": "https://www.shazam.com/track/53982678/i-will-survive",
+            "image": "https://is2-ssl.mzstatic.com/image/thumb/Music6/v4/ac/2a/5d/ac2a5d11-0683-30c5-3d61-a85dcef36e88/888003592599.jpg/400x400cc.jpg",
+            "twitter": "I used @Shazam to discover I Will Survive by Gloria Gaynor.",
+            "html": "https://www.shazam.com/snippets/email-share/53982678?lang=en-US&country=GB",
+            "avatar": "https://is4-ssl.mzstatic.com/image/thumb/Features125/v4/06/6d/b7/066db7b1-bf0a-e032-61f9-fd607a0b0d76/mzl.jruxuhnc.jpg/800x800cc.jpg",
+            "snapchat": "https://www.shazam.com/partner/sc/track/53982678"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "actions": [
+                {
+                    "name": "apple",
+                    "type": "applemusicplay",
+                    "id": "778267861"
+                },
+                {
+                    "name": "apple",
+                    "type": "uri",
+                    "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/d3/88/f2/d388f237-f439-7b27-5ccf-bd9d9be6d52d/mzaf_2580213782072335001.plus.aac.ep.m4a"
+                }
+            ],
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/gb/album/i-will-survive/778267828?i=778267861&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/gb/album/i-will-survive/778267828?i=778267861&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                },
+                {
+                    "caption": "BUY",
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "uri": "https://itunes.apple.com/gb/album/i-will-survive/778267828?i=778267861&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "buy",
+                        "providername": "itunes"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "type": "buy",
+                    "listcaption": "Buy on iTunes",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "itunes"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:I%20Will%20Survive%20Gloria%20Gaynor"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27I+Will+Survive%27%20artist%3A%27Gloria+Gaynor%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": false,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [
+                    {
+                        "image": "https://is4-ssl.mzstatic.com/image/thumb/Features125/v4/06/6d/b7/066db7b1-bf0a-e032-61f9-fd607a0b0d76/mzl.jruxuhnc.jpg/800x800cc.jpg",
+                        "caption": "Gloria Gaynor"
+                    },
+                    {
+                        "image": "https://is2-ssl.mzstatic.com/image/thumb/Music6/v4/ac/2a/5d/ac2a5d11-0683-30c5-3d61-a85dcef36e88/888003592599.jpg/400x400cc.jpg",
+                        "caption": "I Will Survive"
+                    }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                    {
+                        "title": "Album",
+                        "text": "Get Down with Gloria Gaynor"
+                    },
+                    {
+                        "title": "Label",
+                        "text": "Carter Lane - OMiP"
+                    },
+                    {
+                        "title": "Released",
+                        "text": "1975"
+                    }
+                ]
+            },
+            {
+                "type": "LYRICS",
+                "text": [
+                    "At first I was afraid, I was petrified",
+                    "Thinking I could live without you by my side",
+                    "And after spending nights",
+                    "Thinking how you did me wrong",
+                    "I grew strong",
+                    "And I learned how to get along",
+                    "",
+                    "Now you're back",
+                    "From outer space",
+                    "And I find you here",
+                    "With that sad look upon your face",
+                    "I should've changed that stupid lock",
+                    "Or made you leave your key",
+                    "If I'd've known for a second",
+                    "You'd be back to bother me",
+                    "",
+                    "Go on, go, walk out the door",
+                    "Turn around now",
+                    "You're not welcome anymore",
+                    "You're the one who tried to hurt me with goodbye",
+                    "Think I'd crumble?",
+                    "You think I'd lay down and die?",
+                    "",
+                    "No, not I, I will survive",
+                    "Long as I know how to love, I know I'll stay alive",
+                    "I've got my life to live",
+                    "And all my love to give and",
+                    "I will survive",
+                    "I, I, I will survive",
+                    "",
+                    "It took all my strength not to fall apart",
+                    "Trying with all my might to mend my broken heart",
+                    "I spent so many nights feeling sorry for myself",
+                    "How I cried",
+                    "But now I hold my head up high",
+                    "",
+                    "And you see me, somebody new",
+                    "I'm not that lonely little person",
+                    "Still in love with you",
+                    "Now you come droppin' in",
+                    "Expectin' me to be free",
+                    "Now I'm saving my lovin'",
+                    "For someone who's loving me",
+                    "",
+                    "Go on and go, walk out the door",
+                    "Turn around now",
+                    "You're not welcome anymore",
+                    "You're the one who tried to hurt me with goodbye",
+                    "Thinkin' I'd crumble",
+                    "Did you think I'd lay down and die?",
+                    "",
+                    "No, not I, I will survive",
+                    "Long as I know how to love, I know I'll stay alive",
+                    "I've got my life to live, and all my love to give",
+                    "And I will survive",
+                    "I, I will survive",
+                    "",
+                    "Go on, go, walk out the door",
+                    "Turn around now",
+                    "You're not welcome anymore",
+                    "You're the one who tried to hurt me with goodbye",
+                    "Think I'd crumble?",
+                    "You think I'd lay down and die?",
+                    "",
+                    "No, not I, I will survive",
+                    "Long as I know how to love",
+                    "I know I'll stay alive",
+                    "I've got my life to live",
+                    "And all my love to give and",
+                    "I will survive",
+                    "I, I, I will survive"
+                ],
+                "url": "https://cdn.shazam.com/lyrics/v1/en-US/GB/iphone/musixmatch/subtitles/104175015/387/1?token=85b904b55336509f9562b79edfff498e",
+                "footer": "Writer(s): Enrique Iglesias, Steve Morales, Kara Dioguardi, Aaron Fishbein, David Siegel\nLyrics powered by www.musixmatch.com",
+                "tabname": "Lyrics",
+                "beacondata": {
+                    "lyricsid": "21733017",
+                    "providername": "musixmatch",
+                    "commontrackid": "104175015"
+                }
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/53982678/youtube/video?q=Gloria+Gaynor+%22I+Will+Survive%22"
+            },
+            {
+                "type": "RELATED",
+                "url": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-53982678?startFrom=0&pageSize=20&connected=",
+                "tabname": "Related"
+            }
+        ],
+        "url": "https://www.shazam.com/track/53982678/i-will-survive",
+        "artists": [
+            {
+                "id": "42",
+                "adamid": "136869"
+            }
+        ],
+        "isrc": "GBQRF1011288",
+        "genres": {
+            "primary": "Disco"
+        },
+        "urlparams": {
+            "{tracktitle}": "I+Will+Survive",
+            "{trackartist}": "Gloria+Gaynor"
+        },
+        "myshazam": {
+            "apple": {
+                "actions": [
+                    {
+                        "name": "myshazam:apple",
+                        "type": "uri",
+                        "uri": "https://music.apple.com/gb/album/i-will-survive/778267828?i=778267861&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                ]
+            }
+        },
+        "highlightsurls": {
+            "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/136869/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios&videoIdToFilter=1634702275",
+            "trackhighlighturl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/highlights/1634702275?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+        },
+        "relatedtracksurl": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-53982678?startFrom=0&pageSize=20&connected=",
+        "albumadamid": "778267828"
+    },
+    "tagid": "2469BB24-CA09-4F57-86E3-EC06CE1E6DC9"
+}

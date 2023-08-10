@@ -1,0 +1,260 @@
+{
+    "matches": [
+        {
+            "id": "260410598",
+            "offset": 236.15925,
+            "timeskew": 0.0022166967,
+            "frequencyskew": 0.0014106035
+        },
+        {
+            "id": "212720482",
+            "offset": 236.669203125,
+            "timeskew": 0.005450368,
+            "frequencyskew": 0.003792882
+        },
+        {
+            "id": "212205808",
+            "offset": 185.971078125,
+            "timeskew": -0.0021515489,
+            "frequencyskew": -0.0032969713
+        },
+        {
+            "id": "153520275",
+            "offset": 355.9620625,
+            "timeskew": 0.0013234615,
+            "frequencyskew": 0.0016525984
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691632409628,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "20122389",
+        "title": "Deputy of Love",
+        "subtitle": "Don Armando's 2nd Ave. Rhumba Band",
+        "images": {
+            "background": "https://is1-ssl.mzstatic.com/image/thumb/Features115/v4/73/ba/82/73ba8290-e697-1697-799e-f3b169274f8a/dj.hleudgwn.jpg/400x400cc.jpg",
+            "coverart": "https://is1-ssl.mzstatic.com/image/thumb/Features115/v4/73/ba/82/73ba8290-e697-1697-799e-f3b169274f8a/dj.hleudgwn.jpg/400x400cc.jpg",
+            "coverarthq": "https://is1-ssl.mzstatic.com/image/thumb/Features115/v4/73/ba/82/73ba8290-e697-1697-799e-f3b169274f8a/dj.hleudgwn.jpg/400x400cc.jpg",
+            "joecolor": "b:160000p:fdd8e0s:aacce2t:cfadb3q:8ca3b5"
+        },
+        "share": {
+            "subject": "Deputy of Love - Don Armando's 2nd Ave. Rhumba Band",
+            "text": "Deputy of Love by Don Armando's 2nd Ave. Rhumba Band",
+            "href": "https://www.shazam.com/track/20122389/deputy-of-love",
+            "image": "https://is1-ssl.mzstatic.com/image/thumb/Features115/v4/73/ba/82/73ba8290-e697-1697-799e-f3b169274f8a/dj.hleudgwn.jpg/400x400cc.jpg",
+            "twitter": "I used @Shazam to discover Deputy of Love by Don Armando's 2nd Ave. Rhumba Band.",
+            "html": "https://www.shazam.com/snippets/email-share/20122389?lang=en-US&country=GB",
+            "snapchat": "https://www.shazam.com/partner/sc/track/20122389"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "actions": [
+                {
+                    "name": "apple",
+                    "type": "applemusicplay",
+                    "id": "288027138"
+                },
+                {
+                    "name": "apple",
+                    "type": "uri",
+                    "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/83/21/69/83216996-e673-3156-2f05-da6923f98d2b/mzaf_8101969892830459515.plus.aac.ep.m4a"
+                }
+            ],
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/gb/album/deputy-of-love/288026914?i=288027138&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/gb/album/deputy-of-love/288026914?i=288027138&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                },
+                {
+                    "caption": "BUY",
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "uri": "https://itunes.apple.com/gb/album/deputy-of-love/288026914?i=288027138&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "buy",
+                        "providername": "itunes"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "type": "buy",
+                    "listcaption": "Buy on iTunes",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "itunes"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:Deputy%20of%20Love%20Don%20Armando%27s%202nd%20Ave.%20Rhumba%20Band"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27Deputy+of+Love%27%20artist%3A%27Don+Armando%5C%27s+2nd+Ave.+Rhumba+Band%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": false,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [
+                    {
+                        "image": "https://is1-ssl.mzstatic.com/image/thumb/Features115/v4/73/ba/82/73ba8290-e697-1697-799e-f3b169274f8a/dj.hleudgwn.jpg/400x400cc.jpg",
+                        "caption": "Deputy of Love"
+                    }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                    {
+                        "title": "Album",
+                        "text": "Deputy of Love"
+                    },
+                    {
+                        "title": "Label",
+                        "text": "Ze Records"
+                    },
+                    {
+                        "title": "Released",
+                        "text": "2007"
+                    }
+                ]
+            },
+            {
+                "type": "LYRICS",
+                "text": [
+                    "I confess to be the deputy of love",
+                    "I confess to be the deputy of love",
+                    "",
+                    "Oh oh oh",
+                    "I get the ones on the ten most wanted list.",
+                    "I hunt em down cause they're dangerous",
+                    "They buck like bronco's and they're clever as a fox",
+                    "I chase em and I tail em and I get em anyway I can...",
+                    "Eww I lock em up shut the door, take the key and throw it away",
+                    "I'm the deputy of love",
+                    "I'm the deputy of love",
+                    "I'm the deputy of love",
+                    "I'm the deputy of love",
+                    "Bip bip bip bip ba lilalip bip bip bip bip ba lilalip",
+                    "I confess to be the deputy of love",
+                    "I confess to be the deputy of love",
+                    "Oh oh oh They bet me ten that I get em when when their off guard and I lay them twenty that they're dead right from the start.",
+                    "They trained and schooled me and now I'm hotter than the hot.",
+                    "I chase em and I tail em and I get em anyway I can",
+                    "Eww I lock em up lock shut the door take the key and throw it away.",
+                    "",
+                    "I'm the deputy of love",
+                    "I'm the deputy of love",
+                    "I'm the deputy of love",
+                    "Dance Dance Dance.your the deputy of love",
+                    "Dance dance Dance .your the deputy of love",
+                    "Dance Dance Dance... your the deputy of love",
+                    "Deputy of love"
+                ],
+                "url": "https://cdn.shazam.com/lyrics/v1/en-US/GB/iphone/musixmatch/subtitles/15220385/532/1?token=67aedf68ac3f415f6193093ea326b55b",
+                "footer": "Writer(s): Ronald Rogers\nLyrics powered by www.musixmatch.com",
+                "tabname": "Lyrics",
+                "beacondata": {
+                    "lyricsid": "13237347",
+                    "providername": "musixmatch",
+                    "commontrackid": "15220385"
+                }
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/20122389/youtube/video?q=Don+Armando's+2nd+Ave.+Rhumba+Band+%22Deputy+of+Love%22"
+            },
+            {
+                "type": "RELATED",
+                "url": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-20122389?startFrom=0&pageSize=20&connected=",
+                "tabname": "Related"
+            }
+        ],
+        "url": "https://www.shazam.com/track/20122389/deputy-of-love",
+        "artists": [
+            {
+                "id": "42",
+                "adamid": "258277523"
+            }
+        ],
+        "isrc": "FR6T50703601",
+        "genres": {
+            "primary": "Pop"
+        },
+        "urlparams": {
+            "{tracktitle}": "Deputy+of+Love",
+            "{trackartist}": "Don+Armando%27s+2nd+Ave.+Rhumba+Band"
+        },
+        "myshazam": {
+            "apple": {
+                "actions": [
+                    {
+                        "name": "myshazam:apple",
+                        "type": "uri",
+                        "uri": "https://music.apple.com/gb/album/deputy-of-love/288026914?i=288027138&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                ]
+            }
+        },
+        "highlightsurls": {
+            "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/258277523/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+        },
+        "relatedtracksurl": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-20122389?startFrom=0&pageSize=20&connected=",
+        "albumadamid": "288026914"
+    },
+    "tagid": "DBA175F9-3DAD-4992-877F-84A8DB587BB4"
+}

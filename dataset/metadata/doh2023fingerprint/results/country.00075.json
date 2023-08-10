@@ -1,0 +1,246 @@
+{
+    "matches": [
+        {
+            "id": "251571080",
+            "offset": 29.610919921,
+            "timeskew": 2.7298927e-05,
+            "frequencyskew": -4.029274e-05
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691633464415,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "47605872",
+        "title": "Midnight Rider",
+        "subtitle": "Willie Nelson",
+        "images": {
+            "background": "https://is4-ssl.mzstatic.com/image/thumb/Features125/v4/b4/c2/9a/b4c29a1e-3b45-2b60-be65-dbb96d21e42a/mza_1383128222591135178.png/800x800cc.jpg",
+            "coverart": "https://is5-ssl.mzstatic.com/image/thumb/Music128/v4/16/0c/6d/160c6dc0-3219-018c-64ed-398c9cf453a2/00602498624203.rgb.jpg/400x400cc.jpg",
+            "coverarthq": "https://is5-ssl.mzstatic.com/image/thumb/Music128/v4/16/0c/6d/160c6dc0-3219-018c-64ed-398c9cf453a2/00602498624203.rgb.jpg/400x400cc.jpg",
+            "joecolor": "b:241f23p:eaae82s:cf9a64t:c2926fq:ad8157"
+        },
+        "share": {
+            "subject": "Midnight Rider - Willie Nelson",
+            "text": "Midnight Rider by Willie Nelson",
+            "href": "https://www.shazam.com/track/47605872/midnight-rider",
+            "image": "https://is5-ssl.mzstatic.com/image/thumb/Music128/v4/16/0c/6d/160c6dc0-3219-018c-64ed-398c9cf453a2/00602498624203.rgb.jpg/400x400cc.jpg",
+            "twitter": "I used @Shazam to discover Midnight Rider by Willie Nelson.",
+            "html": "https://www.shazam.com/snippets/email-share/47605872?lang=en-US&country=GB",
+            "avatar": "https://is4-ssl.mzstatic.com/image/thumb/Features125/v4/b4/c2/9a/b4c29a1e-3b45-2b60-be65-dbb96d21e42a/mza_1383128222591135178.png/800x800cc.jpg",
+            "snapchat": "https://www.shazam.com/partner/sc/track/47605872"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "actions": [
+                {
+                    "name": "apple",
+                    "type": "applemusicplay",
+                    "id": "1443515026"
+                },
+                {
+                    "name": "apple",
+                    "type": "uri",
+                    "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/de/8c/da/de8cdafc-ca62-ff30-5b8e-2d204ba07647/mzaf_6605670745370118960.plus.aac.ep.m4a"
+                }
+            ],
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/gb/album/midnight-rider/1443513887?i=1443515026&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/gb/album/midnight-rider/1443513887?i=1443515026&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                },
+                {
+                    "caption": "BUY",
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "uri": "https://itunes.apple.com/gb/album/midnight-rider/1443513887?i=1443515026&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "buy",
+                        "providername": "itunes"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "type": "buy",
+                    "listcaption": "Buy on iTunes",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "itunes"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:Midnight%20Rider%20Willie%20Nelson"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27Midnight+Rider%27%20artist%3A%27Willie+Nelson%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": false,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [
+                    {
+                        "image": "https://is4-ssl.mzstatic.com/image/thumb/Features125/v4/b4/c2/9a/b4c29a1e-3b45-2b60-be65-dbb96d21e42a/mza_1383128222591135178.png/800x800cc.jpg",
+                        "caption": "Willie Nelson"
+                    },
+                    {
+                        "image": "https://is5-ssl.mzstatic.com/image/thumb/Music128/v4/16/0c/6d/160c6dc0-3219-018c-64ed-398c9cf453a2/00602498624203.rgb.jpg/400x400cc.jpg",
+                        "caption": "Midnight Rider"
+                    }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                    {
+                        "title": "Album",
+                        "text": "It Always Will Be"
+                    },
+                    {
+                        "title": "Label",
+                        "text": "Lost Highway Records"
+                    },
+                    {
+                        "title": "Released",
+                        "text": "2004"
+                    }
+                ]
+            },
+            {
+                "type": "LYRICS",
+                "text": [
+                    "I gotta run to keep from hidin'",
+                    "I'm bound to keep on ridin'",
+                    "And I got one more silver dollar",
+                    "And I ain't gonna let 'em catch me, no",
+                    "I ain't gonna let 'em catch the midnight rider",
+                    "",
+                    "Well, these ain't my clothes I'm wearin'",
+                    "And this old road goes on forever",
+                    "And I got one more silver dollar",
+                    "And I ain't gonna let 'em catch me, no",
+                    "I ain't gonna let 'em catch the midnight rider",
+                    "",
+                    "Well, I've gone by the point of carin'",
+                    "Some old bed, I'll soon be sharin'",
+                    "And I got one more silver dollar",
+                    "And I ain't gonna let 'em catch me, no",
+                    "I ain't gonna let 'em catch the midnight rider",
+                    "",
+                    "I ain't gonna let 'em catch me, no",
+                    "I ain't gonna let 'em catch the midnight rider",
+                    "I ain't gonna let 'em catch me, no",
+                    "I ain't gonna let 'em catch the midnight rider",
+                    "",
+                    "I ain't gonna let 'em catch me, no",
+                    "I ain't gonna let 'em catch the midnight rider",
+                    "I ain't gonna let 'em catch me, no",
+                    "I ain't gonna let 'em catch the midnight rider"
+                ],
+                "url": "https://cdn.shazam.com/lyrics/v1/en-US/GB/iphone/musixmatch/subtitles/609801/170/1?token=150c11c492745b2f6e71a79884242f6d",
+                "footer": "Writer(s): Robert Kim Payne\nLyrics powered by www.musixmatch.com",
+                "tabname": "Lyrics",
+                "beacondata": {
+                    "lyricsid": "5662909",
+                    "providername": "musixmatch",
+                    "commontrackid": "609801"
+                }
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/47605872/youtube/video?q=Willie+Nelson+%22Midnight+Rider%22"
+            },
+            {
+                "type": "RELATED",
+                "url": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-47605872?startFrom=0&pageSize=20&connected=",
+                "tabname": "Related"
+            }
+        ],
+        "url": "https://www.shazam.com/track/47605872/midnight-rider",
+        "artists": [
+            {
+                "id": "42",
+                "adamid": "71676"
+            }
+        ],
+        "isrc": "USMR10400170",
+        "genres": {
+            "primary": "Country"
+        },
+        "urlparams": {
+            "{tracktitle}": "Midnight+Rider",
+            "{trackartist}": "Willie+Nelson"
+        },
+        "myshazam": {
+            "apple": {
+                "actions": [
+                    {
+                        "name": "myshazam:apple",
+                        "type": "uri",
+                        "uri": "https://music.apple.com/gb/album/midnight-rider/1443513887?i=1443515026&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                ]
+            }
+        },
+        "highlightsurls": {
+            "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/71676/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+        },
+        "relatedtracksurl": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-47605872?startFrom=0&pageSize=20&connected=",
+        "albumadamid": "1443513887"
+    },
+    "tagid": "8412A6E1-53D1-468B-B06F-B9F102F949F4"
+}

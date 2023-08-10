@@ -1,0 +1,195 @@
+{
+    "matches": [
+        {
+            "id": "247341120",
+            "offset": 30.863410156,
+            "timeskew": 0.00066649914,
+            "frequencyskew": 0.0003222227
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691633485178,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "110757468",
+        "title": "I'm the Girl In the Usa",
+        "subtitle": "Connie Hall",
+        "images": {
+            "background": "https://is4-ssl.mzstatic.com/image/thumb/Music3/v4/a8/76/7b/a8767bc4-3482-eb15-1000-267dd8a42eae/4680960277986.jpg/400x400cc.jpg",
+            "coverart": "https://is4-ssl.mzstatic.com/image/thumb/Music3/v4/a8/76/7b/a8767bc4-3482-eb15-1000-267dd8a42eae/4680960277986.jpg/400x400cc.jpg",
+            "coverarthq": "https://is4-ssl.mzstatic.com/image/thumb/Music3/v4/a8/76/7b/a8767bc4-3482-eb15-1000-267dd8a42eae/4680960277986.jpg/400x400cc.jpg",
+            "joecolor": "b:c0c1c3p:020202s:1b1813t:282828q:3c3a36"
+        },
+        "share": {
+            "subject": "I'm the Girl In the Usa - Connie Hall",
+            "text": "I'm the Girl In the Usa by Connie Hall",
+            "href": "https://www.shazam.com/track/110757468/im-the-girl-in-the-usa",
+            "image": "https://is4-ssl.mzstatic.com/image/thumb/Music3/v4/a8/76/7b/a8767bc4-3482-eb15-1000-267dd8a42eae/4680960277986.jpg/400x400cc.jpg",
+            "twitter": "I used @Shazam to discover I'm the Girl In the Usa by Connie Hall.",
+            "html": "https://www.shazam.com/snippets/email-share/110757468?lang=en-US&country=GB",
+            "snapchat": "https://www.shazam.com/partner/sc/track/110757468"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "actions": [
+                {
+                    "name": "apple",
+                    "type": "applemusicplay",
+                    "id": "931983759"
+                },
+                {
+                    "name": "apple",
+                    "type": "uri",
+                    "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/Music3/v4/0c/18/24/0c1824c3-0a86-c0ac-dbe7-0c3ec62c0178/mzaf_4188972632987414149.plus.aac.ep.m4a"
+                }
+            ],
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/gb/album/im-the-girl-in-the-usa/931983744?i=931983759&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/gb/album/im-the-girl-in-the-usa/931983744?i=931983759&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                },
+                {
+                    "caption": "BUY",
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "uri": "https://itunes.apple.com/gb/album/im-the-girl-in-the-usa/931983744?i=931983759&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "buy",
+                        "providername": "itunes"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "type": "buy",
+                    "listcaption": "Buy on iTunes",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "itunes"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:I%27m%20the%20Girl%20In%20the%20Usa%20Connie%20Hall"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27I%5C%27m+the+Girl+In+the+Usa%27%20artist%3A%27Connie+Hall%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": false,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [
+                    {
+                        "image": "https://is4-ssl.mzstatic.com/image/thumb/Music3/v4/a8/76/7b/a8767bc4-3482-eb15-1000-267dd8a42eae/4680960277986.jpg/400x400cc.jpg",
+                        "caption": "I'm the Girl In the Usa"
+                    }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                    {
+                        "title": "Album",
+                        "text": "Essential Hits"
+                    },
+                    {
+                        "title": "Label",
+                        "text": "Solid Blue Group S.L."
+                    },
+                    {
+                        "title": "Released",
+                        "text": "2014"
+                    }
+                ]
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/110757468/youtube/video?q=Connie+Hall+%22I'm+the+Girl+In+the+Usa%22"
+            }
+        ],
+        "url": "https://www.shazam.com/track/110757468/im-the-girl-in-the-usa",
+        "artists": [
+            {
+                "id": "42",
+                "adamid": "411625938"
+            }
+        ],
+        "isrc": "RUA491487687",
+        "genres": {
+            "primary": "Jazz"
+        },
+        "urlparams": {
+            "{tracktitle}": "I%27m+the+Girl+In+the+Usa",
+            "{trackartist}": "Connie+Hall"
+        },
+        "myshazam": {
+            "apple": {
+                "actions": [
+                    {
+                        "name": "myshazam:apple",
+                        "type": "uri",
+                        "uri": "https://music.apple.com/gb/album/im-the-girl-in-the-usa/931983744?i=931983759&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                ]
+            }
+        },
+        "highlightsurls": {
+            "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/411625938/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+        },
+        "albumadamid": "931983744"
+    },
+    "tagid": "30708F1A-2376-4545-8BFE-13FC41FD48B8"
+}

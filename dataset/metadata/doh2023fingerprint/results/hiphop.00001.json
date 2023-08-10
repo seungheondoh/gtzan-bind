@@ -1,0 +1,358 @@
+{
+    "matches": [
+        {
+            "id": "208614669",
+            "offset": 29.413191406000003,
+            "timeskew": 4.172325e-05,
+            "frequencyskew": 0.0
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691632936291,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "10019101",
+        "title": "Triumph (feat. Ol' Dirty Bastard, Inspectah Deck, Method Man, Cappadonna, U-God, RZA, GZA, Masta Killa, Ghostface Killah & Raekwon)",
+        "subtitle": "Wu-Tang Clan",
+        "images": {
+            "background": "https://is3-ssl.mzstatic.com/image/thumb/Features115/v4/52/3f/5a/523f5ad6-2ee5-1c26-ba10-87ae5d67b7e4/mza_11236463794140923759.png/800x800cc.jpg",
+            "coverart": "https://is5-ssl.mzstatic.com/image/thumb/Music115/v4/da/8f/eb/da8feb7d-1b8b-a996-7e19-5f9c15d9d10d/mzi.jzuvxawy.jpg/400x400cc.jpg",
+            "coverarthq": "https://is5-ssl.mzstatic.com/image/thumb/Music115/v4/da/8f/eb/da8feb7d-1b8b-a996-7e19-5f9c15d9d10d/mzi.jzuvxawy.jpg/400x400cc.jpg",
+            "joecolor": "b:020204p:f8f6f7s:dbdbd8t:c6c5c6q:afafae"
+        },
+        "share": {
+            "subject": "Triumph (feat. Ol' Dirty Bastard, Inspectah Deck, Method Man, Cappadonna, U-God, RZA, GZA, Masta Killa, Ghostface Killah & Raekwon) - Wu-Tang Clan",
+            "text": "Triumph (feat. Ol' Dirty Bastard, Inspectah Deck, Method Man, Cappadonna, U-God, RZA, GZA, Masta Killa, Ghostface Killah & Raekwon) by Wu-Tang Clan",
+            "href": "https://www.shazam.com/track/10019101/triumph-feat-ol-dirty-bastard-inspectah-deck-method",
+            "image": "https://is5-ssl.mzstatic.com/image/thumb/Music115/v4/da/8f/eb/da8feb7d-1b8b-a996-7e19-5f9c15d9d10d/mzi.jzuvxawy.jpg/400x400cc.jpg",
+            "twitter": "I used @Shazam to discover Triumph (feat. Ol' Dirty Bastard, Inspectah Deck, Method Man, Cappadonna, U-God, RZA, GZA, Masta Killa, Ghostface Killah & Raekwon) by Wu-Tang Clan.",
+            "html": "https://www.shazam.com/snippets/email-share/10019101?lang=en-US&country=GB",
+            "avatar": "https://is3-ssl.mzstatic.com/image/thumb/Features115/v4/52/3f/5a/523f5ad6-2ee5-1c26-ba10-87ae5d67b7e4/mza_11236463794140923759.png/800x800cc.jpg",
+            "snapchat": "https://www.shazam.com/partner/sc/track/10019101"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "actions": [
+                {
+                    "name": "apple",
+                    "type": "applemusicplay",
+                    "id": "268503852"
+                },
+                {
+                    "name": "apple",
+                    "type": "uri",
+                    "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/9f/dd/e7/9fdde7ef-a827-8cb0-36dc-a0b1b5ad2f5d/mzaf_8795169566445242294.plus.aac.ep.m4a"
+                }
+            ],
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/gb/album/triumph-feat-ol-dirty-bastard-inspectah-deck-method/268503472?i=268503852&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/gb/album/triumph-feat-ol-dirty-bastard-inspectah-deck-method/268503472?i=268503852&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                },
+                {
+                    "caption": "BUY",
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "uri": "https://itunes.apple.com/gb/album/triumph-feat-ol-dirty-bastard-inspectah-deck-method/268503472?i=268503852&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "buy",
+                        "providername": "itunes"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "type": "buy",
+                    "listcaption": "Buy on iTunes",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "itunes"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:Triumph%20%28feat.%20Ol%27%20Dirty%20Bastard%2C%20Inspectah%20Deck%2C%20Method%20Man%2C%20Cappadonna%2C%20U-God%2C%20RZA%2C%20GZA%2C%20Masta%20Killa%2C%20Ghostface%20Killah%20%26%20Raekwon%29%20Wu-Tang%20Clan"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27Triumph+%28feat.+Ol%5C%27+Dirty+Bastard%2C+Inspectah+Deck%2C+Method+Man%2C+Cappadonna%2C+U-God%2C+RZA%2C+GZA%2C+Masta+Killa%2C+Ghostface+Killah++Raekwon%29%27%20artist%3A%27Wu-Tang+Clan%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": true,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [
+                    {
+                        "image": "https://is3-ssl.mzstatic.com/image/thumb/Features115/v4/52/3f/5a/523f5ad6-2ee5-1c26-ba10-87ae5d67b7e4/mza_11236463794140923759.png/800x800cc.jpg",
+                        "caption": "Wu-Tang Clan"
+                    },
+                    {
+                        "image": "https://is5-ssl.mzstatic.com/image/thumb/Music115/v4/da/8f/eb/da8feb7d-1b8b-a996-7e19-5f9c15d9d10d/mzi.jzuvxawy.jpg/400x400cc.jpg",
+                        "caption": "Triumph (feat. Ol' Dirty Bastard, Inspectah Deck, Method Man, Cappadonna, U-God, RZA, GZA, Masta Killa, Ghostface Killah & Raekwon)"
+                    }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                    {
+                        "title": "Album",
+                        "text": "Wu-Tang Forever"
+                    },
+                    {
+                        "title": "Label",
+                        "text": "LOUD Records"
+                    },
+                    {
+                        "title": "Released",
+                        "text": "1997"
+                    }
+                ]
+            },
+            {
+                "type": "LYRICS",
+                "text": [
+                    "I bomb atomically, Socrates' philosophies",
+                    "And hypotheses can't define how I be droppin these",
+                    "Mockeries, lyrically perform armed robbery",
+                    "Flee with the lottery, possibly they spotted me",
+                    "Battle-scarred shogun, explosion when my pen hits",
+                    "Tremendous, ultra-violet shine blind forensics",
+                    "I inspect view through the future see millenium",
+                    "Killa Beez sold fifty Gold sixty Platinum",
+                    "Shacklin' the masses with drastic rap tactics",
+                    "Graphic displays melt the steel like blacksmiths",
+                    "Black Wu jackets, Queen Beez ease the guns in",
+                    "Rumble wit' patrolmen tear gas laced the function",
+                    "Heads by the score, take flight, incite a war",
+                    "Chicks hit the floor, diehard fans demand more",
+                    "Behold the bold soldier, control the globe slowly",
+                    "Proceeds to blow swingin swords like Shinobi",
+                    "Stomp grounds and pound footprints in solid rock",
+                    "",
+                    "Wu got it locked, performin' live on you hottest block",
+                    "",
+                    "As the world turn, I spread like germs",
+                    "Bless the globe with the pestilence, da hard-headed never learn",
+                    "It's my testament to those burned",
+                    "Play my position in the game of life standing firm",
+                    "On foreign land, jump the gun out the frying pan, into the fire",
+                    "Transform into the Ghostrider, a six-pack",
+                    "In a streetcar named Desire, who got my back?",
+                    "In the line of fire holdin' back, what?",
+                    "My people if you wit' me where the fuck you at?",
+                    "Niggaz is strapped, and they tryin' a twist my beer cap",
+                    "It's court adjourned for the bad seed, from bad sperm",
+                    "Herb got my wig fried, like a bad perm; what the blood-",
+                    "Clot, we smoke pot and blow spots",
+                    "You wanna think twice, I think not",
+                    "",
+                    "Da Iron Lung ain't got ta tell you where it's coming from",
+                    "Guns of Navarrone, tearin' up your battle zone, rip through your slums",
+                    "",
+                    "I twist darts from the heart, tried and true",
+                    "Loot my voice on the LP, my team is on to slang rocks",
+                    "Certified chatterbox, vocabulary 'Donna talking",
+                    "Tell your story walking",
+                    "Take cover kid, what? Run for your brother, kid",
+                    "Run for your team, and your six can't rhyme groupies",
+                    "So I can squeeze with the advantage",
+                    "And get wasted, my deadly notes reigns supreme Your fort is basic",
+                    "Compared to mine",
+                    "",
+                    "Domino effect, arts and crafts",
+                    "Paragraphs contain cyanide Take a free ride",
+                    "",
+                    "On my dart, I got the fashion Catalogues",
+                    "",
+                    "For all y'all to all praise to the Gods",
+                    "The saga continues",
+                    "",
+                    "Wu-Tang, Wu-Tang",
+                    "Olympic torch flamin', we burn so sweet",
+                    "The thrill of victory, the agony, defeat",
+                    "We crush slow, flamin' deluxe slow",
+                    "For-, judgement day cometh, conquer, it's war",
+                    "Allow us to escape, hell glow spinnin' bomb",
+                    "Pocket full of shells out the sky, Golden Arms",
+                    "Tune spit the shit immortal combat sound",
+                    "The fake, false step make, the blood stain the ground",
+                    "A jungle junkie, vigilante tantrum",
+                    "A death kiss, cap off squeeze another anthem",
+                    "",
+                    "Hold it for ransom, tranquilised with anesthetics",
+                    "My orchestra, graceful, music ballerinas",
+                    "My music Sicily, rich California smell",
+                    "An axekiller adventure, paint a picture well",
+                    "I sing a song from Sing-Sing, sippin' on ginseng",
+                    "",
+                    "Righteous wax chaperone, rotating ring-king",
+                    "Watch for the wooden soldiers, C-cypher punks couldn't hold us",
+                    "A thousand men rushing in, not one nigga was sober",
+                    "Perpendicular to the square, we stand bold like flare",
+                    "",
+                    "Escape, from your dragon's lair--in particular",
+                    "My beats travel like a vortex",
+                    "Up your spine through the top of your cerebral cortex",
+                    "Make you feel like you bust a nut from raw sex",
+                    "Enter-through-your-right-ventricle-clog-up your bloodstream High Terminal",
+                    "Like Grand Central Station, program fat baselines on Novation",
+                    "",
+                    "Getting drunk like a fuck I'm duckin five-year probation",
+                    "War of the masses, the outcome, disastrous",
+                    "Many of the victims' families save they ashes",
+                    "A million names on walls, engraved in plaques",
+                    "Those who went back, received penalties for their acts",
+                    "Another heart is torn, as close ones gone",
+                    "",
+                    "Those who stray, niggaz get slayed on the song",
+                    "The track renders helpless and suffers from multiple stab wounds",
+                    "And leaks sounds that's heard",
+                    "Ninety-three million miles away from came one",
+                    "To represent the nation, this is a gathering",
+                    "Of the masses that come to pay respects to the Wu-Tang Clan",
+                    "",
+                    "As we engage in battle",
+                    "The crowd now screams in rage",
+                    "The High Chief Jamel-Ah-Rief takes the stage",
+                    "Light is provided through sparks of energy",
+                    "From the mind that travels in rhyme form",
+                    "Giving sight to the blind",
+                    "The dumb are mostly intrigued by the drum",
+                    "Death only one can save shell from",
+                    "",
+                    "This relentless attack of the track spares none",
+                    "Yo! Yo! Yo, fuck that, look at all these crab niggaz laid back",
+                    "Lampin' like them gray and black Pumas on my man's rack",
+                    "Codeine was forced in your drink, You had a navy dream",
+                    "Salamander fiend, bitches never heard you scream",
+                    "You two-faces, scum of the slum, I got your whole body numb",
+                    "",
+                    "Blowing like Shalamar in eighty-one",
+                    "Sound convincin', thousand dollar court by convention",
+                    "Hands like Sonny Liston, get fly permission",
+                    "Hold tha fuck up, Allah fasten your wig, bad luck",
+                    "I humiliate, separate the English from the Dutch",
+                    "It's me, Black Noble Drew Ali Came in threes",
+                    "We like the Genovese. Is that so? Caesar needs the greens",
+                    "It's Earth, ninety-three million miles from the first",
+                    "Rough turbulence, the waveburst, split the megahertz",
+                    "",
+                    "Aiyyo dat's amazing, gun in your mouth talk, verbal foul hawk",
+                    "Connect thoughts to make my man Shai walk",
+                    "Swift notarizer, Wu-Tang, all up in the high-riser",
+                    "New York gank adviser world tranquilizer",
+                    "Just the dosage, delegate my Clan with explosives",
+                    "While my pen blow lines ferocious",
+                    "Mediterranean, see ya, the number one traffic sit down the beat God",
+                    "Then delegate the God to see God",
+                    "The swift chancellor, flex, the white-gold tarantula",
+                    "Track truck diesel, play the weed God, substantiala",
+                    "Max mostly, undivided then slide it, it's sickening",
+                    "Guaranteed, made em jump like Rod Strickland"
+                ],
+                "url": "https://cdn.shazam.com/lyrics/v1/en-US/GB/iphone/musixmatch/subtitles/10522626/338/1?token=11fff36905f35651532222f65b500580",
+                "footer": "Writer(s): Elgin Evander Turner, Gary E. Grice, Jason S. Hunter, Darryl Robert Hill, Robert F. Diggs, Lamont Hawkins, Clifford Smith, Corey Woods, Russell T. Jones, Dennis David Coles\nLyrics powered by www.musixmatch.com",
+                "tabname": "Lyrics",
+                "beacondata": {
+                    "lyricsid": "31138954",
+                    "providername": "musixmatch",
+                    "commontrackid": "10522626"
+                }
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/10019101/youtube/video?q=Wu-Tang+Clan+%22Triumph+(feat.+Ol'+Dirty+Bastard,+Inspectah+Deck,+Method+Man,+Cappadonna,+U-God,+RZA,+GZA,+Masta+Killa,+Ghostface+Killah+%26+Raekwon)%22"
+            },
+            {
+                "type": "RELATED",
+                "url": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-10019101?startFrom=0&pageSize=20&connected=",
+                "tabname": "Related"
+            }
+        ],
+        "url": "https://www.shazam.com/track/10019101/triumph-feat-ol-dirty-bastard-inspectah-deck-method",
+        "artists": [
+            {
+                "id": "42",
+                "adamid": "200986"
+            }
+        ],
+        "isrc": "USLR59900487",
+        "genres": {
+            "primary": "Hip-Hop/Rap"
+        },
+        "urlparams": {
+            "{tracktitle}": "Triumph+%28feat.+Ol%27+Dirty+Bastard%2C+Inspectah+Deck%2C+Method+Man%2C+Cappadonna%2C+U-God%2C+RZA%2C+GZA%2C+Masta+Killa%2C+Ghostface+Killah+%26+Raekwon%29",
+            "{trackartist}": "Wu-Tang+Clan"
+        },
+        "myshazam": {
+            "apple": {
+                "actions": [
+                    {
+                        "name": "myshazam:apple",
+                        "type": "uri",
+                        "uri": "https://music.apple.com/gb/album/triumph-feat-ol-dirty-bastard-inspectah-deck-method/268503472?i=268503852&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                ]
+            }
+        },
+        "highlightsurls": {
+            "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/200986/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios&videoIdToFilter=641415195",
+            "trackhighlighturl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/highlights/641415195?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+        },
+        "relatedtracksurl": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-10019101?startFrom=0&pageSize=20&connected=",
+        "albumadamid": "268503472"
+    },
+    "tagid": "DFC1401F-87AF-497B-894A-3D0D5E68050E"
+}

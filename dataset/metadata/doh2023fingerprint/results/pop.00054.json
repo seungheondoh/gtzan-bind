@@ -1,0 +1,338 @@
+{
+    "matches": [
+        {
+            "id": "201916732",
+            "offset": 30.014638671,
+            "timeskew": 2.9444695e-05,
+            "frequencyskew": -0.00016111135
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691632803025,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "6015155",
+        "title": "Bootylicious (Rockwilder Remix)",
+        "subtitle": "Destiny's Child",
+        "images": {
+            "background": "https://is1-ssl.mzstatic.com/image/thumb/Features115/v4/23/46/07/234607da-f99e-870f-44e7-b8ceb8dec358/mza_17495699682120654147.png/800x800cc.jpg",
+            "coverart": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/c1/39/63/c139630f-03d2-566b-e09e-14a7d7fd5edf/mzi.rswidbtp.jpg/400x400cc.jpg",
+            "coverarthq": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/c1/39/63/c139630f-03d2-566b-e09e-14a7d7fd5edf/mzi.rswidbtp.jpg/400x400cc.jpg",
+            "joecolor": "b:2d2928p:fcf7f4s:dbcdc6t:d3cecbq:b8aca6"
+        },
+        "share": {
+            "subject": "Bootylicious (Rockwilder Remix) - Destiny's Child",
+            "text": "Bootylicious (Rockwilder Remix) by Destiny's Child",
+            "href": "https://www.shazam.com/track/6015155/bootylicious-rockwilder-remix",
+            "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/c1/39/63/c139630f-03d2-566b-e09e-14a7d7fd5edf/mzi.rswidbtp.jpg/400x400cc.jpg",
+            "twitter": "I used @Shazam to discover Bootylicious (Rockwilder Remix) by Destiny's Child.",
+            "html": "https://www.shazam.com/snippets/email-share/6015155?lang=en-US&country=GB",
+            "avatar": "https://is1-ssl.mzstatic.com/image/thumb/Features115/v4/23/46/07/234607da-f99e-870f-44e7-b8ceb8dec358/mza_17495699682120654147.png/800x800cc.jpg",
+            "snapchat": "https://www.shazam.com/partner/sc/track/6015155"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "actions": [
+                {
+                    "name": "apple",
+                    "type": "applemusicplay",
+                    "id": "217365672"
+                },
+                {
+                    "name": "apple",
+                    "type": "uri",
+                    "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/18/03/ce/1803ced3-76c7-7c5f-1f8c-7798c34dcf9b/mzaf_8253886550113692970.plus.aac.ep.m4a"
+                }
+            ],
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/gb/album/bootylicious-rockwilder-remix/217365648?i=217365672&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/gb/album/bootylicious-rockwilder-remix/217365648?i=217365672&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                },
+                {
+                    "caption": "BUY",
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "uri": "https://itunes.apple.com/gb/album/bootylicious-rockwilder-remix/217365648?i=217365672&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "buy",
+                        "providername": "itunes"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "type": "buy",
+                    "listcaption": "Buy on iTunes",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "itunes"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:Bootylicious%20%28Rockwilder%20Remix%29%20Destiny%27s%20Child"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27Bootylicious+%28Rockwilder+Remix%29%27%20artist%3A%27Destiny%5C%27s+Child%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": false,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [
+                    {
+                        "image": "https://is1-ssl.mzstatic.com/image/thumb/Features115/v4/23/46/07/234607da-f99e-870f-44e7-b8ceb8dec358/mza_17495699682120654147.png/800x800cc.jpg",
+                        "caption": "Destiny's Child"
+                    },
+                    {
+                        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/c1/39/63/c139630f-03d2-566b-e09e-14a7d7fd5edf/mzi.rswidbtp.jpg/400x400cc.jpg",
+                        "caption": "Bootylicious (Rockwilder Remix)"
+                    }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                    {
+                        "title": "Album",
+                        "text": "This Is the Remix"
+                    },
+                    {
+                        "title": "Label",
+                        "text": "Columbia"
+                    },
+                    {
+                        "title": "Released",
+                        "text": "2000"
+                    }
+                ]
+            },
+            {
+                "type": "LYRICS",
+                "text": [
+                    "Kelly, Can you handle this?",
+                    "Michelle, Can you handle this?",
+                    "Beyonc\u00e9, Can you handle this?",
+                    "I don't think they can handle this!",
+                    "",
+                    "Barely move, we've arrived",
+                    "Lookin' sexy, lookin' fly",
+                    "Baddest chick, chick inside",
+                    "DJ, Gemini",
+                    "Spotted me attentive thang",
+                    "There you are, come on baby",
+                    "Don't you wanna, dance with me",
+                    "Can you handle, handle me?",
+                    "",
+                    "You gotta do much better",
+                    "If you gonna",
+                    "Dance with me tonight",
+                    "You gotta work your jelly",
+                    "If you gonna",
+                    "Dance with me tonight",
+                    "Read my lips carefully",
+                    "If you like what you see",
+                    "Move, groove, prove",
+                    "You can handle me",
+                    "By the looks I got you",
+                    "Shook up and scared of me",
+                    "Buckle your seatbelt,",
+                    "It's time for takeoff",
+                    "",
+                    "I don't think you",
+                    "Ready for this jelly",
+                    "I don't think you",
+                    "Ready for this jelly",
+                    "I don't think you",
+                    "Ready for this",
+                    "'Cause my body too",
+                    "Bootylicious for ya babe",
+                    "",
+                    "I don't think you",
+                    "Ready for this jelly",
+                    "I don't think you",
+                    "Ready for this jelly",
+                    "I don't think you",
+                    "Ready for this",
+                    "'Cause my body too",
+                    "Bootylicious for ya babe",
+                    "",
+                    "Baby, can you handle this?",
+                    "Baby, can you handle this?",
+                    "Baby, can you handle this?",
+                    "I don't think you",
+                    "Can handle this",
+                    "",
+                    "I'm about to break you off",
+                    "H-Town going hard",
+                    "Lead my hips,",
+                    "Slap my thighs",
+                    "Swing my hair,",
+                    "Square my eyes",
+                    "Lookin' hot,",
+                    "Smellin' good",
+                    "Groovin' like",
+                    "I'm from the hood",
+                    "Look over my shoulder,",
+                    "I blow you a kiss",
+                    "Can you handle,",
+                    "Handle this",
+                    "",
+                    "I don't think you",
+                    "Ready for this jelly",
+                    "I don't think you",
+                    "Ready for this jelly",
+                    "I don't think you",
+                    "Ready for this",
+                    "'Cause my body too",
+                    "Bootylicious for ya babe",
+                    "",
+                    "I don't think you",
+                    "Ready for this jelly",
+                    "I don't think you",
+                    "Ready for this jelly",
+                    "I don't think you",
+                    "Ready for this",
+                    "'Cause my body too",
+                    "Bootylicious for ya babe",
+                    "",
+                    "Move your body",
+                    "Up and down",
+                    "(Whoo)",
+                    "Make your booty",
+                    "Touch the ground",
+                    "(Whoo)",
+                    "I can't help but",
+                    "Wonder why",
+                    "(Whoo)",
+                    "Is my vibe too",
+                    "Vibealacious for you,",
+                    "Babe",
+                    "",
+                    "I shake my jelly",
+                    "At every chance",
+                    "When I whip",
+                    "With my hips you",
+                    "Slip into a trance",
+                    "I'm hoping you can",
+                    "Handle all this jelly",
+                    "That I have",
+                    "Now let's cut a rug",
+                    "While we scat some jazz",
+                    "",
+                    "(Scatting)",
+                    "",
+                    "I don't think you",
+                    "Ready for this jelly",
+                    "I don't think you",
+                    "Ready for this jelly",
+                    "I don't think you",
+                    "Ready for this",
+                    "'Cause my body too",
+                    "Bootylicious for ya babe"
+                ],
+                "footer": "Writer(s): Stevie Nicks, Beyonce Knowles, Rob Fusari, Falonte D Moore\nLyrics powered by www.musixmatch.com",
+                "tabname": "Lyrics",
+                "beacondata": {
+                    "lyricsid": "6438464",
+                    "providername": "musixmatch",
+                    "commontrackid": "11736076"
+                }
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/6015155/youtube/video?q=Destiny's+Child+%22Bootylicious+(Rockwilder+Remix)%22"
+            },
+            {
+                "type": "RELATED",
+                "url": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-6015155?startFrom=0&pageSize=20&connected=",
+                "tabname": "Related"
+            }
+        ],
+        "url": "https://www.shazam.com/track/6015155/bootylicious-rockwilder-remix",
+        "artists": [
+            {
+                "id": "42",
+                "adamid": "634287"
+            }
+        ],
+        "isrc": "USSM10105122",
+        "genres": {
+            "primary": "R&B/Soul"
+        },
+        "urlparams": {
+            "{tracktitle}": "Bootylicious+%28Rockwilder+Remix%29",
+            "{trackartist}": "Destiny%27s+Child"
+        },
+        "myshazam": {
+            "apple": {
+                "actions": [
+                    {
+                        "name": "myshazam:apple",
+                        "type": "uri",
+                        "uri": "https://music.apple.com/gb/album/bootylicious-rockwilder-remix/217365648?i=217365672&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                ]
+            }
+        },
+        "highlightsurls": {
+            "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/634287/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+        },
+        "relatedtracksurl": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-6015155?startFrom=0&pageSize=20&connected=",
+        "albumadamid": "217365648"
+    },
+    "tagid": "A096435A-B767-43DB-8A86-C59A91F2FD06"
+}

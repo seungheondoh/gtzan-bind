@@ -1,0 +1,256 @@
+{
+    "matches": [
+        {
+            "id": "203940737",
+            "offset": 30.014173828,
+            "timeskew": 1.6212463e-05,
+            "frequencyskew": 0.0
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691632314500,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "10517049",
+        "title": "She's Funny That Way",
+        "subtitle": "Coleman Hawkins",
+        "images": {
+            "background": "https://is3-ssl.mzstatic.com/image/thumb/Features125/v4/f0/73/0c/f0730c18-ed8e-859d-6234-c4e30f0b41d4/pr_source.png/800x800cc.jpg",
+            "coverart": "https://is1-ssl.mzstatic.com/image/thumb/Music/63/d0/80/mzi.caepagqj.jpg/400x400cc.jpg",
+            "coverarthq": "https://is1-ssl.mzstatic.com/image/thumb/Music/63/d0/80/mzi.caepagqj.jpg/400x400cc.jpg",
+            "joecolor": "b:010101p:ffedf6s:f3eafbt:ccbdc4q:c3bbc9"
+        },
+        "share": {
+            "subject": "She's Funny That Way - Coleman Hawkins",
+            "text": "She's Funny That Way by Coleman Hawkins",
+            "href": "https://www.shazam.com/track/10517049/shes-funny-that-way",
+            "image": "https://is1-ssl.mzstatic.com/image/thumb/Music/63/d0/80/mzi.caepagqj.jpg/400x400cc.jpg",
+            "twitter": "I used @Shazam to discover She's Funny That Way by Coleman Hawkins.",
+            "html": "https://www.shazam.com/snippets/email-share/10517049?lang=en-US&country=GB",
+            "avatar": "https://is3-ssl.mzstatic.com/image/thumb/Features125/v4/f0/73/0c/f0730c18-ed8e-859d-6234-c4e30f0b41d4/pr_source.png/800x800cc.jpg",
+            "snapchat": "https://www.shazam.com/partner/sc/track/10517049"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "actions": [
+                {
+                    "name": "apple",
+                    "type": "applemusicplay",
+                    "id": "321347825"
+                },
+                {
+                    "name": "apple",
+                    "type": "uri",
+                    "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/Music/v4/f4/a1/4f/f4a14f24-2653-7913-d2d6-c8f6706f9976/mzaf_666750198634095030.plus.aac.ep.m4a"
+                }
+            ],
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/gb/album/shes-funny-that-way/321347748?i=321347825&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/gb/album/shes-funny-that-way/321347748?i=321347825&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                },
+                {
+                    "caption": "BUY",
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "uri": "https://itunes.apple.com/gb/album/shes-funny-that-way/321347748?i=321347825&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "buy",
+                        "providername": "itunes"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "type": "buy",
+                    "listcaption": "Buy on iTunes",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "itunes"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:She%27s%20Funny%20That%20Way%20Coleman%20Hawkins"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27She%5C%27s+Funny+That+Way%27%20artist%3A%27Coleman+Hawkins%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": false,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [
+                    {
+                        "image": "https://is3-ssl.mzstatic.com/image/thumb/Features125/v4/f0/73/0c/f0730c18-ed8e-859d-6234-c4e30f0b41d4/pr_source.png/800x800cc.jpg",
+                        "caption": "Coleman Hawkins"
+                    },
+                    {
+                        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music/63/d0/80/mzi.caepagqj.jpg/400x400cc.jpg",
+                        "caption": "She's Funny That Way"
+                    }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                    {
+                        "title": "Album",
+                        "text": "A to Z of Coleman Hawkins Vol.2 (Digitally Remastered)"
+                    },
+                    {
+                        "title": "Label",
+                        "text": "Red Sauce Records"
+                    },
+                    {
+                        "title": "Released",
+                        "text": "2009"
+                    }
+                ]
+            },
+            {
+                "type": "LYRICS",
+                "text": [
+                    "Once she dressed in silks and lace, Owned a Rolls Royce car",
+                    "Now she seems quite out of place, like a fallen star",
+                    "Draped around my kitchen sink, Happy as can be",
+                    "I just have to stop and think, Why she fell for me.",
+                    "",
+                    "I'm not much to look at, nothing to see",
+                    "Just glad I'm livin' and lucky to be",
+                    "I got a woman crazy for me",
+                    "She's funny that way.",
+                    "",
+                    "I can't save a dollar, ain't worth a cent",
+                    "She doesn't holler she'd live in a tent",
+                    "I got a woman crazy for me",
+                    "She's funny that way.",
+                    "",
+                    "Tho' she loves to work and slave for me ev'ry day",
+                    "She'd be so much better off if I went away.",
+                    "",
+                    "But why should I leave her, why should I go",
+                    "She'd be unhappy without me I know",
+                    "I got a woman crazy for me",
+                    "She's funny that way.",
+                    "",
+                    "She should have the very best, Anyone can see",
+                    "Still she's diff'rent from the rest, satisfied with me.",
+                    "While I worry plan and scheme, Over what to do",
+                    "Can't help feeling it's a dream, Too good to be true.",
+                    "",
+                    "Never had nothin'; no one to care",
+                    "That's why I seem to have more than my share,",
+                    "I got a woman, crazy for me,",
+                    "She's funny that way.",
+                    "",
+                    "When I hurt her feelings, once in a while,",
+                    "Her only answer is one little smile,",
+                    "I got a woman crazy for me.",
+                    "She's funny that way.",
+                    "",
+                    "I can see no other way and no better plan,",
+                    "End it all and let her go to some better man;",
+                    "But I'm only human, coward at best",
+                    "I'm more than certain she'd follow me west,",
+                    "I got a woman crazy for me,",
+                    "She's funny that way."
+                ],
+                "footer": "Writer(s): Richard A Whiting, Charles N Daniels\nLyrics powered by www.musixmatch.com",
+                "tabname": "Lyrics",
+                "beacondata": {
+                    "lyricsid": "8243511",
+                    "providername": "musixmatch",
+                    "commontrackid": "10925933"
+                }
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/10517049/youtube/video?q=Coleman+Hawkins+%22She's+Funny+That+Way%22"
+            }
+        ],
+        "url": "https://www.shazam.com/track/10517049/shes-funny-that-way",
+        "artists": [
+            {
+                "id": "42",
+                "adamid": "52475"
+            }
+        ],
+        "isrc": "GBJSS0913815",
+        "genres": {
+            "primary": "Jazz"
+        },
+        "urlparams": {
+            "{tracktitle}": "She%27s+Funny+That+Way",
+            "{trackartist}": "Coleman+Hawkins"
+        },
+        "myshazam": {
+            "apple": {
+                "actions": [
+                    {
+                        "name": "myshazam:apple",
+                        "type": "uri",
+                        "uri": "https://music.apple.com/gb/album/shes-funny-that-way/321347748?i=321347825&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                ]
+            }
+        },
+        "highlightsurls": {
+            "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/52475/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+        },
+        "albumadamid": "321347748"
+    },
+    "tagid": "3476F422-5D06-4777-AF77-B113BF57E9CE"
+}

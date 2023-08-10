@@ -1,0 +1,273 @@
+{
+    "matches": [
+        {
+            "id": "264430893",
+            "offset": 30.510291015,
+            "timeskew": 7.1287155e-05,
+            "frequencyskew": -4.029274e-05
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691633725641,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "10983986",
+        "title": "I'm Eighteen",
+        "subtitle": "Anthrax",
+        "images": {
+            "background": "https://is4-ssl.mzstatic.com/image/thumb/Features125/v4/26/a2/b9/26a2b96f-4be8-5ff6-f0ea-9f111811f333/pr_source.png/800x800cc.jpg",
+            "coverart": "https://is5-ssl.mzstatic.com/image/thumb/Music/f1/35/0b/mzi.fhciajuh.tif/400x400cc.jpg",
+            "coverarthq": "https://is5-ssl.mzstatic.com/image/thumb/Music/f1/35/0b/mzi.fhciajuh.tif/400x400cc.jpg",
+            "joecolor": "b:3d5152p:f5d4b7s:faa17at:d0baa2q:d49172"
+        },
+        "share": {
+            "subject": "I'm Eighteen - Anthrax",
+            "text": "I'm Eighteen by Anthrax",
+            "href": "https://www.shazam.com/track/10983986/im-eighteen",
+            "image": "https://is5-ssl.mzstatic.com/image/thumb/Music/f1/35/0b/mzi.fhciajuh.tif/400x400cc.jpg",
+            "twitter": "I used @Shazam to discover I'm Eighteen by Anthrax.",
+            "html": "https://www.shazam.com/snippets/email-share/10983986?lang=en-US&country=GB",
+            "avatar": "https://is4-ssl.mzstatic.com/image/thumb/Features125/v4/26/a2/b9/26a2b96f-4be8-5ff6-f0ea-9f111811f333/pr_source.png/800x800cc.jpg",
+            "snapchat": "https://www.shazam.com/partner/sc/track/10983986"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "actions": [
+                {
+                    "name": "apple",
+                    "type": "applemusicplay",
+                    "id": "324946785"
+                },
+                {
+                    "name": "apple",
+                    "type": "uri",
+                    "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/c0/f2/07/c0f20766-5f40-9e80-5271-ee848dd9a3af/mzaf_8342668174795783907.plus.aac.ep.m4a"
+                }
+            ],
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/gb/album/im-eighteen/324946712?i=324946785&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/gb/album/im-eighteen/324946712?i=324946785&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                },
+                {
+                    "caption": "BUY",
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "uri": "https://itunes.apple.com/gb/album/im-eighteen/324946712?i=324946785&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "buy",
+                        "providername": "itunes"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "type": "buy",
+                    "listcaption": "Buy on iTunes",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "itunes"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:I%27m%20Eighteen%20Anthrax"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27I%5C%27m+Eighteen%27%20artist%3A%27Anthrax%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": false,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [
+                    {
+                        "image": "https://is4-ssl.mzstatic.com/image/thumb/Features125/v4/26/a2/b9/26a2b96f-4be8-5ff6-f0ea-9f111811f333/pr_source.png/800x800cc.jpg",
+                        "caption": "Anthrax"
+                    },
+                    {
+                        "image": "https://is5-ssl.mzstatic.com/image/thumb/Music/f1/35/0b/mzi.fhciajuh.tif/400x400cc.jpg",
+                        "caption": "I'm Eighteen"
+                    }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                    {
+                        "title": "Album",
+                        "text": "Fistful of Metal"
+                    },
+                    {
+                        "title": "Label",
+                        "text": "Megaforce Records"
+                    },
+                    {
+                        "title": "Released",
+                        "text": "1984"
+                    }
+                ]
+            },
+            {
+                "type": "LYRICS",
+                "text": [
+                    "Lines form on my face and hands",
+                    "Lines form from the ups and downs",
+                    "I'm in the middle without any plans",
+                    "I'm a boy and I'm a man",
+                    "",
+                    "I'm eighteen and I don't know what I want",
+                    "Eighteen, I just don't know what I want",
+                    "Eighteen, I got to get away",
+                    "I got to get out of this place",
+                    "I'll go runnin' in outer space, woh yeah",
+                    "",
+                    "I've got a baby's brain and an old man's heart",
+                    "Took eighteen years to get this far",
+                    "Don't always know what I'm talking about",
+                    "Feels like I'm living in the middle of doubt",
+                    "",
+                    "'Cause I'm eighteen, I get confused every day",
+                    "Eighteen, I just don't know what to say",
+                    "Eighteen, I've got to get away",
+                    "",
+                    "Lines form on my face and my hands",
+                    "Lines form from the left and right",
+                    "I'm in the middle, the middle of life",
+                    "I'm a boy and I'm a man",
+                    "",
+                    "I'm eighteen and I like it",
+                    "Yes, I like it",
+                    "Woh, I like it, love it, like it, love it",
+                    "Eighteen, eighteen, eighteen, eighteen, woh!",
+                    "",
+                    "And I like it",
+                    "I'm eighteen and I like it",
+                    "I'm eighteen yes, I like it",
+                    "I'm eighteen woh, I like it",
+                    "I'm eighteen and I like it",
+                    "",
+                    "I'm eighteen woh, I like it, love it",
+                    "Like it, love it, like it, love it, like it",
+                    "I'm eighteen",
+                    "Like it, love it, like it, love it, like it",
+                    "I'm eighteen",
+                    "",
+                    "I like it",
+                    "I'm eighteen",
+                    "I like it",
+                    "I'm eighteen",
+                    "I like it",
+                    "",
+                    "I'm eighteen",
+                    "I'm eighteen",
+                    "I'm eighteen",
+                    "I'm eighteen",
+                    "I'm eighteen",
+                    "I'm eighteen"
+                ],
+                "url": "https://cdn.shazam.com/lyrics/v1/en-US/GB/iphone/musixmatch/subtitles/11146919/246/1?token=20353a746ab02063af43d7ff36bd4494",
+                "footer": "Writer(s): Alice Cooper, Michael O. Bruce, Neal A. Smith, Dennis Dunaway, Glen Buxton\nLyrics powered by www.musixmatch.com",
+                "tabname": "Lyrics",
+                "beacondata": {
+                    "lyricsid": "7625844",
+                    "providername": "musixmatch",
+                    "commontrackid": "11146919"
+                }
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/10983986/youtube/video?q=Anthrax+%22I'm+Eighteen%22"
+            },
+            {
+                "type": "RELATED",
+                "url": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-10983986?startFrom=0&pageSize=20&connected=",
+                "tabname": "Related"
+            }
+        ],
+        "url": "https://www.shazam.com/track/10983986/im-eighteen",
+        "artists": [
+            {
+                "id": "42",
+                "adamid": "80417"
+            }
+        ],
+        "isrc": "USME30900498",
+        "genres": {
+            "primary": "Metal"
+        },
+        "urlparams": {
+            "{tracktitle}": "I%27m+Eighteen",
+            "{trackartist}": "Anthrax"
+        },
+        "myshazam": {
+            "apple": {
+                "actions": [
+                    {
+                        "name": "myshazam:apple",
+                        "type": "uri",
+                        "uri": "https://music.apple.com/gb/album/im-eighteen/324946712?i=324946785&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                ]
+            }
+        },
+        "highlightsurls": {
+            "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/80417/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+        },
+        "relatedtracksurl": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-10983986?startFrom=0&pageSize=20&connected=",
+        "albumadamid": "324946712"
+    },
+    "tagid": "9843EEF9-B81A-4D1A-A96A-CCEA47DE8110"
+}

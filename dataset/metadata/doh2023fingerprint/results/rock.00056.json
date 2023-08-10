@@ -1,0 +1,212 @@
+{
+    "matches": [
+        {
+            "id": "226678819",
+            "offset": 29.973759765,
+            "timeskew": -0.0018806458,
+            "frequencyskew": -0.0017704964
+        },
+        {
+            "id": "418294",
+            "offset": 30.063269531000003,
+            "timeskew": 3.1232834e-05,
+            "frequencyskew": -8.0525875e-05
+        },
+        {
+            "id": "300473195",
+            "offset": 29.785015625,
+            "timeskew": 0.00028049946,
+            "frequencyskew": -0.000120818615
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691633525739,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "20051265",
+        "title": "Ghostrider",
+        "subtitle": "Simple Minds",
+        "images": {
+            "background": "https://is3-ssl.mzstatic.com/image/thumb/Features115/v4/c9/2e/92/c92e9224-2714-1ea7-5b92-1beb3cc03edc/pr_source.png/800x800cc.jpg",
+            "coverart": "https://is4-ssl.mzstatic.com/image/thumb/Music124/v4/2c/87/51/2c875138-db33-de5c-2570-f2bd1eb73f8a/05099920756451.jpg/400x400cc.jpg",
+            "coverarthq": "https://is4-ssl.mzstatic.com/image/thumb/Music124/v4/2c/87/51/2c875138-db33-de5c-2570-f2bd1eb73f8a/05099920756451.jpg/400x400cc.jpg",
+            "joecolor": "b:ffffffp:131616s:1c1c1dt:424444q:4a4a4a"
+        },
+        "share": {
+            "subject": "Ghostrider - Simple Minds",
+            "text": "Ghostrider by Simple Minds",
+            "href": "https://www.shazam.com/track/20051265/ghostrider",
+            "image": "https://is4-ssl.mzstatic.com/image/thumb/Music124/v4/2c/87/51/2c875138-db33-de5c-2570-f2bd1eb73f8a/05099920756451.jpg/400x400cc.jpg",
+            "twitter": "I used @Shazam to discover Ghostrider by Simple Minds.",
+            "html": "https://www.shazam.com/snippets/email-share/20051265?lang=en-US&country=GB",
+            "avatar": "https://is3-ssl.mzstatic.com/image/thumb/Features115/v4/c9/2e/92/c92e9224-2714-1ea7-5b92-1beb3cc03edc/pr_source.png/800x800cc.jpg",
+            "snapchat": "https://www.shazam.com/partner/sc/track/20051265"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "actions": [
+                {
+                    "name": "apple",
+                    "type": "applemusicplay",
+                    "id": "714183089"
+                },
+                {
+                    "name": "apple",
+                    "type": "uri",
+                    "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/39/90/97/39909789-465f-7c3c-ddf5-af695d93ab11/mzaf_2828483175458735777.plus.aac.ep.m4a"
+                }
+            ],
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/gb/album/ghostrider/714182486?i=714183089&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/gb/album/ghostrider/714182486?i=714183089&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                },
+                {
+                    "caption": "BUY",
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "uri": "https://itunes.apple.com/gb/album/ghostrider/714182486?i=714183089&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "buy",
+                        "providername": "itunes"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "type": "buy",
+                    "listcaption": "Buy on iTunes",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "itunes"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:Ghostrider%20Simple%20Minds"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27Ghostrider%27%20artist%3A%27Simple+Minds%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": false,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [
+                    {
+                        "image": "https://is3-ssl.mzstatic.com/image/thumb/Features115/v4/c9/2e/92/c92e9224-2714-1ea7-5b92-1beb3cc03edc/pr_source.png/800x800cc.jpg",
+                        "caption": "Simple Minds"
+                    },
+                    {
+                        "image": "https://is4-ssl.mzstatic.com/image/thumb/Music124/v4/2c/87/51/2c875138-db33-de5c-2570-f2bd1eb73f8a/05099920756451.jpg/400x400cc.jpg",
+                        "caption": "Ghostrider"
+                    }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                    {
+                        "title": "Album",
+                        "text": "Real Life"
+                    },
+                    {
+                        "title": "Label",
+                        "text": "Virgin Catalogue"
+                    },
+                    {
+                        "title": "Released",
+                        "text": "1991"
+                    }
+                ]
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/20051265/youtube/video?q=Simple+Minds+%22Ghostrider%22"
+            }
+        ],
+        "url": "https://www.shazam.com/track/20051265/ghostrider",
+        "artists": [
+            {
+                "id": "42",
+                "adamid": "645533"
+            }
+        ],
+        "isrc": "GBAAA0200664",
+        "genres": {
+            "primary": "Pop"
+        },
+        "urlparams": {
+            "{tracktitle}": "Ghostrider",
+            "{trackartist}": "Simple+Minds"
+        },
+        "myshazam": {
+            "apple": {
+                "actions": [
+                    {
+                        "name": "myshazam:apple",
+                        "type": "uri",
+                        "uri": "https://music.apple.com/gb/album/ghostrider/714182486?i=714183089&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                ]
+            }
+        },
+        "highlightsurls": {
+            "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/645533/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+        },
+        "albumadamid": "714182486"
+    },
+    "tagid": "01C05CB5-64D7-4417-AC0B-345807D6C1BA"
+}

@@ -1,0 +1,268 @@
+{
+    "matches": [
+        {
+            "id": "481106239",
+            "offset": 29.498074218000003,
+            "timeskew": -0.0008252859,
+            "frequencyskew": -0.0008453727
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691632578513,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "345993",
+        "title": "Testify",
+        "subtitle": "Stevie Ray Vaughan & Double Trouble",
+        "images": {
+            "background": "https://is4-ssl.mzstatic.com/image/thumb/Features115/v4/ff/5b/49/ff5b49b7-5d59-8fb3-a901-001d20f29f6e/mzl.bzbetibz.jpg/800x800cc.jpg",
+            "coverart": "https://is2-ssl.mzstatic.com/image/thumb/Music115/v4/27/50/02/27500228-f8e4-8c5c-bb1c-8bfbec68a5fb/886443827141.jpg/400x400cc.jpg",
+            "coverarthq": "https://is2-ssl.mzstatic.com/image/thumb/Music115/v4/27/50/02/27500228-f8e4-8c5c-bb1c-8bfbec68a5fb/886443827141.jpg/400x400cc.jpg",
+            "joecolor": "b:ccbfb6p:0c0b0ds:1d1c20t:322f2fq:403c3e"
+        },
+        "share": {
+            "subject": "Testify - Stevie Ray Vaughan & Double Trouble",
+            "text": "Testify by Stevie Ray Vaughan & Double Trouble",
+            "href": "https://www.shazam.com/track/345993/testify",
+            "image": "https://is2-ssl.mzstatic.com/image/thumb/Music115/v4/27/50/02/27500228-f8e4-8c5c-bb1c-8bfbec68a5fb/886443827141.jpg/400x400cc.jpg",
+            "twitter": "I used @Shazam to discover Testify by Stevie Ray Vaughan & Double Trouble.",
+            "html": "https://www.shazam.com/snippets/email-share/345993?lang=en-US&country=GB",
+            "avatar": "https://is4-ssl.mzstatic.com/image/thumb/Features115/v4/ff/5b/49/ff5b49b7-5d59-8fb3-a901-001d20f29f6e/mzl.bzbetibz.jpg/800x800cc.jpg",
+            "snapchat": "https://www.shazam.com/partner/sc/track/345993"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "actions": [
+                {
+                    "name": "apple",
+                    "type": "applemusicplay",
+                    "id": "930561300"
+                },
+                {
+                    "name": "apple",
+                    "type": "uri",
+                    "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/71/9e/3f/719e3f9b-14e6-f81e-d27e-be58020a367f/mzaf_9675341098850131525.plus.aac.ep.m4a"
+                }
+            ],
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/gb/album/testify/930561264?i=930561300&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/gb/album/testify/930561264?i=930561300&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                },
+                {
+                    "caption": "BUY",
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "uri": "https://itunes.apple.com/gb/album/testify/930561264?i=930561300&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "buy",
+                        "providername": "itunes"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "type": "buy",
+                    "listcaption": "Buy on iTunes",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "itunes"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:Testify%20Stevie%20Ray%20Vaughan%20%26%20Double%20Trouble"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27Testify%27%20artist%3A%27Stevie+Ray+Vaughan++Double+Trouble%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": false,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [
+                    {
+                        "image": "https://is4-ssl.mzstatic.com/image/thumb/Features115/v4/ff/5b/49/ff5b49b7-5d59-8fb3-a901-001d20f29f6e/mzl.bzbetibz.jpg/800x800cc.jpg",
+                        "caption": "Stevie Ray Vaughan & Double Trouble"
+                    },
+                    {
+                        "image": "https://is2-ssl.mzstatic.com/image/thumb/Music115/v4/27/50/02/27500228-f8e4-8c5c-bb1c-8bfbec68a5fb/886443827141.jpg/400x400cc.jpg",
+                        "caption": "Testify"
+                    }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                    {
+                        "title": "Album",
+                        "text": "Texas Flood"
+                    },
+                    {
+                        "title": "Label",
+                        "text": "Epic/Legacy"
+                    },
+                    {
+                        "title": "Released",
+                        "text": "1983"
+                    }
+                ]
+            },
+            {
+                "type": "LYRICS",
+                "text": [
+                    "Friends, inquisitive friends",
+                    "Are asking what's come over me",
+                    "A change, there's been a change",
+                    "It's so plain for everyone to see",
+                    "",
+                    "Love won't get on me",
+                    "And it took me by surprise",
+                    "Happiness is all around me",
+                    "You can even see it in my eyes, yeah, yeah, yeah",
+                    "",
+                    "I just wanna testify",
+                    "What your love has done for me",
+                    "I just wanna testify",
+                    "What your love has done for me, yeah, yeah, yeah",
+                    "",
+                    "It might be a mighty long way",
+                    "A mighty long way, a mighty long way",
+                    "",
+                    "Once I was a halo man",
+                    "And with your lonely heart it dwell",
+                    "The love came sneaking up on me",
+                    "And brought a light to an empty shell",
+                    "",
+                    "Well, I've heard so many time before",
+                    "The love can't be so bad",
+                    "I just got to tell you now",
+                    "That it's the best love I've ever had, hey, yeah, yeah",
+                    "",
+                    "I just wanna testify",
+                    "What your love has done for me",
+                    "I just wanna testify",
+                    "What your love has done for me, yeah, yeah, yeah",
+                    "",
+                    "Precious, sure been precious to me",
+                    "Precious, sure been precious to me, yeah, yeah, yeah",
+                    "",
+                    "I just wanna testify",
+                    "What your love has done for me",
+                    "I just wanna testify",
+                    "What your love has done for me, yeah, yeah, yeah",
+                    "",
+                    "I just wanna testify",
+                    "What your love has done for me",
+                    "I just wanna testify",
+                    "What your love has done for me, yeah, yeah, yeah",
+                    "",
+                    "Testify, alright",
+                    "A mighty long time",
+                    "Testify for me",
+                    "Alright"
+                ],
+                "footer": "Lyrics powered by www.musixmatch.com",
+                "tabname": "Lyrics",
+                "beacondata": {
+                    "lyricsid": "7940773",
+                    "providername": "musixmatch",
+                    "commontrackid": "812047"
+                }
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/345993/youtube/video?q=Stevie+Ray+Vaughan+%26+Double+Trouble+%22Testify%22"
+            },
+            {
+                "type": "RELATED",
+                "url": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-345993?startFrom=0&pageSize=20&connected=",
+                "tabname": "Related"
+            }
+        ],
+        "url": "https://www.shazam.com/track/345993/testify",
+        "artists": [
+            {
+                "id": "42",
+                "adamid": "601067"
+            }
+        ],
+        "isrc": "USSM18300421",
+        "genres": {
+            "primary": "Rock"
+        },
+        "urlparams": {
+            "{tracktitle}": "Testify",
+            "{trackartist}": "Stevie+Ray+Vaughan+%26+Double+Trouble"
+        },
+        "myshazam": {
+            "apple": {
+                "actions": [
+                    {
+                        "name": "myshazam:apple",
+                        "type": "uri",
+                        "uri": "https://music.apple.com/gb/album/testify/930561264?i=930561300&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                ]
+            }
+        },
+        "highlightsurls": {
+            "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/601067/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+        },
+        "relatedtracksurl": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-345993?startFrom=0&pageSize=20&connected=",
+        "albumadamid": "930561264"
+    },
+    "tagid": "5C5F6D91-B4FD-427E-AB15-382BA0906AA7"
+}

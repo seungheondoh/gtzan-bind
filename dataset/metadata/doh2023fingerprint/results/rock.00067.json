@@ -1,0 +1,263 @@
+{
+    "matches": [
+        {
+            "id": "225214138",
+            "offset": 29.982292968000003,
+            "timeskew": 0.0019708872,
+            "frequencyskew": 0.0016928911
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691633599333,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "544452",
+        "title": "Bungle In the Jungle",
+        "subtitle": "Jethro Tull",
+        "images": {
+            "background": "https://is1-ssl.mzstatic.com/image/thumb/Features125/v4/6c/af/2b/6caf2b97-f2d3-14a9-431b-e1579e254c81/mzl.yziwwmnf.jpg/800x800cc.jpg",
+            "coverart": "https://is5-ssl.mzstatic.com/image/thumb/Music114/v4/4c/41/7e/4c417ea8-55a4-8f6f-784d-c0caf09f441b/724354157158.jpg/400x400cc.jpg",
+            "coverarthq": "https://is5-ssl.mzstatic.com/image/thumb/Music114/v4/4c/41/7e/4c417ea8-55a4-8f6f-784d-c0caf09f441b/724354157158.jpg/400x400cc.jpg",
+            "joecolor": "b:532a3bp:f4e6d6s:e4996ft:d4c1b7q:c78365"
+        },
+        "share": {
+            "subject": "Bungle In the Jungle - Jethro Tull",
+            "text": "Bungle In the Jungle by Jethro Tull",
+            "href": "https://www.shazam.com/track/544452/bungle-in-the-jungle",
+            "image": "https://is5-ssl.mzstatic.com/image/thumb/Music114/v4/4c/41/7e/4c417ea8-55a4-8f6f-784d-c0caf09f441b/724354157158.jpg/400x400cc.jpg",
+            "twitter": "I used @Shazam to discover Bungle In the Jungle by Jethro Tull.",
+            "html": "https://www.shazam.com/snippets/email-share/544452?lang=en-US&country=GB",
+            "avatar": "https://is1-ssl.mzstatic.com/image/thumb/Features125/v4/6c/af/2b/6caf2b97-f2d3-14a9-431b-e1579e254c81/mzl.yziwwmnf.jpg/800x800cc.jpg",
+            "snapchat": "https://www.shazam.com/partner/sc/track/544452"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "actions": [
+                {
+                    "name": "apple",
+                    "type": "applemusicplay",
+                    "id": "699617890"
+                },
+                {
+                    "name": "apple",
+                    "type": "uri",
+                    "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/9f/b0/4e/9fb04ee9-71ac-ba2f-c9af-104e34426c0d/mzaf_6777507585173319365.plus.aac.ep.m4a"
+                }
+            ],
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/gb/album/bungle-in-the-jungle/699617148?i=699617890&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/gb/album/bungle-in-the-jungle/699617148?i=699617890&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                },
+                {
+                    "caption": "BUY",
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "uri": "https://itunes.apple.com/gb/album/bungle-in-the-jungle/699617148?i=699617890&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "buy",
+                        "providername": "itunes"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "type": "buy",
+                    "listcaption": "Buy on iTunes",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "itunes"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:Bungle%20In%20the%20Jungle%20Jethro%20Tull"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27Bungle+In+the+Jungle%27%20artist%3A%27Jethro+Tull%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": false,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [
+                    {
+                        "image": "https://is1-ssl.mzstatic.com/image/thumb/Features125/v4/6c/af/2b/6caf2b97-f2d3-14a9-431b-e1579e254c81/mzl.yziwwmnf.jpg/800x800cc.jpg",
+                        "caption": "Jethro Tull"
+                    },
+                    {
+                        "image": "https://is5-ssl.mzstatic.com/image/thumb/Music114/v4/4c/41/7e/4c417ea8-55a4-8f6f-784d-c0caf09f441b/724354157158.jpg/400x400cc.jpg",
+                        "caption": "Bungle In the Jungle"
+                    }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                    {
+                        "title": "Album",
+                        "text": "War Child (Bonus Tracks Edition) [2002 Remaster]"
+                    },
+                    {
+                        "title": "Label",
+                        "text": "Parlophone UK"
+                    },
+                    {
+                        "title": "Released",
+                        "text": "1974"
+                    }
+                ]
+            },
+            {
+                "type": "LYRICS",
+                "text": [
+                    "Walking through forests of palm tree apartments",
+                    "Scoff at the monkeys who live in their dark tents",
+                    "Down by the waterhole, drunk every Friday",
+                    "Eating their nuts, saving their raisins for Sunday",
+                    "Lions and tigers who wait in the shadows",
+                    "They're fast but they're lazy, and sleep in green meadows",
+                    "",
+                    "Well, let's bungle in the jungle",
+                    "Well, that's all right by me, yes",
+                    "Well, I'm a tiger when I want love",
+                    "But I'm a snake if we disagree",
+                    "",
+                    "Just say a word and the boys will be right there",
+                    "With claws at your back to send a chill through the night air",
+                    "Is it so frightening to have me at your shoulder?",
+                    "Thunder and lightning couldn't be bolder",
+                    "I'll write on your tombstone, I thank you for dinner",
+                    "This game that we animals play is a winner",
+                    "",
+                    "Well, let's bungle in the jungle",
+                    "Well, that's all right by me, yes",
+                    "I'm a tiger when I want love",
+                    "I'm a snake if we disagree, yes",
+                    "",
+                    "The rivers are full of crocodile nasties",
+                    "And he who made kittens put snakes in their grasp",
+                    "He's a lover of life but a player of pawns",
+                    "Yes, the King on His sunset lies waiting for dawn",
+                    "To light up His Jungle as play is resumed",
+                    "The monkeys seem willing to strike up the tune",
+                    "",
+                    "Well, let's bungle in the jungle",
+                    "Well, that's all right by me, yes",
+                    "I'm a tiger when I want love",
+                    "And I'm a snake when we disagree, yes",
+                    "",
+                    "Let's bungle in the jungle",
+                    "Well, that's all right by me, yes",
+                    "Well, I'm a tiger when I want love",
+                    "I'm a snake when we disagree",
+                    "",
+                    "Well, let's bungle in the jungle",
+                    "Well, that's all right by me, yes",
+                    "I'm a tiger when I want love"
+                ],
+                "url": "https://cdn.shazam.com/lyrics/v1/en-US/GB/iphone/musixmatch/subtitles/313126/215/1?token=60a31cc89f06a5444e9ab928586e9288",
+                "footer": "Writer(s): Ian Anderson\nLyrics powered by www.musixmatch.com",
+                "tabname": "Lyrics",
+                "beacondata": {
+                    "lyricsid": "22514722",
+                    "providername": "musixmatch",
+                    "commontrackid": "313126"
+                }
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/544452/youtube/video?q=Jethro+Tull+%22Bungle+In+the+Jungle%22"
+            },
+            {
+                "type": "RELATED",
+                "url": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-544452?startFrom=0&pageSize=20&connected=",
+                "tabname": "Related"
+            }
+        ],
+        "url": "https://www.shazam.com/track/544452/bungle-in-the-jungle",
+        "artists": [
+            {
+                "id": "42",
+                "adamid": "44596725"
+            }
+        ],
+        "isrc": "GBAYK0200192",
+        "genres": {
+            "primary": "Prog-Rock/Art Rock"
+        },
+        "urlparams": {
+            "{tracktitle}": "Bungle+In+the+Jungle",
+            "{trackartist}": "Jethro+Tull"
+        },
+        "myshazam": {
+            "apple": {
+                "actions": [
+                    {
+                        "name": "myshazam:apple",
+                        "type": "uri",
+                        "uri": "https://music.apple.com/gb/album/bungle-in-the-jungle/699617148?i=699617890&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                ]
+            }
+        },
+        "highlightsurls": {
+            "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/44596725/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+        },
+        "relatedtracksurl": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-544452?startFrom=0&pageSize=20&connected=",
+        "albumadamid": "699617148"
+    },
+    "tagid": "7CED20AF-F753-427A-B451-740544584F65"
+}

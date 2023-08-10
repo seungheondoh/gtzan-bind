@@ -1,0 +1,241 @@
+{
+    "matches": [
+        {
+            "id": "480914297",
+            "offset": 30.150431639999997,
+            "timeskew": 7.6532364e-05,
+            "frequencyskew": -0.000120818615
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691633496362,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "5277724",
+        "title": "When I Call Your Name",
+        "subtitle": "Vince Gill",
+        "images": {
+            "background": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/60/4c/f5/604cf541-d910-4110-0f64-0a86beda613e/pr_source.png/800x800cc.jpg",
+            "coverart": "https://is5-ssl.mzstatic.com/image/thumb/Music124/v4/a6/b4/43/a6b443e8-4b1f-ca11-ded9-b8a8b6f2d487/00602547742452.rgb.jpg/400x400cc.jpg",
+            "coverarthq": "https://is5-ssl.mzstatic.com/image/thumb/Music124/v4/a6/b4/43/a6b443e8-4b1f-ca11-ded9-b8a8b6f2d487/00602547742452.rgb.jpg/400x400cc.jpg",
+            "joecolor": "b:001323p:d7f2fbs:cfe3eet:acc6d0q:a6b9c5"
+        },
+        "share": {
+            "subject": "When I Call Your Name - Vince Gill",
+            "text": "When I Call Your Name by Vince Gill",
+            "href": "https://www.shazam.com/track/5277724/when-i-call-your-name",
+            "image": "https://is5-ssl.mzstatic.com/image/thumb/Music124/v4/a6/b4/43/a6b443e8-4b1f-ca11-ded9-b8a8b6f2d487/00602547742452.rgb.jpg/400x400cc.jpg",
+            "twitter": "I used @Shazam to discover When I Call Your Name by Vince Gill.",
+            "html": "https://www.shazam.com/snippets/email-share/5277724?lang=en-US&country=GB",
+            "avatar": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/60/4c/f5/604cf541-d910-4110-0f64-0a86beda613e/pr_source.png/800x800cc.jpg",
+            "snapchat": "https://www.shazam.com/partner/sc/track/5277724"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "actions": [
+                {
+                    "name": "apple",
+                    "type": "applemusicplay",
+                    "id": "1443173029"
+                },
+                {
+                    "name": "apple",
+                    "type": "uri",
+                    "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/81/4d/31/814d3142-793a-d8e5-f8c0-d0a0672d8de0/mzaf_13568341818057136.plus.aac.ep.m4a"
+                }
+            ],
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/gb/album/when-i-call-your-name/1443172744?i=1443173029&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/gb/album/when-i-call-your-name/1443172744?i=1443173029&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                },
+                {
+                    "caption": "BUY",
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "uri": "https://itunes.apple.com/gb/album/when-i-call-your-name/1443172744?i=1443173029&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "buy",
+                        "providername": "itunes"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "type": "buy",
+                    "listcaption": "Buy on iTunes",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "itunes"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:When%20I%20Call%20Your%20Name%20Vince%20Gill"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27When+I+Call+Your+Name%27%20artist%3A%27Vince+Gill%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": false,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [
+                    {
+                        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/60/4c/f5/604cf541-d910-4110-0f64-0a86beda613e/pr_source.png/800x800cc.jpg",
+                        "caption": "Vince Gill"
+                    },
+                    {
+                        "image": "https://is5-ssl.mzstatic.com/image/thumb/Music124/v4/a6/b4/43/a6b443e8-4b1f-ca11-ded9-b8a8b6f2d487/00602547742452.rgb.jpg/400x400cc.jpg",
+                        "caption": "When I Call Your Name"
+                    }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                    {
+                        "title": "Album",
+                        "text": "When I Call Your Name"
+                    },
+                    {
+                        "title": "Label",
+                        "text": "MCA Nashville"
+                    },
+                    {
+                        "title": "Released",
+                        "text": "1989"
+                    }
+                ]
+            },
+            {
+                "type": "LYRICS",
+                "text": [
+                    "I rushed home from work like I always do",
+                    "I spent my whole day just thinking of you",
+                    "When I walked through the front door, my whole life was changed",
+                    "'Cause nobody answered when I called your name",
+                    "",
+                    "A note on the table that told me goodbye",
+                    "Said you'd grown weary of living a lie",
+                    "Oh, your love has ended, but mine still remains",
+                    "But nobody answers when I call your name",
+                    "",
+                    "Oh, the lonely sound of my voice calling",
+                    "Is driving me insane",
+                    "And just like rain, the tears keep falling",
+                    "But nobody answers when I call your name",
+                    "",
+                    "Oh, the lonely sound of my voice calling",
+                    "Is driving me insane",
+                    "And just like rain, the tears keep falling",
+                    "But nobody answers when I call your name",
+                    "",
+                    "Oh, nobody answers",
+                    "When I call your name"
+                ],
+                "url": "https://cdn.shazam.com/lyrics/v1/en-US/GB/iphone/musixmatch/subtitles/951634/255/1?token=b57182911774150716462a04b7121041",
+                "footer": "Writer(s): Vincent Gill, Tim Dubois\nLyrics powered by www.musixmatch.com",
+                "tabname": "Lyrics",
+                "beacondata": {
+                    "lyricsid": "30561694",
+                    "providername": "musixmatch",
+                    "commontrackid": "951634"
+                }
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/5277724/youtube/video?q=Vince+Gill+%22When+I+Call+Your+Name%22"
+            },
+            {
+                "type": "RELATED",
+                "url": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-5277724?startFrom=0&pageSize=20&connected=",
+                "tabname": "Related"
+            }
+        ],
+        "url": "https://www.shazam.com/track/5277724/when-i-call-your-name",
+        "artists": [
+            {
+                "id": "42",
+                "adamid": "27175"
+            }
+        ],
+        "isrc": "USMC18929965",
+        "genres": {
+            "primary": "Country"
+        },
+        "urlparams": {
+            "{tracktitle}": "When+I+Call+Your+Name",
+            "{trackartist}": "Vince+Gill"
+        },
+        "myshazam": {
+            "apple": {
+                "actions": [
+                    {
+                        "name": "myshazam:apple",
+                        "type": "uri",
+                        "uri": "https://music.apple.com/gb/album/when-i-call-your-name/1443172744?i=1443173029&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                ]
+            }
+        },
+        "highlightsurls": {
+            "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/27175/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+        },
+        "relatedtracksurl": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-5277724?startFrom=0&pageSize=20&connected=",
+        "albumadamid": "1443172744"
+    },
+    "tagid": "7082C2B2-1D9E-46E0-B6E0-45F4E07EEF18"
+}

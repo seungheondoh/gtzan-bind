@@ -1,0 +1,277 @@
+{
+    "matches": [
+        {
+            "id": "212286911",
+            "offset": 25.680791015,
+            "timeskew": 1.0609627e-05,
+            "frequencyskew": -0.00016111135
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691632944258,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "236444",
+        "title": "Bodhisattva Vow",
+        "subtitle": "Beastie Boys",
+        "images": {
+            "background": "https://is5-ssl.mzstatic.com/image/thumb/Features115/v4/16/2c/76/162c767d-b00a-5664-1548-df303ae12729/mza_8084110850478364065.png/800x800cc.jpg",
+            "coverart": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/5a/6c/ab/5a6cabf6-3e47-a0f0-5092-bc18623291ed/00724382859956.rgb.jpg/400x400cc.jpg",
+            "coverarthq": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/5a/6c/ab/5a6cabf6-3e47-a0f0-5092-bc18623291ed/00724382859956.rgb.jpg/400x400cc.jpg",
+            "joecolor": "b:c1c0bbp:040104s:292524t:292729q:474442"
+        },
+        "share": {
+            "subject": "Bodhisattva Vow - Beastie Boys",
+            "text": "Bodhisattva Vow by Beastie Boys",
+            "href": "https://www.shazam.com/track/236444/bodhisattva-vow",
+            "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/5a/6c/ab/5a6cabf6-3e47-a0f0-5092-bc18623291ed/00724382859956.rgb.jpg/400x400cc.jpg",
+            "twitter": "I used @Shazam to discover Bodhisattva Vow by Beastie Boys.",
+            "html": "https://www.shazam.com/snippets/email-share/236444?lang=en-US&country=GB",
+            "avatar": "https://is5-ssl.mzstatic.com/image/thumb/Features115/v4/16/2c/76/162c767d-b00a-5664-1548-df303ae12729/mza_8084110850478364065.png/800x800cc.jpg",
+            "snapchat": "https://www.shazam.com/partner/sc/track/236444"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "actions": [
+                {
+                    "name": "apple",
+                    "type": "applemusicplay",
+                    "id": "724772570"
+                },
+                {
+                    "name": "apple",
+                    "type": "uri",
+                    "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/26/41/24/2641246f-3b43-b0b6-5f17-7a4126250058/mzaf_898677688079909743.plus.aac.ep.m4a"
+                }
+            ],
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/gb/album/bodhisattva-vow/724771323?i=724772570&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/gb/album/bodhisattva-vow/724771323?i=724772570&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                },
+                {
+                    "caption": "BUY",
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "uri": "https://itunes.apple.com/gb/album/bodhisattva-vow/724771323?i=724772570&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "buy",
+                        "providername": "itunes"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "type": "buy",
+                    "listcaption": "Buy on iTunes",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "itunes"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:Bodhisattva%20Vow%20Beastie%20Boys"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27Bodhisattva+Vow%27%20artist%3A%27Beastie+Boys%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": true,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [
+                    {
+                        "image": "https://is5-ssl.mzstatic.com/image/thumb/Features115/v4/16/2c/76/162c767d-b00a-5664-1548-df303ae12729/mza_8084110850478364065.png/800x800cc.jpg",
+                        "caption": "Beastie Boys"
+                    },
+                    {
+                        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/5a/6c/ab/5a6cabf6-3e47-a0f0-5092-bc18623291ed/00724382859956.rgb.jpg/400x400cc.jpg",
+                        "caption": "Bodhisattva Vow"
+                    }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                    {
+                        "title": "Album",
+                        "text": "Ill Communication"
+                    },
+                    {
+                        "title": "Label",
+                        "text": "Capitol Records"
+                    },
+                    {
+                        "title": "Released",
+                        "text": "1994"
+                    }
+                ]
+            },
+            {
+                "type": "LYRICS",
+                "text": [
+                    "As I develop the awakening mind",
+                    "I praise the Buddhas as they shine",
+                    "I bow before you as I travel my path",
+                    "To join your ranks, I make my full-time task",
+                    "",
+                    "For the sake of all beings I seek",
+                    "The enlightened mind that I know I'll reap",
+                    "Respect to Shantideva and all the others",
+                    "Who brought down the Dharma for the sisters and brothers",
+                    "",
+                    "I give thanks for this world as a place to learn",
+                    "And for this human body that I know I've earned",
+                    "And my deepest thanks to all sentient beings",
+                    "For without them, there would be no place to learn what I'm seeing",
+                    "",
+                    "There's nothing here that's not been said before",
+                    "But I put it down now so that I'll be sure",
+                    "To solidify my own views",
+                    "And I'll be glad if it helps anyone else out too",
+                    "",
+                    "If others disrespect me or give me flak",
+                    "I'll stop and think before I react",
+                    "Knowing that they're going through insecure stages",
+                    "I'll take the opportunity to exercise patience",
+                    "",
+                    "I'll see it as a chance to help the other person",
+                    "Nip it in the bud before it can worsen",
+                    "A chance for me to be strong and sure",
+                    "As I think on the Buddhas who have come before",
+                    "",
+                    "As I praise and respect the good they've done",
+                    "Knowing love can conquer hate in every situation",
+                    "We need other people in order to create",
+                    "The circumstances for the learning that we're here to generate",
+                    "",
+                    "Situations that bring up our deepest fears",
+                    "So we can work to release them until they're cleared",
+                    "Therefore it only makes sense",
+                    "To thank our enemies despite their intent",
+                    "",
+                    "The Bodhisattva path is one of power and strength",
+                    "A strength from within to go the length",
+                    "Seeing others are as important as myself",
+                    "I strive for a happiness of mental wealth",
+                    "",
+                    "With the interconnectedness that we share as one",
+                    "Every action that we take affects everyone",
+                    "So in deciding for what a situation calls",
+                    "There is a path for the good for all",
+                    "I try to make my every action for that highest good",
+                    "",
+                    "With the altruistic wish to achieve Buddhahood",
+                    "So I pledge here before everyone who's listening",
+                    "To try to make my every action for the good of all beings",
+                    "For the rest of my lifetimes and even beyond",
+                    "I vow to do my best, to do no harm",
+                    "And in times of doubt, I can think on the Dharma",
+                    "And the Enlightened Ones who've graduated Samsara"
+                ],
+                "url": "https://cdn.shazam.com/lyrics/v1/en-US/GB/iphone/musixmatch/subtitles/776551/188/1?token=067721e6675ba1d07137524df3c653e0",
+                "footer": "Writer(s): Michael Louis Diamond, Adam Horovitz, Adam Nathaniel Yauch, Mario Caldato Jr.\nLyrics powered by www.musixmatch.com",
+                "tabname": "Lyrics",
+                "beacondata": {
+                    "lyricsid": "29771661",
+                    "providername": "musixmatch",
+                    "commontrackid": "776551"
+                }
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/236444/youtube/video?q=Beastie+Boys+%22Bodhisattva+Vow%22"
+            },
+            {
+                "type": "RELATED",
+                "url": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-236444?startFrom=0&pageSize=20&connected=",
+                "tabname": "Related"
+            }
+        ],
+        "url": "https://www.shazam.com/track/236444/bodhisattva-vow",
+        "artists": [
+            {
+                "id": "42",
+                "adamid": "1971863"
+            }
+        ],
+        "isrc": "USCA29400083",
+        "genres": {
+            "primary": "Hip-Hop/Rap"
+        },
+        "urlparams": {
+            "{tracktitle}": "Bodhisattva+Vow",
+            "{trackartist}": "Beastie+Boys"
+        },
+        "myshazam": {
+            "apple": {
+                "actions": [
+                    {
+                        "name": "myshazam:apple",
+                        "type": "uri",
+                        "uri": "https://music.apple.com/gb/album/bodhisattva-vow/724771323?i=724772570&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                ]
+            }
+        },
+        "highlightsurls": {
+            "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/1971863/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+        },
+        "relatedtracksurl": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-236444?startFrom=0&pageSize=20&connected=",
+        "albumadamid": "724771323"
+    },
+    "tagid": "D767A725-2B3E-4260-B4A0-C46EFE36D3C5"
+}

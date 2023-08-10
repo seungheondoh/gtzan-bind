@@ -1,0 +1,266 @@
+{
+    "matches": [
+        {
+            "id": "583222152",
+            "offset": 28.5660625,
+            "timeskew": 5.722046e-06,
+            "frequencyskew": -0.000120818615
+        },
+        {
+            "id": "264606189",
+            "offset": 29.182617186999998,
+            "timeskew": -0.004766941,
+            "frequencyskew": -0.0062229633
+        },
+        {
+            "id": "281131414",
+            "offset": 28.68609375,
+            "timeskew": 0.0023862123,
+            "frequencyskew": 0.002396226
+        },
+        {
+            "id": "281476308",
+            "offset": 28.824527343000003,
+            "timeskew": 0.0065746307,
+            "frequencyskew": 0.0074784756
+        },
+        {
+            "id": "210173540",
+            "offset": 29.308408203,
+            "timeskew": 0.019170165,
+            "frequencyskew": 0.017222643
+        },
+        {
+            "id": "543768322",
+            "offset": 28.54893164,
+            "timeskew": -0.0031463504,
+            "frequencyskew": -0.0030962825
+        },
+        {
+            "id": "244893010",
+            "offset": 28.910666015,
+            "timeskew": -7.4625015e-05,
+            "frequencyskew": -0.0005905032
+        },
+        {
+            "id": "260710043",
+            "offset": 29.067617187,
+            "timeskew": -0.0083319545,
+            "frequencyskew": -0.008142233
+        },
+        {
+            "id": "286894674",
+            "offset": 28.481783203,
+            "timeskew": -0.0033949614,
+            "frequencyskew": -0.0024135113
+        },
+        {
+            "id": "204796763",
+            "offset": 28.610960937,
+            "timeskew": -0.00492537,
+            "frequencyskew": -0.0052058697
+        },
+        {
+            "id": "490233721",
+            "offset": 28.381822265,
+            "timeskew": -0.020110786,
+            "frequencyskew": -0.020290673
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691632242369,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "10847667",
+        "title": "Body And Soul",
+        "subtitle": "Coleman Hawkins",
+        "images": {
+            "background": "https://is3-ssl.mzstatic.com/image/thumb/Features125/v4/f0/73/0c/f0730c18-ed8e-859d-6234-c4e30f0b41d4/pr_source.png/800x800cc.jpg",
+            "coverart": "https://is2-ssl.mzstatic.com/image/thumb/Features/v4/6c/6f/41/6c6f4112-a66f-98b2-871b-5950c6a01f38/dj.ijzowynn.jpg/400x400cc.jpg",
+            "coverarthq": "https://is2-ssl.mzstatic.com/image/thumb/Features/v4/6c/6f/41/6c6f4112-a66f-98b2-871b-5950c6a01f38/dj.ijzowynn.jpg/400x400cc.jpg",
+            "joecolor": "b:565656p:eaeaeas:f9d57bt:cdcdcdq:d8bc73"
+        },
+        "share": {
+            "subject": "Body And Soul - Coleman Hawkins",
+            "text": "Body And Soul by Coleman Hawkins",
+            "href": "https://www.shazam.com/track/10847667/body-and-soul",
+            "image": "https://is2-ssl.mzstatic.com/image/thumb/Features/v4/6c/6f/41/6c6f4112-a66f-98b2-871b-5950c6a01f38/dj.ijzowynn.jpg/400x400cc.jpg",
+            "twitter": "I used @Shazam to discover Body And Soul by Coleman Hawkins.",
+            "html": "https://www.shazam.com/snippets/email-share/10847667?lang=en-US&country=GB",
+            "avatar": "https://is3-ssl.mzstatic.com/image/thumb/Features125/v4/f0/73/0c/f0730c18-ed8e-859d-6234-c4e30f0b41d4/pr_source.png/800x800cc.jpg",
+            "snapchat": "https://www.shazam.com/partner/sc/track/10847667"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "actions": [
+                {
+                    "name": "apple",
+                    "type": "applemusicplay",
+                    "id": "339441719"
+                },
+                {
+                    "name": "apple",
+                    "type": "uri",
+                    "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/a8/b0/68/a8b06896-63b1-d197-8911-43f7e2921926/mzaf_14856029746306948351.plus.aac.ep.m4a"
+                }
+            ],
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/gb/album/body-and-soul/339441718?i=339441719&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/gb/album/body-and-soul/339441718?i=339441719&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                },
+                {
+                    "caption": "BUY",
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "uri": "https://itunes.apple.com/gb/album/body-and-soul/339441718?i=339441719&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "buy",
+                        "providername": "itunes"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "type": "buy",
+                    "listcaption": "Buy on iTunes",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "itunes"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:Body%20And%20Soul%20Coleman%20Hawkins"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27Body+And+Soul%27%20artist%3A%27Coleman+Hawkins%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": false,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [
+                    {
+                        "image": "https://is3-ssl.mzstatic.com/image/thumb/Features125/v4/f0/73/0c/f0730c18-ed8e-859d-6234-c4e30f0b41d4/pr_source.png/800x800cc.jpg",
+                        "caption": "Coleman Hawkins"
+                    },
+                    {
+                        "image": "https://is2-ssl.mzstatic.com/image/thumb/Features/v4/6c/6f/41/6c6f4112-a66f-98b2-871b-5950c6a01f38/dj.ijzowynn.jpg/400x400cc.jpg",
+                        "caption": "Body And Soul"
+                    }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                    {
+                        "title": "Album",
+                        "text": "Body & Soul"
+                    },
+                    {
+                        "title": "Label",
+                        "text": "MBop Direct-Florian Records"
+                    },
+                    {
+                        "title": "Released",
+                        "text": "1995"
+                    }
+                ]
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/10847667/youtube/video?q=Coleman+Hawkins+%22Body+And+Soul%22"
+            },
+            {
+                "type": "RELATED",
+                "url": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-10847667?startFrom=0&pageSize=20&connected=",
+                "tabname": "Related"
+            }
+        ],
+        "url": "https://www.shazam.com/track/10847667/body-and-soul",
+        "artists": [
+            {
+                "id": "42",
+                "adamid": "52475"
+            }
+        ],
+        "isrc": "GBELT0819240",
+        "genres": {
+            "primary": "Jazz"
+        },
+        "urlparams": {
+            "{tracktitle}": "Body+And+Soul",
+            "{trackartist}": "Coleman+Hawkins"
+        },
+        "myshazam": {
+            "apple": {
+                "actions": [
+                    {
+                        "name": "myshazam:apple",
+                        "type": "uri",
+                        "uri": "https://music.apple.com/gb/album/body-and-soul/339441718?i=339441719&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                ]
+            }
+        },
+        "highlightsurls": {
+            "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/52475/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+        },
+        "relatedtracksurl": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-10847667?startFrom=0&pageSize=20&connected=",
+        "albumadamid": "339441718"
+    },
+    "tagid": "A782E248-AE4A-4150-B351-6C4916C0914B"
+}

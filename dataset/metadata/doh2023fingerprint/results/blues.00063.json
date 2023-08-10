@@ -1,0 +1,224 @@
+{
+    "matches": [
+        {
+            "id": "235488136",
+            "offset": 30.005470703,
+            "timeskew": 0.00016713142,
+            "frequencyskew": -4.029274e-05
+        },
+        {
+            "id": "223789752",
+            "offset": 30.053158203,
+            "timeskew": 0.00770545,
+            "frequencyskew": 0.0072755814
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691632634397,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "202248",
+        "title": "Yesterday (I Lost My Best Friend) [Take 4]",
+        "subtitle": "Clifton Chenier",
+        "images": {
+            "background": "https://is5-ssl.mzstatic.com/image/thumb/Music115/v4/00/3c/25/003c2539-b117-8795-a019-94519e418dda/21UMGIM71408.rgb.jpg/400x400cc.jpg",
+            "coverart": "https://is5-ssl.mzstatic.com/image/thumb/Music115/v4/00/3c/25/003c2539-b117-8795-a019-94519e418dda/21UMGIM71408.rgb.jpg/400x400cc.jpg",
+            "coverarthq": "https://is5-ssl.mzstatic.com/image/thumb/Music115/v4/00/3c/25/003c2539-b117-8795-a019-94519e418dda/21UMGIM71408.rgb.jpg/400x400cc.jpg",
+            "joecolor": "b:191917p:9eed50s:fa592bt:84c344q:cd4c27"
+        },
+        "share": {
+            "subject": "Yesterday (I Lost My Best Friend) [Take 4] - Clifton Chenier",
+            "text": "Yesterday (I Lost My Best Friend) [Take 4] by Clifton Chenier",
+            "href": "https://www.shazam.com/track/202248/yesterday-i-lost-my-best-friend-take-4",
+            "image": "https://is5-ssl.mzstatic.com/image/thumb/Music115/v4/00/3c/25/003c2539-b117-8795-a019-94519e418dda/21UMGIM71408.rgb.jpg/400x400cc.jpg",
+            "twitter": "I used @Shazam to discover Yesterday (I Lost My Best Friend) [Take 4] by Clifton Chenier.",
+            "html": "https://www.shazam.com/snippets/email-share/202248?lang=en-US&country=GB",
+            "snapchat": "https://www.shazam.com/partner/sc/track/202248"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "actions": [
+                {
+                    "name": "apple",
+                    "type": "applemusicplay",
+                    "id": "1583598719"
+                },
+                {
+                    "name": "apple",
+                    "type": "uri",
+                    "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/b2/16/ee/b216ee07-db6b-1ca3-3072-6c7e6fb52d92/mzaf_12799358750127810965.plus.aac.ep.m4a"
+                }
+            ],
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/gb/album/yesterday-i-lost-my-best-friend-take-4/1583598710?i=1583598719&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/gb/album/yesterday-i-lost-my-best-friend-take-4/1583598710?i=1583598719&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                },
+                {
+                    "caption": "BUY",
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "uri": "https://itunes.apple.com/gb/album/yesterday-i-lost-my-best-friend-take-4/1583598710?i=1583598719&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "buy",
+                        "providername": "itunes"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "type": "buy",
+                    "listcaption": "Buy on iTunes",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "itunes"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:Yesterday%20%28I%20Lost%20My%20Best%20Friend%29%20%5BTake%204%5D%20Clifton%20Chenier"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27Yesterday+%28I+Lost+My+Best+Friend%29+%5BTake+4%5D%27%20artist%3A%27Clifton+Chenier%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": false,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [
+                    {
+                        "image": "https://is5-ssl.mzstatic.com/image/thumb/Music115/v4/00/3c/25/003c2539-b117-8795-a019-94519e418dda/21UMGIM71408.rgb.jpg/400x400cc.jpg",
+                        "caption": "Yesterday (I Lost My Best Friend) [Take 4]"
+                    }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                    {
+                        "title": "Album",
+                        "text": "Bayou Blues"
+                    },
+                    {
+                        "title": "Label",
+                        "text": "Specialty"
+                    },
+                    {
+                        "title": "Released",
+                        "text": "1955"
+                    }
+                ]
+            },
+            {
+                "type": "LYRICS",
+                "text": [
+                    "Yesterday, I lost the best friend I ever had",
+                    "Yesterday, I lost the best friend I ever had",
+                    "Yeah, she's gone and left me that makes me feel so blue",
+                    "",
+                    "Well, I am so blue, well, I don't know what to do",
+                    "Well, I am so blue, well, I don't know what to do",
+                    "If I find my baby I won't have to worry no more",
+                    "",
+                    "Yes, I'm all alone, I have no one to call my love",
+                    "Yes, I'm all alone, no one to call my own",
+                    "If I find my baby I won't have to worry no more"
+                ],
+                "footer": "Writer(s): John Lennon, Paul Mccartney\nLyrics powered by www.musixmatch.com",
+                "tabname": "Lyrics",
+                "beacondata": {
+                    "lyricsid": "7447316",
+                    "providername": "musixmatch",
+                    "commontrackid": "1895430"
+                }
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/202248/youtube/video?q=Clifton+Chenier+%22Yesterday+(I+Lost+My+Best+Friend)+%5BTake+4%5D%22"
+            }
+        ],
+        "url": "https://www.shazam.com/track/202248/yesterday-i-lost-my-best-friend-take-4",
+        "artists": [
+            {
+                "id": "42",
+                "adamid": "2716210"
+            }
+        ],
+        "isrc": "USSPI7100314",
+        "genres": {
+            "primary": "World"
+        },
+        "urlparams": {
+            "{tracktitle}": "Yesterday+%28I+Lost+My+Best+Friend%29+%5BTake+4%5D",
+            "{trackartist}": "Clifton+Chenier"
+        },
+        "myshazam": {
+            "apple": {
+                "actions": [
+                    {
+                        "name": "myshazam:apple",
+                        "type": "uri",
+                        "uri": "https://music.apple.com/gb/album/yesterday-i-lost-my-best-friend-take-4/1583598710?i=1583598719&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                ]
+            }
+        },
+        "highlightsurls": {
+            "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/2716210/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+        },
+        "albumadamid": "1583598710"
+    },
+    "tagid": "4645E184-1C3C-47F0-B2AB-336EC8D0AA8D"
+}

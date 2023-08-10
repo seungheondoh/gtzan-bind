@@ -1,0 +1,283 @@
+{
+    "matches": [
+        {
+            "id": "202627745",
+            "offset": 29.601060546,
+            "timeskew": 0.0012040138,
+            "frequencyskew": 0.0010880232
+        },
+        {
+            "id": "410439951",
+            "offset": 29.203830078,
+            "timeskew": -0.0002759695,
+            "frequencyskew": -0.0008453727
+        },
+        {
+            "id": "212882596",
+            "offset": 29.737263671,
+            "timeskew": 0.0013329983,
+            "frequencyskew": 0.0013701916
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691632492251,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "262766",
+        "title": "No More Tears (Enough Is Enough) [feat. Donna Summer]",
+        "subtitle": "Barbra Streisand",
+        "images": {
+            "background": "https://is5-ssl.mzstatic.com/image/thumb/Features115/v4/f6/29/90/f62990d3-2c03-91ff-90a8-13c2dfc409aa/mzl.aophguvm.jpg/800x800cc.jpg",
+            "coverart": "https://is2-ssl.mzstatic.com/image/thumb/Music124/v4/f6/65/80/f6658061-1327-c961-c857-9ea0d6f8d883/mzi.urkyagof.jpg/400x400cc.jpg",
+            "coverarthq": "https://is2-ssl.mzstatic.com/image/thumb/Music124/v4/f6/65/80/f6658061-1327-c961-c857-9ea0d6f8d883/mzi.urkyagof.jpg/400x400cc.jpg",
+            "joecolor": "b:cbb196p:0b0607s:351f1dt:312823q:533c35"
+        },
+        "share": {
+            "subject": "No More Tears (Enough Is Enough) [feat. Donna Summer] - Barbra Streisand",
+            "text": "No More Tears (Enough Is Enough) [feat. Donna Summer] by Barbra Streisand",
+            "href": "https://www.shazam.com/track/262766/no-more-tears-enough-is-enough-feat-donna-summer",
+            "image": "https://is2-ssl.mzstatic.com/image/thumb/Music124/v4/f6/65/80/f6658061-1327-c961-c857-9ea0d6f8d883/mzi.urkyagof.jpg/400x400cc.jpg",
+            "twitter": "I used @Shazam to discover No More Tears (Enough Is Enough) [feat. Donna Summer] by Barbra Streisand.",
+            "html": "https://www.shazam.com/snippets/email-share/262766?lang=en-US&country=GB",
+            "avatar": "https://is5-ssl.mzstatic.com/image/thumb/Features115/v4/f6/29/90/f62990d3-2c03-91ff-90a8-13c2dfc409aa/mzl.aophguvm.jpg/800x800cc.jpg",
+            "snapchat": "https://www.shazam.com/partner/sc/track/262766"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "actions": [
+                {
+                    "name": "apple",
+                    "type": "applemusicplay",
+                    "id": "193944247"
+                },
+                {
+                    "name": "apple",
+                    "type": "uri",
+                    "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/46/ff/e2/46ffe217-0827-cd16-8bff-d399a5e658bb/mzaf_1907419622146999652.plus.aac.ep.m4a"
+                }
+            ],
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/gb/album/no-more-tears-enough-is-enough-feat-donna-summer/193943441?i=193944247&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/gb/album/no-more-tears-enough-is-enough-feat-donna-summer/193943441?i=193944247&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                },
+                {
+                    "caption": "BUY",
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "uri": "https://itunes.apple.com/gb/album/no-more-tears-enough-is-enough-feat-donna-summer/193943441?i=193944247&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "buy",
+                        "providername": "itunes"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "type": "buy",
+                    "listcaption": "Buy on iTunes",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "itunes"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:No%20More%20Tears%20%28Enough%20Is%20Enough%29%20%5Bfeat.%20Donna%20Summer%5D%20Barbra%20Streisand"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27No+More+Tears+%28Enough+Is+Enough%29+%5Bfeat.+Donna+Summer%5D%27%20artist%3A%27Barbra+Streisand%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": false,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [
+                    {
+                        "image": "https://is5-ssl.mzstatic.com/image/thumb/Features115/v4/f6/29/90/f62990d3-2c03-91ff-90a8-13c2dfc409aa/mzl.aophguvm.jpg/800x800cc.jpg",
+                        "caption": "Barbra Streisand"
+                    },
+                    {
+                        "image": "https://is2-ssl.mzstatic.com/image/thumb/Music124/v4/f6/65/80/f6658061-1327-c961-c857-9ea0d6f8d883/mzi.urkyagof.jpg/400x400cc.jpg",
+                        "caption": "No More Tears (Enough Is Enough) [feat. Donna Summer]"
+                    }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                    {
+                        "title": "Album",
+                        "text": "Duets"
+                    },
+                    {
+                        "title": "Label",
+                        "text": "NITRON concepts"
+                    },
+                    {
+                        "title": "Released",
+                        "text": "1979"
+                    }
+                ]
+            },
+            {
+                "type": "LYRICS",
+                "text": [
+                    "It's raining, it's pouring",
+                    "My love life is boring me to tears after all these years",
+                    "No sunshine, no moonlight, no stardust, no sign of romance",
+                    "We don't stand a chance",
+                    "",
+                    "I've always dreamed I'd find the perfect lover",
+                    "But he turned out to be like every other man",
+                    "Our love, our love",
+                    "",
+                    "Raining (raining)",
+                    "Pouring (pouring)",
+                    "There's nothing left for us here",
+                    "And we won't waste another tear",
+                    "Ah, ah, ah, yeah",
+                    "",
+                    "If you've had enough",
+                    "Don't put up with his stuff, don't you do it",
+                    "Now, if you've had your fill",
+                    "Get the check pay the bill, you can do it",
+                    "",
+                    "Tell him to just get out",
+                    "Nothing left to talk about",
+                    "Pack his raincoat show him out",
+                    "Just look him in the eye and simply shout",
+                    "",
+                    "Enough is enough is enough",
+                    "I can't go on, I can't go on, no more, no",
+                    "Enough is enough is enough",
+                    "I want him out, I want him out that door now",
+                    "",
+                    "I've always dreamed to find the perfect lover",
+                    "But he turned out to be like every other man",
+                    "Our love (I had no choice from the start)",
+                    "Our love, our love (I've gotta listen to my heart)",
+                    "Our love (tearing us apart)",
+                    "",
+                    "Enough is enough is enough",
+                    "I can't go on, I can't go on, no more, no",
+                    "Enough is enough is enough",
+                    "I want him out, I want him out that door now",
+                    "",
+                    "Goodbye mister,",
+                    "Goodbye, goodbye, mister",
+                    "Goodbye, sugar",
+                    "No more tears",
+                    "No more tears, no more tears",
+                    "",
+                    "Enough is enough is enough is enough is enough is enough",
+                    "I've had it, I've had it, you've had it, he's had it (enough is enough is enough)",
+                    "No more tears (enough is enough is enough is enough is enough is enough)",
+                    "Enough is enough is enough is enough is enough is enough",
+                    "Is enough!"
+                ],
+                "url": "https://cdn.shazam.com/lyrics/v1/en-US/GB/iphone/musixmatch/subtitles/15035141/282/1?token=0b38761ed52185a31a86dc38d2df3f23",
+                "footer": "Writer(s): Bruce Roberts, Paul Jabara\nLyrics powered by www.musixmatch.com",
+                "tabname": "Lyrics",
+                "beacondata": {
+                    "lyricsid": "26515694",
+                    "providername": "musixmatch",
+                    "commontrackid": "15035141"
+                }
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/262766/youtube/video?q=Barbra+Streisand+%22No+More+Tears+(Enough+Is+Enough)+%5Bfeat.+Donna+Summer%5D%22"
+            },
+            {
+                "type": "RELATED",
+                "url": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-262766?startFrom=0&pageSize=20&connected=",
+                "tabname": "Related"
+            }
+        ],
+        "url": "https://www.shazam.com/track/262766/no-more-tears-enough-is-enough-feat-donna-summer",
+        "artists": [
+            {
+                "id": "42",
+                "adamid": "249646"
+            }
+        ],
+        "isrc": "USSM10024751",
+        "genres": {
+            "primary": "Pop"
+        },
+        "urlparams": {
+            "{tracktitle}": "No+More+Tears+%28Enough+Is+Enough%29+%5Bfeat.+Donna+Summer%5D",
+            "{trackartist}": "Barbra+Streisand"
+        },
+        "myshazam": {
+            "apple": {
+                "actions": [
+                    {
+                        "name": "myshazam:apple",
+                        "type": "uri",
+                        "uri": "https://music.apple.com/gb/album/no-more-tears-enough-is-enough-feat-donna-summer/193943441?i=193944247&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                ]
+            }
+        },
+        "highlightsurls": {
+            "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/249646/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+        },
+        "relatedtracksurl": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-262766?startFrom=0&pageSize=20&connected=",
+        "albumadamid": "193943441"
+    },
+    "tagid": "607AE88D-5F54-4D51-999D-1FDAFB9BB631"
+}

@@ -1,0 +1,253 @@
+{
+    "matches": [
+        {
+            "id": "304936953",
+            "offset": 29.713203125,
+            "timeskew": -0.0042214394,
+            "frequencyskew": -0.0040192604
+        },
+        {
+            "id": "285192750",
+            "offset": 29.396742187,
+            "timeskew": -0.013116121,
+            "frequencyskew": -0.013917506
+        },
+        {
+            "id": "232375290",
+            "offset": 29.978345703,
+            "timeskew": 0.00013899803,
+            "frequencyskew": -0.00012886524
+        },
+        {
+            "id": "600823076",
+            "offset": 29.626435546,
+            "timeskew": -0.0018703341,
+            "frequencyskew": -0.0021724105
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691632398160,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "11121516",
+        "title": "The Hustle",
+        "subtitle": "Van McCoy & The Soul City Symphony",
+        "images": {
+            "background": "https://is4-ssl.mzstatic.com/image/thumb/Music114/v4/42/ba/61/42ba615d-67b7-c892-ab28-5a9c040f3450/06UMGIM74139.rgb.jpg/400x400cc.jpg",
+            "coverart": "https://is4-ssl.mzstatic.com/image/thumb/Music114/v4/42/ba/61/42ba615d-67b7-c892-ab28-5a9c040f3450/06UMGIM74139.rgb.jpg/400x400cc.jpg",
+            "coverarthq": "https://is4-ssl.mzstatic.com/image/thumb/Music114/v4/42/ba/61/42ba615d-67b7-c892-ab28-5a9c040f3450/06UMGIM74139.rgb.jpg/400x400cc.jpg",
+            "joecolor": "b:ffffffp:0b0909s:433024t:3c3a3aq:685950"
+        },
+        "share": {
+            "subject": "The Hustle - Van McCoy & The Soul City Symphony",
+            "text": "The Hustle by Van McCoy & The Soul City Symphony",
+            "href": "https://www.shazam.com/track/11121516/the-hustle",
+            "image": "https://is4-ssl.mzstatic.com/image/thumb/Music114/v4/42/ba/61/42ba615d-67b7-c892-ab28-5a9c040f3450/06UMGIM74139.rgb.jpg/400x400cc.jpg",
+            "twitter": "I used @Shazam to discover The Hustle by Van McCoy & The Soul City Symphony.",
+            "html": "https://www.shazam.com/snippets/email-share/11121516?lang=en-US&country=GB",
+            "snapchat": "https://www.shazam.com/partner/sc/track/11121516"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "actions": [
+                {
+                    "name": "apple",
+                    "type": "applemusicplay",
+                    "id": "1443089242"
+                },
+                {
+                    "name": "apple",
+                    "type": "uri",
+                    "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/ac/cb/cd/accbcd41-b45a-13f7-f2c4-20c522b8d9d5/mzaf_12583750195873308251.plus.aac.ep.m4a"
+                }
+            ],
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/gb/album/the-hustle/1443088722?i=1443089242&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/gb/album/the-hustle/1443088722?i=1443089242&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                },
+                {
+                    "caption": "BUY",
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "uri": "https://itunes.apple.com/gb/album/the-hustle/1443088722?i=1443089242&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "buy",
+                        "providername": "itunes"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "type": "buy",
+                    "listcaption": "Buy on iTunes",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "itunes"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:The%20Hustle%20Van%20McCoy%20%26%20The%20Soul%20City%20Symphony"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27The+Hustle%27%20artist%3A%27Van+McCoy++The+Soul+City+Symphony%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": false,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [
+                    {
+                        "image": "https://is4-ssl.mzstatic.com/image/thumb/Music114/v4/42/ba/61/42ba615d-67b7-c892-ab28-5a9c040f3450/06UMGIM74139.rgb.jpg/400x400cc.jpg",
+                        "caption": "The Hustle"
+                    }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                    {
+                        "title": "Album",
+                        "text": "Disco Nights"
+                    },
+                    {
+                        "title": "Label",
+                        "text": "Universal Music Group International"
+                    },
+                    {
+                        "title": "Released",
+                        "text": "1975"
+                    }
+                ]
+            },
+            {
+                "type": "LYRICS",
+                "text": [
+                    "Do it!",
+                    "Do it!",
+                    "Do it!",
+                    "",
+                    "Do the Hustle!",
+                    "Do the Hustle!",
+                    "",
+                    "Do the Hustle!",
+                    "Do the Hustle!",
+                    "",
+                    "Do the Hustle!",
+                    "Do it!",
+                    "Do the Hustle!",
+                    "Do the Hustle!",
+                    "",
+                    "Do the Hustle!",
+                    "Do the Hustle!",
+                    "",
+                    "Do the Hustle!",
+                    "",
+                    "Do the Hustle!"
+                ],
+                "url": "https://cdn.shazam.com/lyrics/v1/en-US/GB/iphone/musixmatch/subtitles/2512393/208/1?token=7997361cccb3f61a0e2b0e9414775405",
+                "footer": "Writer(s): Van Mccoy\nLyrics powered by www.musixmatch.com",
+                "tabname": "Lyrics",
+                "beacondata": {
+                    "lyricsid": "8108763",
+                    "providername": "musixmatch",
+                    "commontrackid": "2512393"
+                }
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/11121516/youtube/video?q=Van+McCoy+%26+The+Soul+City+Symphony+%22The+Hustle%22"
+            },
+            {
+                "type": "RELATED",
+                "url": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-11121516?startFrom=0&pageSize=20&connected=",
+                "tabname": "Related"
+            }
+        ],
+        "url": "https://www.shazam.com/track/11121516/the-hustle",
+        "artists": [
+            {
+                "id": "42",
+                "adamid": "17487998"
+            }
+        ],
+        "isrc": "GBF087500039",
+        "genres": {
+            "primary": "Pop"
+        },
+        "urlparams": {
+            "{tracktitle}": "The+Hustle",
+            "{trackartist}": "Van+McCoy+%26+The+Soul+City+Symphony"
+        },
+        "myshazam": {
+            "apple": {
+                "actions": [
+                    {
+                        "name": "myshazam:apple",
+                        "type": "uri",
+                        "uri": "https://music.apple.com/gb/album/the-hustle/1443088722?i=1443089242&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                ]
+            }
+        },
+        "highlightsurls": {
+            "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/17487998/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+        },
+        "relatedtracksurl": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-11121516?startFrom=0&pageSize=20&connected=",
+        "albumadamid": "1443088722"
+    },
+    "tagid": "ADF6AC0E-4F52-46E6-9BAC-7468FB0A253F"
+}

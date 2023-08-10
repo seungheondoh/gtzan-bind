@@ -1,0 +1,236 @@
+{
+    "matches": [
+        {
+            "id": "213383223",
+            "offset": 29.487189453,
+            "timeskew": -0.00060629845,
+            "frequencyskew": -0.0009661317
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691632575147,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "11249118",
+        "title": "Mary Had a Little Lamb",
+        "subtitle": "Stevie Ray Vaughan & Double Trouble",
+        "images": {
+            "background": "https://is4-ssl.mzstatic.com/image/thumb/Features115/v4/ff/5b/49/ff5b49b7-5d59-8fb3-a901-001d20f29f6e/mzl.bzbetibz.jpg/800x800cc.jpg",
+            "coverart": "https://is2-ssl.mzstatic.com/image/thumb/Music115/v4/27/50/02/27500228-f8e4-8c5c-bb1c-8bfbec68a5fb/886443827141.jpg/400x400cc.jpg",
+            "coverarthq": "https://is2-ssl.mzstatic.com/image/thumb/Music115/v4/27/50/02/27500228-f8e4-8c5c-bb1c-8bfbec68a5fb/886443827141.jpg/400x400cc.jpg",
+            "joecolor": "b:ccbfb6p:0c0b0ds:1d1c20t:322f2fq:403c3e"
+        },
+        "share": {
+            "subject": "Mary Had a Little Lamb - Stevie Ray Vaughan & Double Trouble",
+            "text": "Mary Had a Little Lamb by Stevie Ray Vaughan & Double Trouble",
+            "href": "https://www.shazam.com/track/11249118/mary-had-a-little-lamb",
+            "image": "https://is2-ssl.mzstatic.com/image/thumb/Music115/v4/27/50/02/27500228-f8e4-8c5c-bb1c-8bfbec68a5fb/886443827141.jpg/400x400cc.jpg",
+            "twitter": "I used @Shazam to discover Mary Had a Little Lamb by Stevie Ray Vaughan & Double Trouble.",
+            "html": "https://www.shazam.com/snippets/email-share/11249118?lang=en-US&country=GB",
+            "avatar": "https://is4-ssl.mzstatic.com/image/thumb/Features115/v4/ff/5b/49/ff5b49b7-5d59-8fb3-a901-001d20f29f6e/mzl.bzbetibz.jpg/800x800cc.jpg",
+            "snapchat": "https://www.shazam.com/partner/sc/track/11249118"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "actions": [
+                {
+                    "name": "apple",
+                    "type": "applemusicplay",
+                    "id": "930561342"
+                },
+                {
+                    "name": "apple",
+                    "type": "uri",
+                    "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/7f/a7/cf/7fa7cf9e-a5fc-3f52-cbd5-da881b379374/mzaf_5517724181276042956.plus.aac.ep.m4a"
+                }
+            ],
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/gb/album/mary-had-a-little-lamb/930561264?i=930561342&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/gb/album/mary-had-a-little-lamb/930561264?i=930561342&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                },
+                {
+                    "caption": "BUY",
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "uri": "https://itunes.apple.com/gb/album/mary-had-a-little-lamb/930561264?i=930561342&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "buy",
+                        "providername": "itunes"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "type": "buy",
+                    "listcaption": "Buy on iTunes",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "itunes"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:Mary%20Had%20a%20Little%20Lamb%20Stevie%20Ray%20Vaughan%20%26%20Double%20Trouble"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27Mary+Had+a+Little+Lamb%27%20artist%3A%27Stevie+Ray+Vaughan++Double+Trouble%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": false,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [
+                    {
+                        "image": "https://is4-ssl.mzstatic.com/image/thumb/Features115/v4/ff/5b/49/ff5b49b7-5d59-8fb3-a901-001d20f29f6e/mzl.bzbetibz.jpg/800x800cc.jpg",
+                        "caption": "Stevie Ray Vaughan & Double Trouble"
+                    },
+                    {
+                        "image": "https://is2-ssl.mzstatic.com/image/thumb/Music115/v4/27/50/02/27500228-f8e4-8c5c-bb1c-8bfbec68a5fb/886443827141.jpg/400x400cc.jpg",
+                        "caption": "Mary Had a Little Lamb"
+                    }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                    {
+                        "title": "Album",
+                        "text": "Texas Flood"
+                    },
+                    {
+                        "title": "Label",
+                        "text": "Epic/Legacy"
+                    },
+                    {
+                        "title": "Released",
+                        "text": "1983"
+                    }
+                ]
+            },
+            {
+                "type": "LYRICS",
+                "text": [
+                    "Mary had a little lamb",
+                    "It's fleece was black as coal, yeah",
+                    "Everywhere the child went",
+                    "That little lamb was sure to go, yeah",
+                    "",
+                    "He followed her to school one day",
+                    "And spoke the teachers cool",
+                    "What a time did they have",
+                    "That day at school",
+                    "Yeah",
+                    "",
+                    "Tisket, tasket baby",
+                    "A green and yellow basket",
+                    "I wrote a letter to my baby",
+                    "On my way I passed it",
+                    "",
+                    "Express myself"
+                ],
+                "url": "https://cdn.shazam.com/lyrics/v1/en-US/GB/iphone/musixmatch/subtitles/14857960/166/1?token=87e12d6177d586fdff22fcf836112c56",
+                "footer": "Writer(s): Buddy Guy\nLyrics powered by www.musixmatch.com",
+                "tabname": "Lyrics",
+                "beacondata": {
+                    "lyricsid": "24128617",
+                    "providername": "musixmatch",
+                    "commontrackid": "14857960"
+                }
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/11249118/youtube/video?q=Stevie+Ray+Vaughan+%26+Double+Trouble+%22Mary+Had+a+Little+Lamb%22"
+            },
+            {
+                "type": "RELATED",
+                "url": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-11249118?startFrom=0&pageSize=20&connected=",
+                "tabname": "Related"
+            }
+        ],
+        "url": "https://www.shazam.com/track/11249118/mary-had-a-little-lamb",
+        "artists": [
+            {
+                "id": "42",
+                "adamid": "601067"
+            }
+        ],
+        "isrc": "USSM18300423",
+        "genres": {
+            "primary": "Rock"
+        },
+        "urlparams": {
+            "{tracktitle}": "Mary+Had+a+Little+Lamb",
+            "{trackartist}": "Stevie+Ray+Vaughan+%26+Double+Trouble"
+        },
+        "myshazam": {
+            "apple": {
+                "actions": [
+                    {
+                        "name": "myshazam:apple",
+                        "type": "uri",
+                        "uri": "https://music.apple.com/gb/album/mary-had-a-little-lamb/930561264?i=930561342&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                ]
+            }
+        },
+        "highlightsurls": {
+            "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/601067/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+        },
+        "relatedtracksurl": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-11249118?startFrom=0&pageSize=20&connected=",
+        "albumadamid": "930561264"
+    },
+    "tagid": "A1A5A049-8F61-42C0-A4EA-808F4F45178A"
+}

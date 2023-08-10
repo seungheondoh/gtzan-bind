@@ -1,0 +1,307 @@
+{
+    "matches": [
+        {
+            "id": "227007146",
+            "offset": 29.810318359,
+            "timeskew": 3.9815903e-05,
+            "frequencyskew": 0.0
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691633771567,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "461952",
+        "title": "Twist of Cain",
+        "subtitle": "Danzig",
+        "images": {
+            "background": "https://is3-ssl.mzstatic.com/image/thumb/Features125/v4/a3/16/b6/a316b6d2-6986-04ba-b2f4-03062e0c9aa6/mza_2963112371602428656.png/800x800cc.jpg",
+            "coverart": "https://is3-ssl.mzstatic.com/image/thumb/Music125/v4/86/48/13/864813f7-b0dd-e2c2-a842-7e1cf133a18a/00602557176681.rgb.jpg/400x400cc.jpg",
+            "coverarthq": "https://is3-ssl.mzstatic.com/image/thumb/Music125/v4/86/48/13/864813f7-b0dd-e2c2-a842-7e1cf133a18a/00602557176681.rgb.jpg/400x400cc.jpg",
+            "joecolor": "b:000000p:ffffffs:c7c7c7t:cbcbcbq:9f9f9f"
+        },
+        "share": {
+            "subject": "Twist of Cain - Danzig",
+            "text": "Twist of Cain by Danzig",
+            "href": "https://www.shazam.com/track/461952/twist-of-cain",
+            "image": "https://is3-ssl.mzstatic.com/image/thumb/Music125/v4/86/48/13/864813f7-b0dd-e2c2-a842-7e1cf133a18a/00602557176681.rgb.jpg/400x400cc.jpg",
+            "twitter": "I used @Shazam to discover Twist of Cain by Danzig.",
+            "html": "https://www.shazam.com/snippets/email-share/461952?lang=en-US&country=GB",
+            "avatar": "https://is3-ssl.mzstatic.com/image/thumb/Features125/v4/a3/16/b6/a316b6d2-6986-04ba-b2f4-03062e0c9aa6/mza_2963112371602428656.png/800x800cc.jpg",
+            "snapchat": "https://www.shazam.com/partner/sc/track/461952"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "actions": [
+                {
+                    "name": "apple",
+                    "type": "applemusicplay",
+                    "id": "1440880563"
+                },
+                {
+                    "name": "apple",
+                    "type": "uri",
+                    "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/c3/a4/be/c3a4beeb-1610-768b-79d4-07aac8167797/mzaf_7132910427930341018.plus.aac.ep.m4a"
+                }
+            ],
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/gb/album/twist-of-cain/1440880562?i=1440880563&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/gb/album/twist-of-cain/1440880562?i=1440880563&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                },
+                {
+                    "caption": "BUY",
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "uri": "https://itunes.apple.com/gb/album/twist-of-cain/1440880562?i=1440880563&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "buy",
+                        "providername": "itunes"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "type": "buy",
+                    "listcaption": "Buy on iTunes",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "itunes"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:Twist%20of%20Cain%20Danzig"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27Twist+of+Cain%27%20artist%3A%27Danzig%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": true,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [
+                    {
+                        "image": "https://is3-ssl.mzstatic.com/image/thumb/Features125/v4/a3/16/b6/a316b6d2-6986-04ba-b2f4-03062e0c9aa6/mza_2963112371602428656.png/800x800cc.jpg",
+                        "caption": "Danzig"
+                    },
+                    {
+                        "image": "https://is3-ssl.mzstatic.com/image/thumb/Music125/v4/86/48/13/864813f7-b0dd-e2c2-a842-7e1cf133a18a/00602557176681.rgb.jpg/400x400cc.jpg",
+                        "caption": "Twist of Cain"
+                    }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                    {
+                        "title": "Album",
+                        "text": "Danzig"
+                    },
+                    {
+                        "title": "Label",
+                        "text": "American Recordings Catalog P&D"
+                    },
+                    {
+                        "title": "Released",
+                        "text": "1988"
+                    }
+                ]
+            },
+            {
+                "type": "LYRICS",
+                "text": [
+                    "Yea, yea, yea",
+                    "Ooh",
+                    "I can feel it move me",
+                    "Feel it shove me",
+                    "As I break the law",
+                    "Said yea",
+                    "I can feel it's jabbing",
+                    "Cuts the numbness then I",
+                    "I come alive yea",
+                    "",
+                    "Twist of Cain",
+                    "Yea drives my brain",
+                    "Yea twist of Cain",
+                    "Make me come alive",
+                    "'Cause it does",
+                    "",
+                    "Yea twist of Cain",
+                    "Yea drives my brain",
+                    "Yea twist of Cain",
+                    "Make me come alive",
+                    "",
+                    "Said yea",
+                    "I took it standing",
+                    "Broke commandments",
+                    "And he tumbled like a toy",
+                    "Blood",
+                    "Like a crimson highway",
+                    "Spreading out",
+                    "From his forehead to the ground",
+                    "",
+                    "Twist of Cain",
+                    "Yea drives my brain",
+                    "Yea twist of Cain",
+                    "Make me come alive",
+                    "'Cause it does",
+                    "",
+                    "Yea twist of Cain",
+                    "Yea drives my brain",
+                    "Yea twist of Cain",
+                    "Make me come alive",
+                    "Wo-oh, yea",
+                    "",
+                    "Wo-oh God above",
+                    "Feel a twist of Cain",
+                    "Inside a beating heart, well",
+                    "Wo-oh",
+                    "Wanna know",
+                    "Got a little twist of Cain",
+                    "From the God below, yea",
+                    "",
+                    "Yeah",
+                    "I know my breeding",
+                    "Know my father",
+                    "He was born of light",
+                    "Said yea",
+                    "Can't hardly stand it",
+                    "Cuts me down the middle",
+                    "Then I",
+                    "I come alive yea",
+                    "",
+                    "Twist of Cain",
+                    "Yea drives my brain",
+                    "Yea twist of Cain",
+                    "Make me come alive",
+                    "'Cause it does",
+                    "",
+                    "Yea twist of Cain",
+                    "Yea drives my brain",
+                    "Yea twist of Cain",
+                    "Make me come alive",
+                    "Come alive",
+                    "Wo-oh, yea",
+                    "",
+                    "Wo-oh",
+                    "God above",
+                    "Feel a twist of Cain",
+                    "Inside a beating heart, yea",
+                    "Wo-oh",
+                    "Wanna know",
+                    "Got a little twist of Cain",
+                    "From the God below",
+                    "",
+                    "Wo-oh, wo-oh",
+                    "Feel a twist of Cain",
+                    "Inside a beating heart",
+                    "Wo-oh, wo-oh",
+                    "Got a little twist of Cain",
+                    "From the God below, yea"
+                ],
+                "url": "https://cdn.shazam.com/lyrics/v1/en-US/GB/iphone/musixmatch/subtitles/1117066/257/1?token=60dee73966390cd36dde24470c0b5aed",
+                "footer": "Writer(s): Danzig\nLyrics powered by www.musixmatch.com",
+                "tabname": "Lyrics",
+                "beacondata": {
+                    "lyricsid": "26130646",
+                    "providername": "musixmatch",
+                    "commontrackid": "1117066"
+                }
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/461952/youtube/video?q=Danzig+%22Twist+of+Cain%22"
+            },
+            {
+                "type": "RELATED",
+                "url": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-461952?startFrom=0&pageSize=20&connected=",
+                "tabname": "Related"
+            }
+        ],
+        "url": "https://www.shazam.com/track/461952/twist-of-cain",
+        "artists": [
+            {
+                "id": "42",
+                "adamid": "236338"
+            }
+        ],
+        "isrc": "USSM18800164",
+        "genres": {
+            "primary": "Hard Rock"
+        },
+        "urlparams": {
+            "{tracktitle}": "Twist+of+Cain",
+            "{trackartist}": "Danzig"
+        },
+        "myshazam": {
+            "apple": {
+                "actions": [
+                    {
+                        "name": "myshazam:apple",
+                        "type": "uri",
+                        "uri": "https://music.apple.com/gb/album/twist-of-cain/1440880562?i=1440880563&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                ]
+            }
+        },
+        "highlightsurls": {
+            "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/236338/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+        },
+        "relatedtracksurl": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-461952?startFrom=0&pageSize=20&connected=",
+        "albumadamid": "1440880562"
+    },
+    "tagid": "1CA86A9F-FBA2-4321-BF7E-7877AECC822E"
+}

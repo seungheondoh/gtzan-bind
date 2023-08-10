@@ -1,0 +1,277 @@
+{
+    "matches": [
+        {
+            "id": "433396978",
+            "offset": 29.912060546,
+            "timeskew": -8.517504e-05,
+            "frequencyskew": -0.000120818615
+        },
+        {
+            "id": "333944385",
+            "offset": 29.707478515,
+            "timeskew": 6.7830086e-05,
+            "frequencyskew": -0.00080513954
+        },
+        {
+            "id": "503202041",
+            "offset": 29.90874414,
+            "timeskew": -0.0022833943,
+            "frequencyskew": -0.0020518303
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691633554861,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "5160989",
+        "title": "Moon Over Bourbon Street",
+        "subtitle": "Sting",
+        "images": {
+            "background": "https://is2-ssl.mzstatic.com/image/thumb/Music125/v4/1e/73/40/1e7340ed-21d8-43cd-de69-ff4e347d6544/pr_source.png/800x800cc.jpg",
+            "coverart": "https://is4-ssl.mzstatic.com/image/thumb/Music112/v4/57/df/38/57df38a8-3904-fd7e-1b2c-c14f55d0197e/22UM1IM21286.rgb.jpg/400x400cc.jpg",
+            "coverarthq": "https://is4-ssl.mzstatic.com/image/thumb/Music112/v4/57/df/38/57df38a8-3904-fd7e-1b2c-c14f55d0197e/22UM1IM21286.rgb.jpg/400x400cc.jpg",
+            "joecolor": "b:d7d8dap:000711s:2a2a2bt:2b3139q:4c4d4e"
+        },
+        "share": {
+            "subject": "Moon Over Bourbon Street - Sting",
+            "text": "Moon Over Bourbon Street by Sting",
+            "href": "https://www.shazam.com/track/5160989/moon-over-bourbon-street",
+            "image": "https://is4-ssl.mzstatic.com/image/thumb/Music112/v4/57/df/38/57df38a8-3904-fd7e-1b2c-c14f55d0197e/22UM1IM21286.rgb.jpg/400x400cc.jpg",
+            "twitter": "I used @Shazam to discover Moon Over Bourbon Street by Sting.",
+            "html": "https://www.shazam.com/snippets/email-share/5160989?lang=en-US&country=GB",
+            "avatar": "https://is2-ssl.mzstatic.com/image/thumb/Music125/v4/1e/73/40/1e7340ed-21d8-43cd-de69-ff4e347d6544/pr_source.png/800x800cc.jpg",
+            "snapchat": "https://www.shazam.com/partner/sc/track/5160989"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "actions": [
+                {
+                    "name": "apple",
+                    "type": "applemusicplay",
+                    "id": "1650884750"
+                },
+                {
+                    "name": "apple",
+                    "type": "uri",
+                    "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/54/da/4e/54da4e3b-2936-7fd8-b684-c1f60061bcf5/mzaf_16051606018547507072.plus.aac.ep.m4a"
+                }
+            ],
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/gb/album/moon-over-bourbon-street/1650884598?i=1650884750&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/gb/album/moon-over-bourbon-street/1650884598?i=1650884750&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                },
+                {
+                    "caption": "BUY",
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "uri": "https://itunes.apple.com/gb/album/moon-over-bourbon-street/1650884598?i=1650884750&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "buy",
+                        "providername": "itunes"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "type": "buy",
+                    "listcaption": "Buy on iTunes",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "itunes"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:Moon%20Over%20Bourbon%20Street%20Sting"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27Moon+Over+Bourbon+Street%27%20artist%3A%27Sting%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": false,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [
+                    {
+                        "image": "https://is2-ssl.mzstatic.com/image/thumb/Music125/v4/1e/73/40/1e7340ed-21d8-43cd-de69-ff4e347d6544/pr_source.png/800x800cc.jpg",
+                        "caption": "Sting"
+                    },
+                    {
+                        "image": "https://is4-ssl.mzstatic.com/image/thumb/Music112/v4/57/df/38/57df38a8-3904-fd7e-1b2c-c14f55d0197e/22UM1IM21286.rgb.jpg/400x400cc.jpg",
+                        "caption": "Moon Over Bourbon Street"
+                    }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                    {
+                        "title": "Album",
+                        "text": "The Dream of the Blue Turtles"
+                    },
+                    {
+                        "title": "Label",
+                        "text": "A&M"
+                    },
+                    {
+                        "title": "Released",
+                        "text": "1985"
+                    }
+                ]
+            },
+            {
+                "type": "LYRICS",
+                "text": [
+                    "There's a moon Over Bourbon Street tonight",
+                    "I see faces as they pass beneath the pale lamplight",
+                    "I've no choice but to follow that call",
+                    "The bright lights, the people and the moon and all",
+                    "",
+                    "I pray everyday to be strong",
+                    "For I know what I do must be wrong",
+                    "",
+                    "Oh, you'll never see my shade",
+                    "Or hear the sound of my feet",
+                    "While there's a moon Over Bourbon Street",
+                    "",
+                    "It was many years ago",
+                    "That I became what I am",
+                    "I was trapped in this life",
+                    "Like an innocent lamb",
+                    "Now I can never show my face at noon",
+                    "And you'll only see me walking",
+                    "By the light of the moon",
+                    "",
+                    "The brim of my hat",
+                    "Hides the eye of a beast",
+                    "I've the face of a sinner",
+                    "But the hands of a priest",
+                    "",
+                    "Oh, you'll never see my shade",
+                    "Or hear the sound of my feet",
+                    "While there's a moon over Bourbon Street",
+                    "",
+                    "She walks everyday",
+                    "Through the streets of New Orleans",
+                    "She's innocent and young",
+                    "From a family of means",
+                    "I have stood many times",
+                    "Outside her window at night",
+                    "To struggle with my instinct",
+                    "In the pale moonlight",
+                    "",
+                    "How could I be this way",
+                    "When I pray to God above?",
+                    "I must love what I destroy",
+                    "And destroy the thing I love",
+                    "",
+                    "Oh, you'll never see my shade",
+                    "Or hear the sound of my feet",
+                    "While there's a moon over Bourbon Street"
+                ],
+                "url": "https://cdn.shazam.com/lyrics/v1/en-US/GB/iphone/musixmatch/subtitles/145498/239/1?token=2283aaa5b5e4c588b55d99e02016d723",
+                "footer": "Writer(s): Gordon Sumner\nLyrics powered by www.musixmatch.com",
+                "tabname": "Lyrics",
+                "beacondata": {
+                    "lyricsid": "26945125",
+                    "providername": "musixmatch",
+                    "commontrackid": "145498"
+                }
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/5160989/youtube/video?q=Sting+%22Moon+Over+Bourbon+Street%22"
+            },
+            {
+                "type": "RELATED",
+                "url": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-5160989?startFrom=0&pageSize=20&connected=",
+                "tabname": "Related"
+            }
+        ],
+        "url": "https://www.shazam.com/track/5160989/moon-over-bourbon-street",
+        "artists": [
+            {
+                "id": "42",
+                "adamid": "94804"
+            }
+        ],
+        "isrc": "USAM18500050",
+        "genres": {
+            "primary": "Rock"
+        },
+        "urlparams": {
+            "{tracktitle}": "Moon+Over+Bourbon+Street",
+            "{trackartist}": "Sting"
+        },
+        "myshazam": {
+            "apple": {
+                "actions": [
+                    {
+                        "name": "myshazam:apple",
+                        "type": "uri",
+                        "uri": "https://music.apple.com/gb/album/moon-over-bourbon-street/1650884598?i=1650884750&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                ]
+            }
+        },
+        "highlightsurls": {
+            "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/94804/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+        },
+        "relatedtracksurl": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-5160989?startFrom=0&pageSize=20&connected=",
+        "albumadamid": "1650884598"
+    },
+    "tagid": "613048AA-1AC3-4DD1-817E-98B7C7A75C6B"
+}

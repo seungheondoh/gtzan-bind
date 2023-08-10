@@ -1,0 +1,212 @@
+{
+    "matches": [
+        {
+            "id": "312948501",
+            "offset": 30.249757812,
+            "timeskew": -6.914139e-06,
+            "frequencyskew": 0.0
+        },
+        {
+            "id": "277826260",
+            "offset": 30.246691406,
+            "timeskew": 0.0003130436,
+            "frequencyskew": -0.0003221631
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691633032500,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "70557447",
+        "title": "Overture Candide (Live)",
+        "subtitle": "Los Angeles Philharmonic & Leonard Bernstein",
+        "images": {
+            "background": "https://is2-ssl.mzstatic.com/image/thumb/Features125/v4/b0/e3/20/b0e32061-0a62-8f86-9909-3786f10ab0dd/mzl.yzcrcefs.jpg/800x800cc.jpg",
+            "coverart": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/49/2d/19/492d1970-c2e0-220f-7a1f-552b303bf62b/00028947960614.rgb.jpg/400x400cc.jpg",
+            "coverarthq": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/49/2d/19/492d1970-c2e0-220f-7a1f-552b303bf62b/00028947960614.rgb.jpg/400x400cc.jpg",
+            "joecolor": "b:dfe4e7p:100d0ds:111c42t:393839q:3a4463"
+        },
+        "share": {
+            "subject": "Overture Candide (Live) - Los Angeles Philharmonic & Leonard Bernstein",
+            "text": "Overture Candide (Live) by Los Angeles Philharmonic & Leonard Bernstein",
+            "href": "https://www.shazam.com/track/70557447/overture-candide-live",
+            "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/49/2d/19/492d1970-c2e0-220f-7a1f-552b303bf62b/00028947960614.rgb.jpg/400x400cc.jpg",
+            "twitter": "I used @Shazam to discover Overture Candide (Live) by Los Angeles Philharmonic & Leonard Bernstein.",
+            "html": "https://www.shazam.com/snippets/email-share/70557447?lang=en-US&country=GB",
+            "avatar": "https://is2-ssl.mzstatic.com/image/thumb/Features125/v4/b0/e3/20/b0e32061-0a62-8f86-9909-3786f10ab0dd/mzl.yzcrcefs.jpg/800x800cc.jpg",
+            "snapchat": "https://www.shazam.com/partner/sc/track/70557447"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "actions": [
+                {
+                    "name": "apple",
+                    "type": "applemusicplay",
+                    "id": "1452359892"
+                },
+                {
+                    "name": "apple",
+                    "type": "uri",
+                    "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/1b/c8/4b/1bc84ba8-cc71-58dc-992d-2d96e7c9afb9/mzaf_10598780831573932210.plus.aac.ep.m4a"
+                }
+            ],
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/gb/album/overture-candide-live/1452359389?i=1452359892&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/gb/album/overture-candide-live/1452359389?i=1452359892&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                },
+                {
+                    "caption": "BUY",
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "uri": "https://itunes.apple.com/gb/album/overture-candide-live/1452359389?i=1452359892&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "buy",
+                        "providername": "itunes"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "type": "buy",
+                    "listcaption": "Buy on iTunes",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "itunes"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:Overture%20Candide%20%28Live%29%20Los%20Angeles%20Philharmonic"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27Overture+Candide+%28Live%29%27%20artist%3A%27Los+Angeles+Philharmonic++Leonard+Bernstein%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": false,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [
+                    {
+                        "image": "https://is2-ssl.mzstatic.com/image/thumb/Features125/v4/b0/e3/20/b0e32061-0a62-8f86-9909-3786f10ab0dd/mzl.yzcrcefs.jpg/800x800cc.jpg",
+                        "caption": "Los Angeles Philharmonic"
+                    },
+                    {
+                        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/49/2d/19/492d1970-c2e0-220f-7a1f-552b303bf62b/00028947960614.rgb.jpg/400x400cc.jpg",
+                        "caption": "Overture Candide (Live)"
+                    }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                    {
+                        "title": "Album",
+                        "text": "Copland: Appalachian Spring / W. H. Schuman: American Festival Overture / Barber: Adagio For Strings, Op. 11 / Bernstein: Overture Candide (Live)"
+                    },
+                    {
+                        "title": "Label",
+                        "text": "Deutsche Grammophon (DG)"
+                    },
+                    {
+                        "title": "Released",
+                        "text": "1983"
+                    }
+                ]
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/70557447/youtube/video?q=Los+Angeles+Philharmonic+%26+Leonard+Bernstein+%22Overture+Candide+(Live)%22"
+            },
+            {
+                "type": "RELATED",
+                "url": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-70557447?startFrom=0&pageSize=20&connected=",
+                "tabname": "Related"
+            }
+        ],
+        "url": "https://www.shazam.com/track/70557447/overture-candide-live",
+        "artists": [
+            {
+                "id": "42",
+                "adamid": "4330471"
+            }
+        ],
+        "isrc": "DEF058202570",
+        "genres": {
+            "primary": "Classical"
+        },
+        "urlparams": {
+            "{tracktitle}": "Overture+Candide+%28Live%29",
+            "{trackartist}": "Los+Angeles+Philharmonic+%26+Leonard+Bernstein"
+        },
+        "myshazam": {
+            "apple": {
+                "actions": [
+                    {
+                        "name": "myshazam:apple",
+                        "type": "uri",
+                        "uri": "https://music.apple.com/gb/album/overture-candide-live/1452359389?i=1452359892&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                ]
+            }
+        },
+        "highlightsurls": {
+            "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/4330471/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+        },
+        "relatedtracksurl": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-70557447?startFrom=0&pageSize=20&connected=",
+        "albumadamid": "1452359389"
+    },
+    "tagid": "8E5F60C1-B3B2-462C-A7DF-ADDE851856B8"
+}

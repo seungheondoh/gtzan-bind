@@ -1,0 +1,282 @@
+{
+    "matches": [
+        {
+            "id": "302164",
+            "offset": 30.148037109,
+            "timeskew": 0.003988743,
+            "frequencyskew": 0.0048041344
+        },
+        {
+            "id": "212431862",
+            "offset": 29.968472656000003,
+            "timeskew": 0.0013841391,
+            "frequencyskew": 0.0011686087
+        },
+        {
+            "id": "569557959",
+            "offset": 29.957535156000002,
+            "timeskew": 0.004620075,
+            "frequencyskew": 0.004642248
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691633586713,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "302164",
+        "title": "Too Old To Rock 'N' Roll: Too Young To Die!",
+        "subtitle": "Jethro Tull",
+        "images": {
+            "background": "https://is1-ssl.mzstatic.com/image/thumb/Features125/v4/6c/af/2b/6caf2b97-f2d3-14a9-431b-e1579e254c81/mzl.yziwwmnf.jpg/800x800cc.jpg",
+            "coverart": "https://is3-ssl.mzstatic.com/image/thumb/Music6/v4/54/e9/a4/54e9a434-4c25-e711-176c-6edb9a26e31e/825646035502.jpg/400x400cc.jpg",
+            "coverarthq": "https://is3-ssl.mzstatic.com/image/thumb/Music6/v4/54/e9/a4/54e9a434-4c25-e711-176c-6edb9a26e31e/825646035502.jpg/400x400cc.jpg",
+            "joecolor": "b:fbc86bp:010912s:191c1bt:332f24q:463e2b"
+        },
+        "share": {
+            "subject": "Too Old To Rock 'N' Roll: Too Young To Die! - Jethro Tull",
+            "text": "Too Old To Rock 'N' Roll: Too Young To Die! by Jethro Tull",
+            "href": "https://www.shazam.com/track/302164/too-old-to-rock-n-roll-too-young-to-die",
+            "image": "https://is3-ssl.mzstatic.com/image/thumb/Music6/v4/54/e9/a4/54e9a434-4c25-e711-176c-6edb9a26e31e/825646035502.jpg/400x400cc.jpg",
+            "twitter": "I used @Shazam to discover Too Old To Rock 'N' Roll: Too Young To Die! by Jethro Tull.",
+            "html": "https://www.shazam.com/snippets/email-share/302164?lang=en-US&country=GB",
+            "avatar": "https://is1-ssl.mzstatic.com/image/thumb/Features125/v4/6c/af/2b/6caf2b97-f2d3-14a9-431b-e1579e254c81/mzl.yziwwmnf.jpg/800x800cc.jpg",
+            "snapchat": "https://www.shazam.com/partner/sc/track/302164"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "actions": [
+                {
+                    "name": "apple",
+                    "type": "applemusicplay",
+                    "id": "1045026109"
+                },
+                {
+                    "name": "apple",
+                    "type": "uri",
+                    "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/7c/07/60/7c07604c-5574-8d16-6b75-f6fc1bdc9e3d/mzaf_3463206686994391131.plus.aac.ep.m4a"
+                }
+            ],
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/gb/album/too-old-to-rock-n-roll-too-young-to-die/1045025618?i=1045026109&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/gb/album/too-old-to-rock-n-roll-too-young-to-die/1045025618?i=1045026109&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                },
+                {
+                    "caption": "BUY",
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "uri": "https://itunes.apple.com/gb/album/too-old-to-rock-n-roll-too-young-to-die/1045025618?i=1045026109&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "buy",
+                        "providername": "itunes"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "type": "buy",
+                    "listcaption": "Buy on iTunes",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "itunes"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:Too%20Old%20To%20Rock%20%27N%27%20Roll%3A%20Too%20Young%20To%20Die%21%20Jethro%20Tull"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27Too+Old+To+Rock+%5C%27N%5C%27+Roll%3A+Too+Young+To+Die%21%27%20artist%3A%27Jethro+Tull%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": false,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [
+                    {
+                        "image": "https://is1-ssl.mzstatic.com/image/thumb/Features125/v4/6c/af/2b/6caf2b97-f2d3-14a9-431b-e1579e254c81/mzl.yziwwmnf.jpg/800x800cc.jpg",
+                        "caption": "Jethro Tull"
+                    },
+                    {
+                        "image": "https://is3-ssl.mzstatic.com/image/thumb/Music6/v4/54/e9/a4/54e9a434-4c25-e711-176c-6edb9a26e31e/825646035502.jpg/400x400cc.jpg",
+                        "caption": "Too Old To Rock 'N' Roll: Too Young To Die!"
+                    }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                    {
+                        "title": "Album",
+                        "text": "Too Old to Rock 'N' Roll: Too Young to Die! (40th Anniversary TV Special Edition) [2015 Steven Wilson Remix]"
+                    },
+                    {
+                        "title": "Label",
+                        "text": "Parlophone UK"
+                    },
+                    {
+                        "title": "Released",
+                        "text": "1976"
+                    }
+                ]
+            },
+            {
+                "type": "LYRICS",
+                "text": [
+                    "The old rocker wore his hair too long",
+                    "Wore his trouser cuffs too tight",
+                    "Unfashionable to the end",
+                    "Drank his ale too light",
+                    "Death's head belts buckle",
+                    "Yesterday's dreams",
+                    "The transport caf' prophet of doom",
+                    "Ringing no change in his double-sewn seams",
+                    "In his post-war-babe gloom",
+                    "",
+                    "Now he's too old to rock 'n' roll",
+                    "But he's too young to die",
+                    "Yes, he's too old to rock 'n' roll",
+                    "But he's too young to die",
+                    "",
+                    "He once owned a Harley Davidson",
+                    "And a Triumph Bonneville",
+                    "Counted his friends in burned-out spark plugs",
+                    "And prays that he always will",
+                    "But he's the last of the blue blood greasers boys",
+                    "And all of his mates are doing time",
+                    "Married with three kids up by the ring road",
+                    "Sold their souls straight down the line",
+                    "And some of them own little sports cars",
+                    "And meet at the tennis club do's",
+                    "For drinks on a Sunday, work on Monday",
+                    "They've thrown away their blue suede shoes",
+                    "",
+                    "Now they're too old to rock 'n' roll",
+                    "And they're too young to die",
+                    "Yes, they're too old to rock 'n' roll",
+                    "And they're too young to die",
+                    "",
+                    "So the old rocker gets out his bike",
+                    "To make a ton before he takes his leave",
+                    "Up on the A1 by Scotch Corner",
+                    "Just like it used to be",
+                    "And as he flies, tears in his eyes",
+                    "His wind-whipped words echo the final take",
+                    "And he hits the trunk road doing around a 120",
+                    "With no room left to brake",
+                    "",
+                    "And he was too old to rock 'n' roll",
+                    "But he was too young to die",
+                    "He was too old to rock 'n' roll",
+                    "And he was too young to die",
+                    "",
+                    "No, you're never too old to rock 'n' roll",
+                    "If you're too young to die",
+                    "No, you're never too old to rock 'n' roll",
+                    "But he was too young to die"
+                ],
+                "url": "https://cdn.shazam.com/lyrics/v1/en-US/GB/iphone/musixmatch/subtitles/313572/343/1?token=1a7d28a5a7cea68100ee16aeb27bdd57",
+                "footer": "Writer(s): Scott Anderson Ian\nLyrics powered by www.musixmatch.com",
+                "tabname": "Lyrics",
+                "beacondata": {
+                    "lyricsid": "17729820",
+                    "providername": "musixmatch",
+                    "commontrackid": "313572"
+                }
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/302164/youtube/video?q=Jethro+Tull+%22Too+Old+To+Rock+'N'+Roll:+Too+Young+To+Die!%22"
+            },
+            {
+                "type": "RELATED",
+                "url": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-302164?startFrom=0&pageSize=20&connected=",
+                "tabname": "Related"
+            }
+        ],
+        "url": "https://www.shazam.com/track/302164/too-old-to-rock-n-roll-too-young-to-die",
+        "artists": [
+            {
+                "id": "42",
+                "adamid": "44596725"
+            }
+        ],
+        "isrc": "GBAYK1500323",
+        "genres": {
+            "primary": "Pop"
+        },
+        "urlparams": {
+            "{tracktitle}": "Too+Old+To+Rock+%27N%27+Roll%3A+Too+Young+To+Die%21",
+            "{trackartist}": "Jethro+Tull"
+        },
+        "myshazam": {
+            "apple": {
+                "actions": [
+                    {
+                        "name": "myshazam:apple",
+                        "type": "uri",
+                        "uri": "https://music.apple.com/gb/album/too-old-to-rock-n-roll-too-young-to-die/1045025618?i=1045026109&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                ]
+            }
+        },
+        "highlightsurls": {
+            "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/44596725/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+        },
+        "relatedtracksurl": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-302164?startFrom=0&pageSize=20&connected=",
+        "albumadamid": "1045025618"
+    },
+    "tagid": "1C0029DF-3D2B-47BE-BF5C-C664093F6FF0"
+}

@@ -1,0 +1,212 @@
+{
+    "matches": [
+        {
+            "id": "261731339",
+            "offset": 29.79728125,
+            "timeskew": -0.00010126829,
+            "frequencyskew": 0.0
+        },
+        {
+            "id": "297589660",
+            "offset": 189.851640625,
+            "timeskew": -0.003542006,
+            "frequencyskew": -0.0040593743
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691632279444,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "67666683",
+        "title": "Freddie Freeloader",
+        "subtitle": "Miles Davis",
+        "images": {
+            "background": "https://is4-ssl.mzstatic.com/image/thumb/Features115/v4/9c/c9/65/9cc965d9-b791-24a2-0493-65a191553f1f/mza_3572313147562590818.png/800x800cc.jpg",
+            "coverart": "https://is5-ssl.mzstatic.com/image/thumb/Music126/v4/ae/0f/e4/ae0fe45e-0cbe-8694-1f08-cecca9b4ed3f/190295012816.jpg/400x400cc.jpg",
+            "coverarthq": "https://is5-ssl.mzstatic.com/image/thumb/Music126/v4/ae/0f/e4/ae0fe45e-0cbe-8694-1f08-cecca9b4ed3f/190295012816.jpg/400x400cc.jpg",
+            "joecolor": "b:291c26p:f1b017s:248ef8t:c9921aq:2577ce"
+        },
+        "share": {
+            "subject": "Freddie Freeloader - Miles Davis",
+            "text": "Freddie Freeloader by Miles Davis",
+            "href": "https://www.shazam.com/track/67666683/freddie-freeloader",
+            "image": "https://is5-ssl.mzstatic.com/image/thumb/Music126/v4/ae/0f/e4/ae0fe45e-0cbe-8694-1f08-cecca9b4ed3f/190295012816.jpg/400x400cc.jpg",
+            "twitter": "I used @Shazam to discover Freddie Freeloader by Miles Davis.",
+            "html": "https://www.shazam.com/snippets/email-share/67666683?lang=en-US&country=GB",
+            "avatar": "https://is4-ssl.mzstatic.com/image/thumb/Features115/v4/9c/c9/65/9cc965d9-b791-24a2-0493-65a191553f1f/mza_3572313147562590818.png/800x800cc.jpg",
+            "snapchat": "https://www.shazam.com/partner/sc/track/67666683"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "actions": [
+                {
+                    "name": "apple",
+                    "type": "applemusicplay",
+                    "id": "1607161712"
+                },
+                {
+                    "name": "apple",
+                    "type": "uri",
+                    "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/fa/1e/24/fa1e24f3-8d88-fdc2-3caa-bfbfbe5160b2/mzaf_17528524010552746882.plus.aac.ep.m4a"
+                }
+            ],
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/gb/album/freddie-freeloader/1607161687?i=1607161712&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/gb/album/freddie-freeloader/1607161687?i=1607161712&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                },
+                {
+                    "caption": "BUY",
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "uri": "https://itunes.apple.com/gb/album/freddie-freeloader/1607161687?i=1607161712&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "buy",
+                        "providername": "itunes"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "type": "buy",
+                    "listcaption": "Buy on iTunes",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "itunes"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:Freddie%20Freeloader%20Miles%20Davis"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27Freddie+Freeloader%27%20artist%3A%27Miles+Davis%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": false,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [
+                    {
+                        "image": "https://is4-ssl.mzstatic.com/image/thumb/Features115/v4/9c/c9/65/9cc965d9-b791-24a2-0493-65a191553f1f/mza_3572313147562590818.png/800x800cc.jpg",
+                        "caption": "Miles Davis"
+                    },
+                    {
+                        "image": "https://is5-ssl.mzstatic.com/image/thumb/Music126/v4/ae/0f/e4/ae0fe45e-0cbe-8694-1f08-cecca9b4ed3f/190295012816.jpg/400x400cc.jpg",
+                        "caption": "Freddie Freeloader"
+                    }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                    {
+                        "title": "Album",
+                        "text": "Miles in the Movies"
+                    },
+                    {
+                        "title": "Label",
+                        "text": "Giant Steps"
+                    },
+                    {
+                        "title": "Released",
+                        "text": "1957"
+                    }
+                ]
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/67666683/youtube/video?q=Miles+Davis+%22Freddie+Freeloader%22"
+            },
+            {
+                "type": "RELATED",
+                "url": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-67666683?startFrom=0&pageSize=20&connected=",
+                "tabname": "Related"
+            }
+        ],
+        "url": "https://www.shazam.com/track/67666683/freddie-freeloader",
+        "artists": [
+            {
+                "id": "42",
+                "adamid": "44984"
+            }
+        ],
+        "isrc": "GBBLY1003930",
+        "genres": {
+            "primary": "Jazz"
+        },
+        "urlparams": {
+            "{tracktitle}": "Freddie+Freeloader",
+            "{trackartist}": "Miles+Davis"
+        },
+        "myshazam": {
+            "apple": {
+                "actions": [
+                    {
+                        "name": "myshazam:apple",
+                        "type": "uri",
+                        "uri": "https://music.apple.com/gb/album/freddie-freeloader/1607161687?i=1607161712&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                ]
+            }
+        },
+        "highlightsurls": {
+            "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/44984/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+        },
+        "relatedtracksurl": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-67666683?startFrom=0&pageSize=20&connected=",
+        "albumadamid": "1607161687"
+    },
+    "tagid": "8BF7D793-F8D8-42A3-B69A-8D50BE384AFB"
+}

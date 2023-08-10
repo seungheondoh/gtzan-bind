@@ -1,0 +1,304 @@
+{
+    "matches": [
+        {
+            "id": "218138537",
+            "offset": 29.899705078,
+            "timeskew": 7.581711e-05,
+            "frequencyskew": -0.00016111135
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691632768846,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "332757",
+        "title": "Emotions",
+        "subtitle": "Mariah Carey",
+        "images": {
+            "background": "https://is4-ssl.mzstatic.com/image/thumb/AMCArtistImages113/v4/3d/33/fb/3d33fb6f-ead7-4886-3624-e58b2dc0478d/18dd4e00-f13f-4bd2-99ef-4a52a114f92f_file_cropped.png/800x800cc.jpg",
+            "coverart": "https://is4-ssl.mzstatic.com/image/thumb/Features124/v4/b9/66/82/b96682c2-4c2a-d01c-b849-68cb44511209/dj.soxgewfo.jpg/400x400cc.jpg",
+            "coverarthq": "https://is4-ssl.mzstatic.com/image/thumb/Features124/v4/b9/66/82/b96682c2-4c2a-d01c-b849-68cb44511209/dj.soxgewfo.jpg/400x400cc.jpg",
+            "joecolor": "b:080607p:f6d3bfs:dfa07at:c6aa9aq:b48163"
+        },
+        "share": {
+            "subject": "Emotions - Mariah Carey",
+            "text": "Emotions by Mariah Carey",
+            "href": "https://www.shazam.com/track/332757/emotions",
+            "image": "https://is4-ssl.mzstatic.com/image/thumb/Features124/v4/b9/66/82/b96682c2-4c2a-d01c-b849-68cb44511209/dj.soxgewfo.jpg/400x400cc.jpg",
+            "twitter": "I used @Shazam to discover Emotions by Mariah Carey.",
+            "html": "https://www.shazam.com/snippets/email-share/332757?lang=en-US&country=GB",
+            "avatar": "https://is4-ssl.mzstatic.com/image/thumb/AMCArtistImages113/v4/3d/33/fb/3d33fb6f-ead7-4886-3624-e58b2dc0478d/18dd4e00-f13f-4bd2-99ef-4a52a114f92f_file_cropped.png/800x800cc.jpg",
+            "snapchat": "https://www.shazam.com/partner/sc/track/332757"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "actions": [
+                {
+                    "name": "apple",
+                    "type": "applemusicplay",
+                    "id": "193524820"
+                },
+                {
+                    "name": "apple",
+                    "type": "uri",
+                    "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/10/9d/22/109d22c0-b61d-b736-0546-15248cd74fc9/mzaf_8011056000626225946.plus.aac.ep.m4a"
+                }
+            ],
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/gb/album/emotions/193524777?i=193524820&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/gb/album/emotions/193524777?i=193524820&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                },
+                {
+                    "caption": "BUY",
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "uri": "https://itunes.apple.com/gb/album/emotions/193524777?i=193524820&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "buy",
+                        "providername": "itunes"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "type": "buy",
+                    "listcaption": "Buy on iTunes",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "itunes"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:Emotions%20Mariah%20Carey"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27Emotions%27%20artist%3A%27Mariah+Carey%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": false,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [
+                    {
+                        "image": "https://is4-ssl.mzstatic.com/image/thumb/AMCArtistImages113/v4/3d/33/fb/3d33fb6f-ead7-4886-3624-e58b2dc0478d/18dd4e00-f13f-4bd2-99ef-4a52a114f92f_file_cropped.png/800x800cc.jpg",
+                        "caption": "Mariah Carey"
+                    },
+                    {
+                        "image": "https://is4-ssl.mzstatic.com/image/thumb/Features124/v4/b9/66/82/b96682c2-4c2a-d01c-b849-68cb44511209/dj.soxgewfo.jpg/400x400cc.jpg",
+                        "caption": "Emotions"
+                    }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                    {
+                        "title": "Album",
+                        "text": "Emotions"
+                    },
+                    {
+                        "title": "Label",
+                        "text": "Columbia"
+                    },
+                    {
+                        "title": "Released",
+                        "text": "1991"
+                    }
+                ]
+            },
+            {
+                "type": "LYRICS",
+                "text": [
+                    "Mmm",
+                    "",
+                    "Yeah",
+                    "Ooooh",
+                    "",
+                    "You've got me feeling emotions",
+                    "Deeper than I've ever dreamed of",
+                    "You've got me feeling emotions",
+                    "Higher than the heavens above",
+                    "",
+                    "I feel good",
+                    "I feel nice",
+                    "I've never felt so",
+                    "Satisfied",
+                    "",
+                    "I'm in love",
+                    "I'm alive",
+                    "Intoxicated",
+                    "Flying high",
+                    "",
+                    "It feels like a dream",
+                    "When you touch me tenderly",
+                    "I don't know if it's real",
+                    "But I like the way I feel",
+                    "Inside",
+                    "",
+                    "You've got me feeling emotions",
+                    "Deeper than I've ever dreamed of",
+                    "You've got me feeling emotions",
+                    "Higher than the heavens above",
+                    "",
+                    "In the morning",
+                    "When I rise",
+                    "You are the first thing",
+                    "On my mind",
+                    "",
+                    "And in the middle",
+                    "Of the night",
+                    "I feel your heartbeat",
+                    "Next to mine",
+                    "",
+                    "It feels like a dream",
+                    "When you love me tenderly",
+                    "I don't know if you're for real",
+                    "But I like the way I feel",
+                    "Inside",
+                    "",
+                    "You've got me feeling emotions",
+                    "Deeper than I've ever dreamed of",
+                    "You've got me feeling emotions",
+                    "Higher than the heavens above",
+                    "",
+                    "You've got me feeling emotions",
+                    "",
+                    "Deeper than I've ever dreamed of",
+                    "Oh baby, you've got me feeling emotions",
+                    "Higher than the heavens above",
+                    "",
+                    "You know the way to make me lose control",
+                    "When you're looking into my eyes",
+                    "You make me feel so",
+                    "High",
+                    "",
+                    "Oh, oh baby",
+                    "",
+                    "Alright, alright",
+                    "Ooh, ooh",
+                    "Hey, hey",
+                    "Oh-oh-oh-oh",
+                    "",
+                    "You've got me feeling emotions",
+                    "Deeper than I've ever dreamed of",
+                    "You've got me feeling emotions",
+                    "Higher than the heavens above",
+                    "",
+                    "Oh yeah (higher, emotions)",
+                    "You got me feeling emotions (deeper than I've ever dreamed of)",
+                    "Yes, you do",
+                    "Oh yeah (you), you got me feeling emotions",
+                    "Higher (emotions)",
+                    "",
+                    "Deeper than I've ever dreamed of",
+                    "You, emotions (emotions)",
+                    "You got me feeling higher"
+                ],
+                "url": "https://cdn.shazam.com/lyrics/v1/en-US/GB/iphone/musixmatch/subtitles/34800/248/1?token=6d196cc23df65c2113958106a323c332",
+                "footer": "Writer(s): Robert Manuel Clivilles, David Bryon Cole\nLyrics powered by www.musixmatch.com",
+                "tabname": "Lyrics",
+                "beacondata": {
+                    "lyricsid": "30371238",
+                    "providername": "musixmatch",
+                    "commontrackid": "34800"
+                }
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/332757/youtube/video?q=Mariah+Carey+%22Emotions%22"
+            },
+            {
+                "type": "RELATED",
+                "url": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-332757?startFrom=0&pageSize=20&connected=",
+                "tabname": "Related"
+            }
+        ],
+        "url": "https://www.shazam.com/track/332757/emotions",
+        "artists": [
+            {
+                "id": "42",
+                "adamid": "91853"
+            }
+        ],
+        "isrc": "USSM19100304",
+        "genres": {
+            "primary": "Pop"
+        },
+        "urlparams": {
+            "{tracktitle}": "Emotions",
+            "{trackartist}": "Mariah+Carey"
+        },
+        "myshazam": {
+            "apple": {
+                "actions": [
+                    {
+                        "name": "myshazam:apple",
+                        "type": "uri",
+                        "uri": "https://music.apple.com/gb/album/emotions/193524777?i=193524820&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                ]
+            }
+        },
+        "highlightsurls": {
+            "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/91853/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios&videoIdToFilter=280066441",
+            "trackhighlighturl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/highlights/280066441?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+        },
+        "relatedtracksurl": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-332757?startFrom=0&pageSize=20&connected=",
+        "albumadamid": "193524777"
+    },
+    "tagid": "E7CE8949-C02D-4763-924E-4B1238BE5C51"
+}

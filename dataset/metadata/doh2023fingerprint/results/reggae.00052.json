@@ -1,0 +1,353 @@
+{
+    "matches": [
+        {
+            "id": "444327664",
+            "offset": 29.952796875,
+            "timeskew": -0.00021392107,
+            "frequencyskew": 0.0
+        },
+        {
+            "id": "313604789",
+            "offset": 30.588599609,
+            "timeskew": 0.016661167,
+            "frequencyskew": 0.01624
+        },
+        {
+            "id": "20047551",
+            "offset": 29.872433593,
+            "timeskew": -7.981062e-05,
+            "frequencyskew": -8.0525875e-05
+        },
+        {
+            "id": "435350420",
+            "offset": 18.976214843,
+            "timeskew": -1.6093254e-06,
+            "frequencyskew": -4.029274e-05
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691633281480,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "5957894",
+        "title": "Ghetto Supastar (That Is What You Are)",
+        "subtitle": "Pras",
+        "images": {
+            "background": "https://is4-ssl.mzstatic.com/image/thumb/Features115/v4/e2/3d/fe/e23dfe89-c23a-a0ad-685c-b484de942e80/mzl.atycxrdq.jpg/800x800cc.jpg",
+            "coverart": "https://is5-ssl.mzstatic.com/image/thumb/Music115/v4/65/4b/cc/654bcc23-12e1-a1af-86ea-383fd6933694/mzi.nsuedoag.jpg/400x400cc.jpg",
+            "coverarthq": "https://is5-ssl.mzstatic.com/image/thumb/Music115/v4/65/4b/cc/654bcc23-12e1-a1af-86ea-383fd6933694/mzi.nsuedoag.jpg/400x400cc.jpg",
+            "joecolor": "b:14100fp:f9faf5s:faebd3t:cbcbc7q:ccbfac"
+        },
+        "share": {
+            "subject": "Ghetto Supastar (That Is What You Are) - Pras",
+            "text": "Ghetto Supastar (That Is What You Are) by Pras",
+            "href": "https://www.shazam.com/track/5957894/ghetto-supastar-that-is-what-you-are",
+            "image": "https://is5-ssl.mzstatic.com/image/thumb/Music115/v4/65/4b/cc/654bcc23-12e1-a1af-86ea-383fd6933694/mzi.nsuedoag.jpg/400x400cc.jpg",
+            "twitter": "I used @Shazam to discover Ghetto Supastar (That Is What You Are) by Pras.",
+            "html": "https://www.shazam.com/snippets/email-share/5957894?lang=en-US&country=GB",
+            "avatar": "https://is4-ssl.mzstatic.com/image/thumb/Features115/v4/e2/3d/fe/e23dfe89-c23a-a0ad-685c-b484de942e80/mzl.atycxrdq.jpg/800x800cc.jpg",
+            "snapchat": "https://www.shazam.com/partner/sc/track/5957894"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "actions": [
+                {
+                    "name": "apple",
+                    "type": "applemusicplay",
+                    "id": "192950291"
+                },
+                {
+                    "name": "apple",
+                    "type": "uri",
+                    "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/58/cd/01/58cd0125-7f0e-69a0-e94c-8e78c9cace33/mzaf_16543973977493813228.plus.aac.ep.m4a"
+                }
+            ],
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/gb/album/ghetto-supastar-that-is-what-you-are/192950057?i=192950291&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/gb/album/ghetto-supastar-that-is-what-you-are/192950057?i=192950291&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                },
+                {
+                    "caption": "BUY",
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "uri": "https://itunes.apple.com/gb/album/ghetto-supastar-that-is-what-you-are/192950057?i=192950291&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "buy",
+                        "providername": "itunes"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "type": "buy",
+                    "listcaption": "Buy on iTunes",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "itunes"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:Ghetto%20Supastar%20%28That%20Is%20What%20You%20Are%29%20Pras"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27Ghetto+Supastar+%28That+Is+What+You+Are%29%27%20artist%3A%27Pras%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": false,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [
+                    {
+                        "image": "https://is4-ssl.mzstatic.com/image/thumb/Features115/v4/e2/3d/fe/e23dfe89-c23a-a0ad-685c-b484de942e80/mzl.atycxrdq.jpg/800x800cc.jpg",
+                        "caption": "Pras"
+                    },
+                    {
+                        "image": "https://is5-ssl.mzstatic.com/image/thumb/Music115/v4/65/4b/cc/654bcc23-12e1-a1af-86ea-383fd6933694/mzi.nsuedoag.jpg/400x400cc.jpg",
+                        "caption": "Ghetto Supastar (That Is What You Are)"
+                    }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                    {
+                        "title": "Album",
+                        "text": "Ghetto Supastar"
+                    },
+                    {
+                        "title": "Label",
+                        "text": "Ruffhouse"
+                    },
+                    {
+                        "title": "Released",
+                        "text": "1998"
+                    }
+                ]
+            },
+            {
+                "type": "LYRICS",
+                "text": [
+                    "Man, man",
+                    "Look at the sky",
+                    "All the stars man, the stars is beautiful tonight",
+                    "Look at 'em",
+                    "",
+                    "Ghetto supastar (supastar)",
+                    "That is what you are (that's what you are)",
+                    "Coming from afar (coming from afar)",
+                    "Reaching for the stars (reaching from the stars)",
+                    "Run away with me to another place",
+                    "We can rely on each other, uh-huh (yeah)",
+                    "From one corner to another, uh-huh",
+                    "",
+                    "Yeah",
+                    "Yo",
+                    "Yo",
+                    "Some got hopes and dreams",
+                    "We got ways and means",
+                    "The supreme dream team always up with the schemes",
+                    "From hubcaps to selling raps, name your theme",
+                    "My rise to the top floating on this cream",
+                    "Who the hell wanna stop me",
+                    "I hated those who doubt me",
+                    "A million ReFugees with unlimited warranties",
+                    "Black Caesar, dating top divas",
+                    "Diplomatic legalese",
+                    "No time for a Visa",
+                    "They just begun",
+                    "I'mma shoot them one-by-one",
+                    "Got five sides to me, something like a pentagon",
+                    "Strike with the forces of King Solomon",
+                    "Letting bygones be bygones",
+                    "And so on, and so on",
+                    "I'mma teach this cat how to live in the ghetto",
+                    "Keeping it retrospective from the get go",
+                    "Lay low, let my mind shine like a halo",
+                    "P-P-Politic with ghetto senators on the D-low",
+                    "",
+                    "Ghetto supastar",
+                    "That is what you are",
+                    "Coming from afar",
+                    "Reaching for the stars",
+                    "Run away with me to another place",
+                    "We can rely on each other, uh-huh",
+                    "From one corner to another, uh-huh",
+                    "",
+                    "One, two",
+                    "And you don't stop",
+                    "Yo!",
+                    "",
+                    "My eyes is sore, being a senator",
+                    "Behind closed doors hitting truth to the seafloor",
+                    "The rich go North, ignore the tug of war",
+                    "While the kids are poor",
+                    "Open new and better drug stores",
+                    "So I became hardcore,",
+                    "Couldn't take it no more",
+                    "I'ma reveal everything, change the law",
+                    "I find myself walking the streets",
+                    "Trying to find what's really going on in the streets",
+                    "",
+                    "Now every dog got his day",
+                    "Needless to say",
+                    "When the chief away",
+                    "That's when them cats want to play",
+                    "I told you, mess around you fools like Cassius Clay",
+                    "Stretch my heater make you do a pot of beret",
+                    "Kick your balls like Pele, pick em doing ballet",
+                    "Peak like Dante, broader than Broadway",
+                    "Get applause like a matador, cry yelling Ole!",
+                    "Who the hell wanna save me, from B.K. to Cali",
+                    "",
+                    "Ghetto supastar",
+                    "That is what you are",
+                    "Coming from afar",
+                    "Reaching for the stars",
+                    "Run away with me to another place",
+                    "We can rely on each other, uh-huh",
+                    "From one corner to another, uh-huh",
+                    "",
+                    "Yeah... yo, yeah",
+                    "Just when you thought it was safe in a common place",
+                    "Showcase your finest is losing fast in the horse race",
+                    "2-faced, getting defaced, out like Scarface",
+                    "Throw your roll money",
+                    "Let me put on my screwface",
+                    "",
+                    "Well I'm paranoid at the things I say",
+                    "Wondering what's the penalty from day to day",
+                    "I'm hanging out",
+                    "Partying with girls that never die, you see I was",
+                    "Picking on the small fries",
+                    "My campaign telling lies",
+                    "Was just spreading my love, didn't know my love",
+                    "Was the one holding the gun and the glove",
+                    "But it's all good as long as it's understood",
+                    "It's all together now in the hood",
+                    "",
+                    "Ghetto supastar",
+                    "That is what you are",
+                    "Coming from afar",
+                    "Reaching for the stars",
+                    "Run away with me",
+                    "To another place",
+                    "We can rely on each other, uh-huh",
+                    "(Uh-huh uh-huh uh-huh uh-huh)",
+                    "From one corner to another, uh-huh (yeah)",
+                    "(All-stars)",
+                    "",
+                    "Ghetto supastar",
+                    "That is what you are",
+                    "Coming from afar",
+                    "Reaching for the stars",
+                    "Run away with me (sing it baby)",
+                    "To another place (sing it baby)",
+                    "We can rely on each other, uh-huh",
+                    "From one corner to another, uh-huh"
+                ],
+                "footer": "Writer(s): Wyclef Jean, Bobby Byrd, Barry Alan Gibb, Chris Brown, Ol' Dirty Bastard\nLyrics powered by www.musixmatch.com",
+                "tabname": "Lyrics",
+                "beacondata": {
+                    "lyricsid": "18767782",
+                    "providername": "musixmatch",
+                    "commontrackid": "13147580"
+                }
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/5957894/youtube/video?q=Pras+%22Ghetto+Supastar+(That+Is+What+You+Are)%22"
+            },
+            {
+                "type": "RELATED",
+                "url": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-5957894?startFrom=0&pageSize=20&connected=",
+                "tabname": "Related"
+            }
+        ],
+        "url": "https://www.shazam.com/track/5957894/ghetto-supastar-that-is-what-you-are",
+        "artists": [
+            {
+                "id": "42",
+                "adamid": "873819"
+            }
+        ],
+        "isrc": "USSM19803488",
+        "genres": {
+            "primary": "Hip-Hop/Rap"
+        },
+        "urlparams": {
+            "{tracktitle}": "Ghetto+Supastar+%28That+Is+What+You+Are%29",
+            "{trackartist}": "Pras"
+        },
+        "myshazam": {
+            "apple": {
+                "actions": [
+                    {
+                        "name": "myshazam:apple",
+                        "type": "uri",
+                        "uri": "https://music.apple.com/gb/album/ghetto-supastar-that-is-what-you-are/192950057?i=192950291&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                ]
+            }
+        },
+        "highlightsurls": {
+            "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/873819/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+        },
+        "relatedtracksurl": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-5957894?startFrom=0&pageSize=20&connected=",
+        "albumadamid": "192950057"
+    },
+    "tagid": "10697843-E7BA-4D5C-9245-EAE10DB91C29"
+}

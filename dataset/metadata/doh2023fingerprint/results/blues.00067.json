@@ -1,0 +1,236 @@
+{
+    "matches": [
+        {
+            "id": "262626918",
+            "offset": 30.210992187,
+            "timeskew": 0.00016522408,
+            "frequencyskew": -8.0525875e-05
+        },
+        {
+            "id": "281613242",
+            "offset": 29.63652539,
+            "timeskew": 0.0009925365,
+            "frequencyskew": 0.00016105175
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691632581840,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "202254",
+        "title": "All Night Long",
+        "subtitle": "Clifton Chenier",
+        "images": {
+            "background": "https://is5-ssl.mzstatic.com/image/thumb/Music115/v4/00/3c/25/003c2539-b117-8795-a019-94519e418dda/21UMGIM71408.rgb.jpg/400x400cc.jpg",
+            "coverart": "https://is5-ssl.mzstatic.com/image/thumb/Music115/v4/00/3c/25/003c2539-b117-8795-a019-94519e418dda/21UMGIM71408.rgb.jpg/400x400cc.jpg",
+            "coverarthq": "https://is5-ssl.mzstatic.com/image/thumb/Music115/v4/00/3c/25/003c2539-b117-8795-a019-94519e418dda/21UMGIM71408.rgb.jpg/400x400cc.jpg",
+            "joecolor": "b:191917p:9eed50s:fa592bt:84c344q:cd4c27"
+        },
+        "share": {
+            "subject": "All Night Long - Clifton Chenier",
+            "text": "All Night Long by Clifton Chenier",
+            "href": "https://www.shazam.com/track/202254/all-night-long",
+            "image": "https://is5-ssl.mzstatic.com/image/thumb/Music115/v4/00/3c/25/003c2539-b117-8795-a019-94519e418dda/21UMGIM71408.rgb.jpg/400x400cc.jpg",
+            "twitter": "I used @Shazam to discover All Night Long by Clifton Chenier.",
+            "html": "https://www.shazam.com/snippets/email-share/202254?lang=en-US&country=GB",
+            "snapchat": "https://www.shazam.com/partner/sc/track/202254"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "actions": [
+                {
+                    "name": "apple",
+                    "type": "applemusicplay",
+                    "id": "1583598725"
+                },
+                {
+                    "name": "apple",
+                    "type": "uri",
+                    "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/13/9a/9d/139a9d0e-964c-f1e9-67e8-c5c243abdab8/mzaf_13337251473673104744.plus.aac.p.m4a"
+                }
+            ],
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/gb/album/all-night-long/1583598710?i=1583598725&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/gb/album/all-night-long/1583598710?i=1583598725&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                },
+                {
+                    "caption": "BUY",
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "uri": "https://itunes.apple.com/gb/album/all-night-long/1583598710?i=1583598725&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "buy",
+                        "providername": "itunes"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "type": "buy",
+                    "listcaption": "Buy on iTunes",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "itunes"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:All%20Night%20Long%20Clifton%20Chenier"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27All+Night+Long%27%20artist%3A%27Clifton+Chenier%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": false,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [
+                    {
+                        "image": "https://is5-ssl.mzstatic.com/image/thumb/Music115/v4/00/3c/25/003c2539-b117-8795-a019-94519e418dda/21UMGIM71408.rgb.jpg/400x400cc.jpg",
+                        "caption": "All Night Long"
+                    }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                    {
+                        "title": "Album",
+                        "text": "Bayou Blues"
+                    },
+                    {
+                        "title": "Label",
+                        "text": "Specialty"
+                    },
+                    {
+                        "title": "Released",
+                        "text": "1970"
+                    }
+                ]
+            },
+            {
+                "type": "LYRICS",
+                "text": [
+                    "Cockburn Bruce",
+                    "73 Night Vision",
+                    "Mama Just Wants To Barrelhouse All Night Long (4: 1",
+                    "I was up the road on easy street",
+                    "Watching everybody stand around and cheat",
+                    "A man comes up and says \"move along",
+                    "Down to the corner where you belong\"",
+                    "But mama just wants to barrelhouse all night long",
+                    "",
+                    "I hear the city singing like a siren choir",
+                    "Some fool tried to set this town on fire",
+                    "Tv preacher screams \"come on along\"",
+                    "I feel like fay wray face to face with king kong",
+                    "But mama just wants to barrelhouse all night long",
+                    "",
+                    "Sometimes i wonder what i am",
+                    "I feel like i'm living in a hologram",
+                    "It doesn't seem to matter what's right or wrong",
+                    "Everybody's grabbing and coming on strong",
+                    "But mama just wants to barrelhouse all night long",
+                    "",
+                    "(Jan. 19/73 Toronto)",
+                    "(.where else?)"
+                ],
+                "footer": "Writer(s): Clifton Chenier\nLyrics powered by www.musixmatch.com",
+                "tabname": "Lyrics",
+                "beacondata": {
+                    "lyricsid": "6689869",
+                    "providername": "musixmatch",
+                    "commontrackid": "1895177"
+                }
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/202254/youtube/video?q=Clifton+Chenier+%22All+Night+Long%22"
+            }
+        ],
+        "url": "https://www.shazam.com/track/202254/all-night-long",
+        "artists": [
+            {
+                "id": "42",
+                "adamid": "2716210"
+            }
+        ],
+        "isrc": "USSPI7100316",
+        "genres": {
+            "primary": "World"
+        },
+        "urlparams": {
+            "{tracktitle}": "All+Night+Long",
+            "{trackartist}": "Clifton+Chenier"
+        },
+        "myshazam": {
+            "apple": {
+                "actions": [
+                    {
+                        "name": "myshazam:apple",
+                        "type": "uri",
+                        "uri": "https://music.apple.com/gb/album/all-night-long/1583598710?i=1583598725&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                ]
+            }
+        },
+        "highlightsurls": {
+            "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/2716210/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+        },
+        "albumadamid": "1583598710"
+    },
+    "tagid": "9CDE18CA-9865-4FDF-B80D-57A60C8F7AA7"
+}

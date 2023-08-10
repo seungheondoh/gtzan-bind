@@ -1,0 +1,200 @@
+{
+    "matches": [
+        {
+            "id": "215279900",
+            "offset": 29.972244139999997,
+            "timeskew": -9.536743e-06,
+            "frequencyskew": -0.000120818615
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691633116277,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "64233175",
+        "title": "The Four Seasons: Violin Concerto No. 1 in E Major, \"Spring\": II. Largo",
+        "subtitle": "English Chamber Orchestra, Leonard Slatkin & Jos\u00e9 Luis Garcia",
+        "images": {
+            "background": "https://is4-ssl.mzstatic.com/image/thumb/Music126/v4/ee/88/9a/ee889ad5-e6d0-1215-1b61-47b97c632201/6dac94a9-f514-4057-887f-5fd0c86fc46e.png/800x800cc.jpg",
+            "coverart": "https://is3-ssl.mzstatic.com/image/thumb/Features4/v4/50/aa/fb/50aafb24-2bb2-8fd0-65b3-922c03713991/dj.kjbcwqrv.jpg/400x400cc.jpg",
+            "coverarthq": "https://is3-ssl.mzstatic.com/image/thumb/Features4/v4/50/aa/fb/50aafb24-2bb2-8fd0-65b3-922c03713991/dj.kjbcwqrv.jpg/400x400cc.jpg",
+            "joecolor": "b:ffffffp:000000s:0b3454t:333333q:3c5d76"
+        },
+        "share": {
+            "subject": "The Four Seasons: Violin Concerto No. 1 in E Major, \"Spring\": II. Largo - English Chamber Orchestra, Leonard Slatkin & Jos\u00e9 Luis Garcia",
+            "text": "The Four Seasons: Violin Concerto No. 1 in E Major, \"Spring\": II. Largo by English Chamber Orchestra, Leonard Slatkin & Jos\u00e9 Luis Garcia",
+            "href": "https://www.shazam.com/track/64233175/the-four-seasons-violin-concerto-no-1-in-e-major-spring",
+            "image": "https://is3-ssl.mzstatic.com/image/thumb/Features4/v4/50/aa/fb/50aafb24-2bb2-8fd0-65b3-922c03713991/dj.kjbcwqrv.jpg/400x400cc.jpg",
+            "twitter": "I used @Shazam to discover The Four Seasons: Violin Concerto No. 1 in E Major, \"Spring\": II. Largo by English Chamber Orchestra, Leonard Slatkin & Jos\u00e9 Luis Garcia.",
+            "html": "https://www.shazam.com/snippets/email-share/64233175?lang=en-US&country=GB",
+            "avatar": "https://is4-ssl.mzstatic.com/image/thumb/Music126/v4/ee/88/9a/ee889ad5-e6d0-1215-1b61-47b97c632201/6dac94a9-f514-4057-887f-5fd0c86fc46e.png/800x800cc.jpg",
+            "snapchat": "https://www.shazam.com/partner/sc/track/64233175"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "actions": [
+                {
+                    "name": "apple",
+                    "type": "applemusicplay",
+                    "id": "546694336"
+                },
+                {
+                    "name": "apple",
+                    "type": "uri",
+                    "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/e4/88/2f/e4882fb6-c8b5-09fc-6848-2e46e75d2030/mzaf_15116250857949326483.plus.aac.p.m4a"
+                }
+            ],
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/gb/album/the-four-seasons-violin-concerto-no-1-in-e-major-spring/546694228?i=546694336&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/gb/album/the-four-seasons-violin-concerto-no-1-in-e-major-spring/546694228?i=546694336&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                },
+                {
+                    "caption": "BUY",
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "uri": "https://itunes.apple.com/gb/album/the-four-seasons-violin-concerto-no-1-in-e-major-spring/546694228?i=546694336&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "buy",
+                        "providername": "itunes"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "type": "buy",
+                    "listcaption": "Buy on iTunes",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "itunes"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:The%20Four%20Seasons%3A%20Violin%20Concerto%20No.%201%20in%20E%20Major%2C%20%22Spring%22%3A%20II.%20Largo%20English%20Chamber%20Orchestra"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27The+Four+Seasons%3A+Violin+Concerto+No.+1+in+E+Major%2C+%22Spring%22%3A+II.+Largo%27%20artist%3A%27English+Chamber+Orchestra%2C+Leonard+Slatkin++Jos%C3%A9+Luis+Garcia%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": false,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [
+                    {
+                        "image": "https://is4-ssl.mzstatic.com/image/thumb/Music126/v4/ee/88/9a/ee889ad5-e6d0-1215-1b61-47b97c632201/6dac94a9-f514-4057-887f-5fd0c86fc46e.png/800x800cc.jpg",
+                        "caption": "English Chamber Orchestra"
+                    },
+                    {
+                        "image": "https://is3-ssl.mzstatic.com/image/thumb/Features4/v4/50/aa/fb/50aafb24-2bb2-8fd0-65b3-922c03713991/dj.kjbcwqrv.jpg/400x400cc.jpg",
+                        "caption": "The Four Seasons: Violin Concerto No. 1 in E Major, \"Spring\": II. Largo"
+                    }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                    {
+                        "title": "Album",
+                        "text": "Vivaldi's \"The Four Seasons\""
+                    },
+                    {
+                        "title": "Label",
+                        "text": "Reader's Digest"
+                    },
+                    {
+                        "title": "Released",
+                        "text": "1985"
+                    }
+                ]
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/64233175/youtube/video?q=English+Chamber+Orchestra,+Leonard+Slatkin+%26+Jos%C3%A9+Luis+Garcia+%22The+Four+Seasons:+Violin+Concerto+No.+1+in+E+Major,+Spring:+II.+Largo%22"
+            }
+        ],
+        "url": "https://www.shazam.com/track/64233175/the-four-seasons-violin-concerto-no-1-in-e-major-spring",
+        "artists": [
+            {
+                "id": "42",
+                "adamid": "317369"
+            }
+        ],
+        "isrc": "USRDG0410117",
+        "genres": {
+            "primary": "Classical"
+        },
+        "urlparams": {
+            "{tracktitle}": "The+Four+Seasons%3A+Violin+Concerto+No.+1+in+E+Major%2C+%22Spring%22%3A+II.+Largo",
+            "{trackartist}": "English+Chamber+Orchestra%2C+Leonard+Slatkin+%26+Jos%C3%A9+Luis+Garcia"
+        },
+        "myshazam": {
+            "apple": {
+                "actions": [
+                    {
+                        "name": "myshazam:apple",
+                        "type": "uri",
+                        "uri": "https://music.apple.com/gb/album/the-four-seasons-violin-concerto-no-1-in-e-major-spring/546694228?i=546694336&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                ]
+            }
+        },
+        "highlightsurls": {
+            "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/317369/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+        },
+        "albumadamid": "546694228"
+    },
+    "tagid": "46E6243B-4733-46D6-B894-6F6086C34D49"
+}

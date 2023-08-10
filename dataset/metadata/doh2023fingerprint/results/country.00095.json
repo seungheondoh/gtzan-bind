@@ -1,0 +1,243 @@
+{
+    "matches": [
+        {
+            "id": "222428517",
+            "offset": 30.015296875,
+            "timeskew": -3.71933e-05,
+            "frequencyskew": 0.0
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691633403812,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "473958",
+        "title": "One Step at a Time",
+        "subtitle": "George Strait",
+        "images": {
+            "background": "https://is5-ssl.mzstatic.com/image/thumb/Features115/v4/5c/bc/5c/5cbc5cc4-2f14-512a-25a8-9bc4c37d4c11/mzl.whvoujpl.jpg/800x800cc.jpg",
+            "coverart": "https://is4-ssl.mzstatic.com/image/thumb/Music124/v4/f0/c8/36/f0c83650-b55f-40ea-e021-26bdb7f1ca2e/00008817002026.rgb.jpg/400x400cc.jpg",
+            "coverarthq": "https://is4-ssl.mzstatic.com/image/thumb/Music124/v4/f0/c8/36/f0c83650-b55f-40ea-e021-26bdb7f1ca2e/00008817002026.rgb.jpg/400x400cc.jpg",
+            "joecolor": "b:030d0ep:91b4e9s:73aee9t:7492bdq:5c8ebd"
+        },
+        "share": {
+            "subject": "One Step at a Time - George Strait",
+            "text": "One Step at a Time by George Strait",
+            "href": "https://www.shazam.com/track/473958/one-step-at-a-time",
+            "image": "https://is4-ssl.mzstatic.com/image/thumb/Music124/v4/f0/c8/36/f0c83650-b55f-40ea-e021-26bdb7f1ca2e/00008817002026.rgb.jpg/400x400cc.jpg",
+            "twitter": "I used @Shazam to discover One Step at a Time by George Strait.",
+            "html": "https://www.shazam.com/snippets/email-share/473958?lang=en-US&country=GB",
+            "avatar": "https://is5-ssl.mzstatic.com/image/thumb/Features115/v4/5c/bc/5c/5cbc5cc4-2f14-512a-25a8-9bc4c37d4c11/mzl.whvoujpl.jpg/800x800cc.jpg",
+            "snapchat": "https://www.shazam.com/partner/sc/track/473958"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "actions": [
+                {
+                    "name": "apple",
+                    "type": "applemusicplay",
+                    "id": "1444041385"
+                },
+                {
+                    "name": "apple",
+                    "type": "uri",
+                    "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/e0/bc/a3/e0bca3df-25e6-d142-9e22-801d9c4322d4/mzaf_7018196362215496434.plus.aac.ep.m4a"
+                }
+            ],
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/gb/album/one-step-at-a-time/1444041057?i=1444041385&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/gb/album/one-step-at-a-time/1444041057?i=1444041385&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                },
+                {
+                    "caption": "BUY",
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "uri": "https://itunes.apple.com/gb/album/one-step-at-a-time/1444041057?i=1444041385&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "buy",
+                        "providername": "itunes"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "type": "buy",
+                    "listcaption": "Buy on iTunes",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "itunes"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:One%20Step%20at%20a%20Time%20George%20Strait"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27One+Step+at+a+Time%27%20artist%3A%27George+Strait%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": false,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [
+                    {
+                        "image": "https://is5-ssl.mzstatic.com/image/thumb/Features115/v4/5c/bc/5c/5cbc5cc4-2f14-512a-25a8-9bc4c37d4c11/mzl.whvoujpl.jpg/800x800cc.jpg",
+                        "caption": "George Strait"
+                    },
+                    {
+                        "image": "https://is4-ssl.mzstatic.com/image/thumb/Music124/v4/f0/c8/36/f0c83650-b55f-40ea-e021-26bdb7f1ca2e/00008817002026.rgb.jpg/400x400cc.jpg",
+                        "caption": "One Step at a Time"
+                    }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                    {
+                        "title": "Album",
+                        "text": "One Step at a Time"
+                    },
+                    {
+                        "title": "Label",
+                        "text": "MCA Nashville"
+                    },
+                    {
+                        "title": "Released",
+                        "text": "1998"
+                    }
+                ]
+            },
+            {
+                "type": "LYRICS",
+                "text": [
+                    "I couldn't help but overhear your conversation",
+                    "When you told her that you owned her heart and soul",
+                    "You say you've got her wrapped around your finger",
+                    "But there's somethin' about angels you should know",
+                    "",
+                    "She'll walk away one step at a time",
+                    "It'll take you by surprise",
+                    "You'll think it happened over night",
+                    "It'll be too late when you realize angels don't fly",
+                    "They just walk away one step at a time",
+                    "",
+                    "Don't think that I'm tryin' to mind your business",
+                    "It's a full time job just tryin' to mind mine",
+                    "But I once had an angel just like her",
+                    "And if I'd treated her right, she'd still be by my side",
+                    "",
+                    "She'll walk away one step at a time",
+                    "It'll take you by surprise",
+                    "You'll think it happened over night",
+                    "It'll be too late when you realize angels don't fly",
+                    "They just walk away one step at a time",
+                    "",
+                    "It'll be too late when you realize angels don't fly",
+                    "They just walk away one step at a time"
+                ],
+                "url": "https://cdn.shazam.com/lyrics/v1/en-US/GB/iphone/musixmatch/subtitles/237430/246/1?token=866f6a24c70f677470ea8f092b33be7e",
+                "footer": "Writer(s): Earl Clark, Luke Houston Reed\nLyrics powered by www.musixmatch.com",
+                "tabname": "Lyrics",
+                "beacondata": {
+                    "lyricsid": "24698815",
+                    "providername": "musixmatch",
+                    "commontrackid": "237430"
+                }
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/473958/youtube/video?q=George+Strait+%22One+Step+at+a+Time%22"
+            },
+            {
+                "type": "RELATED",
+                "url": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-473958?startFrom=0&pageSize=20&connected=",
+                "tabname": "Related"
+            }
+        ],
+        "url": "https://www.shazam.com/track/473958/one-step-at-a-time",
+        "artists": [
+            {
+                "id": "42",
+                "adamid": "96353"
+            }
+        ],
+        "isrc": "USMC19701155",
+        "genres": {
+            "primary": "Pop"
+        },
+        "urlparams": {
+            "{tracktitle}": "One+Step+at+a+Time",
+            "{trackartist}": "George+Strait"
+        },
+        "myshazam": {
+            "apple": {
+                "actions": [
+                    {
+                        "name": "myshazam:apple",
+                        "type": "uri",
+                        "uri": "https://music.apple.com/gb/album/one-step-at-a-time/1444041057?i=1444041385&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                ]
+            }
+        },
+        "highlightsurls": {
+            "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/96353/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+        },
+        "relatedtracksurl": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-473958?startFrom=0&pageSize=20&connected=",
+        "albumadamid": "1444041057"
+    },
+    "tagid": "5EFAE4E3-EEFE-4842-AA8A-7B978997C24B"
+}

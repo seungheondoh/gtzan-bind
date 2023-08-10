@@ -1,0 +1,280 @@
+{
+    "matches": [
+        {
+            "id": "268117706",
+            "offset": 30.255626953,
+            "timeskew": -0.00037366152,
+            "frequencyskew": 0.0007251501
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691633293171,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "6051247",
+        "title": "Stir It Up",
+        "subtitle": "Bob Marley & The Wailers",
+        "images": {
+            "background": "https://is5-ssl.mzstatic.com/image/thumb/Features125/v4/0e/10/96/0e10963d-8c5d-f176-3651-796ec44d0c97/mzl.kdlmyecx.jpg/800x800cc.jpg",
+            "coverart": "https://is5-ssl.mzstatic.com/image/thumb/Music123/v4/5b/5b/d1/5b5bd1c1-272e-e098-ec91-d00ab2d3ee9e/06UMGIM65662.rgb.jpg/400x400cc.jpg",
+            "coverarthq": "https://is5-ssl.mzstatic.com/image/thumb/Music123/v4/5b/5b/d1/5b5bd1c1-272e-e098-ec91-d00ab2d3ee9e/06UMGIM65662.rgb.jpg/400x400cc.jpg",
+            "joecolor": "b:161c18p:fefeffs:f6eccft:cfd0d0q:c9c2ab"
+        },
+        "share": {
+            "subject": "Stir It Up - Bob Marley & The Wailers",
+            "text": "Stir It Up by Bob Marley & The Wailers",
+            "href": "https://www.shazam.com/track/6051247/stir-it-up",
+            "image": "https://is5-ssl.mzstatic.com/image/thumb/Music123/v4/5b/5b/d1/5b5bd1c1-272e-e098-ec91-d00ab2d3ee9e/06UMGIM65662.rgb.jpg/400x400cc.jpg",
+            "twitter": "I used @Shazam to discover Stir It Up by Bob Marley & The Wailers.",
+            "html": "https://www.shazam.com/snippets/email-share/6051247?lang=en-US&country=GB",
+            "avatar": "https://is5-ssl.mzstatic.com/image/thumb/Features125/v4/0e/10/96/0e10963d-8c5d-f176-3651-796ec44d0c97/mzl.kdlmyecx.jpg/800x800cc.jpg",
+            "snapchat": "https://www.shazam.com/partner/sc/track/6051247"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "actions": [
+                {
+                    "name": "apple",
+                    "type": "applemusicplay",
+                    "id": "1452839308"
+                },
+                {
+                    "name": "apple",
+                    "type": "uri",
+                    "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview113/v4/98/1a/db/981adbe7-06bf-bcce-89d4-f4aeec33bbed/mzaf_10863421585163961478.plus.aac.ep.m4a"
+                }
+            ],
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/gb/album/stir-it-up/1452839186?i=1452839308&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/gb/album/stir-it-up/1452839186?i=1452839308&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                },
+                {
+                    "caption": "BUY",
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "uri": "https://itunes.apple.com/gb/album/stir-it-up/1452839186?i=1452839308&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "buy",
+                        "providername": "itunes"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "type": "buy",
+                    "listcaption": "Buy on iTunes",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "itunes"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:Stir%20It%20Up%20Bob%20Marley%20%26%20The%20Wailers"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27Stir+It+Up%27%20artist%3A%27Bob+Marley++The+Wailers%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": false,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [
+                    {
+                        "image": "https://is5-ssl.mzstatic.com/image/thumb/Features125/v4/0e/10/96/0e10963d-8c5d-f176-3651-796ec44d0c97/mzl.kdlmyecx.jpg/800x800cc.jpg",
+                        "caption": "Bob Marley & The Wailers"
+                    },
+                    {
+                        "image": "https://is5-ssl.mzstatic.com/image/thumb/Music123/v4/5b/5b/d1/5b5bd1c1-272e-e098-ec91-d00ab2d3ee9e/06UMGIM65662.rgb.jpg/400x400cc.jpg",
+                        "caption": "Stir It Up"
+                    }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                    {
+                        "title": "Album",
+                        "text": "Catch a Fire (Deluxe Edition)"
+                    },
+                    {
+                        "title": "Label",
+                        "text": "Universal-Island Records Ltd."
+                    },
+                    {
+                        "title": "Released",
+                        "text": "1973"
+                    }
+                ]
+            },
+            {
+                "type": "LYRICS",
+                "text": [
+                    "Stir it up",
+                    "Little darlin', stir it up",
+                    "Come on, baby",
+                    "Come on and stir it up",
+                    "Little darlin', stir it up",
+                    "O-oh",
+                    "",
+                    "It's been a long, long time, yeah (stir it, stir it, stir it together)",
+                    "Since I got you on my mind (oh-oh-oh-oh)",
+                    "Oh-oh",
+                    "Now you are here, I said (stir it, stir it, stir it together)",
+                    "It's so clear",
+                    "To see what we could do, baby (oh-oh-oh-oh)",
+                    "Just me and you",
+                    "Come on and stir it up, I wanna say, little darlin'",
+                    "Stir it up",
+                    "Come on, baby",
+                    "Come on and stir it up, yeah",
+                    "Little darlin'",
+                    "Stir it up! O-oh",
+                    "",
+                    "I'll push the wood (stir it, stir it, stir it together)",
+                    "Then I blaze ya fire",
+                    "Then I'll satisfy your heart's desire (oh-oh-oh-oh)",
+                    "Said, I stir it every (stir it, stir it, stir it together)",
+                    "Every minute",
+                    "All you got to do, baby, (oh-oh-oh-oh)",
+                    "Is keep it in, eh",
+                    "",
+                    "Stir it up",
+                    "Come on (oh-oh-oh)",
+                    "Little darlin'",
+                    "Stir it up",
+                    "I want this baby",
+                    "Come on and stir it up (oh-ah)",
+                    "Little darlin'",
+                    "Stir it up (o-oh)",
+                    "",
+                    "And then",
+                    "Quench me",
+                    "When I'm thirsty",
+                    "Come on and cool me down, baby",
+                    "When I'm hot (oh-oh-oh-oh)",
+                    "Your recipe is",
+                    "Darlin' is so tasty",
+                    "When you show and stir your pot (oh-oh-oh-oh)",
+                    "",
+                    "So stir it up, oh",
+                    "Little darlin', stir it up (wo, now)",
+                    "Come on and stir it up, oh-ah!",
+                    "Little darlin'",
+                    "Stir it up",
+                    "(Instrumental)",
+                    "Stir it up",
+                    "Oh, little darlin'",
+                    "Stir it up",
+                    "Stir it up",
+                    "Little darlin'",
+                    "Stir it up",
+                    "Stir it up",
+                    "Stir it up"
+                ],
+                "url": "https://cdn.shazam.com/lyrics/v1/en-US/GB/iphone/musixmatch/subtitles/144092037/331/1?token=0eeb19550fb0deda60adde0a27d5dffa",
+                "footer": "Writer(s): Bob Marley\nLyrics powered by www.musixmatch.com",
+                "tabname": "Lyrics",
+                "beacondata": {
+                    "lyricsid": "29159997",
+                    "providername": "musixmatch",
+                    "commontrackid": "144092037"
+                }
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/6051247/youtube/video?q=Bob+Marley+%26+The+Wailers+%22Stir+It+Up%22"
+            },
+            {
+                "type": "RELATED",
+                "url": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-6051247?startFrom=0&pageSize=20&connected=",
+                "tabname": "Related"
+            }
+        ],
+        "url": "https://www.shazam.com/track/6051247/stir-it-up",
+        "artists": [
+            {
+                "id": "42",
+                "adamid": "3174628"
+            }
+        ],
+        "isrc": "GBAAN7390002",
+        "genres": {
+            "primary": "Reggae"
+        },
+        "urlparams": {
+            "{tracktitle}": "Stir+It+Up",
+            "{trackartist}": "Bob+Marley+%26+The+Wailers"
+        },
+        "myshazam": {
+            "apple": {
+                "actions": [
+                    {
+                        "name": "myshazam:apple",
+                        "type": "uri",
+                        "uri": "https://music.apple.com/gb/album/stir-it-up/1452839186?i=1452839308&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                ]
+            }
+        },
+        "highlightsurls": {
+            "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/3174628/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+        },
+        "relatedtracksurl": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-6051247?startFrom=0&pageSize=20&connected=",
+        "albumadamid": "1452839186"
+    },
+    "tagid": "6C52B123-644A-4CF7-B3FB-DA42B58355DA"
+}

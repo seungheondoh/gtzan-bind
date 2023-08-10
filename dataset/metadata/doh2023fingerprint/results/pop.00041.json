@@ -1,0 +1,274 @@
+{
+    "matches": [
+        {
+            "id": "202537400",
+            "offset": 29.955876953,
+            "timeskew": -5.3167343e-05,
+            "frequencyskew": -0.000120818615
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691632687464,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "5349988",
+        "title": "A Whole New World (Aladdin's Theme)",
+        "subtitle": "Regina Belle & Peabo Bryson",
+        "images": {
+            "background": "https://is5-ssl.mzstatic.com/image/thumb/Music124/v4/8c/c0/1c/8cc01c01-7fb8-30f5-96fa-210c117b75d6/mzi.hqjsxcwp.jpg/400x400cc.jpg",
+            "coverart": "https://is5-ssl.mzstatic.com/image/thumb/Music124/v4/8c/c0/1c/8cc01c01-7fb8-30f5-96fa-210c117b75d6/mzi.hqjsxcwp.jpg/400x400cc.jpg",
+            "coverarthq": "https://is5-ssl.mzstatic.com/image/thumb/Music124/v4/8c/c0/1c/8cc01c01-7fb8-30f5-96fa-210c117b75d6/mzi.hqjsxcwp.jpg/400x400cc.jpg",
+            "joecolor": "b:f1ece8p:080507s:472d18t:373334q:695341"
+        },
+        "share": {
+            "subject": "A Whole New World (Aladdin's Theme) - Regina Belle & Peabo Bryson",
+            "text": "A Whole New World (Aladdin's Theme) by Regina Belle & Peabo Bryson",
+            "href": "https://www.shazam.com/track/5349988/a-whole-new-world-aladdins-theme",
+            "image": "https://is5-ssl.mzstatic.com/image/thumb/Music124/v4/8c/c0/1c/8cc01c01-7fb8-30f5-96fa-210c117b75d6/mzi.hqjsxcwp.jpg/400x400cc.jpg",
+            "twitter": "I used @Shazam to discover A Whole New World (Aladdin's Theme) by Regina Belle & Peabo Bryson.",
+            "html": "https://www.shazam.com/snippets/email-share/5349988?lang=en-US&country=GB",
+            "snapchat": "https://www.shazam.com/partner/sc/track/5349988"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "actions": [
+                {
+                    "name": "apple",
+                    "type": "applemusicplay",
+                    "id": "204656145"
+                },
+                {
+                    "name": "apple",
+                    "type": "uri",
+                    "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/39/2d/36/392d3679-1b08-88cb-687f-172c7210b17a/mzaf_12756951837102537086.plus.aac.ep.m4a"
+                }
+            ],
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/gb/album/a-whole-new-world-aladdins-theme/204651683?i=204656145&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/gb/album/a-whole-new-world-aladdins-theme/204651683?i=204656145&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                },
+                {
+                    "caption": "BUY",
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "uri": "https://itunes.apple.com/gb/album/a-whole-new-world-aladdins-theme/204651683?i=204656145&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "buy",
+                        "providername": "itunes"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "type": "buy",
+                    "listcaption": "Buy on iTunes",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "itunes"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:A%20Whole%20New%20World%20%28Aladdin%27s%20Theme%29%20Regina%20Belle"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27A+Whole+New+World+%28Aladdin%5C%27s+Theme%29%27%20artist%3A%27Regina+Belle++Peabo+Bryson%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": false,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [
+                    {
+                        "image": "https://is5-ssl.mzstatic.com/image/thumb/Music124/v4/8c/c0/1c/8cc01c01-7fb8-30f5-96fa-210c117b75d6/mzi.hqjsxcwp.jpg/400x400cc.jpg",
+                        "caption": "A Whole New World (Aladdin's Theme)"
+                    }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                    {
+                        "title": "Album",
+                        "text": "Baby Come to Me: The Best of Regina Belle"
+                    },
+                    {
+                        "title": "Label",
+                        "text": "Columbia/Legacy"
+                    },
+                    {
+                        "title": "Released",
+                        "text": "1989"
+                    }
+                ]
+            },
+            {
+                "type": "LYRICS",
+                "text": [
+                    "I can show you the world",
+                    "Shining, shimmering, splendid",
+                    "Tell me princess, now when did",
+                    "You last let your heart decide?",
+                    "",
+                    "I can open your eyes",
+                    "Take you wonder by wonder",
+                    "Over, sideways and under",
+                    "On a magic carpet ride",
+                    "",
+                    "A whole new world",
+                    "A new fantastic point of view",
+                    "No one to tell us no",
+                    "Or where to go",
+                    "Or say we're only dreaming",
+                    "",
+                    "A whole new world",
+                    "A dazzling place I never knew",
+                    "But, now, from way up here",
+                    "It's crystal clear",
+                    "That now I'm in a whole new world with you",
+                    "",
+                    "Unbelievable sights",
+                    "Indescribable feeling",
+                    "Soaring, tumbling, freewheeling",
+                    "Through an endless diamond sky",
+                    "",
+                    "A whole new world (don't you dare close your eyes)",
+                    "A hundred thousand things to see (hold your breath it gets better)",
+                    "I'm like a shooting star",
+                    "I've come so far",
+                    "I can't go back",
+                    "To where I used to be",
+                    "",
+                    "A whole new world",
+                    "With new horizons to pursue",
+                    "I'll chase them anywhere",
+                    "There's time to spare",
+                    "Let me share",
+                    "This whole new world with you",
+                    "",
+                    "A whole new world",
+                    "A new fantastic point of view",
+                    "No one to tell us no",
+                    "Or where to go",
+                    "Or say we're only dreaming",
+                    "",
+                    "A whole new world (every turn a surprise)",
+                    "With new horizons to pursue (every moment red-letter)",
+                    "I'll chase them anywhere",
+                    "There's time to spare",
+                    "Anywhere",
+                    "There's time to spare",
+                    "Let me share",
+                    "This whole new world with you",
+                    "",
+                    "A whole new world (a whole new world)",
+                    "That's where we'll be (where we will be)",
+                    "A thrilling chase (a wondrous place)",
+                    "For you and me"
+                ],
+                "url": "https://cdn.shazam.com/lyrics/v1/en-US/GB/iphone/musixmatch/subtitles/1197220/246/1?token=87cd27b10f574b7b0832a3f401586cc7",
+                "footer": "Writer(s): Tim Rice, Alan Menken\nLyrics powered by www.musixmatch.com",
+                "tabname": "Lyrics",
+                "beacondata": {
+                    "lyricsid": "30202324",
+                    "providername": "musixmatch",
+                    "commontrackid": "1197220"
+                }
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/5349988/youtube/video?q=Regina+Belle+%26+Peabo+Bryson+%22A+Whole+New+World+(Aladdin's+Theme)%22"
+            },
+            {
+                "type": "RELATED",
+                "url": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-5349988?startFrom=0&pageSize=20&connected=",
+                "tabname": "Related"
+            }
+        ],
+        "url": "https://www.shazam.com/track/5349988/a-whole-new-world-aladdins-theme",
+        "artists": [
+            {
+                "id": "42",
+                "adamid": "691458"
+            }
+        ],
+        "isrc": "USLIC0500071",
+        "genres": {
+            "primary": "R&B/Soul"
+        },
+        "urlparams": {
+            "{tracktitle}": "A+Whole+New+World+%28Aladdin%27s+Theme%29",
+            "{trackartist}": "Regina+Belle+%26+Peabo+Bryson"
+        },
+        "myshazam": {
+            "apple": {
+                "actions": [
+                    {
+                        "name": "myshazam:apple",
+                        "type": "uri",
+                        "uri": "https://music.apple.com/gb/album/a-whole-new-world-aladdins-theme/204651683?i=204656145&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                ]
+            }
+        },
+        "highlightsurls": {
+            "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/691458/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+        },
+        "relatedtracksurl": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-5349988?startFrom=0&pageSize=20&connected=",
+        "albumadamid": "204651683"
+    },
+    "tagid": "8B58F3F3-FFA1-4694-89A0-7FED7B3A311C"
+}

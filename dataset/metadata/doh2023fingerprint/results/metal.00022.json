@@ -1,0 +1,279 @@
+{
+    "matches": [
+        {
+            "id": "504529133",
+            "offset": 30.119419921000002,
+            "timeskew": 0.00077593327,
+            "frequencyskew": 0.0004028082
+        },
+        {
+            "id": "272354039",
+            "offset": 29.910376953,
+            "timeskew": -1.7166138e-05,
+            "frequencyskew": -0.00028187037
+        },
+        {
+            "id": "201617692",
+            "offset": 29.9898125,
+            "timeskew": 0.0012295246,
+            "frequencyskew": 0.0011686087
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691633793083,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "5237733",
+        "title": "Crazy Train",
+        "subtitle": "Ozzy Osbourne",
+        "images": {
+            "background": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/1a/9a/61/1a9a6171-5b9b-c5c6-15d2-fb8ce15a810e/pr_source.png/800x800cc.jpg",
+            "coverart": "https://is4-ssl.mzstatic.com/image/thumb/Music114/v4/92/06/bd/9206bdb3-453a-db69-44f4-c4b5bfe33510/886448748045.jpg/400x400cc.jpg",
+            "coverarthq": "https://is4-ssl.mzstatic.com/image/thumb/Music114/v4/92/06/bd/9206bdb3-453a-db69-44f4-c4b5bfe33510/886448748045.jpg/400x400cc.jpg",
+            "joecolor": "b:0c0d11p:f2e6c6s:e2e6edt:c4bba2q:b7bac1"
+        },
+        "share": {
+            "subject": "Crazy Train - Ozzy Osbourne",
+            "text": "Crazy Train by Ozzy Osbourne",
+            "href": "https://www.shazam.com/track/5237733/crazy-train",
+            "image": "https://is4-ssl.mzstatic.com/image/thumb/Music114/v4/92/06/bd/9206bdb3-453a-db69-44f4-c4b5bfe33510/886448748045.jpg/400x400cc.jpg",
+            "twitter": "I used @Shazam to discover Crazy Train by Ozzy Osbourne.",
+            "html": "https://www.shazam.com/snippets/email-share/5237733?lang=en-US&country=GB",
+            "avatar": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/1a/9a/61/1a9a6171-5b9b-c5c6-15d2-fb8ce15a810e/pr_source.png/800x800cc.jpg",
+            "snapchat": "https://www.shazam.com/partner/sc/track/5237733"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "actions": [
+                {
+                    "name": "apple",
+                    "type": "applemusicplay",
+                    "id": "1531535287"
+                },
+                {
+                    "name": "apple",
+                    "type": "uri",
+                    "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/7a/81/d1/7a81d12e-3ecc-47bb-c0bb-3a8066382f26/mzaf_15776022928920604887.plus.aac.ep.m4a"
+                }
+            ],
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/gb/album/crazy-train/1531535089?i=1531535287&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/gb/album/crazy-train/1531535089?i=1531535287&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                },
+                {
+                    "caption": "BUY",
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "uri": "https://itunes.apple.com/gb/album/crazy-train/1531535089?i=1531535287&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "buy",
+                        "providername": "itunes"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "type": "buy",
+                    "listcaption": "Buy on iTunes",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "itunes"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:Crazy%20Train%20Ozzy%20Osbourne"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27Crazy+Train%27%20artist%3A%27Ozzy+Osbourne%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": false,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [
+                    {
+                        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/1a/9a/61/1a9a6171-5b9b-c5c6-15d2-fb8ce15a810e/pr_source.png/800x800cc.jpg",
+                        "caption": "Ozzy Osbourne"
+                    },
+                    {
+                        "image": "https://is4-ssl.mzstatic.com/image/thumb/Music114/v4/92/06/bd/9206bdb3-453a-db69-44f4-c4b5bfe33510/886448748045.jpg/400x400cc.jpg",
+                        "caption": "Crazy Train"
+                    }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                    {
+                        "title": "Album",
+                        "text": "Blizzard of Ozz (40th Anniversary Expanded Edition)"
+                    },
+                    {
+                        "title": "Label",
+                        "text": "Epic/Legacy"
+                    },
+                    {
+                        "title": "Released",
+                        "text": "1980"
+                    }
+                ]
+            },
+            {
+                "type": "LYRICS",
+                "text": [
+                    "All aboard Ha ha ha ha ha ha ha",
+                    "Ay, ay, ay, ay, ay, ay, ay",
+                    "",
+                    "Crazy, but that's how it goes",
+                    "Millions of people living as foes",
+                    "Maybe it's not too late",
+                    "To learn how to love",
+                    "And forget how to hate",
+                    "",
+                    "Mental wounds not healing",
+                    "Life's a bitter shame",
+                    "I'm going off the rails on a crazy train",
+                    "",
+                    "I'm going off the rails on a crazy train",
+                    "",
+                    "Let's go",
+                    "",
+                    "I've listened to preachers",
+                    "I've listened to fools",
+                    "I've watched all the dropouts",
+                    "Who make their own rules",
+                    "One person conditioned to rule and control",
+                    "The media sells it, and you live the role",
+                    "",
+                    "Mental wounds still screaming",
+                    "Driving me insane",
+                    "I'm going off the rails on a crazy train",
+                    "",
+                    "I'm going off the rails on a crazy train",
+                    "",
+                    "I know that things are going wrong for me",
+                    "You gotta listen to my words, yeah",
+                    "",
+                    "Heirs of a cold war",
+                    "That's what we've become",
+                    "Inheriting troubles, I'm mentally numb",
+                    "Crazy, I just cannot bear",
+                    "I'm living with something that just isn't fair",
+                    "",
+                    "Mental wounds not healing",
+                    "Who and what's to blame?",
+                    "I'm going off the rails on a crazy train",
+                    "",
+                    "I'm going off the rails on a crazy train",
+                    "",
+                    "Ha ha ha ha ha ha ha",
+                    "The ledge, ha-ha, the edge"
+                ],
+                "url": "https://cdn.shazam.com/lyrics/v1/en-US/GB/iphone/musixmatch/subtitles/104957992/292/1?token=423f2a9aa110751f8fdee9a69bc1c08d",
+                "footer": "Writer(s): Ozzy Osbourne\nLyrics powered by www.musixmatch.com",
+                "tabname": "Lyrics",
+                "beacondata": {
+                    "lyricsid": "23997371",
+                    "providername": "musixmatch",
+                    "commontrackid": "104957992"
+                }
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/5237733/youtube/video?q=Ozzy+Osbourne+%22Crazy+Train%22"
+            },
+            {
+                "type": "RELATED",
+                "url": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-5237733?startFrom=0&pageSize=20&connected=",
+                "tabname": "Related"
+            }
+        ],
+        "url": "https://www.shazam.com/track/5237733/crazy-train",
+        "artists": [
+            {
+                "id": "42",
+                "adamid": "886834"
+            }
+        ],
+        "isrc": "USSM11002845",
+        "genres": {
+            "primary": "Metal"
+        },
+        "urlparams": {
+            "{tracktitle}": "Crazy+Train",
+            "{trackartist}": "Ozzy+Osbourne"
+        },
+        "myshazam": {
+            "apple": {
+                "actions": [
+                    {
+                        "name": "myshazam:apple",
+                        "type": "uri",
+                        "uri": "https://music.apple.com/gb/album/crazy-train/1531535089?i=1531535287&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                ]
+            }
+        },
+        "highlightsurls": {
+            "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/886834/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios&videoIdToFilter=1415234326",
+            "trackhighlighturl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/highlights/1415234326?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+        },
+        "relatedtracksurl": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-5237733?startFrom=0&pageSize=20&connected=",
+        "albumadamid": "1531535089"
+    },
+    "tagid": "609B85FB-3B75-46F5-BE6B-A375DF751451"
+}

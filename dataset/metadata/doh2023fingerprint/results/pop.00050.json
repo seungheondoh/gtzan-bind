@@ -1,0 +1,296 @@
+{
+    "matches": [
+        {
+            "id": "204251862",
+            "offset": 30.139773437,
+            "timeskew": 9.179115e-06,
+            "frequencyskew": 0.0
+        },
+        {
+            "id": "40395913",
+            "offset": 29.524494139999998,
+            "timeskew": 0.00020241737,
+            "frequencyskew": -4.029274e-05
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691632690909,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "40395913",
+        "title": "What a Girl Wants",
+        "subtitle": "Christina Aguilera",
+        "images": {
+            "background": "https://is4-ssl.mzstatic.com/image/thumb/Features116/v4/17/79/bd/1779bd84-ebd0-d1b4-101c-4fc1e2044fa7/mzl.kdnoleru.jpg/800x800cc.jpg",
+            "coverart": "https://is5-ssl.mzstatic.com/image/thumb/Music125/v4/6b/25/9b/6b259bc3-3e53-4339-80b0-5b50131c8901/888880771674.jpg/400x400cc.jpg",
+            "coverarthq": "https://is5-ssl.mzstatic.com/image/thumb/Music125/v4/6b/25/9b/6b259bc3-3e53-4339-80b0-5b50131c8901/888880771674.jpg/400x400cc.jpg",
+            "joecolor": "b:f0e8e5p:2a211fs:392c27t:524946q:5e514d"
+        },
+        "share": {
+            "subject": "What a Girl Wants - Christina Aguilera",
+            "text": "What a Girl Wants by Christina Aguilera",
+            "href": "https://www.shazam.com/track/40395913/what-a-girl-wants",
+            "image": "https://is5-ssl.mzstatic.com/image/thumb/Music125/v4/6b/25/9b/6b259bc3-3e53-4339-80b0-5b50131c8901/888880771674.jpg/400x400cc.jpg",
+            "twitter": "I used @Shazam to discover What a Girl Wants by Christina Aguilera.",
+            "html": "https://www.shazam.com/snippets/email-share/40395913?lang=en-US&country=GB",
+            "avatar": "https://is4-ssl.mzstatic.com/image/thumb/Features116/v4/17/79/bd/1779bd84-ebd0-d1b4-101c-4fc1e2044fa7/mzl.kdnoleru.jpg/800x800cc.jpg",
+            "snapchat": "https://www.shazam.com/partner/sc/track/40395913"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "actions": [
+                {
+                    "name": "apple",
+                    "type": "applemusicplay",
+                    "id": "1308542774"
+                },
+                {
+                    "name": "apple",
+                    "type": "uri",
+                    "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/63/6d/d8/636dd842-f415-883b-0961-7a75e1d15403/mzaf_7291859919172458804.plus.aac.ep.m4a"
+                }
+            ],
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/gb/album/what-a-girl-wants/1308542675?i=1308542774&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/gb/album/what-a-girl-wants/1308542675?i=1308542774&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                },
+                {
+                    "caption": "BUY",
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "uri": "https://itunes.apple.com/gb/album/what-a-girl-wants/1308542675?i=1308542774&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "buy",
+                        "providername": "itunes"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "type": "buy",
+                    "listcaption": "Buy on iTunes",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "itunes"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:What%20a%20Girl%20Wants%20Christina%20Aguilera"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27What+a+Girl+Wants%27%20artist%3A%27Christina+Aguilera%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": false,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [
+                    {
+                        "image": "https://is4-ssl.mzstatic.com/image/thumb/Features116/v4/17/79/bd/1779bd84-ebd0-d1b4-101c-4fc1e2044fa7/mzl.kdnoleru.jpg/800x800cc.jpg",
+                        "caption": "Christina Aguilera"
+                    },
+                    {
+                        "image": "https://is5-ssl.mzstatic.com/image/thumb/Music125/v4/6b/25/9b/6b259bc3-3e53-4339-80b0-5b50131c8901/888880771674.jpg/400x400cc.jpg",
+                        "caption": "What a Girl Wants"
+                    }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                    {
+                        "title": "Album",
+                        "text": "Christina Aguilera (Expanded Edition)"
+                    },
+                    {
+                        "title": "Label",
+                        "text": "RCA Records Label"
+                    },
+                    {
+                        "title": "Released",
+                        "text": "1999"
+                    }
+                ]
+            },
+            {
+                "type": "LYRICS",
+                "text": [
+                    "What a girl wants, what a girl needs",
+                    "What a girl wants, what a girl needs",
+                    "Yeah, c'mon!",
+                    "",
+                    "I wanna thank you for givin' me time to breathe",
+                    "Like a rock, you waited so patiently",
+                    "While I got it together",
+                    "While I figured it out (yeah, yeah)",
+                    "I only looked, but I never touched",
+                    "",
+                    "'Cause in my heart was a picture of us",
+                    "Holdin' hands, makin' plans",
+                    "And it's lucky for me, you understand",
+                    "",
+                    "What a girl wants, what a girl needs",
+                    "Whatever makes me happy, sets you free",
+                    "And I'm thankin' you for knowin' exactly",
+                    "",
+                    "What a girl wants, what a girl needs",
+                    "Whatever keeps me in your arms",
+                    "And I'm thankin' you for givin' it to me",
+                    "What I want, is whatcha got",
+                    "And whatcha got, is what I want",
+                    "",
+                    "There was a time I was blind, I was so confused (yeah, yeah)",
+                    "Ran away just to hide it all from you",
+                    "But baby, you knew me better than I knew myself",
+                    "",
+                    "They say if you love somethin', let it go (let it go)",
+                    "If it comes back, it's yours",
+                    "That's how ya know",
+                    "It's for keeps, yeah, it's for sure",
+                    "And you're ready and willin' to give me more than",
+                    "",
+                    "What a girl wants, what a girl needs",
+                    "Whatever makes me happy, sets you free",
+                    "And I'm thankin' you for knowin' exactly",
+                    "",
+                    "What a girl wants, what a girl needs",
+                    "Whatever keeps me in your arms",
+                    "And I'm thankin' you for givin' it to me",
+                    "What a girl wants, what a girl needs",
+                    "Somebody sensitive, crazy, sexy, cool like you",
+                    "What a girl wants, what a girl needs",
+                    "And whatcha got, is what I want",
+                    "What a girl wants (you're so right)",
+                    "What a girl needs (you're so right)",
+                    "You let a girl know how much ya care about her, I swear",
+                    "You're the one who always knew",
+                    "You knew, you knew, you knew, you knew",
+                    "",
+                    "Oh, I'm thankin' you for bein' there for me",
+                    "What a girl wants, what a girl needs",
+                    "Whatever keeps me in your arms",
+                    "Whatever keeps me in your arms, is what I need",
+                    "",
+                    "What a girl wants, what a girl needs",
+                    "Whatever makes me happy, sets you free",
+                    "Oh, it's what I need",
+                    "Oh, it's what I want",
+                    "What I need, what I want (you, yeah, yeah)",
+                    "Oh, baby, I thank you 'cause you know",
+                    "What I want, is whatcha got",
+                    "And whatcha got, is what I want",
+                    "And I'm thankin' you for givin' it to me",
+                    "Oh, baby",
+                    "Oh, darlin'",
+                    "Thank you, thank you",
+                    "For givin' me what I want",
+                    "And what I need, whoa... Ooh..."
+                ],
+                "url": "https://cdn.shazam.com/lyrics/v1/en-US/GB/iphone/musixmatch/subtitles/102850/231/1?token=0e93cc3f35c4818c51d4f05c0b1e9dec",
+                "footer": "Writer(s): Guy Roche, Shelly Peiken\nLyrics powered by www.musixmatch.com",
+                "tabname": "Lyrics",
+                "beacondata": {
+                    "lyricsid": "29864235",
+                    "providername": "musixmatch",
+                    "commontrackid": "102850"
+                }
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/40395913/youtube/video?q=Christina+Aguilera+%22What+a+Girl+Wants%22"
+            },
+            {
+                "type": "RELATED",
+                "url": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-40395913?startFrom=0&pageSize=20&connected=",
+                "tabname": "Related"
+            }
+        ],
+        "url": "https://www.shazam.com/track/40395913/what-a-girl-wants",
+        "artists": [
+            {
+                "id": "42",
+                "adamid": "259398"
+            }
+        ],
+        "isrc": "USRC19901169",
+        "genres": {
+            "primary": "Pop"
+        },
+        "urlparams": {
+            "{tracktitle}": "What+a+Girl+Wants",
+            "{trackartist}": "Christina+Aguilera"
+        },
+        "myshazam": {
+            "apple": {
+                "actions": [
+                    {
+                        "name": "myshazam:apple",
+                        "type": "uri",
+                        "uri": "https://music.apple.com/gb/album/what-a-girl-wants/1308542675?i=1308542774&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                ]
+            }
+        },
+        "highlightsurls": {
+            "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/259398/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios&videoIdToFilter=300708665",
+            "trackhighlighturl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/highlights/300708665?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+        },
+        "relatedtracksurl": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-40395913?startFrom=0&pageSize=20&connected=",
+        "albumadamid": "1308542675"
+    },
+    "tagid": "243F6236-1CCA-403A-BB78-C1A36371DB47"
+}

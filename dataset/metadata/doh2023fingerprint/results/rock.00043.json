@@ -1,0 +1,247 @@
+{
+    "matches": [
+        {
+            "id": "218778596",
+            "offset": 30.0409375,
+            "timeskew": -0.0001154542,
+            "frequencyskew": -0.00016111135
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691633679540,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "5200414",
+        "title": "The Ocean",
+        "subtitle": "Led Zeppelin",
+        "images": {
+            "background": "https://is2-ssl.mzstatic.com/image/thumb/Features125/v4/7d/10/7c/7d107c7b-6e9e-d0f3-d3ea-e1a9fe56ac6b/mza_6622134209630040489.png/800x800cc.jpg",
+            "coverart": "https://is3-ssl.mzstatic.com/image/thumb/Music114/v4/4f/88/ad/4f88ad28-3953-fded-6c18-fe87b5d0dc7b/dj.iqdrlirx.jpg/400x400cc.jpg",
+            "coverarthq": "https://is3-ssl.mzstatic.com/image/thumb/Music114/v4/4f/88/ad/4f88ad28-3953-fded-6c18-fe87b5d0dc7b/dj.iqdrlirx.jpg/400x400cc.jpg",
+            "joecolor": "b:001a0bp:fce7e3s:f6793at:c9beb8q:c56630"
+        },
+        "share": {
+            "subject": "The Ocean - Led Zeppelin",
+            "text": "The Ocean by Led Zeppelin",
+            "href": "https://www.shazam.com/track/5200414/the-ocean",
+            "image": "https://is3-ssl.mzstatic.com/image/thumb/Music114/v4/4f/88/ad/4f88ad28-3953-fded-6c18-fe87b5d0dc7b/dj.iqdrlirx.jpg/400x400cc.jpg",
+            "twitter": "I used @Shazam to discover The Ocean by Led Zeppelin.",
+            "html": "https://www.shazam.com/snippets/email-share/5200414?lang=en-US&country=GB",
+            "avatar": "https://is2-ssl.mzstatic.com/image/thumb/Features125/v4/7d/10/7c/7d107c7b-6e9e-d0f3-d3ea-e1a9fe56ac6b/mza_6622134209630040489.png/800x800cc.jpg",
+            "snapchat": "https://www.shazam.com/partner/sc/track/5200414"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "actions": [
+                {
+                    "name": "apple",
+                    "type": "applemusicplay",
+                    "id": "580707924"
+                },
+                {
+                    "name": "apple",
+                    "type": "uri",
+                    "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/fb/18/e9/fb18e91e-f2ae-4aef-dbc1-93406d63ecbd/mzaf_4124196138065186379.plus.aac.ep.m4a"
+                }
+            ],
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/gb/album/the-ocean/580707916?i=580707924&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/gb/album/the-ocean/580707916?i=580707924&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                },
+                {
+                    "caption": "BUY",
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "uri": "https://itunes.apple.com/gb/album/the-ocean/580707916?i=580707924&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "buy",
+                        "providername": "itunes"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "type": "buy",
+                    "listcaption": "Buy on iTunes",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "itunes"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:The%20Ocean%20Led%20Zeppelin"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27The+Ocean%27%20artist%3A%27Led+Zeppelin%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": false,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [
+                    {
+                        "image": "https://is2-ssl.mzstatic.com/image/thumb/Features125/v4/7d/10/7c/7d107c7b-6e9e-d0f3-d3ea-e1a9fe56ac6b/mza_6622134209630040489.png/800x800cc.jpg",
+                        "caption": "Led Zeppelin"
+                    },
+                    {
+                        "image": "https://is3-ssl.mzstatic.com/image/thumb/Music114/v4/4f/88/ad/4f88ad28-3953-fded-6c18-fe87b5d0dc7b/dj.iqdrlirx.jpg/400x400cc.jpg",
+                        "caption": "The Ocean"
+                    }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                    {
+                        "title": "Album",
+                        "text": "Houses of the Holy (Remastered)"
+                    },
+                    {
+                        "title": "Label",
+                        "text": "Rhino Atlantic"
+                    },
+                    {
+                        "title": "Released",
+                        "text": "1973"
+                    }
+                ]
+            },
+            {
+                "type": "LYRICS",
+                "text": [
+                    "\"We've done four already but now we're steady",
+                    "And then they went: One, two, three, four\"",
+                    "",
+                    "Singing in the sunshine, laughing in the rain",
+                    "Hitting on the moonshine, rocking in the grain",
+                    "Got no time to pack my bags, my foots outside the door",
+                    "I got a date, I can't be late, for the high hopes hailla ball.",
+                    "",
+                    "Singing to an ocean, I can hear the ocean's roar",
+                    "Play for free, I play for me and play a whole lot more, more!",
+                    "Singing about the good things and the sun that lights the day",
+                    "I used to sing on the mountains, has the ocean lost its way.",
+                    "",
+                    "I don't know.",
+                    "",
+                    "Sitting round singing songs 'til the night turns into day",
+                    "Used to sing about the mountains but the mountains washed away",
+                    "Now I'm singing all my songs to the girl who won my heart",
+                    "She is only three years old and it's a real fine way to start.",
+                    "",
+                    "Oh yeah!",
+                    "",
+                    "It sure is fine!",
+                    "Ah blow my mind!",
+                    "Oh when the tears are goin' down!",
+                    "Yeah! Yeah! Yeah!",
+                    "",
+                    "Ooh so good!"
+                ],
+                "url": "https://cdn.shazam.com/lyrics/v1/en-US/GB/iphone/musixmatch/subtitles/92590/271/1?token=97d8661d85918bd7e1abb64c3a16f461",
+                "footer": "Writer(s): James Patrick Page, John Bonham, Robert Anthony Plant, John Paul Jones\nLyrics powered by www.musixmatch.com",
+                "tabname": "Lyrics",
+                "beacondata": {
+                    "lyricsid": "18092873",
+                    "providername": "musixmatch",
+                    "commontrackid": "92590"
+                }
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/5200414/youtube/video?q=Led+Zeppelin+%22The+Ocean%22"
+            },
+            {
+                "type": "RELATED",
+                "url": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-5200414?startFrom=0&pageSize=20&connected=",
+                "tabname": "Related"
+            }
+        ],
+        "url": "https://www.shazam.com/track/5200414/the-ocean",
+        "artists": [
+            {
+                "id": "42",
+                "adamid": "994656"
+            }
+        ],
+        "isrc": "USAT21207058",
+        "genres": {
+            "primary": "Rock"
+        },
+        "urlparams": {
+            "{tracktitle}": "The+Ocean",
+            "{trackartist}": "Led+Zeppelin"
+        },
+        "myshazam": {
+            "apple": {
+                "actions": [
+                    {
+                        "name": "myshazam:apple",
+                        "type": "uri",
+                        "uri": "https://music.apple.com/gb/album/the-ocean/580707916?i=580707924&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                ]
+            }
+        },
+        "highlightsurls": {
+            "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/994656/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+        },
+        "relatedtracksurl": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-5200414?startFrom=0&pageSize=20&connected=",
+        "albumadamid": "580707916"
+    },
+    "tagid": "21CC4452-58AB-4A4F-B000-C9F5D4E1BC6A"
+}

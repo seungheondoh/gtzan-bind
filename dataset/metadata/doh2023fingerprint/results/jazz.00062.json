@@ -1,0 +1,200 @@
+{
+    "matches": [
+        {
+            "id": "213120796",
+            "offset": 30.178220702999997,
+            "timeskew": -0.00015902519,
+            "frequencyskew": -0.0003221631
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691632222668,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "10833517",
+        "title": "Under Paris Skies",
+        "subtitle": "Coleman Hawkins",
+        "images": {
+            "background": "https://is3-ssl.mzstatic.com/image/thumb/Features125/v4/f0/73/0c/f0730c18-ed8e-859d-6234-c4e30f0b41d4/pr_source.png/800x800cc.jpg",
+            "coverart": "https://is4-ssl.mzstatic.com/image/thumb/Music117/v4/0d/9f/f8/0d9ff898-de2b-52c4-8cb7-49014842f3ba/090266850129.jpg/400x400cc.jpg",
+            "coverarthq": "https://is4-ssl.mzstatic.com/image/thumb/Music117/v4/0d/9f/f8/0d9ff898-de2b-52c4-8cb7-49014842f3ba/090266850129.jpg/400x400cc.jpg",
+            "joecolor": "b:fdfffep:1f1f1fs:39291et:4c4c4cq:60544b"
+        },
+        "share": {
+            "subject": "Under Paris Skies - Coleman Hawkins",
+            "text": "Under Paris Skies by Coleman Hawkins",
+            "href": "https://www.shazam.com/track/10833517/under-paris-skies",
+            "image": "https://is4-ssl.mzstatic.com/image/thumb/Music117/v4/0d/9f/f8/0d9ff898-de2b-52c4-8cb7-49014842f3ba/090266850129.jpg/400x400cc.jpg",
+            "twitter": "I used @Shazam to discover Under Paris Skies by Coleman Hawkins.",
+            "html": "https://www.shazam.com/snippets/email-share/10833517?lang=en-US&country=GB",
+            "avatar": "https://is3-ssl.mzstatic.com/image/thumb/Features125/v4/f0/73/0c/f0730c18-ed8e-859d-6234-c4e30f0b41d4/pr_source.png/800x800cc.jpg",
+            "snapchat": "https://www.shazam.com/partner/sc/track/10833517"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "actions": [
+                {
+                    "name": "apple",
+                    "type": "applemusicplay",
+                    "id": "304806118"
+                },
+                {
+                    "name": "apple",
+                    "type": "uri",
+                    "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/f3/7f/55/f37f5594-203a-5c8d-1d42-2e7468d46fd5/mzaf_7460932193136148669.plus.aac.ep.m4a"
+                }
+            ],
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/gb/album/under-paris-skies/304806109?i=304806118&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/gb/album/under-paris-skies/304806109?i=304806118&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                },
+                {
+                    "caption": "BUY",
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "uri": "https://itunes.apple.com/gb/album/under-paris-skies/304806109?i=304806118&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "buy",
+                        "providername": "itunes"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "type": "buy",
+                    "listcaption": "Buy on iTunes",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "itunes"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:Under%20Paris%20Skies%20Coleman%20Hawkins"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27Under+Paris+Skies%27%20artist%3A%27Coleman+Hawkins%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": false,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [
+                    {
+                        "image": "https://is3-ssl.mzstatic.com/image/thumb/Features125/v4/f0/73/0c/f0730c18-ed8e-859d-6234-c4e30f0b41d4/pr_source.png/800x800cc.jpg",
+                        "caption": "Coleman Hawkins"
+                    },
+                    {
+                        "image": "https://is4-ssl.mzstatic.com/image/thumb/Music117/v4/0d/9f/f8/0d9ff898-de2b-52c4-8cb7-49014842f3ba/090266850129.jpg/400x400cc.jpg",
+                        "caption": "Under Paris Skies"
+                    }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                    {
+                        "title": "Album",
+                        "text": "Coleman Hawkins: Greatest Hits"
+                    },
+                    {
+                        "title": "Label",
+                        "text": "RCA Victor"
+                    },
+                    {
+                        "title": "Released",
+                        "text": "1956"
+                    }
+                ]
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/10833517/youtube/video?q=Coleman+Hawkins+%22Under+Paris+Skies%22"
+            }
+        ],
+        "url": "https://www.shazam.com/track/10833517/under-paris-skies",
+        "artists": [
+            {
+                "id": "42",
+                "adamid": "52475"
+            }
+        ],
+        "isrc": "USBB15600297",
+        "genres": {
+            "primary": "Jazz"
+        },
+        "urlparams": {
+            "{tracktitle}": "Under+Paris+Skies",
+            "{trackartist}": "Coleman+Hawkins"
+        },
+        "myshazam": {
+            "apple": {
+                "actions": [
+                    {
+                        "name": "myshazam:apple",
+                        "type": "uri",
+                        "uri": "https://music.apple.com/gb/album/under-paris-skies/304806109?i=304806118&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                ]
+            }
+        },
+        "highlightsurls": {
+            "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/52475/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+        },
+        "albumadamid": "304806109"
+    },
+    "tagid": "FFBD28C8-31F5-4189-8935-50996F82ABDB"
+}

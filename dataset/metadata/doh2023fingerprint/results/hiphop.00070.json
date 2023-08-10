@@ -1,0 +1,290 @@
+{
+    "matches": [
+        {
+            "id": "508243995",
+            "offset": 149.90771875,
+            "timeskew": 5.4836273e-06,
+            "frequencyskew": -0.00028187037
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691632875206,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "2893042",
+        "title": "Buggin' Out",
+        "subtitle": "A Tribe Called Quest",
+        "images": {
+            "background": "https://is2-ssl.mzstatic.com/image/thumb/Features115/v4/a0/ad/bc/a0adbc34-694d-11c0-7bde-530856def3e0/mzl.mdbitjdo.jpg/800x800cc.jpg",
+            "coverart": "https://is3-ssl.mzstatic.com/image/thumb/Music115/v4/e0/14/c8/e014c80a-425b-e01a-1124-cee985bcb5e6/dj.qafpkddz.jpg/400x400cc.jpg",
+            "coverarthq": "https://is3-ssl.mzstatic.com/image/thumb/Music115/v4/e0/14/c8/e014c80a-425b-e01a-1124-cee985bcb5e6/dj.qafpkddz.jpg/400x400cc.jpg",
+            "joecolor": "b:060604p:f14d75s:f83942t:c23e5fq:c72f35"
+        },
+        "share": {
+            "subject": "Buggin' Out - A Tribe Called Quest",
+            "text": "Buggin' Out by A Tribe Called Quest",
+            "href": "https://www.shazam.com/track/2893042/buggin-out",
+            "image": "https://is3-ssl.mzstatic.com/image/thumb/Music115/v4/e0/14/c8/e014c80a-425b-e01a-1124-cee985bcb5e6/dj.qafpkddz.jpg/400x400cc.jpg",
+            "twitter": "I used @Shazam to discover Buggin' Out by A Tribe Called Quest.",
+            "html": "https://www.shazam.com/snippets/email-share/2893042?lang=en-US&country=GB",
+            "avatar": "https://is2-ssl.mzstatic.com/image/thumb/Features115/v4/a0/ad/bc/a0adbc34-694d-11c0-7bde-530856def3e0/mzl.mdbitjdo.jpg/800x800cc.jpg",
+            "snapchat": "https://www.shazam.com/partner/sc/track/2893042"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "actions": [
+                {
+                    "name": "apple",
+                    "type": "applemusicplay",
+                    "id": "278911463"
+                },
+                {
+                    "name": "apple",
+                    "type": "uri",
+                    "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/8f/00/ec/8f00ec78-7fbc-6f09-b09e-26c3a9e43ef6/mzaf_5636932006248809319.plus.aac.ep.m4a"
+                }
+            ],
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/gb/album/buggin-out/278911460?i=278911463&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/gb/album/buggin-out/278911460?i=278911463&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                },
+                {
+                    "caption": "BUY",
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "uri": "https://itunes.apple.com/gb/album/buggin-out/278911460?i=278911463&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "buy",
+                        "providername": "itunes"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "type": "buy",
+                    "listcaption": "Buy on iTunes",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "itunes"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:Buggin%27%20Out%20A%20Tribe%20Called%20Quest"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27Buggin%5C%27+Out%27%20artist%3A%27A+Tribe+Called+Quest%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": false,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [
+                    {
+                        "image": "https://is2-ssl.mzstatic.com/image/thumb/Features115/v4/a0/ad/bc/a0adbc34-694d-11c0-7bde-530856def3e0/mzl.mdbitjdo.jpg/800x800cc.jpg",
+                        "caption": "A Tribe Called Quest"
+                    },
+                    {
+                        "image": "https://is3-ssl.mzstatic.com/image/thumb/Music115/v4/e0/14/c8/e014c80a-425b-e01a-1124-cee985bcb5e6/dj.qafpkddz.jpg/400x400cc.jpg",
+                        "caption": "Buggin' Out"
+                    }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                    {
+                        "title": "Album",
+                        "text": "The Low End Theory"
+                    },
+                    {
+                        "title": "Label",
+                        "text": "Jive"
+                    },
+                    {
+                        "title": "Released",
+                        "text": "1991"
+                    }
+                ]
+            },
+            {
+                "type": "LYRICS",
+                "text": [
+                    "Yo, microphone check one two what is this",
+                    "The five foot assassin' with the ruff neck business",
+                    "I float like gravity, never had a cavity",
+                    "Got more rhymes than the ones that got family",
+                    "No need to sweat Arsenio to gain some type of fame",
+                    "No shame in my game 'cause I'll always be the same",
+                    "Styles upon styles upon styles is what I have",
+                    "You wanna diss the Phifer but you still don't know the half",
+                    "I sport New Balance sneakers to avoid a narrow path",
+                    "Messin' round with this you catch the sizin' of 'em",
+                    "I never half step 'cause I'm not a half stepper",
+                    "Drink a lot of soda so they call me Dr. Pepper",
+                    "Refuse to compete with BS competition",
+                    "Your name ain't Special Ed so won't you Suckle With the Mission",
+                    "I never walk the streets, think it's all about me",
+                    "Even though deep in my heart, it really could be",
+                    "I just try my best to like go all out",
+                    "Some might even say yo shorty black you're buggin' out",
+                    "Zulu Nation, brothers that's creation",
+                    "",
+                    "Minds get flooded, ejaculation right on the two inch tape",
+                    "The Abstract poet incognito, runs the cape",
+                    "Not the best not the worst and occasionally I curse to get my",
+                    "Point across, so bust, the floss",
+                    "As I go in between, the grit and the dirt",
+                    "Listen to the mission listen Miss as I do work, umm",
+                    "As I crack the, monotone children of the jazz so, get your own",
+                    "Smokin' R&B cause they try to do me",
+                    "Or the best of the pack but they can't do rap for it's Abstract, original",
+                    "You can't get your own and that's, pitiful",
+                    "I know I'd be the man if I cold yanked the plug",
+                    "On R&B, but I can't and that's bugged",
+                    "Buggin' out, buggin' out, buggin' out, you're buggin' out x 8",
+                    "Yo when you bug out, you usually have a reason for the action",
+                    "Sometimes you don't it's just for mere satisfaction",
+                    "People be houndin', always surroundin'",
+                    "Pulsin', just like a migraine poundin'",
+                    "",
+                    "You don't really fret, you stay in your sense",
+                    "",
+                    "Comafied your feeling, of absolute tense",
+                    "",
+                    "You soar off to another world, deep in your mind",
+                    "But people seem to take that, as being unkind",
+                    "\"Oh yo he's acting stank,\" really on a regal?",
+                    "A man of the fame not a man of the people",
+                    "Believe that if you wanna but I tell you this much",
+                    "Riding on the train with no dough, sucks",
+                    "Once again a case of your feet in my Nike's",
+                    "If a crowd is in my realm I'm saying, \"Mic please\"",
+                    "Hip-hop is living, can't yank the plug",
+                    "If you do the result, will end up kind of bugged",
+                    "Yo, I am not an invalid although I used to smoke the weed out",
+                    "Ali Shaheed Muhammad used to say I had to be out",
+                    "Schemin' on the cookies with the crazy boomin' back buns",
+                    "Pushin' on the real hardest so we can have the big fun",
+                    "",
+                    "When I left for Rosie I was Boulevard status",
+                    "Battling a MC was when Tip was at his baddest",
+                    "It was one MC after one MC",
+                    "",
+                    "What the world could they be wanting see from little old me",
+                    "Do I have the formula to save the world?",
+                    "Or was it just because I used to swipe the women and all the girls",
+                    "I'm the type of brother with the crazy extended hand kid",
+                    "Dissed by all my brothers, I was all up what my man did",
+                    "Supposed to be my man but now I wonder 'cause you're feeble",
+                    "I go out with the strongest and I separate the evils",
+                    "It's your brain against my mind, for those about to boot out",
+                    "All you nasty critters even though you see I bug out",
+                    "Buggin' out, buggin' out, buggin' out, you're buggin' out x8"
+                ],
+                "url": "https://cdn.shazam.com/lyrics/v1/en-US/GB/iphone/musixmatch/subtitles/11431212/218/1?token=fdaadc68ea161c1b7cf3d0a537dd75dc",
+                "footer": "Writer(s): Malik Izaak Taylor, Ali Shaheed Jones-muhammad, Kamaal Ibn John Fareed\nLyrics powered by www.musixmatch.com",
+                "tabname": "Lyrics",
+                "beacondata": {
+                    "lyricsid": "14010759",
+                    "providername": "musixmatch",
+                    "commontrackid": "11431212"
+                }
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/2893042/youtube/video?q=A+Tribe+Called+Quest+%22Buggin'+Out%22"
+            },
+            {
+                "type": "RELATED",
+                "url": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-2893042?startFrom=0&pageSize=20&connected=",
+                "tabname": "Related"
+            }
+        ],
+        "url": "https://www.shazam.com/track/2893042/buggin-out",
+        "artists": [
+            {
+                "id": "42",
+                "adamid": "1587965"
+            }
+        ],
+        "isrc": "USJI19100001",
+        "genres": {
+            "primary": "Rap"
+        },
+        "urlparams": {
+            "{tracktitle}": "Buggin%27+Out",
+            "{trackartist}": "A+Tribe+Called+Quest"
+        },
+        "myshazam": {
+            "apple": {
+                "actions": [
+                    {
+                        "name": "myshazam:apple",
+                        "type": "uri",
+                        "uri": "https://music.apple.com/gb/album/buggin-out/278911460?i=278911463&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                ]
+            }
+        },
+        "highlightsurls": {
+            "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/1587965/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+        },
+        "relatedtracksurl": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-2893042?startFrom=0&pageSize=20&connected=",
+        "albumadamid": "278911460"
+    },
+    "tagid": "B3FB3AA8-2D50-4CA8-8736-D5432B953F4A"
+}

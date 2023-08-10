@@ -1,0 +1,357 @@
+{
+    "matches": [
+        {
+            "id": "243993789",
+            "offset": 38.751230468,
+            "timeskew": -0.00024789572,
+            "frequencyskew": -0.00036239624
+        },
+        {
+            "id": "443456042",
+            "offset": 29.715945312,
+            "timeskew": -0.00014901161,
+            "frequencyskew": -0.0003221631
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691632754556,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "244642",
+        "title": "All For You",
+        "subtitle": "Janet Jackson",
+        "images": {
+            "background": "https://is4-ssl.mzstatic.com/image/thumb/Features125/v4/a5/ff/c6/a5ffc651-ee12-f65b-3c34-35c598c2560e/pr_source.png/800x800cc.jpg",
+            "coverart": "https://is2-ssl.mzstatic.com/image/thumb/Music115/v4/89/fe/09/89fe0917-a118-e303-846c-bd7074a2b273/10UMGIM22167.rgb.jpg/400x400cc.jpg",
+            "coverarthq": "https://is2-ssl.mzstatic.com/image/thumb/Music115/v4/89/fe/09/89fe0917-a118-e303-846c-bd7074a2b273/10UMGIM22167.rgb.jpg/400x400cc.jpg",
+            "joecolor": "b:271d25p:fdfdfds:bbccd4t:d2d0d2q:9da9b1"
+        },
+        "share": {
+            "subject": "All For You - Janet Jackson",
+            "text": "All For You by Janet Jackson",
+            "href": "https://www.shazam.com/track/244642/all-for-you",
+            "image": "https://is2-ssl.mzstatic.com/image/thumb/Music115/v4/89/fe/09/89fe0917-a118-e303-846c-bd7074a2b273/10UMGIM22167.rgb.jpg/400x400cc.jpg",
+            "twitter": "I used @Shazam to discover All For You by Janet Jackson.",
+            "html": "https://www.shazam.com/snippets/email-share/244642?lang=en-US&country=GB",
+            "avatar": "https://is4-ssl.mzstatic.com/image/thumb/Features125/v4/a5/ff/c6/a5ffc651-ee12-f65b-3c34-35c598c2560e/pr_source.png/800x800cc.jpg",
+            "snapchat": "https://www.shazam.com/partner/sc/track/244642"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "actions": [
+                {
+                    "name": "apple",
+                    "type": "applemusicplay",
+                    "id": "1438809345"
+                },
+                {
+                    "name": "apple",
+                    "type": "uri",
+                    "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/0e/eb/02/0eeb0218-5a65-bb87-6d44-a5b9bda57697/mzaf_15503784228224773184.plus.aac.ep.m4a"
+                }
+            ],
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/gb/album/all-for-you/1438808818?i=1438809345&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/gb/album/all-for-you/1438808818?i=1438809345&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                },
+                {
+                    "caption": "BUY",
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "uri": "https://itunes.apple.com/gb/album/all-for-you/1438808818?i=1438809345&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "buy",
+                        "providername": "itunes"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "type": "buy",
+                    "listcaption": "Buy on iTunes",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "itunes"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:All%20For%20You%20Janet%20Jackson"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27All+For+You%27%20artist%3A%27Janet+Jackson%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": false,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [
+                    {
+                        "image": "https://is4-ssl.mzstatic.com/image/thumb/Features125/v4/a5/ff/c6/a5ffc651-ee12-f65b-3c34-35c598c2560e/pr_source.png/800x800cc.jpg",
+                        "caption": "Janet Jackson"
+                    },
+                    {
+                        "image": "https://is2-ssl.mzstatic.com/image/thumb/Music115/v4/89/fe/09/89fe0917-a118-e303-846c-bd7074a2b273/10UMGIM22167.rgb.jpg/400x400cc.jpg",
+                        "caption": "All For You"
+                    }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                    {
+                        "title": "Album",
+                        "text": "Best of Number Ones"
+                    },
+                    {
+                        "title": "Label",
+                        "text": "A&M"
+                    },
+                    {
+                        "title": "Released",
+                        "text": "2001"
+                    }
+                ]
+            },
+            {
+                "type": "LYRICS",
+                "text": [
+                    "All my girls at the party, look at that body",
+                    "Shakin' that thing like you never did see",
+                    "Got a nice package alright",
+                    "Guess I'm gonna have to ride it tonight",
+                    "All my girls at the party, look at that body",
+                    "Shakin' that thing like you never did see",
+                    "Got a nice package alright",
+                    "Edit; four, three, two, one",
+                    "",
+                    "It's all for you",
+                    "If you really want it",
+                    "It's all for you",
+                    "If you say you need it",
+                    "It's all for you",
+                    "If you gotta have it",
+                    "It's all for you if you make a move",
+                    "It's all for you",
+                    "",
+                    "I see you staring out the corner of my eye",
+                    "You seem uneasy, want to approach me, throw me a line",
+                    "But then something inside you grabs you says, \"Who am I?\"",
+                    "I know exactly 'cause it happens with all the guys",
+                    "",
+                    "So you so what you gonna do",
+                    "Come on and talk to me",
+                    "Promise you won't even have an attitude",
+                    "I'll let you sit right next to me",
+                    "Don't join the list with the other fools",
+                    "That ain't the way to be",
+                    "Yes, it's cool, yes, I'm in the mood",
+                    "Intimidations got that mind",
+                    "",
+                    "It's all for you",
+                    "If you really want it",
+                    "It's all for you",
+                    "If you say you need it",
+                    "It's all for you",
+                    "If you gotta have it",
+                    "It's all for you if you make a move",
+                    "It's all for you",
+                    "",
+                    "Tell me I'm the only one",
+                    "It's all for you",
+                    "Soon you'll be having fun",
+                    "It's all for you",
+                    "Come over here and get some",
+                    "It's all for you if you make a move",
+                    "It's all for you",
+                    "",
+                    "Can't be afraid or keep me waiting for too long",
+                    "Before you know it I'll be outta here, I'll be gone",
+                    "Don't try to be all clever, cute, or even sly",
+                    "Don't have to work that hard",
+                    "Just be yourself and let that be your guide",
+                    "",
+                    "So you so what you gonna do",
+                    "So come on talk to me boy",
+                    "Promise you won't even have an attitude",
+                    "I'll even let you sit right next to me",
+                    "Don't join the list with the other fools",
+                    "That ain't the way to be boy",
+                    "Yes, it's cool, yes, I'm in the mood",
+                    "Intimidation every time",
+                    "",
+                    "It's all for you",
+                    "If you really want it",
+                    "It's all for you",
+                    "If you say you need it",
+                    "It's all for you",
+                    "If you gotta have it",
+                    "It's all for you if you make a move",
+                    "It's all for you",
+                    "",
+                    "Tell me I'm the only one",
+                    "It's all for you",
+                    "Soon you'll be having fun",
+                    "It's all for you",
+                    "Come over here and get some",
+                    "It's all for you if you make a move",
+                    "It's all for you",
+                    "",
+                    "All my girls at the party, look at that body",
+                    "Shakin' that thing like you never did see",
+                    "Got a nice package alright",
+                    "Guess I'm gonna have to ride it tonight",
+                    "All my girls at the party look at that body",
+                    "Shakin' that thing, like you never did see",
+                    "Got a nice package alright",
+                    "Guess I'm gonna have to ride it tonight",
+                    "",
+                    "It's all for you",
+                    "If you really want it",
+                    "It's all for you",
+                    "If you say you need it",
+                    "It's all for you",
+                    "If you gotta have it",
+                    "It's all for you if you make a move",
+                    "It's all for you",
+                    "",
+                    "All my girls at the party, look at that body",
+                    "Shakin' that thing like you never did see",
+                    "Got a nice package alright",
+                    "Guess I'm gonna have to ride it tonight",
+                    "All my girls at the party, look at that body",
+                    "Shakin' that thing like you never did see",
+                    "Got a nice package all right",
+                    "Guess I'm gonna have to ride it tonight",
+                    "",
+                    "It's all for you",
+                    "Tell me I'm the only one",
+                    "Soon we'll be having fun",
+                    "Come over here and get some",
+                    "Soon we'll be having fun",
+                    "Soon we'll be having fun (Soon we'll be having fun)",
+                    "Soon we'll be having fun (Soon we'll be having fun)",
+                    "Soon we'll be having fun (Soon we'll be having fun)",
+                    "Soon we'll be having fun (Soon we'll be having fun)",
+                    "",
+                    "Come over here and get some",
+                    "Soon we'll be having fun",
+                    "Soon we'll be having fun (Soon we'll be having fun)",
+                    "Soon, you'll be fine",
+                    "Soon we'll be having fun",
+                    "Soon we'll be having fun (Soon we'll be having fun)",
+                    "",
+                    "Guess I'm gonna have to ride it",
+                    "Guess I'm gonna have to ride it tonight",
+                    "Guess I'm gonna have to ride it",
+                    "Guess I'm gonna have to ride it",
+                    "Guess I'm gonna have to ride it tonight",
+                    "Guess I'm gonna have to ride it"
+                ],
+                "url": "https://cdn.shazam.com/lyrics/v1/en-US/GB/iphone/musixmatch/subtitles/40652/392/1?token=f3661dd4418b26feda7df5413dceb3f3",
+                "footer": "Writer(s): Terry Lewis, Janet Jackson, Mauro Malavasi, Wayne Garfield, David Romani, James Harris Iii\nLyrics powered by www.musixmatch.com",
+                "tabname": "Lyrics",
+                "beacondata": {
+                    "lyricsid": "30514938",
+                    "providername": "musixmatch",
+                    "commontrackid": "40652"
+                }
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/244642/youtube/video?q=Janet+Jackson+%22All+For+You%22"
+            },
+            {
+                "type": "RELATED",
+                "url": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-244642?startFrom=0&pageSize=20&connected=",
+                "tabname": "Related"
+            }
+        ],
+        "url": "https://www.shazam.com/track/244642/all-for-you",
+        "artists": [
+            {
+                "id": "42",
+                "adamid": "1272779"
+            }
+        ],
+        "isrc": "USVI20100057",
+        "genres": {
+            "primary": "Pop"
+        },
+        "urlparams": {
+            "{tracktitle}": "All+For+You",
+            "{trackartist}": "Janet+Jackson"
+        },
+        "myshazam": {
+            "apple": {
+                "actions": [
+                    {
+                        "name": "myshazam:apple",
+                        "type": "uri",
+                        "uri": "https://music.apple.com/gb/album/all-for-you/1438808818?i=1438809345&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                ]
+            }
+        },
+        "highlightsurls": {
+            "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/1272779/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios&videoIdToFilter=1567568978",
+            "trackhighlighturl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/highlights/1567568978?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+        },
+        "relatedtracksurl": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-244642?startFrom=0&pageSize=20&connected=",
+        "albumadamid": "1438808818"
+    },
+    "tagid": "A99387B4-4ACD-4DE3-BEFF-A00572784454"
+}

@@ -1,0 +1,247 @@
+{
+    "matches": [
+        {
+            "id": "227192402",
+            "offset": 30.14915039,
+            "timeskew": -0.00013530254,
+            "frequencyskew": -0.00036239624
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691633445079,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "5691977",
+        "title": "Johnnie Can't Dance (Johnnie Peut Pas Dancer)",
+        "subtitle": "Zydecajun & Wayne Toups",
+        "images": {
+            "background": "https://is3-ssl.mzstatic.com/image/thumb/Music124/v4/1d/b5/13/1db5131f-3fc5-29fa-ebf6-86752d264e44/00042283651821.rgb.jpg/400x400cc.jpg",
+            "coverart": "https://is3-ssl.mzstatic.com/image/thumb/Music124/v4/1d/b5/13/1db5131f-3fc5-29fa-ebf6-86752d264e44/00042283651821.rgb.jpg/400x400cc.jpg",
+            "coverarthq": "https://is3-ssl.mzstatic.com/image/thumb/Music124/v4/1d/b5/13/1db5131f-3fc5-29fa-ebf6-86752d264e44/00042283651821.rgb.jpg/400x400cc.jpg",
+            "joecolor": "b:050508p:9ae5a2s:9c9fdet:7cb883q:7d81b3"
+        },
+        "share": {
+            "subject": "Johnnie Can't Dance (Johnnie Peut Pas Dancer) - Zydecajun & Wayne Toups",
+            "text": "Johnnie Can't Dance (Johnnie Peut Pas Dancer) by Zydecajun & Wayne Toups",
+            "href": "https://www.shazam.com/track/5691977/johnnie-cant-dance-johnnie-peut-pas-dancer",
+            "image": "https://is3-ssl.mzstatic.com/image/thumb/Music124/v4/1d/b5/13/1db5131f-3fc5-29fa-ebf6-86752d264e44/00042283651821.rgb.jpg/400x400cc.jpg",
+            "twitter": "I used @Shazam to discover Johnnie Can't Dance (Johnnie Peut Pas Dancer) by Zydecajun & Wayne Toups.",
+            "html": "https://www.shazam.com/snippets/email-share/5691977?lang=en-US&country=GB",
+            "snapchat": "https://www.shazam.com/partner/sc/track/5691977"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "actions": [
+                {
+                    "name": "apple",
+                    "type": "applemusicplay",
+                    "id": "1443487901"
+                },
+                {
+                    "name": "apple",
+                    "type": "uri",
+                    "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/55/2d/6b/552d6ba1-d469-7ad7-e29f-93ac79a8ffa5/mzaf_18147337220148276771.plus.aac.ep.m4a"
+                }
+            ],
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/gb/album/johnnie-cant-dance-johnnie-peut-pas-dancer/1443487684?i=1443487901&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/gb/album/johnnie-cant-dance-johnnie-peut-pas-dancer/1443487684?i=1443487901&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                },
+                {
+                    "caption": "BUY",
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "uri": "https://itunes.apple.com/gb/album/johnnie-cant-dance-johnnie-peut-pas-dancer/1443487684?i=1443487901&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "buy",
+                        "providername": "itunes"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "type": "buy",
+                    "listcaption": "Buy on iTunes",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "itunes"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:Johnnie%20Can%27t%20Dance%20%28Johnnie%20Peut%20Pas%20Dancer%29%20Zydecajun"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27Johnnie+Can%5C%27t+Dance+%28Johnnie+Peut+Pas+Dancer%29%27%20artist%3A%27Zydecajun++Wayne+Toups%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": false,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [
+                    {
+                        "image": "https://is3-ssl.mzstatic.com/image/thumb/Music124/v4/1d/b5/13/1db5131f-3fc5-29fa-ebf6-86752d264e44/00042283651821.rgb.jpg/400x400cc.jpg",
+                        "caption": "Johnnie Can't Dance (Johnnie Peut Pas Dancer)"
+                    }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                    {
+                        "title": "Album",
+                        "text": "Blast from the Bayou"
+                    },
+                    {
+                        "title": "Label",
+                        "text": "Island Mercury"
+                    },
+                    {
+                        "title": "Released",
+                        "text": "1989"
+                    }
+                ]
+            },
+            {
+                "type": "LYRICS",
+                "text": [
+                    "Bolehkah aku bertanya",
+                    "Sudah kawinkah belum",
+                    "Ingin aku rasanya",
+                    "Untuk memetik kuntum",
+                    "",
+                    "Sungguh girang hatiku",
+                    "Kalau dapat bertemu",
+                    "Agar kembang tak layu",
+                    "Indah di taman kalbu",
+                    "",
+                    "Kini aku tertawan",
+                    "Pada dikau pujaan",
+                    "Parasmu nan rupawan",
+                    "Tetap jadi ingatan",
+                    "",
+                    "Jika engkau setuju",
+                    "Mari kita ke taman",
+                    "Hilangkan ridu kalbu",
+                    "Jika tak halangan",
+                    "",
+                    "Bolehkah aku bertanya",
+                    "Sudah kawinkah belum",
+                    "Ingin aku rasanya",
+                    "Untuk memetik kuntum",
+                    "",
+                    "Sungguh girang hatiku",
+                    "Kalau dapat bertemu",
+                    "Agar kembang tak layu",
+                    "Indah di taman kalbu",
+                    "",
+                    "Kini aku tertawan",
+                    "Pada dikau pujaan",
+                    "Parasmu nan rupawan",
+                    "Tetap jadi ingatan",
+                    "",
+                    "Jika engkau setuju",
+                    "Mari kita ke taman",
+                    "Hilangkan ridu kalbu",
+                    "Jika tak halangan"
+                ],
+                "url": "https://cdn.shazam.com/lyrics/v1/en-US/GB/iphone/musixmatch/subtitles/38573678/173/1?token=4e26e42a64546980ada208cc5e6e66fc",
+                "footer": "Writer(s): Clifton Chenier, Michael Louis Doucet, Ann Allen Savoy\nLyrics powered by www.musixmatch.com",
+                "tabname": "Lyrics",
+                "beacondata": {
+                    "lyricsid": "12478751",
+                    "providername": "musixmatch",
+                    "commontrackid": "38573678"
+                }
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/5691977/youtube/video?q=Zydecajun+%26+Wayne+Toups+%22Johnnie+Can't+Dance+(Johnnie+Peut+Pas+Dancer)%22"
+            }
+        ],
+        "url": "https://www.shazam.com/track/5691977/johnnie-cant-dance-johnnie-peut-pas-dancer",
+        "artists": [
+            {
+                "id": "42",
+                "adamid": "345781"
+            }
+        ],
+        "isrc": "USWWW0200831",
+        "genres": {
+            "primary": "Pop"
+        },
+        "urlparams": {
+            "{tracktitle}": "Johnnie+Can%27t+Dance+%28Johnnie+Peut+Pas+Dancer%29",
+            "{trackartist}": "Zydecajun+%26+Wayne+Toups"
+        },
+        "myshazam": {
+            "apple": {
+                "actions": [
+                    {
+                        "name": "myshazam:apple",
+                        "type": "uri",
+                        "uri": "https://music.apple.com/gb/album/johnnie-cant-dance-johnnie-peut-pas-dancer/1443487684?i=1443487901&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                ]
+            }
+        },
+        "highlightsurls": {
+            "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/345781/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+        },
+        "albumadamid": "1443487684"
+    },
+    "tagid": "10CE1824-10CD-484D-A119-6CEC49D469BF"
+}

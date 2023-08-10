@@ -1,0 +1,254 @@
+{
+    "matches": [
+        {
+            "id": "213679094",
+            "offset": 29.989490234,
+            "timeskew": -2.5570393e-05,
+            "frequencyskew": -0.00020134449
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691633600861,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "11234354",
+        "title": "Waterfall",
+        "subtitle": "The Stone Roses",
+        "images": {
+            "background": "https://is5-ssl.mzstatic.com/image/thumb/Features115/v4/93/38/10/93381084-ef07-4f04-16e0-3f5120d3d850/mza_7360562026449807387.png/800x800cc.jpg",
+            "coverart": "https://is2-ssl.mzstatic.com/image/thumb/Music124/v4/dd/c6/5f/ddc65f19-f7fe-c708-74c8-6ac2bfe16f3b/mzi.czfvtuoi.jpg/400x400cc.jpg",
+            "coverarthq": "https://is2-ssl.mzstatic.com/image/thumb/Music124/v4/dd/c6/5f/ddc65f19-f7fe-c708-74c8-6ac2bfe16f3b/mzi.czfvtuoi.jpg/400x400cc.jpg",
+            "joecolor": "b:2a1912p:fffff4s:dabc80t:d4d0c6q:b79b6a"
+        },
+        "share": {
+            "subject": "Waterfall - The Stone Roses",
+            "text": "Waterfall by The Stone Roses",
+            "href": "https://www.shazam.com/track/11234354/waterfall",
+            "image": "https://is2-ssl.mzstatic.com/image/thumb/Music124/v4/dd/c6/5f/ddc65f19-f7fe-c708-74c8-6ac2bfe16f3b/mzi.czfvtuoi.jpg/400x400cc.jpg",
+            "twitter": "I used @Shazam to discover Waterfall by The Stone Roses.",
+            "html": "https://www.shazam.com/snippets/email-share/11234354?lang=en-US&country=GB",
+            "avatar": "https://is5-ssl.mzstatic.com/image/thumb/Features115/v4/93/38/10/93381084-ef07-4f04-16e0-3f5120d3d850/mza_7360562026449807387.png/800x800cc.jpg",
+            "snapchat": "https://www.shazam.com/partner/sc/track/11234354"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "actions": [
+                {
+                    "name": "apple",
+                    "type": "applemusicplay",
+                    "id": "325539864"
+                },
+                {
+                    "name": "apple",
+                    "type": "uri",
+                    "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/e5/54/7f/e5547f83-2119-2036-872f-d3787ab4569b/mzaf_14943259160408492577.plus.aac.ep.m4a"
+                }
+            ],
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/gb/album/waterfall/325539526?i=325539864&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/gb/album/waterfall/325539526?i=325539864&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                },
+                {
+                    "caption": "BUY",
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "uri": "https://itunes.apple.com/gb/album/waterfall/325539526?i=325539864&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "buy",
+                        "providername": "itunes"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "type": "buy",
+                    "listcaption": "Buy on iTunes",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "itunes"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:Waterfall%20The%20Stone%20Roses"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27Waterfall%27%20artist%3A%27The+Stone+Roses%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": false,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [
+                    {
+                        "image": "https://is5-ssl.mzstatic.com/image/thumb/Features115/v4/93/38/10/93381084-ef07-4f04-16e0-3f5120d3d850/mza_7360562026449807387.png/800x800cc.jpg",
+                        "caption": "The Stone Roses"
+                    },
+                    {
+                        "image": "https://is2-ssl.mzstatic.com/image/thumb/Music124/v4/dd/c6/5f/ddc65f19-f7fe-c708-74c8-6ac2bfe16f3b/mzi.czfvtuoi.jpg/400x400cc.jpg",
+                        "caption": "Waterfall"
+                    }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                    {
+                        "title": "Album",
+                        "text": "The Stone Roses (20th Anniversary Collector's Edition)"
+                    },
+                    {
+                        "title": "Label",
+                        "text": "Silvertone"
+                    },
+                    {
+                        "title": "Released",
+                        "text": "1989"
+                    }
+                ]
+            },
+            {
+                "type": "LYRICS",
+                "text": [
+                    "Chimes sing Sunday morn",
+                    "Today's the day she's sworn",
+                    "To steal what she never could own",
+                    "And race from this hole she calls home",
+                    "",
+                    "Now you're at the wheel",
+                    "Tell me how, how does it feel?",
+                    "So good to have equalized",
+                    "To lift up the lids of your eyes",
+                    "",
+                    "As the miles they disappear",
+                    "See land begin to clear",
+                    "Free from the filth and the scum",
+                    "This American satellite's won",
+                    "",
+                    "She'll carry on through it all",
+                    "She's a waterfall",
+                    "She'll carry on through it all",
+                    "She's a waterfall",
+                    "",
+                    "See the steeple pine",
+                    "The hills as old as time",
+                    "Soon to be put to the test",
+                    "To be whipped by the winds of the west",
+                    "",
+                    "Stands on shifting sands",
+                    "The scales held in her hands",
+                    "The wind it just whips her and wails",
+                    "And fills up her brigantine sails",
+                    "",
+                    "She'll carry on through it all",
+                    "She's a waterfall",
+                    "She'll carry on through it all",
+                    "She's a waterfall"
+                ],
+                "url": "https://cdn.shazam.com/lyrics/v1/en-US/GB/iphone/musixmatch/subtitles/6358/278/1?token=c504d2fe7d4e68073e5c43e9b98b1265",
+                "footer": "Writer(s): Ian George Brown, John Squire\nLyrics powered by www.musixmatch.com",
+                "tabname": "Lyrics",
+                "beacondata": {
+                    "lyricsid": "32036775",
+                    "providername": "musixmatch",
+                    "commontrackid": "6358"
+                }
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/11234354/youtube/video?q=The+Stone+Roses+%22Waterfall%22"
+            },
+            {
+                "type": "RELATED",
+                "url": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-11234354?startFrom=0&pageSize=20&connected=",
+                "tabname": "Related"
+            }
+        ],
+        "url": "https://www.shazam.com/track/11234354/waterfall",
+        "artists": [
+            {
+                "id": "42",
+                "adamid": "158384403"
+            }
+        ],
+        "isrc": "GBAHJ0900003",
+        "genres": {
+            "primary": "Alternative"
+        },
+        "urlparams": {
+            "{tracktitle}": "Waterfall",
+            "{trackartist}": "The+Stone+Roses"
+        },
+        "myshazam": {
+            "apple": {
+                "actions": [
+                    {
+                        "name": "myshazam:apple",
+                        "type": "uri",
+                        "uri": "https://music.apple.com/gb/album/waterfall/325539526?i=325539864&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                ]
+            }
+        },
+        "highlightsurls": {
+            "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/158384403/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios&videoIdToFilter=325592165",
+            "trackhighlighturl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/highlights/325592165?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+        },
+        "relatedtracksurl": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-11234354?startFrom=0&pageSize=20&connected=",
+        "albumadamid": "325539526"
+    },
+    "tagid": "5BEE945B-E6FF-40DE-9DD4-7EBA97C445B0"
+}

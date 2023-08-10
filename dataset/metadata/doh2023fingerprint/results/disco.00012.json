@@ -1,0 +1,328 @@
+{
+    "matches": [
+        {
+            "id": "411407343",
+            "offset": 90.824945312,
+            "timeskew": -0.008739769,
+            "frequencyskew": -0.009379804
+        },
+        {
+            "id": "446956514",
+            "offset": 90.08280468699999,
+            "timeskew": -0.013113022,
+            "frequencyskew": -0.013957202
+        },
+        {
+            "id": "40229763",
+            "offset": 91.08705468699999,
+            "timeskew": -0.012851775,
+            "frequencyskew": -0.013440847
+        },
+        {
+            "id": "450067530",
+            "offset": 90.71453125,
+            "timeskew": -0.0098772645,
+            "frequencyskew": -0.010775149
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691632447559,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "5594822",
+        "title": "She's A Bad Mama Jama (She's Built, She's Stacked)",
+        "subtitle": "Carl Carlton",
+        "images": {
+            "background": "https://is3-ssl.mzstatic.com/image/thumb/AMCArtistImages116/v4/ae/f9/a4/aef9a4b2-4bc4-1794-a69d-8d692ae45568/5e654cee-28a4-4f04-bcde-e5b8c555a78c_ami-identity-b66d4eb0c6bf830abca98676c763400e-2023-06-07T10-35-09.661Z_cropped.png/800x800cc.jpg",
+            "coverart": "https://is3-ssl.mzstatic.com/image/thumb/Music125/v4/4e/ed/d6/4eedd68c-fb10-1178-cc9a-fe9f4decf363/21UMGIM85165.rgb.jpg/400x400cc.jpg",
+            "coverarthq": "https://is3-ssl.mzstatic.com/image/thumb/Music125/v4/4e/ed/d6/4eedd68c-fb10-1178-cc9a-fe9f4decf363/21UMGIM85165.rgb.jpg/400x400cc.jpg",
+            "joecolor": "b:000703p:aee4ecs:a2b0edt:8bb8bdq:828ebe"
+        },
+        "share": {
+            "subject": "She's A Bad Mama Jama (She's Built, She's Stacked) - Carl Carlton",
+            "text": "She's A Bad Mama Jama (She's Built, She's Stacked) by Carl Carlton",
+            "href": "https://www.shazam.com/track/5594822/shes-a-bad-mama-jama-shes-built-shes-stacked",
+            "image": "https://is3-ssl.mzstatic.com/image/thumb/Music125/v4/4e/ed/d6/4eedd68c-fb10-1178-cc9a-fe9f4decf363/21UMGIM85165.rgb.jpg/400x400cc.jpg",
+            "twitter": "I used @Shazam to discover She's A Bad Mama Jama (She's Built, She's Stacked) by Carl Carlton.",
+            "html": "https://www.shazam.com/snippets/email-share/5594822?lang=en-US&country=GB",
+            "avatar": "https://is3-ssl.mzstatic.com/image/thumb/AMCArtistImages116/v4/ae/f9/a4/aef9a4b2-4bc4-1794-a69d-8d692ae45568/5e654cee-28a4-4f04-bcde-e5b8c555a78c_ami-identity-b66d4eb0c6bf830abca98676c763400e-2023-06-07T10-35-09.661Z_cropped.png/800x800cc.jpg",
+            "snapchat": "https://www.shazam.com/partner/sc/track/5594822"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "actions": [
+                {
+                    "name": "apple",
+                    "type": "applemusicplay",
+                    "id": "1583871104"
+                },
+                {
+                    "name": "apple",
+                    "type": "uri",
+                    "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/4e/99/da/4e99da4c-b0b0-6c8e-af74-21a1f7c3f611/mzaf_12492326603516843107.plus.aac.ep.m4a"
+                }
+            ],
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/gb/album/shes-a-bad-mama-jama-shes-built-shes-stacked/1583870969?i=1583871104&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/gb/album/shes-a-bad-mama-jama-shes-built-shes-stacked/1583870969?i=1583871104&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                },
+                {
+                    "caption": "BUY",
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "uri": "https://itunes.apple.com/gb/album/shes-a-bad-mama-jama-shes-built-shes-stacked/1583870969?i=1583871104&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "buy",
+                        "providername": "itunes"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "type": "buy",
+                    "listcaption": "Buy on iTunes",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "itunes"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:She%27s%20A%20Bad%20Mama%20Jama%20%28She%27s%20Built%2C%20She%27s%20Stacked%29%20Carl%20Carlton"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27She%5C%27s+A+Bad+Mama+Jama+%28She%5C%27s+Built%2C+She%5C%27s+Stacked%29%27%20artist%3A%27Carl+Carlton%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": false,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [
+                    {
+                        "image": "https://is3-ssl.mzstatic.com/image/thumb/AMCArtistImages116/v4/ae/f9/a4/aef9a4b2-4bc4-1794-a69d-8d692ae45568/5e654cee-28a4-4f04-bcde-e5b8c555a78c_ami-identity-b66d4eb0c6bf830abca98676c763400e-2023-06-07T10-35-09.661Z_cropped.png/800x800cc.jpg",
+                        "caption": "Carl Carlton"
+                    },
+                    {
+                        "image": "https://is3-ssl.mzstatic.com/image/thumb/Music125/v4/4e/ed/d6/4eedd68c-fb10-1178-cc9a-fe9f4decf363/21UMGIM85165.rgb.jpg/400x400cc.jpg",
+                        "caption": "She's A Bad Mama Jama (She's Built, She's Stacked)"
+                    }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                    {
+                        "title": "Album",
+                        "text": "Carl Carlton (Expanded Edition)"
+                    },
+                    {
+                        "title": "Label",
+                        "text": "Universal Records"
+                    },
+                    {
+                        "title": "Released",
+                        "text": "1981"
+                    }
+                ]
+            },
+            {
+                "type": "LYRICS",
+                "text": [
+                    "Yeah, ooh, ooh, ooh, hoo, look at her",
+                    "",
+                    "She's a bad mama jama",
+                    "Just as fine as she can be, hey",
+                    "She's a bad mama jama",
+                    "Just as fine as she can be",
+                    "",
+                    "Her body measurements",
+                    "Are perfect in every dimension",
+                    "She's got a figure that's",
+                    "Sho' 'nuff gettin' attention",
+                    "",
+                    "She's poetry in motion",
+                    "A beautiful sight to see",
+                    "I get so excited viewin' her anatomy",
+                    "",
+                    "(She's built)",
+                    "She's built, she's stacked",
+                    "(Oh, she's got)",
+                    "Got all the curves that men like",
+                    "(She's got all the curves that men like)",
+                    "",
+                    "(She's built)",
+                    "She's built, she's stacked",
+                    "(Oh, she's got)",
+                    "Got all the curves that men like",
+                    "(Got all the curves that men like, look at her)",
+                    "",
+                    "She's a bad mama jama",
+                    "Just as fine as she can be, hey",
+                    "She's a bad mama jama, oh",
+                    "Just as fine as she can be",
+                    "",
+                    "Looks like she's poured into the gold, she bad",
+                    "The essence of beauty, ooh, such lovely hair",
+                    "She's foxy, classy, oh, sexy, sassy",
+                    "She's heavenly, a treat for the eye to see",
+                    "",
+                    "(She's built)",
+                    "She's built, she's stacked",
+                    "(Oh, she's got)",
+                    "Got all the curves that men like",
+                    "(Got all the curves that men like, oh)",
+                    "",
+                    "(She's built)",
+                    "She's built, she's stacked",
+                    "(Oh, she's got)",
+                    "Got all the curves that men like",
+                    "(Got all the curves that men like, ooh, wee)",
+                    "",
+                    "She's a bad mama jama",
+                    "(Ooh, she's bad)",
+                    "Just as fine as she can be, hey",
+                    "She's a bad mama jama, ho ho",
+                    "Just as fine as she can be",
+                    "",
+                    "Woo, hoo, na, na, na, na, na, na, na, na, na, na, na, na",
+                    "Woo, hoo, na, na, na, na, na, na, na, na, na, na, na, na",
+                    "Woo, hoo, she's built, she's stacked",
+                    "Got all the curves that men like",
+                    "",
+                    "Her body measurements",
+                    "Are perfect in every dimension",
+                    "She's got a figure that's",
+                    "Sho' 'nuff gettin' attention",
+                    "",
+                    "She's poetry in motion",
+                    "A beautiful sight to see",
+                    "I get so excited viewin' her anatomy",
+                    "",
+                    "(She's built)",
+                    "She's built, she's stacked",
+                    "(Oh, she's stacked)",
+                    "Got all the curves that men like",
+                    "(Got all the curves that men like)",
+                    "",
+                    "(She's built)",
+                    "She's built, she's stacked",
+                    "(Oh, she's got)",
+                    "Got all the curves that men like",
+                    "(She got all the curves that men like, look at her)",
+                    "",
+                    "She's a bad mama jama",
+                    "(Hey, hey, hey, hey, yeah)",
+                    "Just as fine as she can be",
+                    "(Oh, yeah)",
+                    "",
+                    "She's a bad mama jama,",
+                    "(Oh, oh, oh, oh, oh, oh, oh oh, oh I don't understand)",
+                    "Just as fine as she can be",
+                    "She's a bad mama jama"
+                ],
+                "url": "https://cdn.shazam.com/lyrics/v1/en-US/GB/iphone/musixmatch/subtitles/12525421/303/1?token=bac343738802053251ead4a6cf48df8e",
+                "footer": "Writer(s): Leon Haywood\nLyrics powered by www.musixmatch.com",
+                "tabname": "Lyrics",
+                "beacondata": {
+                    "lyricsid": "8570342",
+                    "providername": "musixmatch",
+                    "commontrackid": "12525421"
+                }
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/5594822/youtube/video?q=Carl+Carlton+%22She's+A+Bad+Mama+Jama+(She's+Built,+She's+Stacked)%22"
+            },
+            {
+                "type": "RELATED",
+                "url": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-5594822?startFrom=0&pageSize=20&connected=",
+                "tabname": "Related"
+            }
+        ],
+        "url": "https://www.shazam.com/track/5594822/shes-a-bad-mama-jama-shes-built-shes-stacked",
+        "artists": [
+            {
+                "id": "42",
+                "adamid": "133507463"
+            }
+        ],
+        "isrc": "USMR18189051",
+        "genres": {
+            "primary": "R&B/Soul"
+        },
+        "urlparams": {
+            "{tracktitle}": "She%27s+A+Bad+Mama+Jama+%28She%27s+Built%2C+She%27s+Stacked%29",
+            "{trackartist}": "Carl+Carlton"
+        },
+        "myshazam": {
+            "apple": {
+                "actions": [
+                    {
+                        "name": "myshazam:apple",
+                        "type": "uri",
+                        "uri": "https://music.apple.com/gb/album/shes-a-bad-mama-jama-shes-built-shes-stacked/1583870969?i=1583871104&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                ]
+            }
+        },
+        "highlightsurls": {
+            "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/133507463/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+        },
+        "relatedtracksurl": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-5594822?startFrom=0&pageSize=20&connected=",
+        "albumadamid": "1583870969"
+    },
+    "tagid": "30287C38-E114-4D73-8043-F4CFC22011C7"
+}

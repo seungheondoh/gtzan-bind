@@ -1,0 +1,236 @@
+{
+    "matches": [
+        {
+            "id": "224926930",
+            "offset": 30.157935546,
+            "timeskew": -0.00097215176,
+            "frequencyskew": -0.0009661317
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691633405389,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "10765007",
+        "title": "Today I Started Loving You Again",
+        "subtitle": "Kenny Rogers",
+        "images": {
+            "background": "https://is2-ssl.mzstatic.com/image/thumb/Features115/v4/4b/37/b2/4b37b28f-7780-ad6e-9d98-f9cfeebf95f1/mzl.faedfpir.jpg/800x800cc.jpg",
+            "coverart": "https://is2-ssl.mzstatic.com/image/thumb/Music115/v4/c5/26/ad/c526ad07-d777-57e3-5c1f-34ce90d53f9f/00602567643258.rgb.jpg/400x400cc.jpg",
+            "coverarthq": "https://is2-ssl.mzstatic.com/image/thumb/Music115/v4/c5/26/ad/c526ad07-d777-57e3-5c1f-34ce90d53f9f/00602567643258.rgb.jpg/400x400cc.jpg",
+            "joecolor": "b:030306p:fed875s:f6a83et:ccad5fq:c68733"
+        },
+        "share": {
+            "subject": "Today I Started Loving You Again - Kenny Rogers",
+            "text": "Today I Started Loving You Again by Kenny Rogers",
+            "href": "https://www.shazam.com/track/10765007/today-i-started-loving-you-again",
+            "image": "https://is2-ssl.mzstatic.com/image/thumb/Music115/v4/c5/26/ad/c526ad07-d777-57e3-5c1f-34ce90d53f9f/00602567643258.rgb.jpg/400x400cc.jpg",
+            "twitter": "I used @Shazam to discover Today I Started Loving You Again by Kenny Rogers.",
+            "html": "https://www.shazam.com/snippets/email-share/10765007?lang=en-US&country=GB",
+            "avatar": "https://is2-ssl.mzstatic.com/image/thumb/Features115/v4/4b/37/b2/4b37b28f-7780-ad6e-9d98-f9cfeebf95f1/mzl.faedfpir.jpg/800x800cc.jpg",
+            "snapchat": "https://www.shazam.com/partner/sc/track/10765007"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "actions": [
+                {
+                    "name": "apple",
+                    "type": "applemusicplay",
+                    "id": "1379806268"
+                },
+                {
+                    "name": "apple",
+                    "type": "uri",
+                    "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/56/8a/7c/568a7cf5-72a7-404b-539e-60a72f7da2ca/mzaf_7974976751593896223.plus.aac.ep.m4a"
+                }
+            ],
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/gb/album/today-i-started-loving-you-again/1379805425?i=1379806268&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/gb/album/today-i-started-loving-you-again/1379805425?i=1379806268&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                },
+                {
+                    "caption": "BUY",
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "uri": "https://itunes.apple.com/gb/album/today-i-started-loving-you-again/1379805425?i=1379806268&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "buy",
+                        "providername": "itunes"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "type": "buy",
+                    "listcaption": "Buy on iTunes",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "itunes"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:Today%20I%20Started%20Loving%20You%20Again%20Kenny%20Rogers"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27Today+I+Started+Loving+You+Again%27%20artist%3A%27Kenny+Rogers%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": false,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [
+                    {
+                        "image": "https://is2-ssl.mzstatic.com/image/thumb/Features115/v4/4b/37/b2/4b37b28f-7780-ad6e-9d98-f9cfeebf95f1/mzl.faedfpir.jpg/800x800cc.jpg",
+                        "caption": "Kenny Rogers"
+                    },
+                    {
+                        "image": "https://is2-ssl.mzstatic.com/image/thumb/Music115/v4/c5/26/ad/c526ad07-d777-57e3-5c1f-34ce90d53f9f/00602567643258.rgb.jpg/400x400cc.jpg",
+                        "caption": "Today I Started Loving You Again"
+                    }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                    {
+                        "title": "Album",
+                        "text": "Ten Years Of Gold"
+                    },
+                    {
+                        "title": "Label",
+                        "text": "EMI Music Nashville (ERN)"
+                    },
+                    {
+                        "title": "Released",
+                        "text": "1977"
+                    }
+                ]
+            },
+            {
+                "type": "LYRICS",
+                "text": [
+                    "Well, today I started loving you again",
+                    "Now I'm right back where I've really always been",
+                    "I got over you just long enough to let my heartaches mend",
+                    "Then today I started loving you again",
+                    "",
+                    "What a fool I was to think I could get by",
+                    "With only these few million tears I've cried",
+                    "I should have known the worst was yet to come",
+                    "And that crying time for me had just begun",
+                    "",
+                    "Well, today I started loving you again",
+                    "And I'm right back where I've really always been",
+                    "I got over you just long enough to let my heartaches mend",
+                    "Then today I started loving you again",
+                    "",
+                    "I got over you just long enough to let my heartaches mend",
+                    "Then today I started loving you again"
+                ],
+                "url": "https://cdn.shazam.com/lyrics/v1/en-US/GB/iphone/musixmatch/subtitles/180247/185/1?token=b23aa3a3eff2e5420522038376d19bae",
+                "footer": "Writer(s): Lashaun Tyson Owens, Merle Haggard\nLyrics powered by www.musixmatch.com",
+                "tabname": "Lyrics",
+                "beacondata": {
+                    "lyricsid": "21487779",
+                    "providername": "musixmatch",
+                    "commontrackid": "180247"
+                }
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/10765007/youtube/video?q=Kenny+Rogers+%22Today+I+Started+Loving+You+Again%22"
+            },
+            {
+                "type": "RELATED",
+                "url": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-10765007?startFrom=0&pageSize=20&connected=",
+                "tabname": "Related"
+            }
+        ],
+        "url": "https://www.shazam.com/track/10765007/today-i-started-loving-you-again",
+        "artists": [
+            {
+                "id": "42",
+                "adamid": "200498"
+            }
+        ],
+        "isrc": "USCN17700026",
+        "genres": {
+            "primary": "Country"
+        },
+        "urlparams": {
+            "{tracktitle}": "Today+I+Started+Loving+You+Again",
+            "{trackartist}": "Kenny+Rogers"
+        },
+        "myshazam": {
+            "apple": {
+                "actions": [
+                    {
+                        "name": "myshazam:apple",
+                        "type": "uri",
+                        "uri": "https://music.apple.com/gb/album/today-i-started-loving-you-again/1379805425?i=1379806268&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                ]
+            }
+        },
+        "highlightsurls": {
+            "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/200498/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+        },
+        "relatedtracksurl": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-10765007?startFrom=0&pageSize=20&connected=",
+        "albumadamid": "1379805425"
+    },
+    "tagid": "89D3B826-9974-4017-B505-A9E6E8754DAD"
+}

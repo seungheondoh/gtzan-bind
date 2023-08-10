@@ -1,0 +1,244 @@
+{
+    "matches": [
+        {
+            "id": "206374059",
+            "offset": 30.442787109,
+            "timeskew": 0.00018692017,
+            "frequencyskew": 0.0
+        },
+        {
+            "id": "208698305",
+            "offset": 30.121654296,
+            "timeskew": -0.000536561,
+            "frequencyskew": -4.029274e-05
+        },
+        {
+            "id": "305589367",
+            "offset": 29.609384764999998,
+            "timeskew": -0.009798467,
+            "frequencyskew": -0.010974348
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691632679364,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "315262167",
+        "title": "Milkcow's Calf Blues",
+        "subtitle": "Robert Johnson",
+        "images": {
+            "background": "https://is1-ssl.mzstatic.com/image/thumb/Features125/v4/ca/df/91/cadf91c2-0f43-7a03-d6e5-91778c2701ba/pr_source.png/800x800cc.jpg",
+            "coverart": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/3c/74/0d/3c740deb-0293-4184-a66d-5176b9e872a4/mzi.scyemciw.jpg/400x400cc.jpg",
+            "coverarthq": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/3c/74/0d/3c740deb-0293-4184-a66d-5176b9e872a4/mzi.scyemciw.jpg/400x400cc.jpg",
+            "joecolor": "b:7f3b21p:f9f9f9s:feeae3t:e0d3cdq:e5c7bc"
+        },
+        "share": {
+            "subject": "Milkcow's Calf Blues - Robert Johnson",
+            "text": "Milkcow's Calf Blues by Robert Johnson",
+            "href": "https://www.shazam.com/track/315262167/milkcows-calf-blues",
+            "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/3c/74/0d/3c740deb-0293-4184-a66d-5176b9e872a4/mzi.scyemciw.jpg/400x400cc.jpg",
+            "twitter": "I used @Shazam to discover Milkcow's Calf Blues by Robert Johnson.",
+            "html": "https://www.shazam.com/snippets/email-share/315262167?lang=en-US&country=GB",
+            "avatar": "https://is1-ssl.mzstatic.com/image/thumb/Features125/v4/ca/df/91/cadf91c2-0f43-7a03-d6e5-91778c2701ba/pr_source.png/800x800cc.jpg",
+            "snapchat": "https://www.shazam.com/partner/sc/track/315262167"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "actions": [
+                {
+                    "name": "apple",
+                    "type": "applemusicplay",
+                    "id": "157432452"
+                },
+                {
+                    "name": "apple",
+                    "type": "uri",
+                    "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/14/16/31/14163182-555c-6591-7308-268732e080c0/mzaf_12564164261716883175.plus.aac.p.m4a"
+                }
+            ],
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/gb/album/milkcows-calf-blues/157432232?i=157432452&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/gb/album/milkcows-calf-blues/157432232?i=157432452&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                },
+                {
+                    "caption": "BUY",
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "uri": "https://itunes.apple.com/gb/album/milkcows-calf-blues/157432232?i=157432452&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "buy",
+                        "providername": "itunes"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "type": "buy",
+                    "listcaption": "Buy on iTunes",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "itunes"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:Milkcow%27s%20Calf%20Blues%20Robert%20Johnson"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27Milkcow%5C%27s+Calf+Blues%27%20artist%3A%27Robert+Johnson%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": false,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [
+                    {
+                        "image": "https://is1-ssl.mzstatic.com/image/thumb/Features125/v4/ca/df/91/cadf91c2-0f43-7a03-d6e5-91778c2701ba/pr_source.png/800x800cc.jpg",
+                        "caption": "Robert Johnson"
+                    },
+                    {
+                        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/3c/74/0d/3c740deb-0293-4184-a66d-5176b9e872a4/mzi.scyemciw.jpg/400x400cc.jpg",
+                        "caption": "Milkcow's Calf Blues"
+                    }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                    {
+                        "title": "Album",
+                        "text": "King of the Delta Blues Singers"
+                    },
+                    {
+                        "title": "Label",
+                        "text": "Columbia/Legacy"
+                    },
+                    {
+                        "title": "Released",
+                        "text": "1961"
+                    }
+                ]
+            },
+            {
+                "type": "LYRICS",
+                "text": [
+                    "Tell me, milk cow, what on earth is wrong with you?",
+                    "Tell me, milk cow, what on earth is wrong with you?",
+                    "Now, you've left you a calf, hoo hoo",
+                    "And your milk is turnin' blue",
+                    "",
+                    "Your calf is hungry, I believe he needs a suck",
+                    "Your calf is hungry, hoo hoo, I believe he needs a suck",
+                    "But your milk is turnin' blue, hoo hoo",
+                    "I believe he's outta luck",
+                    "",
+                    "Now I feel like milkin' and my cow won't come",
+                    "I feel like churnin' it and my, milk won't turn",
+                    "I'm cryin' please, please don't do me wrong",
+                    "If you see my milk, oh baby now please drive home",
+                    "",
+                    "My milk cow been ramblin', hoo hoo, for miles around",
+                    "My milk cow been ramblin', hoo hoo, for miles around",
+                    "Well, now she been troublin' some other man bull cow",
+                    "Hoo hoo, in this strange man town"
+                ],
+                "url": "https://cdn.shazam.com/lyrics/v1/en-US/GB/iphone/musixmatch/subtitles/29135429/153/1?token=2b1622903f7680b1003fb76ce6af6cfe",
+                "footer": "Writer(s): Robert Johnson\nLyrics powered by www.musixmatch.com",
+                "tabname": "Lyrics",
+                "beacondata": {
+                    "lyricsid": "4871254",
+                    "providername": "musixmatch",
+                    "commontrackid": "29135429"
+                }
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/315262167/youtube/video?q=Robert+Johnson+%22Milkcow's+Calf+Blues%22"
+            }
+        ],
+        "url": "https://www.shazam.com/track/315262167/milkcows-calf-blues",
+        "artists": [
+            {
+                "id": "42",
+                "adamid": "314626"
+            }
+        ],
+        "isrc": "USSM13700050",
+        "genres": {
+            "primary": "Blues"
+        },
+        "urlparams": {
+            "{tracktitle}": "Milkcow%27s+Calf+Blues",
+            "{trackartist}": "Robert+Johnson"
+        },
+        "myshazam": {
+            "apple": {
+                "actions": [
+                    {
+                        "name": "myshazam:apple",
+                        "type": "uri",
+                        "uri": "https://music.apple.com/gb/album/milkcows-calf-blues/157432232?i=157432452&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                ]
+            }
+        },
+        "highlightsurls": {
+            "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/314626/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+        },
+        "albumadamid": "157432232"
+    },
+    "tagid": "3FE50903-6312-443E-882E-1CAF69797A4A"
+}

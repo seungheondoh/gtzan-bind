@@ -1,0 +1,303 @@
+{
+    "matches": [
+        {
+            "id": "202393799",
+            "offset": 30.81415625,
+            "timeskew": 0.00019299984,
+            "frequencyskew": -4.029274e-05
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691632411130,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "49493950",
+        "title": "Boogie Nights",
+        "subtitle": "Heatwave",
+        "images": {
+            "background": "https://is1-ssl.mzstatic.com/image/thumb/Features125/v4/f8/28/a7/f828a7e3-98eb-1ac5-d1a7-c93ba5e1a014/pr_source.png/800x800cc.jpg",
+            "coverart": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/bd/54/f0/bd54f0f7-62a8-ba56-c630-d21fb7148456/mzi.ogfrxmny.jpg/400x400cc.jpg",
+            "coverarthq": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/bd/54/f0/bd54f0f7-62a8-ba56-c630-d21fb7148456/mzi.ogfrxmny.jpg/400x400cc.jpg",
+            "joecolor": "b:e0c949p:0b0400s:231b12t:362b0eq:483d1d"
+        },
+        "share": {
+            "subject": "Boogie Nights - Heatwave",
+            "text": "Boogie Nights by Heatwave",
+            "href": "https://www.shazam.com/track/49493950/boogie-nights",
+            "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/bd/54/f0/bd54f0f7-62a8-ba56-c630-d21fb7148456/mzi.ogfrxmny.jpg/400x400cc.jpg",
+            "twitter": "I used @Shazam to discover Boogie Nights by Heatwave.",
+            "html": "https://www.shazam.com/snippets/email-share/49493950?lang=en-US&country=GB",
+            "avatar": "https://is1-ssl.mzstatic.com/image/thumb/Features125/v4/f8/28/a7/f828a7e3-98eb-1ac5-d1a7-c93ba5e1a014/pr_source.png/800x800cc.jpg",
+            "snapchat": "https://www.shazam.com/partner/sc/track/49493950"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "actions": [
+                {
+                    "name": "apple",
+                    "type": "applemusicplay",
+                    "id": "192659412"
+                },
+                {
+                    "name": "apple",
+                    "type": "uri",
+                    "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/a8/f9/5b/a8f95b5e-3c5f-8939-e64a-82c88517b09c/mzaf_6323994432452283517.plus.aac.ep.m4a"
+                }
+            ],
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/gb/album/boogie-nights/192659318?i=192659412&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/gb/album/boogie-nights/192659318?i=192659412&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                },
+                {
+                    "caption": "BUY",
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "uri": "https://itunes.apple.com/gb/album/boogie-nights/192659318?i=192659412&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "buy",
+                        "providername": "itunes"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "type": "buy",
+                    "listcaption": "Buy on iTunes",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "itunes"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:Boogie%20Nights%20Heatwave"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27Boogie+Nights%27%20artist%3A%27Heatwave%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": false,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [
+                    {
+                        "image": "https://is1-ssl.mzstatic.com/image/thumb/Features125/v4/f8/28/a7/f828a7e3-98eb-1ac5-d1a7-c93ba5e1a014/pr_source.png/800x800cc.jpg",
+                        "caption": "Heatwave"
+                    },
+                    {
+                        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/bd/54/f0/bd54f0f7-62a8-ba56-c630-d21fb7148456/mzi.ogfrxmny.jpg/400x400cc.jpg",
+                        "caption": "Boogie Nights"
+                    }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                    {
+                        "title": "Album",
+                        "text": "Too Hot to Handle"
+                    },
+                    {
+                        "title": "Label",
+                        "text": "Epic"
+                    },
+                    {
+                        "title": "Released",
+                        "text": "1976"
+                    }
+                ]
+            },
+            {
+                "type": "LYRICS",
+                "text": [
+                    "Boogie nights, whoa-oh-oh",
+                    "Boogie nights, whoa-oh-oh",
+                    "Boogie nights",
+                    "Boogie nights",
+                    "Boogie nights",
+                    "",
+                    "Ain't no doubt we are here to party",
+                    "(Boogie nights) come on now got to get it started",
+                    "Dance with the boogie get down",
+                    "(Dance with the boogie get down)",
+                    "'Cause boogie nights are always the best in town",
+                    "",
+                    "Got to keep on dancing, keep on dancing",
+                    "Got to keep on dancing, keep on dancing",
+                    "",
+                    "Boogie nights",
+                    "Get that groove let it take you higher",
+                    "(Boogie nights) make it move set this place on fire",
+                    "Dance with the boogie get down",
+                    "(Dance with the boogie get down)",
+                    "'Cause boogie nights are always the best in town",
+                    "",
+                    "Got to keep on dancing, keep on dancing",
+                    "Got to keep on dancing, keep on dancing",
+                    "",
+                    "Party night",
+                    "Can you show that you know how to do it?",
+                    "(Boogie nights) do it, do it",
+                    "(Party night) settle down with the sounds of the music",
+                    "(Boogie night) music, music",
+                    "",
+                    "Boogie nights",
+                    "Feel so right when you got the feeling",
+                    "(Boogie nights) hold you tight get to keep on dealing",
+                    "Dance with the boogie get down",
+                    "(Dance with the boogie get down)",
+                    "'Cause boogie nights are always the best in town",
+                    "",
+                    "Got to keep on dancing, keep on dancing",
+                    "Got to keep on dancing, keep on dancing",
+                    "(Boogie nights, boogie nights)",
+                    "Got to keep on dancing, keep on dancing",
+                    "(Boogie nights, boogie nights)",
+                    "Got to keep on dancing, keep on dancing",
+                    "",
+                    "Dance with the boogie get down",
+                    "(Dance with the boogie get down)",
+                    "'Cause boogie nights are always the best in town",
+                    "",
+                    "Got to keep on dancing, keep on dancing",
+                    "Got to keep on dancing, keep on dancing",
+                    "",
+                    "Party night",
+                    "Can you show that you know how to do it?",
+                    "(Boogie nights) do it, do it",
+                    "(Party night) get on down with the sounds of the music",
+                    "(Boogie night) music, music",
+                    "",
+                    "Boogie nights",
+                    "Feel so right when you got the feeling",
+                    "(Boogie nights) hold you tight get to keep on dealing",
+                    "Dance with the boogie get down",
+                    "(Dance with the boogie get down)",
+                    "'Cause boogie nights are always the best in town",
+                    "",
+                    "Got to keep on dancing, keep on dancing",
+                    "Got to keep on dancing, keep on dancing",
+                    "",
+                    "Got to keep on dancing, keep on dancing (boogie nights oh-oh-oh)",
+                    "Got to keep on dancing, keep on dancing (boogie nights, ohh)",
+                    "Got to keep on dancing, keep on dancing",
+                    "Got to keep on dancing, keep on dancing",
+                    "",
+                    "If you wanna boogie, boogie, boogie, boogie nights (boogie nights oh-oh-oh)",
+                    "If you wanna boogie, boogie, boogie, boggie nights (boogie nights, whoa-oh-oh)",
+                    "",
+                    "If you wanna boogie, boogie, boogie, boggie nights (boogie nights, whoa-oh-oh)",
+                    "If you wanna boogie, boogie, boogie, boggie nights (boogie nights, whoa-oh-oh)",
+                    "If you wanna boogie, boogie, boogie, boggie nights (boogie nights, whoa-oh-oh)",
+                    "",
+                    "Boogie nights, whoa-oh-oh",
+                    "Boogie nights, whoa-oh-oh",
+                    "Boogie nights, whoa-oh-oh"
+                ],
+                "url": "https://cdn.shazam.com/lyrics/v1/en-US/GB/iphone/musixmatch/subtitles/392810/317/1?token=4d20800acae3708f375947bbf7e8f80c",
+                "footer": "Writer(s): Rodney Lynn Temperton\nLyrics powered by www.musixmatch.com",
+                "tabname": "Lyrics",
+                "beacondata": {
+                    "lyricsid": "31315961",
+                    "providername": "musixmatch",
+                    "commontrackid": "392810"
+                }
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/49493950/youtube/video?q=Heatwave+%22Boogie+Nights%22"
+            },
+            {
+                "type": "RELATED",
+                "url": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-49493950?startFrom=0&pageSize=20&connected=",
+                "tabname": "Related"
+            }
+        ],
+        "url": "https://www.shazam.com/track/49493950/boogie-nights",
+        "artists": [
+            {
+                "id": "42",
+                "adamid": "868364"
+            }
+        ],
+        "isrc": "GBBBM9999966",
+        "genres": {
+            "primary": "R&B/Soul"
+        },
+        "urlparams": {
+            "{tracktitle}": "Boogie+Nights",
+            "{trackartist}": "Heatwave"
+        },
+        "myshazam": {
+            "apple": {
+                "actions": [
+                    {
+                        "name": "myshazam:apple",
+                        "type": "uri",
+                        "uri": "https://music.apple.com/gb/album/boogie-nights/192659318?i=192659412&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                ]
+            }
+        },
+        "highlightsurls": {
+            "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/868364/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios&videoIdToFilter=1537926385",
+            "trackhighlighturl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/highlights/1537926385?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+        },
+        "relatedtracksurl": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-49493950?startFrom=0&pageSize=20&connected=",
+        "albumadamid": "192659318"
+    },
+    "tagid": "1D94604F-7486-4CC9-81A1-5F3B1FF5F8C0"
+}

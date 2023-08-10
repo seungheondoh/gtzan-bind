@@ -1,0 +1,391 @@
+{
+    "matches": [
+        {
+            "id": "323306300",
+            "offset": 29.581259765,
+            "timeskew": 0.00422287,
+            "frequencyskew": 0.00419724
+        },
+        {
+            "id": "206409275",
+            "offset": 29.742197264999998,
+            "timeskew": -0.00026738644,
+            "frequencyskew": -0.00044292212
+        },
+        {
+            "id": "218693380",
+            "offset": 29.476541015,
+            "timeskew": -0.00017517805,
+            "frequencyskew": 0.0
+        },
+        {
+            "id": "222254379",
+            "offset": 33.2623125,
+            "timeskew": -0.0102261305,
+            "frequencyskew": -0.010536075
+        },
+        {
+            "id": "211767598",
+            "offset": 29.878089843,
+            "timeskew": 0.0015795231,
+            "frequencyskew": 0.0016928911
+        },
+        {
+            "id": "202303944",
+            "offset": 56.606832030999996,
+            "timeskew": 0.0016616583,
+            "frequencyskew": 0.0014508963
+        },
+        {
+            "id": "480238794",
+            "offset": 29.719847656000002,
+            "timeskew": -0.0024408698,
+            "frequencyskew": -0.0023733377
+        },
+        {
+            "id": "480084747",
+            "offset": 29.887300781,
+            "timeskew": 0.010034919,
+            "frequencyskew": 0.01028204
+        },
+        {
+            "id": "345524418",
+            "offset": 18.087830078,
+            "timeskew": 0.005294919,
+            "frequencyskew": 0.00520885
+        },
+        {
+            "id": "305556277",
+            "offset": 33.575328125,
+            "timeskew": 0.0055354834,
+            "frequencyskew": 0.005399704
+        },
+        {
+            "id": "283392823",
+            "offset": 25.605943359,
+            "timeskew": 0.0017803907,
+            "frequencyskew": -0.00024163723
+        },
+        {
+            "id": "206619517",
+            "offset": 30.030271484,
+            "timeskew": -0.0002462268,
+            "frequencyskew": -0.00028187037
+        },
+        {
+            "id": "11250471",
+            "offset": 29.884660156000002,
+            "timeskew": 0.008146882,
+            "frequencyskew": 0.007884264
+        },
+        {
+            "id": "215170206",
+            "offset": 29.768474609000002,
+            "timeskew": 0.0014499426,
+            "frequencyskew": 0.0016123056
+        },
+        {
+            "id": "10522417",
+            "offset": 25.531125,
+            "timeskew": -0.00275743,
+            "frequencyskew": -0.002815187
+        },
+        {
+            "id": "11229449",
+            "offset": 29.744302734,
+            "timeskew": 0.002276063,
+            "frequencyskew": 0.0023386478
+        },
+        {
+            "id": "229116244",
+            "offset": 29.92930664,
+            "timeskew": 0.0041127205,
+            "frequencyskew": 0.003792882
+        },
+        {
+            "id": "263931595",
+            "offset": 25.905773437,
+            "timeskew": 0.014760137,
+            "frequencyskew": 0.00419724
+        },
+        {
+            "id": "477443231",
+            "offset": 30.225783203,
+            "timeskew": 0.0042022467,
+            "frequencyskew": 0.004035473
+        },
+        {
+            "id": "480926179",
+            "offset": 33.27453125,
+            "timeskew": -0.0038309693,
+            "frequencyskew": 0.0026211739
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691632433522,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "5908327",
+        "title": "Funkytown",
+        "subtitle": "Lipps, Inc.",
+        "images": {
+            "background": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/5b/8c/4c/5b8c4cd8-4d72-307f-da43-85dd8d9beb95/21UMGIM07561.rgb.jpg/400x400cc.jpg",
+            "coverart": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/5b/8c/4c/5b8c4cd8-4d72-307f-da43-85dd8d9beb95/21UMGIM07561.rgb.jpg/400x400cc.jpg",
+            "coverarthq": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/5b/8c/4c/5b8c4cd8-4d72-307f-da43-85dd8d9beb95/21UMGIM07561.rgb.jpg/400x400cc.jpg",
+            "joecolor": "b:005eacp:f4edd2s:e7cd74t:c3d1caq:b9b77f"
+        },
+        "share": {
+            "subject": "Funkytown - Lipps, Inc.",
+            "text": "Funkytown by Lipps, Inc.",
+            "href": "https://www.shazam.com/track/5908327/funkytown",
+            "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/5b/8c/4c/5b8c4cd8-4d72-307f-da43-85dd8d9beb95/21UMGIM07561.rgb.jpg/400x400cc.jpg",
+            "twitter": "I used @Shazam to discover Funkytown by Lipps, Inc..",
+            "html": "https://www.shazam.com/snippets/email-share/5908327?lang=en-US&country=GB",
+            "snapchat": "https://www.shazam.com/partner/sc/track/5908327"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "actions": [
+                {
+                    "name": "apple",
+                    "type": "applemusicplay",
+                    "id": "1552121134"
+                },
+                {
+                    "name": "apple",
+                    "type": "uri",
+                    "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/67/51/6d/67516df1-b6d5-e3c5-4dea-f52d35364f27/mzaf_6154166899267940490.plus.aac.ep.m4a"
+                }
+            ],
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/gb/album/funkytown/1552121129?i=1552121134&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/gb/album/funkytown/1552121129?i=1552121134&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                },
+                {
+                    "caption": "BUY",
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "uri": "https://itunes.apple.com/gb/album/funkytown/1552121129?i=1552121134&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "buy",
+                        "providername": "itunes"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "type": "buy",
+                    "listcaption": "Buy on iTunes",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "itunes"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:Funkytown%20Lipps%2C%20Inc."
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27Funkytown%27%20artist%3A%27Lipps%2C+Inc.%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": false,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [
+                    {
+                        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/5b/8c/4c/5b8c4cd8-4d72-307f-da43-85dd8d9beb95/21UMGIM07561.rgb.jpg/400x400cc.jpg",
+                        "caption": "Funkytown"
+                    }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                    {
+                        "title": "Album",
+                        "text": "Mouth To Mouth"
+                    },
+                    {
+                        "title": "Label",
+                        "text": "Polydor"
+                    },
+                    {
+                        "title": "Released",
+                        "text": "1979"
+                    }
+                ]
+            },
+            {
+                "type": "LYRICS",
+                "text": [
+                    "Gotta make a move to a town that's right for me",
+                    "Town to keep me movin', keep me groovin' with some energy",
+                    "",
+                    "Well, I talk about it, talk about it",
+                    "Talk about it, talk about it",
+                    "Talk about, talk about",
+                    "Talk about movin'",
+                    "",
+                    "Gotta move on",
+                    "Gotta move on",
+                    "Gotta move on",
+                    "",
+                    "I want you take me to Funkytown",
+                    "Won't you take me to Funkytown?",
+                    "Won't you take me to Funkytown?",
+                    "Won't you take me to Funkytown?",
+                    "",
+                    "Won't you take me to Funkytown?",
+                    "Won't you take me to Funkytown?",
+                    "Won't you take me to Funkytown?",
+                    "Won't you take me to Funkytown?",
+                    "",
+                    "Gotta make a move to a town that's right for me",
+                    "Town to keep me movin', keep me groovin' with some energy",
+                    "",
+                    "Well, I talk about it, talk about it",
+                    "Talk about it, talk about it",
+                    "Talk about, talk about",
+                    "Talk about movin'",
+                    "",
+                    "Gotta move on",
+                    "Gotta move on",
+                    "Gotta move on",
+                    "",
+                    "I want you take me to Funkytown",
+                    "Won't you take me to Funkytown?",
+                    "Won't you take me to Funkytown?",
+                    "Won't you take me to Funkytown?",
+                    "",
+                    "Won't you take me to Funkytown?",
+                    "Won't you take me to Funkytown?",
+                    "Won't you take me to Funkytown?",
+                    "Won't you take me to Funkytown, yeah?",
+                    "",
+                    "Won't you take me down to Funkytown?",
+                    "Won't you take me down to Funkytown?",
+                    "Won't you take me down to Funkytown?",
+                    "Won't you take me down to Funkytown?",
+                    "",
+                    "(Won't you take me to?) Funkytown",
+                    "(Won't you take me to?) Funkytown",
+                    "(Won't you take me to?) Funkytown",
+                    "(Won't you take me to?) Funkytown",
+                    "",
+                    "Take me, won't you take me?",
+                    "Take me, won't you take me?",
+                    "Take me (won't you take me to?) Won't you take me?",
+                    "Take me (won't you take me to?) Won't you take me?",
+                    "",
+                    "I wanna go (won't you take me to?) To Funkytown",
+                    "I wanna go (won't you take me to?) To Funkytown",
+                    "I wanna go (won't you take me to?) To Funkytown, now",
+                    "I wanna go (won't you take me to?) To Funkytown"
+                ],
+                "url": "https://cdn.shazam.com/lyrics/v1/en-US/GB/iphone/musixmatch/subtitles/12526267/236/1?token=c6bd052fa848f608b96238e2449d690d",
+                "footer": "Writer(s): Steve Greenberg\nLyrics powered by www.musixmatch.com",
+                "tabname": "Lyrics",
+                "beacondata": {
+                    "lyricsid": "26282978",
+                    "providername": "musixmatch",
+                    "commontrackid": "12526267"
+                }
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/5908327/youtube/video?q=Lipps,+Inc.+%22Funkytown%22"
+            },
+            {
+                "type": "RELATED",
+                "url": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-5908327?startFrom=0&pageSize=20&connected=",
+                "tabname": "Related"
+            }
+        ],
+        "url": "https://www.shazam.com/track/5908327/funkytown",
+        "artists": [
+            {
+                "id": "42",
+                "adamid": "371100"
+            }
+        ],
+        "isrc": "USIR20300047",
+        "genres": {
+            "primary": "R&B/Soul"
+        },
+        "urlparams": {
+            "{tracktitle}": "Funkytown",
+            "{trackartist}": "Lipps%2C+Inc."
+        },
+        "myshazam": {
+            "apple": {
+                "actions": [
+                    {
+                        "name": "myshazam:apple",
+                        "type": "uri",
+                        "uri": "https://music.apple.com/gb/album/funkytown/1552121129?i=1552121134&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                ]
+            }
+        },
+        "highlightsurls": {
+            "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/371100/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+        },
+        "relatedtracksurl": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-5908327?startFrom=0&pageSize=20&connected=",
+        "albumadamid": "1552121129"
+    },
+    "tagid": "6977CF41-4B5C-4C85-9030-14CC936581E2"
+}

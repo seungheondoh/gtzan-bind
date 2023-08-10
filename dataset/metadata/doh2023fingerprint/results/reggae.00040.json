@@ -1,0 +1,272 @@
+{
+    "matches": [
+        {
+            "id": "214879780",
+            "offset": 29.873980468000003,
+            "timeskew": 0.00014567375,
+            "frequencyskew": -0.0003221631
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691633328015,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "40186476",
+        "title": "Loving Day",
+        "subtitle": "Burning Spear",
+        "images": {
+            "background": "https://is1-ssl.mzstatic.com/image/thumb/Features125/v4/52/7e/7d/527e7d95-67cb-ca07-ff9c-30e8ded8eb68/pr_source.png/800x800cc.jpg",
+            "coverart": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/f4/ee/af/f4eeaf8d-c182-d6a1-58d9-94a0063c9d6a/828283032521_cover.jpg/400x400cc.jpg",
+            "coverarthq": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/f4/ee/af/f4eeaf8d-c182-d6a1-58d9-94a0063c9d6a/828283032521_cover.jpg/400x400cc.jpg",
+            "joecolor": "b:1c1e13p:e9edecs:d5a77ft:c0c4c1q:b08b69"
+        },
+        "share": {
+            "subject": "Loving Day - Burning Spear",
+            "text": "Loving Day by Burning Spear",
+            "href": "https://www.shazam.com/track/40186476/loving-day",
+            "image": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/f4/ee/af/f4eeaf8d-c182-d6a1-58d9-94a0063c9d6a/828283032521_cover.jpg/400x400cc.jpg",
+            "twitter": "I used @Shazam to discover Loving Day by Burning Spear.",
+            "html": "https://www.shazam.com/snippets/email-share/40186476?lang=en-US&country=GB",
+            "avatar": "https://is1-ssl.mzstatic.com/image/thumb/Features125/v4/52/7e/7d/527e7d95-67cb-ca07-ff9c-30e8ded8eb68/pr_source.png/800x800cc.jpg",
+            "snapchat": "https://www.shazam.com/partner/sc/track/40186476"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "actions": [
+                {
+                    "name": "apple",
+                    "type": "applemusicplay",
+                    "id": "318365694"
+                },
+                {
+                    "name": "apple",
+                    "type": "uri",
+                    "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/51/79/85/5179856d-71b4-3201-9da5-4e2462223354/mzaf_1830120941167049938.plus.aac.ep.m4a"
+                }
+            ],
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/gb/album/loving-day/318365593?i=318365694&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/gb/album/loving-day/318365593?i=318365694&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                },
+                {
+                    "caption": "BUY",
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "uri": "https://itunes.apple.com/gb/album/loving-day/318365593?i=318365694&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "buy",
+                        "providername": "itunes"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "type": "buy",
+                    "listcaption": "Buy on iTunes",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "itunes"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:Loving%20Day%20Burning%20Spear"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27Loving+Day%27%20artist%3A%27Burning+Spear%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": false,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [
+                    {
+                        "image": "https://is1-ssl.mzstatic.com/image/thumb/Features125/v4/52/7e/7d/527e7d95-67cb-ca07-ff9c-30e8ded8eb68/pr_source.png/800x800cc.jpg",
+                        "caption": "Burning Spear"
+                    },
+                    {
+                        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/f4/ee/af/f4eeaf8d-c182-d6a1-58d9-94a0063c9d6a/828283032521_cover.jpg/400x400cc.jpg",
+                        "caption": "Loving Day"
+                    }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                    {
+                        "title": "Album",
+                        "text": "The World Should Know"
+                    },
+                    {
+                        "title": "Label",
+                        "text": "Burning Music"
+                    },
+                    {
+                        "title": "Released",
+                        "text": "1993"
+                    }
+                ]
+            },
+            {
+                "type": "LYRICS",
+                "text": [
+                    "What a loving day, for you and me today",
+                    "What a loving day, for you and me today",
+                    "",
+                    "Spring, spring, spring, spring all over",
+                    "Green, green, green",
+                    "Spring, spring, spring, spring all over",
+                    "Green, green, green",
+                    "",
+                    "What a loving day, for you and me today",
+                    "What a loving day, for you and me today",
+                    "",
+                    "Girl, you want some summer, some summer",
+                    "Some summer, some summer",
+                    "Girl, you want some summer, some summer",
+                    "Some summer, some summer",
+                    "Yes the big one, a bright one, the burning one",
+                    "The hot one, the red one",
+                    "The sparking one, the blazing one",
+                    "",
+                    "What a loving day, for you and me today",
+                    "What a loving day, for you and me today",
+                    "",
+                    "Girl, you know I want it",
+                    "I should get it, get it",
+                    "Girl, you know I want it",
+                    "I should get it, get it",
+                    "",
+                    "(.)",
+                    "",
+                    "Down by the lakeside, then we went to this party",
+                    "Down by the lakeside, then we went to this party",
+                    "Everyone was feeling alright",
+                    "Everyone was doing reggae (reggae, reggae, reggae)",
+                    "Everyone was doing the wine",
+                    "Everyone was doing the funk",
+                    "",
+                    "What a loving day, for you and me today",
+                    "What a loving day, for you and me today",
+                    "Girl, what a loving day, for you and me today",
+                    "For you and me, today",
+                    "For you and me, today",
+                    "",
+                    "Maybe, in some future, we can do it again, together",
+                    "Ah you and me, yes, you and me",
+                    "Ah you and me, yes, you and me",
+                    "You make my day",
+                    "So, I should take you home, to your",
+                    "Home sweet home, home sweet home",
+                    "",
+                    "What a loving day",
+                    "What a loving day",
+                    "What a loving day, for you and me today",
+                    "What a loving day"
+                ],
+                "url": "https://cdn.shazam.com/lyrics/v1/en-US/GB/iphone/musixmatch/subtitles/1296860/248/1?token=59f2fd21c84d5bb8ca2da2342ef7c6c3",
+                "footer": "Writer(s): Kylie Minogue, Julian Gallagher, Richard Stannard, Dave Morgan\nLyrics powered by www.musixmatch.com",
+                "tabname": "Lyrics",
+                "beacondata": {
+                    "lyricsid": "15723505",
+                    "providername": "musixmatch",
+                    "commontrackid": "1296860"
+                }
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/40186476/youtube/video?q=Burning+Spear+%22Loving+Day%22"
+            },
+            {
+                "type": "RELATED",
+                "url": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-40186476?startFrom=0&pageSize=20&connected=",
+                "tabname": "Related"
+            }
+        ],
+        "url": "https://www.shazam.com/track/40186476/loving-day",
+        "artists": [
+            {
+                "id": "42",
+                "adamid": "1587884"
+            }
+        ],
+        "isrc": "USTC90968289",
+        "genres": {
+            "primary": "Reggae"
+        },
+        "urlparams": {
+            "{tracktitle}": "Loving+Day",
+            "{trackartist}": "Burning+Spear"
+        },
+        "myshazam": {
+            "apple": {
+                "actions": [
+                    {
+                        "name": "myshazam:apple",
+                        "type": "uri",
+                        "uri": "https://music.apple.com/gb/album/loving-day/318365593?i=318365694&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                ]
+            }
+        },
+        "highlightsurls": {
+            "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/1587884/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+        },
+        "relatedtracksurl": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-40186476?startFrom=0&pageSize=20&connected=",
+        "albumadamid": "318365593"
+    },
+    "tagid": "14016AF7-3B12-4446-A4DB-5381A9865F33"
+}

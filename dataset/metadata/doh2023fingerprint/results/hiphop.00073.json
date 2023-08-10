@@ -1,0 +1,336 @@
+{
+    "matches": [
+        {
+            "id": "240684393",
+            "offset": 150.1246875,
+            "timeskew": 6.7949295e-06,
+            "frequencyskew": -0.000120818615
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691632986276,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "2893040",
+        "title": "Jazz (We've Got)",
+        "subtitle": "A Tribe Called Quest",
+        "images": {
+            "background": "https://is2-ssl.mzstatic.com/image/thumb/Features115/v4/a0/ad/bc/a0adbc34-694d-11c0-7bde-530856def3e0/mzl.mdbitjdo.jpg/800x800cc.jpg",
+            "coverart": "https://is3-ssl.mzstatic.com/image/thumb/Music115/v4/e0/14/c8/e014c80a-425b-e01a-1124-cee985bcb5e6/dj.qafpkddz.jpg/400x400cc.jpg",
+            "coverarthq": "https://is3-ssl.mzstatic.com/image/thumb/Music115/v4/e0/14/c8/e014c80a-425b-e01a-1124-cee985bcb5e6/dj.qafpkddz.jpg/400x400cc.jpg",
+            "joecolor": "b:060604p:f14d75s:f83942t:c23e5fq:c72f35"
+        },
+        "share": {
+            "subject": "Jazz (We've Got) - A Tribe Called Quest",
+            "text": "Jazz (We've Got) by A Tribe Called Quest",
+            "href": "https://www.shazam.com/track/2893040/jazz-weve-got",
+            "image": "https://is3-ssl.mzstatic.com/image/thumb/Music115/v4/e0/14/c8/e014c80a-425b-e01a-1124-cee985bcb5e6/dj.qafpkddz.jpg/400x400cc.jpg",
+            "twitter": "I used @Shazam to discover Jazz (We've Got) by A Tribe Called Quest.",
+            "html": "https://www.shazam.com/snippets/email-share/2893040?lang=en-US&country=GB",
+            "avatar": "https://is2-ssl.mzstatic.com/image/thumb/Features115/v4/a0/ad/bc/a0adbc34-694d-11c0-7bde-530856def3e0/mzl.mdbitjdo.jpg/800x800cc.jpg",
+            "snapchat": "https://www.shazam.com/partner/sc/track/2893040"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "actions": [
+                {
+                    "name": "apple",
+                    "type": "applemusicplay",
+                    "id": "278911475"
+                },
+                {
+                    "name": "apple",
+                    "type": "uri",
+                    "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/02/65/22/026522a3-6111-6dc1-6558-c367e2425dcc/mzaf_11413479087656538648.plus.aac.ep.m4a"
+                }
+            ],
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/gb/album/jazz-weve-got/278911460?i=278911475&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/gb/album/jazz-weve-got/278911460?i=278911475&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                },
+                {
+                    "caption": "BUY",
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "uri": "https://itunes.apple.com/gb/album/jazz-weve-got/278911460?i=278911475&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "buy",
+                        "providername": "itunes"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "type": "buy",
+                    "listcaption": "Buy on iTunes",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "itunes"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:Jazz%20%28We%27ve%20Got%29%20A%20Tribe%20Called%20Quest"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27Jazz+%28We%5C%27ve+Got%29%27%20artist%3A%27A+Tribe+Called+Quest%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": true,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [
+                    {
+                        "image": "https://is2-ssl.mzstatic.com/image/thumb/Features115/v4/a0/ad/bc/a0adbc34-694d-11c0-7bde-530856def3e0/mzl.mdbitjdo.jpg/800x800cc.jpg",
+                        "caption": "A Tribe Called Quest"
+                    },
+                    {
+                        "image": "https://is3-ssl.mzstatic.com/image/thumb/Music115/v4/e0/14/c8/e014c80a-425b-e01a-1124-cee985bcb5e6/dj.qafpkddz.jpg/400x400cc.jpg",
+                        "caption": "Jazz (We've Got)"
+                    }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                    {
+                        "title": "Album",
+                        "text": "The Low End Theory"
+                    },
+                    {
+                        "title": "Label",
+                        "text": "Jive"
+                    },
+                    {
+                        "title": "Released",
+                        "text": "1991"
+                    }
+                ]
+            },
+            {
+                "type": "LYRICS",
+                "text": [
+                    "We've got the jazz",
+                    "We've got the jazz",
+                    "We've got the jazz",
+                    "We've got the jazz",
+                    "We've got the jazz",
+                    "We've got the jazz",
+                    "We've got the jazz",
+                    "We've got the jazz",
+                    "",
+                    "Stern firm and young with a laid-back tongue",
+                    "The aim is to succeed and achieve at 21",
+                    "Just like Ringling Brothers, I'll daze and astound",
+                    "Captivate the mass, 'cause the prose is profound",
+                    "Do it for the strong, we do it for the meek",
+                    "Boom it in your boom it in your boom it in your Jeep",
+                    "Or your Honda or your Beamer or your Legend or your Benz",
+                    "The rave of the town to your foes and your friends",
+                    "",
+                    "So push it, along, trails, we blaze",
+                    "Don't deserve the gong, don't deserve the praise",
+                    "The tranquility will make ya unball your fist",
+                    "For we put hip-hop on a brand-new twist",
+                    "A brand new twist with the homie-alistic",
+                    "So low-key that ya probably missed it",
+                    "And yet it's so loud that it stands in the crowd",
+                    "When the guy takes the beat, they bowed",
+                    "",
+                    "So raise up squire, adjust your attire",
+                    "We have no time to wallow in the mire",
+                    "If you're on a foreign path, then let me do the lead",
+                    "Join in the essence of the cool-out breed",
+                    "Then cool out to the music 'cause it makes ya feel serene",
+                    "With the birds and the bees and all those groovy things",
+                    "Like getting stomach aches when ya gotta go to work",
+                    "Or staring into space when ya feelin' berserk",
+                    "",
+                    "I don't really mind if it's over your head",
+                    "'Cause the job of resurrectors is to wake up the dead",
+                    "So pay attention, it's not hard to decipher",
+                    "And after the horns, you can check out the Phifer",
+                    "",
+                    "We've got the jazz",
+                    "We've got the jazz",
+                    "We've got the jazz",
+                    "We've got the jazz",
+                    "We've got the jazz",
+                    "We've got the jazz",
+                    "We've got the jazz",
+                    "We've got the jazz",
+                    "",
+                    "Competition, them Phifer come sideway",
+                    "But competition, they mus' come straightway",
+                    "Competition, them Phifer come sideway",
+                    "But competition, they mus' come straightway",
+                    "How's about that, it seems like it's my turn again",
+                    "Althrough the years my mic has been my best friend",
+                    "I know some brothers wonder, can Phifer really kick it?",
+                    "Some even wanna diss me, but why sweat it?",
+                    "",
+                    "I'm all into my music 'cause it's how I make papes",
+                    "Tryin' to make hits, like Kid Capri mixtapes",
+                    "Me sweat another? I do my own thing",
+                    "Strictly hardcore tracks, not a new jack swing",
+                    "I grew up as a Christian so to Jah I give thanks",
+                    "Collect my banks, listen to Shabba Ranks",
+                    "I sing, and chat, I do all of that",
+                    "It's 1991 and I refuse to come wack",
+                    "",
+                    "I take off my hat to other crews that intend to rock",
+                    "But The Low End Theory's here, it's time to wreck shop",
+                    "I got Tip and Shah, so whom shall I fear",
+                    "Stop look and listen, but please don't stare",
+                    "So jet to the store, and buy the LP",
+                    "On Jive or RCA, cassettes and CD's",
+                    "Produced and arranged by the four-man crew",
+                    "And oh shit, Skeff Anselm, he gets props too",
+                    "",
+                    "Make sure you have a system with some phat house speakers",
+                    "So the new shit can rock, from Mars to Massapequot",
+                    "'Cause where I come from, quality is job one",
+                    "And everybody up on Linden know we get the job done",
+                    "So peace to that crew, and peace to this crew",
+                    "Bring on the tour, we'll see you at a theater nearest you",
+                    "",
+                    "Ayo but wait, back it up, huh, easy back it up",
+                    "Please let the Abstract embellish on the cut",
+                    "Back and forth just like a Cameo song",
+                    "If you dig this joint then please come dance along",
+                    "To the music 'cause it's done just for the rhyme",
+                    "Now I gotta scat and get mine, underlined",
+                    "",
+                    "The jazz, the what? The jazz to move that ass",
+                    "'Cause the Tribe originates that feelin' of pizazz",
+                    "It's the universal sound, best to brothers on the ground",
+                    "And the ones six below, ya didn't have to go",
+                    "Some say that I'm a sinner 'cause I once had an orgy",
+                    "And sometimes for breakfast I eat grits and porgies",
+                    "If this is a stinker, then call me a stink, I ask",
+                    "\"Whas-whas-what\" check it out",
+                    "",
+                    "All my peoples in Queens, ya don't stop",
+                    "Now all my peoples in Brooklyn, ya don't stop",
+                    "And all my peoples uptown, ya don't stop",
+                    "That includes the Bronx an' Harlem, ya don't stop",
+                    "Now to that girl Ramelle, ya don't stop",
+                    "I say because Ladies First, ya don't stop",
+                    "And to the JB's, ya don't stop",
+                    "And De La Soul, ya don't stop",
+                    "",
+                    "To my Brand Nubians, ya don't stop",
+                    "And to my Leaders of the New, ya don't stop",
+                    "To my man Large Professor, ya don't stop",
+                    "Pete Rock for the beat, ya don't stop",
+                    "Everybody in the place, ya don't stop",
+                    "Ya keep it on, to the rhythm, ya don't stop",
+                    "And last but not least on the sure shot",
+                    "It's the Zulu nation"
+                ],
+                "url": "https://cdn.shazam.com/lyrics/v1/en-US/GB/iphone/musixmatch/subtitles/11431213/250/1?token=7a78b392021223a55dc60e7ee2574c54",
+                "footer": "Writer(s): Ned Washington, John E Davis, Kaper Bronislau\nLyrics powered by www.musixmatch.com",
+                "tabname": "Lyrics",
+                "beacondata": {
+                    "lyricsid": "27649898",
+                    "providername": "musixmatch",
+                    "commontrackid": "11431213"
+                }
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/2893040/youtube/video?q=A+Tribe+Called+Quest+%22Jazz+(We've+Got)%22"
+            },
+            {
+                "type": "RELATED",
+                "url": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-2893040?startFrom=0&pageSize=20&connected=",
+                "tabname": "Related"
+            }
+        ],
+        "url": "https://www.shazam.com/track/2893040/jazz-weve-got",
+        "artists": [
+            {
+                "id": "42",
+                "adamid": "1587965"
+            }
+        ],
+        "isrc": "USJI19100004",
+        "genres": {
+            "primary": "Rap"
+        },
+        "urlparams": {
+            "{tracktitle}": "Jazz+%28We%27ve+Got%29",
+            "{trackartist}": "A+Tribe+Called+Quest"
+        },
+        "myshazam": {
+            "apple": {
+                "actions": [
+                    {
+                        "name": "myshazam:apple",
+                        "type": "uri",
+                        "uri": "https://music.apple.com/gb/album/jazz-weve-got/278911460?i=278911475&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                ]
+            }
+        },
+        "highlightsurls": {
+            "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/1587965/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+        },
+        "relatedtracksurl": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-2893040?startFrom=0&pageSize=20&connected=",
+        "albumadamid": "278911460"
+    },
+    "tagid": "7D9D5714-8A9C-4F8D-8625-A9B3175FED55"
+}

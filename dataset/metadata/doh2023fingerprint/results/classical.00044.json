@@ -1,0 +1,143 @@
+{
+    "matches": [
+        {
+            "id": "142748317",
+            "offset": 39.742820312000006,
+            "timeskew": -0.0013156533,
+            "frequencyskew": 0.0
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691633157561,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "140994788",
+        "title": "Das gro\u00dfe H\u00f6rbuch der Musikgeschichte - Kapitel 164",
+        "subtitle": "Udo Wachtveitl & Burchard Dabinnus",
+        "images": {
+            "background": "https://is5-ssl.mzstatic.com/image/thumb/Music2/v4/3f/03/d8/3f03d86e-8ecf-b9b8-84c1-6ac50082f679/4049709914757_1448.jpg/400x400cc.jpg",
+            "coverart": "https://is5-ssl.mzstatic.com/image/thumb/Music2/v4/3f/03/d8/3f03d86e-8ecf-b9b8-84c1-6ac50082f679/4049709914757_1448.jpg/400x400cc.jpg",
+            "coverarthq": "https://is5-ssl.mzstatic.com/image/thumb/Music2/v4/3f/03/d8/3f03d86e-8ecf-b9b8-84c1-6ac50082f679/4049709914757_1448.jpg/400x400cc.jpg"
+        },
+        "share": {
+            "subject": "Das gro\u00dfe H\u00f6rbuch der Musikgeschichte - Kapitel 164 - Udo Wachtveitl & Burchard Dabinnus",
+            "text": "Das gro\u00dfe H\u00f6rbuch der Musikgeschichte - Kapitel 164 by Udo Wachtveitl & Burchard Dabinnus",
+            "href": "https://www.shazam.com/track/140994788/-",
+            "image": "https://is5-ssl.mzstatic.com/image/thumb/Music2/v4/3f/03/d8/3f03d86e-8ecf-b9b8-84c1-6ac50082f679/4049709914757_1448.jpg/400x400cc.jpg",
+            "twitter": "I used @Shazam to discover Das gro\u00dfe H\u00f6rbuch der Musikgeschichte - Kapitel 164 by Udo Wachtveitl & Burchard Dabinnus.",
+            "html": "https://www.shazam.com/snippets/email-share/140994788?lang=en-US&country=GB",
+            "snapchat": "https://www.shazam.com/partner/sc/track/140994788"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:subscribe",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/subscribe?mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:subscribe",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/subscribe?mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:Das%20gro%C3%9Fe%20H%C3%B6rbuch%20der%20Musikgeschichte%20-%20Kapitel%20164%20Udo%20Wachtveitl"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27Das+gro%C3%9Fe+H%C3%B6rbuch+der+Musikgeschichte+-+Kapitel+164%27%20artist%3A%27Udo+Wachtveitl++Burchard+Dabinnus%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": false,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [
+                    {
+                        "image": "https://is5-ssl.mzstatic.com/image/thumb/Music2/v4/3f/03/d8/3f03d86e-8ecf-b9b8-84c1-6ac50082f679/4049709914757_1448.jpg/400x400cc.jpg",
+                        "caption": "Das gro\u00dfe H\u00f6rbuch der Musikgeschichte - Kapitel 164"
+                    }
+                ],
+                "tabname": "Song",
+                "metadata": []
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/140994788/youtube/video?q=Udo+Wachtveitl+%26+Burchard+Dabinnus+%22Das+gro%C3%9Fe+H%C3%B6rbuch+der+Musikgeschichte+-+Kapitel+164%22"
+            },
+            {
+                "type": "RELATED",
+                "url": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-140994788?startFrom=0&pageSize=20&connected=",
+                "tabname": "Related"
+            }
+        ],
+        "url": "https://www.shazam.com/track/140994788/-",
+        "artists": [
+            {
+                "id": "42",
+                "adamid": "119217151"
+            }
+        ],
+        "genres": {
+            "primary": "Children's Music"
+        },
+        "urlparams": {
+            "{tracktitle}": "Das+gro%C3%9Fe+H%C3%B6rbuch+der+Musikgeschichte+-+Kapitel+164",
+            "{trackartist}": "Udo+Wachtveitl+%26+Burchard+Dabinnus"
+        },
+        "highlightsurls": {
+            "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/119217151/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+        },
+        "relatedtracksurl": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-140994788?startFrom=0&pageSize=20&connected="
+    },
+    "tagid": "8B31575C-E8B1-4414-9975-0CD5D998FA93"
+}

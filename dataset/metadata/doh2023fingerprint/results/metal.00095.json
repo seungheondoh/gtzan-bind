@@ -1,0 +1,287 @@
+{
+    "matches": [
+        {
+            "id": "217013227",
+            "offset": 29.4371875,
+            "timeskew": 8.714199e-05,
+            "frequencyskew": 0.0
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691633719220,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "10703609",
+        "title": "Bombtrack",
+        "subtitle": "Rage Against the Machine",
+        "images": {
+            "background": "https://is5-ssl.mzstatic.com/image/thumb/Features115/v4/a8/6a/21/a86a21de-c1a9-03b6-a5e6-8550ae62ea1d/mzl.cvnwolpm.jpg/800x800cc.jpg",
+            "coverart": "https://is2-ssl.mzstatic.com/image/thumb/Music115/v4/8e/08/bf/8e08bf66-8690-1ba7-affb-fe173c08623d/074645295923.jpg/400x400cc.jpg",
+            "coverarthq": "https://is2-ssl.mzstatic.com/image/thumb/Music115/v4/8e/08/bf/8e08bf66-8690-1ba7-affb-fe173c08623d/074645295923.jpg/400x400cc.jpg",
+            "joecolor": "b:f7fbfep:030305s:223133t:343437q:4c5a5c"
+        },
+        "share": {
+            "subject": "Bombtrack - Rage Against the Machine",
+            "text": "Bombtrack by Rage Against the Machine",
+            "href": "https://www.shazam.com/track/10703609/bombtrack",
+            "image": "https://is2-ssl.mzstatic.com/image/thumb/Music115/v4/8e/08/bf/8e08bf66-8690-1ba7-affb-fe173c08623d/074645295923.jpg/400x400cc.jpg",
+            "twitter": "I used @Shazam to discover Bombtrack by Rage Against the Machine.",
+            "html": "https://www.shazam.com/snippets/email-share/10703609?lang=en-US&country=GB",
+            "avatar": "https://is5-ssl.mzstatic.com/image/thumb/Features115/v4/a8/6a/21/a86a21de-c1a9-03b6-a5e6-8550ae62ea1d/mzl.cvnwolpm.jpg/800x800cc.jpg",
+            "snapchat": "https://www.shazam.com/partner/sc/track/10703609"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "actions": [
+                {
+                    "name": "apple",
+                    "type": "applemusicplay",
+                    "id": "191450819"
+                },
+                {
+                    "name": "apple",
+                    "type": "uri",
+                    "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/9b/72/94/9b72943e-e376-ade3-b1ea-4bfa8851a312/mzaf_18225712302852209254.plus.aac.ep.m4a"
+                }
+            ],
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/gb/album/bombtrack/191450810?i=191450819&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/gb/album/bombtrack/191450810?i=191450819&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                },
+                {
+                    "caption": "BUY",
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "uri": "https://itunes.apple.com/gb/album/bombtrack/191450810?i=191450819&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "buy",
+                        "providername": "itunes"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "type": "buy",
+                    "listcaption": "Buy on iTunes",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "itunes"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:Bombtrack%20Rage%20Against%20the%20Machine"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27Bombtrack%27%20artist%3A%27Rage+Against+the+Machine%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": true,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [
+                    {
+                        "image": "https://is5-ssl.mzstatic.com/image/thumb/Features115/v4/a8/6a/21/a86a21de-c1a9-03b6-a5e6-8550ae62ea1d/mzl.cvnwolpm.jpg/800x800cc.jpg",
+                        "caption": "Rage Against the Machine"
+                    },
+                    {
+                        "image": "https://is2-ssl.mzstatic.com/image/thumb/Music115/v4/8e/08/bf/8e08bf66-8690-1ba7-affb-fe173c08623d/074645295923.jpg/400x400cc.jpg",
+                        "caption": "Bombtrack"
+                    }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                    {
+                        "title": "Album",
+                        "text": "Rage Against the Machine"
+                    },
+                    {
+                        "title": "Label",
+                        "text": "Epic"
+                    },
+                    {
+                        "title": "Released",
+                        "text": "1992"
+                    }
+                ]
+            },
+            {
+                "type": "LYRICS",
+                "text": [
+                    "Uhh",
+                    "Ayy, yo, it's just another bombtrack, uh",
+                    "Ayy, yo, it's just another bombtrack, yeah",
+                    "It goes a one, two, three",
+                    "Yeah, and it's just another bombtrack",
+                    "",
+                    "And suckers be thinkin' that they can fake this",
+                    "But I'ma drop it at a higher level",
+                    "'Cause I'm inclined to stoop down, hand out some beatdowns",
+                    "Could run a train on punk fools that think they run the game",
+                    "But I learned to burn that bridge and delete",
+                    "Those who compete at a level that's obsolete",
+                    "",
+                    "Instead, I warm my hands upon the flames of the flag",
+                    "To recall the downfall and the businesses that burnt us all",
+                    "See through the news and the views that twist reality",
+                    "Enough, I call the bluff, fuck Manifest Destiny",
+                    "Landlords and power whores, on my people, they took turns",
+                    "Dispute the suits, I ignite and then watch 'em burn",
+                    "",
+                    "With the thoughts from a militant mind",
+                    "Hardline, hardline after hardline",
+                    "Landlords and power whores, on my people, they took turns",
+                    "Dispute the suits, I ignite and then watch 'em burn",
+                    "",
+                    "Burn, burn, yes, you're gonna burn",
+                    "Burn, burn, yes, you're gonna burn",
+                    "Burn, burn, yes, you're gonna burn",
+                    "Burn, burn, yes, you're gonna burn (yes, you're gonna)",
+                    "Burn, burn, yes, you're gonna burn",
+                    "Burn, burn, yes, you're gonna burn",
+                    "Burn, burn, yes, you're gonna burn",
+                    "Burn, burn, yes, you're gonna burn",
+                    "",
+                    "It goes a one, two, three, another funky, radical bombtrack",
+                    "Started as a sketch in my notebook",
+                    "And now dope hooks make punks take another look",
+                    "My thoughts ya hear and ya begin to fear",
+                    "That ya card will get pulled if ya interfere",
+                    "",
+                    "With the thoughts from a militant, militant mind",
+                    "Hardline, hardline after hardline",
+                    "Landlords and power whores, on my people, they took turns",
+                    "Dispute the suits, I ignite and then watch 'em burn",
+                    "",
+                    "Burn, burn, yes, you're gonna burn",
+                    "Burn, burn, yes, you're gonna burn",
+                    "Burn, burn, yes, you're gonna burn",
+                    "Burn, burn, yes, you're gonna burn (yes, you're gonna)",
+                    "Burn, burn, yes, you're gonna burn",
+                    "Burn, burn, yes, you're gonna burn",
+                    "Burn, burn, yes, you're gonna burn",
+                    "Burn, burn, yes, you're gonna burn",
+                    "",
+                    "Uhh",
+                    "Hey, yo, it's just another bombtrack, yeah",
+                    "Check it out",
+                    "",
+                    "Burn, burn, yes, you're gonna burn",
+                    "Burn, burn, yes, you're gonna burn",
+                    "Burn, burn, yes, you're gonna burn",
+                    "Burn, burn, yes, you're gonna burn",
+                    "Burn, burn, yes, you're gonna burn",
+                    "Burn, burn, yes, you're gonna burn",
+                    "Burn, burn, yes, you're gonna burn",
+                    "Burn, burn, yes, you're gonna burn",
+                    "Burn"
+                ],
+                "url": "https://cdn.shazam.com/lyrics/v1/en-US/GB/iphone/musixmatch/subtitles/48741734/243/1?token=1fbee8381359fe8088a9efc6bf563461",
+                "footer": "Writer(s): Commerford Timothy, Morello Thomas B, Wilk Brad J, De La Rocha Zack M\nLyrics powered by www.musixmatch.com",
+                "tabname": "Lyrics",
+                "beacondata": {
+                    "lyricsid": "24939754",
+                    "providername": "musixmatch",
+                    "commontrackid": "48741734"
+                }
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/10703609/youtube/video?q=Rage+Against+the+Machine+%22Bombtrack%22"
+            },
+            {
+                "type": "RELATED",
+                "url": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-10703609?startFrom=0&pageSize=20&connected=",
+                "tabname": "Related"
+            }
+        ],
+        "url": "https://www.shazam.com/track/10703609/bombtrack",
+        "artists": [
+            {
+                "id": "42",
+                "adamid": "899409"
+            }
+        ],
+        "isrc": "USSM19200660",
+        "genres": {
+            "primary": "Hard Rock"
+        },
+        "urlparams": {
+            "{tracktitle}": "Bombtrack",
+            "{trackartist}": "Rage+Against+the+Machine"
+        },
+        "myshazam": {
+            "apple": {
+                "actions": [
+                    {
+                        "name": "myshazam:apple",
+                        "type": "uri",
+                        "uri": "https://music.apple.com/gb/album/bombtrack/191450810?i=191450819&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                ]
+            }
+        },
+        "highlightsurls": {
+            "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/899409/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios&videoIdToFilter=279026961",
+            "trackhighlighturl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/highlights/279026961?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+        },
+        "relatedtracksurl": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-10703609?startFrom=0&pageSize=20&connected=",
+        "albumadamid": "191450810"
+    },
+    "tagid": "9F22DDCA-95D6-4572-9941-07E87E613A3A"
+}

@@ -1,0 +1,242 @@
+{
+    "matches": [
+        {
+            "id": "338951183",
+            "offset": 29.008933593000002,
+            "timeskew": 6.1035156e-05,
+            "frequencyskew": 0.0
+        },
+        {
+            "id": "267447548",
+            "offset": 29.275353515,
+            "timeskew": -0.00012254715,
+            "frequencyskew": 0.0
+        },
+        {
+            "id": "218006202",
+            "offset": 29.177595702999998,
+            "timeskew": -0.004360497,
+            "frequencyskew": -0.004981518
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691632217394,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "10447239",
+        "title": "Stairway To The Stars (feat. Bud Powell, Pierre Michelot & Kenny Clarke)",
+        "subtitle": "Dexter Gordon",
+        "images": {
+            "background": "https://is5-ssl.mzstatic.com/image/thumb/Features125/v4/37/27/dc/3727dc0d-71f1-a2bc-43db-ac87d95a0e17/pr_source.png/800x800cc.jpg",
+            "coverart": "https://is4-ssl.mzstatic.com/image/thumb/Music115/v4/c8/80/1f/c8801ff1-2961-1ffe-5e68-66b32c96011b/21UMGIM48259.rgb.jpg/400x400cc.jpg",
+            "coverarthq": "https://is4-ssl.mzstatic.com/image/thumb/Music115/v4/c8/80/1f/c8801ff1-2961-1ffe-5e68-66b32c96011b/21UMGIM48259.rgb.jpg/400x400cc.jpg",
+            "joecolor": "b:185cc5p:ffffffs:e8e8e8t:d0def3q:becce1"
+        },
+        "share": {
+            "subject": "Stairway To The Stars (feat. Bud Powell, Pierre Michelot & Kenny Clarke) - Dexter Gordon",
+            "text": "Stairway To The Stars (feat. Bud Powell, Pierre Michelot & Kenny Clarke) by Dexter Gordon",
+            "href": "https://www.shazam.com/track/10447239/stairway-to-the-stars-feat-bud-powell-pierre-michelot",
+            "image": "https://is4-ssl.mzstatic.com/image/thumb/Music115/v4/c8/80/1f/c8801ff1-2961-1ffe-5e68-66b32c96011b/21UMGIM48259.rgb.jpg/400x400cc.jpg",
+            "twitter": "I used @Shazam to discover Stairway To The Stars (feat. Bud Powell, Pierre Michelot & Kenny Clarke) by Dexter Gordon.",
+            "html": "https://www.shazam.com/snippets/email-share/10447239?lang=en-US&country=GB",
+            "avatar": "https://is5-ssl.mzstatic.com/image/thumb/Features125/v4/37/27/dc/3727dc0d-71f1-a2bc-43db-ac87d95a0e17/pr_source.png/800x800cc.jpg",
+            "snapchat": "https://www.shazam.com/partner/sc/track/10447239"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "actions": [
+                {
+                    "name": "apple",
+                    "type": "applemusicplay",
+                    "id": "1572917713"
+                },
+                {
+                    "name": "apple",
+                    "type": "uri",
+                    "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/94/d5/e4/94d5e40e-e395-0b03-ed89-3ecfa2ff776f/mzaf_14632655708321853159.plus.aac.ep.m4a"
+                }
+            ],
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/gb/album/stairway-to-the-stars-feat-bud-powell-pierre-michelot/1572916213?i=1572917713&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/gb/album/stairway-to-the-stars-feat-bud-powell-pierre-michelot/1572916213?i=1572917713&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                },
+                {
+                    "caption": "BUY",
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "uri": "https://itunes.apple.com/gb/album/stairway-to-the-stars-feat-bud-powell-pierre-michelot/1572916213?i=1572917713&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "buy",
+                        "providername": "itunes"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "type": "buy",
+                    "listcaption": "Buy on iTunes",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "itunes"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:Stairway%20To%20The%20Stars%20%28feat.%20Bud%20Powell%2C%20Pierre%20Michelot%20%26%20Kenny%20Clarke%29%20Dexter%20Gordon"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27Stairway+To+The+Stars+%28feat.+Bud+Powell%2C+Pierre+Michelot++Kenny+Clarke%29%27%20artist%3A%27Dexter+Gordon%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": false,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [
+                    {
+                        "image": "https://is5-ssl.mzstatic.com/image/thumb/Features125/v4/37/27/dc/3727dc0d-71f1-a2bc-43db-ac87d95a0e17/pr_source.png/800x800cc.jpg",
+                        "caption": "Dexter Gordon"
+                    },
+                    {
+                        "image": "https://is4-ssl.mzstatic.com/image/thumb/Music115/v4/c8/80/1f/c8801ff1-2961-1ffe-5e68-66b32c96011b/21UMGIM48259.rgb.jpg/400x400cc.jpg",
+                        "caption": "Stairway To The Stars (feat. Bud Powell, Pierre Michelot & Kenny Clarke)"
+                    }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                    {
+                        "title": "Album",
+                        "text": "The Complete Blue Note Sixties Sessions"
+                    },
+                    {
+                        "title": "Label",
+                        "text": "CM BLUE NOTE (A92)"
+                    },
+                    {
+                        "title": "Released",
+                        "text": "1963"
+                    }
+                ]
+            },
+            {
+                "type": "LYRICS",
+                "text": [
+                    "Let's build a stairway to the stars",
+                    "And climb that stairway to the stars",
+                    "With love beside us to fill the night with a song",
+                    "We'll hear the sound of violins",
+                    "Out yonder where the blue begins",
+                    "The moon will guide us as we go drifting along",
+                    "Can't we sail away on a lazy daisy petal",
+                    "Over the rim of the hill?",
+                    "Can't we sail away on a little dream",
+                    "And settle high on the crest of a thrill!",
+                    "Let's build a stairway to the stars",
+                    "A lovely stairway to the stars"
+                ],
+                "footer": "Writer(s): Matt Malneck, Mitchell Parish, Frank Signorelli\nLyrics powered by www.musixmatch.com",
+                "tabname": "Lyrics",
+                "beacondata": {
+                    "lyricsid": "8773976",
+                    "providername": "musixmatch",
+                    "commontrackid": "727977"
+                }
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/10447239/youtube/video?q=Dexter+Gordon+%22Stairway+To+The+Stars+(feat.+Bud+Powell,+Pierre+Michelot+%26+Kenny+Clarke)%22"
+            },
+            {
+                "type": "RELATED",
+                "url": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-10447239?startFrom=0&pageSize=20&connected=",
+                "tabname": "Related"
+            }
+        ],
+        "url": "https://www.shazam.com/track/10447239/stairway-to-the-stars-feat-bud-powell-pierre-michelot",
+        "artists": [
+            {
+                "id": "42",
+                "adamid": "499140"
+            }
+        ],
+        "isrc": "USBN28600370",
+        "genres": {
+            "primary": "Jazz"
+        },
+        "urlparams": {
+            "{tracktitle}": "Stairway+To+The+Stars+%28feat.+Bud+Powell%2C+Pierre+Michelot+%26+Kenny+Clarke%29",
+            "{trackartist}": "Dexter+Gordon"
+        },
+        "myshazam": {
+            "apple": {
+                "actions": [
+                    {
+                        "name": "myshazam:apple",
+                        "type": "uri",
+                        "uri": "https://music.apple.com/gb/album/stairway-to-the-stars-feat-bud-powell-pierre-michelot/1572916213?i=1572917713&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                ]
+            }
+        },
+        "highlightsurls": {
+            "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/499140/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+        },
+        "relatedtracksurl": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-10447239?startFrom=0&pageSize=20&connected=",
+        "albumadamid": "1572916213"
+    },
+    "tagid": "834F7BD4-FA63-4495-A87F-1B5D83DA8D25"
+}

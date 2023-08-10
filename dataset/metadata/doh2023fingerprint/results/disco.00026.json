@@ -1,0 +1,292 @@
+{
+    "matches": [
+        {
+            "id": "202378841",
+            "offset": 30.289230468000003,
+            "timeskew": -0.00013786554,
+            "frequencyskew": -8.0525875e-05
+        },
+        {
+            "id": "235530493",
+            "offset": 30.015720703,
+            "timeskew": -0.00020682812,
+            "frequencyskew": -0.00016111135
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691632407744,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "10126089",
+        "title": "Do the Salsa",
+        "subtitle": "LaToya Jackson",
+        "images": {
+            "background": "https://is1-ssl.mzstatic.com/image/thumb/Features124/v4/ed/1b/e3/ed1be344-22e2-a1e1-a9f8-0c0034cbcc90/pr_source.png/800x800cc.jpg",
+            "coverart": "https://is4-ssl.mzstatic.com/image/thumb/Music71/v4/1b/25/09/1b250918-1d5a-62fa-f42b-cb789e227048/cover.jpg/400x400cc.jpg",
+            "coverarthq": "https://is4-ssl.mzstatic.com/image/thumb/Music71/v4/1b/25/09/1b250918-1d5a-62fa-f42b-cb789e227048/cover.jpg/400x400cc.jpg",
+            "joecolor": "b:060c00p:fde81ds:dd8440t:cbbc17q:b26c33"
+        },
+        "share": {
+            "subject": "Do the Salsa - LaToya Jackson",
+            "text": "Do the Salsa by LaToya Jackson",
+            "href": "https://www.shazam.com/track/10126089/do-the-salsa",
+            "image": "https://is4-ssl.mzstatic.com/image/thumb/Music71/v4/1b/25/09/1b250918-1d5a-62fa-f42b-cb789e227048/cover.jpg/400x400cc.jpg",
+            "twitter": "I used @Shazam to discover Do the Salsa by LaToya Jackson.",
+            "html": "https://www.shazam.com/snippets/email-share/10126089?lang=en-US&country=GB",
+            "avatar": "https://is1-ssl.mzstatic.com/image/thumb/Features124/v4/ed/1b/e3/ed1be344-22e2-a1e1-a9f8-0c0034cbcc90/pr_source.png/800x800cc.jpg",
+            "snapchat": "https://www.shazam.com/partner/sc/track/10126089"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "actions": [
+                {
+                    "name": "apple",
+                    "type": "applemusicplay",
+                    "id": "1160885201"
+                },
+                {
+                    "name": "apple",
+                    "type": "uri",
+                    "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/78/9e/92/789e92a9-debf-bbcf-1489-8fec08020fcd/mzaf_15927846138323460398.plus.aac.ep.m4a"
+                }
+            ],
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/gb/album/do-the-salsa/1160884311?i=1160885201&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/gb/album/do-the-salsa/1160884311?i=1160885201&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                },
+                {
+                    "caption": "BUY",
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "uri": "https://itunes.apple.com/gb/album/do-the-salsa/1160884311?i=1160885201&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "buy",
+                        "providername": "itunes"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "type": "buy",
+                    "listcaption": "Buy on iTunes",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "itunes"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:Do%20the%20Salsa%20LaToya%20Jackson"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27Do+the+Salsa%27%20artist%3A%27LaToya+Jackson%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": false,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [
+                    {
+                        "image": "https://is1-ssl.mzstatic.com/image/thumb/Features124/v4/ed/1b/e3/ed1be344-22e2-a1e1-a9f8-0c0034cbcc90/pr_source.png/800x800cc.jpg",
+                        "caption": "LaToya Jackson"
+                    },
+                    {
+                        "image": "https://is4-ssl.mzstatic.com/image/thumb/Music71/v4/1b/25/09/1b250918-1d5a-62fa-f42b-cb789e227048/cover.jpg/400x400cc.jpg",
+                        "caption": "Do the Salsa"
+                    }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                    {
+                        "title": "Album",
+                        "text": "Bad Girl"
+                    },
+                    {
+                        "title": "Label",
+                        "text": "Music Manager"
+                    },
+                    {
+                        "title": "Released",
+                        "text": "1995"
+                    }
+                ]
+            },
+            {
+                "type": "LYRICS",
+                "text": [
+                    "Do you wanna dance",
+                    "I feel like... Feel like doing something nasty tonight",
+                    "",
+                    "Es una noche para el amor",
+                    "Vamos a bailar",
+                    "Bailar",
+                    "",
+                    "When I look into your eyes",
+                    "I feel the magic deep inside",
+                    "Oh, oh, oh, oh",
+                    "When I",
+                    "I feel like I",
+                    "Oh, oh, oh, oh",
+                    "",
+                    "Just lie and tell me that you love me baby",
+                    "Give us one more chance",
+                    "(Give us one more chance)",
+                    "Feel my body burning, everybody",
+                    "Let",
+                    "",
+                    "Everybody do the salsa",
+                    "To the rhythm of the rumba",
+                    "Shake your hips to the samba",
+                    "Everybody do the salsa",
+                    "To the rhythm of a real hot summer night",
+                    "Shake your body to the samba",
+                    "",
+                    "Siente el ritmo de salsa, salsa",
+                    "",
+                    "When I",
+                    "My body feels you want me more",
+                    "Oh, oh, oh, oh",
+                    "When the heat is rising high",
+                    "Then you know it",
+                    "Oh, oh, oh, oh",
+                    "",
+                    "I wet my lips and gently kiss your neck",
+                    "Feel it deep inside",
+                    "Feel the rhythm of the night oh baby",
+                    "Dance right through the night",
+                    "",
+                    "Everybody do the salsa",
+                    "To the rhythm of the rumba",
+                    "Shake your hips to the samba",
+                    "Everybody do the salsa",
+                    "To the rhythm of a real hot summer night",
+                    "Shake your body to the samba",
+                    "",
+                    "Oh dance the night away, baby",
+                    "Dance the night away, dance the night away",
+                    "Dance the night away, baby dance the night away",
+                    "Dance the night away, dance the night away",
+                    "",
+                    "Feel the salsa",
+                    "",
+                    "Let",
+                    "Let",
+                    "",
+                    "Everybody do the salsa",
+                    "Shake your hips to the samba",
+                    "Everybody do the salsa",
+                    "Shake your body to the samba",
+                    "",
+                    "(Oh, dance the night away)",
+                    "Vamos a bailar, bailar",
+                    "(Dance the night away, dance the night away)",
+                    "Siente el ritmo de salsa",
+                    "(Oh, dance the night away)",
+                    "Mi amor, vamos a bailar! Chicos e chicas!",
+                    "",
+                    "Everybody do the salsa",
+                    "Shake your hips to the samba",
+                    "Everybody do the salsa",
+                    "Shake your body to the samba"
+                ],
+                "footer": "Lyrics powered by www.musixmatch.com",
+                "tabname": "Lyrics",
+                "beacondata": {
+                    "lyricsid": "7427310",
+                    "providername": "musixmatch",
+                    "commontrackid": "7200970"
+                }
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/10126089/youtube/video?q=LaToya+Jackson+%22Do+the+Salsa%22"
+            }
+        ],
+        "url": "https://www.shazam.com/track/10126089/do-the-salsa",
+        "artists": [
+            {
+                "id": "42",
+                "adamid": "42048234"
+            }
+        ],
+        "isrc": "GBJUT0900011",
+        "genres": {
+            "primary": "R&B/Soul"
+        },
+        "urlparams": {
+            "{tracktitle}": "Do+the+Salsa",
+            "{trackartist}": "LaToya+Jackson"
+        },
+        "myshazam": {
+            "apple": {
+                "actions": [
+                    {
+                        "name": "myshazam:apple",
+                        "type": "uri",
+                        "uri": "https://music.apple.com/gb/album/do-the-salsa/1160884311?i=1160885201&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                ]
+            }
+        },
+        "highlightsurls": {
+            "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/42048234/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+        },
+        "albumadamid": "1160884311"
+    },
+    "tagid": "AFF1E285-B61F-4715-9E36-FB136BA14A83"
+}

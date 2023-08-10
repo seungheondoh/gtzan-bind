@@ -1,0 +1,206 @@
+{
+    "matches": [
+        {
+            "id": "206599904",
+            "offset": 29.447720702999998,
+            "timeskew": -6.765127e-05,
+            "frequencyskew": 0.0
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691633558149,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "5938439",
+        "title": "(You're So Square) Baby I Don't Care (Live In Budapest / 1986)",
+        "subtitle": "Queen",
+        "images": {
+            "background": "https://is4-ssl.mzstatic.com/image/thumb/Features115/v4/92/51/6a/92516a08-4257-36f8-a195-671a667bf86c/mza_8897456724926114550.png/800x800cc.jpg",
+            "coverart": "https://is3-ssl.mzstatic.com/image/thumb/Music128/v4/f8/1d/e6/f81de6e3-1a42-3672-f79a-eac77acffb3e/00602547026057.rgb.jpg/400x400cc.jpg",
+            "coverarthq": "https://is3-ssl.mzstatic.com/image/thumb/Music128/v4/f8/1d/e6/f81de6e3-1a42-3672-f79a-eac77acffb3e/00602547026057.rgb.jpg/400x400cc.jpg",
+            "joecolor": "b:030504p:fcfbf9s:ddceeat:cacac8q:b2a6bc"
+        },
+        "share": {
+            "subject": "(You're So Square) Baby I Don't Care (Live In Budapest / 1986) - Queen",
+            "text": "(You're So Square) Baby I Don't Care (Live In Budapest / 1986) by Queen",
+            "href": "https://www.shazam.com/track/5938439/youre-so-square-baby-i-dont-care-live-in-budapest-1986",
+            "image": "https://is3-ssl.mzstatic.com/image/thumb/Music128/v4/f8/1d/e6/f81de6e3-1a42-3672-f79a-eac77acffb3e/00602547026057.rgb.jpg/400x400cc.jpg",
+            "twitter": "I used @Shazam to discover (You're So Square) Baby I Don't Care (Live In Budapest / 1986) by Queen.",
+            "html": "https://www.shazam.com/snippets/email-share/5938439?lang=en-US&country=GB",
+            "avatar": "https://is4-ssl.mzstatic.com/image/thumb/Features115/v4/92/51/6a/92516a08-4257-36f8-a195-671a667bf86c/mza_8897456724926114550.png/800x800cc.jpg",
+            "snapchat": "https://www.shazam.com/partner/sc/track/5938439"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "actions": [
+                {
+                    "name": "apple",
+                    "type": "applemusicplay",
+                    "id": "1440815061"
+                },
+                {
+                    "name": "apple",
+                    "type": "uri",
+                    "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/d8/64/ed/d864edea-5022-b85f-7e22-80521382c940/mzaf_10614363140835820354.plus.aac.p.m4a"
+                }
+            ],
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/gb/album/youre-so-square-baby-i-dont-care-live-in-budapest-1986/1440814001?i=1440815061&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/gb/album/youre-so-square-baby-i-dont-care-live-in-budapest-1986/1440814001?i=1440815061&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                },
+                {
+                    "caption": "BUY",
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "uri": "https://itunes.apple.com/gb/album/youre-so-square-baby-i-dont-care-live-in-budapest-1986/1440814001?i=1440815061&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "buy",
+                        "providername": "itunes"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "type": "buy",
+                    "listcaption": "Buy on iTunes",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "itunes"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:%28You%27re%20So%20Square%29%20Baby%20I%20Don%27t%20Care%20%28Live%20In%20Budapest%20%2F%201986%29%20Queen"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27%28You%5C%27re+So+Square%29+Baby+I+Don%5C%27t+Care+%28Live+In+Budapest+%2F+1986%29%27%20artist%3A%27Queen%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": false,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [
+                    {
+                        "image": "https://is4-ssl.mzstatic.com/image/thumb/Features115/v4/92/51/6a/92516a08-4257-36f8-a195-671a667bf86c/mza_8897456724926114550.png/800x800cc.jpg",
+                        "caption": "Queen"
+                    },
+                    {
+                        "image": "https://is3-ssl.mzstatic.com/image/thumb/Music128/v4/f8/1d/e6/f81de6e3-1a42-3672-f79a-eac77acffb3e/00602547026057.rgb.jpg/400x400cc.jpg",
+                        "caption": "(You're So Square) Baby I Don't Care (Live In Budapest / 1986)"
+                    }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                    {
+                        "title": "Album",
+                        "text": "Hungarian Rhapsody (Live In Budapest / 1986)"
+                    },
+                    {
+                        "title": "Label",
+                        "text": "EMI"
+                    },
+                    {
+                        "title": "Released",
+                        "text": "2012"
+                    }
+                ]
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/5938439/youtube/video?q=Queen+%22(You're+So+Square)+Baby+I+Don't+Care+(Live+In+Budapest+/+1986)%22"
+            },
+            {
+                "type": "RELATED",
+                "url": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-5938439?startFrom=0&pageSize=20&connected=",
+                "tabname": "Related"
+            }
+        ],
+        "url": "https://www.shazam.com/track/5938439/youre-so-square-baby-i-dont-care-live-in-budapest-1986",
+        "artists": [
+            {
+                "id": "42",
+                "adamid": "3296287"
+            }
+        ],
+        "isrc": "GBUM71205810",
+        "genres": {
+            "primary": "Rock"
+        },
+        "urlparams": {
+            "{tracktitle}": "%28You%27re+So+Square%29+Baby+I+Don%27t+Care+%28Live+In+Budapest+%2F+1986%29",
+            "{trackartist}": "Queen"
+        },
+        "myshazam": {
+            "apple": {
+                "actions": [
+                    {
+                        "name": "myshazam:apple",
+                        "type": "uri",
+                        "uri": "https://music.apple.com/gb/album/youre-so-square-baby-i-dont-care-live-in-budapest-1986/1440814001?i=1440815061&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                ]
+            }
+        },
+        "highlightsurls": {
+            "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/3296287/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+        },
+        "relatedtracksurl": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-5938439?startFrom=0&pageSize=20&connected=",
+        "albumadamid": "1440814001"
+    },
+    "tagid": "F419A350-C838-4FD8-8E75-661D5021B667"
+}

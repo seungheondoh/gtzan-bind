@@ -1,0 +1,319 @@
+{
+    "matches": [
+        {
+            "id": "237572045",
+            "offset": 30.279107421,
+            "timeskew": -3.194809e-05,
+            "frequencyskew": -8.0525875e-05
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691632864458,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "5223102",
+        "title": "Sucka Nigga",
+        "subtitle": "A Tribe Called Quest",
+        "images": {
+            "background": "https://is2-ssl.mzstatic.com/image/thumb/Features115/v4/a0/ad/bc/a0adbc34-694d-11c0-7bde-530856def3e0/mzl.mdbitjdo.jpg/800x800cc.jpg",
+            "coverart": "https://is3-ssl.mzstatic.com/image/thumb/Music125/v4/e7/d3/7d/e7d37d49-6b95-c7a7-c393-de38b1263205/dj.wnaxioby.jpg/400x400cc.jpg",
+            "coverarthq": "https://is3-ssl.mzstatic.com/image/thumb/Music125/v4/e7/d3/7d/e7d37d49-6b95-c7a7-c393-de38b1263205/dj.wnaxioby.jpg/400x400cc.jpg",
+            "joecolor": "b:c9bfb6p:181215s:241e1et:3b3435q:453e3c"
+        },
+        "share": {
+            "subject": "Sucka Nigga - A Tribe Called Quest",
+            "text": "Sucka Nigga by A Tribe Called Quest",
+            "href": "https://www.shazam.com/track/5223102/sucka-nigga",
+            "image": "https://is3-ssl.mzstatic.com/image/thumb/Music125/v4/e7/d3/7d/e7d37d49-6b95-c7a7-c393-de38b1263205/dj.wnaxioby.jpg/400x400cc.jpg",
+            "twitter": "I used @Shazam to discover Sucka Nigga by A Tribe Called Quest.",
+            "html": "https://www.shazam.com/snippets/email-share/5223102?lang=en-US&country=GB",
+            "avatar": "https://is2-ssl.mzstatic.com/image/thumb/Features115/v4/a0/ad/bc/a0adbc34-694d-11c0-7bde-530856def3e0/mzl.mdbitjdo.jpg/800x800cc.jpg",
+            "snapchat": "https://www.shazam.com/partner/sc/track/5223102"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "actions": [
+                {
+                    "name": "apple",
+                    "type": "applemusicplay",
+                    "id": "265670562"
+                },
+                {
+                    "name": "apple",
+                    "type": "uri",
+                    "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/47/34/22/473422be-be7f-b8e3-098a-45c00fc1fd8e/mzaf_15589275177824793259.plus.aac.ep.m4a"
+                }
+            ],
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/gb/album/sucka-nigga/265670545?i=265670562&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/gb/album/sucka-nigga/265670545?i=265670562&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                },
+                {
+                    "caption": "BUY",
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "uri": "https://itunes.apple.com/gb/album/sucka-nigga/265670545?i=265670562&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "buy",
+                        "providername": "itunes"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "type": "buy",
+                    "listcaption": "Buy on iTunes",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "itunes"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:Sucka%20Nigga%20A%20Tribe%20Called%20Quest"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27Sucka+Nigga%27%20artist%3A%27A+Tribe+Called+Quest%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": true,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [
+                    {
+                        "image": "https://is2-ssl.mzstatic.com/image/thumb/Features115/v4/a0/ad/bc/a0adbc34-694d-11c0-7bde-530856def3e0/mzl.mdbitjdo.jpg/800x800cc.jpg",
+                        "caption": "A Tribe Called Quest"
+                    },
+                    {
+                        "image": "https://is3-ssl.mzstatic.com/image/thumb/Music125/v4/e7/d3/7d/e7d37d49-6b95-c7a7-c393-de38b1263205/dj.wnaxioby.jpg/400x400cc.jpg",
+                        "caption": "Sucka Nigga"
+                    }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                    {
+                        "title": "Album",
+                        "text": "Midnight Marauders"
+                    },
+                    {
+                        "title": "Label",
+                        "text": "Jive"
+                    },
+                    {
+                        "title": "Released",
+                        "text": "1993"
+                    }
+                ]
+            },
+            {
+                "type": "LYRICS",
+                "text": [
+                    "Hey sucka nigga, whoever you are",
+                    "Hey sucka nigga, whoever you are",
+                    "Hey sucka nigga, hey sucka nigga",
+                    "Whoever you are, whoever you are",
+                    "",
+                    "Aiyyo",
+                    "(Hey sucka nigga, whoever you are) turn it up Muhammad",
+                    "Turn everything up in the headphones",
+                    "(Hey sucka nigga, whoever you are) so I don't lose my vocals",
+                    "(Hey sucka nigga, hey sucka nigga) yeah, that's good, turn my vocals a little bit",
+                    "(Whoever you are, whoever you are) with the upper bassline",
+                    "",
+                    "I be hatin' sucka MC's, and the sucka niggas",
+                    "Posing like they hard when we know they damn card",
+                    "What you figure? Rhyme-wise, I do the figure eight so concisely",
+                    "Musically, we are the herb so sit back and light me",
+                    "Inhale, my style is kinda fat reminiscent of a whale",
+                    "Young girls desires for the females dreams",
+                    "I be the Abstract Poetic representin' from Queens",
+                    "Socially, I'm not a name, black and white got game",
+                    "If you came to the jam, well I'm glad you came",
+                    "",
+                    "See, nigga first was used back in the Deep South",
+                    "Fallin' out between the dome of the white man's mouth",
+                    "It means that we will never grow, you know the word dummy",
+                    "Other niggas in the community think it's crummy",
+                    "But I don't, neither does the youth 'cause we",
+                    "Em-brace adversity it goes right with the race",
+                    "And being that we use it as a term of endearment",
+                    "Niggas start to bug to the dome is where the fear went",
+                    "",
+                    "Now the little shorties say it all of the time",
+                    "And a whole bunch of niggas throw the word in they rhyme",
+                    "Yo, I start to flinch, as I try not to say it",
+                    "But my lips is like the oowop as I start to spray it",
+                    "My lips is like a oowop as I start to spray it",
+                    "My lips is like a oowop as I start to spray the",
+                    "",
+                    "Sucka nigga, nigga nigga",
+                    "I throw the sucka in the front for the ones that front",
+                    "The sucka niggas, nigga nigga",
+                    "I throw the sucka in the front for the ones that front",
+                    "The sucka niggas, nigga nigga",
+                    "I throw the sucka in the front for the ones that front",
+                    "Sucka nigga, nigga nigga",
+                    "It's the neo-nigga of the '90s, c'mon",
+                    "",
+                    "Hey sucka nigga, whoever you are",
+                    "Hey sucka nigga, whoever you are",
+                    "Hey sucka nigga, hey sucka nigga",
+                    "Whoever you are, whoever you are (dig it?)",
+                    "",
+                    "Hey sucka nigga, whoever you are",
+                    "Hey sucka nigga, whoever you are",
+                    "Hey sucka nigga, hey sucka nigga",
+                    "Whoever you are, whoever you are",
+                    "",
+                    "I be hatin' sucka MC's, and the sucka niggas",
+                    "Posin' like they hard when we know they damn card",
+                    "What you figure? Rhyme-wise, I do the figure eight",
+                    "So concisely (so concise), musically we are the herb so sit back and light me",
+                    "Inhale, my style is kinda fat reminiscent of a whale",
+                    "Young girls desires for the females dreams",
+                    "I be the Abstract Poetic representin' from Queens",
+                    "Socially, I'm not a name, black and white got game",
+                    "If you came to the jam, well, I'm glad you came",
+                    "",
+                    "See, nigga first was used down in the Deep South",
+                    "Fallin' out between the dome of the white man's mouth",
+                    "It means that we will never grow, you know the word dummy",
+                    "Other niggas in the community think it's crummy",
+                    "But I don't, neither does the youth 'cause we",
+                    "Em-brace adversity it goes right with the race",
+                    "Yo I start to flinch, as I try not to say it",
+                    "But my lips is like the oowop as I start to spray it",
+                    "My lips is like a oowop as I start to spray it",
+                    "My lips is like a oowop, yo you know the rest",
+                    "",
+                    "The sucka niggas, niggas niggas",
+                    "I throw the sucka in the front for the ones that front",
+                    "The sucka niggas, nigga nigga",
+                    "I throw the suckas in the front for the ones that front",
+                    "The sucka niggas, nigga nigga",
+                    "I throw the sucka in the front for the ones that front",
+                    "Sucka niggas, nigga nigga",
+                    "Aiyyo Shaheed, take us the fuck outta here",
+                    "",
+                    "Hey sucka nigga, whoever you are",
+                    "Hey sucka nigga, whoever you are",
+                    "Hey sucka nigga, hey sucka nigga",
+                    "Whoever you are, whoever you are (dig it?)",
+                    "",
+                    "Hey sucka nigga, whoever you are",
+                    "Hey sucka nigga, whoever you are",
+                    "Hey sucka nigga, hey sucka nigga",
+                    "Whoever you are, whoever you are",
+                    "",
+                    "(Dig it?, Dig it?, Dig it?, Dig it?)",
+                    "You're not any less of a man if you don't pull the trigger",
+                    "You're not necessarily a man if you do"
+                ],
+                "url": "https://cdn.shazam.com/lyrics/v1/en-US/GB/iphone/musixmatch/subtitles/2631843/245/1?token=1dd542cfeb27ff8e41072c347029c100",
+                "footer": "Writer(s): Malik Izaak Taylor, Ali Shaheed Jones-muhammad, Kamaal Ibn John Fareed, Freddie Hubbard\nLyrics powered by www.musixmatch.com",
+                "tabname": "Lyrics",
+                "beacondata": {
+                    "lyricsid": "27693360",
+                    "providername": "musixmatch",
+                    "commontrackid": "2631843"
+                }
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/5223102/youtube/video?q=A+Tribe+Called+Quest+%22Sucka+Nigga%22"
+            },
+            {
+                "type": "RELATED",
+                "url": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-5223102?startFrom=0&pageSize=20&connected=",
+                "tabname": "Related"
+            }
+        ],
+        "url": "https://www.shazam.com/track/5223102/sucka-nigga",
+        "artists": [
+            {
+                "id": "42",
+                "adamid": "1587965"
+            }
+        ],
+        "isrc": "USJI10300163",
+        "genres": {
+            "primary": "Hip-Hop/Rap"
+        },
+        "urlparams": {
+            "{tracktitle}": "Sucka+Nigga",
+            "{trackartist}": "A+Tribe+Called+Quest"
+        },
+        "myshazam": {
+            "apple": {
+                "actions": [
+                    {
+                        "name": "myshazam:apple",
+                        "type": "uri",
+                        "uri": "https://music.apple.com/gb/album/sucka-nigga/265670545?i=265670562&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                ]
+            }
+        },
+        "highlightsurls": {
+            "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/1587965/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+        },
+        "relatedtracksurl": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-5223102?startFrom=0&pageSize=20&connected=",
+        "albumadamid": "265670545"
+    },
+    "tagid": "5B76CBC0-DFB6-4B27-A568-367F548F8A3B"
+}

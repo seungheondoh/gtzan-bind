@@ -1,0 +1,261 @@
+{
+    "matches": [
+        {
+            "id": "211851286",
+            "offset": 29.702876953,
+            "timeskew": -0.0016007423,
+            "frequencyskew": -0.001850903
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691633807442,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "10012109",
+        "title": "Hell Patrol",
+        "subtitle": "Judas Priest",
+        "images": {
+            "background": "https://is2-ssl.mzstatic.com/image/thumb/Features115/v4/00/8f/b0/008fb0d6-bcbb-2e87-97dd-4abaf2d10cd4/mzl.kllqccay.jpg/800x800cc.jpg",
+            "coverart": "https://is2-ssl.mzstatic.com/image/thumb/Music115/v4/d0/f4/d9/d0f4d907-d333-1c26-703d-7245a348a519/dj.xjjnnhmb.jpg/400x400cc.jpg",
+            "coverarthq": "https://is2-ssl.mzstatic.com/image/thumb/Music115/v4/d0/f4/d9/d0f4d907-d333-1c26-703d-7245a348a519/dj.xjjnnhmb.jpg/400x400cc.jpg",
+            "joecolor": "b:443f81p:fcd9b2s:d4e1bbt:d7baa8q:b7c0af"
+        },
+        "share": {
+            "subject": "Hell Patrol - Judas Priest",
+            "text": "Hell Patrol by Judas Priest",
+            "href": "https://www.shazam.com/track/10012109/hell-patrol",
+            "image": "https://is2-ssl.mzstatic.com/image/thumb/Music115/v4/d0/f4/d9/d0f4d907-d333-1c26-703d-7245a348a519/dj.xjjnnhmb.jpg/400x400cc.jpg",
+            "twitter": "I used @Shazam to discover Hell Patrol by Judas Priest.",
+            "html": "https://www.shazam.com/snippets/email-share/10012109?lang=en-US&country=GB",
+            "avatar": "https://is2-ssl.mzstatic.com/image/thumb/Features115/v4/00/8f/b0/008fb0d6-bcbb-2e87-97dd-4abaf2d10cd4/mzl.kllqccay.jpg/800x800cc.jpg",
+            "snapchat": "https://www.shazam.com/partner/sc/track/10012109"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "actions": [
+                {
+                    "name": "apple",
+                    "type": "applemusicplay",
+                    "id": "207178225"
+                },
+                {
+                    "name": "apple",
+                    "type": "uri",
+                    "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/95/d6/34/95d63482-1320-11f3-8fad-e435d624cc26/mzaf_13239735267200895039.plus.aac.ep.m4a"
+                }
+            ],
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/gb/album/hell-patrol/207178142?i=207178225&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/gb/album/hell-patrol/207178142?i=207178225&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                },
+                {
+                    "caption": "BUY",
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "uri": "https://itunes.apple.com/gb/album/hell-patrol/207178142?i=207178225&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "buy",
+                        "providername": "itunes"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "type": "buy",
+                    "listcaption": "Buy on iTunes",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "itunes"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:Hell%20Patrol%20Judas%20Priest"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27Hell+Patrol%27%20artist%3A%27Judas+Priest%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": false,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [
+                    {
+                        "image": "https://is2-ssl.mzstatic.com/image/thumb/Features115/v4/00/8f/b0/008fb0d6-bcbb-2e87-97dd-4abaf2d10cd4/mzl.kllqccay.jpg/800x800cc.jpg",
+                        "caption": "Judas Priest"
+                    },
+                    {
+                        "image": "https://is2-ssl.mzstatic.com/image/thumb/Music115/v4/d0/f4/d9/d0f4d907-d333-1c26-703d-7245a348a519/dj.xjjnnhmb.jpg/400x400cc.jpg",
+                        "caption": "Hell Patrol"
+                    }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                    {
+                        "title": "Album",
+                        "text": "Painkiller (Bonus Track Version)"
+                    },
+                    {
+                        "title": "Label",
+                        "text": "Columbia"
+                    },
+                    {
+                        "title": "Released",
+                        "text": "1990"
+                    }
+                ]
+            },
+            {
+                "type": "LYRICS",
+                "text": [
+                    "Like wild fire",
+                    "Comes roaring",
+                    "Mad whirlwind",
+                    "Burning the road",
+                    "",
+                    "Black thunder",
+                    "White lightning",
+                    "Speed Demons cry",
+                    "",
+                    "The Hell Patrol",
+                    "The Hell Patrol",
+                    "",
+                    "Night riders",
+                    "Death dealers",
+                    "Storm-bringers",
+                    "Tear up the ground",
+                    "",
+                    "Fist flying",
+                    "Eyes blazing",
+                    "They're glory bound",
+                    "",
+                    "The Hell Patrol",
+                    "The Hell Patrol",
+                    "",
+                    "Brutalize you",
+                    "Neutralize you",
+                    "Gonna go for your throat as you choke",
+                    "Then they'll vaporapeize you",
+                    "",
+                    "Terrorize you",
+                    "Pulverize you",
+                    "Gonna cut to the bone as you groan",
+                    "And they'll paratamize you",
+                    "",
+                    "Chrome monsters",
+                    "Steel warriors",
+                    "Soul stealers",
+                    "Ripping out hearts",
+                    "They're Devil dogs",
+                    "",
+                    "The Hell Patrol",
+                    "The Hell Patrol"
+                ],
+                "url": "https://cdn.shazam.com/lyrics/v1/en-US/GB/iphone/musixmatch/subtitles/243518/216/1?token=218fec562536e39758be3e073fca6169",
+                "footer": "Writer(s): Glenn Raymond Tipton, Kenneth Downing, Robert Halford\nLyrics powered by www.musixmatch.com",
+                "tabname": "Lyrics",
+                "beacondata": {
+                    "lyricsid": "26111382",
+                    "providername": "musixmatch",
+                    "commontrackid": "243518"
+                }
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/10012109/youtube/video?q=Judas+Priest+%22Hell+Patrol%22"
+            },
+            {
+                "type": "RELATED",
+                "url": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-10012109?startFrom=0&pageSize=20&connected=",
+                "tabname": "Related"
+            }
+        ],
+        "url": "https://www.shazam.com/track/10012109/hell-patrol",
+        "artists": [
+            {
+                "id": "42",
+                "adamid": "154707"
+            }
+        ],
+        "isrc": "GBBBN0102558",
+        "genres": {
+            "primary": "Metal"
+        },
+        "urlparams": {
+            "{tracktitle}": "Hell+Patrol",
+            "{trackartist}": "Judas+Priest"
+        },
+        "myshazam": {
+            "apple": {
+                "actions": [
+                    {
+                        "name": "myshazam:apple",
+                        "type": "uri",
+                        "uri": "https://music.apple.com/gb/album/hell-patrol/207178142?i=207178225&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                ]
+            }
+        },
+        "highlightsurls": {
+            "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/154707/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+        },
+        "relatedtracksurl": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-10012109?startFrom=0&pageSize=20&connected=",
+        "albumadamid": "207178142"
+    },
+    "tagid": "BBCEA5E7-B80E-4A7A-81A7-042FFFC7DD80"
+}

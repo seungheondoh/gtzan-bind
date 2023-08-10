@@ -1,0 +1,206 @@
+{
+    "matches": [
+        {
+            "id": "266438875",
+            "offset": 29.989285156,
+            "timeskew": 7.9631805e-05,
+            "frequencyskew": -0.000120818615
+        },
+        {
+            "id": "302152651",
+            "offset": 29.98524414,
+            "timeskew": 0.0002065897,
+            "frequencyskew": -4.029274e-05
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691632256811,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "156232012",
+        "title": "The Slump",
+        "subtitle": "Tony Williams",
+        "images": {
+            "background": "https://is4-ssl.mzstatic.com/image/thumb/Features125/v4/ee/ba/30/eeba30e7-d28f-5cc2-919e-bb0c14a5fc2a/pr_source.png/800x800cc.jpg",
+            "coverart": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/b7/9e/ed/b79eed27-792d-a19c-efdc-346960f120e3/00602537974276.rgb.jpg/400x400cc.jpg",
+            "coverarthq": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/b7/9e/ed/b79eed27-792d-a19c-efdc-346960f120e3/00602537974276.rgb.jpg/400x400cc.jpg",
+            "joecolor": "b:9c918bp:040405s:13120dt:222020q:2f2b26"
+        },
+        "share": {
+            "subject": "The Slump - Tony Williams",
+            "text": "The Slump by Tony Williams",
+            "href": "https://www.shazam.com/track/156232012/the-slump",
+            "image": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/b7/9e/ed/b79eed27-792d-a19c-efdc-346960f120e3/00602537974276.rgb.jpg/400x400cc.jpg",
+            "twitter": "I used @Shazam to discover The Slump by Tony Williams.",
+            "html": "https://www.shazam.com/snippets/email-share/156232012?lang=en-US&country=GB",
+            "avatar": "https://is4-ssl.mzstatic.com/image/thumb/Features125/v4/ee/ba/30/eeba30e7-d28f-5cc2-919e-bb0c14a5fc2a/pr_source.png/800x800cc.jpg",
+            "snapchat": "https://www.shazam.com/partner/sc/track/156232012"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "actions": [
+                {
+                    "name": "apple",
+                    "type": "applemusicplay",
+                    "id": "1444011560"
+                },
+                {
+                    "name": "apple",
+                    "type": "uri",
+                    "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview118/v4/19/56/32/19563246-10ad-b869-f176-da3e05293d4f/mzaf_2655594664647396113.plus.aac.ep.m4a"
+                }
+            ],
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/gb/album/the-slump/1444011067?i=1444011560&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/gb/album/the-slump/1444011067?i=1444011560&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                },
+                {
+                    "caption": "BUY",
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "uri": "https://itunes.apple.com/gb/album/the-slump/1444011067?i=1444011560&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "buy",
+                        "providername": "itunes"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "type": "buy",
+                    "listcaption": "Buy on iTunes",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "itunes"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:The%20Slump%20Tony%20Williams"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27The+Slump%27%20artist%3A%27Tony+Williams%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": false,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [
+                    {
+                        "image": "https://is4-ssl.mzstatic.com/image/thumb/Features125/v4/ee/ba/30/eeba30e7-d28f-5cc2-919e-bb0c14a5fc2a/pr_source.png/800x800cc.jpg",
+                        "caption": "Tony Williams"
+                    },
+                    {
+                        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/b7/9e/ed/b79eed27-792d-a19c-efdc-346960f120e3/00602537974276.rgb.jpg/400x400cc.jpg",
+                        "caption": "The Slump"
+                    }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                    {
+                        "title": "Album",
+                        "text": "Civilization"
+                    },
+                    {
+                        "title": "Label",
+                        "text": "CM BLUE NOTE (A92)"
+                    },
+                    {
+                        "title": "Released",
+                        "text": "1987"
+                    }
+                ]
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/156232012/youtube/video?q=Tony+Williams+%22The+Slump%22"
+            }
+        ],
+        "url": "https://www.shazam.com/track/156232012/the-slump",
+        "artists": [
+            {
+                "id": "42",
+                "adamid": "52545"
+            }
+        ],
+        "isrc": "USBN28600020",
+        "genres": {
+            "primary": "Jazz"
+        },
+        "urlparams": {
+            "{tracktitle}": "The+Slump",
+            "{trackartist}": "Tony+Williams"
+        },
+        "myshazam": {
+            "apple": {
+                "actions": [
+                    {
+                        "name": "myshazam:apple",
+                        "type": "uri",
+                        "uri": "https://music.apple.com/gb/album/the-slump/1444011067?i=1444011560&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                ]
+            }
+        },
+        "highlightsurls": {
+            "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/52545/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+        },
+        "albumadamid": "1444011067"
+    },
+    "tagid": "51FE475A-0891-4BAF-BE01-12B6BB838F90"
+}

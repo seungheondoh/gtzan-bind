@@ -1,0 +1,295 @@
+{
+    "matches": [
+        {
+            "id": "224975836",
+            "offset": 29.90308789,
+            "timeskew": -3.516674e-06,
+            "frequencyskew": 0.0
+        },
+        {
+            "id": "225711868",
+            "offset": 29.952976562,
+            "timeskew": -0.00020074844,
+            "frequencyskew": -0.00016111135
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691632773680,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "11120259",
+        "title": "Oops!...I Did It Again",
+        "subtitle": "Britney Spears",
+        "images": {
+            "background": "https://is4-ssl.mzstatic.com/image/thumb/Features115/v4/53/a7/66/53a76640-0730-3751-19cd-aac7d85c20b8/mzl.izsetnqd.jpeg/800x800cc.jpg",
+            "coverart": "https://is2-ssl.mzstatic.com/image/thumb/Features124/v4/5b/d4/0f/5bd40f8b-60e8-3331-f48c-7655daa9037d/dj.svwmjfmt.jpg/400x400cc.jpg",
+            "coverarthq": "https://is2-ssl.mzstatic.com/image/thumb/Features124/v4/5b/d4/0f/5bd40f8b-60e8-3331-f48c-7655daa9037d/dj.svwmjfmt.jpg/400x400cc.jpg",
+            "joecolor": "b:9fa0a2p:040606s:241b14t:232525q:3c3530"
+        },
+        "share": {
+            "subject": "Oops!...I Did It Again - Britney Spears",
+            "text": "Oops!...I Did It Again by Britney Spears",
+            "href": "https://www.shazam.com/track/11120259/oops-i-did-it-again",
+            "image": "https://is2-ssl.mzstatic.com/image/thumb/Features124/v4/5b/d4/0f/5bd40f8b-60e8-3331-f48c-7655daa9037d/dj.svwmjfmt.jpg/400x400cc.jpg",
+            "twitter": "I used @Shazam to discover Oops!...I Did It Again by Britney Spears.",
+            "html": "https://www.shazam.com/snippets/email-share/11120259?lang=en-US&country=GB",
+            "avatar": "https://is4-ssl.mzstatic.com/image/thumb/Features115/v4/53/a7/66/53a76640-0730-3751-19cd-aac7d85c20b8/mzl.izsetnqd.jpeg/800x800cc.jpg",
+            "snapchat": "https://www.shazam.com/partner/sc/track/11120259"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "actions": [
+                {
+                    "name": "apple",
+                    "type": "applemusicplay",
+                    "id": "264025706"
+                },
+                {
+                    "name": "apple",
+                    "type": "uri",
+                    "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/75/7d/40/757d4073-ada4-2576-6914-d8c3f981f395/mzaf_8895510223733820389.plus.aac.ep.m4a"
+                }
+            ],
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/gb/album/oops-i-did-it-again/264025392?i=264025706&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/gb/album/oops-i-did-it-again/264025392?i=264025706&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                },
+                {
+                    "caption": "BUY",
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "uri": "https://itunes.apple.com/gb/album/oops-i-did-it-again/264025392?i=264025706&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "buy",
+                        "providername": "itunes"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "type": "buy",
+                    "listcaption": "Buy on iTunes",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "itunes"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:Oops%21...I%20Did%20It%20Again%20Britney%20Spears"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27Oops%21...I+Did+It+Again%27%20artist%3A%27Britney+Spears%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": false,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [
+                    {
+                        "image": "https://is4-ssl.mzstatic.com/image/thumb/Features115/v4/53/a7/66/53a76640-0730-3751-19cd-aac7d85c20b8/mzl.izsetnqd.jpeg/800x800cc.jpg",
+                        "caption": "Britney Spears"
+                    },
+                    {
+                        "image": "https://is2-ssl.mzstatic.com/image/thumb/Features124/v4/5b/d4/0f/5bd40f8b-60e8-3331-f48c-7655daa9037d/dj.svwmjfmt.jpg/400x400cc.jpg",
+                        "caption": "Oops!...I Did It Again"
+                    }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                    {
+                        "title": "Album",
+                        "text": "Greatest Hits: My Prerogative"
+                    },
+                    {
+                        "title": "Label",
+                        "text": "Jive"
+                    },
+                    {
+                        "title": "Released",
+                        "text": "1991"
+                    }
+                ]
+            },
+            {
+                "type": "LYRICS",
+                "text": [
+                    "Yeah, yeah, yeah, yeah, yeah, yeah",
+                    "Yeah, yeah, yeah, yeah, yeah, yeah",
+                    "",
+                    "I think I did it again",
+                    "I made you believe we're more than just friends",
+                    "Oh, baby, it might seem like a crush",
+                    "But it doesn't mean that I'm serious",
+                    "",
+                    "'Cause to lose all my senses",
+                    "That is just so typically me",
+                    "Ooh, baby, baby",
+                    "",
+                    "Oops, I did it again",
+                    "I played with your heart",
+                    "Got lost in the game",
+                    "Ooh, baby, baby",
+                    "Oops, you think I'm in love",
+                    "That I'm sent from above",
+                    "I'm not that innocent",
+                    "",
+                    "You see, my problem is this",
+                    "I'm dreaming away, wishing that heroes, they truly exist",
+                    "I cry watching the days",
+                    "Can't you see I'm a fool in so many ways?",
+                    "",
+                    "But to lose all my senses",
+                    "That is just so typically me",
+                    "Oh, baby, oh",
+                    "",
+                    "Oops, I did it again",
+                    "I played with your heart",
+                    "Got lost in the game",
+                    "Oh, baby, baby",
+                    "Oops, you think I'm in love",
+                    "That I'm sent from above",
+                    "I'm not that innocent",
+                    "",
+                    "Yeah, yeah, yeah, yeah, yeah, yeah",
+                    "",
+                    "Yeah, yeah, yeah, yeah, yeah, yeah",
+                    "",
+                    "All aboard",
+                    "Britney, before you go, there's something I want you to have",
+                    "Oh, it's beautiful, but wait a minute, isn't this?",
+                    "Yeah, yes, it is",
+                    "But I thought the old lady dropped it into the ocean in the end",
+                    "Well, baby, I went down and got it for ya",
+                    "Aw, you shouldn't have",
+                    "",
+                    "Oops, I did it again to your heart",
+                    "Got lost in this game, oh, baby",
+                    "Oops, you (oops, you) think that I'm sent from above",
+                    "I'm not that innocent",
+                    "",
+                    "Oops, I did it again",
+                    "I played with your heart",
+                    "Got lost in the game",
+                    "Ooh, baby, baby",
+                    "Oops, you think I'm in love",
+                    "That I'm sent from above",
+                    "I'm not that innocent",
+                    "",
+                    "Oops, I did it again",
+                    "I played with your heart",
+                    "Got lost in the game",
+                    "Ooh, baby, baby",
+                    "Oops, you think I'm in love",
+                    "That I'm sent from above",
+                    "I'm not that innocent"
+                ],
+                "url": "https://cdn.shazam.com/lyrics/v1/en-US/GB/iphone/musixmatch/subtitles/10026913/210/1?token=03d81c7555b8173c16c33d245f7761fc",
+                "footer": "Writer(s): Rami Yacoub, Martin Sandberg\nLyrics powered by www.musixmatch.com",
+                "tabname": "Lyrics",
+                "beacondata": {
+                    "lyricsid": "29357647",
+                    "providername": "musixmatch",
+                    "commontrackid": "10026913"
+                }
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/11120259/youtube/video?q=Britney+Spears+%22Oops!...I+Did+It+Again%22"
+            },
+            {
+                "type": "RELATED",
+                "url": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-11120259?startFrom=0&pageSize=20&connected=",
+                "tabname": "Related"
+            }
+        ],
+        "url": "https://www.shazam.com/track/11120259/oops-i-did-it-again",
+        "artists": [
+            {
+                "id": "42",
+                "adamid": "217005"
+            }
+        ],
+        "isrc": "USJI10000100",
+        "genres": {
+            "primary": "Pop"
+        },
+        "urlparams": {
+            "{tracktitle}": "Oops%21...I+Did+It+Again",
+            "{trackartist}": "Britney+Spears"
+        },
+        "myshazam": {
+            "apple": {
+                "actions": [
+                    {
+                        "name": "myshazam:apple",
+                        "type": "uri",
+                        "uri": "https://music.apple.com/gb/album/oops-i-did-it-again/264025392?i=264025706&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                ]
+            }
+        },
+        "highlightsurls": {
+            "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/217005/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios&videoIdToFilter=332777704",
+            "trackhighlighturl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/highlights/332777704?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+        },
+        "relatedtracksurl": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-11120259?startFrom=0&pageSize=20&connected=",
+        "albumadamid": "264025392"
+    },
+    "tagid": "E5898DFF-2B5F-4A40-80BD-EAE38B9FF580"
+}

@@ -1,0 +1,256 @@
+{
+    "matches": [
+        {
+            "id": "295199008",
+            "offset": 29.792400389999997,
+            "timeskew": 3.528595e-05,
+            "frequencyskew": -0.000120818615
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691633446709,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "434265",
+        "title": "Me Neither",
+        "subtitle": "Brad Paisley",
+        "images": {
+            "background": "https://is2-ssl.mzstatic.com/image/thumb/Features125/v4/6f/0c/49/6f0c4983-dfe2-7907-16d8-2e7aaf9fea97/mzl.buakmgap.jpg/800x800cc.jpg",
+            "coverart": "https://is4-ssl.mzstatic.com/image/thumb/Music124/v4/49/b7/8b/49b78b63-52d3-ec7a-e85a-18338c1acf50/888880341167.jpg/400x400cc.jpg",
+            "coverarthq": "https://is4-ssl.mzstatic.com/image/thumb/Music124/v4/49/b7/8b/49b78b63-52d3-ec7a-e85a-18338c1acf50/888880341167.jpg/400x400cc.jpg",
+            "joecolor": "b:231f20p:c5e8fcs:abdcf9t:a4c0d0q:90b6cd"
+        },
+        "share": {
+            "subject": "Me Neither - Brad Paisley",
+            "text": "Me Neither by Brad Paisley",
+            "href": "https://www.shazam.com/track/434265/me-neither",
+            "image": "https://is4-ssl.mzstatic.com/image/thumb/Music124/v4/49/b7/8b/49b78b63-52d3-ec7a-e85a-18338c1acf50/888880341167.jpg/400x400cc.jpg",
+            "twitter": "I used @Shazam to discover Me Neither by Brad Paisley.",
+            "html": "https://www.shazam.com/snippets/email-share/434265?lang=en-US&country=GB",
+            "avatar": "https://is2-ssl.mzstatic.com/image/thumb/Features125/v4/6f/0c/49/6f0c4983-dfe2-7907-16d8-2e7aaf9fea97/mzl.buakmgap.jpg/800x800cc.jpg",
+            "snapchat": "https://www.shazam.com/partner/sc/track/434265"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "actions": [
+                {
+                    "name": "apple",
+                    "type": "applemusicplay",
+                    "id": "286726812"
+                },
+                {
+                    "name": "apple",
+                    "type": "uri",
+                    "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/25/d9/30/25d930d1-4b29-f02b-375c-47d9a37cfb16/mzaf_3643786653619456252.plus.aac.ep.m4a"
+                }
+            ],
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/gb/album/me-neither/286726740?i=286726812&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/gb/album/me-neither/286726740?i=286726812&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                },
+                {
+                    "caption": "BUY",
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "uri": "https://itunes.apple.com/gb/album/me-neither/286726740?i=286726812&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "buy",
+                        "providername": "itunes"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "type": "buy",
+                    "listcaption": "Buy on iTunes",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "itunes"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:Me%20Neither%20Brad%20Paisley"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27Me+Neither%27%20artist%3A%27Brad+Paisley%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": false,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [
+                    {
+                        "image": "https://is2-ssl.mzstatic.com/image/thumb/Features125/v4/6f/0c/49/6f0c4983-dfe2-7907-16d8-2e7aaf9fea97/mzl.buakmgap.jpg/800x800cc.jpg",
+                        "caption": "Brad Paisley"
+                    },
+                    {
+                        "image": "https://is4-ssl.mzstatic.com/image/thumb/Music124/v4/49/b7/8b/49b78b63-52d3-ec7a-e85a-18338c1acf50/888880341167.jpg/400x400cc.jpg",
+                        "caption": "Me Neither"
+                    }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                    {
+                        "title": "Album",
+                        "text": "Who Needs Pictures"
+                    },
+                    {
+                        "title": "Label",
+                        "text": "Arista Nashville"
+                    },
+                    {
+                        "title": "Released",
+                        "text": "1999"
+                    }
+                ]
+            },
+            {
+                "type": "LYRICS",
+                "text": [
+                    "Darlin', I've been standin' here just watchin' you all night",
+                    "And I think I've even caught you watchin' me a couple times",
+                    "If I don't ask, I'll never know",
+                    "This may sound dumb but here we go",
+                    "Do you believe in love at first sight?",
+                    "",
+                    "Me neither",
+                    "I'm glad that we agree",
+                    "Believe me, that's a big relief",
+                    "Well, this place is awful crowded and this music is so loud",
+                    "Would you like to go and grab a bite to eat?",
+                    "Me neither",
+                    "",
+                    "It's nice to finally meet a girl who doesn't move too fast",
+                    "I was only checkin', that's the reason that I asked",
+                    "Relationships need time to grow",
+                    "You and I should take this slow",
+                    "Darlin', tell me, would you like to dance?",
+                    "",
+                    "Me neither",
+                    "I was just bein' polite",
+                    "Thank goodness, my feet are much too tired",
+                    "I'm sure you're tired too",
+                    "I can see an empty booth",
+                    "Would you like to maybe sit and talk a while?",
+                    "",
+                    "Me neither",
+                    "We'd never get along",
+                    "I'm thinkin' there's no chemistry at all",
+                    "This has been a waste of time",
+                    "And I'm runnin' out of lines",
+                    "Don't you think it's time for me to end this song?",
+                    "Me neither",
+                    "",
+                    "Oh, here we go",
+                    "",
+                    "Oh yeah"
+                ],
+                "url": "https://cdn.shazam.com/lyrics/v1/en-US/GB/iphone/musixmatch/subtitles/1272059/199/1?token=1140883d2f94025ae9e36fb673ba1bb2",
+                "footer": "Writer(s): Brad Paisley, Frank Rogers, Charles Du Bois\nLyrics powered by www.musixmatch.com",
+                "tabname": "Lyrics",
+                "beacondata": {
+                    "lyricsid": "25876008",
+                    "providername": "musixmatch",
+                    "commontrackid": "1272059"
+                }
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/434265/youtube/video?q=Brad+Paisley+%22Me+Neither%22"
+            },
+            {
+                "type": "RELATED",
+                "url": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-434265?startFrom=0&pageSize=20&connected=",
+                "tabname": "Related"
+            }
+        ],
+        "url": "https://www.shazam.com/track/434265/me-neither",
+        "artists": [
+            {
+                "id": "42",
+                "adamid": "203739"
+            }
+        ],
+        "isrc": "USAN29800047",
+        "genres": {
+            "primary": "Country"
+        },
+        "urlparams": {
+            "{tracktitle}": "Me+Neither",
+            "{trackartist}": "Brad+Paisley"
+        },
+        "myshazam": {
+            "apple": {
+                "actions": [
+                    {
+                        "name": "myshazam:apple",
+                        "type": "uri",
+                        "uri": "https://music.apple.com/gb/album/me-neither/286726740?i=286726812&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                ]
+            }
+        },
+        "highlightsurls": {
+            "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/203739/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+        },
+        "relatedtracksurl": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-434265?startFrom=0&pageSize=20&connected=",
+        "albumadamid": "286726740"
+    },
+    "tagid": "21B397D0-27CF-485F-A488-74D94ED4624D"
+}

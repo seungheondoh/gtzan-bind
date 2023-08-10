@@ -1,0 +1,206 @@
+{
+    "matches": [
+        {
+            "id": "350102334",
+            "offset": 30.38215625,
+            "timeskew": 0.001398921,
+            "frequencyskew": 0.0014106035
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691633301198,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "10030768",
+        "title": "Many Rivers To Cross (From \"The Harder They Come\" Soundtrack)",
+        "subtitle": "Jimmy Cliff",
+        "images": {
+            "background": "https://is1-ssl.mzstatic.com/image/thumb/Features125/v4/5d/e0/a4/5de0a45f-411b-dd96-09cb-e1ed2cfcb3bd/mzl.koceekdm.jpg/800x800cc.jpg",
+            "coverart": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/b5/2c/f5/b52cf50b-fa0a-3f40-8aae-2acca915a5c3/18UMGIM30903.rgb.jpg/400x400cc.jpg",
+            "coverarthq": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/b5/2c/f5/b52cf50b-fa0a-3f40-8aae-2acca915a5c3/18UMGIM30903.rgb.jpg/400x400cc.jpg",
+            "joecolor": "b:f3e79dp:16080fs:1b1310t:42352bq:463d2c"
+        },
+        "share": {
+            "subject": "Many Rivers To Cross (From \"The Harder They Come\" Soundtrack) - Jimmy Cliff",
+            "text": "Many Rivers To Cross (From \"The Harder They Come\" Soundtrack) by Jimmy Cliff",
+            "href": "https://www.shazam.com/track/10030768/many-rivers-to-cross-from-the-harder-they-come-soundtrack",
+            "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/b5/2c/f5/b52cf50b-fa0a-3f40-8aae-2acca915a5c3/18UMGIM30903.rgb.jpg/400x400cc.jpg",
+            "twitter": "I used @Shazam to discover Many Rivers To Cross (From \"The Harder They Come\" Soundtrack) by Jimmy Cliff.",
+            "html": "https://www.shazam.com/snippets/email-share/10030768?lang=en-US&country=GB",
+            "avatar": "https://is1-ssl.mzstatic.com/image/thumb/Features125/v4/5d/e0/a4/5de0a45f-411b-dd96-09cb-e1ed2cfcb3bd/mzl.koceekdm.jpg/800x800cc.jpg",
+            "snapchat": "https://www.shazam.com/partner/sc/track/10030768"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "actions": [
+                {
+                    "name": "apple",
+                    "type": "applemusicplay",
+                    "id": "1488635206"
+                },
+                {
+                    "name": "apple",
+                    "type": "uri",
+                    "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/88/3d/2a/883d2a0f-9c8a-4a07-875b-742164bb9901/mzaf_1789705928910417936.plus.aac.ep.m4a"
+                }
+            ],
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/gb/album/many-rivers-to-cross-from-the-harder-they-come-soundtrack/1488634629?i=1488635206&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/gb/album/many-rivers-to-cross-from-the-harder-they-come-soundtrack/1488634629?i=1488635206&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                },
+                {
+                    "caption": "BUY",
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "uri": "https://itunes.apple.com/gb/album/many-rivers-to-cross-from-the-harder-they-come-soundtrack/1488634629?i=1488635206&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "buy",
+                        "providername": "itunes"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "type": "buy",
+                    "listcaption": "Buy on iTunes",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "itunes"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:Many%20Rivers%20To%20Cross%20%28From%20%22The%20Harder%20They%20Come%22%20Soundtrack%29%20Jimmy%20Cliff"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27Many+Rivers+To+Cross+%28From+%22The+Harder+They+Come%22+Soundtrack%29%27%20artist%3A%27Jimmy+Cliff%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": false,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [
+                    {
+                        "image": "https://is1-ssl.mzstatic.com/image/thumb/Features125/v4/5d/e0/a4/5de0a45f-411b-dd96-09cb-e1ed2cfcb3bd/mzl.koceekdm.jpg/800x800cc.jpg",
+                        "caption": "Jimmy Cliff"
+                    },
+                    {
+                        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/b5/2c/f5/b52cf50b-fa0a-3f40-8aae-2acca915a5c3/18UMGIM30903.rgb.jpg/400x400cc.jpg",
+                        "caption": "Many Rivers To Cross (From \"The Harder They Come\" Soundtrack)"
+                    }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                    {
+                        "title": "Album",
+                        "text": "The Best of Jimmy Cliff (1975)"
+                    },
+                    {
+                        "title": "Label",
+                        "text": "UMC (Universal Music Catalogue)"
+                    },
+                    {
+                        "title": "Released",
+                        "text": "1969"
+                    }
+                ]
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/10030768/youtube/video?q=Jimmy+Cliff+%22Many+Rivers+To+Cross+(From+The+Harder+They+Come+Soundtrack)%22"
+            },
+            {
+                "type": "RELATED",
+                "url": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-10030768?startFrom=0&pageSize=20&connected=",
+                "tabname": "Related"
+            }
+        ],
+        "url": "https://www.shazam.com/track/10030768/many-rivers-to-cross-from-the-harder-they-come-soundtrack",
+        "artists": [
+            {
+                "id": "42",
+                "adamid": "30804"
+            }
+        ],
+        "isrc": "GBAPA6900004",
+        "genres": {
+            "primary": "Reggae"
+        },
+        "urlparams": {
+            "{tracktitle}": "Many+Rivers+To+Cross+%28From+%22The+Harder+They+Come%22+Soundtrack%29",
+            "{trackartist}": "Jimmy+Cliff"
+        },
+        "myshazam": {
+            "apple": {
+                "actions": [
+                    {
+                        "name": "myshazam:apple",
+                        "type": "uri",
+                        "uri": "https://music.apple.com/gb/album/many-rivers-to-cross-from-the-harder-they-come-soundtrack/1488634629?i=1488635206&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                ]
+            }
+        },
+        "highlightsurls": {
+            "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/30804/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+        },
+        "relatedtracksurl": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-10030768?startFrom=0&pageSize=20&connected=",
+        "albumadamid": "1488634629"
+    },
+    "tagid": "4B1C96BC-556D-4E4A-BCB3-55EC83B72D93"
+}

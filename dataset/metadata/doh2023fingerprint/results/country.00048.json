@@ -1,0 +1,260 @@
+{
+    "matches": [
+        {
+            "id": "268890004",
+            "offset": 30.292748046,
+            "timeskew": 0.010349631,
+            "frequencyskew": 0.010159969
+        },
+        {
+            "id": "602000486",
+            "offset": 30.369423828,
+            "timeskew": 0.0014152527,
+            "frequencyskew": 0.0016928911
+        },
+        {
+            "id": "306190196",
+            "offset": 29.922097656000002,
+            "timeskew": 0.0022534132,
+            "frequencyskew": 0.00096702576
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691633454927,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "251653026",
+        "title": "Running Bear",
+        "subtitle": "Johnny Preston",
+        "images": {
+            "background": "https://is2-ssl.mzstatic.com/image/thumb/Music123/v4/24/81/62/24816259-8e21-0e8e-7441-b55ea7763fc9/pr_source.png/800x800cc.jpg",
+            "coverart": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/ca/23/db/ca23db27-3083-ccc8-df1d-93bfaf55ea36/4066004351605_3000.jpg/400x400cc.jpg",
+            "coverarthq": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/ca/23/db/ca23db27-3083-ccc8-df1d-93bfaf55ea36/4066004351605_3000.jpg/400x400cc.jpg",
+            "joecolor": "b:000000p:fdfdfds:fb401at:cacacaq:c93315"
+        },
+        "share": {
+            "subject": "Running Bear - Johnny Preston",
+            "text": "Running Bear by Johnny Preston",
+            "href": "https://www.shazam.com/track/251653026/running-bear",
+            "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/ca/23/db/ca23db27-3083-ccc8-df1d-93bfaf55ea36/4066004351605_3000.jpg/400x400cc.jpg",
+            "twitter": "I used @Shazam to discover Running Bear by Johnny Preston.",
+            "html": "https://www.shazam.com/snippets/email-share/251653026?lang=en-US&country=GB",
+            "avatar": "https://is2-ssl.mzstatic.com/image/thumb/Music123/v4/24/81/62/24816259-8e21-0e8e-7441-b55ea7763fc9/pr_source.png/800x800cc.jpg",
+            "snapchat": "https://www.shazam.com/partner/sc/track/251653026"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "actions": [
+                {
+                    "name": "apple",
+                    "type": "applemusicplay",
+                    "id": "1597264328"
+                },
+                {
+                    "name": "apple",
+                    "type": "uri",
+                    "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/12/1d/4f/121d4f8e-8844-51b4-5258-3407cbac007a/mzaf_13879505938829449217.plus.aac.ep.m4a"
+                }
+            ],
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/gb/album/running-bear/1597264057?i=1597264328&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/gb/album/running-bear/1597264057?i=1597264328&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                },
+                {
+                    "caption": "BUY",
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "uri": "https://itunes.apple.com/gb/album/running-bear/1597264057?i=1597264328&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "buy",
+                        "providername": "itunes"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "type": "buy",
+                    "listcaption": "Buy on iTunes",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "itunes"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:Running%20Bear%20Johnny%20Preston"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27Running+Bear%27%20artist%3A%27Johnny+Preston%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": false,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [
+                    {
+                        "image": "https://is2-ssl.mzstatic.com/image/thumb/Music123/v4/24/81/62/24816259-8e21-0e8e-7441-b55ea7763fc9/pr_source.png/800x800cc.jpg",
+                        "caption": "Johnny Preston"
+                    },
+                    {
+                        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/ca/23/db/ca23db27-3083-ccc8-df1d-93bfaf55ea36/4066004351605_3000.jpg/400x400cc.jpg",
+                        "caption": "Running Bear"
+                    }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                    {
+                        "title": "Album",
+                        "text": "Rock"
+                    },
+                    {
+                        "title": "Label",
+                        "text": "Universal Digital Enterprises"
+                    },
+                    {
+                        "title": "Released",
+                        "text": "1960"
+                    }
+                ]
+            },
+            {
+                "type": "LYRICS",
+                "text": [
+                    "On the bank of the river stood Running Bear, young Indian brave",
+                    "On the other side of the river stood his lovely Indian maid",
+                    "Little White Dove was her name, such a lovely sight to see",
+                    "But their tribes fought with each other, so their love could never be",
+                    "",
+                    "Running Bear loved Little White Dove",
+                    "With a love big as the sky",
+                    "Running Bear loved Little White Dove",
+                    "With a love that couldn't die",
+                    "",
+                    "He couldn't swim the raging river 'cause the river was too wide",
+                    "He couldn't reach Little White Dove waiting on the other side",
+                    "In the moonlight he could see her throwing kisses 'cross the waves",
+                    "Her little heart was beating faster, waiting there for her brave",
+                    "",
+                    "Running Bear loved Little White Dove",
+                    "With a love big as the sky",
+                    "Running Bear loved Little White Dove",
+                    "With a love that couldn't die",
+                    "",
+                    "Running Bear dove in the water, Little White Dove did the same",
+                    "And they swam out to each other, through the swirling stream they came",
+                    "As their hands touched and their lips met, the raging river pulled them down",
+                    "Now they'll always be together in that happy hunting ground",
+                    "",
+                    "Running Bear loved Little White Dove",
+                    "With a love big as the sky",
+                    "Running Bear loved Little White Dove",
+                    "With a love that couldn't die"
+                ],
+                "url": "https://cdn.shazam.com/lyrics/v1/en-US/GB/iphone/musixmatch/subtitles/716467/157/1?token=3ae916e76ba9eea9263abc30d51d3627",
+                "footer": "Writer(s): J.p Richardson\nLyrics powered by www.musixmatch.com",
+                "tabname": "Lyrics",
+                "beacondata": {
+                    "lyricsid": "32467062",
+                    "providername": "musixmatch",
+                    "commontrackid": "716467"
+                }
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/251653026/youtube/video?q=Johnny+Preston+%22Running+Bear%22"
+            },
+            {
+                "type": "RELATED",
+                "url": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-251653026?startFrom=0&pageSize=20&connected=",
+                "tabname": "Related"
+            }
+        ],
+        "url": "https://www.shazam.com/track/251653026/running-bear",
+        "artists": [
+            {
+                "id": "42",
+                "adamid": "17487929"
+            }
+        ],
+        "isrc": "DEZZ42171152",
+        "genres": {
+            "primary": "Pop"
+        },
+        "urlparams": {
+            "{tracktitle}": "Running+Bear",
+            "{trackartist}": "Johnny+Preston"
+        },
+        "myshazam": {
+            "apple": {
+                "actions": [
+                    {
+                        "name": "myshazam:apple",
+                        "type": "uri",
+                        "uri": "https://music.apple.com/gb/album/running-bear/1597264057?i=1597264328&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                ]
+            }
+        },
+        "highlightsurls": {
+            "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/17487929/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+        },
+        "relatedtracksurl": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-251653026?startFrom=0&pageSize=20&connected=",
+        "albumadamid": "1597264057"
+    },
+    "tagid": "414ADCB1-0CDD-4BC5-A09D-CA7CEAB8BA46"
+}

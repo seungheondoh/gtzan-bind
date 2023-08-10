@@ -1,0 +1,206 @@
+{
+    "matches": [
+        {
+            "id": "382693213",
+            "offset": 112.731234375,
+            "timeskew": 0.001060605,
+            "frequencyskew": -0.002895534
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691632547164,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "382693213",
+        "title": "Filtered African Blues (FNX Omar Remix)",
+        "subtitle": "Oscar P & FNX OMAR",
+        "images": {
+            "background": "https://is5-ssl.mzstatic.com/image/thumb/Music123/v4/02/cd/38/02cd38d0-9af3-e4cb-a20d-0700c2c7c43b/pr_source.png/800x800cc.jpg",
+            "coverart": "https://is2-ssl.mzstatic.com/image/thumb/Music118/v4/42/ec/8a/42ec8a2f-f436-4909-78ce-f6758ccfe5bd/cover.jpg/400x400cc.jpg",
+            "coverarthq": "https://is2-ssl.mzstatic.com/image/thumb/Music118/v4/42/ec/8a/42ec8a2f-f436-4909-78ce-f6758ccfe5bd/cover.jpg/400x400cc.jpg",
+            "joecolor": "b:090a1ap:e2993bs:e07989t:b67d34q:b56373"
+        },
+        "share": {
+            "subject": "Filtered African Blues (FNX Omar Remix) - Oscar P & FNX OMAR",
+            "text": "Filtered African Blues (FNX Omar Remix) by Oscar P & FNX OMAR",
+            "href": "https://www.shazam.com/track/382693213/filtered-african-blues-fnx-omar-remix",
+            "image": "https://is2-ssl.mzstatic.com/image/thumb/Music118/v4/42/ec/8a/42ec8a2f-f436-4909-78ce-f6758ccfe5bd/cover.jpg/400x400cc.jpg",
+            "twitter": "I used @Shazam to discover Filtered African Blues (FNX Omar Remix) by Oscar P & FNX OMAR.",
+            "html": "https://www.shazam.com/snippets/email-share/382693213?lang=en-US&country=GB",
+            "avatar": "https://is5-ssl.mzstatic.com/image/thumb/Music123/v4/02/cd/38/02cd38d0-9af3-e4cb-a20d-0700c2c7c43b/pr_source.png/800x800cc.jpg",
+            "snapchat": "https://www.shazam.com/partner/sc/track/382693213"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "actions": [
+                {
+                    "name": "apple",
+                    "type": "applemusicplay",
+                    "id": "1317192401"
+                },
+                {
+                    "name": "apple",
+                    "type": "uri",
+                    "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/2f/53/f9/2f53f945-8c16-1d81-5991-e8dc11a07858/mzaf_6547842421166700809.plus.aac.ep.m4a"
+                }
+            ],
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/gb/album/filtered-african-blues-fnx-omar-remix/1317192070?i=1317192401&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/gb/album/filtered-african-blues-fnx-omar-remix/1317192070?i=1317192401&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                },
+                {
+                    "caption": "BUY",
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "uri": "https://itunes.apple.com/gb/album/filtered-african-blues-fnx-omar-remix/1317192070?i=1317192401&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "buy",
+                        "providername": "itunes"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "type": "buy",
+                    "listcaption": "Buy on iTunes",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "itunes"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:Filtered%20African%20Blues%20%28FNX%20Omar%20Remix%29%20Oscar%20P"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27Filtered+African+Blues+%28FNX+Omar+Remix%29%27%20artist%3A%27Oscar+P++FNX+OMAR%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": false,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [
+                    {
+                        "image": "https://is5-ssl.mzstatic.com/image/thumb/Music123/v4/02/cd/38/02cd38d0-9af3-e4cb-a20d-0700c2c7c43b/pr_source.png/800x800cc.jpg",
+                        "caption": "Oscar P"
+                    },
+                    {
+                        "image": "https://is2-ssl.mzstatic.com/image/thumb/Music118/v4/42/ec/8a/42ec8a2f-f436-4909-78ce-f6758ccfe5bd/cover.jpg/400x400cc.jpg",
+                        "caption": "Filtered African Blues (FNX Omar Remix)"
+                    }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                    {
+                        "title": "Album",
+                        "text": "Filtered African Blues - Single"
+                    },
+                    {
+                        "title": "Label",
+                        "text": "Seres Producoes"
+                    },
+                    {
+                        "title": "Released",
+                        "text": "2017"
+                    }
+                ]
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/382693213/youtube/video?q=Oscar+P+%26+FNX+OMAR+%22Filtered+African+Blues+(FNX+Omar+Remix)%22"
+            },
+            {
+                "type": "RELATED",
+                "url": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-382693213?startFrom=0&pageSize=20&connected=",
+                "tabname": "Related"
+            }
+        ],
+        "url": "https://www.shazam.com/track/382693213/filtered-african-blues-fnx-omar-remix",
+        "artists": [
+            {
+                "id": "42",
+                "adamid": "165017724"
+            }
+        ],
+        "isrc": "PT1GK1700163",
+        "genres": {
+            "primary": "House"
+        },
+        "urlparams": {
+            "{tracktitle}": "Filtered+African+Blues+%28FNX+Omar+Remix%29",
+            "{trackartist}": "Oscar+P+%26+FNX+OMAR"
+        },
+        "myshazam": {
+            "apple": {
+                "actions": [
+                    {
+                        "name": "myshazam:apple",
+                        "type": "uri",
+                        "uri": "https://music.apple.com/gb/album/filtered-african-blues-fnx-omar-remix/1317192070?i=1317192401&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                ]
+            }
+        },
+        "highlightsurls": {
+            "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/165017724/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+        },
+        "relatedtracksurl": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-382693213?startFrom=0&pageSize=20&connected=",
+        "albumadamid": "1317192070"
+    },
+    "tagid": "3E92292B-7EDE-4A37-97DB-4DE50BAEC44F"
+}

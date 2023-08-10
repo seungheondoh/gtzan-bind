@@ -1,0 +1,237 @@
+{
+    "matches": [
+        {
+            "id": "266076041",
+            "offset": 31.146654296,
+            "timeskew": -0.007945478,
+            "frequencyskew": -0.008302033
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691632657855,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "54435257",
+        "title": "Stones In My Passway",
+        "subtitle": "Robert Johnson",
+        "images": {
+            "background": "https://is1-ssl.mzstatic.com/image/thumb/Features125/v4/ca/df/91/cadf91c2-0f43-7a03-d6e5-91778c2701ba/pr_source.png/800x800cc.jpg",
+            "coverart": "https://is5-ssl.mzstatic.com/image/thumb/Music/v4/e8/6d/91/e86d91ae-32ce-2eab-3124-41af9c3a1311/5099751723929.jpg/400x400cc.jpg",
+            "coverarthq": "https://is5-ssl.mzstatic.com/image/thumb/Music/v4/e8/6d/91/e86d91ae-32ce-2eab-3124-41af9c3a1311/5099751723929.jpg/400x400cc.jpg",
+            "joecolor": "b:1e6a79p:faed49s:bfe77dt:ced353q:9fce7d"
+        },
+        "share": {
+            "subject": "Stones In My Passway - Robert Johnson",
+            "text": "Stones In My Passway by Robert Johnson",
+            "href": "https://www.shazam.com/track/54435257/stones-in-my-passway",
+            "image": "https://is5-ssl.mzstatic.com/image/thumb/Music/v4/e8/6d/91/e86d91ae-32ce-2eab-3124-41af9c3a1311/5099751723929.jpg/400x400cc.jpg",
+            "twitter": "I used @Shazam to discover Stones In My Passway by Robert Johnson.",
+            "html": "https://www.shazam.com/snippets/email-share/54435257?lang=en-US&country=GB",
+            "avatar": "https://is1-ssl.mzstatic.com/image/thumb/Features125/v4/ca/df/91/cadf91c2-0f43-7a03-d6e5-91778c2701ba/pr_source.png/800x800cc.jpg",
+            "snapchat": "https://www.shazam.com/partner/sc/track/54435257"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "actions": [
+                {
+                    "name": "apple",
+                    "type": "applemusicplay",
+                    "id": "580433067"
+                },
+                {
+                    "name": "apple",
+                    "type": "uri",
+                    "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/e9/5e/bb/e95ebb59-9d1a-89d9-d276-bc9ed6c57694/mzaf_11542884267729583276.plus.aac.p.m4a"
+                }
+            ],
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/gb/album/stones-in-my-passway/580432955?i=580433067&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/gb/album/stones-in-my-passway/580432955?i=580433067&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                },
+                {
+                    "caption": "BUY",
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "uri": "https://itunes.apple.com/gb/album/stones-in-my-passway/580432955?i=580433067&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "buy",
+                        "providername": "itunes"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "type": "buy",
+                    "listcaption": "Buy on iTunes",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "itunes"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:Stones%20In%20My%20Passway%20Robert%20Johnson"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27Stones+In+My+Passway%27%20artist%3A%27Robert+Johnson%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": false,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [
+                    {
+                        "image": "https://is1-ssl.mzstatic.com/image/thumb/Features125/v4/ca/df/91/cadf91c2-0f43-7a03-d6e5-91778c2701ba/pr_source.png/800x800cc.jpg",
+                        "caption": "Robert Johnson"
+                    },
+                    {
+                        "image": "https://is5-ssl.mzstatic.com/image/thumb/Music/v4/e8/6d/91/e86d91ae-32ce-2eab-3124-41af9c3a1311/5099751723929.jpg/400x400cc.jpg",
+                        "caption": "Stones In My Passway"
+                    }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                    {
+                        "title": "Album",
+                        "text": "Guitar & Bass"
+                    },
+                    {
+                        "title": "Label",
+                        "text": "Sony Music Media"
+                    },
+                    {
+                        "title": "Released",
+                        "text": "1990"
+                    }
+                ]
+            },
+            {
+                "type": "LYRICS",
+                "text": [
+                    "I got stones in my passway, and my road seem dark as night",
+                    "I got stones in my passway, and my road seem dark as night",
+                    "I have pains in my heart, they have taken my appetite",
+                    "",
+                    "I have a bird to whistle, and I have a bird to sing",
+                    "Have a bird to whistle, and I have a bird to sing",
+                    "I got a woman that I'm lovin', boy, but she don't mean a thing",
+                    "",
+                    "My enemies have betrayed me, have overtaken poor Bob at last",
+                    "My enemies have betrayed me, have overtaken poor Bob at last",
+                    "And there's one thing certainly1, they have stones all in my pass",
+                    "",
+                    "Now you tryin' to take my life, and all my lovin' too",
+                    "You laid a passway for me, now what are you trying to do?",
+                    "I'm cryin' please, please let us be friends",
+                    "And when you hear me howlin' in my passway, rider, please open your door and let",
+                    "Me in",
+                    "",
+                    "I got three lane's2 to truck home, boys, please don't block my road",
+                    "I got three lane's2 to truck home, boys, please don't block my road",
+                    "I've been feelin' ashamed 'bout my rider, babe, I'm booked and I got to go",
+                    "",
+                    "Note 1: alternatively \"certain\" instead of \"certainly\"",
+                    "Note 2: alternatively \"legs\" instead of \"lane's\""
+                ],
+                "url": "https://cdn.shazam.com/lyrics/v1/en-US/GB/iphone/musixmatch/subtitles/626233/152/1?token=c4a1b55057c053b14b07a701132dfb38",
+                "footer": "Writer(s): Robert Johnson\nLyrics powered by www.musixmatch.com",
+                "tabname": "Lyrics",
+                "beacondata": {
+                    "lyricsid": "1729062",
+                    "providername": "musixmatch",
+                    "commontrackid": "626233"
+                }
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/54435257/youtube/video?q=Robert+Johnson+%22Stones+In+My+Passway%22"
+            }
+        ],
+        "url": "https://www.shazam.com/track/54435257/stones-in-my-passway",
+        "artists": [
+            {
+                "id": "42",
+                "adamid": "314626"
+            }
+        ],
+        "isrc": "USSM19000084",
+        "genres": {
+            "primary": "Pop"
+        },
+        "urlparams": {
+            "{tracktitle}": "Stones+In+My+Passway",
+            "{trackartist}": "Robert+Johnson"
+        },
+        "myshazam": {
+            "apple": {
+                "actions": [
+                    {
+                        "name": "myshazam:apple",
+                        "type": "uri",
+                        "uri": "https://music.apple.com/gb/album/stones-in-my-passway/580432955?i=580433067&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                ]
+            }
+        },
+        "highlightsurls": {
+            "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/314626/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+        },
+        "albumadamid": "580432955"
+    },
+    "tagid": "FFDE3D3F-56A1-4646-90FF-154E5E6DFE0B"
+}

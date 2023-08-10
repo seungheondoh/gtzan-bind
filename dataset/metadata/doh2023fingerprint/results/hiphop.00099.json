@@ -1,0 +1,286 @@
+{
+    "matches": [
+        {
+            "id": "229941071",
+            "offset": 12.529773437,
+            "timeskew": -1.50203705e-05,
+            "frequencyskew": 0.0
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691632978646,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "287637",
+        "title": "Let's Stay Together (Together Forever) [feat. Jagged Edge]",
+        "subtitle": "Run-DMC",
+        "images": {
+            "background": "https://is1-ssl.mzstatic.com/image/thumb/Features125/v4/78/80/fd/7880fd1d-0a38-fa3e-67bc-61bd4854cc83/mzl.azovxucw.jpg/800x800cc.jpg",
+            "coverart": "https://is3-ssl.mzstatic.com/image/thumb/Music113/v4/56/dd/58/56dd58db-820f-5ec2-7b94-f52fcdc421dd/886448337225.jpg/400x400cc.jpg",
+            "coverarthq": "https://is3-ssl.mzstatic.com/image/thumb/Music113/v4/56/dd/58/56dd58db-820f-5ec2-7b94-f52fcdc421dd/886448337225.jpg/400x400cc.jpg",
+            "joecolor": "b:040605p:e3e3e3s:c9c9c6t:b6b6b6q:a1a29f"
+        },
+        "share": {
+            "subject": "Let's Stay Together (Together Forever) [feat. Jagged Edge] - Run-DMC",
+            "text": "Let's Stay Together (Together Forever) [feat. Jagged Edge] by Run-DMC",
+            "href": "https://www.shazam.com/track/287637/lets-stay-together-together-forever-feat-jagged-edge",
+            "image": "https://is3-ssl.mzstatic.com/image/thumb/Music113/v4/56/dd/58/56dd58db-820f-5ec2-7b94-f52fcdc421dd/886448337225.jpg/400x400cc.jpg",
+            "twitter": "I used @Shazam to discover Let's Stay Together (Together Forever) [feat. Jagged Edge] by Run-DMC.",
+            "html": "https://www.shazam.com/snippets/email-share/287637?lang=en-US&country=GB",
+            "avatar": "https://is1-ssl.mzstatic.com/image/thumb/Features125/v4/78/80/fd/7880fd1d-0a38-fa3e-67bc-61bd4854cc83/mzl.azovxucw.jpg/800x800cc.jpg",
+            "snapchat": "https://www.shazam.com/partner/sc/track/287637"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "actions": [
+                {
+                    "name": "apple",
+                    "type": "applemusicplay",
+                    "id": "1506289563"
+                },
+                {
+                    "name": "apple",
+                    "type": "uri",
+                    "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/f6/63/0c/f6630ce5-e87e-6d62-f1c4-c0640a33e5c7/mzaf_17539895990925142046.plus.aac.ep.m4a"
+                }
+            ],
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/gb/album/lets-stay-together-together-forever-feat-jagged-edge/1506289080?i=1506289563&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/gb/album/lets-stay-together-together-forever-feat-jagged-edge/1506289080?i=1506289563&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                },
+                {
+                    "caption": "BUY",
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "uri": "https://itunes.apple.com/gb/album/lets-stay-together-together-forever-feat-jagged-edge/1506289080?i=1506289563&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "buy",
+                        "providername": "itunes"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "type": "buy",
+                    "listcaption": "Buy on iTunes",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "itunes"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:Let%27s%20Stay%20Together%20%28Together%20Forever%29%20%5Bfeat.%20Jagged%20Edge%5D%20Run-DMC"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27Let%5C%27s+Stay+Together+%28Together+Forever%29+%5Bfeat.+Jagged+Edge%5D%27%20artist%3A%27Run-DMC%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": true,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [
+                    {
+                        "image": "https://is1-ssl.mzstatic.com/image/thumb/Features125/v4/78/80/fd/7880fd1d-0a38-fa3e-67bc-61bd4854cc83/mzl.azovxucw.jpg/800x800cc.jpg",
+                        "caption": "Run-DMC"
+                    },
+                    {
+                        "image": "https://is3-ssl.mzstatic.com/image/thumb/Music113/v4/56/dd/58/56dd58db-820f-5ec2-7b94-f52fcdc421dd/886448337225.jpg/400x400cc.jpg",
+                        "caption": "Let's Stay Together (Together Forever) [feat. Jagged Edge]"
+                    }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                    {
+                        "title": "Album",
+                        "text": "Crown Royal (Expanded Edition)"
+                    },
+                    {
+                        "title": "Label",
+                        "text": "Arista"
+                    },
+                    {
+                        "title": "Released",
+                        "text": "1999"
+                    }
+                ]
+            },
+            {
+                "type": "LYRICS",
+                "text": [
+                    "Let's stay together",
+                    "Yo, yeah, DMC my man",
+                    "In the place to be",
+                    "Yo, this song is dedicated to (word)",
+                    "(Whether good days, happy or sad)",
+                    "To all of those that's been down with each other since day one",
+                    "Aha, let's keep it together",
+                    "",
+                    "Now we've been all around the world",
+                    "From the corner of the block to the top of the world and back",
+                    "We're the royalty on the Ave, ain't nobody ever have",
+                    "And the brand new jet black Cadillac",
+                    "We've been down since day one",
+                    "And no matter where I go people want to see him next to me",
+                    "They say \"What's up with D?\" I used to jam all across the land",
+                    "The coliseum, even MSG, when Raising Hell were cassettes",
+                    "In the shelves, and the plush hotel after every show",
+                    "We were just kissing the mic, living the life",
+                    "Of MTV and the radio",
+                    "And so you Jay and me said \"it's 83'\"",
+                    "We're living and sticking together like a family",
+                    "And no matter what, the rule must be",
+                    "That it's guaranteed that I'm for you, and you for me",
+                    "",
+                    "Let's stay together let's stay together",
+                    "Loving you whether, love is good and bad",
+                    "And happy or sad",
+                    "",
+                    "Yo, my love of the mic, can't touch my love for my wife",
+                    "Baby I ain't going nowhere, specially the way you smile",
+                    "When you have my child, or when I rock the crowd",
+                    "Can't wait to be right there",
+                    "Even my kids that ain't yours is still yours",
+                    "Cause you love him and treat him like your very own",
+                    "We be holding hands and I be holding doors",
+                    "And when my mother in-law spend time alone",
+                    "Call her about five hundred times a day",
+                    "When I'm often gone cause I'm on the road",
+                    "And when I'm on the phone, you know I want to be home",
+                    "Cause that's the one and only spot where I really belong",
+                    "You know our love, called you the preachers' wife",
+                    "But the keys to bed lead living it up",
+                    "And everybody would know, them seen us in the video",
+                    "On the dance floor straight cutting it up",
+                    "I love you baby",
+                    "",
+                    "Let's (come on)let's stay together, let's stay together",
+                    "Loving you whether, days are good or bad, or happy or sad",
+                    "",
+                    "To me, you mean the world",
+                    "No matter what it is you say or do",
+                    "I always I will be there for you",
+                    "So no, no matter what, let's stay together",
+                    "",
+                    "In the good life, happy or sad",
+                    "You mean the world, no matter what is it you say or do",
+                    "I always will be there for you",
+                    "So no, no matter what, let's stay together",
+                    "In the good life, happy or sad",
+                    "Let's, let's stay together",
+                    "Loving you whether, love is good or bad, and or happy or sad",
+                    "",
+                    "Ain't no beats to lead somebody you love",
+                    "Best thing in life, is to have somebody ya heard",
+                    "So keep it together",
+                    "Good days, happy or sad"
+                ],
+                "url": "https://cdn.shazam.com/lyrics/v1/en-US/GB/iphone/musixmatch/subtitles/17109523/197/1?token=02d770394488d99f99878c77d3a5713e",
+                "footer": "Writer(s): Al Green, Jermaine Dupri, Willie Mitchell, La Marquis Jefferson, Christopher Davis, Joseph Ward Simmons, Al Jackson\nLyrics powered by www.musixmatch.com",
+                "tabname": "Lyrics",
+                "beacondata": {
+                    "lyricsid": "11022573",
+                    "providername": "musixmatch",
+                    "commontrackid": "17109523"
+                }
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/287637/youtube/video?q=Run-DMC+%22Let's+Stay+Together+(Together+Forever)+%5Bfeat.+Jagged+Edge%5D%22"
+            },
+            {
+                "type": "RELATED",
+                "url": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-287637?startFrom=0&pageSize=20&connected=",
+                "tabname": "Related"
+            }
+        ],
+        "url": "https://www.shazam.com/track/287637/lets-stay-together-together-forever-feat-jagged-edge",
+        "artists": [
+            {
+                "id": "42",
+                "adamid": "15973"
+            }
+        ],
+        "isrc": "USAR10100009",
+        "genres": {
+            "primary": "Hip-Hop/Rap"
+        },
+        "urlparams": {
+            "{tracktitle}": "Let%27s+Stay+Together+%28Together+Forever%29+%5Bfeat.+Jagged+Edge%5D",
+            "{trackartist}": "Run-DMC"
+        },
+        "myshazam": {
+            "apple": {
+                "actions": [
+                    {
+                        "name": "myshazam:apple",
+                        "type": "uri",
+                        "uri": "https://music.apple.com/gb/album/lets-stay-together-together-forever-feat-jagged-edge/1506289080?i=1506289563&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                ]
+            }
+        },
+        "highlightsurls": {
+            "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/15973/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios&videoIdToFilter=1279188980",
+            "trackhighlighturl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/highlights/1279188980?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+        },
+        "relatedtracksurl": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-287637?startFrom=0&pageSize=20&connected=",
+        "albumadamid": "1506289080"
+    },
+    "tagid": "2BAD627F-B0B0-43E7-9250-C4DCDDB1884D"
+}

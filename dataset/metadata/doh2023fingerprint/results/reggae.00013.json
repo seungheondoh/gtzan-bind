@@ -1,0 +1,290 @@
+{
+    "matches": [
+        {
+            "id": "200214091",
+            "offset": 29.894035156,
+            "timeskew": 0.00086319447,
+            "frequencyskew": 0.0006042719
+        },
+        {
+            "id": "361522571",
+            "offset": 30.534287109,
+            "timeskew": 0.0025562048,
+            "frequencyskew": 0.0018543005
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691633316826,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "10754353",
+        "title": "Jamming",
+        "subtitle": "Bob Marley & The Wailers",
+        "images": {
+            "background": "https://is5-ssl.mzstatic.com/image/thumb/Features125/v4/0e/10/96/0e10963d-8c5d-f176-3651-796ec44d0c97/mzl.kdlmyecx.jpg/800x800cc.jpg",
+            "coverart": "https://is2-ssl.mzstatic.com/image/thumb/Music124/v4/20/99/ad/2099ad6d-b13c-02f7-6dd8-841d955fffb9/06UMGIM31355.rgb.jpg/400x400cc.jpg",
+            "coverarthq": "https://is2-ssl.mzstatic.com/image/thumb/Music124/v4/20/99/ad/2099ad6d-b13c-02f7-6dd8-841d955fffb9/06UMGIM31355.rgb.jpg/400x400cc.jpg",
+            "joecolor": "b:a59a6cp:060602s:25201at:262317q:3f382a"
+        },
+        "share": {
+            "subject": "Jamming - Bob Marley & The Wailers",
+            "text": "Jamming by Bob Marley & The Wailers",
+            "href": "https://www.shazam.com/track/10754353/jamming",
+            "image": "https://is2-ssl.mzstatic.com/image/thumb/Music124/v4/20/99/ad/2099ad6d-b13c-02f7-6dd8-841d955fffb9/06UMGIM31355.rgb.jpg/400x400cc.jpg",
+            "twitter": "I used @Shazam to discover Jamming by Bob Marley & The Wailers.",
+            "html": "https://www.shazam.com/snippets/email-share/10754353?lang=en-US&country=GB",
+            "avatar": "https://is5-ssl.mzstatic.com/image/thumb/Features125/v4/0e/10/96/0e10963d-8c5d-f176-3651-796ec44d0c97/mzl.kdlmyecx.jpg/800x800cc.jpg",
+            "snapchat": "https://www.shazam.com/partner/sc/track/10754353"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "actions": [
+                {
+                    "name": "apple",
+                    "type": "applemusicplay",
+                    "id": "1422950071"
+                },
+                {
+                    "name": "apple",
+                    "type": "uri",
+                    "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/b5/dc/66/b5dc6665-8148-2cce-46b1-ba0eb69dadba/mzaf_16565416700031023729.plus.aac.ep.m4a"
+                }
+            ],
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/gb/album/jamming/1422950004?i=1422950071&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/gb/album/jamming/1422950004?i=1422950071&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                },
+                {
+                    "caption": "BUY",
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "uri": "https://itunes.apple.com/gb/album/jamming/1422950004?i=1422950071&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "buy",
+                        "providername": "itunes"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "type": "buy",
+                    "listcaption": "Buy on iTunes",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "itunes"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:Jamming%20Bob%20Marley%20%26%20The%20Wailers"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27Jamming%27%20artist%3A%27Bob+Marley++The+Wailers%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": false,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [
+                    {
+                        "image": "https://is5-ssl.mzstatic.com/image/thumb/Features125/v4/0e/10/96/0e10963d-8c5d-f176-3651-796ec44d0c97/mzl.kdlmyecx.jpg/800x800cc.jpg",
+                        "caption": "Bob Marley & The Wailers"
+                    },
+                    {
+                        "image": "https://is2-ssl.mzstatic.com/image/thumb/Music124/v4/20/99/ad/2099ad6d-b13c-02f7-6dd8-841d955fffb9/06UMGIM31355.rgb.jpg/400x400cc.jpg",
+                        "caption": "Jamming"
+                    }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                    {
+                        "title": "Album",
+                        "text": "Exodus (Bonus Track Version)"
+                    },
+                    {
+                        "title": "Label",
+                        "text": "Tuff Gong"
+                    },
+                    {
+                        "title": "Released",
+                        "text": "1977"
+                    }
+                ]
+            },
+            {
+                "type": "LYRICS",
+                "text": [
+                    "Ooh, yeah",
+                    "",
+                    "Well, alright",
+                    "",
+                    "We're jammin'",
+                    "I wanna jam it with you",
+                    "We're jammin', jammin'",
+                    "And I hope you like jammin' too",
+                    "",
+                    "Ain't no rules, ain't no vow, we can do it anyhow",
+                    "I and I will see you through",
+                    "'Cause every day we pay the price we're the living sacrifice",
+                    "Jammin' 'til the jam is through",
+                    "",
+                    "We're jammin'",
+                    "To think that jammin' was a thing of the past",
+                    "We're jammin'",
+                    "And I hope this jam is gonna last",
+                    "",
+                    "No bullet can stop us now, we neither beg nor we won't bow",
+                    "Neither can be bought nor sold",
+                    "We all defend the right, Jah, Jah children must unite",
+                    "Well, life is worth much more than gold",
+                    "",
+                    "We're jammin' (jammin', jammin', jammin')",
+                    "And we're jammin' in the name of the Lord",
+                    "We're jammin' (jammin', jammin', jammin') watda",
+                    "Look out, we're jammin' right straight from yard",
+                    "",
+                    "Singing, Holy Mount Zion",
+                    "Holy Mount Zion",
+                    "Jah sitteth in mount Zion",
+                    "And rules all creation",
+                    "",
+                    "Yeah, we're, we're jammin' (bop-chu-wa)",
+                    "Bop-chu-wa-wa-wa, we're jammin' (bop-chu-wa)",
+                    "See, I wanna jam it with you",
+                    "We're jammin' (jammin', jammin', jammin')",
+                    "And jam down hope you're jammin' too",
+                    "",
+                    "Jah knows I might have tried, the truth I cannot hide",
+                    "To keep you satisfied",
+                    "True love I know exist, it's the love I can't resist",
+                    "So, jam by my side",
+                    "",
+                    "We're jammin' yeah (jammin', jammin', jammin')",
+                    "I wanna jam it with you",
+                    "We're jammin', we're jammin', we're jammin', we're jammin'",
+                    "We're jammin', we're jammin', we're jammin', we're jammin'",
+                    "Hope you like jammin' too",
+                    "",
+                    "We're jammin', we're jammin' (jammin')",
+                    "We're jammin', we're jammin' (jammin')",
+                    "I wanna, I wanna, I wanna jam with you now",
+                    "",
+                    "We're jammin', we're jammin' (hope you like jammin' too)",
+                    "And I hope you like jammin'",
+                    "I hope you like jammin' 'cause (I wanna jam it with you)",
+                    "I wanna jam it with you",
+                    "",
+                    "I like, I hope you",
+                    "I hope you like jammin' too",
+                    "I wanna jam it",
+                    "I wanna jam it, ooh, ooh"
+                ],
+                "url": "https://cdn.shazam.com/lyrics/v1/en-US/GB/iphone/musixmatch/subtitles/142943906/212/1?token=031146be24e2906a6305fb450ff7c0fb",
+                "footer": "Writer(s): Bob Marley\nLyrics powered by www.musixmatch.com",
+                "tabname": "Lyrics",
+                "beacondata": {
+                    "lyricsid": "30718640",
+                    "providername": "musixmatch",
+                    "commontrackid": "142943906"
+                }
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/10754353/youtube/video?q=Bob+Marley+%26+The+Wailers+%22Jamming%22"
+            },
+            {
+                "type": "RELATED",
+                "url": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-10754353?startFrom=0&pageSize=20&connected=",
+                "tabname": "Related"
+            }
+        ],
+        "url": "https://www.shazam.com/track/10754353/jamming",
+        "artists": [
+            {
+                "id": "42",
+                "adamid": "3174628"
+            }
+        ],
+        "isrc": "USIR27700013",
+        "genres": {
+            "primary": "Reggae"
+        },
+        "urlparams": {
+            "{tracktitle}": "Jamming",
+            "{trackartist}": "Bob+Marley+%26+The+Wailers"
+        },
+        "myshazam": {
+            "apple": {
+                "actions": [
+                    {
+                        "name": "myshazam:apple",
+                        "type": "uri",
+                        "uri": "https://music.apple.com/gb/album/jamming/1422950004?i=1422950071&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                ]
+            }
+        },
+        "highlightsurls": {
+            "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/3174628/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios&videoIdToFilter=1573808820",
+            "trackhighlighturl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/highlights/1573808820?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+        },
+        "relatedtracksurl": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-10754353?startFrom=0&pageSize=20&connected=",
+        "albumadamid": "1422950004"
+    },
+    "tagid": "7D3AEA47-AA0A-47E2-9EC6-2B365C14A347"
+}

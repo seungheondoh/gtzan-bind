@@ -1,0 +1,264 @@
+{
+    "matches": [
+        {
+            "id": "272527358",
+            "offset": 30.04336914,
+            "timeskew": -0.0009889007,
+            "frequencyskew": -0.001247704
+        },
+        {
+            "id": "20147257",
+            "offset": 30.016060546000002,
+            "timeskew": -5.3942204e-05,
+            "frequencyskew": -0.00020134449
+        },
+        {
+            "id": "231707096",
+            "offset": 14.691254881999999,
+            "timeskew": 1.4781952e-05,
+            "frequencyskew": -4.029274e-05
+        },
+        {
+            "id": "218552907",
+            "offset": 53.956226562000005,
+            "timeskew": -0.00018554926,
+            "frequencyskew": -0.00024163723
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691633569368,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "418290",
+        "title": "See the Lights",
+        "subtitle": "Simple Minds",
+        "images": {
+            "background": "https://is3-ssl.mzstatic.com/image/thumb/Features115/v4/c9/2e/92/c92e9224-2714-1ea7-5b92-1beb3cc03edc/pr_source.png/800x800cc.jpg",
+            "coverart": "https://is4-ssl.mzstatic.com/image/thumb/Music124/v4/2c/87/51/2c875138-db33-de5c-2570-f2bd1eb73f8a/05099920756451.jpg/400x400cc.jpg",
+            "coverarthq": "https://is4-ssl.mzstatic.com/image/thumb/Music124/v4/2c/87/51/2c875138-db33-de5c-2570-f2bd1eb73f8a/05099920756451.jpg/400x400cc.jpg",
+            "joecolor": "b:ffffffp:131616s:1c1c1dt:424444q:4a4a4a"
+        },
+        "share": {
+            "subject": "See the Lights - Simple Minds",
+            "text": "See the Lights by Simple Minds",
+            "href": "https://www.shazam.com/track/418290/see-the-lights",
+            "image": "https://is4-ssl.mzstatic.com/image/thumb/Music124/v4/2c/87/51/2c875138-db33-de5c-2570-f2bd1eb73f8a/05099920756451.jpg/400x400cc.jpg",
+            "twitter": "I used @Shazam to discover See the Lights by Simple Minds.",
+            "html": "https://www.shazam.com/snippets/email-share/418290?lang=en-US&country=GB",
+            "avatar": "https://is3-ssl.mzstatic.com/image/thumb/Features115/v4/c9/2e/92/c92e9224-2714-1ea7-5b92-1beb3cc03edc/pr_source.png/800x800cc.jpg",
+            "snapchat": "https://www.shazam.com/partner/sc/track/418290"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "actions": [
+                {
+                    "name": "apple",
+                    "type": "applemusicplay",
+                    "id": "714182847"
+                },
+                {
+                    "name": "apple",
+                    "type": "uri",
+                    "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/00/a6/79/00a67970-c4d4-b8c0-f191-6e1a451650da/mzaf_5731517036564621409.plus.aac.ep.m4a"
+                }
+            ],
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/gb/album/see-the-lights/714182486?i=714182847&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/gb/album/see-the-lights/714182486?i=714182847&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                },
+                {
+                    "caption": "BUY",
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "uri": "https://itunes.apple.com/gb/album/see-the-lights/714182486?i=714182847&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "buy",
+                        "providername": "itunes"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "type": "buy",
+                    "listcaption": "Buy on iTunes",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "itunes"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:See%20the%20Lights%20Simple%20Minds"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27See+the+Lights%27%20artist%3A%27Simple+Minds%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": false,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [
+                    {
+                        "image": "https://is3-ssl.mzstatic.com/image/thumb/Features115/v4/c9/2e/92/c92e9224-2714-1ea7-5b92-1beb3cc03edc/pr_source.png/800x800cc.jpg",
+                        "caption": "Simple Minds"
+                    },
+                    {
+                        "image": "https://is4-ssl.mzstatic.com/image/thumb/Music124/v4/2c/87/51/2c875138-db33-de5c-2570-f2bd1eb73f8a/05099920756451.jpg/400x400cc.jpg",
+                        "caption": "See the Lights"
+                    }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                    {
+                        "title": "Album",
+                        "text": "Real Life"
+                    },
+                    {
+                        "title": "Label",
+                        "text": "Virgin Catalogue"
+                    },
+                    {
+                        "title": "Released",
+                        "text": "1991"
+                    }
+                ]
+            },
+            {
+                "type": "LYRICS",
+                "text": [
+                    "Summer's gone winter's in your eyes",
+                    "I can feel the thunder storms inside",
+                    "I wake every morning and the cold winds cover me",
+                    "All I've got's a ghost of what could be",
+                    "",
+                    "If you can see the lights shine in front of me",
+                    "If you can see the lights shout out where you'll be",
+                    "",
+                    "I'm in a broken dream I stare out into space",
+                    "You know I called you up 'cause nothing takes your place",
+                    "I've got a heart of stone and it's sinking deep inside",
+                    "I want to tell you love I'm too proud to cry",
+                    "",
+                    "If you can see the lights shine in front of me",
+                    "If you can see the lights shout out where you'll be",
+                    "Summer's gone and I can't tell you lies",
+                    "Oh forgive me love I'm too proud to cry",
+                    "",
+                    "If you can see the lights shine in front of me",
+                    "If you can see the lights shout out where you'll be",
+                    "Summer's gone and I can't tell you lies",
+                    "Forgive me love I'm too proud to cry",
+                    "Too proud to cry",
+                    "",
+                    "Too proud to cry",
+                    "",
+                    "Too proud to cry"
+                ],
+                "url": "https://cdn.shazam.com/lyrics/v1/en-US/GB/iphone/musixmatch/subtitles/285998/266/1?token=c5ff6455f3bb9c8b630a3b716f635c66",
+                "footer": "Writer(s): James Kerr, Charles Burchill\nLyrics powered by www.musixmatch.com",
+                "tabname": "Lyrics",
+                "beacondata": {
+                    "lyricsid": "19014855",
+                    "providername": "musixmatch",
+                    "commontrackid": "285998"
+                }
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/418290/youtube/video?q=Simple+Minds+%22See+the+Lights%22"
+            },
+            {
+                "type": "RELATED",
+                "url": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-418290?startFrom=0&pageSize=20&connected=",
+                "tabname": "Related"
+            }
+        ],
+        "url": "https://www.shazam.com/track/418290/see-the-lights",
+        "artists": [
+            {
+                "id": "42",
+                "adamid": "645533"
+            }
+        ],
+        "isrc": "GBAAA0200658",
+        "genres": {
+            "primary": "Pop"
+        },
+        "urlparams": {
+            "{tracktitle}": "See+the+Lights",
+            "{trackartist}": "Simple+Minds"
+        },
+        "myshazam": {
+            "apple": {
+                "actions": [
+                    {
+                        "name": "myshazam:apple",
+                        "type": "uri",
+                        "uri": "https://music.apple.com/gb/album/see-the-lights/714182486?i=714182847&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                ]
+            }
+        },
+        "highlightsurls": {
+            "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/645533/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+        },
+        "relatedtracksurl": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-418290?startFrom=0&pageSize=20&connected=",
+        "albumadamid": "714182486"
+    },
+    "tagid": "0CD0C208-6584-464F-82BC-74AB8216C754"
+}

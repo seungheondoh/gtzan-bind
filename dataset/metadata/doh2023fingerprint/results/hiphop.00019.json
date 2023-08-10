@@ -1,0 +1,330 @@
+{
+    "matches": [
+        {
+            "id": "211596385",
+            "offset": 29.907529296,
+            "timeskew": 0.00021862984,
+            "frequencyskew": 0.0
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691632921954,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "389016",
+        "title": "Shadrach",
+        "subtitle": "Beastie Boys",
+        "images": {
+            "background": "https://is5-ssl.mzstatic.com/image/thumb/Features115/v4/16/2c/76/162c767d-b00a-5664-1548-df303ae12729/mza_8084110850478364065.png/800x800cc.jpg",
+            "coverart": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/e7/d8/24/e7d82483-aec7-48f1-0225-f819250f55e2/19UMGIM44414.rgb.jpg/400x400cc.jpg",
+            "coverarthq": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/e7/d8/24/e7d82483-aec7-48f1-0225-f819250f55e2/19UMGIM44414.rgb.jpg/400x400cc.jpg",
+            "joecolor": "b:88362dp:f3f2dfs:f7e9dft:deccbbq:e1c5bc"
+        },
+        "share": {
+            "subject": "Shadrach - Beastie Boys",
+            "text": "Shadrach by Beastie Boys",
+            "href": "https://www.shazam.com/track/389016/shadrach",
+            "image": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/e7/d8/24/e7d82483-aec7-48f1-0225-f819250f55e2/19UMGIM44414.rgb.jpg/400x400cc.jpg",
+            "twitter": "I used @Shazam to discover Shadrach by Beastie Boys.",
+            "html": "https://www.shazam.com/snippets/email-share/389016?lang=en-US&country=GB",
+            "avatar": "https://is5-ssl.mzstatic.com/image/thumb/Features115/v4/16/2c/76/162c767d-b00a-5664-1548-df303ae12729/mza_8084110850478364065.png/800x800cc.jpg",
+            "snapchat": "https://www.shazam.com/partner/sc/track/389016"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "actions": [
+                {
+                    "name": "apple",
+                    "type": "applemusicplay",
+                    "id": "1471582874"
+                },
+                {
+                    "name": "apple",
+                    "type": "uri",
+                    "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/a3/ee/38/a3ee38e1-b4fb-bb2d-7845-1e0b5129fbf8/mzaf_10504310229431125864.plus.aac.ep.m4a"
+                }
+            ],
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/gb/album/shadrach/1471582873?i=1471582874&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/gb/album/shadrach/1471582873?i=1471582874&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                },
+                {
+                    "caption": "BUY",
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "uri": "https://itunes.apple.com/gb/album/shadrach/1471582873?i=1471582874&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "buy",
+                        "providername": "itunes"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "type": "buy",
+                    "listcaption": "Buy on iTunes",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "itunes"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:Shadrach%20Beastie%20Boys"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27Shadrach%27%20artist%3A%27Beastie+Boys%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": false,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [
+                    {
+                        "image": "https://is5-ssl.mzstatic.com/image/thumb/Features115/v4/16/2c/76/162c767d-b00a-5664-1548-df303ae12729/mza_8084110850478364065.png/800x800cc.jpg",
+                        "caption": "Beastie Boys"
+                    },
+                    {
+                        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/e7/d8/24/e7d82483-aec7-48f1-0225-f819250f55e2/19UMGIM44414.rgb.jpg/400x400cc.jpg",
+                        "caption": "Shadrach"
+                    }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                    {
+                        "title": "Album",
+                        "text": "An Exciting Evening at Home with Shadrach, Meshach and Abednego - EP"
+                    },
+                    {
+                        "title": "Label",
+                        "text": "Capitol Records"
+                    },
+                    {
+                        "title": "Released",
+                        "text": "1989"
+                    }
+                ]
+            },
+            {
+                "type": "LYRICS",
+                "text": [
+                    "Hey, hey, hey, hey",
+                    "Hey, hey, hey, hey",
+                    "Hey, hey, hey, hey",
+                    "",
+                    "Riddle me this, my brother, can you handle it?",
+                    "Your style to my style, you can't hold a candle to it",
+                    "Equinox symmetry, and the balance is right",
+                    "Smokin' and drinkin' on a Tuesday night",
+                    "",
+                    "Not how you play the game, it's how you win it",
+                    "I cheat and steal and sin, and I'm a cynic",
+                    "For those about to rock, we salute you",
+                    "The dirty thoughts for dirty minds we contribute to",
+                    "",
+                    "I once was lost, but now I'm found",
+                    "The music washes over, and you're one with the sound",
+                    "Well, who shall inherit the earth? The meek shall",
+                    "And yo, I think I'm starting to peak now, Al",
+                    "",
+                    "And the man upstairs, well, I hope that he cares",
+                    "If I had a penny for my thoughts, I'd be a millionaire",
+                    "We're just three MCs, and we're on the go",
+                    "Shadrach, Meshach, Abednego",
+                    "",
+                    "Shadrach, Meshach, Abednego",
+                    "Shadrach, Meshach, Abednego",
+                    "Shadrach, Meshach, Abednego",
+                    "Shadrach, Meshach, Abednego",
+                    "",
+                    "Hey, hey, hey",
+                    "Hey, hey, hey, yeah",
+                    "",
+                    "Only 24 hours in a day",
+                    "Only 12 notes, well, a man can play",
+                    "Music for all, but not just one people",
+                    "And now we're gonna bust with the Putney Swope sequel",
+                    "",
+                    "More Adidas sneakers than a plumber's got pliers",
+                    "Got more suits than Jacoby & Meyers",
+                    "If not for my vices, and my bugged out desires",
+                    "My year would be good, just like Goodyear's tires",
+                    "",
+                    "'Cause I'm out pickin' pockets at the Atlantic Antic",
+                    "And nobody wants to hear you 'cause your rhymes are damn frantic",
+                    "I mix business with pleasure way too much",
+                    "You know, wine and women and song and such",
+                    "",
+                    "I don't get blue, I gotta mean red streak",
+                    "You don't pay the band, your friends, yo, that's weak",
+                    "Get even like Steven like pulling a Rambo",
+                    "Well, Shadrach, Meshach, Abednego, you know",
+                    "",
+                    "Shadrach, Meshach, Abednego",
+                    "Shadrach, Meshach, Abednego",
+                    "Shadrach, Meshach, Abednego",
+                    "Shadrach, Meshach, Abednego",
+                    "",
+                    "Hey, hey, hey",
+                    "Hey, hey, hey, yeah",
+                    "",
+                    "Steal from the rich, and I'm out robbin' banks",
+                    "Give it to the poor, and I always give thanks",
+                    "Because I got more stories than JD's got Salinger",
+                    "I hold the title, and you are the challenger",
+                    "",
+                    "I've got money like Charles Dickens",
+                    "I got the girlies in the Coupe like the Colonel's got the chickens",
+                    "And I'm always going out dapper like Harry S. Truman",
+                    "I'm madder than Mad's Alfred E. Newman (Newman)",
+                    "",
+                    "(Oh, I'm never gonna let 'em say that I don't love you)",
+                    "",
+                    "Well, my noggin' is hoggin' all kinds of thoughts",
+                    "And Adam Yoggin is Yauch, and he's rockin' of course, wow",
+                    "Smoke the Holy Chalice, got my own religion",
+                    "Rally 'round the stage and check the funky dope musicians",
+                    "",
+                    "Like Jerry Lee Swaggert or Jerry Lee Falwell",
+                    "You like Mario Andretti 'cause he always drives his car well",
+                    "Vicious circle of reality since the day you were born",
+                    "And we love the hot butter (say what?), the popcorn",
+                    "",
+                    "Sippin' on wine and mackin'",
+                    "Rockin' on the stage with all the hands clappin'",
+                    "Ride the wave of fate, it don't ride me",
+                    "Being very proud to be an MC",
+                    "",
+                    "And the man upstairs, well, I hope that he cares",
+                    "If I had a penny for my thoughts, I'd be a millionaire",
+                    "Amps and crossovers under my rear hood",
+                    "Because the bass is bumpin' from the back of my Fleetwood",
+                    "They tell us what to do, hell no!",
+                    "Shadrach, Meshach, Abednego",
+                    "",
+                    "Shadrach, Meshach, Abednego",
+                    "Shadrach, Meshach, Abednego",
+                    "Shadrach, Meshach, Abednego",
+                    "Shadrach, Meshach, Abednego",
+                    "",
+                    "Shadrach, Meshach, Abednego",
+                    "Shadrach, Meshach, Abednego",
+                    "Shadrach, Meshach, Abednego",
+                    "Shadrach, Meshach, Abednego",
+                    "",
+                    "Hey, hey, hey, hey",
+                    "Hey, hey, hey, hey",
+                    "Hey, hey, hey, hey",
+                    "Hey, hey, hey, hey",
+                    "Hey, hey, hey, hey",
+                    "Hey, hey, hey, hey",
+                    "Hey, hey, hey, hey"
+                ],
+                "url": "https://cdn.shazam.com/lyrics/v1/en-US/GB/iphone/musixmatch/subtitles/116216059/247/1?token=f0f0863e5bed3e7b187374e00436490d",
+                "footer": "Writer(s): Adam Horovitz, Adam Nathaniel Yauch, Matt Dike, Michael S. Simpson, John Robert King, Michael Louis Diamond\nLyrics powered by www.musixmatch.com",
+                "tabname": "Lyrics",
+                "beacondata": {
+                    "lyricsid": "31243112",
+                    "providername": "musixmatch",
+                    "commontrackid": "116216059"
+                }
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/389016/youtube/video?q=Beastie+Boys+%22Shadrach%22"
+            },
+            {
+                "type": "RELATED",
+                "url": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-389016?startFrom=0&pageSize=20&connected=",
+                "tabname": "Related"
+            }
+        ],
+        "url": "https://www.shazam.com/track/389016/shadrach",
+        "artists": [
+            {
+                "id": "42",
+                "adamid": "1971863"
+            }
+        ],
+        "isrc": "USCA28900052",
+        "genres": {
+            "primary": "Hip-Hop/Rap"
+        },
+        "urlparams": {
+            "{tracktitle}": "Shadrach",
+            "{trackartist}": "Beastie+Boys"
+        },
+        "myshazam": {
+            "apple": {
+                "actions": [
+                    {
+                        "name": "myshazam:apple",
+                        "type": "uri",
+                        "uri": "https://music.apple.com/gb/album/shadrach/1471582873?i=1471582874&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                ]
+            }
+        },
+        "highlightsurls": {
+            "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/1971863/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+        },
+        "relatedtracksurl": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-389016?startFrom=0&pageSize=20&connected=",
+        "albumadamid": "1471582873"
+    },
+    "tagid": "546DB8C4-6575-479E-9628-3AAD36F04CF6"
+}

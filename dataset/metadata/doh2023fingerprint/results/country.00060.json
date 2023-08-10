@@ -1,0 +1,244 @@
+{
+    "matches": [
+        {
+            "id": "443378957",
+            "offset": 30.184292968,
+            "timeskew": 7.987022e-06,
+            "frequencyskew": -4.029274e-05
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691633389163,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "5277740",
+        "title": "No Future In the Past",
+        "subtitle": "Vince Gill",
+        "images": {
+            "background": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/60/4c/f5/604cf541-d910-4110-0f64-0a86beda613e/pr_source.png/800x800cc.jpg",
+            "coverart": "https://is3-ssl.mzstatic.com/image/thumb/Music128/v4/a5/a7/d3/a5a7d376-8130-27ef-35c1-0620de91353e/00008811072025.rgb.jpg/400x400cc.jpg",
+            "coverarthq": "https://is3-ssl.mzstatic.com/image/thumb/Music128/v4/a5/a7/d3/a5a7d376-8130-27ef-35c1-0620de91353e/00008811072025.rgb.jpg/400x400cc.jpg",
+            "joecolor": "b:e1e8f0p:0b0d0es:5a1d11t:36393bq:75463e"
+        },
+        "share": {
+            "subject": "No Future In the Past - Vince Gill",
+            "text": "No Future In the Past by Vince Gill",
+            "href": "https://www.shazam.com/track/5277740/no-future-in-the-past",
+            "image": "https://is3-ssl.mzstatic.com/image/thumb/Music128/v4/a5/a7/d3/a5a7d376-8130-27ef-35c1-0620de91353e/00008811072025.rgb.jpg/400x400cc.jpg",
+            "twitter": "I used @Shazam to discover No Future In the Past by Vince Gill.",
+            "html": "https://www.shazam.com/snippets/email-share/5277740?lang=en-US&country=GB",
+            "avatar": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/60/4c/f5/604cf541-d910-4110-0f64-0a86beda613e/pr_source.png/800x800cc.jpg",
+            "snapchat": "https://www.shazam.com/partner/sc/track/5277740"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "actions": [
+                {
+                    "name": "apple",
+                    "type": "applemusicplay",
+                    "id": "1442445900"
+                },
+                {
+                    "name": "apple",
+                    "type": "uri",
+                    "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/47/a4/4b/47a44bdb-c532-d473-79c9-70acd212ec28/mzaf_4112301552568298308.plus.aac.ep.m4a"
+                }
+            ],
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/gb/album/no-future-in-the-past/1442445281?i=1442445900&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/gb/album/no-future-in-the-past/1442445281?i=1442445900&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                },
+                {
+                    "caption": "BUY",
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "uri": "https://itunes.apple.com/gb/album/no-future-in-the-past/1442445281?i=1442445900&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "buy",
+                        "providername": "itunes"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "type": "buy",
+                    "listcaption": "Buy on iTunes",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "itunes"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:No%20Future%20In%20the%20Past%20Vince%20Gill"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27No+Future+In+the+Past%27%20artist%3A%27Vince+Gill%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": false,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [
+                    {
+                        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/60/4c/f5/604cf541-d910-4110-0f64-0a86beda613e/pr_source.png/800x800cc.jpg",
+                        "caption": "Vince Gill"
+                    },
+                    {
+                        "image": "https://is3-ssl.mzstatic.com/image/thumb/Music128/v4/a5/a7/d3/a5a7d376-8130-27ef-35c1-0620de91353e/00008811072025.rgb.jpg/400x400cc.jpg",
+                        "caption": "No Future In the Past"
+                    }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                    {
+                        "title": "Album",
+                        "text": "I Still Believe In You"
+                    },
+                    {
+                        "title": "Label",
+                        "text": "Geffen*"
+                    },
+                    {
+                        "title": "Released",
+                        "text": "1992"
+                    }
+                ]
+            },
+            {
+                "type": "LYRICS",
+                "text": [
+                    "I lie here tonight in the darkness",
+                    "I've never felt so alone",
+                    "Tomorrow I'll wake up still lonesome",
+                    "'Cause things haven't changed since you've gone",
+                    "",
+                    "You walked out with angry words spoken",
+                    "Your leavin' cut right to the bone",
+                    "I'll pick up the pieces you have broken",
+                    "Find the strength to go on",
+                    "",
+                    "I still remember my arms once held her",
+                    "How long do old memories last?",
+                    "Why can't I forget it?",
+                    "Why can't I admit it?",
+                    "There ain't no future in the past",
+                    "",
+                    "I still remember my arms once held her",
+                    "How long do old memories last?",
+                    "Why can't I forget it?",
+                    "Why can't I admit it?",
+                    "There ain't no future in the past",
+                    "",
+                    "Why can't I forget it?",
+                    "Why can't I admit it?",
+                    "There ain't no future in the past"
+                ],
+                "url": "https://cdn.shazam.com/lyrics/v1/en-US/GB/iphone/musixmatch/subtitles/951528/248/1?token=f4c71ee7b6051b7ecdf29cbbb0eb8307",
+                "footer": "Writer(s): Carl Jackson, Vincent Gill\nLyrics powered by www.musixmatch.com",
+                "tabname": "Lyrics",
+                "beacondata": {
+                    "lyricsid": "25534134",
+                    "providername": "musixmatch",
+                    "commontrackid": "951528"
+                }
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/5277740/youtube/video?q=Vince+Gill+%22No+Future+In+the+Past%22"
+            },
+            {
+                "type": "RELATED",
+                "url": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-5277740?startFrom=0&pageSize=20&connected=",
+                "tabname": "Related"
+            }
+        ],
+        "url": "https://www.shazam.com/track/5277740/no-future-in-the-past",
+        "artists": [
+            {
+                "id": "42",
+                "adamid": "27175"
+            }
+        ],
+        "isrc": "USMC19238620",
+        "genres": {
+            "primary": "Country"
+        },
+        "urlparams": {
+            "{tracktitle}": "No+Future+In+the+Past",
+            "{trackartist}": "Vince+Gill"
+        },
+        "myshazam": {
+            "apple": {
+                "actions": [
+                    {
+                        "name": "myshazam:apple",
+                        "type": "uri",
+                        "uri": "https://music.apple.com/gb/album/no-future-in-the-past/1442445281?i=1442445900&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                ]
+            }
+        },
+        "highlightsurls": {
+            "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/27175/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+        },
+        "relatedtracksurl": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-5277740?startFrom=0&pageSize=20&connected=",
+        "albumadamid": "1442445281"
+    },
+    "tagid": "3EC95232-A1BF-4926-ADAC-27694648CB82"
+}

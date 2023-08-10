@@ -1,0 +1,267 @@
+{
+    "matches": [
+        {
+            "id": "202048370",
+            "offset": 30.050992187,
+            "timeskew": -0.000110924244,
+            "frequencyskew": -4.029274e-05
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691632733861,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "221794",
+        "title": "Stronger",
+        "subtitle": "Britney Spears",
+        "images": {
+            "background": "https://is4-ssl.mzstatic.com/image/thumb/Features115/v4/53/a7/66/53a76640-0730-3751-19cd-aac7d85c20b8/mzl.izsetnqd.jpeg/800x800cc.jpg",
+            "coverart": "https://is4-ssl.mzstatic.com/image/thumb/Music124/v4/2e/61/1c/2e611c9f-1dd6-3e7c-b1ed-5b6e7f18ca44/dj.lxtnfmem.jpg/400x400cc.jpg",
+            "coverarthq": "https://is4-ssl.mzstatic.com/image/thumb/Music124/v4/2e/61/1c/2e611c9f-1dd6-3e7c-b1ed-5b6e7f18ca44/dj.lxtnfmem.jpg/400x400cc.jpg",
+            "joecolor": "b:2c130cp:d4b680s:ddb462t:b29568q:b99451"
+        },
+        "share": {
+            "subject": "Stronger - Britney Spears",
+            "text": "Stronger by Britney Spears",
+            "href": "https://www.shazam.com/track/221794/stronger",
+            "image": "https://is4-ssl.mzstatic.com/image/thumb/Music124/v4/2e/61/1c/2e611c9f-1dd6-3e7c-b1ed-5b6e7f18ca44/dj.lxtnfmem.jpg/400x400cc.jpg",
+            "twitter": "I used @Shazam to discover Stronger by Britney Spears.",
+            "html": "https://www.shazam.com/snippets/email-share/221794?lang=en-US&country=GB",
+            "avatar": "https://is4-ssl.mzstatic.com/image/thumb/Features115/v4/53/a7/66/53a76640-0730-3751-19cd-aac7d85c20b8/mzl.izsetnqd.jpeg/800x800cc.jpg",
+            "snapchat": "https://www.shazam.com/partner/sc/track/221794"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "actions": [
+                {
+                    "name": "apple",
+                    "type": "applemusicplay",
+                    "id": "267954493"
+                },
+                {
+                    "name": "apple",
+                    "type": "uri",
+                    "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/d0/b3/2d/d0b32d50-5e55-0f56-eb9f-f641ee8db56e/mzaf_8614812632075042466.plus.aac.ep.m4a"
+                }
+            ],
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/gb/album/stronger/267954486?i=267954493&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/gb/album/stronger/267954486?i=267954493&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                },
+                {
+                    "caption": "BUY",
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "uri": "https://itunes.apple.com/gb/album/stronger/267954486?i=267954493&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "buy",
+                        "providername": "itunes"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "type": "buy",
+                    "listcaption": "Buy on iTunes",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "itunes"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:Stronger%20Britney%20Spears"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27Stronger%27%20artist%3A%27Britney+Spears%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": false,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [
+                    {
+                        "image": "https://is4-ssl.mzstatic.com/image/thumb/Features115/v4/53/a7/66/53a76640-0730-3751-19cd-aac7d85c20b8/mzl.izsetnqd.jpeg/800x800cc.jpg",
+                        "caption": "Britney Spears"
+                    },
+                    {
+                        "image": "https://is4-ssl.mzstatic.com/image/thumb/Music124/v4/2e/61/1c/2e611c9f-1dd6-3e7c-b1ed-5b6e7f18ca44/dj.lxtnfmem.jpg/400x400cc.jpg",
+                        "caption": "Stronger"
+                    }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                    {
+                        "title": "Album",
+                        "text": "Oops!... I Did It Again"
+                    },
+                    {
+                        "title": "Label",
+                        "text": "Jive"
+                    },
+                    {
+                        "title": "Released",
+                        "text": "2000"
+                    }
+                ]
+            },
+            {
+                "type": "LYRICS",
+                "text": [
+                    "Ooh, hey, yeah",
+                    "",
+                    "Hush, just stop",
+                    "There's nothing you can do or say (baby)",
+                    "I've had enough",
+                    "I'm not your property as from today (baby)",
+                    "",
+                    "You might think that I won't make it on my own",
+                    "",
+                    "But now I'm stronger than yesterday",
+                    "Now it's nothing but my way",
+                    "My loneliness ain't killing me no more",
+                    "I, I'm stronger",
+                    "",
+                    "Than I ever thought that I could be (baby)",
+                    "I used to go with the flow",
+                    "Didn't really care 'bout me",
+                    "",
+                    "You might think that I can't take it, but you're wrong",
+                    "",
+                    "'Cause now I'm stronger than yesterday",
+                    "Now it's nothing but my way",
+                    "My loneliness ain't killing me no more",
+                    "I, I'm stronger",
+                    "",
+                    "Come on, now",
+                    "Oh, yeah",
+                    "",
+                    "Here I go, on my own",
+                    "I don't need nobody, better off alone",
+                    "Here I go, on my own now",
+                    "I don't need nobody, not anybody",
+                    "Here I go (here I go, here I go, here I go)",
+                    "Alright",
+                    "(Here I go, here I go, here I go) Here I go",
+                    "",
+                    "Stronger than yesterday",
+                    "It's nothing but my way",
+                    "My loneliness ain't killing me no more",
+                    "I, I'm stronger than yesterday",
+                    "Now, it's nothing but my way",
+                    "My loneliness ain't killing me no more",
+                    "",
+                    "Now, I'm stronger than yesterday",
+                    "Now, it's nothing but my way",
+                    "My loneliness ain't killing me no more (no more)",
+                    "I, I'm stronger"
+                ],
+                "url": "https://cdn.shazam.com/lyrics/v1/en-US/GB/iphone/musixmatch/subtitles/117973/203/1?token=3ce485d7dde99d60f55d4647231325a4",
+                "footer": "Writer(s): Rami Yacoub, Martin Sandberg\nLyrics powered by www.musixmatch.com",
+                "tabname": "Lyrics",
+                "beacondata": {
+                    "lyricsid": "26070719",
+                    "providername": "musixmatch",
+                    "commontrackid": "117973"
+                }
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/221794/youtube/video?q=Britney+Spears+%22Stronger%22"
+            },
+            {
+                "type": "RELATED",
+                "url": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-221794?startFrom=0&pageSize=20&connected=",
+                "tabname": "Related"
+            }
+        ],
+        "url": "https://www.shazam.com/track/221794/stronger",
+        "artists": [
+            {
+                "id": "42",
+                "adamid": "217005"
+            }
+        ],
+        "isrc": "USJI10000143",
+        "genres": {
+            "primary": "Pop"
+        },
+        "urlparams": {
+            "{tracktitle}": "Stronger",
+            "{trackartist}": "Britney+Spears"
+        },
+        "myshazam": {
+            "apple": {
+                "actions": [
+                    {
+                        "name": "myshazam:apple",
+                        "type": "uri",
+                        "uri": "https://music.apple.com/gb/album/stronger/267954486?i=267954493&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                ]
+            }
+        },
+        "highlightsurls": {
+            "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/217005/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios&videoIdToFilter=287837571",
+            "trackhighlighturl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/highlights/287837571?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+        },
+        "relatedtracksurl": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-221794?startFrom=0&pageSize=20&connected=",
+        "albumadamid": "267954486"
+    },
+    "tagid": "8D02B842-2F21-4420-B96C-753F83356347"
+}

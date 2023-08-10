@@ -1,0 +1,266 @@
+{
+    "matches": [
+        {
+            "id": "349511307",
+            "offset": 30.091041015,
+            "timeskew": 0.0005315542,
+            "frequencyskew": 0.0004028082
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691633766619,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "327491",
+        "title": "Rainbow In the Dark",
+        "subtitle": "Dio",
+        "images": {
+            "background": "https://is2-ssl.mzstatic.com/image/thumb/Features115/v4/c8/75/23/c8752392-769a-edb8-503e-7c373243ae4d/mza_4430060434230415683.png/800x800cc.jpg",
+            "coverart": "https://is2-ssl.mzstatic.com/image/thumb/Music128/v4/82/7a/5f/827a5f77-9c5b-9eec-0ae7-b1c7971a48d7/00602498309940.rgb.jpg/400x400cc.jpg",
+            "coverarthq": "https://is2-ssl.mzstatic.com/image/thumb/Music128/v4/82/7a/5f/827a5f77-9c5b-9eec-0ae7-b1c7971a48d7/00602498309940.rgb.jpg/400x400cc.jpg",
+            "joecolor": "b:151a16p:efe7d8s:efe3e7t:c3beb1q:c3bbbd"
+        },
+        "share": {
+            "subject": "Rainbow In the Dark - Dio",
+            "text": "Rainbow In the Dark by Dio",
+            "href": "https://www.shazam.com/track/327491/rainbow-in-the-dark",
+            "image": "https://is2-ssl.mzstatic.com/image/thumb/Music128/v4/82/7a/5f/827a5f77-9c5b-9eec-0ae7-b1c7971a48d7/00602498309940.rgb.jpg/400x400cc.jpg",
+            "twitter": "I used @Shazam to discover Rainbow In the Dark by Dio.",
+            "html": "https://www.shazam.com/snippets/email-share/327491?lang=en-US&country=GB",
+            "avatar": "https://is2-ssl.mzstatic.com/image/thumb/Features115/v4/c8/75/23/c8752392-769a-edb8-503e-7c373243ae4d/mza_4430060434230415683.png/800x800cc.jpg",
+            "snapchat": "https://www.shazam.com/partner/sc/track/327491"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "actions": [
+                {
+                    "name": "apple",
+                    "type": "applemusicplay",
+                    "id": "1440757620"
+                },
+                {
+                    "name": "apple",
+                    "type": "uri",
+                    "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/56/17/6c/56176c9c-6e0d-2248-e06b-1b18524080d0/mzaf_15398051944560288185.plus.aac.ep.m4a"
+                }
+            ],
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/gb/album/rainbow-in-the-dark/1440757603?i=1440757620&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/gb/album/rainbow-in-the-dark/1440757603?i=1440757620&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                },
+                {
+                    "caption": "BUY",
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "uri": "https://itunes.apple.com/gb/album/rainbow-in-the-dark/1440757603?i=1440757620&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "buy",
+                        "providername": "itunes"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "type": "buy",
+                    "listcaption": "Buy on iTunes",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "itunes"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:Rainbow%20In%20the%20Dark%20Dio"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27Rainbow+In+the+Dark%27%20artist%3A%27Dio%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": false,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [
+                    {
+                        "image": "https://is2-ssl.mzstatic.com/image/thumb/Features115/v4/c8/75/23/c8752392-769a-edb8-503e-7c373243ae4d/mza_4430060434230415683.png/800x800cc.jpg",
+                        "caption": "Dio"
+                    },
+                    {
+                        "image": "https://is2-ssl.mzstatic.com/image/thumb/Music128/v4/82/7a/5f/827a5f77-9c5b-9eec-0ae7-b1c7971a48d7/00602498309940.rgb.jpg/400x400cc.jpg",
+                        "caption": "Rainbow In the Dark"
+                    }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                    {
+                        "title": "Album",
+                        "text": "Holy Diver (Remastered)"
+                    },
+                    {
+                        "title": "Label",
+                        "text": "UMC (Universal Music Catalogue)"
+                    },
+                    {
+                        "title": "Released",
+                        "text": "1983"
+                    }
+                ]
+            },
+            {
+                "type": "LYRICS",
+                "text": [
+                    "When there's lightning",
+                    "You know it always brings me down",
+                    "'Cause it's free and I see that it's me",
+                    "Who's lost and never found",
+                    "I cry out for magic",
+                    "I feel it dancing in the light",
+                    "It was cold, lost my hold",
+                    "To the shadows of the night",
+                    "",
+                    "No sign of the morning coming",
+                    "You've been left on your own",
+                    "Like a rainbow in the dark",
+                    "A rainbow in the dark",
+                    "",
+                    "Do your demons",
+                    "Do they ever let you go",
+                    "When you've tried do they hide deep inside",
+                    "Is it someone that you know",
+                    "You're just a picture",
+                    "You're an image caught in time",
+                    "We're a lie, you and I",
+                    "We're words without a rhyme",
+                    "",
+                    "There's no sign of the morning coming",
+                    "You've been left on your own",
+                    "Like a rainbow in the dark",
+                    "Just a rainbow in the dark",
+                    "",
+                    "When I see lightning",
+                    "You know it always brings me down",
+                    "'Cause it's free and I see that it's me",
+                    "Who's lost and never found",
+                    "Feel the magic",
+                    "I feel it floating in the air",
+                    "But it's fear and you'll hear",
+                    "It calling you beware",
+                    "Look out",
+                    "",
+                    "There's no sight of the morning coming",
+                    "There's no sign of the day",
+                    "You've been left on your own",
+                    "Like a rainbow",
+                    "Like a rainbow in the dark, yeah",
+                    "You're a rainbow in the dark",
+                    "Just a rainbow in the dark",
+                    "No sign of the morning",
+                    "You're a rainbow in the dark"
+                ],
+                "url": "https://cdn.shazam.com/lyrics/v1/en-US/GB/iphone/musixmatch/subtitles/19056113/254/1?token=d43247c7b752915b7558d60274136847",
+                "footer": "Writer(s): Vivian Campbell, Ronald Padavona, James Bain, Vincent Appice\nLyrics powered by www.musixmatch.com",
+                "tabname": "Lyrics",
+                "beacondata": {
+                    "lyricsid": "9157691",
+                    "providername": "musixmatch",
+                    "commontrackid": "19056113"
+                }
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/327491/youtube/video?q=Dio+%22Rainbow+In+the+Dark%22"
+            },
+            {
+                "type": "RELATED",
+                "url": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-327491?startFrom=0&pageSize=20&connected=",
+                "tabname": "Related"
+            }
+        ],
+        "url": "https://www.shazam.com/track/327491/rainbow-in-the-dark",
+        "artists": [
+            {
+                "id": "42",
+                "adamid": "2779392"
+            }
+        ],
+        "isrc": "GBF080300553",
+        "genres": {
+            "primary": "Metal"
+        },
+        "urlparams": {
+            "{tracktitle}": "Rainbow+In+the+Dark",
+            "{trackartist}": "Dio"
+        },
+        "myshazam": {
+            "apple": {
+                "actions": [
+                    {
+                        "name": "myshazam:apple",
+                        "type": "uri",
+                        "uri": "https://music.apple.com/gb/album/rainbow-in-the-dark/1440757603?i=1440757620&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                ]
+            }
+        },
+        "highlightsurls": {
+            "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/2779392/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+        },
+        "relatedtracksurl": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-327491?startFrom=0&pageSize=20&connected=",
+        "albumadamid": "1440757603"
+    },
+    "tagid": "97351A4B-8D7C-4516-9376-C6547192960A"
+}

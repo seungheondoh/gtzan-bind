@@ -1,0 +1,249 @@
+{
+    "matches": [
+        {
+            "id": "268299244",
+            "offset": 30.294960937,
+            "timeskew": -0.0078060627,
+            "frequencyskew": -0.0075029135
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691632674315,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "2872087",
+        "title": "32-20 Blues",
+        "subtitle": "Robert Johnson",
+        "images": {
+            "background": "https://is1-ssl.mzstatic.com/image/thumb/Features125/v4/ca/df/91/cadf91c2-0f43-7a03-d6e5-91778c2701ba/pr_source.png/800x800cc.jpg",
+            "coverart": "https://is5-ssl.mzstatic.com/image/thumb/Music/v4/e8/6d/91/e86d91ae-32ce-2eab-3124-41af9c3a1311/5099751723929.jpg/400x400cc.jpg",
+            "coverarthq": "https://is5-ssl.mzstatic.com/image/thumb/Music/v4/e8/6d/91/e86d91ae-32ce-2eab-3124-41af9c3a1311/5099751723929.jpg/400x400cc.jpg",
+            "joecolor": "b:1e6a79p:faed49s:bfe77dt:ced353q:9fce7d"
+        },
+        "share": {
+            "subject": "32-20 Blues - Robert Johnson",
+            "text": "32-20 Blues by Robert Johnson",
+            "href": "https://www.shazam.com/track/2872087/32-20-blues",
+            "image": "https://is5-ssl.mzstatic.com/image/thumb/Music/v4/e8/6d/91/e86d91ae-32ce-2eab-3124-41af9c3a1311/5099751723929.jpg/400x400cc.jpg",
+            "twitter": "I used @Shazam to discover 32-20 Blues by Robert Johnson.",
+            "html": "https://www.shazam.com/snippets/email-share/2872087?lang=en-US&country=GB",
+            "avatar": "https://is1-ssl.mzstatic.com/image/thumb/Features125/v4/ca/df/91/cadf91c2-0f43-7a03-d6e5-91778c2701ba/pr_source.png/800x800cc.jpg",
+            "snapchat": "https://www.shazam.com/partner/sc/track/2872087"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "actions": [
+                {
+                    "name": "apple",
+                    "type": "applemusicplay",
+                    "id": "580433056"
+                },
+                {
+                    "name": "apple",
+                    "type": "uri",
+                    "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/bd/0f/7b/bd0f7bbb-9bdd-442d-22b2-7c44a18858fd/mzaf_12053181565357186696.plus.aac.ep.m4a"
+                }
+            ],
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/gb/album/32-20-blues/580432955?i=580433056&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/gb/album/32-20-blues/580432955?i=580433056&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                },
+                {
+                    "caption": "BUY",
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "uri": "https://itunes.apple.com/gb/album/32-20-blues/580432955?i=580433056&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "buy",
+                        "providername": "itunes"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "type": "buy",
+                    "listcaption": "Buy on iTunes",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "itunes"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:32-20%20Blues%20Robert%20Johnson"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%2732-20+Blues%27%20artist%3A%27Robert+Johnson%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": false,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [
+                    {
+                        "image": "https://is1-ssl.mzstatic.com/image/thumb/Features125/v4/ca/df/91/cadf91c2-0f43-7a03-d6e5-91778c2701ba/pr_source.png/800x800cc.jpg",
+                        "caption": "Robert Johnson"
+                    },
+                    {
+                        "image": "https://is5-ssl.mzstatic.com/image/thumb/Music/v4/e8/6d/91/e86d91ae-32ce-2eab-3124-41af9c3a1311/5099751723929.jpg/400x400cc.jpg",
+                        "caption": "32-20 Blues"
+                    }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                    {
+                        "title": "Album",
+                        "text": "Guitar & Bass"
+                    },
+                    {
+                        "title": "Label",
+                        "text": "Sony Music Media"
+                    },
+                    {
+                        "title": "Released",
+                        "text": "1990"
+                    }
+                ]
+            },
+            {
+                "type": "LYRICS",
+                "text": [
+                    "I send for my baby and she don't come",
+                    "I send for my baby, man, and she don't come",
+                    "All the doctors in hot springs, they sure can't help her none",
+                    "And if she gets unruly, things she don't wanna do",
+                    "And if she gets unruly and thinks she don't wanna do",
+                    "Take my 32-20, now, and cut her half in two",
+                    "She got a 38 special but I believe it's most too light",
+                    "She got a 38 special but I believe it's most too light",
+                    "I got a 32-20, got to make the camps alright",
+                    "I send for my baby, man, and she don't come",
+                    "I send for my baby, man, and she don't come",
+                    "All the doctors in hot springs sure can't help her none",
+                    "I'm gonna shoot my pistol, I'm gonna shoot my Gatling gun",
+                    "I'm gonna shoot my pistol, I'm gotta shoot my Gatling gun",
+                    "You made me love you, now your man have come",
+                    "Baby, where'd you stay last night?",
+                    "Baby, where'd you stayed last night?",
+                    "You gotta hair all tangled and you ain't talkin' right",
+                    "38 special, boys, do it very well",
+                    "38 special, boys, it do very well",
+                    "I got a 32-20 now and it's a burnin'",
+                    "If I send for my baby, man, and she don't come",
+                    "If I send for my baby, man, and she don't come",
+                    "All the doctors in Wisconsin sure can't help her none",
+                    "Hey, hey baby, where'd you stay last night?",
+                    "Hey, hey baby, where'd you stay last night?",
+                    "You didn't come home until the sun was shining bright",
+                    "Ah-oh, boy, I just can't take my rest",
+                    "Ah-oh, boy, I just can't take my rest",
+                    "With this 32-20 laying up and down my breast"
+                ],
+                "url": "https://cdn.shazam.com/lyrics/v1/en-US/GB/iphone/musixmatch/subtitles/626079/170/1?token=3cb4caab2a793edab2b8a379a12855be",
+                "footer": "Writer(s): Robert Johnson\nLyrics powered by www.musixmatch.com",
+                "tabname": "Lyrics",
+                "beacondata": {
+                    "lyricsid": "6918746",
+                    "providername": "musixmatch",
+                    "commontrackid": "626079"
+                }
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/2872087/youtube/video?q=Robert+Johnson+%2232-20+Blues%22"
+            },
+            {
+                "type": "RELATED",
+                "url": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-2872087?startFrom=0&pageSize=20&connected=",
+                "tabname": "Related"
+            }
+        ],
+        "url": "https://www.shazam.com/track/2872087/32-20-blues",
+        "artists": [
+            {
+                "id": "42",
+                "adamid": "314626"
+            }
+        ],
+        "isrc": "USSM19000075",
+        "genres": {
+            "primary": "Pop"
+        },
+        "urlparams": {
+            "{tracktitle}": "32-20+Blues",
+            "{trackartist}": "Robert+Johnson"
+        },
+        "myshazam": {
+            "apple": {
+                "actions": [
+                    {
+                        "name": "myshazam:apple",
+                        "type": "uri",
+                        "uri": "https://music.apple.com/gb/album/32-20-blues/580432955?i=580433056&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                ]
+            }
+        },
+        "highlightsurls": {
+            "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/314626/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+        },
+        "relatedtracksurl": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-2872087?startFrom=0&pageSize=20&connected=",
+        "albumadamid": "580432955"
+    },
+    "tagid": "4FEA705E-C3F6-4C46-947F-C1D44EFA217D"
+}

@@ -1,0 +1,238 @@
+{
+    "matches": [
+        {
+            "id": "301330548",
+            "offset": 30.038574218,
+            "timeskew": -7.1406364e-05,
+            "frequencyskew": -0.00020134449
+        },
+        {
+            "id": "266847933",
+            "offset": 30.051947265,
+            "timeskew": -0.004859209,
+            "frequencyskew": -0.0039791465
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691633417661,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "69561530",
+        "title": "Out of Control (Single Version)",
+        "subtitle": "George Jones",
+        "images": {
+            "background": "https://is4-ssl.mzstatic.com/image/thumb/Features115/v4/c9/06/78/c906781a-3349-f8bb-48bf-d83672b5de09/mzl.vafkutjc.jpg/800x800cc.jpg",
+            "coverart": "https://is3-ssl.mzstatic.com/image/thumb/Music128/v4/d6/eb/32/d6eb32d2-c0b4-afaf-bd8b-67e2cd07e9c3/00731455440621.rgb.jpg/400x400cc.jpg",
+            "coverarthq": "https://is3-ssl.mzstatic.com/image/thumb/Music128/v4/d6/eb/32/d6eb32d2-c0b4-afaf-bd8b-67e2cd07e9c3/00731455440621.rgb.jpg/400x400cc.jpg",
+            "joecolor": "b:bc8438p:070708s:241b0ct:2b2012q:423015"
+        },
+        "share": {
+            "subject": "Out of Control (Single Version) - George Jones",
+            "text": "Out of Control (Single Version) by George Jones",
+            "href": "https://www.shazam.com/track/69561530/out-of-control",
+            "image": "https://is3-ssl.mzstatic.com/image/thumb/Music128/v4/d6/eb/32/d6eb32d2-c0b4-afaf-bd8b-67e2cd07e9c3/00731455440621.rgb.jpg/400x400cc.jpg",
+            "twitter": "I used @Shazam to discover Out of Control (Single Version) by George Jones.",
+            "html": "https://www.shazam.com/snippets/email-share/69561530?lang=en-US&country=GB",
+            "avatar": "https://is4-ssl.mzstatic.com/image/thumb/Features115/v4/c9/06/78/c906781a-3349-f8bb-48bf-d83672b5de09/mzl.vafkutjc.jpg/800x800cc.jpg",
+            "snapchat": "https://www.shazam.com/partner/sc/track/69561530"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "actions": [
+                {
+                    "name": "apple",
+                    "type": "applemusicplay",
+                    "id": "1443084082"
+                },
+                {
+                    "name": "apple",
+                    "type": "uri",
+                    "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview128/v4/0c/06/0e/0c060e98-8a77-c0f6-1b7e-1384cf71bc7a/mzaf_510661815470109225.plus.aac.ep.m4a"
+                }
+            ],
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/gb/album/out-of-control-single-version/1443083534?i=1443084082&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/gb/album/out-of-control-single-version/1443083534?i=1443084082&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                },
+                {
+                    "caption": "BUY",
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "uri": "https://itunes.apple.com/gb/album/out-of-control-single-version/1443083534?i=1443084082&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "buy",
+                        "providername": "itunes"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "type": "buy",
+                    "listcaption": "Buy on iTunes",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "itunes"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:Out%20of%20Control%20%28Single%20Version%29%20George%20Jones"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27Out+of+Control+%28Single+Version%29%27%20artist%3A%27George+Jones%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": false,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [
+                    {
+                        "image": "https://is4-ssl.mzstatic.com/image/thumb/Features115/v4/c9/06/78/c906781a-3349-f8bb-48bf-d83672b5de09/mzl.vafkutjc.jpg/800x800cc.jpg",
+                        "caption": "George Jones"
+                    },
+                    {
+                        "image": "https://is3-ssl.mzstatic.com/image/thumb/Music128/v4/d6/eb/32/d6eb32d2-c0b4-afaf-bd8b-67e2cd07e9c3/00731455440621.rgb.jpg/400x400cc.jpg",
+                        "caption": "Out of Control (Single Version)"
+                    }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                    {
+                        "title": "Album",
+                        "text": "The Best of George Jones"
+                    },
+                    {
+                        "title": "Label",
+                        "text": "MCA Nashville"
+                    },
+                    {
+                        "title": "Released",
+                        "text": "1998"
+                    }
+                ]
+            },
+            {
+                "type": "LYRICS",
+                "text": [
+                    "OUT OF CONTROL",
+                    "(George Jones - Darrell Edwards - Herbie Treece)",
+                    "\u00a9 '60 Glad Music",
+                    "",
+                    "What goes wrong with the mind of a man in a bar",
+                    "Who sits and keep drinking with his thoughts strayed so far",
+                    "It's the same old sad story that has often been told",
+                    "One drink then another till he's out of control",
+                    "As he sits at a table with his hands on the glass",
+                    "For him there's no future there's only the past",
+                    "He reaches for the bottle but his hands don't take hold",
+                    "His eyes just can't focus he's out of control",
+                    "Does he search for contentment that he might hope to find",
+                    "From a honky tonk woman or the bottles of wine",
+                    "He shakes and he trembles even though he's not old",
+                    "Like a leaf in a whirlwind he's out of control",
+                    "Yes I'm just like that fellow who sits there all alone",
+                    "With no one to love me no family at home",
+                    "I'm a picture of others with a future so cold",
+                    "A life ain't worth livin' when it's out of control"
+                ],
+                "footer": "Writer(s): Darrell Edwards, George Glenn Jones, Herbert Treece\nLyrics powered by www.musixmatch.com",
+                "tabname": "Lyrics",
+                "beacondata": {
+                    "lyricsid": "1457223",
+                    "providername": "musixmatch",
+                    "commontrackid": "1032932"
+                }
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/69561530/youtube/video?q=George+Jones+%22Out+of+Control+(Single+Version)%22"
+            }
+        ],
+        "url": "https://www.shazam.com/track/69561530/out-of-control",
+        "artists": [
+            {
+                "id": "42",
+                "adamid": "17488"
+            }
+        ],
+        "isrc": "USPR36002425",
+        "genres": {
+            "primary": "Country"
+        },
+        "urlparams": {
+            "{tracktitle}": "Out+of+Control+%28Single+Version%29",
+            "{trackartist}": "George+Jones"
+        },
+        "myshazam": {
+            "apple": {
+                "actions": [
+                    {
+                        "name": "myshazam:apple",
+                        "type": "uri",
+                        "uri": "https://music.apple.com/gb/album/out-of-control-single-version/1443083534?i=1443084082&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                ]
+            }
+        },
+        "highlightsurls": {
+            "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/17488/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+        },
+        "albumadamid": "1443083534"
+    },
+    "tagid": "984BA2D8-77EA-402C-9560-3E7DB055D70C"
+}

@@ -1,0 +1,206 @@
+{
+    "matches": [
+        {
+            "id": "211543826",
+            "offset": 99.4435625,
+            "timeskew": 0.031369925,
+            "frequencyskew": 0.030168176
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691632885255,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "224129",
+        "title": "I Can't Take It (No More) [Remix Featuring NAS]",
+        "subtitle": "3LW featuring NAS",
+        "images": {
+            "background": "https://is5-ssl.mzstatic.com/image/thumb/AMCArtistImages126/v4/44/4a/76/444a7602-848f-6c55-35f7-ad3adb511883/7a5eb2a2-fbd6-476a-bcf4-3f828676edd1_file_cropped.png/800x800cc.jpg",
+            "coverart": "https://is2-ssl.mzstatic.com/image/thumb/Music/71/d8/45/mzi.gmsvcafs.jpg/400x400cc.jpg",
+            "coverarthq": "https://is2-ssl.mzstatic.com/image/thumb/Music/71/d8/45/mzi.gmsvcafs.jpg/400x400cc.jpg",
+            "joecolor": "b:9e3926p:fffff8s:ffae9ct:ebd7ceq:eb9684"
+        },
+        "share": {
+            "subject": "I Can't Take It (No More) [Remix Featuring NAS] - 3LW featuring NAS",
+            "text": "I Can't Take It (No More) [Remix Featuring NAS] by 3LW featuring NAS",
+            "href": "https://www.shazam.com/track/224129/i-cant-take-it-no-more-remix-featuring-nas",
+            "image": "https://is2-ssl.mzstatic.com/image/thumb/Music/71/d8/45/mzi.gmsvcafs.jpg/400x400cc.jpg",
+            "twitter": "I used @Shazam to discover I Can't Take It (No More) [Remix Featuring NAS] by 3LW featuring NAS.",
+            "html": "https://www.shazam.com/snippets/email-share/224129?lang=en-US&country=GB",
+            "avatar": "https://is5-ssl.mzstatic.com/image/thumb/AMCArtistImages126/v4/44/4a/76/444a7602-848f-6c55-35f7-ad3adb511883/7a5eb2a2-fbd6-476a-bcf4-3f828676edd1_file_cropped.png/800x800cc.jpg",
+            "snapchat": "https://www.shazam.com/partner/sc/track/224129"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "actions": [
+                {
+                    "name": "apple",
+                    "type": "applemusicplay",
+                    "id": "192935818"
+                },
+                {
+                    "name": "apple",
+                    "type": "uri",
+                    "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/f2/41/c8/f241c8a6-10f6-81ac-55d5-d489ef7924af/mzaf_8312973531224039834.plus.aac.ep.m4a"
+                }
+            ],
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/gb/album/i-cant-take-it-no-more-remix-featuring-nas/192934595?i=192935818&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/gb/album/i-cant-take-it-no-more-remix-featuring-nas/192934595?i=192935818&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                },
+                {
+                    "caption": "BUY",
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "uri": "https://itunes.apple.com/gb/album/i-cant-take-it-no-more-remix-featuring-nas/192934595?i=192935818&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "buy",
+                        "providername": "itunes"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "type": "buy",
+                    "listcaption": "Buy on iTunes",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "itunes"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:I%20Can%27t%20Take%20It%20%28No%20More%29%20%5BRemix%20Featuring%20NAS%5D%203LW"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27I+Can%5C%27t+Take+It+%28No+More%29+%5BRemix+Featuring+NAS%5D%27%20artist%3A%273LW+featuring+NAS%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": false,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [
+                    {
+                        "image": "https://is5-ssl.mzstatic.com/image/thumb/AMCArtistImages126/v4/44/4a/76/444a7602-848f-6c55-35f7-ad3adb511883/7a5eb2a2-fbd6-476a-bcf4-3f828676edd1_file_cropped.png/800x800cc.jpg",
+                        "caption": "3LW"
+                    },
+                    {
+                        "image": "https://is2-ssl.mzstatic.com/image/thumb/Music/71/d8/45/mzi.gmsvcafs.jpg/400x400cc.jpg",
+                        "caption": "I Can't Take It (No More) [Remix Featuring NAS]"
+                    }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                    {
+                        "title": "Album",
+                        "text": "3LW"
+                    },
+                    {
+                        "title": "Label",
+                        "text": "Epic"
+                    },
+                    {
+                        "title": "Released",
+                        "text": "2000"
+                    }
+                ]
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/224129/youtube/video?q=3LW+featuring+NAS+%22I+Can't+Take+It+(No+More)+%5BRemix+Featuring+NAS%5D%22"
+            },
+            {
+                "type": "RELATED",
+                "url": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-224129?startFrom=0&pageSize=20&connected=",
+                "tabname": "Related"
+            }
+        ],
+        "url": "https://www.shazam.com/track/224129/i-cant-take-it-no-more-remix-featuring-nas",
+        "artists": [
+            {
+                "id": "42",
+                "adamid": "645707"
+            }
+        ],
+        "isrc": "USSM10015772",
+        "genres": {
+            "primary": "Pop"
+        },
+        "urlparams": {
+            "{tracktitle}": "I+Can%27t+Take+It+%28No+More%29+%5BRemix+Featuring+NAS%5D",
+            "{trackartist}": "3LW+featuring+NAS"
+        },
+        "myshazam": {
+            "apple": {
+                "actions": [
+                    {
+                        "name": "myshazam:apple",
+                        "type": "uri",
+                        "uri": "https://music.apple.com/gb/album/i-cant-take-it-no-more-remix-featuring-nas/192934595?i=192935818&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                ]
+            }
+        },
+        "highlightsurls": {
+            "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/645707/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+        },
+        "relatedtracksurl": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-224129?startFrom=0&pageSize=20&connected=",
+        "albumadamid": "192934595"
+    },
+    "tagid": "2F13FCC6-B2D9-475D-A929-D705505DA286"
+}

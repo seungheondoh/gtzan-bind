@@ -1,0 +1,320 @@
+{
+    "matches": [
+        {
+            "id": "208996415",
+            "offset": 29.975792968,
+            "timeskew": 3.7908554e-05,
+            "frequencyskew": -0.000120818615
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691632992586,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "10355272",
+        "title": "Revolutionary Generation",
+        "subtitle": "Public Enemy",
+        "images": {
+            "background": "https://is2-ssl.mzstatic.com/image/thumb/Features125/v4/d2/c5/86/d2c58653-73d2-ae2f-efc1-d089777e7200/mzl.uxecwlva.jpg/800x800cc.jpg",
+            "coverart": "https://is2-ssl.mzstatic.com/image/thumb/Music114/v4/bc/84/bb/bc84bb6d-8b67-b4fe-d791-f4d8ed1940d9/06UMGIM21173.rgb.jpg/400x400cc.jpg",
+            "coverarthq": "https://is2-ssl.mzstatic.com/image/thumb/Music114/v4/bc/84/bb/bc84bb6d-8b67-b4fe-d791-f4d8ed1940d9/06UMGIM21173.rgb.jpg/400x400cc.jpg",
+            "joecolor": "b:091c2dp:feb218s:f7232ct:cd941cq:c7212c"
+        },
+        "share": {
+            "subject": "Revolutionary Generation - Public Enemy",
+            "text": "Revolutionary Generation by Public Enemy",
+            "href": "https://www.shazam.com/track/10355272/revolutionary-generation",
+            "image": "https://is2-ssl.mzstatic.com/image/thumb/Music114/v4/bc/84/bb/bc84bb6d-8b67-b4fe-d791-f4d8ed1940d9/06UMGIM21173.rgb.jpg/400x400cc.jpg",
+            "twitter": "I used @Shazam to discover Revolutionary Generation by Public Enemy.",
+            "html": "https://www.shazam.com/snippets/email-share/10355272?lang=en-US&country=GB",
+            "avatar": "https://is2-ssl.mzstatic.com/image/thumb/Features125/v4/d2/c5/86/d2c58653-73d2-ae2f-efc1-d089777e7200/mzl.uxecwlva.jpg/800x800cc.jpg",
+            "snapchat": "https://www.shazam.com/partner/sc/track/10355272"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "actions": [
+                {
+                    "name": "apple",
+                    "type": "applemusicplay",
+                    "id": "1442525776"
+                },
+                {
+                    "name": "apple",
+                    "type": "uri",
+                    "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/11/66/d8/1166d8ad-e95c-61f7-e89e-aaf3ec9f412f/mzaf_6926104811126286119.plus.aac.ep.m4a"
+                }
+            ],
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/gb/album/revolutionary-generation/1442525466?i=1442525776&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/gb/album/revolutionary-generation/1442525466?i=1442525776&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                },
+                {
+                    "caption": "BUY",
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "uri": "https://itunes.apple.com/gb/album/revolutionary-generation/1442525466?i=1442525776&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "buy",
+                        "providername": "itunes"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "type": "buy",
+                    "listcaption": "Buy on iTunes",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "itunes"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:Revolutionary%20Generation%20Public%20Enemy"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27Revolutionary+Generation%27%20artist%3A%27Public+Enemy%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": false,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [
+                    {
+                        "image": "https://is2-ssl.mzstatic.com/image/thumb/Features125/v4/d2/c5/86/d2c58653-73d2-ae2f-efc1-d089777e7200/mzl.uxecwlva.jpg/800x800cc.jpg",
+                        "caption": "Public Enemy"
+                    },
+                    {
+                        "image": "https://is2-ssl.mzstatic.com/image/thumb/Music114/v4/bc/84/bb/bc84bb6d-8b67-b4fe-d791-f4d8ed1940d9/06UMGIM21173.rgb.jpg/400x400cc.jpg",
+                        "caption": "Revolutionary Generation"
+                    }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                    {
+                        "title": "Album",
+                        "text": "Fear of a Black Planet"
+                    },
+                    {
+                        "title": "Label",
+                        "text": "Def Jam Recordings"
+                    },
+                    {
+                        "title": "Released",
+                        "text": "1990"
+                    }
+                ]
+            },
+            {
+                "type": "LYRICS",
+                "text": [
+                    "I get down to what it is",
+                    "And if it ain't funky (see ya)",
+                    "People askin' me what's goin' on",
+                    "With my mind",
+                    "(Huh) wait a minute",
+                    "",
+                    "It's just a matter of race",
+                    "Cause a black male's in their face",
+                    "Step back for the new jack swing",
+                    "On the platter scatter huh",
+                    "We got our own thing",
+                    "Just jam to let the rhyth run",
+                    "Day to day, America eats it's young",
+                    "And defeats our women",
+                    "There is a gap so wide we all can swim in",
+                    "Drown in (uh get down) an get it",
+                    "Got it goin' on wit it",
+                    "Sister (hey) soul sister",
+                    "We goin' be all right",
+                    "It takes a man to take a stand",
+                    "Understand it takes a",
+                    "Woman to make a stronger man",
+                    "(As we both get strong)",
+                    "They'll call me a crazy Asiatic",
+                    "While I'm singin' a song",
+                    "Oh my god, oh my lord",
+                    "",
+                    "I can't hold back",
+                    "But I get exact on a track",
+                    "It's an eye for an eye, tooth for a tooth",
+                    "Forget about me",
+                    "Just set my sister free",
+                    "R-e-s-p-e-c-t my siters, not my enemy",
+                    "(Cause we'll be stronger together)",
+                    "And make the suckers say",
+                    "(Damn) this generation",
+                    "",
+                    "They don't know what we got goin' is (sound)",
+                    "To turn it all around",
+                    "To my sisters I communicate",
+                    "With the bass and tone",
+                    "Thru speakers and the microphone",
+                    "Cause I'm tired of America dissin' my sisters",
+                    "(For example, like they dissed Tawana)",
+                    "And they try to say she's a liar",
+                    "My people don't believe it",
+                    "But even now they're getting higher",
+                    "Of the feeling inspiration",
+                    "We must know that in this nation",
+                    "Every single generation",
+                    "(They teach us how to dis our sisters)",
+                    "Stange as you say, I say revolution",
+                    "Need for change brings on revolution",
+                    "The great book just look see solution",
+                    "",
+                    "God chooses who and what for the bruisin'",
+                    "There's been no justice for none",
+                    "Of my sisters",
+                    "Just us been the ones that's been missin' her",
+                    "Now we got to protect",
+                    "We get together and damn this generation",
+                    "",
+                    "I said so to what it is",
+                    "Where it is",
+                    "She needs a li'l respect",
+                    "There it is",
+                    "I say she needs a lotta",
+                    "Brother from a mother like me has gotta",
+                    "Give it up",
+                    "Give it now",
+                    "And pass it all around",
+                    "To my soul (sister)",
+                    "",
+                    "They disrespected mama and treated her like dirt",
+                    "America took her, reshaped her, raped her",
+                    "Nope, it never made the paper",
+                    "Beat us, mated us",
+                    "Made us attack our woman in black",
+                    "So I said sophisticated B, don't be one",
+                    "Not to head the warning crack of dawn",
+                    "Or is it the dawn of crack?",
+                    "Stop the talk they say, but",
+                    "We talk and say whats right or wrong",
+                    "Some say we wasting time singin' a song",
+                    "But why is it that we're many different shades",
+                    "Black woman's privacy invaded years and years",
+                    "You cannot count my mama's tears",
+                    "It's not the past but the future's",
+                    "What she fears",
+                    "Strong we be strong",
+                    "The next generation",
+                    "It's what not who we are facin'",
+                    "The fingers pointed to us in our direction",
+                    "The blind state of mind needs correction",
+                    "Word to the mother we tighten connection",
+                    "To be a man you need no election",
+                    "This generation generates a new attitude",
+                    "Sister to you we should not be rude",
+                    "So we come together",
+                    "And make 'em all say",
+                    "Damn this generation"
+                ],
+                "url": "https://cdn.shazam.com/lyrics/v1/en-US/GB/iphone/musixmatch/subtitles/131374/343/1?token=3ae3432d99c1b3c9f8eab9d3fc40de81",
+                "footer": "Writer(s): Eric T. Sadler, Keith M. Boxley, Carlton Douglas Ridenhour\nLyrics powered by www.musixmatch.com",
+                "tabname": "Lyrics",
+                "beacondata": {
+                    "lyricsid": "1702343",
+                    "providername": "musixmatch",
+                    "commontrackid": "131374"
+                }
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/10355272/youtube/video?q=Public+Enemy+%22Revolutionary+Generation%22"
+            },
+            {
+                "type": "RELATED",
+                "url": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-10355272?startFrom=0&pageSize=20&connected=",
+                "tabname": "Related"
+            }
+        ],
+        "url": "https://www.shazam.com/track/10355272/revolutionary-generation",
+        "artists": [
+            {
+                "id": "42",
+                "adamid": "36954"
+            }
+        ],
+        "isrc": "USDJ29000027",
+        "genres": {
+            "primary": "Hip-Hop/Rap"
+        },
+        "urlparams": {
+            "{tracktitle}": "Revolutionary+Generation",
+            "{trackartist}": "Public+Enemy"
+        },
+        "myshazam": {
+            "apple": {
+                "actions": [
+                    {
+                        "name": "myshazam:apple",
+                        "type": "uri",
+                        "uri": "https://music.apple.com/gb/album/revolutionary-generation/1442525466?i=1442525776&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                ]
+            }
+        },
+        "highlightsurls": {
+            "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/36954/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+        },
+        "relatedtracksurl": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-10355272?startFrom=0&pageSize=20&connected=",
+        "albumadamid": "1442525466"
+    },
+    "tagid": "9647229D-455D-4AC5-A0B6-C54899302A5A"
+}

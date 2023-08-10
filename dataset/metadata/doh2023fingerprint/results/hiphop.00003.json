@@ -1,0 +1,305 @@
+{
+    "matches": [
+        {
+            "id": "292916103",
+            "offset": 29.505666015,
+            "timeskew": -4.4047832e-05,
+            "frequencyskew": -4.029274e-05
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691632878862,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "2882360",
+        "title": "Friday",
+        "subtitle": "Ice Cube",
+        "images": {
+            "background": "https://is5-ssl.mzstatic.com/image/thumb/Features125/v4/c7/9d/53/c79d5331-d5ea-834d-79e7-d6688e60cc40/mzl.unwnxsfr.jpg/800x800cc.jpg",
+            "coverart": "https://is4-ssl.mzstatic.com/image/thumb/Music124/v4/3a/c3/b9/3ac3b9f1-9a62-b349-ef32-cd1503550691/00094639725359.jpg/400x400cc.jpg",
+            "coverarthq": "https://is4-ssl.mzstatic.com/image/thumb/Music124/v4/3a/c3/b9/3ac3b9f1-9a62-b349-ef32-cd1503550691/00094639725359.jpg/400x400cc.jpg",
+            "joecolor": "b:313131p:fbfbfbs:ebebebt:d2d2d2q:c5c5c5"
+        },
+        "share": {
+            "subject": "Friday - Ice Cube",
+            "text": "Friday by Ice Cube",
+            "href": "https://www.shazam.com/track/2882360/friday",
+            "image": "https://is4-ssl.mzstatic.com/image/thumb/Music124/v4/3a/c3/b9/3ac3b9f1-9a62-b349-ef32-cd1503550691/00094639725359.jpg/400x400cc.jpg",
+            "twitter": "I used @Shazam to discover Friday by Ice Cube.",
+            "html": "https://www.shazam.com/snippets/email-share/2882360?lang=en-US&country=GB",
+            "avatar": "https://is5-ssl.mzstatic.com/image/thumb/Features125/v4/c7/9d/53/c79d5331-d5ea-834d-79e7-d6688e60cc40/mzl.unwnxsfr.jpg/800x800cc.jpg",
+            "snapchat": "https://www.shazam.com/partner/sc/track/2882360"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "actions": [
+                {
+                    "name": "apple",
+                    "type": "applemusicplay",
+                    "id": "715770618"
+                },
+                {
+                    "name": "apple",
+                    "type": "uri",
+                    "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/1f/d7/34/1fd73427-bf5e-ec7a-fc6c-16d7ccd58e12/mzaf_13696610700783145400.plus.aac.ep.m4a"
+                }
+            ],
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/gb/album/friday/715770310?i=715770618&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/gb/album/friday/715770310?i=715770618&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                },
+                {
+                    "caption": "BUY",
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "uri": "https://itunes.apple.com/gb/album/friday/715770310?i=715770618&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "buy",
+                        "providername": "itunes"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "type": "buy",
+                    "listcaption": "Buy on iTunes",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "itunes"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:Friday%20Ice%20Cube"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27Friday%27%20artist%3A%27Ice+Cube%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": true,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [
+                    {
+                        "image": "https://is5-ssl.mzstatic.com/image/thumb/Features125/v4/c7/9d/53/c79d5331-d5ea-834d-79e7-d6688e60cc40/mzl.unwnxsfr.jpg/800x800cc.jpg",
+                        "caption": "Ice Cube"
+                    },
+                    {
+                        "image": "https://is4-ssl.mzstatic.com/image/thumb/Music124/v4/3a/c3/b9/3ac3b9f1-9a62-b349-ef32-cd1503550691/00094639725359.jpg/400x400cc.jpg",
+                        "caption": "Friday"
+                    }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                    {
+                        "title": "Album",
+                        "text": "At tha Movies - EP"
+                    },
+                    {
+                        "title": "Label",
+                        "text": "Priority Records"
+                    },
+                    {
+                        "title": "Released",
+                        "text": "1995"
+                    }
+                ]
+            },
+            {
+                "type": "LYRICS",
+                "text": [
+                    "You know it ain't no stoppin' all the dogs I'm droppin'",
+                    "It's friday night so everything is poppin'",
+                    "I gots ten to spend on the hen",
+                    "So let the games begin",
+                    "",
+                    "Yakety yak don't talk back or it's on",
+                    "Callin' up Earl on the car phone",
+                    "Mack 10 just got out of court",
+                    "Rollin' through the hood in his super sport bumping too short",
+                    "",
+                    "Eighteens got the rear view mirrors vibratin'",
+                    "And deep-dish Daytons",
+                    "You know how we do it",
+                    "Ain't nothing to it but the floss",
+                    "Overcrowding Harrison-Ross",
+                    "'Cause if you fuck with ours",
+                    "We leave scars",
+                    "Out of G-ride cars",
+                    "Livin' like stars",
+                    "Might hit the highway",
+                    "On the Vegas run fool 'cause it's friday",
+                    "",
+                    "Oh yeah",
+                    "Throw your neighborhood in the air",
+                    "If you don't care",
+                    "Oh yeah",
+                    "Throw your neighborhood in the air",
+                    "If you don't care",
+                    "",
+                    "Standing outside on a friday living on the edge",
+                    "'Cause we all got them hard heads",
+                    "It's seems like we all are waitin'",
+                    "For a drive-by playing tag with Satan",
+                    "But we chillin', yeah, we ready and willin'",
+                    "Ya hear about the latest westside killing?",
+                    "",
+                    "Forty sippin', set trippin', fo' dippin'",
+                    "Pistol grippin', neva slippin'",
+                    "BGs trying to hang out",
+                    "But OGs sayin' \"take your little ass in the house\"",
+                    "My big homie just got out",
+                    "Used to be down, now he's just cracked out",
+                    "He's bout hard as Darth Vader",
+                    "In his sweatshirt, khakis and Chuck Taylor's",
+                    "Just seen him in the driveway",
+                    "Getting beat like a smoker a fool, 'cause it's friday",
+                    "",
+                    "Oh yeah",
+                    "Throw your neighborhood in the air",
+                    "If you don't care",
+                    "Oh yeah",
+                    "Throw your neighborhood in the air",
+                    "If you don't care",
+                    "Fool",
+                    "",
+                    "Why must I be like that and chase the cat?",
+                    "Or settle for a hoodrat",
+                    "Dookie braids no dreadlocks",
+                    "Flyin' in and out of town with half a chicken in her cock",
+                    "And I love her, 'cause she down",
+                    "To fuck around with the underground pussy hound",
+                    "And her ass is big round and wide",
+                    "Jacked up, make a nigga down to ride",
+                    "",
+                    "Smoking indo, playing that Super Nintendo",
+                    "Hear a rat-a-tat-tat on my window",
+                    "Gave her ass that pelvic thrust",
+                    "Don't trust the rubber 'cause its bound to bust",
+                    "",
+                    "In the oven, in the nappy",
+                    "I had on two so I was happy",
+                    "'Cause that HIV'll make your dick hang sideways",
+                    "And that ain't cool, fool, 'cause it's friday",
+                    "",
+                    "Oh yeah",
+                    "Throw your neighborhood in the air",
+                    "If you don't care",
+                    "Oh yeah",
+                    "Throw your neighborhood in the air",
+                    "If you don't care",
+                    "",
+                    "Throw the West side in the air",
+                    "Throw the East side in the air",
+                    "Throw the South side in the air",
+                    "Throw the North side in the air",
+                    "Oh yeah"
+                ],
+                "url": "https://cdn.shazam.com/lyrics/v1/en-US/GB/iphone/musixmatch/subtitles/45336/228/1?token=ddfb5e718625cadf4f4f6b7de6ce67b4",
+                "footer": "Writer(s): O'shea Jackson, Garry Marshall Shider, David L. Spradley, James W. Castor, George Jr. Clinton, Johnny L. Pruitt, Leandro Jose Barbieri\nLyrics powered by www.musixmatch.com",
+                "tabname": "Lyrics",
+                "beacondata": {
+                    "lyricsid": "27298425",
+                    "providername": "musixmatch",
+                    "commontrackid": "45336"
+                }
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/2882360/youtube/video?q=Ice+Cube+%22Friday%22"
+            },
+            {
+                "type": "RELATED",
+                "url": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-2882360?startFrom=0&pageSize=20&connected=",
+                "tabname": "Related"
+            }
+        ],
+        "url": "https://www.shazam.com/track/2882360/friday",
+        "artists": [
+            {
+                "id": "42",
+                "adamid": "471370"
+            }
+        ],
+        "isrc": "USPO19550001",
+        "genres": {
+            "primary": "Hip-Hop/Rap"
+        },
+        "urlparams": {
+            "{tracktitle}": "Friday",
+            "{trackartist}": "Ice+Cube"
+        },
+        "myshazam": {
+            "apple": {
+                "actions": [
+                    {
+                        "name": "myshazam:apple",
+                        "type": "uri",
+                        "uri": "https://music.apple.com/gb/album/friday/715770310?i=715770618&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                ]
+            }
+        },
+        "highlightsurls": {
+            "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/471370/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+        },
+        "relatedtracksurl": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-2882360?startFrom=0&pageSize=20&connected=",
+        "albumadamid": "715770310"
+    },
+    "tagid": "3C78AD38-BB15-482D-AE1E-1E4797A4779E"
+}

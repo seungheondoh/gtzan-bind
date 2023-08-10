@@ -1,0 +1,249 @@
+{
+    "matches": [
+        {
+            "id": "443378954",
+            "offset": 30.156914062,
+            "timeskew": -2.3841858e-05,
+            "frequencyskew": -4.029274e-05
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691633376084,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "3153118",
+        "title": "Pocket Full of Gold",
+        "subtitle": "Vince Gill",
+        "images": {
+            "background": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/60/4c/f5/604cf541-d910-4110-0f64-0a86beda613e/pr_source.png/800x800cc.jpg",
+            "coverart": "https://is4-ssl.mzstatic.com/image/thumb/Music128/v4/ce/7f/b0/ce7fb0fe-1855-7f05-22b4-9ec2216b43bd/00008811014025.rgb.jpg/400x400cc.jpg",
+            "coverarthq": "https://is4-ssl.mzstatic.com/image/thumb/Music128/v4/ce/7f/b0/ce7fb0fe-1855-7f05-22b4-9ec2216b43bd/00008811014025.rgb.jpg/400x400cc.jpg",
+            "joecolor": "b:0b0d0cp:f7bc44s:d3c09ct:c89939q:ab9c7f"
+        },
+        "share": {
+            "subject": "Pocket Full of Gold - Vince Gill",
+            "text": "Pocket Full of Gold by Vince Gill",
+            "href": "https://www.shazam.com/track/3153118/pocket-full-of-gold",
+            "image": "https://is4-ssl.mzstatic.com/image/thumb/Music128/v4/ce/7f/b0/ce7fb0fe-1855-7f05-22b4-9ec2216b43bd/00008811014025.rgb.jpg/400x400cc.jpg",
+            "twitter": "I used @Shazam to discover Pocket Full of Gold by Vince Gill.",
+            "html": "https://www.shazam.com/snippets/email-share/3153118?lang=en-US&country=GB",
+            "avatar": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/60/4c/f5/604cf541-d910-4110-0f64-0a86beda613e/pr_source.png/800x800cc.jpg",
+            "snapchat": "https://www.shazam.com/partner/sc/track/3153118"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "actions": [
+                {
+                    "name": "apple",
+                    "type": "applemusicplay",
+                    "id": "1440789998"
+                },
+                {
+                    "name": "apple",
+                    "type": "uri",
+                    "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/06/e9/ea/06e9ea7a-2245-21f5-04a0-b01b0bd2afb2/mzaf_7210093607956775876.plus.aac.ep.m4a"
+                }
+            ],
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/gb/album/pocket-full-of-gold/1440789977?i=1440789998&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/gb/album/pocket-full-of-gold/1440789977?i=1440789998&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                },
+                {
+                    "caption": "BUY",
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "uri": "https://itunes.apple.com/gb/album/pocket-full-of-gold/1440789977?i=1440789998&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "buy",
+                        "providername": "itunes"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "type": "buy",
+                    "listcaption": "Buy on iTunes",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "itunes"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:Pocket%20Full%20of%20Gold%20Vince%20Gill"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27Pocket+Full+of+Gold%27%20artist%3A%27Vince+Gill%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": false,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [
+                    {
+                        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/60/4c/f5/604cf541-d910-4110-0f64-0a86beda613e/pr_source.png/800x800cc.jpg",
+                        "caption": "Vince Gill"
+                    },
+                    {
+                        "image": "https://is4-ssl.mzstatic.com/image/thumb/Music128/v4/ce/7f/b0/ce7fb0fe-1855-7f05-22b4-9ec2216b43bd/00008811014025.rgb.jpg/400x400cc.jpg",
+                        "caption": "Pocket Full of Gold"
+                    }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                    {
+                        "title": "Album",
+                        "text": "Pocket Full of Gold"
+                    },
+                    {
+                        "title": "Label",
+                        "text": "Geffen*"
+                    },
+                    {
+                        "title": "Released",
+                        "text": "1991"
+                    }
+                ]
+            },
+            {
+                "type": "LYRICS",
+                "text": [
+                    "He slipped the ring off his finger",
+                    "When he walked in the room",
+                    "And he found him some stranger",
+                    "And promised her the moon",
+                    "",
+                    "How many lies you must have told",
+                    "You think you're a rich man",
+                    "With your pocket full of gold",
+                    "",
+                    "For another man's treasure",
+                    "You'd say anything",
+                    "But is one night of pleasure",
+                    "Worth the trouble you'll bring?",
+                    "",
+                    "Don't look so surprised",
+                    "'Cause son, I should know",
+                    "'Cause I once was a rich man",
+                    "With my pocket full of gold",
+                    "",
+                    "Some night you're gonna wind up",
+                    "On the wrong end of a gun",
+                    "Some jealous guy's gonna show up",
+                    "And you'll pay for what you've done",
+                    "",
+                    "What will it say on your tombstone?",
+                    "\"Here lies a rich man",
+                    "With his pocket full of gold\"",
+                    "",
+                    "Yeah, here lies a rich man",
+                    "With his pocket full of gold"
+                ],
+                "url": "https://cdn.shazam.com/lyrics/v1/en-US/GB/iphone/musixmatch/subtitles/951552/245/1?token=e920a621d1d589b8f6abb66088385329",
+                "footer": "Writer(s): Vincent Gill, Brian Allsmiller\nLyrics powered by www.musixmatch.com",
+                "tabname": "Lyrics",
+                "beacondata": {
+                    "lyricsid": "25504375",
+                    "providername": "musixmatch",
+                    "commontrackid": "951552"
+                }
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/3153118/youtube/video?q=Vince+Gill+%22Pocket+Full+of+Gold%22"
+            },
+            {
+                "type": "RELATED",
+                "url": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-3153118?startFrom=0&pageSize=20&connected=",
+                "tabname": "Related"
+            }
+        ],
+        "url": "https://www.shazam.com/track/3153118/pocket-full-of-gold",
+        "artists": [
+            {
+                "id": "42",
+                "adamid": "27175"
+            }
+        ],
+        "isrc": "USMC19034275",
+        "genres": {
+            "primary": "Country"
+        },
+        "urlparams": {
+            "{tracktitle}": "Pocket+Full+of+Gold",
+            "{trackartist}": "Vince+Gill"
+        },
+        "myshazam": {
+            "apple": {
+                "actions": [
+                    {
+                        "name": "myshazam:apple",
+                        "type": "uri",
+                        "uri": "https://music.apple.com/gb/album/pocket-full-of-gold/1440789977?i=1440789998&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                ]
+            }
+        },
+        "highlightsurls": {
+            "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/27175/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+        },
+        "relatedtracksurl": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-3153118?startFrom=0&pageSize=20&connected=",
+        "albumadamid": "1440789977"
+    },
+    "tagid": "32A12D67-6005-444D-AD63-11F89144214D"
+}

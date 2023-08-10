@@ -1,0 +1,353 @@
+{
+    "matches": [
+        {
+            "id": "403782850",
+            "offset": 29.712685546,
+            "timeskew": -2.4855137e-05,
+            "frequencyskew": -0.000120818615
+        },
+        {
+            "id": "310022596",
+            "offset": 29.625544921,
+            "timeskew": -5.4121017e-05,
+            "frequencyskew": 0.0
+        },
+        {
+            "id": "228725201",
+            "offset": 29.689730468,
+            "timeskew": -0.00010126829,
+            "frequencyskew": -8.0525875e-05
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691632748092,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "10572658",
+        "title": "Jumpin', Jumpin'",
+        "subtitle": "Destiny's Child",
+        "images": {
+            "background": "https://is1-ssl.mzstatic.com/image/thumb/Features115/v4/23/46/07/234607da-f99e-870f-44e7-b8ceb8dec358/mza_17495699682120654147.png/800x800cc.jpg",
+            "coverart": "https://is4-ssl.mzstatic.com/image/thumb/Music125/v4/c9/29/74/c92974ce-2bdd-4b86-a261-01adc901bb65/mzi.cmambura.jpg/400x400cc.jpg",
+            "coverarthq": "https://is4-ssl.mzstatic.com/image/thumb/Music125/v4/c9/29/74/c92974ce-2bdd-4b86-a261-01adc901bb65/mzi.cmambura.jpg/400x400cc.jpg",
+            "joecolor": "b:c0c0bep:1b1f1fs:262827t:3c3f3eq:454745"
+        },
+        "share": {
+            "subject": "Jumpin', Jumpin' - Destiny's Child",
+            "text": "Jumpin', Jumpin' by Destiny's Child",
+            "href": "https://www.shazam.com/track/10572658/jumpin-jumpin",
+            "image": "https://is4-ssl.mzstatic.com/image/thumb/Music125/v4/c9/29/74/c92974ce-2bdd-4b86-a261-01adc901bb65/mzi.cmambura.jpg/400x400cc.jpg",
+            "twitter": "I used @Shazam to discover Jumpin', Jumpin' by Destiny's Child.",
+            "html": "https://www.shazam.com/snippets/email-share/10572658?lang=en-US&country=GB",
+            "avatar": "https://is1-ssl.mzstatic.com/image/thumb/Features115/v4/23/46/07/234607da-f99e-870f-44e7-b8ceb8dec358/mza_17495699682120654147.png/800x800cc.jpg",
+            "snapchat": "https://www.shazam.com/partner/sc/track/10572658"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "actions": [
+                {
+                    "name": "apple",
+                    "type": "applemusicplay",
+                    "id": "266809755"
+                },
+                {
+                    "name": "apple",
+                    "type": "uri",
+                    "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/39/c7/5c/39c75c1d-d6da-045e-a0dd-abf350edb766/mzaf_512821535773049866.plus.aac.ep.m4a"
+                }
+            ],
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/gb/album/jumpin-jumpin/266809606?i=266809755&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/gb/album/jumpin-jumpin/266809606?i=266809755&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                },
+                {
+                    "caption": "BUY",
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "uri": "https://itunes.apple.com/gb/album/jumpin-jumpin/266809606?i=266809755&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "buy",
+                        "providername": "itunes"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "type": "buy",
+                    "listcaption": "Buy on iTunes",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "itunes"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:Jumpin%27%2C%20Jumpin%27%20Destiny%27s%20Child"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27Jumpin%5C%27%2C+Jumpin%5C%27%27%20artist%3A%27Destiny%5C%27s+Child%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": false,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [
+                    {
+                        "image": "https://is1-ssl.mzstatic.com/image/thumb/Features115/v4/23/46/07/234607da-f99e-870f-44e7-b8ceb8dec358/mza_17495699682120654147.png/800x800cc.jpg",
+                        "caption": "Destiny's Child"
+                    },
+                    {
+                        "image": "https://is4-ssl.mzstatic.com/image/thumb/Music125/v4/c9/29/74/c92974ce-2bdd-4b86-a261-01adc901bb65/mzi.cmambura.jpg/400x400cc.jpg",
+                        "caption": "Jumpin', Jumpin'"
+                    }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                    {
+                        "title": "Album",
+                        "text": "The Writing's On the Wall"
+                    },
+                    {
+                        "title": "Label",
+                        "text": "Columbia"
+                    },
+                    {
+                        "title": "Released",
+                        "text": "1999"
+                    }
+                ]
+            },
+            {
+                "type": "LYRICS",
+                "text": [
+                    "Ladies, leave your man at home",
+                    "The club is full of ballers and their pockets full-grown",
+                    "And all you fellas, leave your girl with her friends",
+                    "'Cause it's 11:30 and the club is jumpin', jumpin'",
+                    "",
+                    "Though he say he got a girl",
+                    "Yeah, it's true you got a man",
+                    "But the party ain't gon' stop",
+                    "So let's make it hot, hot",
+                    "",
+                    "Last week and you stayed at home alone and lonely",
+                    "Couldn't find your man, he was chilling with his homies",
+                    "This weekend you're going out, if he",
+                    "Try to stop you, you're going off",
+                    "",
+                    "You got your hair done and your nails done too",
+                    "A new outfit and your Fendi shoes",
+                    "You and your crew parlayin' at the hottest spot",
+                    "Tonight you're gonna",
+                    "Find the fellas rollin' in the Lexus, trucks, and Hummers",
+                    "",
+                    "Though he say he got a girl",
+                    "Yeah, it's true you got a man",
+                    "But the party ain't gon' stop",
+                    "So let's make it hot, hot",
+                    "",
+                    "All you ladies leave your man at home",
+                    "The club is full of ballers and their pockets full-grown",
+                    "And all you fellas, leave your girl with her friends",
+                    "'Cause it's 11:30 and the club is jumpin', jumpin'",
+                    "",
+                    "Ladies, leave your man at home",
+                    "The club is full of ballers and their pockets full-grown",
+                    "And all you fellas, leave your girl with her friends",
+                    "'Cause it's 11:30 and the club is jumpin', jumpin'",
+                    "",
+                    "Though he say he got a girl",
+                    "Yeah, it's true you got a man",
+                    "But the party ain't gon' stop",
+                    "So let's make it hot, hot",
+                    "",
+                    "Call your boys 'cause tonight you're not gon' stay at home",
+                    "You should tell your girl she ain't coming tonight, you going solo",
+                    "Cut her off 'cause she talks some noise",
+                    "You know you got the right to get your party on",
+                    "",
+                    "So get your haircut and your car washed too, lookin'",
+                    "Like a star in your Armani suit, you need to look your best",
+                    "'Cause you're turning heads tonight",
+                    "You're gonna find a sexy chica",
+                    "That's gon' dance all night if you wanna",
+                    "",
+                    "Though he say he got a girl",
+                    "Yeah, it's true you got a man",
+                    "But the party ain't gon' stop",
+                    "So let's make it hot, hot",
+                    "",
+                    "All you ladies, leave your man at home",
+                    "The club is full of ballers and their pockets full-grown",
+                    "And all you fellas, leave your girl with her friends",
+                    "'Cause it's 11:30 and the club is jumpin', jumpin'",
+                    "",
+                    "Ladies, leave your man at home",
+                    "The club is full of ballers and their pockets full-grown",
+                    "And all you fellas, leave your girl with her friends",
+                    "'Cause it's 11:30 and the club is jumpin', jumpin'",
+                    "",
+                    "Sexy women, do your dance",
+                    "Fly ladies, work your man",
+                    "All them fellas, time to clown",
+                    "We can get down now",
+                    "",
+                    "Bounce, baby, bounce, b-bounce, b-bounce, twerk it, twerk it",
+                    "Shake, baby, shake, sha-shake, sha-shake, work it, work it",
+                    "Twist, baby, twist, twist",
+                    "You better dip that thing (you better dip that thing)",
+                    "(One more time for these mamis)",
+                    "",
+                    "Bounce, baby, bounce, b-bounce, b-bounce, twerk it, twerk it",
+                    "Shake, baby, shake, sha-shake, sha-shake, work it, work it",
+                    "Twist, baby, twist, twist",
+                    "You better dip that thing",
+                    "(Bounce it up and down papi's mamis)",
+                    "",
+                    "Sexy women, do your dance",
+                    "Fly ladies, work your man",
+                    "All them fellas, time to clown",
+                    "We can get down now",
+                    "",
+                    "All you ladies, leave your man at home",
+                    "The club is full of ballers and their pockets full-grown",
+                    "And all you fellas, leave your girl with her friends",
+                    "'Cause it's 11:30 and the club is jumpin', jumpin'",
+                    "",
+                    "Ladies, leave your man at home",
+                    "The club is full of ballers and their pockets full-grown",
+                    "And all you fellas, leave your girl with her friends",
+                    "'Cause it's 11:30 and the club is jumpin', jumpin'",
+                    "",
+                    "All you ladies, leave your man at home",
+                    "The club is full of ballers and their pockets full-grown",
+                    "And all you fellas, leave your girl with her friends",
+                    "'Cause it's 11:30 and the club is jumpin', jumpin'",
+                    "",
+                    "Ladies, leave your man at home",
+                    "The club is full of ballers and they're pockets full grown",
+                    "And all you fellas, leave your girl with her friends",
+                    "'Cause it's 11:30 and the club is jumpin', jumpin'",
+                    "",
+                    "I ain't thinking about my man tonight",
+                    "Uh-huh, I ain't worried about my girl a'ight",
+                    "",
+                    "All you ladies, leave your man at home",
+                    "The club is full of ballers and they're pockets full grown",
+                    "And all you fellas leave your girl with her friends",
+                    "'Cause it's 11: 30 and the club is jumpin', jumpin'",
+                    "",
+                    "Ladies, leave your man at home",
+                    "The club is full of ballers and their pockets full-grown",
+                    "And all you fellas, leave your girl with her friends",
+                    "'Cause it's 11:30 and the club is jumpin', jumpin'"
+                ],
+                "url": "https://cdn.shazam.com/lyrics/v1/en-US/GB/iphone/musixmatch/subtitles/12575096/231/1?token=259274a91a6e0f44ffe8ab11da360686",
+                "footer": "Writer(s): Beyonce Knowles, Jovann Alexander, Chad Elliot, Rufus Moore\nLyrics powered by www.musixmatch.com",
+                "tabname": "Lyrics",
+                "beacondata": {
+                    "lyricsid": "25775166",
+                    "providername": "musixmatch",
+                    "commontrackid": "12575096"
+                }
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/10572658/youtube/video?q=Destiny's+Child+%22Jumpin',+Jumpin'%22"
+            },
+            {
+                "type": "RELATED",
+                "url": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-10572658?startFrom=0&pageSize=20&connected=",
+                "tabname": "Related"
+            }
+        ],
+        "url": "https://www.shazam.com/track/10572658/jumpin-jumpin",
+        "artists": [
+            {
+                "id": "42",
+                "adamid": "634287"
+            }
+        ],
+        "isrc": "USSM19901054",
+        "genres": {
+            "primary": "R&B/Soul"
+        },
+        "urlparams": {
+            "{tracktitle}": "Jumpin%27%2C+Jumpin%27",
+            "{trackartist}": "Destiny%27s+Child"
+        },
+        "myshazam": {
+            "apple": {
+                "actions": [
+                    {
+                        "name": "myshazam:apple",
+                        "type": "uri",
+                        "uri": "https://music.apple.com/gb/album/jumpin-jumpin/266809606?i=266809755&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                ]
+            }
+        },
+        "highlightsurls": {
+            "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/634287/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios&videoIdToFilter=648836720",
+            "trackhighlighturl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/highlights/648836720?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+        },
+        "relatedtracksurl": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-10572658?startFrom=0&pageSize=20&connected=",
+        "albumadamid": "266809606"
+    },
+    "tagid": "3C0E026B-5EE4-4206-80AB-7D50368A7365"
+}

@@ -1,0 +1,250 @@
+{
+    "matches": [
+        {
+            "id": "292865097",
+            "offset": 29.464769531,
+            "timeskew": 9.059906e-05,
+            "frequencyskew": 0.0
+        },
+        {
+            "id": "246897402",
+            "offset": 30.477822265,
+            "timeskew": -0.00023984909,
+            "frequencyskew": -8.0525875e-05
+        },
+        {
+            "id": "97275627",
+            "offset": 30.018464843,
+            "timeskew": -0.008115947,
+            "frequencyskew": -0.007822633
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691632542211,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "10709291",
+        "title": "Cross Road Blues",
+        "subtitle": "Robert Johnson",
+        "images": {
+            "background": "https://is1-ssl.mzstatic.com/image/thumb/Features125/v4/ca/df/91/cadf91c2-0f43-7a03-d6e5-91778c2701ba/pr_source.png/800x800cc.jpg",
+            "coverart": "https://is5-ssl.mzstatic.com/image/thumb/Music/v4/e8/6d/91/e86d91ae-32ce-2eab-3124-41af9c3a1311/5099751723929.jpg/400x400cc.jpg",
+            "coverarthq": "https://is5-ssl.mzstatic.com/image/thumb/Music/v4/e8/6d/91/e86d91ae-32ce-2eab-3124-41af9c3a1311/5099751723929.jpg/400x400cc.jpg",
+            "joecolor": "b:1e6a79p:faed49s:bfe77dt:ced353q:9fce7d"
+        },
+        "share": {
+            "subject": "Cross Road Blues - Robert Johnson",
+            "text": "Cross Road Blues by Robert Johnson",
+            "href": "https://www.shazam.com/track/10709291/cross-road-blues",
+            "image": "https://is5-ssl.mzstatic.com/image/thumb/Music/v4/e8/6d/91/e86d91ae-32ce-2eab-3124-41af9c3a1311/5099751723929.jpg/400x400cc.jpg",
+            "twitter": "I used @Shazam to discover Cross Road Blues by Robert Johnson.",
+            "html": "https://www.shazam.com/snippets/email-share/10709291?lang=en-US&country=GB",
+            "avatar": "https://is1-ssl.mzstatic.com/image/thumb/Features125/v4/ca/df/91/cadf91c2-0f43-7a03-d6e5-91778c2701ba/pr_source.png/800x800cc.jpg",
+            "snapchat": "https://www.shazam.com/partner/sc/track/10709291"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "actions": [
+                {
+                    "name": "apple",
+                    "type": "applemusicplay",
+                    "id": "580433058"
+                },
+                {
+                    "name": "apple",
+                    "type": "uri",
+                    "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/65/f5/6a/65f56a88-20ff-427b-b599-000298413989/mzaf_10980234731689431122.plus.aac.ep.m4a"
+                }
+            ],
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/gb/album/cross-road-blues/580432955?i=580433058&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/gb/album/cross-road-blues/580432955?i=580433058&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                },
+                {
+                    "caption": "BUY",
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "uri": "https://itunes.apple.com/gb/album/cross-road-blues/580432955?i=580433058&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "buy",
+                        "providername": "itunes"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "type": "buy",
+                    "listcaption": "Buy on iTunes",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "itunes"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:Cross%20Road%20Blues%20Robert%20Johnson"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27Cross+Road+Blues%27%20artist%3A%27Robert+Johnson%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": false,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [
+                    {
+                        "image": "https://is1-ssl.mzstatic.com/image/thumb/Features125/v4/ca/df/91/cadf91c2-0f43-7a03-d6e5-91778c2701ba/pr_source.png/800x800cc.jpg",
+                        "caption": "Robert Johnson"
+                    },
+                    {
+                        "image": "https://is5-ssl.mzstatic.com/image/thumb/Music/v4/e8/6d/91/e86d91ae-32ce-2eab-3124-41af9c3a1311/5099751723929.jpg/400x400cc.jpg",
+                        "caption": "Cross Road Blues"
+                    }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                    {
+                        "title": "Album",
+                        "text": "Guitar & Bass"
+                    },
+                    {
+                        "title": "Label",
+                        "text": "Sony Music Media"
+                    },
+                    {
+                        "title": "Released",
+                        "text": "1920"
+                    }
+                ]
+            },
+            {
+                "type": "LYRICS",
+                "text": [
+                    "I went to the crossroad, fell down on my knees",
+                    "I went to the crossroad, fell down on my knees",
+                    "Asked the Lord above \"Have mercy, now save poor Bob, if you please\"",
+                    "",
+                    "Yeoo, standin' at the crossroad, tried to flag a ride",
+                    "Ooo eeee, I tried to flag a ride",
+                    "Didn't nobody seem to know me, babe, everybody pass me by",
+                    "",
+                    "Standin' at the crossroad, baby, risin' sun goin' down",
+                    "Standin' at the crossroad, baby, eee, eee, risin' sun goin' down",
+                    "I believe to my soul, now, poor Bob is sinkin' down",
+                    "",
+                    "You can run, you can run, tell my friend Willie Brown1",
+                    "You can run, you can run, tell my friend Willie Brown1",
+                    "That I got the crossroad blues this mornin', Lord, babe, I'm sinkin' down",
+                    "",
+                    "And I went to the crossroad, mama, I looked east and west",
+                    "I went to the crossroad, baby, I looked east and west",
+                    "Lord, I didn't have no sweet woman, ooh well, babe, in my distress"
+                ],
+                "url": "https://cdn.shazam.com/lyrics/v1/en-US/GB/iphone/musixmatch/subtitles/29134618/151/1?token=bb687dd7778299f73350d1f4909ac6e2",
+                "footer": "Writer(s): Robert Johnson\nLyrics powered by www.musixmatch.com",
+                "tabname": "Lyrics",
+                "beacondata": {
+                    "lyricsid": "8809149",
+                    "providername": "musixmatch",
+                    "commontrackid": "29134618"
+                }
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/10709291/youtube/video?q=Robert+Johnson+%22Cross+Road+Blues%22"
+            },
+            {
+                "type": "RELATED",
+                "url": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-10709291?startFrom=0&pageSize=20&connected=",
+                "tabname": "Related"
+            }
+        ],
+        "url": "https://www.shazam.com/track/10709291/cross-road-blues",
+        "artists": [
+            {
+                "id": "42",
+                "adamid": "314626"
+            }
+        ],
+        "isrc": "USSM19000078",
+        "genres": {
+            "primary": "Pop"
+        },
+        "urlparams": {
+            "{tracktitle}": "Cross+Road+Blues",
+            "{trackartist}": "Robert+Johnson"
+        },
+        "myshazam": {
+            "apple": {
+                "actions": [
+                    {
+                        "name": "myshazam:apple",
+                        "type": "uri",
+                        "uri": "https://music.apple.com/gb/album/cross-road-blues/580432955?i=580433058&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                ]
+            }
+        },
+        "highlightsurls": {
+            "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/314626/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+        },
+        "relatedtracksurl": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-10709291?startFrom=0&pageSize=20&connected=",
+        "albumadamid": "580432955"
+    },
+    "tagid": "72CD5748-49FE-404B-AC35-7ECBE41704C3"
+}

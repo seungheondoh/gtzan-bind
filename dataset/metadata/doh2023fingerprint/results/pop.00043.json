@@ -1,0 +1,289 @@
+{
+    "matches": [
+        {
+            "id": "284978055",
+            "offset": 15.136466796,
+            "timeskew": -8.368492e-05,
+            "frequencyskew": -0.00024163723
+        },
+        {
+            "id": "296427347",
+            "offset": 29.986705078,
+            "timeskew": -2.6226044e-05,
+            "frequencyskew": -0.00028187037
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691632838946,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "5902656",
+        "title": "Believe",
+        "subtitle": "Cher",
+        "images": {
+            "background": "https://is2-ssl.mzstatic.com/image/thumb/Features125/v4/fa/4b/0f/fa4b0f0e-f0f7-4976-dd7c-1175f8f694dc/mzl.dygwitlx.png/800x800cc.jpg",
+            "coverart": "https://is5-ssl.mzstatic.com/image/thumb/Music125/v4/bb/90/f3/bb90f392-b78d-f180-ba6b-f04d2d1e62fd/s05.kfnyrece.jpg/400x400cc.jpg",
+            "coverarthq": "https://is5-ssl.mzstatic.com/image/thumb/Music125/v4/bb/90/f3/bb90f392-b78d-f180-ba6b-f04d2d1e62fd/s05.kfnyrece.jpg/400x400cc.jpg",
+            "joecolor": "b:bac1c7p:06090as:151d1bt:2a2d30q:363e3e"
+        },
+        "share": {
+            "subject": "Believe - Cher",
+            "text": "Believe by Cher",
+            "href": "https://www.shazam.com/track/5902656/believe",
+            "image": "https://is5-ssl.mzstatic.com/image/thumb/Music125/v4/bb/90/f3/bb90f392-b78d-f180-ba6b-f04d2d1e62fd/s05.kfnyrece.jpg/400x400cc.jpg",
+            "twitter": "I used @Shazam to discover Believe by Cher.",
+            "html": "https://www.shazam.com/snippets/email-share/5902656?lang=en-US&country=GB",
+            "avatar": "https://is2-ssl.mzstatic.com/image/thumb/Features125/v4/fa/4b/0f/fa4b0f0e-f0f7-4976-dd7c-1175f8f694dc/mzl.dygwitlx.png/800x800cc.jpg",
+            "snapchat": "https://www.shazam.com/partner/sc/track/5902656"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "actions": [
+                {
+                    "name": "apple",
+                    "type": "applemusicplay",
+                    "id": "73273491"
+                },
+                {
+                    "name": "apple",
+                    "type": "uri",
+                    "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/c1/0d/a8/c10da837-e5d3-fee3-e494-cea140cd3400/mzaf_15267259681384767849.plus.aac.ep.m4a"
+                }
+            ],
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/gb/album/believe/73273758?i=73273491&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/gb/album/believe/73273758?i=73273491&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                },
+                {
+                    "caption": "BUY",
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "uri": "https://itunes.apple.com/gb/album/believe/73273758?i=73273491&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "buy",
+                        "providername": "itunes"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "type": "buy",
+                    "listcaption": "Buy on iTunes",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "itunes"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:Believe%20Cher"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27Believe%27%20artist%3A%27Cher%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": false,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [
+                    {
+                        "image": "https://is2-ssl.mzstatic.com/image/thumb/Features125/v4/fa/4b/0f/fa4b0f0e-f0f7-4976-dd7c-1175f8f694dc/mzl.dygwitlx.png/800x800cc.jpg",
+                        "caption": "Cher"
+                    },
+                    {
+                        "image": "https://is5-ssl.mzstatic.com/image/thumb/Music125/v4/bb/90/f3/bb90f392-b78d-f180-ba6b-f04d2d1e62fd/s05.kfnyrece.jpg/400x400cc.jpg",
+                        "caption": "Believe"
+                    }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                    {
+                        "title": "Album",
+                        "text": "Believe"
+                    },
+                    {
+                        "title": "Label",
+                        "text": "Warner Records"
+                    },
+                    {
+                        "title": "Released",
+                        "text": "1998"
+                    }
+                ]
+            },
+            {
+                "type": "LYRICS",
+                "text": [
+                    "After love, after love",
+                    "After love, after love",
+                    "After love, after love",
+                    "After love, after love",
+                    "After love, after love",
+                    "After love, after love",
+                    "",
+                    "No matter how hard I try",
+                    "You keep pushing me aside",
+                    "And I can't break through",
+                    "There's no talking to you",
+                    "",
+                    "It's so sad that you're leaving",
+                    "It takes time to believe it",
+                    "But after all is said and done",
+                    "You're gonna be the lonely one, oh",
+                    "",
+                    "Do you believe in life after love?",
+                    "I can feel something inside me say",
+                    "I really don't think you're strong enough, no",
+                    "Do you believe in life after love?",
+                    "I can feel something inside me say",
+                    "I really don't think you're strong enough, no",
+                    "",
+                    "What am I supposed to do?",
+                    "Sit around and wait for you?",
+                    "Well, I can't do that",
+                    "And there's no turning back",
+                    "",
+                    "I need time to move on",
+                    "I need a love to feel strong",
+                    "'Cause I've had time to think it through",
+                    "And maybe I'm too good for you, oh",
+                    "",
+                    "Do you believe in life after love?",
+                    "I can feel something inside me say",
+                    "I really don't think you're strong enough, no",
+                    "Do you believe in life after love?",
+                    "I can feel something inside me say",
+                    "I really don't think you're strong enough, no",
+                    "",
+                    "Well, I know that I'll get through this",
+                    "'Cause I know that I am strong",
+                    "And I don't need you anymore",
+                    "I don't need you anymore",
+                    "Oh, I don't need you anymore",
+                    "No, I don't need you anymore",
+                    "",
+                    "Do you believe in life after love?",
+                    "I can feel something inside me say",
+                    "I really don't think you're strong enough, no",
+                    "Do you believe in life after love?",
+                    "I can feel something inside me say",
+                    "I really don't think you're strong enough, no",
+                    "",
+                    "Do you believe in life after love?",
+                    "I can feel something inside me say",
+                    "I really don't think you're strong enough, no",
+                    "Do you believe in life after love?",
+                    "I can feel something inside me say",
+                    "I really don't think you're strong enough, no",
+                    "",
+                    "(Do you believe in life after love?)"
+                ],
+                "url": "https://cdn.shazam.com/lyrics/v1/en-US/GB/iphone/musixmatch/subtitles/140376334/101/1?token=2282485376712caa49a4dfba961c2be1",
+                "footer": "Writer(s): Brian Higgins\nLyrics powered by www.musixmatch.com",
+                "tabname": "Lyrics",
+                "beacondata": {
+                    "lyricsid": "29282263",
+                    "providername": "musixmatch",
+                    "commontrackid": "140376334"
+                }
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/5902656/youtube/video?q=Cher+%22Believe%22"
+            },
+            {
+                "type": "RELATED",
+                "url": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-5902656?startFrom=0&pageSize=20&connected=",
+                "tabname": "Related"
+            }
+        ],
+        "url": "https://www.shazam.com/track/5902656/believe",
+        "artists": [
+            {
+                "id": "42",
+                "adamid": "106158"
+            }
+        ],
+        "isrc": "GBAHT9803002",
+        "genres": {
+            "primary": "Pop"
+        },
+        "urlparams": {
+            "{tracktitle}": "Believe",
+            "{trackartist}": "Cher"
+        },
+        "myshazam": {
+            "apple": {
+                "actions": [
+                    {
+                        "name": "myshazam:apple",
+                        "type": "uri",
+                        "uri": "https://music.apple.com/gb/album/believe/73273758?i=73273491&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                ]
+            }
+        },
+        "highlightsurls": {
+            "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/106158/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios&videoIdToFilter=1439507385",
+            "trackhighlighturl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/highlights/1439507385?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+        },
+        "relatedtracksurl": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-5902656?startFrom=0&pageSize=20&connected=",
+        "albumadamid": "73273758"
+    },
+    "tagid": "7518A2D9-5840-40CE-AD47-DD806CB81E95"
+}

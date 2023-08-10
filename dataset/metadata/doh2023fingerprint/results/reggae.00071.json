@@ -1,0 +1,218 @@
+{
+    "matches": [
+        {
+            "id": "305716506",
+            "offset": 30.38365625,
+            "timeskew": -1.1563301e-05,
+            "frequencyskew": 0.0
+        },
+        {
+            "id": "206694711",
+            "offset": 30.528191406,
+            "timeskew": -0.003619969,
+            "frequencyskew": -0.003698349
+        },
+        {
+            "id": "483002923",
+            "offset": 28.579701171,
+            "timeskew": -0.044902682,
+            "frequencyskew": -0.045373976
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691633336008,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "2961288",
+        "title": "Big Ship",
+        "subtitle": "Freddie McGregor",
+        "images": {
+            "background": "https://is3-ssl.mzstatic.com/image/thumb/Features125/v4/86/bd/62/86bd6212-0512-1380-a746-c6837a0d0b92/pr_source.png/800x800cc.jpg",
+            "coverart": "https://is4-ssl.mzstatic.com/image/thumb/Music122/v4/4f/d4/3a/4fd43a3e-133f-2e48-1ef0-f34eaa7a9c27/601811003961.jpg/400x400cc.jpg",
+            "coverarthq": "https://is4-ssl.mzstatic.com/image/thumb/Music122/v4/4f/d4/3a/4fd43a3e-133f-2e48-1ef0-f34eaa7a9c27/601811003961.jpg/400x400cc.jpg",
+            "joecolor": "b:16120fp:e5f4f7s:c1ddf0t:bcc6c8q:9fb5c3"
+        },
+        "share": {
+            "subject": "Big Ship - Freddie McGregor",
+            "text": "Big Ship by Freddie McGregor",
+            "href": "https://www.shazam.com/track/2961288/big-ship",
+            "image": "https://is4-ssl.mzstatic.com/image/thumb/Music122/v4/4f/d4/3a/4fd43a3e-133f-2e48-1ef0-f34eaa7a9c27/601811003961.jpg/400x400cc.jpg",
+            "twitter": "I used @Shazam to discover Big Ship by Freddie McGregor.",
+            "html": "https://www.shazam.com/snippets/email-share/2961288?lang=en-US&country=GB",
+            "avatar": "https://is3-ssl.mzstatic.com/image/thumb/Features125/v4/86/bd/62/86bd6212-0512-1380-a746-c6837a0d0b92/pr_source.png/800x800cc.jpg",
+            "snapchat": "https://www.shazam.com/partner/sc/track/2961288"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "actions": [
+                {
+                    "name": "apple",
+                    "type": "applemusicplay",
+                    "id": "383413046"
+                },
+                {
+                    "name": "apple",
+                    "type": "uri",
+                    "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/73/17/44/73174484-818f-6442-36f0-34de036df9c3/mzaf_2408169478738292589.plus.aac.ep.m4a"
+                }
+            ],
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/gb/album/big-ship/383412702?i=383413046&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/gb/album/big-ship/383412702?i=383413046&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                },
+                {
+                    "caption": "BUY",
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "uri": "https://itunes.apple.com/gb/album/big-ship/383412702?i=383413046&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "buy",
+                        "providername": "itunes"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "type": "buy",
+                    "listcaption": "Buy on iTunes",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "itunes"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:Big%20Ship%20Freddie%20McGregor"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27Big+Ship%27%20artist%3A%27Freddie+McGregor%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": false,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [
+                    {
+                        "image": "https://is3-ssl.mzstatic.com/image/thumb/Features125/v4/86/bd/62/86bd6212-0512-1380-a746-c6837a0d0b92/pr_source.png/800x800cc.jpg",
+                        "caption": "Freddie McGregor"
+                    },
+                    {
+                        "image": "https://is4-ssl.mzstatic.com/image/thumb/Music122/v4/4f/d4/3a/4fd43a3e-133f-2e48-1ef0-f34eaa7a9c27/601811003961.jpg/400x400cc.jpg",
+                        "caption": "Big Ship"
+                    }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                    {
+                        "title": "Album",
+                        "text": "Big Ship"
+                    },
+                    {
+                        "title": "Label",
+                        "text": "Greensleeves Records"
+                    },
+                    {
+                        "title": "Released",
+                        "text": "1982"
+                    }
+                ]
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/2961288/youtube/video?q=Freddie+McGregor+%22Big+Ship%22"
+            },
+            {
+                "type": "RELATED",
+                "url": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-2961288?startFrom=0&pageSize=20&connected=",
+                "tabname": "Related"
+            }
+        ],
+        "url": "https://www.shazam.com/track/2961288/big-ship",
+        "artists": [
+            {
+                "id": "42",
+                "adamid": "2533575"
+            }
+        ],
+        "isrc": "GBBZV8201352",
+        "genres": {
+            "primary": "Reggae"
+        },
+        "urlparams": {
+            "{tracktitle}": "Big+Ship",
+            "{trackartist}": "Freddie+McGregor"
+        },
+        "myshazam": {
+            "apple": {
+                "actions": [
+                    {
+                        "name": "myshazam:apple",
+                        "type": "uri",
+                        "uri": "https://music.apple.com/gb/album/big-ship/383412702?i=383413046&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                ]
+            }
+        },
+        "highlightsurls": {
+            "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/2533575/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+        },
+        "relatedtracksurl": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-2961288?startFrom=0&pageSize=20&connected=",
+        "albumadamid": "383412702"
+    },
+    "tagid": "9D9F0D4C-ECD5-4CB8-AF01-D6273020E877"
+}

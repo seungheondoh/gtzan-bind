@@ -1,0 +1,270 @@
+{
+    "matches": [
+        {
+            "id": "292764762",
+            "offset": 29.915822265,
+            "timeskew": -9.918213e-05,
+            "frequencyskew": -0.000120818615
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691632846890,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "223160",
+        "title": "I Will Be There",
+        "subtitle": "Britney Spears",
+        "images": {
+            "background": "https://is4-ssl.mzstatic.com/image/thumb/Features115/v4/53/a7/66/53a76640-0730-3751-19cd-aac7d85c20b8/mzl.izsetnqd.jpeg/800x800cc.jpg",
+            "coverart": "https://is4-ssl.mzstatic.com/image/thumb/Music125/v4/7b/f7/0e/7bf70ecc-b16b-01d8-b14c-00ccae5062c7/dj.wvceujiz.jpg/400x400cc.jpg",
+            "coverarthq": "https://is4-ssl.mzstatic.com/image/thumb/Music125/v4/7b/f7/0e/7bf70ecc-b16b-01d8-b14c-00ccae5062c7/dj.wvceujiz.jpg/400x400cc.jpg",
+            "joecolor": "b:ffedebp:4f190bs:4b291at:724338q:6f5043"
+        },
+        "share": {
+            "subject": "I Will Be There - Britney Spears",
+            "text": "I Will Be There by Britney Spears",
+            "href": "https://www.shazam.com/track/223160/i-will-be-there",
+            "image": "https://is4-ssl.mzstatic.com/image/thumb/Music125/v4/7b/f7/0e/7bf70ecc-b16b-01d8-b14c-00ccae5062c7/dj.wvceujiz.jpg/400x400cc.jpg",
+            "twitter": "I used @Shazam to discover I Will Be There by Britney Spears.",
+            "html": "https://www.shazam.com/snippets/email-share/223160?lang=en-US&country=GB",
+            "avatar": "https://is4-ssl.mzstatic.com/image/thumb/Features115/v4/53/a7/66/53a76640-0730-3751-19cd-aac7d85c20b8/mzl.izsetnqd.jpeg/800x800cc.jpg",
+            "snapchat": "https://www.shazam.com/partner/sc/track/223160"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "actions": [
+                {
+                    "name": "apple",
+                    "type": "applemusicplay",
+                    "id": "273143830"
+                },
+                {
+                    "name": "apple",
+                    "type": "uri",
+                    "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/90/bc/49/90bc49e2-432d-e41a-9865-9c7f02ff5094/mzaf_12482953550407354668.plus.aac.ep.m4a"
+                }
+            ],
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/gb/album/i-will-be-there/273143723?i=273143830&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/gb/album/i-will-be-there/273143723?i=273143830&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                },
+                {
+                    "caption": "BUY",
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "uri": "https://itunes.apple.com/gb/album/i-will-be-there/273143723?i=273143830&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "buy",
+                        "providername": "itunes"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "type": "buy",
+                    "listcaption": "Buy on iTunes",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "itunes"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:I%20Will%20Be%20There%20Britney%20Spears"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27I+Will+Be+There%27%20artist%3A%27Britney+Spears%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": false,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [
+                    {
+                        "image": "https://is4-ssl.mzstatic.com/image/thumb/Features115/v4/53/a7/66/53a76640-0730-3751-19cd-aac7d85c20b8/mzl.izsetnqd.jpeg/800x800cc.jpg",
+                        "caption": "Britney Spears"
+                    },
+                    {
+                        "image": "https://is4-ssl.mzstatic.com/image/thumb/Music125/v4/7b/f7/0e/7bf70ecc-b16b-01d8-b14c-00ccae5062c7/dj.wvceujiz.jpg/400x400cc.jpg",
+                        "caption": "I Will Be There"
+                    }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                    {
+                        "title": "Album",
+                        "text": "...Baby One More Time (Deluxe Version)"
+                    },
+                    {
+                        "title": "Label",
+                        "text": "Jive"
+                    },
+                    {
+                        "title": "Released",
+                        "text": "1999"
+                    }
+                ]
+            },
+            {
+                "type": "LYRICS",
+                "text": [
+                    "Oh-oh, yeah",
+                    "",
+                    "You don't have to say what's on your mind",
+                    "'Cause I know where you've been",
+                    "Give it up and leave it all behind",
+                    "And then let me begin",
+                    "",
+                    "Come on over here, let me show how things should be",
+                    "I will make it alright",
+                    "Let me make it clear, you can put your trust in me",
+                    "Yes, I will be there",
+                    "",
+                    "When you need someone, you just turn around",
+                    "And I will be there",
+                    "When you're feeling low, baby, let me know",
+                    "And I will be there",
+                    "",
+                    "Won't you let me make it up to you?",
+                    "Now you know where I am",
+                    "There ain't nothing that I wouldn't do",
+                    "Just to love once again",
+                    "",
+                    "Come on over here, let me show how things should be",
+                    "I will make it alright",
+                    "Let me make it clear, you can put your trust in me",
+                    "Yes, I will be there",
+                    "",
+                    "When you need someone, you just turn around",
+                    "And I will be there",
+                    "When you're feeling low, baby, let me know",
+                    "And I will be there",
+                    "I will be there",
+                    "",
+                    "Just take a stand",
+                    "I'll be here for you now and forever",
+                    "Give one more chance",
+                    "To show you how much I care",
+                    "I'll be there",
+                    "",
+                    "When you need someone",
+                    "Just turn around, and I will be there",
+                    "When you're in sorrow",
+                    "Just let me know, and I will be there",
+                    "",
+                    "When you need someone, you just turn around",
+                    "And I will be there (I will be there)",
+                    "When you're feeling low, baby, let me know",
+                    "And I will be there (I will be there)",
+                    "",
+                    "I'll be there (I will be there)",
+                    "(I will be there) I will be there"
+                ],
+                "url": "https://cdn.shazam.com/lyrics/v1/en-US/GB/iphone/musixmatch/subtitles/117759/233/1?token=8a5b46e4635bb8c20551815fc8d9734a",
+                "footer": "Writer(s): Andreas Carlsson, Martin Sandberg\nLyrics powered by www.musixmatch.com",
+                "tabname": "Lyrics",
+                "beacondata": {
+                    "lyricsid": "29814217",
+                    "providername": "musixmatch",
+                    "commontrackid": "117759"
+                }
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/223160/youtube/video?q=Britney+Spears+%22I+Will+Be+There%22"
+            },
+            {
+                "type": "RELATED",
+                "url": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-223160?startFrom=0&pageSize=20&connected=",
+                "tabname": "Related"
+            }
+        ],
+        "url": "https://www.shazam.com/track/223160/i-will-be-there",
+        "artists": [
+            {
+                "id": "42",
+                "adamid": "217005"
+            }
+        ],
+        "isrc": "USJI19910456",
+        "genres": {
+            "primary": "Pop"
+        },
+        "urlparams": {
+            "{tracktitle}": "I+Will+Be+There",
+            "{trackartist}": "Britney+Spears"
+        },
+        "myshazam": {
+            "apple": {
+                "actions": [
+                    {
+                        "name": "myshazam:apple",
+                        "type": "uri",
+                        "uri": "https://music.apple.com/gb/album/i-will-be-there/273143723?i=273143830&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                ]
+            }
+        },
+        "highlightsurls": {
+            "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/217005/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+        },
+        "relatedtracksurl": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-223160?startFrom=0&pageSize=20&connected=",
+        "albumadamid": "273143723"
+    },
+    "tagid": "7D8394EB-1913-48C7-BFD2-CE8CB2D1B68F"
+}

@@ -1,0 +1,334 @@
+{
+    "matches": [
+        {
+            "id": "265016729",
+            "offset": 43.206234375,
+            "timeskew": 0.01589477,
+            "frequencyskew": 0.016813159
+        },
+        {
+            "id": "213789671",
+            "offset": 35.214800781,
+            "timeskew": 0.01614976,
+            "frequencyskew": 0.016690254
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691632436625,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "47451929",
+        "title": "Wordy Rappinghood",
+        "subtitle": "Tom Tom Club",
+        "images": {
+            "background": "https://is5-ssl.mzstatic.com/image/thumb/AMCArtistImages126/v4/1f/f2/f4/1ff2f4e8-8a06-5cec-3d09-739179ab6b68/65c5dc2e-9964-4965-9f73-fc79d38d7676_ami-identity-17bb2a774bfba44e19c855fe368110aa-2023-02-21T20-10-16.180Z_cropped.png/800x800cc.jpg",
+            "coverart": "https://is4-ssl.mzstatic.com/image/thumb/Music128/v4/73/28/4b/73284b7a-77f8-b2b8-f7b7-29a59f50074f/00602517677357.rgb.jpg/400x400cc.jpg",
+            "coverarthq": "https://is4-ssl.mzstatic.com/image/thumb/Music128/v4/73/28/4b/73284b7a-77f8-b2b8-f7b7-29a59f50074f/00602517677357.rgb.jpg/400x400cc.jpg",
+            "joecolor": "b:dbe0e4p:040804s:541115t:2f3331q:6f3b3e"
+        },
+        "share": {
+            "subject": "Wordy Rappinghood - Tom Tom Club",
+            "text": "Wordy Rappinghood by Tom Tom Club",
+            "href": "https://www.shazam.com/track/47451929/wordy-rappinghood",
+            "image": "https://is4-ssl.mzstatic.com/image/thumb/Music128/v4/73/28/4b/73284b7a-77f8-b2b8-f7b7-29a59f50074f/00602517677357.rgb.jpg/400x400cc.jpg",
+            "twitter": "I used @Shazam to discover Wordy Rappinghood by Tom Tom Club.",
+            "html": "https://www.shazam.com/snippets/email-share/47451929?lang=en-US&country=GB",
+            "avatar": "https://is5-ssl.mzstatic.com/image/thumb/AMCArtistImages126/v4/1f/f2/f4/1ff2f4e8-8a06-5cec-3d09-739179ab6b68/65c5dc2e-9964-4965-9f73-fc79d38d7676_ami-identity-17bb2a774bfba44e19c855fe368110aa-2023-02-21T20-10-16.180Z_cropped.png/800x800cc.jpg",
+            "snapchat": "https://www.shazam.com/partner/sc/track/47451929"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "actions": [
+                {
+                    "name": "apple",
+                    "type": "applemusicplay",
+                    "id": "1442361080"
+                },
+                {
+                    "name": "apple",
+                    "type": "uri",
+                    "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/ac/dd/55/acdd5505-47b3-7cd3-4249-9f6aaca50c11/mzaf_16949072021437303994.plus.aac.ep.m4a"
+                }
+            ],
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/gb/album/wordy-rappinghood/1442360707?i=1442361080&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/gb/album/wordy-rappinghood/1442360707?i=1442361080&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                },
+                {
+                    "caption": "BUY",
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "uri": "https://itunes.apple.com/gb/album/wordy-rappinghood/1442360707?i=1442361080&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "buy",
+                        "providername": "itunes"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "type": "buy",
+                    "listcaption": "Buy on iTunes",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "itunes"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:Wordy%20Rappinghood%20Tom%20Tom%20Club"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27Wordy+Rappinghood%27%20artist%3A%27Tom+Tom+Club%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": false,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [
+                    {
+                        "image": "https://is5-ssl.mzstatic.com/image/thumb/AMCArtistImages126/v4/1f/f2/f4/1ff2f4e8-8a06-5cec-3d09-739179ab6b68/65c5dc2e-9964-4965-9f73-fc79d38d7676_ami-identity-17bb2a774bfba44e19c855fe368110aa-2023-02-21T20-10-16.180Z_cropped.png/800x800cc.jpg",
+                        "caption": "Tom Tom Club"
+                    },
+                    {
+                        "image": "https://is4-ssl.mzstatic.com/image/thumb/Music128/v4/73/28/4b/73284b7a-77f8-b2b8-f7b7-29a59f50074f/00602517677357.rgb.jpg/400x400cc.jpg",
+                        "caption": "Wordy Rappinghood"
+                    }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                    {
+                        "title": "Album",
+                        "text": "Tom Tom Club"
+                    },
+                    {
+                        "title": "Label",
+                        "text": "Universal-Island Records Ltd."
+                    },
+                    {
+                        "title": "Released",
+                        "text": "1981"
+                    }
+                ]
+            },
+            {
+                "type": "LYRICS",
+                "text": [
+                    "What are words worth?",
+                    "What are words worth?",
+                    "Words",
+                    "",
+                    "Words in papers, words in books",
+                    "Words on TV, words for crooks",
+                    "Words of comfort, words of peace",
+                    "Words to make the fighting cease",
+                    "Words to tell you what to do",
+                    "Words are working hard for you",
+                    "Eat your words but don't go hungry",
+                    "Words have always nearly hung me",
+                    "",
+                    "What are words worth?",
+                    "What are words worth?",
+                    "Words",
+                    "",
+                    "Words of nuance, words of skill",
+                    "And words of romance are a thrill",
+                    "Words are stupid, words are fun",
+                    "Words can put you on the run",
+                    "Mots pressx, mots sensx",
+                    "Mots qui disent la vit?",
+                    "Mots maudits, mots mentis",
+                    "Mots qui manquent le fruit d'esprit",
+                    "",
+                    "What are words worth?",
+                    "What are words worth?",
+                    "Words",
+                    "",
+                    "It's a rap race with a fast pace",
+                    "Concrete words, abstract words",
+                    "Crazy words and lying words",
+                    "Hazy words and dying words",
+                    "Words of faith, tell me straight",
+                    "Rare words and swear words",
+                    "Good words and bad words",
+                    "",
+                    "What are words worth?",
+                    "What are words worth?",
+                    "Words",
+                    "",
+                    "What are words worth?",
+                    "What are words worth?",
+                    "Words",
+                    "",
+                    "Words can make you pay and pay",
+                    "Four-letter words I cannot say",
+                    "Panty, toilet, dirty devil",
+                    "Words are trouble, words are subtle",
+                    "Words of anger, words of hate",
+                    "Words over here, words out there",
+                    "In the air and everywhere",
+                    "Words of wisdom, words of strife",
+                    "Words that write the book I like",
+                    "",
+                    "Words won't find a right solution",
+                    "To the planet Earth's pollution",
+                    "Say the right word, make a million",
+                    "Words are like a certain person",
+                    "Who can't say what they mean",
+                    "Don't mean what they say",
+                    "",
+                    "A rap, rap here and a rap, rap there",
+                    "Here rap, there rap",
+                    "Everywhere a rap, rap",
+                    "Rap it up for the common good",
+                    "Let us enlist the neighborhood",
+                    "It's okay, I've over stood",
+                    "This is a wordy rapping hood, okay, bye",
+                    "",
+                    "What are words worth?",
+                    "What are words worth?",
+                    "Words",
+                    "",
+                    "What are words worth?",
+                    "What are words worth?",
+                    "Words",
+                    "",
+                    "He don't stop, he don't stop",
+                    "He don't stop, he don't stop",
+                    "He don't stop, he don't stop",
+                    "He don't stop, he don't stop",
+                    "He don't stop, he don't stop",
+                    "He don't stop, he don't stop",
+                    "He don't stop, je don't stop",
+                    "He don't stop",
+                    "Don't stop",
+                    "",
+                    "You like it?",
+                    "One, two, three",
+                    "",
+                    "He don't stop, he don't stop",
+                    "He don't stop, he don't stop",
+                    "He don't stop, he don't stop",
+                    "He don't stop, he don't stop",
+                    "He don't stop, he don't stop",
+                    "He don't stop, he don't stop",
+                    "He don't stop, he don't stop",
+                    "He don't stop, he don't stop",
+                    "",
+                    "He don't stop, he don't stop",
+                    "He don't stop, he don't stop",
+                    "He don't stop, he don't stop",
+                    "He don't stop, he don't stop",
+                    "He don't stop, he don't stop",
+                    "He don't stop, he don't stop",
+                    "He don't stop, he don't stop",
+                    "He don't stop, he don't stop"
+                ],
+                "url": "https://cdn.shazam.com/lyrics/v1/en-US/GB/iphone/musixmatch/subtitles/28412394/387/1?token=3c816d4641a2c6dfd1488366cef2485d",
+                "footer": "Writer(s): Laura Elizabeth Weymouth, Steven J.c. Stanley, Lani C. Weymouth, Tina Weymouth, Christopher Frantz\nLyrics powered by www.musixmatch.com",
+                "tabname": "Lyrics",
+                "beacondata": {
+                    "lyricsid": "24147589",
+                    "providername": "musixmatch",
+                    "commontrackid": "28412394"
+                }
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/47451929/youtube/video?q=Tom+Tom+Club+%22Wordy+Rappinghood%22"
+            },
+            {
+                "type": "RELATED",
+                "url": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-47451929?startFrom=0&pageSize=20&connected=",
+                "tabname": "Related"
+            }
+        ],
+        "url": "https://www.shazam.com/track/47451929/wordy-rappinghood",
+        "artists": [
+            {
+                "id": "42",
+                "adamid": "205492"
+            }
+        ],
+        "isrc": "GBAAN0500004",
+        "genres": {
+            "primary": "Rock"
+        },
+        "urlparams": {
+            "{tracktitle}": "Wordy+Rappinghood",
+            "{trackartist}": "Tom+Tom+Club"
+        },
+        "myshazam": {
+            "apple": {
+                "actions": [
+                    {
+                        "name": "myshazam:apple",
+                        "type": "uri",
+                        "uri": "https://music.apple.com/gb/album/wordy-rappinghood/1442360707?i=1442361080&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                ]
+            }
+        },
+        "highlightsurls": {
+            "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/205492/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+        },
+        "relatedtracksurl": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-47451929?startFrom=0&pageSize=20&connected=",
+        "albumadamid": "1442360707"
+    },
+    "tagid": "877C8ECD-E2B5-4CE1-9AB5-37A7E44CE48A"
+}

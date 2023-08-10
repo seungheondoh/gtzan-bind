@@ -1,0 +1,345 @@
+{
+    "matches": [
+        {
+            "id": "229758253",
+            "offset": 28.999060546,
+            "timeskew": -3.85046e-05,
+            "frequencyskew": 0.0
+        },
+        {
+            "id": "287478117",
+            "offset": 202.5921875,
+            "timeskew": -9.918213e-05,
+            "frequencyskew": -0.000120818615
+        },
+        {
+            "id": "663683877",
+            "offset": 804.1274375,
+            "timeskew": 0.012502193,
+            "frequencyskew": -4.029274e-05
+        },
+        {
+            "id": "307744705",
+            "offset": 23.993359375,
+            "timeskew": 0.0027281046,
+            "frequencyskew": 8.058548e-05
+        },
+        {
+            "id": "234363594",
+            "offset": 159.66828125,
+            "timeskew": 0.00038325787,
+            "frequencyskew": 0.00044310093
+        },
+        {
+            "id": "276312616",
+            "offset": 24.43252539,
+            "timeskew": -0.011628687,
+            "frequencyskew": -0.011890054
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691633283412,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "51854768",
+        "title": "Here Comes the Hotstepper (Heartical Mix)",
+        "subtitle": "Ini Kamoze",
+        "images": {
+            "background": "https://is5-ssl.mzstatic.com/image/thumb/Features115/v4/87/f4/f4/87f4f42b-f8e6-527f-884a-cf0bdf8fe66a/pr_source.png/800x800cc.jpg",
+            "coverart": "https://is5-ssl.mzstatic.com/image/thumb/Music116/v4/a0/6c/b3/a06cb3fc-b934-4ae6-8c4b-48a5ff89d035/074646705629.jpg/400x400cc.jpg",
+            "coverarthq": "https://is5-ssl.mzstatic.com/image/thumb/Music116/v4/a0/6c/b3/a06cb3fc-b934-4ae6-8c4b-48a5ff89d035/074646705629.jpg/400x400cc.jpg",
+            "joecolor": "b:200f18p:eca47as:df8a61t:c38667q:b97253"
+        },
+        "share": {
+            "subject": "Here Comes the Hotstepper (Heartical Mix) - Ini Kamoze",
+            "text": "Here Comes the Hotstepper (Heartical Mix) by Ini Kamoze",
+            "href": "https://www.shazam.com/track/51854768/here-comes-the-hotstepper-heartical-mix",
+            "image": "https://is5-ssl.mzstatic.com/image/thumb/Music116/v4/a0/6c/b3/a06cb3fc-b934-4ae6-8c4b-48a5ff89d035/074646705629.jpg/400x400cc.jpg",
+            "twitter": "I used @Shazam to discover Here Comes the Hotstepper (Heartical Mix) by Ini Kamoze.",
+            "html": "https://www.shazam.com/snippets/email-share/51854768?lang=en-US&country=GB",
+            "avatar": "https://is5-ssl.mzstatic.com/image/thumb/Features115/v4/87/f4/f4/87f4f42b-f8e6-527f-884a-cf0bdf8fe66a/pr_source.png/800x800cc.jpg",
+            "snapchat": "https://www.shazam.com/partner/sc/track/51854768"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "actions": [
+                {
+                    "name": "apple",
+                    "type": "applemusicplay",
+                    "id": "204001889"
+                },
+                {
+                    "name": "apple",
+                    "type": "uri",
+                    "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/e4/e1/6b/e4e16bba-a5a7-0644-1f35-ed02687dc8e1/mzaf_10806462513675150398.plus.aac.ep.m4a"
+                }
+            ],
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/gb/album/here-comes-the-hotstepper-heartical-mix/204001824?i=204001889&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/gb/album/here-comes-the-hotstepper-heartical-mix/204001824?i=204001889&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                },
+                {
+                    "caption": "BUY",
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "uri": "https://itunes.apple.com/gb/album/here-comes-the-hotstepper-heartical-mix/204001824?i=204001889&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "buy",
+                        "providername": "itunes"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "type": "buy",
+                    "listcaption": "Buy on iTunes",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "itunes"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:Here%20Comes%20the%20Hotstepper%20%28Heartical%20Mix%29%20Ini%20Kamoze"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27Here+Comes+the+Hotstepper+%28Heartical+Mix%29%27%20artist%3A%27Ini+Kamoze%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": false,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [
+                    {
+                        "image": "https://is5-ssl.mzstatic.com/image/thumb/Features115/v4/87/f4/f4/87f4f42b-f8e6-527f-884a-cf0bdf8fe66a/pr_source.png/800x800cc.jpg",
+                        "caption": "Ini Kamoze"
+                    },
+                    {
+                        "image": "https://is5-ssl.mzstatic.com/image/thumb/Music116/v4/a0/6c/b3/a06cb3fc-b934-4ae6-8c4b-48a5ff89d035/074646705629.jpg/400x400cc.jpg",
+                        "caption": "Here Comes the Hotstepper (Heartical Mix)"
+                    }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                    {
+                        "title": "Album",
+                        "text": "Here Comes the Hotstepper"
+                    },
+                    {
+                        "title": "Label",
+                        "text": "Columbia"
+                    },
+                    {
+                        "title": "Released",
+                        "text": "1994"
+                    }
+                ]
+            },
+            {
+                "type": "LYRICS",
+                "text": [
+                    "Hey",
+                    "Hit it!",
+                    "Nah, na na na nah, na na na nah",
+                    "Na na nah, na na nah, na na na nah",
+                    "",
+                    "Come on, let's go",
+                    "",
+                    "Nah, na na na nah, na na na nah",
+                    "Na na nah, na na nah, na na na nah",
+                    "",
+                    "Here comes the hotstepper, murderer",
+                    "I'm the lyrical gangster, murderer",
+                    "Pick up the crew in-a de area, murderer",
+                    "Still love you like that, murderer",
+                    "",
+                    "No, no, we don't die",
+                    "Yes, we multiply",
+                    "Anyone pres will hear the fat lady sing",
+                    "Act like you know, Rico",
+                    "I know what Bo don't know",
+                    "Touch them up and go, uh-ooh",
+                    "Ch-ch-chang-chang",
+                    "",
+                    "Here comes the hotstepper, murderer",
+                    "I'm the lyrical gangster, murderer",
+                    "Excuse me mister officer, murderer",
+                    "Still love you like that, murderer",
+                    "",
+                    "Extraordinary",
+                    "Juice like a strawberry",
+                    "Money to burn baby, all of the time",
+                    "Cut to fit is me",
+                    "Fit to cut is she",
+                    "Come juggle with me, I say every time",
+                    "",
+                    "Here comes the hotstepper, murderer",
+                    "I'm the lyrical gangster, murderer",
+                    "Dial emergency number, murderer",
+                    "Still love you like that, murderer",
+                    "",
+                    "Nah, na na na nah, na na na nah, na na nah",
+                    "Na na nah, na na na nah",
+                    "It's how we do it man",
+                    "Nah, na na na nah, na na na nah, na na nah",
+                    "Na na nah, na na na nah",
+                    "",
+                    "Hey",
+                    "Start like a jackrabbit",
+                    "Finish in front of it",
+                    "On the night is jack, that's it, understand",
+                    "I'm the daddy of the mack daddy",
+                    "His are left in gold, maybe",
+                    "Ain't no homie gonna play me, top celebrity man",
+                    "",
+                    "Murderer",
+                    "I'm the lyrical gangster, murderer",
+                    "Excuse me mister officer, murderer",
+                    "Still love you like that, murderer",
+                    "",
+                    "No, no, we don't die",
+                    "Yes, we multiply",
+                    "Anyone test will hear the fat lady sing",
+                    "Act like you know, 'G' go",
+                    "I know what Bo don't know",
+                    "Touch them up and go, uh-oh",
+                    "Ch-ch-chang-chang",
+                    "",
+                    "Here comes the hotstepper, murderer",
+                    "I'm the lyrical gangster, murderer",
+                    "Pick up the crew in-a de area, murderer",
+                    "Still love you like that, murderer",
+                    "",
+                    "Nah, na na na nah, na na na nah, na na nah",
+                    "Na na nah, na na na nah, yeah man",
+                    "Nah, na na na nah, na na na nah",
+                    "Na na nah, na na nah, na na na nah, right",
+                    "",
+                    "Here comes the hotstepper, murderer",
+                    "I'm the lyrical gangster, murderer",
+                    "Pick up all crew bow ya, murderer",
+                    "Still love you like that, murderer",
+                    "",
+                    "Here comes the hotstepper, murderer",
+                    "I'm the lyrical danger, murderer",
+                    "Pick up the crew in-a de area, murderer",
+                    "Still love you like that, murderer",
+                    "",
+                    "Here comes the hotstepper",
+                    "I'm the lyrical gangster",
+                    "I'm a live in-a me danger",
+                    "Still love you like that",
+                    "Hey",
+                    "Na na na nah",
+                    "Na na na nah",
+                    "Na na na nah"
+                ],
+                "url": "https://cdn.shazam.com/lyrics/v1/en-US/GB/iphone/musixmatch/subtitles/415031/249/1?token=318b4be7bdd40118c9ce236868046965",
+                "footer": "Writer(s): Salaam Remi, Ini Kamoze, Christopher Kenner\nLyrics powered by www.musixmatch.com",
+                "tabname": "Lyrics",
+                "beacondata": {
+                    "lyricsid": "24563213",
+                    "providername": "musixmatch",
+                    "commontrackid": "415031"
+                }
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/51854768/youtube/video?q=Ini+Kamoze+%22Here+Comes+the+Hotstepper+(Heartical+Mix)%22"
+            },
+            {
+                "type": "RELATED",
+                "url": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-51854768?startFrom=0&pageSize=20&connected=",
+                "tabname": "Related"
+            }
+        ],
+        "url": "https://www.shazam.com/track/51854768/here-comes-the-hotstepper-heartical-mix",
+        "artists": [
+            {
+                "id": "42",
+                "adamid": "927657"
+            }
+        ],
+        "isrc": "USSM19402084",
+        "genres": {
+            "primary": "Reggae"
+        },
+        "urlparams": {
+            "{tracktitle}": "Here+Comes+the+Hotstepper+%28Heartical+Mix%29",
+            "{trackartist}": "Ini+Kamoze"
+        },
+        "myshazam": {
+            "apple": {
+                "actions": [
+                    {
+                        "name": "myshazam:apple",
+                        "type": "uri",
+                        "uri": "https://music.apple.com/gb/album/here-comes-the-hotstepper-heartical-mix/204001824?i=204001889&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                ]
+            }
+        },
+        "highlightsurls": {
+            "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/927657/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios&videoIdToFilter=1537208664",
+            "trackhighlighturl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/highlights/1537208664?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+        },
+        "relatedtracksurl": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-51854768?startFrom=0&pageSize=20&connected=",
+        "albumadamid": "204001824"
+    },
+    "tagid": "2DEAA068-975D-4BBE-8DDF-753E0FFBB2F2"
+}

@@ -1,0 +1,249 @@
+{
+    "matches": [
+        {
+            "id": "318338900",
+            "offset": 29.637904296000002,
+            "timeskew": 0.0002475977,
+            "frequencyskew": -4.029274e-05
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691633470776,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "74068261",
+        "title": "Uncloudy Day",
+        "subtitle": "Willie Nelson",
+        "images": {
+            "background": "https://is4-ssl.mzstatic.com/image/thumb/Features125/v4/b4/c2/9a/b4c29a1e-3b45-2b60-be65-dbb96d21e42a/mza_1383128222591135178.png/800x800cc.jpg",
+            "coverart": "https://is4-ssl.mzstatic.com/image/thumb/Music/v4/00/52/c6/0052c696-60b0-0918-9194-c1c70c090859/886444602648.jpg/400x400cc.jpg",
+            "coverarthq": "https://is4-ssl.mzstatic.com/image/thumb/Music/v4/00/52/c6/0052c696-60b0-0918-9194-c1c70c090859/886444602648.jpg/400x400cc.jpg",
+            "joecolor": "b:3a2f2bp:fffefbs:cdc8c4t:d7d4d1q:b0a9a5"
+        },
+        "share": {
+            "subject": "Uncloudy Day - Willie Nelson",
+            "text": "Uncloudy Day by Willie Nelson",
+            "href": "https://www.shazam.com/track/74068261/uncloudy-day",
+            "image": "https://is4-ssl.mzstatic.com/image/thumb/Music/v4/00/52/c6/0052c696-60b0-0918-9194-c1c70c090859/886444602648.jpg/400x400cc.jpg",
+            "twitter": "I used @Shazam to discover Uncloudy Day by Willie Nelson.",
+            "html": "https://www.shazam.com/snippets/email-share/74068261?lang=en-US&country=GB",
+            "avatar": "https://is4-ssl.mzstatic.com/image/thumb/Features125/v4/b4/c2/9a/b4c29a1e-3b45-2b60-be65-dbb96d21e42a/mza_1383128222591135178.png/800x800cc.jpg",
+            "snapchat": "https://www.shazam.com/partner/sc/track/74068261"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "actions": [
+                {
+                    "name": "apple",
+                    "type": "applemusicplay",
+                    "id": "886949233"
+                },
+                {
+                    "name": "apple",
+                    "type": "uri",
+                    "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/55/97/52/55975205-d28c-7c3e-9510-aec25873776c/mzaf_1175361786265618660.plus.aac.ep.m4a"
+                }
+            ],
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/gb/album/uncloudy-day/886949227?i=886949233&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/gb/album/uncloudy-day/886949227?i=886949233&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                },
+                {
+                    "caption": "BUY",
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "uri": "https://itunes.apple.com/gb/album/uncloudy-day/886949227?i=886949233&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "buy",
+                        "providername": "itunes"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "type": "buy",
+                    "listcaption": "Buy on iTunes",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "itunes"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:Uncloudy%20Day%20Willie%20Nelson"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27Uncloudy+Day%27%20artist%3A%27Willie+Nelson%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": false,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [
+                    {
+                        "image": "https://is4-ssl.mzstatic.com/image/thumb/Features125/v4/b4/c2/9a/b4c29a1e-3b45-2b60-be65-dbb96d21e42a/mza_1383128222591135178.png/800x800cc.jpg",
+                        "caption": "Willie Nelson"
+                    },
+                    {
+                        "image": "https://is4-ssl.mzstatic.com/image/thumb/Music/v4/00/52/c6/0052c696-60b0-0918-9194-c1c70c090859/886444602648.jpg/400x400cc.jpg",
+                        "caption": "Uncloudy Day"
+                    }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                    {
+                        "title": "Album",
+                        "text": "The Troublemaker"
+                    },
+                    {
+                        "title": "Label",
+                        "text": "Columbia"
+                    },
+                    {
+                        "title": "Released",
+                        "text": "1976"
+                    }
+                ]
+            },
+            {
+                "type": "LYRICS",
+                "text": [
+                    "Oh, they tell me of a place where my friends have gone",
+                    "Oh, they tell me of a home far away",
+                    "Oh, they tell me of a place where no storm clouds rise",
+                    "Oh, they tell me of an unclouded day",
+                    "",
+                    "Oh, the land of cloudless day",
+                    "Oh, the land of an unclouded sky",
+                    "Oh, they tell me of a place where my friends have gone",
+                    "Oh, they tell me of an unclouded day",
+                    "",
+                    "Oh, they tell me of a place where my friends have gone",
+                    "Oh, they tell me of a home far away",
+                    "Oh, they tell me of a place where no storm clouds rise",
+                    "Oh, they tell me of an unclouded day",
+                    "",
+                    "Oh, the land of cloudless day",
+                    "Oh, the land of an unclouded sky",
+                    "Oh, they tell me of a place, where my friends have gone",
+                    "Oh, they tell me of an unclouded day",
+                    "",
+                    "Oh, they tell me of a place where my friends have gone",
+                    "Oh, they tell me of a home far away",
+                    "Oh, they tell me of a place where no storm clouds rise",
+                    "Oh, they tell me of an unclouded day",
+                    "",
+                    "Oh, the land of cloudless day",
+                    "Oh, the land of an unclouded sky",
+                    "Oh, they tell me of a place, where my friends have gone",
+                    "Oh, they tell me of an unclouded day",
+                    "Oh, they tell me of an unclouded day"
+                ],
+                "url": "https://cdn.shazam.com/lyrics/v1/en-US/GB/iphone/musixmatch/subtitles/14707363/279/1?token=b0d5547ce3e7f7ec5ef24effba458e76",
+                "footer": "Writer(s): Willie Nelson\nLyrics powered by www.musixmatch.com",
+                "tabname": "Lyrics",
+                "beacondata": {
+                    "lyricsid": "24794284",
+                    "providername": "musixmatch",
+                    "commontrackid": "14707363"
+                }
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/74068261/youtube/video?q=Willie+Nelson+%22Uncloudy+Day%22"
+            },
+            {
+                "type": "RELATED",
+                "url": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-74068261?startFrom=0&pageSize=20&connected=",
+                "tabname": "Related"
+            }
+        ],
+        "url": "https://www.shazam.com/track/74068261/uncloudy-day",
+        "artists": [
+            {
+                "id": "42",
+                "adamid": "71676"
+            }
+        ],
+        "isrc": "USSM19904752",
+        "genres": {
+            "primary": "Country"
+        },
+        "urlparams": {
+            "{tracktitle}": "Uncloudy+Day",
+            "{trackartist}": "Willie+Nelson"
+        },
+        "myshazam": {
+            "apple": {
+                "actions": [
+                    {
+                        "name": "myshazam:apple",
+                        "type": "uri",
+                        "uri": "https://music.apple.com/gb/album/uncloudy-day/886949227?i=886949233&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                ]
+            }
+        },
+        "highlightsurls": {
+            "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/71676/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+        },
+        "relatedtracksurl": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-74068261?startFrom=0&pageSize=20&connected=",
+        "albumadamid": "886949227"
+    },
+    "tagid": "EF75D457-7CF3-46BD-A150-8035A8F9FBE5"
+}

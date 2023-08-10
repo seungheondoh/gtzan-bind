@@ -1,0 +1,269 @@
+{
+    "matches": [
+        {
+            "id": "231707090",
+            "offset": 48.512925781,
+            "timeskew": 0.00056147575,
+            "frequencyskew": -0.00044292212
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691633615615,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "418284",
+        "title": "Let There Be Love",
+        "subtitle": "Simple Minds",
+        "images": {
+            "background": "https://is3-ssl.mzstatic.com/image/thumb/Features115/v4/c9/2e/92/c92e9224-2714-1ea7-5b92-1beb3cc03edc/pr_source.png/800x800cc.jpg",
+            "coverart": "https://is4-ssl.mzstatic.com/image/thumb/Music124/v4/2c/87/51/2c875138-db33-de5c-2570-f2bd1eb73f8a/05099920756451.jpg/400x400cc.jpg",
+            "coverarthq": "https://is4-ssl.mzstatic.com/image/thumb/Music124/v4/2c/87/51/2c875138-db33-de5c-2570-f2bd1eb73f8a/05099920756451.jpg/400x400cc.jpg",
+            "joecolor": "b:ffffffp:131616s:1c1c1dt:424444q:4a4a4a"
+        },
+        "share": {
+            "subject": "Let There Be Love - Simple Minds",
+            "text": "Let There Be Love by Simple Minds",
+            "href": "https://www.shazam.com/track/418284/let-there-be-love",
+            "image": "https://is4-ssl.mzstatic.com/image/thumb/Music124/v4/2c/87/51/2c875138-db33-de5c-2570-f2bd1eb73f8a/05099920756451.jpg/400x400cc.jpg",
+            "twitter": "I used @Shazam to discover Let There Be Love by Simple Minds.",
+            "html": "https://www.shazam.com/snippets/email-share/418284?lang=en-US&country=GB",
+            "avatar": "https://is3-ssl.mzstatic.com/image/thumb/Features115/v4/c9/2e/92/c92e9224-2714-1ea7-5b92-1beb3cc03edc/pr_source.png/800x800cc.jpg",
+            "snapchat": "https://www.shazam.com/partner/sc/track/418284"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "actions": [
+                {
+                    "name": "apple",
+                    "type": "applemusicplay",
+                    "id": "714182858"
+                },
+                {
+                    "name": "apple",
+                    "type": "uri",
+                    "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/f7/ab/61/f7ab6158-170a-722f-073d-3281e38cffc2/mzaf_17024324653176532531.plus.aac.ep.m4a"
+                }
+            ],
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/gb/album/let-there-be-love/714182486?i=714182858&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/gb/album/let-there-be-love/714182486?i=714182858&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                },
+                {
+                    "caption": "BUY",
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "uri": "https://itunes.apple.com/gb/album/let-there-be-love/714182486?i=714182858&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "buy",
+                        "providername": "itunes"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "type": "buy",
+                    "listcaption": "Buy on iTunes",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "itunes"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:Let%20There%20Be%20Love%20Simple%20Minds"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27Let+There+Be+Love%27%20artist%3A%27Simple+Minds%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": false,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [
+                    {
+                        "image": "https://is3-ssl.mzstatic.com/image/thumb/Features115/v4/c9/2e/92/c92e9224-2714-1ea7-5b92-1beb3cc03edc/pr_source.png/800x800cc.jpg",
+                        "caption": "Simple Minds"
+                    },
+                    {
+                        "image": "https://is4-ssl.mzstatic.com/image/thumb/Music124/v4/2c/87/51/2c875138-db33-de5c-2570-f2bd1eb73f8a/05099920756451.jpg/400x400cc.jpg",
+                        "caption": "Let There Be Love"
+                    }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                    {
+                        "title": "Album",
+                        "text": "Real Life"
+                    },
+                    {
+                        "title": "Label",
+                        "text": "Virgin Catalogue"
+                    },
+                    {
+                        "title": "Released",
+                        "text": "1991"
+                    }
+                ]
+            },
+            {
+                "type": "LYRICS",
+                "text": [
+                    "Secrets of lovers",
+                    "Whisper tonight",
+                    "Broken down angel",
+                    "Got lost in the cold daylight",
+                    "The city is screaming",
+                    "And I look for your eyes",
+                    "",
+                    "Someone to lean on through the night",
+                    "Your music talks to me and hits me tonight",
+                    "One candle burning, I hear your voice say",
+                    "",
+                    "So let there be love",
+                    "Let there be love",
+                    "Love",
+                    "Let there be love",
+                    "",
+                    "It heals and it hurts",
+                    "She leads you to heaven's door",
+                    "And leaves you for dirt",
+                    "",
+                    "Someone to lean on, that's your own",
+                    "Some magic conquers me and lives in my soul,",
+                    "She comes like an ocean and I hear you sing",
+                    "Love will conquer anything",
+                    "",
+                    "So let it be love",
+                    "Let it be love",
+                    "Love",
+                    "Let it be love",
+                    "",
+                    "The wall's down",
+                    "They're coming down",
+                    "I can't slow",
+                    "I know it now",
+                    "So stay now",
+                    "Hold on",
+                    "And I'm praying",
+                    "",
+                    "So let it be love",
+                    "Let it be love",
+                    "Love",
+                    "Let it be love",
+                    "",
+                    "I know what I want",
+                    "I know what I feel",
+                    "I know what I want",
+                    "",
+                    "So let there be love",
+                    "So let there be love",
+                    "Let there be love"
+                ],
+                "url": "https://cdn.shazam.com/lyrics/v1/en-US/GB/iphone/musixmatch/subtitles/10027095/284/1?token=17e5ecb31326c8d881048f5a990bdeac",
+                "footer": "Writer(s): James Kerr, Charles Burchill\nLyrics powered by www.musixmatch.com",
+                "tabname": "Lyrics",
+                "beacondata": {
+                    "lyricsid": "7528403",
+                    "providername": "musixmatch",
+                    "commontrackid": "10027095"
+                }
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/418284/youtube/video?q=Simple+Minds+%22Let+There+Be+Love%22"
+            },
+            {
+                "type": "RELATED",
+                "url": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-418284?startFrom=0&pageSize=20&connected=",
+                "tabname": "Related"
+            }
+        ],
+        "url": "https://www.shazam.com/track/418284/let-there-be-love",
+        "artists": [
+            {
+                "id": "42",
+                "adamid": "645533"
+            }
+        ],
+        "isrc": "GBAAA0200659",
+        "genres": {
+            "primary": "Pop"
+        },
+        "urlparams": {
+            "{tracktitle}": "Let+There+Be+Love",
+            "{trackartist}": "Simple+Minds"
+        },
+        "myshazam": {
+            "apple": {
+                "actions": [
+                    {
+                        "name": "myshazam:apple",
+                        "type": "uri",
+                        "uri": "https://music.apple.com/gb/album/let-there-be-love/714182486?i=714182858&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                ]
+            }
+        },
+        "highlightsurls": {
+            "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/645533/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+        },
+        "relatedtracksurl": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-418284?startFrom=0&pageSize=20&connected=",
+        "albumadamid": "714182486"
+    },
+    "tagid": "7E2170D4-AE2B-4E72-A70C-3B3237E83301"
+}

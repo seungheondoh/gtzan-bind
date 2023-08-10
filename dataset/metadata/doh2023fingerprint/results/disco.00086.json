@@ -1,0 +1,276 @@
+{
+    "matches": [
+        {
+            "id": "483790377",
+            "offset": 29.899685546,
+            "timeskew": -6.824732e-05,
+            "frequencyskew": 0.0
+        },
+        {
+            "id": "3123678",
+            "offset": 30.816582031000003,
+            "timeskew": 0.0026057959,
+            "frequencyskew": 0.0026211739
+        },
+        {
+            "id": "206698216",
+            "offset": 93.9356875,
+            "timeskew": 0.0055021048,
+            "frequencyskew": 0.0054922104
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691632484479,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "10869690",
+        "title": "I Love the Nightlife (Disco 'Round)",
+        "subtitle": "Alicia Bridges",
+        "images": {
+            "background": "https://is4-ssl.mzstatic.com/image/thumb/Music124/v4/86/62/68/866268fd-1bf6-9c3c-9b61-2a45af47da7b/00731454461825.rgb.jpg/400x400cc.jpg",
+            "coverart": "https://is4-ssl.mzstatic.com/image/thumb/Music124/v4/86/62/68/866268fd-1bf6-9c3c-9b61-2a45af47da7b/00731454461825.rgb.jpg/400x400cc.jpg",
+            "coverarthq": "https://is4-ssl.mzstatic.com/image/thumb/Music124/v4/86/62/68/866268fd-1bf6-9c3c-9b61-2a45af47da7b/00731454461825.rgb.jpg/400x400cc.jpg",
+            "joecolor": "b:575982p:f6f6f8s:dad9edt:d6d7e0q:c0bfd7"
+        },
+        "share": {
+            "subject": "I Love the Nightlife (Disco 'Round) - Alicia Bridges",
+            "text": "I Love the Nightlife (Disco 'Round) by Alicia Bridges",
+            "href": "https://www.shazam.com/track/10869690/i-love-the-nightlife-disco-round",
+            "image": "https://is4-ssl.mzstatic.com/image/thumb/Music124/v4/86/62/68/866268fd-1bf6-9c3c-9b61-2a45af47da7b/00731454461825.rgb.jpg/400x400cc.jpg",
+            "twitter": "I used @Shazam to discover I Love the Nightlife (Disco 'Round) by Alicia Bridges.",
+            "html": "https://www.shazam.com/snippets/email-share/10869690?lang=en-US&country=GB",
+            "snapchat": "https://www.shazam.com/partner/sc/track/10869690"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "actions": [
+                {
+                    "name": "apple",
+                    "type": "applemusicplay",
+                    "id": "1443802513"
+                },
+                {
+                    "name": "apple",
+                    "type": "uri",
+                    "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/c0/b6/54/c0b654d8-4021-aeb5-daba-f8c97a0b2b9a/mzaf_13132227724323559841.plus.aac.ep.m4a"
+                }
+            ],
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/gb/album/i-love-the-nightlife-disco-round/1443802477?i=1443802513&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/gb/album/i-love-the-nightlife-disco-round/1443802477?i=1443802513&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                },
+                {
+                    "caption": "BUY",
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "uri": "https://itunes.apple.com/gb/album/i-love-the-nightlife-disco-round/1443802477?i=1443802513&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "buy",
+                        "providername": "itunes"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "type": "buy",
+                    "listcaption": "Buy on iTunes",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "itunes"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:I%20Love%20the%20Nightlife%20%28Disco%20%27Round%29%20Alicia%20Bridges"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27I+Love+the+Nightlife+%28Disco+%5C%27Round%29%27%20artist%3A%27Alicia+Bridges%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": false,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [
+                    {
+                        "image": "https://is4-ssl.mzstatic.com/image/thumb/Music124/v4/86/62/68/866268fd-1bf6-9c3c-9b61-2a45af47da7b/00731454461825.rgb.jpg/400x400cc.jpg",
+                        "caption": "I Love the Nightlife (Disco 'Round)"
+                    }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                    {
+                        "title": "Album",
+                        "text": "Alicia Bridges: The Collection"
+                    },
+                    {
+                        "title": "Label",
+                        "text": "Spectrum"
+                    },
+                    {
+                        "title": "Released",
+                        "text": "1999"
+                    }
+                ]
+            },
+            {
+                "type": "LYRICS",
+                "text": [
+                    "Please don't talk about love tonight",
+                    "Please don't talk about sweet love",
+                    "Please don't talk about being true",
+                    "And all the trouble we've been through",
+                    "Ah, please don't talk about all of the plans",
+                    "We had for fixin' this broken romance",
+                    "I want to go where the people dance",
+                    "I want some action",
+                    "I want to live",
+                    "",
+                    "Action, I got so much to give",
+                    "I want to give it",
+                    "I want to get some too",
+                    "",
+                    "Oh I, I love the nightlife",
+                    "I've got to boogie",
+                    "On the disco 'round, oh yea",
+                    "Oh, I love the night life",
+                    "I've got to boogie on the disco 'round, oh yeah",
+                    "",
+                    "Please don't talk about love tonight",
+                    "Your sweet talking won't make it right",
+                    "Love and lies just bring me down",
+                    "When you've got women all over town",
+                    "You can love them all and when you're through",
+                    "Maybe that'll make, huh, a man out of you",
+                    "I got to go where the people dance",
+                    "I want some action",
+                    "I want to live, yeah",
+                    "",
+                    "Action",
+                    "I got so much to give",
+                    "I want to give it",
+                    "I want to get some too",
+                    "",
+                    "Oh I, I love the nightlife",
+                    "I've got to boogie",
+                    "On the disco 'round, oh yea",
+                    "Oh, I love the night life",
+                    "I've got to boogie on the disco 'round, oh yea",
+                    "",
+                    "Oh, I love the night life",
+                    "I've got to boogie",
+                    "On the disco 'round, oh yea",
+                    "Oh, I love the night life",
+                    "I've got to boogie",
+                    "On the disco 'round, oh yea",
+                    "Oh, I love the night life",
+                    "I've got to boogie",
+                    "On the disco 'round, oh yea"
+                ],
+                "url": "https://cdn.shazam.com/lyrics/v1/en-US/GB/iphone/musixmatch/subtitles/976787/185/1?token=f50f43495636f74a9f3c9297aa6f0e28",
+                "footer": "Writer(s): Alicia Bridges, Susan Hutcheson\nLyrics powered by www.musixmatch.com",
+                "tabname": "Lyrics",
+                "beacondata": {
+                    "lyricsid": "30503585",
+                    "providername": "musixmatch",
+                    "commontrackid": "976787"
+                }
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/10869690/youtube/video?q=Alicia+Bridges+%22I+Love+the+Nightlife+(Disco+'Round)%22"
+            },
+            {
+                "type": "RELATED",
+                "url": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-10869690?startFrom=0&pageSize=20&connected=",
+                "tabname": "Related"
+            }
+        ],
+        "url": "https://www.shazam.com/track/10869690/i-love-the-nightlife-disco-round",
+        "artists": [
+            {
+                "id": "42",
+                "adamid": "6248035"
+            }
+        ],
+        "isrc": "USPR37800082",
+        "genres": {
+            "primary": "Pop"
+        },
+        "urlparams": {
+            "{tracktitle}": "I+Love+the+Nightlife+%28Disco+%27Round%29",
+            "{trackartist}": "Alicia+Bridges"
+        },
+        "myshazam": {
+            "apple": {
+                "actions": [
+                    {
+                        "name": "myshazam:apple",
+                        "type": "uri",
+                        "uri": "https://music.apple.com/gb/album/i-love-the-nightlife-disco-round/1443802477?i=1443802513&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                ]
+            }
+        },
+        "highlightsurls": {
+            "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/6248035/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+        },
+        "relatedtracksurl": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-10869690?startFrom=0&pageSize=20&connected=",
+        "albumadamid": "1443802477"
+    },
+    "tagid": "A53AAF97-7AF4-4373-B5C2-3EEC396DFDCE"
+}

@@ -1,0 +1,273 @@
+{
+    "matches": [
+        {
+            "id": "436987402",
+            "offset": 29.786966796,
+            "timeskew": 4.053116e-05,
+            "frequencyskew": -4.029274e-05
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691632694405,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "223158",
+        "title": "Thinkin' About You",
+        "subtitle": "Britney Spears",
+        "images": {
+            "background": "https://is4-ssl.mzstatic.com/image/thumb/Features115/v4/53/a7/66/53a76640-0730-3751-19cd-aac7d85c20b8/mzl.izsetnqd.jpeg/800x800cc.jpg",
+            "coverart": "https://is4-ssl.mzstatic.com/image/thumb/Music125/v4/7b/f7/0e/7bf70ecc-b16b-01d8-b14c-00ccae5062c7/dj.wvceujiz.jpg/400x400cc.jpg",
+            "coverarthq": "https://is4-ssl.mzstatic.com/image/thumb/Music125/v4/7b/f7/0e/7bf70ecc-b16b-01d8-b14c-00ccae5062c7/dj.wvceujiz.jpg/400x400cc.jpg",
+            "joecolor": "b:ffedebp:4f190bs:4b291at:724338q:6f5043"
+        },
+        "share": {
+            "subject": "Thinkin' About You - Britney Spears",
+            "text": "Thinkin' About You by Britney Spears",
+            "href": "https://www.shazam.com/track/223158/thinkin-about-you",
+            "image": "https://is4-ssl.mzstatic.com/image/thumb/Music125/v4/7b/f7/0e/7bf70ecc-b16b-01d8-b14c-00ccae5062c7/dj.wvceujiz.jpg/400x400cc.jpg",
+            "twitter": "I used @Shazam to discover Thinkin' About You by Britney Spears.",
+            "html": "https://www.shazam.com/snippets/email-share/223158?lang=en-US&country=GB",
+            "avatar": "https://is4-ssl.mzstatic.com/image/thumb/Features115/v4/53/a7/66/53a76640-0730-3751-19cd-aac7d85c20b8/mzl.izsetnqd.jpeg/800x800cc.jpg",
+            "snapchat": "https://www.shazam.com/partner/sc/track/223158"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "actions": [
+                {
+                    "name": "apple",
+                    "type": "applemusicplay",
+                    "id": "273143836"
+                },
+                {
+                    "name": "apple",
+                    "type": "uri",
+                    "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/35/26/12/35261224-3252-bc1c-23bf-62dd9af8e158/mzaf_9816078048320935596.plus.aac.ep.m4a"
+                }
+            ],
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/gb/album/thinkin-about-you/273143723?i=273143836&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/gb/album/thinkin-about-you/273143723?i=273143836&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                },
+                {
+                    "caption": "BUY",
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "uri": "https://itunes.apple.com/gb/album/thinkin-about-you/273143723?i=273143836&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "buy",
+                        "providername": "itunes"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "type": "buy",
+                    "listcaption": "Buy on iTunes",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "itunes"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:Thinkin%27%20About%20You%20Britney%20Spears"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27Thinkin%5C%27+About+You%27%20artist%3A%27Britney+Spears%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": false,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [
+                    {
+                        "image": "https://is4-ssl.mzstatic.com/image/thumb/Features115/v4/53/a7/66/53a76640-0730-3751-19cd-aac7d85c20b8/mzl.izsetnqd.jpeg/800x800cc.jpg",
+                        "caption": "Britney Spears"
+                    },
+                    {
+                        "image": "https://is4-ssl.mzstatic.com/image/thumb/Music125/v4/7b/f7/0e/7bf70ecc-b16b-01d8-b14c-00ccae5062c7/dj.wvceujiz.jpg/400x400cc.jpg",
+                        "caption": "Thinkin' About You"
+                    }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                    {
+                        "title": "Album",
+                        "text": "...Baby One More Time (Deluxe Version)"
+                    },
+                    {
+                        "title": "Label",
+                        "text": "Jive"
+                    },
+                    {
+                        "title": "Released",
+                        "text": "1999"
+                    }
+                ]
+            },
+            {
+                "type": "LYRICS",
+                "text": [
+                    "Friends say, I'm away",
+                    "Because I'm down with you every day",
+                    "They say, break away",
+                    "I'm missing out on the fun and games",
+                    "But you smile and the words they tell me quickly disappear",
+                    "You speak and there is no other voice that I can hear",
+                    "",
+                    "I spend my days (ooh, ooh)",
+                    "With you (I spend my days)",
+                    "I spend my nights (my nights)",
+                    "Thinkin' about you (thinkin' about you, babe)",
+                    "I spend my days (all day, all night)",
+                    "With you (with you)",
+                    "I spend my nights (my nights)",
+                    "Thinkin' about you",
+                    "",
+                    "You stay on my mind, oh",
+                    "And I think about you all the time (all the time)",
+                    "Day and night",
+                    "Feels so right",
+                    "And for us, there is no end in sight, ooh",
+                    "Each day that I spend around you",
+                    "Passes by too fast",
+                    "Each night that I spend without you",
+                    "Is longer than the last",
+                    "",
+                    "I spend my days (I spend my days)",
+                    "With you (thinkin' about you, babe)",
+                    "I spend my nights (my nights)",
+                    "Thinkin' about you (all day, all night)",
+                    "I spend my days (my days)",
+                    "With you (thinkin' about you)",
+                    "I spend my nights (my nights)",
+                    "Thinkin' about you (thinkin' about you, babe)",
+                    "",
+                    "Ooh, you know I can't get enough of you (can't get enough, yeah)",
+                    "Uh-uh, you know that 24 hours won't ever, ever do (yeah, yeah)",
+                    "",
+                    "I spend my days, with you (with you, with you)",
+                    "I spend my nights (my nights) thinkin' about you",
+                    "I spend my days (I spend my days) with you (with you, baby)",
+                    "I spend my nights (all day, all night) thinkin' about you (all day, all night)",
+                    "I spend my days (thinkin' about you) with you (thinkin' about you)",
+                    "I spend my nights (I spend my days, oh yeah) thinkin' about you",
+                    "I spend my days (with you) with you (thinkin' about you)",
+                    "I spend my nights (thinkin' about you, baby)",
+                    "Thinkin' about you",
+                    "",
+                    "I spend my days (all day, all night)",
+                    "With you (all day, all night)",
+                    "I spend my nights",
+                    "Thinkin' about you",
+                    "I spend my days",
+                    "With you"
+                ],
+                "url": "https://cdn.shazam.com/lyrics/v1/en-US/GB/iphone/musixmatch/subtitles/117993/214/1?token=7b327f28d9d50f4fd1e1b334faca689a",
+                "footer": "Writer(s): Eric F. White, Michael St. Claire\nLyrics powered by www.musixmatch.com",
+                "tabname": "Lyrics",
+                "beacondata": {
+                    "lyricsid": "29500592",
+                    "providername": "musixmatch",
+                    "commontrackid": "117993"
+                }
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/223158/youtube/video?q=Britney+Spears+%22Thinkin'+About+You%22"
+            },
+            {
+                "type": "RELATED",
+                "url": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-223158?startFrom=0&pageSize=20&connected=",
+                "tabname": "Related"
+            }
+        ],
+        "url": "https://www.shazam.com/track/223158/thinkin-about-you",
+        "artists": [
+            {
+                "id": "42",
+                "adamid": "217005"
+            }
+        ],
+        "isrc": "USJI19910458",
+        "genres": {
+            "primary": "Pop"
+        },
+        "urlparams": {
+            "{tracktitle}": "Thinkin%27+About+You",
+            "{trackartist}": "Britney+Spears"
+        },
+        "myshazam": {
+            "apple": {
+                "actions": [
+                    {
+                        "name": "myshazam:apple",
+                        "type": "uri",
+                        "uri": "https://music.apple.com/gb/album/thinkin-about-you/273143723?i=273143836&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                ]
+            }
+        },
+        "highlightsurls": {
+            "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/217005/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+        },
+        "relatedtracksurl": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-223158?startFrom=0&pageSize=20&connected=",
+        "albumadamid": "273143723"
+    },
+    "tagid": "32EB5D56-2BBD-47A5-B4D9-2C8D5FD713A9"
+}

@@ -1,0 +1,262 @@
+{
+    "matches": [
+        {
+            "id": "212490322",
+            "offset": 31.524332031,
+            "timeskew": 0.02002287,
+            "frequencyskew": 0.020053387
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691633368127,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "5210189",
+        "title": "Just to Hear You Say That You Love Me (with Tim McGraw)",
+        "subtitle": "Faith Hill",
+        "images": {
+            "background": "https://is1-ssl.mzstatic.com/image/thumb/Features115/v4/31/a5/35/31a5350d-27e5-5618-ff8e-4720443ea83a/mzl.neyyknrw.jpg/800x800cc.jpg",
+            "coverart": "https://is2-ssl.mzstatic.com/image/thumb/Music124/v4/27/77/d0/2777d0b0-656f-a248-5ea0-d26484a68745/mzi.bkigvccw.jpg/400x400cc.jpg",
+            "coverarthq": "https://is2-ssl.mzstatic.com/image/thumb/Music124/v4/27/77/d0/2777d0b0-656f-a248-5ea0-d26484a68745/mzi.bkigvccw.jpg/400x400cc.jpg",
+            "joecolor": "b:fbfcf4p:421d06s:4a2811t:674936q:6d523e"
+        },
+        "share": {
+            "subject": "Just to Hear You Say That You Love Me (with Tim McGraw) - Faith Hill",
+            "text": "Just to Hear You Say That You Love Me (with Tim McGraw) by Faith Hill",
+            "href": "https://www.shazam.com/track/5210189/just-to-hear-you-say-that-you-love-me-with-tim-mcgraw",
+            "image": "https://is2-ssl.mzstatic.com/image/thumb/Music124/v4/27/77/d0/2777d0b0-656f-a248-5ea0-d26484a68745/mzi.bkigvccw.jpg/400x400cc.jpg",
+            "twitter": "I used @Shazam to discover Just to Hear You Say That You Love Me (with Tim McGraw) by Faith Hill.",
+            "html": "https://www.shazam.com/snippets/email-share/5210189?lang=en-US&country=GB",
+            "avatar": "https://is1-ssl.mzstatic.com/image/thumb/Features115/v4/31/a5/35/31a5350d-27e5-5618-ff8e-4720443ea83a/mzl.neyyknrw.jpg/800x800cc.jpg",
+            "snapchat": "https://www.shazam.com/partner/sc/track/5210189"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "actions": [
+                {
+                    "name": "apple",
+                    "type": "applemusicplay",
+                    "id": "331699713"
+                },
+                {
+                    "name": "apple",
+                    "type": "uri",
+                    "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/88/00/1a/88001a4d-f27d-2219-b887-0bac4346a030/mzaf_7092355932016669475.plus.aac.ep.m4a"
+                }
+            ],
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/gb/album/just-to-hear-you-say-that-you-love-me-with-tim-mcgraw/331699198?i=331699713&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/gb/album/just-to-hear-you-say-that-you-love-me-with-tim-mcgraw/331699198?i=331699713&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                },
+                {
+                    "caption": "BUY",
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "uri": "https://itunes.apple.com/gb/album/just-to-hear-you-say-that-you-love-me-with-tim-mcgraw/331699198?i=331699713&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "buy",
+                        "providername": "itunes"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "type": "buy",
+                    "listcaption": "Buy on iTunes",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "itunes"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:Just%20to%20Hear%20You%20Say%20That%20You%20Love%20Me%20%28with%20Tim%20McGraw%29%20Faith%20Hill"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27Just+to+Hear+You+Say+That+You+Love+Me+%28with+Tim+McGraw%29%27%20artist%3A%27Faith+Hill%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": false,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [
+                    {
+                        "image": "https://is1-ssl.mzstatic.com/image/thumb/Features115/v4/31/a5/35/31a5350d-27e5-5618-ff8e-4720443ea83a/mzl.neyyknrw.jpg/800x800cc.jpg",
+                        "caption": "Faith Hill"
+                    },
+                    {
+                        "image": "https://is2-ssl.mzstatic.com/image/thumb/Music124/v4/27/77/d0/2777d0b0-656f-a248-5ea0-d26484a68745/mzi.bkigvccw.jpg/400x400cc.jpg",
+                        "caption": "Just to Hear You Say That You Love Me (with Tim McGraw)"
+                    }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                    {
+                        "title": "Album",
+                        "text": "Faith"
+                    },
+                    {
+                        "title": "Label",
+                        "text": "Warner Records/Nashville"
+                    },
+                    {
+                        "title": "Released",
+                        "text": "1998"
+                    }
+                ]
+            },
+            {
+                "type": "LYRICS",
+                "text": [
+                    "If I could win your heart, you'd let me in your heart",
+                    "I'd be so happy, baby",
+                    "Just for these arms to be holding you close to me",
+                    "There's nothing in this world I won't try",
+                    "No limit to what I'd do to make you mine, 'cause",
+                    "",
+                    "I'd climb right up to the sky",
+                    "Take down the stars, just to be in your arms, baby",
+                    "I'd go and capture the moon, that's what I would do",
+                    "Just to hear you say that you love me",
+                    "Just to hear you say that you love me",
+                    "",
+                    "If I could taste your kiss, there'd be no sweeter gift",
+                    "Heaven could offer baby, ooh",
+                    "I want to be the one (I wanna be the one)",
+                    "Living to give you love",
+                    "I'd walk across this world just to be",
+                    "Close to you 'cause I want you close to me, yeah",
+                    "",
+                    "I'd climb right up to the sky",
+                    "Take down the stars, just to be in your arms, baby",
+                    "I'd go and capture the moon, that's what I would do",
+                    "Just to hear you say that you love me",
+                    "Just to hear you say that you love me",
+                    "",
+                    "For the rest of your life (for the rest of your life)",
+                    "Love me for the rest of all time (oh baby, baby)",
+                    "Just say the word, and I'll give you my world",
+                    "There's nothing I won't do, baby, just to be with you",
+                    "",
+                    "I'd climb right up to the sky (up to the sky)",
+                    "Take down the stars, just to be in your arms, baby",
+                    "I'd go and capture the moon, that's what I would do (capture the moon)",
+                    "Just to hear you say that you love me",
+                    "Just to hear you say that you love me, baby",
+                    "",
+                    "Just to hear you say that you love me",
+                    "I need to hear you say that you love me, baby (just to hear you say that you love me)",
+                    "Just to hear you say that love me (just say you love me baby)",
+                    "Just say that you love me (oh I need you to love me)",
+                    "Just say you love me",
+                    "",
+                    "Just to hear you say that you love me"
+                ],
+                "url": "https://cdn.shazam.com/lyrics/v1/en-US/GB/iphone/musixmatch/subtitles/50065956/268/1?token=16b7a0a32d5cd443d3adbb3a950a0946",
+                "footer": "Writer(s): Diane Eve Warren\nLyrics powered by www.musixmatch.com",
+                "tabname": "Lyrics",
+                "beacondata": {
+                    "lyricsid": "25785548",
+                    "providername": "musixmatch",
+                    "commontrackid": "50065956"
+                }
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/5210189/youtube/video?q=Faith+Hill+%22Just+to+Hear+You+Say+That+You+Love+Me+(with+Tim+McGraw)%22"
+            },
+            {
+                "type": "RELATED",
+                "url": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-5210189?startFrom=0&pageSize=20&connected=",
+                "tabname": "Related"
+            }
+        ],
+        "url": "https://www.shazam.com/track/5210189/just-to-hear-you-say-that-you-love-me-with-tim-mcgraw",
+        "artists": [
+            {
+                "id": "42",
+                "adamid": "168620"
+            }
+        ],
+        "isrc": "USWB19800131",
+        "genres": {
+            "primary": "Country"
+        },
+        "urlparams": {
+            "{tracktitle}": "Just+to+Hear+You+Say+That+You+Love+Me+%28with+Tim+McGraw%29",
+            "{trackartist}": "Faith+Hill"
+        },
+        "myshazam": {
+            "apple": {
+                "actions": [
+                    {
+                        "name": "myshazam:apple",
+                        "type": "uri",
+                        "uri": "https://music.apple.com/gb/album/just-to-hear-you-say-that-you-love-me-with-tim-mcgraw/331699198?i=331699713&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                ]
+            }
+        },
+        "highlightsurls": {
+            "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/168620/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+        },
+        "relatedtracksurl": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-5210189?startFrom=0&pageSize=20&connected=",
+        "albumadamid": "331699198"
+    },
+    "tagid": "A27209DE-197F-4F0B-A63A-F45DF5EF0E13"
+}

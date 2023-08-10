@@ -1,0 +1,299 @@
+{
+    "matches": [
+        {
+            "id": "368881466",
+            "offset": 30.062320312,
+            "timeskew": 9.655952e-06,
+            "frequencyskew": -8.0525875e-05
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691632987817,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "263042",
+        "title": "A to the K",
+        "subtitle": "Cypress Hill",
+        "images": {
+            "background": "https://is2-ssl.mzstatic.com/image/thumb/Features125/v4/a2/a5/b2/a2a5b2a9-face-ea63-facc-9d3afc837d83/pr_source.png/800x800cc.jpg",
+            "coverart": "https://is2-ssl.mzstatic.com/image/thumb/Music115/v4/f0/6f/0d/f06f0d17-87e4-8c35-723a-76870e60d3e2/5099747407529.jpg/400x400cc.jpg",
+            "coverarthq": "https://is2-ssl.mzstatic.com/image/thumb/Music115/v4/f0/6f/0d/f06f0d17-87e4-8c35-723a-76870e60d3e2/5099747407529.jpg/400x400cc.jpg",
+            "joecolor": "b:171918p:e0e0e0s:d7c4act:b8b8b8q:b1a28e"
+        },
+        "share": {
+            "subject": "A to the K - Cypress Hill",
+            "text": "A to the K by Cypress Hill",
+            "href": "https://www.shazam.com/track/263042/a-to-the-k",
+            "image": "https://is2-ssl.mzstatic.com/image/thumb/Music115/v4/f0/6f/0d/f06f0d17-87e4-8c35-723a-76870e60d3e2/5099747407529.jpg/400x400cc.jpg",
+            "twitter": "I used @Shazam to discover A to the K by Cypress Hill.",
+            "html": "https://www.shazam.com/snippets/email-share/263042?lang=en-US&country=GB",
+            "avatar": "https://is2-ssl.mzstatic.com/image/thumb/Features125/v4/a2/a5/b2/a2a5b2a9-face-ea63-facc-9d3afc837d83/pr_source.png/800x800cc.jpg",
+            "snapchat": "https://www.shazam.com/partner/sc/track/263042"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "actions": [
+                {
+                    "name": "apple",
+                    "type": "applemusicplay",
+                    "id": "266797864"
+                },
+                {
+                    "name": "apple",
+                    "type": "uri",
+                    "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/27/07/f2/2707f2f5-04f6-85e8-dff4-65733b453585/mzaf_5352964956324531243.plus.aac.ep.m4a"
+                }
+            ],
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/gb/album/a-to-the-k/266797392?i=266797864&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/gb/album/a-to-the-k/266797392?i=266797864&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                },
+                {
+                    "caption": "BUY",
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "uri": "https://itunes.apple.com/gb/album/a-to-the-k/266797392?i=266797864&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "buy",
+                        "providername": "itunes"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "type": "buy",
+                    "listcaption": "Buy on iTunes",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "itunes"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:A%20to%20the%20K%20Cypress%20Hill"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27A+to+the+K%27%20artist%3A%27Cypress+Hill%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": true,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [
+                    {
+                        "image": "https://is2-ssl.mzstatic.com/image/thumb/Features125/v4/a2/a5/b2/a2a5b2a9-face-ea63-facc-9d3afc837d83/pr_source.png/800x800cc.jpg",
+                        "caption": "Cypress Hill"
+                    },
+                    {
+                        "image": "https://is2-ssl.mzstatic.com/image/thumb/Music115/v4/f0/6f/0d/f06f0d17-87e4-8c35-723a-76870e60d3e2/5099747407529.jpg/400x400cc.jpg",
+                        "caption": "A to the K"
+                    }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                    {
+                        "title": "Album",
+                        "text": "Black Sunday"
+                    },
+                    {
+                        "title": "Label",
+                        "text": "Columbia"
+                    },
+                    {
+                        "title": "Released",
+                        "text": "1993"
+                    }
+                ]
+            },
+            {
+                "type": "LYRICS",
+                "text": [
+                    "(From the movie Who's the man?)",
+                    "You heard it on the radio you see it on the TV show",
+                    "A to the K? ... A to the motherfuckin' Z",
+                    "",
+                    "(B-Real)",
+                    "A to the motherfuckin K homeboy",
+                    "A to the motherfuckin K (to the what?)",
+                    "A to the motherfuckin K homeboy",
+                    "A to the motherfuckin K",
+                    "",
+                    "One, life had begun for the ruffneck",
+                    "Kid who was gonna put niggaz in check",
+                    "EIGHTEEN, G, for the green",
+                    "OBSCENE, and it's for the time being",
+                    "I'm pickin nine, hell I'm out to get mine",
+                    "And pick two homies, three com-bine",
+                    "Next thing you know, jump in the six-fo'",
+                    "Get out, cock the hammer, then kick down the do'",
+                    "",
+                    "A to the motherfuckin K homeboy",
+                    "A to the motherfuckin K (A to the K!)",
+                    "A to the motherfuckin K homeboy",
+                    "A to the motherfuckin K (motherfuckin K?!)",
+                    "A to the motherfuckin K homeboy",
+                    "A to the motherfuckin K (A to the K!)",
+                    "A to the motherfuckin K homeboy",
+                    "A TO THE MOTHERFUCKIN K",
+                    "",
+                    "(Sen Dog)",
+                    "Couple niggaz from the Eastside, headed EastBOUND",
+                    "Lookin for a pound, to haul around town",
+                    "Here comes a clown, I gotta hold my ground",
+                    "Hear the slug comin, when it come you fall down",
+                    "BUCKDOWN, dead sound, that's what you found",
+                    "That's what you get when you fuck the BROWN",
+                    "DOG, Sen is comin, to the mound",
+                    "La Vida from Cypress, rips your compound",
+                    "Shit gets deep, eight niggaz on the ground",
+                    "What do you know? What - go ah-round come around!",
+                    "Six for the pig, and his punk hound",
+                    "Hail to the king pig, or you get CROWNED",
+                    "Or better yet, I'll roll you up like a fat J",
+                    "",
+                    "(B-Real)",
+                    "A to the motherfuckin K homeboy",
+                    "A to the motherfuckin K (A to the K!)",
+                    "A to the motherfuckin K homeboy",
+                    "A to the motherfuckin K (motherfuckin K?!)",
+                    "A to the motherfuckin K homeboy",
+                    "A to the motherfuckin K (A to the K!)",
+                    "A to the motherfuckin K homeboy",
+                    "A TO THE MOTHERFUCKIN K",
+                    "",
+                    "It's gonna be on. it's gonna be on.",
+                    "(It's gonna be on. GOIN ON!)",
+                    "It's gonna be on. it's gonna be on.",
+                    "(It's gonna be on. GOIN ON!)",
+                    "It's gonna be on. it's gonna be on.",
+                    "(It's gonna be on. GOIN ON!)",
+                    "",
+                    "(B-Real)",
+                    "Gimme that WEED fool and all your loot too",
+                    "I got a nigga in the back and the blunt for your crew",
+                    "Loaded and cocked for any hardrock",
+                    "If you're takin my weed, I'm takin over your spot",
+                    "Keep your face down as I take your pound",
+                    "Don't let me see nobody get up, just hug the ground",
+                    "(STAY STILL) And don't make a sound",
+                    "As I get out the door, headed Eastbound",
+                    "But, why did the fool try to act brave? (act brave)",
+                    "Clip from the nine equals six to the grave",
+                    "",
+                    "A to the motherfuckin K homeboy",
+                    "A to the motherfuckin K (A to the K!)",
+                    "A to the motherfuckin K homeboy",
+                    "A to the motherfuckin K (motherfuckin K?!)",
+                    "A to the motherfuckin K homeboy",
+                    "A to the motherfuckin K (A to the K!)",
+                    "A to the motherfuckin K homeboy",
+                    "A TO THE MOTHERFUCKIN K"
+                ],
+                "url": "https://cdn.shazam.com/lyrics/v1/en-US/GB/iphone/musixmatch/subtitles/23875/207/1?token=d65e8f685d12904bc0b1402e33c5cd68",
+                "footer": "Writer(s): Louis Freeze, Larry Muggerud, Senen Reyes\nLyrics powered by www.musixmatch.com",
+                "tabname": "Lyrics",
+                "beacondata": {
+                    "lyricsid": "8327369",
+                    "providername": "musixmatch",
+                    "commontrackid": "23875"
+                }
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/263042/youtube/video?q=Cypress+Hill+%22A+to+the+K%22"
+            },
+            {
+                "type": "RELATED",
+                "url": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-263042?startFrom=0&pageSize=20&connected=",
+                "tabname": "Related"
+            }
+        ],
+        "url": "https://www.shazam.com/track/263042/a-to-the-k",
+        "artists": [
+            {
+                "id": "42",
+                "adamid": "465802"
+            }
+        ],
+        "isrc": "USSM19303142",
+        "genres": {
+            "primary": "West Coast Rap"
+        },
+        "urlparams": {
+            "{tracktitle}": "A+to+the+K",
+            "{trackartist}": "Cypress+Hill"
+        },
+        "myshazam": {
+            "apple": {
+                "actions": [
+                    {
+                        "name": "myshazam:apple",
+                        "type": "uri",
+                        "uri": "https://music.apple.com/gb/album/a-to-the-k/266797392?i=266797864&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                ]
+            }
+        },
+        "highlightsurls": {
+            "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/465802/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+        },
+        "relatedtracksurl": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-263042?startFrom=0&pageSize=20&connected=",
+        "albumadamid": "266797392"
+    },
+    "tagid": "9BCB2E8B-CD63-47D3-844F-6DC000340BCF"
+}

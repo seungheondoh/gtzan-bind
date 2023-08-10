@@ -1,0 +1,126 @@
+{
+    "matches": [
+        {
+            "id": "319177361",
+            "offset": 108.635492187,
+            "timeskew": 0.039446235,
+            "frequencyskew": 0.0075190067
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691633068115,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "319177361",
+        "title": "A Long Walk To Freedom (Lycii & Joe Lyons Remix)",
+        "subtitle": "LTN",
+        "share": {
+            "subject": "A Long Walk To Freedom (Lycii & Joe Lyons Remix) - LTN",
+            "text": "A Long Walk To Freedom (Lycii & Joe Lyons Remix) by LTN",
+            "href": "https://www.shazam.com/track/319177361/a-long-walk-to-freedom-lycii-and-joe-lyons-remix",
+            "twitter": "I used @Shazam to discover A Long Walk To Freedom (Lycii & Joe Lyons Remix) by LTN.",
+            "html": "https://www.shazam.com/snippets/email-share/319177361?lang=en-US&country=GB",
+            "snapchat": "https://www.shazam.com/partner/sc/track/319177361"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:subscribe",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/subscribe?mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:subscribe",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/subscribe?mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:A%20Long%20Walk%20To%20Freedom%20%28Lycii%20%26%20Joe%20Lyons%20Remix%29%20LTN"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27A+Long+Walk+To+Freedom+%28Lycii++Joe+Lyons+Remix%29%27%20artist%3A%27LTN%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": false,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [],
+                "tabname": "Song",
+                "metadata": [
+                    {
+                        "title": "Title",
+                        "text": "A Long Walk To Freedom (Lycii & Joe Lyons Remix)"
+                    }
+                ]
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/319177361/youtube/video?q=LTN+%22A+Long+Walk+To+Freedom+(Lycii+%26+Joe+Lyons+Remix)%22"
+            },
+            {
+                "type": "RELATED",
+                "url": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-319177361?startFrom=0&pageSize=20&connected=",
+                "tabname": "Related"
+            }
+        ],
+        "url": "https://www.shazam.com/track/319177361/a-long-walk-to-freedom-lycii-and-joe-lyons-remix",
+        "urlparams": {
+            "{tracktitle}": "A+Long+Walk+To+Freedom+%28Lycii+%26+Joe+Lyons+Remix%29",
+            "{trackartist}": "LTN"
+        },
+        "highlightsurls": {},
+        "relatedtracksurl": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-319177361?startFrom=0&pageSize=20&connected="
+    },
+    "tagid": "6C7198EE-4997-46D4-A8AA-BB610EDE0A50"
+}

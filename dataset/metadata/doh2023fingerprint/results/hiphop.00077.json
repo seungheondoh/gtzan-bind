@@ -1,0 +1,323 @@
+{
+    "matches": [
+        {
+            "id": "268306422",
+            "offset": 29.932773437,
+            "timeskew": -6.4373016e-05,
+            "frequencyskew": -0.000120818615
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691632972466,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "5171246",
+        "title": "What's It Gonna Be?! (feat. Janet)",
+        "subtitle": "Busta Rhymes",
+        "images": {
+            "background": "https://is5-ssl.mzstatic.com/image/thumb/Features115/v4/0e/db/80/0edb80e7-9d82-2dad-1a42-cae586398876/pr_source.png/800x800cc.jpg",
+            "coverart": "https://is5-ssl.mzstatic.com/image/thumb/Music/a9/66/3f/mzi.cpwczyjb.jpg/400x400cc.jpg",
+            "coverarthq": "https://is5-ssl.mzstatic.com/image/thumb/Music/a9/66/3f/mzi.cpwczyjb.jpg/400x400cc.jpg",
+            "joecolor": "b:221715p:fef2e6s:f57e3ft:d2c6bcq:ca6936"
+        },
+        "share": {
+            "subject": "What's It Gonna Be?! (feat. Janet) - Busta Rhymes",
+            "text": "What's It Gonna Be?! (feat. Janet) by Busta Rhymes",
+            "href": "https://www.shazam.com/track/5171246/whats-it-gonna-be-feat-janet",
+            "image": "https://is5-ssl.mzstatic.com/image/thumb/Music/a9/66/3f/mzi.cpwczyjb.jpg/400x400cc.jpg",
+            "twitter": "I used @Shazam to discover What's It Gonna Be?! (feat. Janet) by Busta Rhymes.",
+            "html": "https://www.shazam.com/snippets/email-share/5171246?lang=en-US&country=GB",
+            "avatar": "https://is5-ssl.mzstatic.com/image/thumb/Features115/v4/0e/db/80/0edb80e7-9d82-2dad-1a42-cae586398876/pr_source.png/800x800cc.jpg",
+            "snapchat": "https://www.shazam.com/partner/sc/track/5171246"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "actions": [
+                {
+                    "name": "apple",
+                    "type": "applemusicplay",
+                    "id": "322122830"
+                },
+                {
+                    "name": "apple",
+                    "type": "uri",
+                    "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/62/d1/69/62d16954-3eba-058e-4ace-fb5b7f5c9b3f/mzaf_17479833553445375392.plus.aac.ep.m4a"
+                }
+            ],
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/gb/album/whats-it-gonna-be-feat-janet/322122753?i=322122830&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/gb/album/whats-it-gonna-be-feat-janet/322122753?i=322122830&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                },
+                {
+                    "caption": "BUY",
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "uri": "https://itunes.apple.com/gb/album/whats-it-gonna-be-feat-janet/322122753?i=322122830&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "buy",
+                        "providername": "itunes"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "type": "buy",
+                    "listcaption": "Buy on iTunes",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "itunes"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:What%27s%20It%20Gonna%20Be%3F%21%20%28feat.%20Janet%29%20Busta%20Rhymes"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27What%5C%27s+It+Gonna+Be%3F%21+%28feat.+Janet%29%27%20artist%3A%27Busta+Rhymes%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": true,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [
+                    {
+                        "image": "https://is5-ssl.mzstatic.com/image/thumb/Features115/v4/0e/db/80/0edb80e7-9d82-2dad-1a42-cae586398876/pr_source.png/800x800cc.jpg",
+                        "caption": "Busta Rhymes"
+                    },
+                    {
+                        "image": "https://is5-ssl.mzstatic.com/image/thumb/Music/a9/66/3f/mzi.cpwczyjb.jpg/400x400cc.jpg",
+                        "caption": "What's It Gonna Be?! (feat. Janet)"
+                    }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                    {
+                        "title": "Album",
+                        "text": "Extinction Level Event: The Final World Front"
+                    },
+                    {
+                        "title": "Label",
+                        "text": "Rhino/Elektra"
+                    },
+                    {
+                        "title": "Released",
+                        "text": "1998"
+                    }
+                ]
+            },
+            {
+                "type": "LYRICS",
+                "text": [
+                    "Ah, ah",
+                    "Ah, ah",
+                    "Ah, ah",
+                    "C'mon",
+                    "Ah, ah, ah, oh, oh, oh",
+                    "Oh",
+                    "Ah",
+                    "Yeah, Busta Rhymes, Janet Jackson",
+                    "Here we go",
+                    "One time",
+                    "",
+                    "Baby, just tell me just how you feel",
+                    "We livin' it and just givin' it to you for real",
+                    "Baby, c'mon",
+                    "Every time, we crossin' the borderline",
+                    "We givin' it to you, makin' you feel fine",
+                    "Turn the heat up",
+                    "Better believe we gonna shine",
+                    "Make your body wind",
+                    "Baby, the pleasure is all mine",
+                    "To my people regulatin' the dance floor",
+                    "Better step to your business, handle yours, how we do it",
+                    "Makin' ou people just wanna bounce and get busy because",
+                    "You know that we always will hit you off, what you say",
+                    "You wonderin' why you feelin' the force",
+                    "And don't you worry 'cause you'll be ready to floss",
+                    "More heat 'cause I always will put you on",
+                    "And blow the spot to the very second I'm gone",
+                    "Get your groove on",
+                    "Now that you tired, I hope your body recoupin'",
+                    "Because we keeping you movin' that",
+                    "What we doin' and you know we're gonna",
+                    "",
+                    "Gonna make, gonna make, gonna make your body wet",
+                    "(Make your body wet)",
+                    "Gonna make, gonna make your body scream out yeah",
+                    "(Make your body just scream out yeah, yeah)",
+                    "Gonna make, gonna make you think them naughty things",
+                    "(Make you think them naughty things)",
+                    "Of me on you",
+                    "(All me on you)",
+                    "And you on me",
+                    "What's it gonna be?!",
+                    "(What's it gonna be?!)",
+                    "Gonna make, gonna make, gonna make your body wet",
+                    "(Make your body wet, c'mon)",
+                    "Gonna make, gonna make your body scream out yeah",
+                    "(Make your body scream yeah, yeah, yeah, yeah)",
+                    "Gonna make, gonna make, gonna make your body cream",
+                    "(Make your body cream)",
+                    "Make you have wet dreams",
+                    "(Make you have wet dreams)",
+                    "What, what, what, what's it gonna be?!",
+                    "",
+                    "All my people singing and waving your hands high",
+                    "Hot shit, burnin' and makin' your ass fry",
+                    "Baby, c'mon, give you the shit that'll make you quiver",
+                    "While I deliver the shit that'll hit you right in your liver",
+                    "Always sound scannin', we never leave you hangin'",
+                    "I'm always doin' my thing and my music always be bangin'",
+                    "So check it, you know we always be movin' the crowd",
+                    "Type of feelin' that make you wanna go play it loud",
+                    "What up?",
+                    "When---we---come---and hit you",
+                    "Best believe we really gonna get you",
+                    "No matter whatever you wanna flaunt",
+                    "We be rippin' it baby, so what you want",
+                    "Here we go",
+                    "Pintin' a picture, we keep it hot in the winter",
+                    "Now big up my people, you know I'm always with you",
+                    "Flip Mode",
+                    "We blowin' and takin' over the planet",
+                    "Full blast, hittin' with Busta Rhymes and Janet",
+                    "And you know we're gonna",
+                    "",
+                    "We gonna make your body real wet (Wet)",
+                    "We gonna make your body say yeah (Yeah)",
+                    "I wanna know where my real dogs is at",
+                    "I wanna know where my live women is at",
+                    "We gonna make your body real wet (Wet)",
+                    "We gonna make your body say yeah (Yeah)",
+                    "Everybody wave your hands real high",
+                    "And let me see you put 'em up in the sky",
+                    "C'mon, makin' my niggaz just say \"ho\"",
+                    "Word up, and makin' you women just say \"ah\"",
+                    "Baby, c'mon, bringin' it to you in many ways",
+                    "We makin' and takin' you people right through another phase",
+                    "C'mon, we rockin' it, baby, that's how we droppin' it, baby",
+                    "There ain't no stoppin' it, baby, I know we drivin' you crazy",
+                    "And then we hit with the greatest of all time",
+                    "No matter what you do, baby, we gonna shine",
+                    "And you know we're gonna",
+                    "",
+                    "Busta Rhymes, Janet Jackson",
+                    "Flip Mode, baby, what",
+                    "(Yeah, yeah)",
+                    "What it's gonna be",
+                    "What it's gonna be",
+                    "What it's gonna be",
+                    "What it's gonna be",
+                    "What, what, what, what, what, what",
+                    "(Yeah)",
+                    "Uh, uh, uh, uh, uh, uh, uh, uh, uh, uh",
+                    "Close the door..."
+                ],
+                "url": "https://cdn.shazam.com/lyrics/v1/en-US/GB/iphone/musixmatch/subtitles/10618415/324/1?token=8f1a9471cf6bf149e249ce61a37fadd4",
+                "footer": "Writer(s): Darryl Allamby, Trevor Smith, Antoinette Roberson\nLyrics powered by www.musixmatch.com",
+                "tabname": "Lyrics",
+                "beacondata": {
+                    "lyricsid": "13944269",
+                    "providername": "musixmatch",
+                    "commontrackid": "10618415"
+                }
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/5171246/youtube/video?q=Busta+Rhymes+%22What's+It+Gonna+Be?!+(feat.+Janet)%22"
+            },
+            {
+                "type": "RELATED",
+                "url": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-5171246?startFrom=0&pageSize=20&connected=",
+                "tabname": "Related"
+            }
+        ],
+        "url": "https://www.shazam.com/track/5171246/whats-it-gonna-be-feat-janet",
+        "artists": [
+            {
+                "id": "42",
+                "adamid": "54583"
+            }
+        ],
+        "isrc": "USEE10900633",
+        "genres": {
+            "primary": "Hip-Hop/Rap"
+        },
+        "urlparams": {
+            "{tracktitle}": "What%27s+It+Gonna+Be%3F%21+%28feat.+Janet%29",
+            "{trackartist}": "Busta+Rhymes"
+        },
+        "myshazam": {
+            "apple": {
+                "actions": [
+                    {
+                        "name": "myshazam:apple",
+                        "type": "uri",
+                        "uri": "https://music.apple.com/gb/album/whats-it-gonna-be-feat-janet/322122753?i=322122830&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                ]
+            }
+        },
+        "highlightsurls": {
+            "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/54583/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+        },
+        "relatedtracksurl": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-5171246?startFrom=0&pageSize=20&connected=",
+        "albumadamid": "322122753"
+    },
+    "tagid": "EB5A5A49-6CFE-4A9C-9C21-FB40D3B2056B"
+}

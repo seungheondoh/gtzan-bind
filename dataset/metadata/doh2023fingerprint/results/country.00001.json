@@ -1,0 +1,265 @@
+{
+    "matches": [
+        {
+            "id": "213819555",
+            "offset": 127.337789062,
+            "timeskew": 0.020202875,
+            "frequencyskew": 0.020053387
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691633392394,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "10240290",
+        "title": "That's the Kind of Mood I'm In*",
+        "subtitle": "Patty Loveless",
+        "images": {
+            "background": "https://is2-ssl.mzstatic.com/image/thumb/Features125/v4/c9/fe/ae/c9feae2c-5aa6-362b-6c07-46da1d928fba/mzl.qnmkzpiy.jpg/800x800cc.jpg",
+            "coverart": "https://is5-ssl.mzstatic.com/image/thumb/Music/72/df/5e/mzi.nxahfimt.jpg/400x400cc.jpg",
+            "coverarthq": "https://is5-ssl.mzstatic.com/image/thumb/Music/72/df/5e/mzi.nxahfimt.jpg/400x400cc.jpg",
+            "joecolor": "b:f2f4f3p:391e1bs:4e1f21t:5e4946q:6f4a4b"
+        },
+        "share": {
+            "subject": "That's the Kind of Mood I'm In* - Patty Loveless",
+            "text": "That's the Kind of Mood I'm In* by Patty Loveless",
+            "href": "https://www.shazam.com/track/10240290/thats-the-kind-of-mood-im-in",
+            "image": "https://is5-ssl.mzstatic.com/image/thumb/Music/72/df/5e/mzi.nxahfimt.jpg/400x400cc.jpg",
+            "twitter": "I used @Shazam to discover That's the Kind of Mood I'm In* by Patty Loveless.",
+            "html": "https://www.shazam.com/snippets/email-share/10240290?lang=en-US&country=GB",
+            "avatar": "https://is2-ssl.mzstatic.com/image/thumb/Features125/v4/c9/fe/ae/c9feae2c-5aa6-362b-6c07-46da1d928fba/mzl.qnmkzpiy.jpg/800x800cc.jpg",
+            "snapchat": "https://www.shazam.com/partner/sc/track/10240290"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "actions": [
+                {
+                    "name": "apple",
+                    "type": "applemusicplay",
+                    "id": "170083505"
+                },
+                {
+                    "name": "apple",
+                    "type": "uri",
+                    "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/9f/fa/6c/9ffa6ca8-d9fe-6bfd-e0dc-fe040172ecd9/mzaf_14123515636641414447.plus.aac.ep.m4a"
+                }
+            ],
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/gb/album/thats-the-kind-of-mood-im-in/170083356?i=170083505&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/gb/album/thats-the-kind-of-mood-im-in/170083356?i=170083505&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                },
+                {
+                    "caption": "BUY",
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "uri": "https://itunes.apple.com/gb/album/thats-the-kind-of-mood-im-in/170083356?i=170083505&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "buy",
+                        "providername": "itunes"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "type": "buy",
+                    "listcaption": "Buy on iTunes",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "itunes"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:That%27s%20the%20Kind%20of%20Mood%20I%27m%20In*%20Patty%20Loveless"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27That%5C%27s+the+Kind+of+Mood+I%5C%27m+In*%27%20artist%3A%27Patty+Loveless%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": false,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [
+                    {
+                        "image": "https://is2-ssl.mzstatic.com/image/thumb/Features125/v4/c9/fe/ae/c9feae2c-5aa6-362b-6c07-46da1d928fba/mzl.qnmkzpiy.jpg/800x800cc.jpg",
+                        "caption": "Patty Loveless"
+                    },
+                    {
+                        "image": "https://is5-ssl.mzstatic.com/image/thumb/Music/72/df/5e/mzi.nxahfimt.jpg/400x400cc.jpg",
+                        "caption": "That's the Kind of Mood I'm In*"
+                    }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                    {
+                        "title": "Album",
+                        "text": "Strong Heart"
+                    },
+                    {
+                        "title": "Label",
+                        "text": "Epic/Nashville"
+                    },
+                    {
+                        "title": "Released",
+                        "text": "2000"
+                    }
+                ]
+            },
+            {
+                "type": "LYRICS",
+                "text": [
+                    "I'll tell you what we're in a rut we're in a deep rut",
+                    "So habitual, predictable I'll tell you what we ought to do",
+                    "We ought to drive away, fly away find a way to get away",
+                    "We need a break from the same old thing of nothin' new",
+                    "",
+                    "Want to go out on a limb, on a whim, yeah",
+                    "That's the kind of mood I'm in",
+                    "",
+                    "Let's go somewhere, nowhere we've heard of",
+                    "Hang the sign out, do not disturb us",
+                    "Get a wake-up call about 3 p.m.",
+                    "That's the kind of mood I'm in",
+                    "",
+                    "A little shake-up take the chain and rattle it",
+                    "Try to catch the wind and saddle it",
+                    "Fall in love all over again, yeah",
+                    "That's the kind of mood I'm in",
+                    "",
+                    "I'll tell you this I want a kiss I want a long kiss",
+                    "The kind of deep that moves the ground",
+                    "Thing you used to do to me",
+                    "I want to dance a little, dream a little baby, just live a little",
+                    "Make my heart rate elevate bring it up a few degrees",
+                    "",
+                    "Get me goin' with the wind, now and then, yeah",
+                    "That's the kind of mood I'm in",
+                    "",
+                    "Let's go somewhere, nowhere we've heard of",
+                    "Hang the sign out, do not disturb us",
+                    "Get a wake-up call about 3 p.m.",
+                    "That's the kind of mood I'm in",
+                    "",
+                    "A little shake-up take the chain and rattle it",
+                    "Try to catch the wind and saddle it",
+                    "Fall in love all over again, yeah",
+                    "That's the kind of mood I'm in",
+                    "",
+                    "Any hemisphere change of atmosphere",
+                    "Get me out of here right now",
+                    "",
+                    "Let's go somewhere, nowhere we've heard of",
+                    "Hang the sign out, do not disturb us",
+                    "Get a wake-up call about 3 p.m.",
+                    "That's the kind of mood I'm in",
+                    "",
+                    "A little shake-up take the chain and rattle it",
+                    "Try to catch the wind and saddle it",
+                    "Fall in love all over again, yeah",
+                    "Over and over again",
+                    "That's the kind of mood I'm in, I'm in",
+                    "Oh, that's the kind of mood I'm in"
+                ],
+                "url": "https://cdn.shazam.com/lyrics/v1/en-US/GB/iphone/musixmatch/subtitles/13016581/211/1?token=132953a0af8889392eb1547bb52f211d",
+                "footer": "Writer(s): Tim Nichols, Rick Giles, Gilles Godard\nLyrics powered by www.musixmatch.com",
+                "tabname": "Lyrics",
+                "beacondata": {
+                    "lyricsid": "6020310",
+                    "providername": "musixmatch",
+                    "commontrackid": "13016581"
+                }
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/10240290/youtube/video?q=Patty+Loveless+%22That's+the+Kind+of+Mood+I'm+In*%22"
+            }
+        ],
+        "url": "https://www.shazam.com/track/10240290/thats-the-kind-of-mood-im-in",
+        "artists": [
+            {
+                "id": "42",
+                "adamid": "245584"
+            }
+        ],
+        "isrc": "USSM10006747",
+        "genres": {
+            "primary": "Country"
+        },
+        "urlparams": {
+            "{tracktitle}": "That%27s+the+Kind+of+Mood+I%27m+In*",
+            "{trackartist}": "Patty+Loveless"
+        },
+        "myshazam": {
+            "apple": {
+                "actions": [
+                    {
+                        "name": "myshazam:apple",
+                        "type": "uri",
+                        "uri": "https://music.apple.com/gb/album/thats-the-kind-of-mood-im-in/170083356?i=170083505&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                ]
+            }
+        },
+        "highlightsurls": {
+            "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/245584/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios&videoIdToFilter=1453912869",
+            "trackhighlighturl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/highlights/1453912869?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+        },
+        "albumadamid": "170083356"
+    },
+    "tagid": "4295AC46-699F-406D-8398-1B94B5F03FDD"
+}

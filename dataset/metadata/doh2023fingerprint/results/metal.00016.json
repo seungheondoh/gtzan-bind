@@ -1,0 +1,277 @@
+{
+    "matches": [
+        {
+            "id": "268235310",
+            "offset": 29.927890625,
+            "timeskew": 2.3841858e-05,
+            "frequencyskew": -8.0525875e-05
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691633781530,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "5174962",
+        "title": "Disciple",
+        "subtitle": "Slayer",
+        "images": {
+            "background": "https://is1-ssl.mzstatic.com/image/thumb/Features115/v4/42/09/fd/4209fd93-0d38-0d5f-8f09-0f0e6c54c218/mzl.sxvwpmhu.png/800x800cc.jpg",
+            "coverart": "https://is5-ssl.mzstatic.com/image/thumb/Music125/v4/74/60/b3/7460b374-1434-ec93-49ac-b84d11745a68/00602547579034.rgb.jpg/400x400cc.jpg",
+            "coverarthq": "https://is5-ssl.mzstatic.com/image/thumb/Music125/v4/74/60/b3/7460b374-1434-ec93-49ac-b84d11745a68/00602547579034.rgb.jpg/400x400cc.jpg",
+            "joecolor": "b:fcfcfcp:272218s:352f1dt:524d45q:5d584a"
+        },
+        "share": {
+            "subject": "Disciple - Slayer",
+            "text": "Disciple by Slayer",
+            "href": "https://www.shazam.com/track/5174962/disciple",
+            "image": "https://is5-ssl.mzstatic.com/image/thumb/Music125/v4/74/60/b3/7460b374-1434-ec93-49ac-b84d11745a68/00602547579034.rgb.jpg/400x400cc.jpg",
+            "twitter": "I used @Shazam to discover Disciple by Slayer.",
+            "html": "https://www.shazam.com/snippets/email-share/5174962?lang=en-US&country=GB",
+            "avatar": "https://is1-ssl.mzstatic.com/image/thumb/Features115/v4/42/09/fd/4209fd93-0d38-0d5f-8f09-0f0e6c54c218/mzl.sxvwpmhu.png/800x800cc.jpg",
+            "snapchat": "https://www.shazam.com/partner/sc/track/5174962"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "actions": [
+                {
+                    "name": "apple",
+                    "type": "applemusicplay",
+                    "id": "1440844978"
+                },
+                {
+                    "name": "apple",
+                    "type": "uri",
+                    "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/a6/d0/c0/a6d0c027-6c5d-efe1-713a-27f206861586/mzaf_15900934987325433029.plus.aac.ep.m4a"
+                }
+            ],
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/gb/album/disciple/1440844570?i=1440844978&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/gb/album/disciple/1440844570?i=1440844978&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                },
+                {
+                    "caption": "BUY",
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "uri": "https://itunes.apple.com/gb/album/disciple/1440844570?i=1440844978&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "buy",
+                        "providername": "itunes"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "type": "buy",
+                    "listcaption": "Buy on iTunes",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "itunes"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:Disciple%20Slayer"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27Disciple%27%20artist%3A%27Slayer%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": true,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [
+                    {
+                        "image": "https://is1-ssl.mzstatic.com/image/thumb/Features115/v4/42/09/fd/4209fd93-0d38-0d5f-8f09-0f0e6c54c218/mzl.sxvwpmhu.png/800x800cc.jpg",
+                        "caption": "Slayer"
+                    },
+                    {
+                        "image": "https://is5-ssl.mzstatic.com/image/thumb/Music125/v4/74/60/b3/7460b374-1434-ec93-49ac-b84d11745a68/00602547579034.rgb.jpg/400x400cc.jpg",
+                        "caption": "Disciple"
+                    }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                    {
+                        "title": "Album",
+                        "text": "God Hates Us All"
+                    },
+                    {
+                        "title": "Label",
+                        "text": "American Recordings Catalog P&D"
+                    },
+                    {
+                        "title": "Released",
+                        "text": "2001"
+                    }
+                ]
+            },
+            {
+                "type": "LYRICS",
+                "text": [
+                    "Drones since the dawn of time",
+                    "Compelled to live your sheltered lives",
+                    "Not once has anyone ever seen",
+                    "Such a rise of pure hypocrisy",
+                    "I'll instigate, I'll free your mind",
+                    "I'll show you what I've known all this time",
+                    "",
+                    "God hates us all",
+                    "God hates us all",
+                    "",
+                    "You know it's true God hates this place",
+                    "You know it's true he hates this race",
+                    "Homicide, suicide",
+                    "Hate heals, you should try it sometime",
+                    "Strive for peace with acts of war",
+                    "The beauty of death we all adore",
+                    "I have no faith distracting me",
+                    "I know why your prayers will never be answered",
+                    "",
+                    "God hates us all",
+                    "God hates us all",
+                    "God hates us all",
+                    "God hates us all",
+                    "Yeah, he fuckin' hates me",
+                    "",
+                    "Pessimist, terrorist targeting the next mark",
+                    "Global chaos feeding on hysteria",
+                    "Cut throat, slit your wrist, shoot you in the back fair game",
+                    "Drug abuse, self abuse searching for the next high",
+                    "Sounds a lot like hell is spreading all the time",
+                    "I'm waiting for the day the whole world fuckin' dies",
+                    "",
+                    "I never said I wanted to be God's disciple",
+                    "I'll never be the one to blindly follow",
+                    "",
+                    "Man made virus infecting the world",
+                    "Self-destruct human time bomb",
+                    "What if there is no God would you think the fuckin' same",
+                    "Wasting your life in a leap of blind faith",
+                    "Wake the fuck up can't ignore what I say",
+                    "I got my own philosophy",
+                    "I hate everyone equally",
+                    "You can't tear that out of me",
+                    "No segregation, separation",
+                    "Just me in my world of enemies",
+                    "",
+                    "I never said I wanted to be God's disciple",
+                    "I'll never be the one to blindly follow",
+                    "I'll never be the one to bear the cross, disciple",
+                    "",
+                    "I reject this fuckin' race",
+                    "I despise this fuckin' place",
+                    "I reject this fuckin' race",
+                    "I despise this fuckin' place",
+                    "I reject this fuckin' race",
+                    "I despise this fuckin' place",
+                    "I reject this fuckin' race",
+                    "I despise this fuckin' place"
+                ],
+                "url": "https://cdn.shazam.com/lyrics/v1/en-US/GB/iphone/musixmatch/subtitles/531898/215/1?token=3b581e8afd8b2938cbc926323500c9da",
+                "footer": "Writer(s): Jeffery John Hanneman, Kerry Ray King\nLyrics powered by www.musixmatch.com",
+                "tabname": "Lyrics",
+                "beacondata": {
+                    "lyricsid": "18216834",
+                    "providername": "musixmatch",
+                    "commontrackid": "531898"
+                }
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/5174962/youtube/video?q=Slayer+%22Disciple%22"
+            },
+            {
+                "type": "RELATED",
+                "url": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-5174962?startFrom=0&pageSize=20&connected=",
+                "tabname": "Related"
+            }
+        ],
+        "url": "https://www.shazam.com/track/5174962/disciple",
+        "artists": [
+            {
+                "id": "42",
+                "adamid": "414425"
+            }
+        ],
+        "isrc": "USDJ20110974",
+        "genres": {
+            "primary": "Metal"
+        },
+        "urlparams": {
+            "{tracktitle}": "Disciple",
+            "{trackartist}": "Slayer"
+        },
+        "myshazam": {
+            "apple": {
+                "actions": [
+                    {
+                        "name": "myshazam:apple",
+                        "type": "uri",
+                        "uri": "https://music.apple.com/gb/album/disciple/1440844570?i=1440844978&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                ]
+            }
+        },
+        "highlightsurls": {
+            "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/414425/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+        },
+        "relatedtracksurl": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-5174962?startFrom=0&pageSize=20&connected=",
+        "albumadamid": "1440844570"
+    },
+    "tagid": "98EBC4F7-1062-4002-AA58-D6AADAE9DB6C"
+}

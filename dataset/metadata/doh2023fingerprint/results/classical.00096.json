@@ -1,0 +1,230 @@
+{
+    "matches": [
+        {
+            "id": "216174493",
+            "offset": 30.338681639999997,
+            "timeskew": 0.013684034,
+            "frequencyskew": -6.443262e-05
+        },
+        {
+            "id": "240550677",
+            "offset": 29.380335936999998,
+            "timeskew": -0.016474903,
+            "frequencyskew": -0.009778678
+        },
+        {
+            "id": "485577035",
+            "offset": 530.8135,
+            "timeskew": 0.01271975,
+            "frequencyskew": -0.0013951659
+        },
+        {
+            "id": "513800832",
+            "offset": 483.4018125,
+            "timeskew": -0.012717128,
+            "frequencyskew": -0.011292934
+        },
+        {
+            "id": "231893326",
+            "offset": 28.841292968,
+            "timeskew": 0.017631888,
+            "frequencyskew": 0.00038671494
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691633018237,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "46650122",
+        "title": "The Four Seasons - Violin Concerto in G Minor, Op. 8, No. 2, RV 315, \"Summer\": Presto",
+        "subtitle": "Takako Nishizaki",
+        "images": {
+            "background": "https://is1-ssl.mzstatic.com/image/thumb/Features115/v4/72/5f/c5/725fc552-bdeb-9253-8224-f051699cb82a/pr_source.png/800x800cc.jpg",
+            "coverart": "https://is4-ssl.mzstatic.com/image/thumb/Music/97/38/e5/mzi.buljeayg.jpg/400x400cc.jpg",
+            "coverarthq": "https://is4-ssl.mzstatic.com/image/thumb/Music/97/38/e5/mzi.buljeayg.jpg/400x400cc.jpg",
+            "joecolor": "b:ffffffp:0a0908s:143054t:3b3a39q:435976"
+        },
+        "share": {
+            "subject": "The Four Seasons - Violin Concerto in G Minor, Op. 8, No. 2, RV 315, \"Summer\": Presto - Takako Nishizaki",
+            "text": "The Four Seasons - Violin Concerto in G Minor, Op. 8, No. 2, RV 315, \"Summer\": Presto by Takako Nishizaki",
+            "href": "https://www.shazam.com/track/46650122/the-four-seasons-violin-concerto-in-g-minor-op-8-no",
+            "image": "https://is4-ssl.mzstatic.com/image/thumb/Music/97/38/e5/mzi.buljeayg.jpg/400x400cc.jpg",
+            "twitter": "I used @Shazam to discover The Four Seasons - Violin Concerto in G Minor, Op. 8, No. 2, RV 315, \"Summer\": Presto by Takako Nishizaki.",
+            "html": "https://www.shazam.com/snippets/email-share/46650122?lang=en-US&country=GB",
+            "avatar": "https://is1-ssl.mzstatic.com/image/thumb/Features115/v4/72/5f/c5/725fc552-bdeb-9253-8224-f051699cb82a/pr_source.png/800x800cc.jpg",
+            "snapchat": "https://www.shazam.com/partner/sc/track/46650122"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "actions": [
+                {
+                    "name": "apple",
+                    "type": "applemusicplay",
+                    "id": "257880459"
+                },
+                {
+                    "name": "apple",
+                    "type": "uri",
+                    "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/Music/70/7d/04/mzm.niqwweqi.aac.ep.m4a"
+                }
+            ],
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/gb/album/the-four-seasons-violin-concerto-in-g-minor-op-8-no/257879678?i=257880459&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/gb/album/the-four-seasons-violin-concerto-in-g-minor-op-8-no/257879678?i=257880459&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                },
+                {
+                    "caption": "BUY",
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "uri": "https://itunes.apple.com/gb/album/the-four-seasons-violin-concerto-in-g-minor-op-8-no/257879678?i=257880459&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "buy",
+                        "providername": "itunes"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "type": "buy",
+                    "listcaption": "Buy on iTunes",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "itunes"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:The%20Four%20Seasons%20-%20Violin%20Concerto%20in%20G%20Minor%2C%20Op.%208%2C%20No.%202%2C%20RV%20315%2C%20%22Summer%22%3A%20Presto%20Takako%20Nishizaki"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27The+Four+Seasons+-+Violin+Concerto+in+G+Minor%2C+Op.+8%2C+No.+2%2C+RV+315%2C+%22Summer%22%3A+Presto%27%20artist%3A%27Takako+Nishizaki%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": false,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [
+                    {
+                        "image": "https://is1-ssl.mzstatic.com/image/thumb/Features115/v4/72/5f/c5/725fc552-bdeb-9253-8224-f051699cb82a/pr_source.png/800x800cc.jpg",
+                        "caption": "Takako Nishizaki"
+                    },
+                    {
+                        "image": "https://is4-ssl.mzstatic.com/image/thumb/Music/97/38/e5/mzi.buljeayg.jpg/400x400cc.jpg",
+                        "caption": "The Four Seasons - Violin Concerto in G Minor, Op. 8, No. 2, RV 315, \"Summer\": Presto"
+                    }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                    {
+                        "title": "Album",
+                        "text": "Classics for Tennis"
+                    },
+                    {
+                        "title": "Label",
+                        "text": "Naxos"
+                    },
+                    {
+                        "title": "Released",
+                        "text": "1988"
+                    }
+                ]
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/46650122/youtube/video?q=Takako+Nishizaki+%22The+Four+Seasons+-+Violin+Concerto+in+G+Minor,+Op.+8,+No.+2,+RV+315,+Summer:+Presto%22"
+            },
+            {
+                "type": "RELATED",
+                "url": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-46650122?startFrom=0&pageSize=20&connected=",
+                "tabname": "Related"
+            }
+        ],
+        "url": "https://www.shazam.com/track/46650122/the-four-seasons-violin-concerto-in-g-minor-op-8-no",
+        "artists": [
+            {
+                "id": "42",
+                "adamid": "3332868"
+            }
+        ],
+        "isrc": "HKI199329506",
+        "genres": {
+            "primary": "Classical"
+        },
+        "urlparams": {
+            "{tracktitle}": "The+Four+Seasons+-+Violin+Concerto+in+G+Minor%2C+Op.+8%2C+No.+2%2C+RV+315%2C+%22Summer%22%3A+Presto",
+            "{trackartist}": "Takako+Nishizaki"
+        },
+        "myshazam": {
+            "apple": {
+                "actions": [
+                    {
+                        "name": "myshazam:apple",
+                        "type": "uri",
+                        "uri": "https://music.apple.com/gb/album/the-four-seasons-violin-concerto-in-g-minor-op-8-no/257879678?i=257880459&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                ]
+            }
+        },
+        "highlightsurls": {
+            "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/3332868/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+        },
+        "relatedtracksurl": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-46650122?startFrom=0&pageSize=20&connected=",
+        "albumadamid": "257879678"
+    },
+    "tagid": "B2FB2C76-C6CE-460B-9C7E-607E31D0B366"
+}

@@ -1,0 +1,293 @@
+{
+    "matches": [
+        {
+            "id": "433422001",
+            "offset": 30.18880664,
+            "timeskew": 6.496906e-05,
+            "frequencyskew": -4.029274e-05
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691633323384,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "5120870",
+        "title": "Electric Boogie",
+        "subtitle": "Marcia Griffiths",
+        "images": {
+            "background": "https://is1-ssl.mzstatic.com/image/thumb/Features125/v4/c4/a0/da/c4a0da67-2199-96ce-5edb-dfc74bf4012c/pr_source.png/800x800cc.jpg",
+            "coverart": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/0e/4b/1b/0e4b1b7f-4c74-65e2-c687-4c10ab25e345/mzi.kjbfuglb.jpg/400x400cc.jpg",
+            "coverarthq": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/0e/4b/1b/0e4b1b7f-4c74-65e2-c687-4c10ab25e345/mzi.kjbfuglb.jpg/400x400cc.jpg",
+            "joecolor": "b:0d0400p:ffffffs:fffbcet:cecccbq:cec9a4"
+        },
+        "share": {
+            "subject": "Electric Boogie - Marcia Griffiths",
+            "text": "Electric Boogie by Marcia Griffiths",
+            "href": "https://www.shazam.com/track/5120870/electric-boogie",
+            "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/0e/4b/1b/0e4b1b7f-4c74-65e2-c687-4c10ab25e345/mzi.kjbfuglb.jpg/400x400cc.jpg",
+            "twitter": "I used @Shazam to discover Electric Boogie by Marcia Griffiths.",
+            "html": "https://www.shazam.com/snippets/email-share/5120870?lang=en-US&country=GB",
+            "avatar": "https://is1-ssl.mzstatic.com/image/thumb/Features125/v4/c4/a0/da/c4a0da67-2199-96ce-5edb-dfc74bf4012c/pr_source.png/800x800cc.jpg",
+            "snapchat": "https://www.shazam.com/partner/sc/track/5120870"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "actions": [
+                {
+                    "name": "apple",
+                    "type": "applemusicplay",
+                    "id": "309118413"
+                },
+                {
+                    "name": "apple",
+                    "type": "uri",
+                    "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/8f/14/66/8f1466d2-b0bb-d083-6606-fdb624ced32a/mzaf_8080986698967233438.plus.aac.ep.m4a"
+                }
+            ],
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/gb/album/electric-boogie/309118141?i=309118413&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/gb/album/electric-boogie/309118141?i=309118413&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                },
+                {
+                    "caption": "BUY",
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "uri": "https://itunes.apple.com/gb/album/electric-boogie/309118141?i=309118413&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "buy",
+                        "providername": "itunes"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "type": "buy",
+                    "listcaption": "Buy on iTunes",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "itunes"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:Electric%20Boogie%20Marcia%20Griffiths"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27Electric+Boogie%27%20artist%3A%27Marcia+Griffiths%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": false,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [
+                    {
+                        "image": "https://is1-ssl.mzstatic.com/image/thumb/Features125/v4/c4/a0/da/c4a0da67-2199-96ce-5edb-dfc74bf4012c/pr_source.png/800x800cc.jpg",
+                        "caption": "Marcia Griffiths"
+                    },
+                    {
+                        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/0e/4b/1b/0e4b1b7f-4c74-65e2-c687-4c10ab25e345/mzi.kjbfuglb.jpg/400x400cc.jpg",
+                        "caption": "Electric Boogie"
+                    }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                    {
+                        "title": "Album",
+                        "text": "Reggae Anthology: Melody Life"
+                    },
+                    {
+                        "title": "Label",
+                        "text": "VP Records"
+                    },
+                    {
+                        "title": "Released",
+                        "text": "2007"
+                    }
+                ]
+            },
+            {
+                "type": "LYRICS",
+                "text": [
+                    "It's electric!",
+                    "You can't see it",
+                    "[It's electric!]",
+                    "You gotta feel it",
+                    "[It's electric!]",
+                    "Ooh, it's shakin'",
+                    "[It's electric!]",
+                    "[Jiggle-a-mesa-cara",
+                    "She's a pumpin' like a matic",
+                    "She's a movin' like electric",
+                    "She sure got the boogie]",
+                    "You gotta know it",
+                    "[It's electric",
+                    "Boogie woogie, woogie!]",
+                    "Now you can't hold it",
+                    "[It's electric",
+                    "Boogie woogie, woogie!]",
+                    "But you know it there,",
+                    "Yeah here there everywhere",
+                    "I've got to move,",
+                    "I'm going on a party ride",
+                    "I've got to groove, groove, groove,",
+                    "And from this music",
+                    "I just can't hide.",
+                    "Are you comin' with me?",
+                    "Come let me take you on a party ride",
+                    "And i'll teach you, teach you, teach you",
+                    "I'll teach you the electric slide",
+                    "Some say it's mystic",
+                    "[It's electric",
+                    "Boogie woogie, woogie]",
+                    "You can't resist it",
+                    "[It's electric",
+                    "Boogie woogie, woogie]",
+                    "You can'y do without it",
+                    "[It's electric",
+                    "Boogie woogie, woogie]",
+                    "Jiggle-a-mesa-cara she's a pumpin' like a matic",
+                    "She's movin' like electric",
+                    "She sure got the boogie",
+                    "Don't wanna lose it",
+                    "[It's electric",
+                    "Boogie woogie, woogie]",
+                    "But you can't choose it",
+                    "[It's electric",
+                    "Boogie woogie, woogie]",
+                    "But you know it's there,",
+                    "Yeah here there everywhere",
+                    "Horn instrumental",
+                    "I've got to move,",
+                    "Come let me take you on a party ride",
+                    "And i'll teach you, teach you, teach you",
+                    "I'll teach you the electric slide",
+                    "Horn instrumental",
+                    "Some say it's mystic",
+                    "[It's electric",
+                    "Boogie woogie, woogie]",
+                    "You can't resist it",
+                    "[It's electric",
+                    "Boogie woogie, woogie]",
+                    "You can'y do without it",
+                    "[It's electric",
+                    "Boogie woogie, woogie]",
+                    "Jiggle-a-mesa-cara she's a pumpin' like a matic",
+                    "She's movin' like electric",
+                    "She sure got the boogie",
+                    "Don't wanna lose it",
+                    "[It's electric",
+                    "Boogie woogie, woogie]",
+                    "But you can't choose it",
+                    "[It's electric",
+                    "Boogie woogie, woogie]",
+                    "But you know it's there,",
+                    "Yeah here there everywhere"
+                ],
+                "url": "https://cdn.shazam.com/lyrics/v1/en-US/GB/iphone/musixmatch/subtitles/558327/241/1?token=ef2dc456bc2a38a0070d4da990dc0ea5",
+                "footer": "Writer(s): Neville Oril Livingston\nLyrics powered by www.musixmatch.com",
+                "tabname": "Lyrics",
+                "beacondata": {
+                    "lyricsid": "2296030",
+                    "providername": "musixmatch",
+                    "commontrackid": "558327"
+                }
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/5120870/youtube/video?q=Marcia+Griffiths+%22Electric+Boogie%22"
+            },
+            {
+                "type": "RELATED",
+                "url": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-5120870?startFrom=0&pageSize=20&connected=",
+                "tabname": "Related"
+            }
+        ],
+        "url": "https://www.shazam.com/track/5120870/electric-boogie",
+        "artists": [
+            {
+                "id": "42",
+                "adamid": "346680"
+            }
+        ],
+        "isrc": "USVPR0713199",
+        "genres": {
+            "primary": "Reggae"
+        },
+        "urlparams": {
+            "{tracktitle}": "Electric+Boogie",
+            "{trackartist}": "Marcia+Griffiths"
+        },
+        "myshazam": {
+            "apple": {
+                "actions": [
+                    {
+                        "name": "myshazam:apple",
+                        "type": "uri",
+                        "uri": "https://music.apple.com/gb/album/electric-boogie/309118141?i=309118413&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                ]
+            }
+        },
+        "highlightsurls": {
+            "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/346680/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+        },
+        "relatedtracksurl": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-5120870?startFrom=0&pageSize=20&connected=",
+        "albumadamid": "309118141"
+    },
+    "tagid": "3CE0D993-951F-4B06-8D5B-1B68726DAD94"
+}

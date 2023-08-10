@@ -1,0 +1,256 @@
+{
+    "matches": [
+        {
+            "id": "432871936",
+            "offset": 30.25540039,
+            "timeskew": 0.0010668039,
+            "frequencyskew": 0.0007251501
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691633204767,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "2956814",
+        "title": "Africa Unite",
+        "subtitle": "Bob Marley & The Wailers",
+        "images": {
+            "background": "https://is5-ssl.mzstatic.com/image/thumb/Features125/v4/0e/10/96/0e10963d-8c5d-f176-3651-796ec44d0c97/mzl.kdlmyecx.jpg/800x800cc.jpg",
+            "coverart": "https://is2-ssl.mzstatic.com/image/thumb/Music124/v4/1a/9b/b9/1a9bb9b2-ab6a-c644-80f9-76a5b7223e9c/00602537663156.rgb.jpg/400x400cc.jpg",
+            "coverarthq": "https://is2-ssl.mzstatic.com/image/thumb/Music124/v4/1a/9b/b9/1a9bb9b2-ab6a-c644-80f9-76a5b7223e9c/00602537663156.rgb.jpg/400x400cc.jpg",
+            "joecolor": "b:000000p:ffffffs:f61d38t:cbcbcbq:c5172d"
+        },
+        "share": {
+            "subject": "Africa Unite - Bob Marley & The Wailers",
+            "text": "Africa Unite by Bob Marley & The Wailers",
+            "href": "https://www.shazam.com/track/2956814/africa-unite",
+            "image": "https://is2-ssl.mzstatic.com/image/thumb/Music124/v4/1a/9b/b9/1a9bb9b2-ab6a-c644-80f9-76a5b7223e9c/00602537663156.rgb.jpg/400x400cc.jpg",
+            "twitter": "I used @Shazam to discover Africa Unite by Bob Marley & The Wailers.",
+            "html": "https://www.shazam.com/snippets/email-share/2956814?lang=en-US&country=GB",
+            "avatar": "https://is5-ssl.mzstatic.com/image/thumb/Features125/v4/0e/10/96/0e10963d-8c5d-f176-3651-796ec44d0c97/mzl.kdlmyecx.jpg/800x800cc.jpg",
+            "snapchat": "https://www.shazam.com/partner/sc/track/2956814"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "actions": [
+                {
+                    "name": "apple",
+                    "type": "applemusicplay",
+                    "id": "1440814184"
+                },
+                {
+                    "name": "apple",
+                    "type": "uri",
+                    "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/25/84/cb/2584cb34-fe28-1d00-e3e2-efb43442583a/mzaf_14693997941355606313.plus.aac.ep.m4a"
+                }
+            ],
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/gb/album/africa-unite/1440813900?i=1440814184&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/gb/album/africa-unite/1440813900?i=1440814184&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                },
+                {
+                    "caption": "BUY",
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "uri": "https://itunes.apple.com/gb/album/africa-unite/1440813900?i=1440814184&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "buy",
+                        "providername": "itunes"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "type": "buy",
+                    "listcaption": "Buy on iTunes",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "itunes"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:Africa%20Unite%20Bob%20Marley%20%26%20The%20Wailers"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27Africa+Unite%27%20artist%3A%27Bob+Marley++The+Wailers%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": false,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [
+                    {
+                        "image": "https://is5-ssl.mzstatic.com/image/thumb/Features125/v4/0e/10/96/0e10963d-8c5d-f176-3651-796ec44d0c97/mzl.kdlmyecx.jpg/800x800cc.jpg",
+                        "caption": "Bob Marley & The Wailers"
+                    },
+                    {
+                        "image": "https://is2-ssl.mzstatic.com/image/thumb/Music124/v4/1a/9b/b9/1a9bb9b2-ab6a-c644-80f9-76a5b7223e9c/00602537663156.rgb.jpg/400x400cc.jpg",
+                        "caption": "Africa Unite"
+                    }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                    {
+                        "title": "Album",
+                        "text": "Survival (2013 Remaster)"
+                    },
+                    {
+                        "title": "Label",
+                        "text": "Island Records"
+                    },
+                    {
+                        "title": "Released",
+                        "text": "1979"
+                    }
+                ]
+            },
+            {
+                "type": "LYRICS",
+                "text": [
+                    "Ziya-po ya-ya, pa-pa-ya-pa!",
+                    "Ti-da-lee, na po-po pu-du-loo!",
+                    "Ste-na-peh na-na po po-ro po!",
+                    "Africa unite:",
+                    "'Cause we're moving right out of Babylon",
+                    "And we're going to our Father's land, yea-ea.",
+                    "",
+                    "How good and how pleasant it would be before God and man, yea-eah! -",
+                    "To see the unification of all Africans, yeah! -",
+                    "As it's been said a'ready, let it be done, yeah!",
+                    "We are the children of the Rastaman",
+                    "We are the children of the Iyaman.",
+                    "",
+                    "So-o, Africa unite:",
+                    "'Cause the children (Africa unite) wanna come home.",
+                    "Africa unite:",
+                    "'Cause we're moving right out of Babylon, yea",
+                    "And we're grooving to our Father's land, yea-ea.",
+                    "",
+                    "How good and how pleasant it would be before God and man",
+                    "To see the unification of all Rastaman, yeah.",
+                    "As it's been said a'ready, let it be done!",
+                    "I tell you who we are under the sun:",
+                    "We are the children of the Rastaman",
+                    "We are the children of the Iyaman.",
+                    "",
+                    "So-o: Africa unite",
+                    "Afri - Africa unite, yeah!",
+                    "Unite for the benefit (Africa unite) for the benefit of your people!",
+                    "Unite for it's later (Africa unite) than you think!",
+                    "Unite for the benefit (Africa unite) of my children!",
+                    "Unite for it's later (Africa uniting) than you think!",
+                    "Africa awaits (Africa unite) its creators!",
+                    "Africa awaiting (Africa uniting) its Creator!",
+                    "Africa, you're my (Africa unite) forefather cornerstone!",
+                    "Unite for the Africans (Africa uniting) abroad!",
+                    "Unite for the Africans (Africa unite) a yard!"
+                ],
+                "url": "https://cdn.shazam.com/lyrics/v1/en-US/GB/iphone/musixmatch/subtitles/66938512/175/1?token=ad7fd76d9971bbd5865e4e2915009259",
+                "footer": "Writer(s): Bob Marley\nLyrics powered by www.musixmatch.com",
+                "tabname": "Lyrics",
+                "beacondata": {
+                    "lyricsid": "16093819",
+                    "providername": "musixmatch",
+                    "commontrackid": "66938512"
+                }
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/2956814/youtube/video?q=Bob+Marley+%26+The+Wailers+%22Africa+Unite%22"
+            },
+            {
+                "type": "RELATED",
+                "url": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-2956814?startFrom=0&pageSize=20&connected=",
+                "tabname": "Related"
+            }
+        ],
+        "url": "https://www.shazam.com/track/2956814/africa-unite",
+        "artists": [
+            {
+                "id": "42",
+                "adamid": "3174628"
+            }
+        ],
+        "isrc": "USIR27900006",
+        "genres": {
+            "primary": "Reggae"
+        },
+        "urlparams": {
+            "{tracktitle}": "Africa+Unite",
+            "{trackartist}": "Bob+Marley+%26+The+Wailers"
+        },
+        "myshazam": {
+            "apple": {
+                "actions": [
+                    {
+                        "name": "myshazam:apple",
+                        "type": "uri",
+                        "uri": "https://music.apple.com/gb/album/africa-unite/1440813900?i=1440814184&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                ]
+            }
+        },
+        "highlightsurls": {
+            "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/3174628/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+        },
+        "relatedtracksurl": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-2956814?startFrom=0&pageSize=20&connected=",
+        "albumadamid": "1440813900"
+    },
+    "tagid": "3681C5F4-2FD8-43D2-8B89-373DC7685A0A"
+}

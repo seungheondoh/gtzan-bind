@@ -1,0 +1,238 @@
+{
+    "matches": [
+        {
+            "id": "343926723",
+            "offset": 30.206882812,
+            "timeskew": -2.6643276e-05,
+            "frequencyskew": 0.0
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691633427491,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "5348453",
+        "title": "A Church, a Courtroom and Then Goodbye",
+        "subtitle": "Patsy Cline",
+        "images": {
+            "background": "https://is2-ssl.mzstatic.com/image/thumb/Features125/v4/da/70/76/da7076b9-21e6-eb57-1131-c58f86cd6835/mzl.uxljjmvz.jpg/800x800cc.jpg",
+            "coverart": "https://is4-ssl.mzstatic.com/image/thumb/Music111/v4/da/53/dc/da53dca6-d919-c72a-265c-2f551193981d/715187767164.png/400x400cc.jpg",
+            "coverarthq": "https://is4-ssl.mzstatic.com/image/thumb/Music111/v4/da/53/dc/da53dca6-d919-c72a-265c-2f551193981d/715187767164.png/400x400cc.jpg",
+            "joecolor": "b:f7fbfep:0e0e0cs:161615t:3c3e3cq:434343"
+        },
+        "share": {
+            "subject": "A Church, a Courtroom and Then Goodbye - Patsy Cline",
+            "text": "A Church, a Courtroom and Then Goodbye by Patsy Cline",
+            "href": "https://www.shazam.com/track/5348453/a-church-a-courtroom-and-then-goodbye",
+            "image": "https://is4-ssl.mzstatic.com/image/thumb/Music111/v4/da/53/dc/da53dca6-d919-c72a-265c-2f551193981d/715187767164.png/400x400cc.jpg",
+            "twitter": "I used @Shazam to discover A Church, a Courtroom and Then Goodbye by Patsy Cline.",
+            "html": "https://www.shazam.com/snippets/email-share/5348453?lang=en-US&country=GB",
+            "avatar": "https://is2-ssl.mzstatic.com/image/thumb/Features125/v4/da/70/76/da7076b9-21e6-eb57-1131-c58f86cd6835/mzl.uxljjmvz.jpg/800x800cc.jpg",
+            "snapchat": "https://www.shazam.com/partner/sc/track/5348453"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "actions": [
+                {
+                    "name": "apple",
+                    "type": "applemusicplay",
+                    "id": "1215050151"
+                },
+                {
+                    "name": "apple",
+                    "type": "uri",
+                    "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/33/15/a5/3315a5b4-cc72-0612-0078-3c296ae70ee0/mzaf_11538962462625839243.plus.aac.ep.m4a"
+                }
+            ],
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/gb/album/a-church-a-courtroom-and-then-goodbye/1215050100?i=1215050151&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/gb/album/a-church-a-courtroom-and-then-goodbye/1215050100?i=1215050151&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                },
+                {
+                    "caption": "BUY",
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "uri": "https://itunes.apple.com/gb/album/a-church-a-courtroom-and-then-goodbye/1215050100?i=1215050151&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "buy",
+                        "providername": "itunes"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "type": "buy",
+                    "listcaption": "Buy on iTunes",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "itunes"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:A%20Church%2C%20a%20Courtroom%20and%20Then%20Goodbye%20Patsy%20Cline"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27A+Church%2C+a+Courtroom+and+Then+Goodbye%27%20artist%3A%27Patsy+Cline%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": false,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [
+                    {
+                        "image": "https://is2-ssl.mzstatic.com/image/thumb/Features125/v4/da/70/76/da7076b9-21e6-eb57-1131-c58f86cd6835/mzl.uxljjmvz.jpg/800x800cc.jpg",
+                        "caption": "Patsy Cline"
+                    },
+                    {
+                        "image": "https://is4-ssl.mzstatic.com/image/thumb/Music111/v4/da/53/dc/da53dca6-d919-c72a-265c-2f551193981d/715187767164.png/400x400cc.jpg",
+                        "caption": "A Church, a Courtroom and Then Goodbye"
+                    }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                    {
+                        "title": "Album",
+                        "text": "Classics Collection"
+                    },
+                    {
+                        "title": "Label",
+                        "text": "Curb Records"
+                    },
+                    {
+                        "title": "Released",
+                        "text": "1955"
+                    }
+                ]
+            },
+            {
+                "type": "LYRICS",
+                "text": [
+                    "The first scene was the church, then the altar",
+                    "Where we claimed each other, with tears of joy we cried",
+                    "Our friends wished us luck there forever",
+                    "As we walked from the church, side by side",
+                    "",
+                    "The next scene was a crowded courtroom",
+                    "And like strangers we sat side by side",
+                    "Then I heard the judge make his decision",
+                    "And no longer were we man and wife",
+                    "",
+                    "I hate the sight of that courtroom",
+                    "Where man-made laws push God's laws aside",
+                    "Then the clerk wrote our story in the record",
+                    "A church, a courtroom and then goodbye",
+                    "",
+                    "We walked from that courtroom together",
+                    "We shook hands and once again we cried",
+                    "Then it was the end of our story:",
+                    "A church, a courtroom and then goodbye"
+                ],
+                "url": "https://cdn.shazam.com/lyrics/v1/en-US/GB/iphone/musixmatch/subtitles/14813653/185/1?token=59e43e42e65771b4e49607369dd9ecc3",
+                "footer": "Writer(s): Eddie Miller, W Stevenson\nLyrics powered by www.musixmatch.com",
+                "tabname": "Lyrics",
+                "beacondata": {
+                    "lyricsid": "19330829",
+                    "providername": "musixmatch",
+                    "commontrackid": "14813653"
+                }
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/5348453/youtube/video?q=Patsy+Cline+%22A+Church,+a+Courtroom+and+Then+Goodbye%22"
+            },
+            {
+                "type": "RELATED",
+                "url": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-5348453?startFrom=0&pageSize=20&connected=",
+                "tabname": "Related"
+            }
+        ],
+        "url": "https://www.shazam.com/track/5348453/a-church-a-courtroom-and-then-goodbye",
+        "artists": [
+            {
+                "id": "42",
+                "adamid": "95778"
+            }
+        ],
+        "isrc": "USATV0500445",
+        "genres": {
+            "primary": "Country"
+        },
+        "urlparams": {
+            "{tracktitle}": "A+Church%2C+a+Courtroom+and+Then+Goodbye",
+            "{trackartist}": "Patsy+Cline"
+        },
+        "myshazam": {
+            "apple": {
+                "actions": [
+                    {
+                        "name": "myshazam:apple",
+                        "type": "uri",
+                        "uri": "https://music.apple.com/gb/album/a-church-a-courtroom-and-then-goodbye/1215050100?i=1215050151&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                ]
+            }
+        },
+        "highlightsurls": {
+            "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/95778/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+        },
+        "relatedtracksurl": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-5348453?startFrom=0&pageSize=20&connected=",
+        "albumadamid": "1215050100"
+    },
+    "tagid": "9B149C95-1173-416B-B5D9-0D4747BC352C"
+}

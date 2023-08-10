@@ -1,0 +1,330 @@
+{
+    "matches": [
+        {
+            "id": "217013223",
+            "offset": 29.944296875,
+            "timeskew": 1.6450882e-05,
+            "frequencyskew": 0.0
+        },
+        {
+            "id": "236453759",
+            "offset": 29.739945312,
+            "timeskew": -0.0011107922,
+            "frequencyskew": -0.0013683438
+        },
+        {
+            "id": "279015276",
+            "offset": 29.680255859000003,
+            "timeskew": -0.0011408329,
+            "frequencyskew": -0.0018910766
+        },
+        {
+            "id": "319034995",
+            "offset": 30.481878906000002,
+            "timeskew": -0.0012252927,
+            "frequencyskew": -0.0013683438
+        },
+        {
+            "id": "225307896",
+            "offset": 30.013363281,
+            "timeskew": 6.020069e-05,
+            "frequencyskew": -4.029274e-05
+        },
+        {
+            "id": "42901079",
+            "offset": 30.190414062,
+            "timeskew": -0.00016587973,
+            "frequencyskew": -8.0525875e-05
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691633727205,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "262729",
+        "title": "Wake Up",
+        "subtitle": "Rage Against the Machine",
+        "images": {
+            "background": "https://is5-ssl.mzstatic.com/image/thumb/Features115/v4/a8/6a/21/a86a21de-c1a9-03b6-a5e6-8550ae62ea1d/mzl.cvnwolpm.jpg/800x800cc.jpg",
+            "coverart": "https://is2-ssl.mzstatic.com/image/thumb/Music115/v4/8e/08/bf/8e08bf66-8690-1ba7-affb-fe173c08623d/074645295923.jpg/400x400cc.jpg",
+            "coverarthq": "https://is2-ssl.mzstatic.com/image/thumb/Music115/v4/8e/08/bf/8e08bf66-8690-1ba7-affb-fe173c08623d/074645295923.jpg/400x400cc.jpg",
+            "joecolor": "b:f7fbfep:030305s:223133t:343437q:4c5a5c"
+        },
+        "share": {
+            "subject": "Wake Up - Rage Against the Machine",
+            "text": "Wake Up by Rage Against the Machine",
+            "href": "https://www.shazam.com/track/262729/wake-up",
+            "image": "https://is2-ssl.mzstatic.com/image/thumb/Music115/v4/8e/08/bf/8e08bf66-8690-1ba7-affb-fe173c08623d/074645295923.jpg/400x400cc.jpg",
+            "twitter": "I used @Shazam to discover Wake Up by Rage Against the Machine.",
+            "html": "https://www.shazam.com/snippets/email-share/262729?lang=en-US&country=GB",
+            "avatar": "https://is5-ssl.mzstatic.com/image/thumb/Features115/v4/a8/6a/21/a86a21de-c1a9-03b6-a5e6-8550ae62ea1d/mzl.cvnwolpm.jpg/800x800cc.jpg",
+            "snapchat": "https://www.shazam.com/partner/sc/track/262729"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "actions": [
+                {
+                    "name": "apple",
+                    "type": "applemusicplay",
+                    "id": "191451241"
+                },
+                {
+                    "name": "apple",
+                    "type": "uri",
+                    "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/4b/bf/7f/4bbf7fef-7b09-3574-4464-08db913a48bd/mzaf_12198567314633227034.plus.aac.ep.m4a"
+                }
+            ],
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/gb/album/wake-up/191450810?i=191451241&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/gb/album/wake-up/191450810?i=191451241&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                },
+                {
+                    "caption": "BUY",
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "uri": "https://itunes.apple.com/gb/album/wake-up/191450810?i=191451241&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "buy",
+                        "providername": "itunes"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "type": "buy",
+                    "listcaption": "Buy on iTunes",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "itunes"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:Wake%20Up%20Rage%20Against%20the%20Machine"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27Wake+Up%27%20artist%3A%27Rage+Against+the+Machine%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": false,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [
+                    {
+                        "image": "https://is5-ssl.mzstatic.com/image/thumb/Features115/v4/a8/6a/21/a86a21de-c1a9-03b6-a5e6-8550ae62ea1d/mzl.cvnwolpm.jpg/800x800cc.jpg",
+                        "caption": "Rage Against the Machine"
+                    },
+                    {
+                        "image": "https://is2-ssl.mzstatic.com/image/thumb/Music115/v4/8e/08/bf/8e08bf66-8690-1ba7-affb-fe173c08623d/074645295923.jpg/400x400cc.jpg",
+                        "caption": "Wake Up"
+                    }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                    {
+                        "title": "Album",
+                        "text": "Rage Against the Machine"
+                    },
+                    {
+                        "title": "Label",
+                        "text": "Epic"
+                    },
+                    {
+                        "title": "Released",
+                        "text": "1992"
+                    }
+                ]
+            },
+            {
+                "type": "LYRICS",
+                "text": [
+                    "Come on",
+                    "",
+                    "Come on, although you try to discredit",
+                    "You'll still never edit",
+                    "The needle, I'll thread it",
+                    "Radically poetic",
+                    "Standing with the fury that they had in '66",
+                    "And like E-Double, I'm mad",
+                    "Still knee-deep in the system's shit",
+                    "Hoover, he was a body remover",
+                    "I'll give you a dose",
+                    "But it will never come close",
+                    "To the rage built up inside of me",
+                    "Fist in the air, in the land of hypocricy",
+                    "",
+                    "Movements come and movements go",
+                    "Leaders speak, movements cease",
+                    "When their heads are flown",
+                    "'Cause all these punks got bullets in their heads",
+                    "Departments of police (what?) the judges (what?) the feds",
+                    "",
+                    "Networks at work, keeping people calm",
+                    "You know they went after King",
+                    "When he spoke out on Vietnam",
+                    "He turned the power to the have-nots",
+                    "And then came the shot",
+                    "",
+                    "Yeah",
+                    "",
+                    "Yeah, back in this",
+                    "With poetry, my mind I flex",
+                    "Flip like Wilson, vocals never lacking that finesse",
+                    "Who I got to, who I got to do to wake you up?",
+                    "To shake you up, to break the structure up",
+                    "'Cause blood still flows in the gutter",
+                    "I'm like taking photos",
+                    "Mad boy kicks open the shutter",
+                    "Set the groove",
+                    "Then stick and move like I was Cassius",
+                    "Rep the stutter step and left a bomb upon the fascists",
+                    "",
+                    "Yeah, the several federal man",
+                    "Who pulled schemes on the dream",
+                    "And put it to an end",
+                    "You better beware",
+                    "Of retribution with mind war",
+                    "20-20 visions and murals with metaphors",
+                    "",
+                    "Networks at work keeping people calm",
+                    "You know they murdered X",
+                    "And tried to blame it on Islam",
+                    "He turned the power to the have-nots",
+                    "And then came the shot",
+                    "",
+                    "What was the price on his head?",
+                    "What was the price on his head?",
+                    "I think I heard a shot",
+                    "I think I heard a shot",
+                    "I think I heard a shot",
+                    "I think I heard a shot",
+                    "",
+                    "I think I heard a shot",
+                    "",
+                    "I think I heard, I think I heard a shot",
+                    "",
+                    "(He may be a real contender for this position)",
+                    "(Should he abandon his opposed obediance to the white-liberal doctrine of non-violence)",
+                    "(And embrace black nationalism)",
+                    "(Through counter-intelligence it should be possible to pinpoint potential trouble-makers and neutralize them)",
+                    "(Through counter-intelligence it should be possible to pinpoint potential trouble-makers and neutralize them)",
+                    "(And neutralize them, and neutralize them)",
+                    "Wake up",
+                    "Wake up",
+                    "Wake up",
+                    "Wake up",
+                    "Wake up",
+                    "Wake up",
+                    "Wake up",
+                    "Wake up",
+                    "",
+                    "How long? Not long, 'cause what you reap is what you sow"
+                ],
+                "url": "https://cdn.shazam.com/lyrics/v1/en-US/GB/iphone/musixmatch/subtitles/48741729/364/1?token=d04389853e6932cbb6dc170176dae34a",
+                "footer": "Writer(s): Timothy Commerford, Zack M De La Rocha, Brad J Wilk, Tom Morello\nLyrics powered by www.musixmatch.com",
+                "tabname": "Lyrics",
+                "beacondata": {
+                    "lyricsid": "25006698",
+                    "providername": "musixmatch",
+                    "commontrackid": "48741729"
+                }
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/262729/youtube/video?q=Rage+Against+the+Machine+%22Wake+Up%22"
+            },
+            {
+                "type": "RELATED",
+                "url": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-262729?startFrom=0&pageSize=20&connected=",
+                "tabname": "Related"
+            }
+        ],
+        "url": "https://www.shazam.com/track/262729/wake-up",
+        "artists": [
+            {
+                "id": "42",
+                "adamid": "899409"
+            }
+        ],
+        "isrc": "USSM19200665",
+        "genres": {
+            "primary": "Hard Rock"
+        },
+        "urlparams": {
+            "{tracktitle}": "Wake+Up",
+            "{trackartist}": "Rage+Against+the+Machine"
+        },
+        "myshazam": {
+            "apple": {
+                "actions": [
+                    {
+                        "name": "myshazam:apple",
+                        "type": "uri",
+                        "uri": "https://music.apple.com/gb/album/wake-up/191450810?i=191451241&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                ]
+            }
+        },
+        "highlightsurls": {
+            "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/899409/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+        },
+        "relatedtracksurl": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-262729?startFrom=0&pageSize=20&connected=",
+        "albumadamid": "191450810"
+    },
+    "tagid": "E6B34876-0988-4215-BFDC-3B2B186C267E"
+}

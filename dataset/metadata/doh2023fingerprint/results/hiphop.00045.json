@@ -1,0 +1,278 @@
+{
+    "matches": [
+        {
+            "id": "321244933",
+            "offset": 47.799476562,
+            "timeskew": 0.000104904175,
+            "frequencyskew": -8.0525875e-05
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691632997792,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "10312210",
+        "title": "Every Ghetto, Every City",
+        "subtitle": "Lauryn Hill",
+        "images": {
+            "background": "https://is4-ssl.mzstatic.com/image/thumb/Features115/v4/17/54/32/1754321f-4d10-0445-8c63-63b9aca63241/mza_5881696461253841876.png/800x800cc.jpg",
+            "coverart": "https://is4-ssl.mzstatic.com/image/thumb/Music125/v4/09/6b/55/096b55c4-ee8f-23bd-df8f-0ca0821f3028/886446727189.jpg/400x400cc.jpg",
+            "coverarthq": "https://is4-ssl.mzstatic.com/image/thumb/Music125/v4/09/6b/55/096b55c4-ee8f-23bd-df8f-0ca0821f3028/886446727189.jpg/400x400cc.jpg",
+            "joecolor": "b:d58f47p:0e0305s:2a1712t:361f12q:4c2f1c"
+        },
+        "share": {
+            "subject": "Every Ghetto, Every City - Lauryn Hill",
+            "text": "Every Ghetto, Every City by Lauryn Hill",
+            "href": "https://www.shazam.com/track/10312210/every-ghetto-every-city",
+            "image": "https://is4-ssl.mzstatic.com/image/thumb/Music125/v4/09/6b/55/096b55c4-ee8f-23bd-df8f-0ca0821f3028/886446727189.jpg/400x400cc.jpg",
+            "twitter": "I used @Shazam to discover Every Ghetto, Every City by Lauryn Hill.",
+            "html": "https://www.shazam.com/snippets/email-share/10312210?lang=en-US&country=GB",
+            "avatar": "https://is4-ssl.mzstatic.com/image/thumb/Features115/v4/17/54/32/1754321f-4d10-0445-8c63-63b9aca63241/mza_5881696461253841876.png/800x800cc.jpg",
+            "snapchat": "https://www.shazam.com/partner/sc/track/10312210"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "actions": [
+                {
+                    "name": "apple",
+                    "type": "applemusicplay",
+                    "id": "1276760754"
+                },
+                {
+                    "name": "apple",
+                    "type": "uri",
+                    "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/be/4d/3c/be4d3c9f-df7c-a3d7-afd4-5f1373d0420b/mzaf_13868875025372863072.plus.aac.ep.m4a"
+                }
+            ],
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/gb/album/every-ghetto-every-city/1276760743?i=1276760754&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/gb/album/every-ghetto-every-city/1276760743?i=1276760754&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                },
+                {
+                    "caption": "BUY",
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "uri": "https://itunes.apple.com/gb/album/every-ghetto-every-city/1276760743?i=1276760754&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "buy",
+                        "providername": "itunes"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "type": "buy",
+                    "listcaption": "Buy on iTunes",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "itunes"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:Every%20Ghetto%2C%20Every%20City%20Lauryn%20Hill"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27Every+Ghetto%2C+Every+City%27%20artist%3A%27Lauryn+Hill%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": false,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [
+                    {
+                        "image": "https://is4-ssl.mzstatic.com/image/thumb/Features115/v4/17/54/32/1754321f-4d10-0445-8c63-63b9aca63241/mza_5881696461253841876.png/800x800cc.jpg",
+                        "caption": "Lauryn Hill"
+                    },
+                    {
+                        "image": "https://is4-ssl.mzstatic.com/image/thumb/Music125/v4/09/6b/55/096b55c4-ee8f-23bd-df8f-0ca0821f3028/886446727189.jpg/400x400cc.jpg",
+                        "caption": "Every Ghetto, Every City"
+                    }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                    {
+                        "title": "Album",
+                        "text": "The Miseducation of Lauryn Hill"
+                    },
+                    {
+                        "title": "Label",
+                        "text": "Ruffhouse/Columbia"
+                    },
+                    {
+                        "title": "Released",
+                        "text": "1998"
+                    }
+                ]
+            },
+            {
+                "type": "LYRICS",
+                "text": [
+                    "We gonna take you from Tokyo to New Jersey",
+                    "New Jersey to Tokyo",
+                    "Tokyo to Jersey",
+                    "It's pretty just the same",
+                    "",
+                    "I was just a little girl",
+                    "Skinny legs, a press and curl",
+                    "My mother always thought I'd be a star",
+                    "But way before the record deals",
+                    "Streets that nurtured Lauryn Hill",
+                    "Made sure that I'd never go too far",
+                    "",
+                    "Every ghetto, every city",
+                    "And suburban place I been",
+                    "Make me recall my days in New Jerusalem",
+                    "",
+                    "Story starts in Hooverville",
+                    "Grew up next to Ivy Hill",
+                    "When kids were stealing quartervilles for fun",
+                    "\"Kill the Guy\" in Carter Park",
+                    "Rode a Mongoose 'til it's dark",
+                    "Watching kids show off the stolen ones",
+                    "",
+                    "Every ghetto, every city",
+                    "And suburban place I been",
+                    "Make me recall my days in the New Jerusalem",
+                    "",
+                    "You know it's hot",
+                    "Don't forget, what you got",
+                    "Looking back... looking back, looking back, looking back",
+                    "You know it's hot",
+                    "Don't forget, what you got",
+                    "Looking back, looking back, looking back, looking back",
+                    "",
+                    "Bag of Bonbons, 20 cents and a nickel (well that's a quarter)",
+                    "Springfield Ave had the best popsicles",
+                    "Saturday morning cartoons and Kung-Fu (wuh-TAH!)",
+                    "Main street roots tonic with the dreads",
+                    "A beef patty and some coco bread",
+                    "Move the patch from my Lee's to the tongue of my shoes",
+                    "",
+                    "Every ghetto, every city",
+                    "And suburban place I been",
+                    "Make me recall my days in New Jerusalem",
+                    "Make me recall my days in New Jerusalem",
+                    "Every ghetto and every city that I been",
+                    "Make me recall my days in New Jerusalem",
+                    "Make me recall my days in New Jerusalem",
+                    "",
+                    "You know it's hot",
+                    "Don't forget, what you got",
+                    "Looking back, looking back, looking back, looking back",
+                    "One more time you know it's hot",
+                    "Don't forget, what you got",
+                    "Looking back, looking back, looking back, looking back",
+                    "Wait a minute, one, two, three, four",
+                    "You know it's hot",
+                    "Don't forget, what you got",
+                    "Looking back, looking back, looking back, looking back"
+                ],
+                "url": "https://cdn.shazam.com/lyrics/v1/en-US/GB/iphone/musixmatch/subtitles/118844342/323/1?token=328a5fcd5b30204b0539a5bc05f813b8",
+                "footer": "Writer(s): David Axelrod, Andy Colline\nLyrics powered by www.musixmatch.com",
+                "tabname": "Lyrics",
+                "beacondata": {
+                    "lyricsid": "26320745",
+                    "providername": "musixmatch",
+                    "commontrackid": "118844342"
+                }
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/10312210/youtube/video?q=Lauryn+Hill+%22Every+Ghetto,+Every+City%22"
+            },
+            {
+                "type": "RELATED",
+                "url": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-10312210?startFrom=0&pageSize=20&connected=",
+                "tabname": "Related"
+            }
+        ],
+        "url": "https://www.shazam.com/track/10312210/every-ghetto-every-city",
+        "artists": [
+            {
+                "id": "42",
+                "adamid": "21434"
+            }
+        ],
+        "isrc": "USSM19803111",
+        "genres": {
+            "primary": "Pop"
+        },
+        "urlparams": {
+            "{tracktitle}": "Every+Ghetto%2C+Every+City",
+            "{trackartist}": "Lauryn+Hill"
+        },
+        "myshazam": {
+            "apple": {
+                "actions": [
+                    {
+                        "name": "myshazam:apple",
+                        "type": "uri",
+                        "uri": "https://music.apple.com/gb/album/every-ghetto-every-city/1276760743?i=1276760754&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                ]
+            }
+        },
+        "highlightsurls": {
+            "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/21434/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+        },
+        "relatedtracksurl": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-10312210?startFrom=0&pageSize=20&connected=",
+        "albumadamid": "1276760743"
+    },
+    "tagid": "EECC7514-1EDD-422B-899F-CE0601F8C305"
+}

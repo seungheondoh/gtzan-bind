@@ -1,0 +1,212 @@
+{
+    "matches": [
+        {
+            "id": "210144473",
+            "offset": 53.679542968,
+            "timeskew": -4.440546e-05,
+            "frequencyskew": 0.0
+        },
+        {
+            "id": "205736469",
+            "offset": 50.296265625,
+            "timeskew": -0.003747642,
+            "frequencyskew": -0.0039390326
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691633088294,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "10481392",
+        "title": "Rhapsody in Blue (Orch. by Ferde Greof\u00e9)",
+        "subtitle": "Andr\u00e9 Previn & London Symphony Orchestra",
+        "images": {
+            "background": "https://is5-ssl.mzstatic.com/image/thumb/Features115/v4/7a/88/a0/7a88a059-ec35-787c-b2d2-b118fdd09814/mzl.mxqsukxb.jpg/800x800cc.jpg",
+            "coverart": "https://is1-ssl.mzstatic.com/image/thumb/Music5/v4/32/4f/39/324f3956-f1b9-b29e-e0d8-26eec8434da9/dj.ftixakif.jpg/400x400cc.jpg",
+            "coverarthq": "https://is1-ssl.mzstatic.com/image/thumb/Music5/v4/32/4f/39/324f3956-f1b9-b29e-e0d8-26eec8434da9/dj.ftixakif.jpg/400x400cc.jpg",
+            "joecolor": "b:9aafb4p:050600s:1b2548t:232824q:34405d"
+        },
+        "share": {
+            "subject": "Rhapsody in Blue (Orch. by Ferde Greof\u00e9) - Andr\u00e9 Previn & London Symphony Orchestra",
+            "text": "Rhapsody in Blue (Orch. by Ferde Greof\u00e9) by Andr\u00e9 Previn & London Symphony Orchestra",
+            "href": "https://www.shazam.com/track/10481392/rhapsody-in-blue-orch-by-ferde-greof%C3%A9",
+            "image": "https://is1-ssl.mzstatic.com/image/thumb/Music5/v4/32/4f/39/324f3956-f1b9-b29e-e0d8-26eec8434da9/dj.ftixakif.jpg/400x400cc.jpg",
+            "twitter": "I used @Shazam to discover Rhapsody in Blue (Orch. by Ferde Greof\u00e9) by Andr\u00e9 Previn & London Symphony Orchestra.",
+            "html": "https://www.shazam.com/snippets/email-share/10481392?lang=en-US&country=GB",
+            "avatar": "https://is5-ssl.mzstatic.com/image/thumb/Features115/v4/7a/88/a0/7a88a059-ec35-787c-b2d2-b118fdd09814/mzl.mxqsukxb.jpg/800x800cc.jpg",
+            "snapchat": "https://www.shazam.com/partner/sc/track/10481392"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "actions": [
+                {
+                    "name": "apple",
+                    "type": "applemusicplay",
+                    "id": "692262297"
+                },
+                {
+                    "name": "apple",
+                    "type": "uri",
+                    "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/86/93/50/86935069-12a5-fa98-1092-8733f8ef61bf/mzaf_3140081486346141975.plus.aac.ep.m4a"
+                }
+            ],
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/gb/album/rhapsody-in-blue-orch-by-ferde-greof%C3%A9/692262044?i=692262297&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/gb/album/rhapsody-in-blue-orch-by-ferde-greof%C3%A9/692262044?i=692262297&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                },
+                {
+                    "caption": "BUY",
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "uri": "https://itunes.apple.com/gb/album/rhapsody-in-blue-orch-by-ferde-greof%C3%A9/692262044?i=692262297&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "buy",
+                        "providername": "itunes"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "type": "buy",
+                    "listcaption": "Buy on iTunes",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "itunes"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:Rhapsody%20in%20Blue%20%28Orch.%20by%20Ferde%20Greof%C3%A9%29%20Andr%C3%A9%20Previn"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27Rhapsody+in+Blue+%28Orch.+by+Ferde+Greof%C3%A9%29%27%20artist%3A%27Andr%C3%A9+Previn++London+Symphony+Orchestra%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": false,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [
+                    {
+                        "image": "https://is5-ssl.mzstatic.com/image/thumb/Features115/v4/7a/88/a0/7a88a059-ec35-787c-b2d2-b118fdd09814/mzl.mxqsukxb.jpg/800x800cc.jpg",
+                        "caption": "Andr\u00e9 Previn"
+                    },
+                    {
+                        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music5/v4/32/4f/39/324f3956-f1b9-b29e-e0d8-26eec8434da9/dj.ftixakif.jpg/400x400cc.jpg",
+                        "caption": "Rhapsody in Blue (Orch. by Ferde Greof\u00e9)"
+                    }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                    {
+                        "title": "Album",
+                        "text": "Gershwin: Rhapsody in Blue, An American in Paris, Concerto in F"
+                    },
+                    {
+                        "title": "Label",
+                        "text": "Warner Classics"
+                    },
+                    {
+                        "title": "Released",
+                        "text": "1971"
+                    }
+                ]
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/10481392/youtube/video?q=Andr%C3%A9+Previn+%26+London+Symphony+Orchestra+%22Rhapsody+in+Blue+(Orch.+by+Ferde+Greof%C3%A9)%22"
+            },
+            {
+                "type": "RELATED",
+                "url": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-10481392?startFrom=0&pageSize=20&connected=",
+                "tabname": "Related"
+            }
+        ],
+        "url": "https://www.shazam.com/track/10481392/rhapsody-in-blue-orch-by-ferde-greof%C3%A9",
+        "artists": [
+            {
+                "id": "42",
+                "adamid": "702496"
+            }
+        ],
+        "isrc": "GBAYC9801070",
+        "genres": {
+            "primary": "Classical"
+        },
+        "urlparams": {
+            "{tracktitle}": "Rhapsody+in+Blue+%28Orch.+by+Ferde+Greof%C3%A9%29",
+            "{trackartist}": "Andr%C3%A9+Previn+%26+London+Symphony+Orchestra"
+        },
+        "myshazam": {
+            "apple": {
+                "actions": [
+                    {
+                        "name": "myshazam:apple",
+                        "type": "uri",
+                        "uri": "https://music.apple.com/gb/album/rhapsody-in-blue-orch-by-ferde-greof%C3%A9/692262044?i=692262297&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                ]
+            }
+        },
+        "highlightsurls": {
+            "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/702496/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+        },
+        "relatedtracksurl": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-10481392?startFrom=0&pageSize=20&connected=",
+        "albumadamid": "692262044"
+    },
+    "tagid": "83F3048F-146F-47CE-9124-0B0EE0723253"
+}

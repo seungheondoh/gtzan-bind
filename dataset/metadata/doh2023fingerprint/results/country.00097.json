@@ -1,0 +1,255 @@
+{
+    "matches": [
+        {
+            "id": "291681261",
+            "offset": 30.014484375,
+            "timeskew": -1.9907951e-05,
+            "frequencyskew": 0.0
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691633425907,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "473944",
+        "title": "Remember the Alamo",
+        "subtitle": "George Strait",
+        "images": {
+            "background": "https://is5-ssl.mzstatic.com/image/thumb/Features115/v4/5c/bc/5c/5cbc5cc4-2f14-512a-25a8-9bc4c37d4c11/mzl.whvoujpl.jpg/800x800cc.jpg",
+            "coverart": "https://is4-ssl.mzstatic.com/image/thumb/Music124/v4/f0/c8/36/f0c83650-b55f-40ea-e021-26bdb7f1ca2e/00008817002026.rgb.jpg/400x400cc.jpg",
+            "coverarthq": "https://is4-ssl.mzstatic.com/image/thumb/Music124/v4/f0/c8/36/f0c83650-b55f-40ea-e021-26bdb7f1ca2e/00008817002026.rgb.jpg/400x400cc.jpg",
+            "joecolor": "b:030d0ep:91b4e9s:73aee9t:7492bdq:5c8ebd"
+        },
+        "share": {
+            "subject": "Remember the Alamo - George Strait",
+            "text": "Remember the Alamo by George Strait",
+            "href": "https://www.shazam.com/track/473944/remember-the-alamo",
+            "image": "https://is4-ssl.mzstatic.com/image/thumb/Music124/v4/f0/c8/36/f0c83650-b55f-40ea-e021-26bdb7f1ca2e/00008817002026.rgb.jpg/400x400cc.jpg",
+            "twitter": "I used @Shazam to discover Remember the Alamo by George Strait.",
+            "html": "https://www.shazam.com/snippets/email-share/473944?lang=en-US&country=GB",
+            "avatar": "https://is5-ssl.mzstatic.com/image/thumb/Features115/v4/5c/bc/5c/5cbc5cc4-2f14-512a-25a8-9bc4c37d4c11/mzl.whvoujpl.jpg/800x800cc.jpg",
+            "snapchat": "https://www.shazam.com/partner/sc/track/473944"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "actions": [
+                {
+                    "name": "apple",
+                    "type": "applemusicplay",
+                    "id": "1444041522"
+                },
+                {
+                    "name": "apple",
+                    "type": "uri",
+                    "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/5a/49/1b/5a491b91-0654-4eb5-5e91-847867226b76/mzaf_5771714732458286832.plus.aac.ep.m4a"
+                }
+            ],
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/gb/album/remember-the-alamo/1444041057?i=1444041522&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/gb/album/remember-the-alamo/1444041057?i=1444041522&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                },
+                {
+                    "caption": "BUY",
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "uri": "https://itunes.apple.com/gb/album/remember-the-alamo/1444041057?i=1444041522&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "buy",
+                        "providername": "itunes"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "type": "buy",
+                    "listcaption": "Buy on iTunes",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "itunes"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:Remember%20the%20Alamo%20George%20Strait"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27Remember+the+Alamo%27%20artist%3A%27George+Strait%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": false,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [
+                    {
+                        "image": "https://is5-ssl.mzstatic.com/image/thumb/Features115/v4/5c/bc/5c/5cbc5cc4-2f14-512a-25a8-9bc4c37d4c11/mzl.whvoujpl.jpg/800x800cc.jpg",
+                        "caption": "George Strait"
+                    },
+                    {
+                        "image": "https://is4-ssl.mzstatic.com/image/thumb/Music124/v4/f0/c8/36/f0c83650-b55f-40ea-e021-26bdb7f1ca2e/00008817002026.rgb.jpg/400x400cc.jpg",
+                        "caption": "Remember the Alamo"
+                    }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                    {
+                        "title": "Album",
+                        "text": "One Step at a Time"
+                    },
+                    {
+                        "title": "Label",
+                        "text": "MCA Nashville"
+                    },
+                    {
+                        "title": "Released",
+                        "text": "1998"
+                    }
+                ]
+            },
+            {
+                "type": "LYRICS",
+                "text": [
+                    "Girl, you were always my yellow rose",
+                    "And I was your one lone star",
+                    "We always said",
+                    "Together 'til death do us part",
+                    "",
+                    "We had a love bigger than Texas",
+                    "Where is that feeling now?",
+                    "It's taken some hits and some losses but it's fighting on",
+                    "And standing somehow",
+                    "",
+                    "Remember the man who asked for your hand",
+                    "In the moonlight of San Antone",
+                    "There by the mission, you let your position be known",
+                    "That you love me so",
+                    "Don't forget where it started",
+                    "Remember the Alamo",
+                    "",
+                    "I think we can hold on and make it together",
+                    "If we remember when",
+                    "And get back to love",
+                    "The way that it was back then",
+                    "",
+                    "When we were hopeless romantics, needing each other",
+                    "Willing to take a chance",
+                    "We strolled and we talked down the ol' river walk",
+                    "To the heart of where it began",
+                    "",
+                    "Remember the man who asked for your hand",
+                    "In the moonlight of San Antone",
+                    "There by the mission, you let your position be known",
+                    "That you love me so",
+                    "Don't forget where it started",
+                    "Remember the Alamo",
+                    "",
+                    "Remember the man who asked for your hand",
+                    "In the moonlight of San Antone",
+                    "There by the mission, you let your position be known",
+                    "That you love me so",
+                    "Don't forget where it started",
+                    "",
+                    "Don't forget where it started",
+                    "Remember the Alamo"
+                ],
+                "url": "https://cdn.shazam.com/lyrics/v1/en-US/GB/iphone/musixmatch/subtitles/237439/271/1?token=268049aaf869e92cbb40cefc6da728b1",
+                "footer": "Writer(s): Gordon Kennedy, Obed Kirkpatrick\nLyrics powered by www.musixmatch.com",
+                "tabname": "Lyrics",
+                "beacondata": {
+                    "lyricsid": "24722484",
+                    "providername": "musixmatch",
+                    "commontrackid": "237439"
+                }
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/473944/youtube/video?q=George+Strait+%22Remember+the+Alamo%22"
+            }
+        ],
+        "url": "https://www.shazam.com/track/473944/remember-the-alamo",
+        "artists": [
+            {
+                "id": "42",
+                "adamid": "96353"
+            }
+        ],
+        "isrc": "USMC19701153",
+        "genres": {
+            "primary": "Pop"
+        },
+        "urlparams": {
+            "{tracktitle}": "Remember+the+Alamo",
+            "{trackartist}": "George+Strait"
+        },
+        "myshazam": {
+            "apple": {
+                "actions": [
+                    {
+                        "name": "myshazam:apple",
+                        "type": "uri",
+                        "uri": "https://music.apple.com/gb/album/remember-the-alamo/1444041057?i=1444041522&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                ]
+            }
+        },
+        "highlightsurls": {
+            "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/96353/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+        },
+        "albumadamid": "1444041057"
+    },
+    "tagid": "20AB6013-A048-4EBD-918D-956B818C8FEF"
+}

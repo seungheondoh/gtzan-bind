@@ -1,0 +1,261 @@
+{
+    "matches": [
+        {
+            "id": "627011414",
+            "offset": 29.885335937,
+            "timeskew": -0.0013295412,
+            "frequencyskew": -0.0008856058
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691633779893,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "357444",
+        "title": "Shock the Monkey",
+        "subtitle": "Coal Chamber",
+        "images": {
+            "background": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/ea/65/dd/ea65dd92-50a8-3303-7c2f-aaa1c16625d5/pr_source.png/800x800cc.jpg",
+            "coverart": "https://is5-ssl.mzstatic.com/image/thumb/Music124/v4/6a/fd/65/6afd6536-28f3-78aa-e025-005d316073c3/16861865900_1.jpg/400x400cc.jpg",
+            "coverarthq": "https://is5-ssl.mzstatic.com/image/thumb/Music124/v4/6a/fd/65/6afd6536-28f3-78aa-e025-005d316073c3/16861865900_1.jpg/400x400cc.jpg",
+            "joecolor": "b:211627p:f8faf9s:ceb9e7t:cdcdcfq:ab99c1"
+        },
+        "share": {
+            "subject": "Shock the Monkey - Coal Chamber",
+            "text": "Shock the Monkey by Coal Chamber",
+            "href": "https://www.shazam.com/track/357444/shock-the-monkey",
+            "image": "https://is5-ssl.mzstatic.com/image/thumb/Music124/v4/6a/fd/65/6afd6536-28f3-78aa-e025-005d316073c3/16861865900_1.jpg/400x400cc.jpg",
+            "twitter": "I used @Shazam to discover Shock the Monkey by Coal Chamber.",
+            "html": "https://www.shazam.com/snippets/email-share/357444?lang=en-US&country=GB",
+            "avatar": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/ea/65/dd/ea65dd92-50a8-3303-7c2f-aaa1c16625d5/pr_source.png/800x800cc.jpg",
+            "snapchat": "https://www.shazam.com/partner/sc/track/357444"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "actions": [
+                {
+                    "name": "apple",
+                    "type": "applemusicplay",
+                    "id": "1349403205"
+                },
+                {
+                    "name": "apple",
+                    "type": "uri",
+                    "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/b9/41/e2/b941e293-1ab7-f1bf-270f-2ed2abf9adef/mzaf_18000998863175854248.plus.aac.ep.m4a"
+                }
+            ],
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/gb/album/shock-the-monkey/1349402879?i=1349403205&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/gb/album/shock-the-monkey/1349402879?i=1349403205&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                },
+                {
+                    "caption": "BUY",
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "uri": "https://itunes.apple.com/gb/album/shock-the-monkey/1349402879?i=1349403205&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "buy",
+                        "providername": "itunes"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "type": "buy",
+                    "listcaption": "Buy on iTunes",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "itunes"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:Shock%20the%20Monkey%20Coal%20Chamber"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27Shock+the+Monkey%27%20artist%3A%27Coal+Chamber%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": false,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [
+                    {
+                        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/ea/65/dd/ea65dd92-50a8-3303-7c2f-aaa1c16625d5/pr_source.png/800x800cc.jpg",
+                        "caption": "Coal Chamber"
+                    },
+                    {
+                        "image": "https://is5-ssl.mzstatic.com/image/thumb/Music124/v4/6a/fd/65/6afd6536-28f3-78aa-e025-005d316073c3/16861865900_1.jpg/400x400cc.jpg",
+                        "caption": "Shock the Monkey"
+                    }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                    {
+                        "title": "Album",
+                        "text": "Chamber Music"
+                    },
+                    {
+                        "title": "Label",
+                        "text": "Woah Dad!"
+                    },
+                    {
+                        "title": "Released",
+                        "text": "1999"
+                    }
+                ]
+            },
+            {
+                "type": "LYRICS",
+                "text": [
+                    "Cover me when I run",
+                    "Cover me, I'm through the fire",
+                    "Something not beyond the greed",
+                    "God I'm on my knees",
+                    "Cover me darling please (Hey-e-hey)",
+                    "",
+                    "Monkey, monkey",
+                    "Monkey",
+                    "Don't you know you gotta shock the monkey? (hey, hey)",
+                    "",
+                    "Fox the fox, rat all the rats",
+                    "You can ape the ape",
+                    "I'm know about that",
+                    "There is more thing you must be sure of",
+                    "I can't take anymore darling",
+                    "Don't you monkey with the monkey? (Hey-e-hey)",
+                    "",
+                    "Monkey, monkey",
+                    "Monkey",
+                    "Don't you know you've gotta shock the monkey? (hey, hey)",
+                    "Shock the monkey (Hey-e-hey)",
+                    "",
+                    "Monkey - Wheels keep turning",
+                    "Monkey - Something's burning",
+                    "Monkey - I don't like it but I guess i'm learning",
+                    "Shock!",
+                    "Shock!",
+                    "Shock!",
+                    "Watch the monkey get hurt, monkey (Shock)",
+                    "",
+                    "Cover me when I sleep",
+                    "Cover me when I breathe",
+                    "You throw your pearls before the swine, make your monkey the blind",
+                    "Cover me darling please (Hey-e-hey)",
+                    "",
+                    "Monkey - Too much at stake",
+                    "Monkey - Ground beneath me shake",
+                    "Monkey - And the news is breaking",
+                    "Shock!",
+                    "Shock!",
+                    "Shock!",
+                    "Shock!"
+                ],
+                "url": "https://cdn.shazam.com/lyrics/v1/en-US/GB/iphone/musixmatch/subtitles/792648/222/1?token=1e5249f38d2958c69587f2757ff8b670",
+                "footer": "Writer(s): Peter Gabriel\nLyrics powered by www.musixmatch.com",
+                "tabname": "Lyrics",
+                "beacondata": {
+                    "lyricsid": "25704899",
+                    "providername": "musixmatch",
+                    "commontrackid": "792648"
+                }
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/357444/youtube/video?q=Coal+Chamber+%22Shock+the+Monkey%22"
+            },
+            {
+                "type": "RELATED",
+                "url": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-357444?startFrom=0&pageSize=20&connected=",
+                "tabname": "Related"
+            }
+        ],
+        "url": "https://www.shazam.com/track/357444/shock-the-monkey",
+        "artists": [
+            {
+                "id": "42",
+                "adamid": "16638767"
+            }
+        ],
+        "isrc": "NLA329980316",
+        "genres": {
+            "primary": "Metal"
+        },
+        "urlparams": {
+            "{tracktitle}": "Shock+the+Monkey",
+            "{trackartist}": "Coal+Chamber"
+        },
+        "myshazam": {
+            "apple": {
+                "actions": [
+                    {
+                        "name": "myshazam:apple",
+                        "type": "uri",
+                        "uri": "https://music.apple.com/gb/album/shock-the-monkey/1349402879?i=1349403205&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                ]
+            }
+        },
+        "highlightsurls": {
+            "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/16638767/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+        },
+        "relatedtracksurl": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-357444?startFrom=0&pageSize=20&connected=",
+        "albumadamid": "1349402879"
+    },
+    "tagid": "B58E1FD1-42EC-455C-B12A-0250897AEA4A"
+}

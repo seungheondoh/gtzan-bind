@@ -1,0 +1,195 @@
+{
+    "matches": [
+        {
+            "id": "202187297",
+            "offset": 30.026761718000003,
+            "timeskew": 0.00018155575,
+            "frequencyskew": -8.0525875e-05
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691632312861,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "10844628",
+        "title": "Sweet Lorraine",
+        "subtitle": "Henry \"Red\" Allen",
+        "images": {
+            "background": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/6d/d0/83/6dd08348-aa99-f657-5436-8478f91545b8/mzi.yvlkoqtr.jpg/400x400cc.jpg",
+            "coverart": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/6d/d0/83/6dd08348-aa99-f657-5436-8478f91545b8/mzi.yvlkoqtr.jpg/400x400cc.jpg",
+            "coverarthq": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/6d/d0/83/6dd08348-aa99-f657-5436-8478f91545b8/mzi.yvlkoqtr.jpg/400x400cc.jpg",
+            "joecolor": "b:a9a081p:171011s:1d1916t:342d27q:39342b"
+        },
+        "share": {
+            "subject": "Sweet Lorraine - Henry \"Red\" Allen",
+            "text": "Sweet Lorraine by Henry \"Red\" Allen",
+            "href": "https://www.shazam.com/track/10844628/sweet-lorraine",
+            "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/6d/d0/83/6dd08348-aa99-f657-5436-8478f91545b8/mzi.yvlkoqtr.jpg/400x400cc.jpg",
+            "twitter": "I used @Shazam to discover Sweet Lorraine by Henry \"Red\" Allen.",
+            "html": "https://www.shazam.com/snippets/email-share/10844628?lang=en-US&country=GB",
+            "snapchat": "https://www.shazam.com/partner/sc/track/10844628"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "actions": [
+                {
+                    "name": "apple",
+                    "type": "applemusicplay",
+                    "id": "304780110"
+                },
+                {
+                    "name": "apple",
+                    "type": "uri",
+                    "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/ab/2f/81/ab2f81c9-5888-12a6-f632-34bf2aec299b/mzaf_11042101572453057070.plus.aac.ep.m4a"
+                }
+            ],
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/gb/album/sweet-lorraine/304779843?i=304780110&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/gb/album/sweet-lorraine/304779843?i=304780110&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                },
+                {
+                    "caption": "BUY",
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "uri": "https://itunes.apple.com/gb/album/sweet-lorraine/304779843?i=304780110&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "buy",
+                        "providername": "itunes"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "type": "buy",
+                    "listcaption": "Buy on iTunes",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "itunes"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:Sweet%20Lorraine%20Henry%20%22Red%22%20Allen"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27Sweet+Lorraine%27%20artist%3A%27Henry+%22Red%22+Allen%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": false,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [
+                    {
+                        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/6d/d0/83/6dd08348-aa99-f657-5436-8478f91545b8/mzi.yvlkoqtr.jpg/400x400cc.jpg",
+                        "caption": "Sweet Lorraine"
+                    }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                    {
+                        "title": "Album",
+                        "text": "World On a String (Remastered)"
+                    },
+                    {
+                        "title": "Label",
+                        "text": "RCA Bluebird"
+                    },
+                    {
+                        "title": "Released",
+                        "text": "1990"
+                    }
+                ]
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/10844628/youtube/video?q=Henry+Red+Allen+%22Sweet+Lorraine%22"
+            }
+        ],
+        "url": "https://www.shazam.com/track/10844628/sweet-lorraine",
+        "artists": [
+            {
+                "id": "42",
+                "adamid": "1115706"
+            }
+        ],
+        "isrc": "USBB19101376",
+        "genres": {
+            "primary": "Jazz"
+        },
+        "urlparams": {
+            "{tracktitle}": "Sweet+Lorraine",
+            "{trackartist}": "Henry+%22Red%22+Allen"
+        },
+        "myshazam": {
+            "apple": {
+                "actions": [
+                    {
+                        "name": "myshazam:apple",
+                        "type": "uri",
+                        "uri": "https://music.apple.com/gb/album/sweet-lorraine/304779843?i=304780110&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                ]
+            }
+        },
+        "highlightsurls": {
+            "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/1115706/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+        },
+        "albumadamid": "304779843"
+    },
+    "tagid": "6FCC74E0-9571-4E57-BDDE-510F1BE35F68"
+}

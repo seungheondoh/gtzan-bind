@@ -1,0 +1,273 @@
+{
+    "matches": [
+        {
+            "id": "231880046",
+            "offset": 25.173085937,
+            "timeskew": 0.00023806095,
+            "frequencyskew": 0.00024163723
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691632479659,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "245423",
+        "title": "My Simple Heart",
+        "subtitle": "The Three Degrees",
+        "images": {
+            "background": "https://is2-ssl.mzstatic.com/image/thumb/Features115/v4/6c/b7/71/6cb7717e-7f0a-d322-c35f-1ca3dca577a3/mzl.zqzovitr.jpg/800x800cc.jpg",
+            "coverart": "https://is3-ssl.mzstatic.com/image/thumb/Features/9e/4e/7b/dj.qaqveucy.jpg/400x400cc.jpg",
+            "coverarthq": "https://is3-ssl.mzstatic.com/image/thumb/Features/9e/4e/7b/dj.qaqveucy.jpg/400x400cc.jpg",
+            "joecolor": "b:5900cfp:ffffffs:fcec01t:ddcbf5q:dbbd2a"
+        },
+        "share": {
+            "subject": "My Simple Heart - The Three Degrees",
+            "text": "My Simple Heart by The Three Degrees",
+            "href": "https://www.shazam.com/track/245423/my-simple-heart",
+            "image": "https://is3-ssl.mzstatic.com/image/thumb/Features/9e/4e/7b/dj.qaqveucy.jpg/400x400cc.jpg",
+            "twitter": "I used @Shazam to discover My Simple Heart by The Three Degrees.",
+            "html": "https://www.shazam.com/snippets/email-share/245423?lang=en-US&country=GB",
+            "avatar": "https://is2-ssl.mzstatic.com/image/thumb/Features115/v4/6c/b7/71/6cb7717e-7f0a-d322-c35f-1ca3dca577a3/mzl.zqzovitr.jpg/800x800cc.jpg",
+            "snapchat": "https://www.shazam.com/partner/sc/track/245423"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "actions": [
+                {
+                    "name": "apple",
+                    "type": "applemusicplay",
+                    "id": "93619095"
+                },
+                {
+                    "name": "apple",
+                    "type": "uri",
+                    "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/6d/20/35/6d203546-2f08-9522-e9ea-8301789ad417/mzaf_16833531339762702280.plus.aac.ep.m4a"
+                }
+            ],
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/gb/album/my-simple-heart/93619107?i=93619095&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/gb/album/my-simple-heart/93619107?i=93619095&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                },
+                {
+                    "caption": "BUY",
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "uri": "https://itunes.apple.com/gb/album/my-simple-heart/93619107?i=93619095&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "buy",
+                        "providername": "itunes"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "type": "buy",
+                    "listcaption": "Buy on iTunes",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "itunes"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:My%20Simple%20Heart%20The%20Three%20Degrees"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27My+Simple+Heart%27%20artist%3A%27The+Three+Degrees%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": false,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [
+                    {
+                        "image": "https://is2-ssl.mzstatic.com/image/thumb/Features115/v4/6c/b7/71/6cb7717e-7f0a-d322-c35f-1ca3dca577a3/mzl.zqzovitr.jpg/800x800cc.jpg",
+                        "caption": "The Three Degrees"
+                    },
+                    {
+                        "image": "https://is3-ssl.mzstatic.com/image/thumb/Features/9e/4e/7b/dj.qaqveucy.jpg/400x400cc.jpg",
+                        "caption": "My Simple Heart"
+                    }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                    {
+                        "title": "Album",
+                        "text": "Together"
+                    },
+                    {
+                        "title": "Label",
+                        "text": "K-tel"
+                    },
+                    {
+                        "title": "Released",
+                        "text": "1973"
+                    }
+                ]
+            },
+            {
+                "type": "LYRICS",
+                "text": [
+                    "My simple heart, my simple heart",
+                    "Yeah, yeah, yeah, yeah",
+                    "My simple heart will always love you",
+                    "",
+                    "I heard your reason, why you're leavin'",
+                    "Can't we talk it through",
+                    "Yeah, I know I hurt ya, you hurt me too",
+                    "It's crazy what people can do to each other",
+                    "",
+                    "When emotions start fillin' up inside your head",
+                    "It gets so complicated, and he's so frustrated",
+                    "You forget to say the things that ought to be said",
+                    "",
+                    "My simple heart, my simple heart",
+                    "Yeah, yeah, yeah, yeah",
+                    "My simple heart will always love you",
+                    "My simple heart, my simple heart",
+                    "Yeah, yeah, yeah, yeah",
+                    "My simple heart will always love you",
+                    "",
+                    "I'm not the school kid you fell in love with",
+                    "Somewhere back in time",
+                    "You might have grown up, it's time to own up",
+                    "You've had your lovers and yes I've had mine",
+                    "",
+                    "But I love ya, I still want ya",
+                    "There's so much that I can give",
+                    "If we were less demanding, a little more understanding",
+                    "Together we can find a better way to live",
+                    "",
+                    "My simple heart, my simple heart",
+                    "Yeah, yeah, yeah, yeah",
+                    "My simple heart will always love you",
+                    "",
+                    "Got a simple, simple heart that truly loves you",
+                    "And though we may have our problems, darling",
+                    "We'll make it through, yes, we will",
+                    "And as well, this simple heart of mine will always love you",
+                    "Don't ask me how I know, I simply do",
+                    "",
+                    "My simple heart, my simple heart",
+                    "Yeah, yeah, yeah, yeah",
+                    "My simple heart will always love you",
+                    "My simple heart, my simple heart",
+                    "Yeah, yeah, yeah, yeah",
+                    "My simple heart will always love you",
+                    "",
+                    "My simple heart, my simple heart",
+                    "Yeah, yeah, yeah, yeah",
+                    "My simple heart will always love you",
+                    "My simple heart, my simple heart",
+                    "Yeah, yeah, yeah, yeah",
+                    "",
+                    "My simple heart",
+                    "My simple heart"
+                ],
+                "footer": "Writer(s): Frank Musker, Dominic King\nLyrics powered by www.musixmatch.com",
+                "tabname": "Lyrics",
+                "beacondata": {
+                    "lyricsid": "8731347",
+                    "providername": "musixmatch",
+                    "commontrackid": "13367498"
+                }
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/245423/youtube/video?q=The+Three+Degrees+%22My+Simple+Heart%22"
+            },
+            {
+                "type": "RELATED",
+                "url": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-245423?startFrom=0&pageSize=20&connected=",
+                "tabname": "Related"
+            }
+        ],
+        "url": "https://www.shazam.com/track/245423/my-simple-heart",
+        "artists": [
+            {
+                "id": "42",
+                "adamid": "190399"
+            }
+        ],
+        "isrc": "GBJUT0570240",
+        "genres": {
+            "primary": "R&B/Soul"
+        },
+        "urlparams": {
+            "{tracktitle}": "My+Simple+Heart",
+            "{trackartist}": "The+Three+Degrees"
+        },
+        "myshazam": {
+            "apple": {
+                "actions": [
+                    {
+                        "name": "myshazam:apple",
+                        "type": "uri",
+                        "uri": "https://music.apple.com/gb/album/my-simple-heart/93619107?i=93619095&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                ]
+            }
+        },
+        "highlightsurls": {
+            "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/190399/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+        },
+        "relatedtracksurl": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-245423?startFrom=0&pageSize=20&connected=",
+        "albumadamid": "93619107"
+    },
+    "tagid": "96DA9E04-6212-43C8-8B32-24E4021736BE"
+}

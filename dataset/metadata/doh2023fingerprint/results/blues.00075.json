@@ -1,0 +1,236 @@
+{
+    "matches": [
+        {
+            "id": "301181131",
+            "offset": 29.957705078,
+            "timeskew": -1.4960766e-05,
+            "frequencyskew": -4.029274e-05
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691632551981,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "5955624",
+        "title": "Ya Ya",
+        "subtitle": "Buckwheat Zydeco",
+        "images": {
+            "background": "https://is4-ssl.mzstatic.com/image/thumb/Features115/v4/53/68/c7/5368c78e-803c-b14a-4e5e-8a5fcd18adea/mzl.wwacqeti.jpg/800x800cc.jpg",
+            "coverart": "https://is5-ssl.mzstatic.com/image/thumb/Music118/v4/4b/9b/2e/4b9b2e0f-52dc-1ea4-6698-1edb4579ac24/00011661221123.rgb.jpg/400x400cc.jpg",
+            "coverarthq": "https://is5-ssl.mzstatic.com/image/thumb/Music118/v4/4b/9b/2e/4b9b2e0f-52dc-1ea4-6698-1edb4579ac24/00011661221123.rgb.jpg/400x400cc.jpg",
+            "joecolor": "b:321318p:fffcffs:e554a6t:d5cdd0q:c1478a"
+        },
+        "share": {
+            "subject": "Ya Ya - Buckwheat Zydeco",
+            "text": "Ya Ya by Buckwheat Zydeco",
+            "href": "https://www.shazam.com/track/5955624/ya-ya",
+            "image": "https://is5-ssl.mzstatic.com/image/thumb/Music118/v4/4b/9b/2e/4b9b2e0f-52dc-1ea4-6698-1edb4579ac24/00011661221123.rgb.jpg/400x400cc.jpg",
+            "twitter": "I used @Shazam to discover Ya Ya by Buckwheat Zydeco.",
+            "html": "https://www.shazam.com/snippets/email-share/5955624?lang=en-US&country=GB",
+            "avatar": "https://is4-ssl.mzstatic.com/image/thumb/Features115/v4/53/68/c7/5368c78e-803c-b14a-4e5e-8a5fcd18adea/mzl.wwacqeti.jpg/800x800cc.jpg",
+            "snapchat": "https://www.shazam.com/partner/sc/track/5955624"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "actions": [
+                {
+                    "name": "apple",
+                    "type": "applemusicplay",
+                    "id": "1443869263"
+                },
+                {
+                    "name": "apple",
+                    "type": "uri",
+                    "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview118/v4/3c/c0/2a/3cc02a38-bc82-9992-3538-3f0350a98c2b/mzaf_5369478657206799595.plus.aac.ep.m4a"
+                }
+            ],
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/gb/album/ya-ya/1443869016?i=1443869263&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/gb/album/ya-ya/1443869016?i=1443869263&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                },
+                {
+                    "caption": "BUY",
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "uri": "https://itunes.apple.com/gb/album/ya-ya/1443869016?i=1443869263&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "buy",
+                        "providername": "itunes"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "type": "buy",
+                    "listcaption": "Buy on iTunes",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "itunes"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:Ya%20Ya%20Buckwheat%20Zydeco"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27Ya+Ya%27%20artist%3A%27Buckwheat+Zydeco%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": false,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [
+                    {
+                        "image": "https://is4-ssl.mzstatic.com/image/thumb/Features115/v4/53/68/c7/5368c78e-803c-b14a-4e5e-8a5fcd18adea/mzl.wwacqeti.jpg/800x800cc.jpg",
+                        "caption": "Buckwheat Zydeco"
+                    },
+                    {
+                        "image": "https://is5-ssl.mzstatic.com/image/thumb/Music118/v4/4b/9b/2e/4b9b2e0f-52dc-1ea4-6698-1edb4579ac24/00011661221123.rgb.jpg/400x400cc.jpg",
+                        "caption": "Ya Ya"
+                    }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                    {
+                        "title": "Album",
+                        "text": "Let the Good Times Roll"
+                    },
+                    {
+                        "title": "Label",
+                        "text": "New Rounder"
+                    },
+                    {
+                        "title": "Released",
+                        "text": "1985"
+                    }
+                ]
+            },
+            {
+                "type": "LYRICS",
+                "text": [
+                    "Oh, well, I'm sittin' here, la, la,",
+                    "Waiting for my ya ya,",
+                    "Uh huh, uh huh.",
+                    "Er, sittin' here, la, la,",
+                    "Waiting for my ya ya,",
+                    "Uh huh, uh huh.",
+                    "It may sound funny,",
+                    "But I don't believe she's comin',",
+                    "Uh huh, uh huh.",
+                    "",
+                    "Baby, honey, don't leave me worried,",
+                    "Uh huh, uh huh.",
+                    "Er, baby, honey, er, don't leave me worried,",
+                    "Uh huh, uh huh.",
+                    "You know that I love you.",
+                    "Oh, how I love you,",
+                    "Uh huh, uh huh."
+                ],
+                "url": "https://cdn.shazam.com/lyrics/v1/en-US/GB/iphone/musixmatch/subtitles/1465182/216/1?token=52a17442fb92e53ff80ca3d900e514e1",
+                "footer": "Writer(s): Morris Levy, Lee Dorsey, Clarence L Lewis\nLyrics powered by www.musixmatch.com",
+                "tabname": "Lyrics",
+                "beacondata": {
+                    "lyricsid": "8757657",
+                    "providername": "musixmatch",
+                    "commontrackid": "1465182"
+                }
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/5955624/youtube/video?q=Buckwheat+Zydeco+%22Ya+Ya%22"
+            },
+            {
+                "type": "RELATED",
+                "url": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-5955624?startFrom=0&pageSize=20&connected=",
+                "tabname": "Related"
+            }
+        ],
+        "url": "https://www.shazam.com/track/5955624/ya-ya",
+        "artists": [
+            {
+                "id": "42",
+                "adamid": "32279"
+            }
+        ],
+        "isrc": "USRO28805106",
+        "genres": {
+            "primary": "Singer/Songwriter"
+        },
+        "urlparams": {
+            "{tracktitle}": "Ya+Ya",
+            "{trackartist}": "Buckwheat+Zydeco"
+        },
+        "myshazam": {
+            "apple": {
+                "actions": [
+                    {
+                        "name": "myshazam:apple",
+                        "type": "uri",
+                        "uri": "https://music.apple.com/gb/album/ya-ya/1443869016?i=1443869263&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                ]
+            }
+        },
+        "highlightsurls": {
+            "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/32279/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+        },
+        "relatedtracksurl": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-5955624?startFrom=0&pageSize=20&connected=",
+        "albumadamid": "1443869016"
+    },
+    "tagid": "E130C1C3-208E-4D9F-9F9E-6257E672B88A"
+}

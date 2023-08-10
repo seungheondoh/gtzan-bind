@@ -1,0 +1,309 @@
+{
+    "matches": [
+        {
+            "id": "433920711",
+            "offset": 30.017882812,
+            "timeskew": 0.0016036034,
+            "frequencyskew": 0.0011686087
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691632599961,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "336938",
+        "title": "Shake It Baby",
+        "subtitle": "John Lee Hooker",
+        "images": {
+            "background": "https://is3-ssl.mzstatic.com/image/thumb/Features125/v4/37/a2/79/37a279e5-d29c-f554-8c32-21263bf40a04/mzl.fijrwzwn.jpg/800x800cc.jpg",
+            "coverart": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/25/4e/9f/254e9ff8-a1d5-a1a0-0a77-2178015caed3/00008811202521.rgb.jpg/400x400cc.jpg",
+            "coverarthq": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/25/4e/9f/254e9ff8-a1d5-a1a0-0a77-2178015caed3/00008811202521.rgb.jpg/400x400cc.jpg",
+            "joecolor": "b:010206p:feffffs:d8dad6t:cbcccdq:adafad"
+        },
+        "share": {
+            "subject": "Shake It Baby - John Lee Hooker",
+            "text": "Shake It Baby by John Lee Hooker",
+            "href": "https://www.shazam.com/track/336938/shake-it-baby",
+            "image": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/25/4e/9f/254e9ff8-a1d5-a1a0-0a77-2178015caed3/00008811202521.rgb.jpg/400x400cc.jpg",
+            "twitter": "I used @Shazam to discover Shake It Baby by John Lee Hooker.",
+            "html": "https://www.shazam.com/snippets/email-share/336938?lang=en-US&country=GB",
+            "avatar": "https://is3-ssl.mzstatic.com/image/thumb/Features125/v4/37/a2/79/37a279e5-d29c-f554-8c32-21263bf40a04/mzl.fijrwzwn.jpg/800x800cc.jpg",
+            "snapchat": "https://www.shazam.com/partner/sc/track/336938"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "actions": [
+                {
+                    "name": "apple",
+                    "type": "applemusicplay",
+                    "id": "1443873206"
+                },
+                {
+                    "name": "apple",
+                    "type": "uri",
+                    "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/49/07/f2/4907f23a-7e07-0cb7-468d-911a18cc770c/mzaf_7128652854393031372.plus.aac.ep.m4a"
+                }
+            ],
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/gb/album/shake-it-baby/1443873032?i=1443873206&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/gb/album/shake-it-baby/1443873032?i=1443873206&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                },
+                {
+                    "caption": "BUY",
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "uri": "https://itunes.apple.com/gb/album/shake-it-baby/1443873032?i=1443873206&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "buy",
+                        "providername": "itunes"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "type": "buy",
+                    "listcaption": "Buy on iTunes",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "itunes"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:Shake%20It%20Baby%20John%20Lee%20Hooker"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27Shake+It+Baby%27%20artist%3A%27John+Lee+Hooker%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": false,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [
+                    {
+                        "image": "https://is3-ssl.mzstatic.com/image/thumb/Features125/v4/37/a2/79/37a279e5-d29c-f554-8c32-21263bf40a04/mzl.fijrwzwn.jpg/800x800cc.jpg",
+                        "caption": "John Lee Hooker"
+                    },
+                    {
+                        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/25/4e/9f/254e9ff8-a1d5-a1a0-0a77-2178015caed3/00008811202521.rgb.jpg/400x400cc.jpg",
+                        "caption": "Shake It Baby"
+                    }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                    {
+                        "title": "Album",
+                        "text": "It Serves You Right to Suffer"
+                    },
+                    {
+                        "title": "Label",
+                        "text": "Geffen*"
+                    },
+                    {
+                        "title": "Released",
+                        "text": "1966"
+                    }
+                ]
+            },
+            {
+                "type": "LYRICS",
+                "text": [
+                    "Shake it baby",
+                    "Shake it baby",
+                    "Shake it baby",
+                    "",
+                    "For me",
+                    "For me",
+                    "",
+                    "Come on yeah",
+                    "Shake it right now",
+                    "",
+                    "W-a-a-a-a-a-a-h yeah!",
+                    "Shake it baby",
+                    "Shake it baby",
+                    "Shake that thing",
+                    "",
+                    "Me and you",
+                    "Me and you",
+                    "",
+                    "Nobody else but you",
+                    "Nobody else but you",
+                    "",
+                    "Shake it baby",
+                    "",
+                    "Shake it baby",
+                    "Shake it baby",
+                    "One time",
+                    "",
+                    "One time, for me",
+                    "Now rock!",
+                    "",
+                    "Ha-ha-ha",
+                    "Shake that thing, baby",
+                    "One time for your daddy",
+                    "I love it",
+                    "",
+                    "You're cookin' when you give",
+                    "Honey, you're workin'",
+                    "You've got the pots on",
+                    "And the gas workin' high",
+                    "",
+                    "One time, for me",
+                    "One time, for me",
+                    "One time, for me",
+                    "",
+                    "Shake baby",
+                    "Shake it baby",
+                    "Shake it baby",
+                    "Shake it baby",
+                    "",
+                    "Shake that thing",
+                    "Shake that thing",
+                    "Shake that thing",
+                    "Shake that thing",
+                    "",
+                    "One time, baby",
+                    "One time",
+                    "One time",
+                    "One time",
+                    "One time",
+                    "One more time",
+                    "",
+                    "One more",
+                    "And one more",
+                    "And one more",
+                    "",
+                    "One more time",
+                    "One more time",
+                    "One more time",
+                    "One more time",
+                    "One more time",
+                    "One more time",
+                    "",
+                    "Just one more time",
+                    "And, just one more time",
+                    "Once again",
+                    "One time",
+                    "",
+                    "And one more time",
+                    "And one more time",
+                    "And one more time",
+                    "One more time, baby",
+                    "Shake it baby",
+                    "",
+                    "One more time",
+                    "For me",
+                    "For me",
+                    "For me",
+                    "For me",
+                    "For me",
+                    "For me"
+                ],
+                "url": "https://cdn.shazam.com/lyrics/v1/en-US/GB/iphone/musixmatch/subtitles/15785334/259/1?token=1b562d8b8632dd668431adc8f2981fa3",
+                "footer": "Writer(s): John Lee Hooker\nLyrics powered by www.musixmatch.com",
+                "tabname": "Lyrics",
+                "beacondata": {
+                    "lyricsid": "32119156",
+                    "providername": "musixmatch",
+                    "commontrackid": "15785334"
+                }
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/336938/youtube/video?q=John+Lee+Hooker+%22Shake+It+Baby%22"
+            },
+            {
+                "type": "RELATED",
+                "url": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-336938?startFrom=0&pageSize=20&connected=",
+                "tabname": "Related"
+            }
+        ],
+        "url": "https://www.shazam.com/track/336938/shake-it-baby",
+        "artists": [
+            {
+                "id": "42",
+                "adamid": "97536"
+            }
+        ],
+        "isrc": "USMC16653804",
+        "genres": {
+            "primary": "Blues"
+        },
+        "urlparams": {
+            "{tracktitle}": "Shake+It+Baby",
+            "{trackartist}": "John+Lee+Hooker"
+        },
+        "myshazam": {
+            "apple": {
+                "actions": [
+                    {
+                        "name": "myshazam:apple",
+                        "type": "uri",
+                        "uri": "https://music.apple.com/gb/album/shake-it-baby/1443873032?i=1443873206&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                ]
+            }
+        },
+        "highlightsurls": {
+            "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/97536/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+        },
+        "relatedtracksurl": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-336938?startFrom=0&pageSize=20&connected=",
+        "albumadamid": "1443873032"
+    },
+    "tagid": "9D315B02-28DB-44BB-8949-1D422204C5FE"
+}

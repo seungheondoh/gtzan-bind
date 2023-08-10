@@ -1,0 +1,238 @@
+{
+    "matches": [
+        {
+            "id": "69456256",
+            "offset": 30.310679687,
+            "timeskew": -0.00095671415,
+            "frequencyskew": -0.0011672378
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691633472380,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "60279945",
+        "title": "If You've Got The Money I've Got the Time",
+        "subtitle": "Willie Nelson",
+        "images": {
+            "background": "https://is4-ssl.mzstatic.com/image/thumb/Features125/v4/b4/c2/9a/b4c29a1e-3b45-2b60-be65-dbb96d21e42a/mza_1383128222591135178.png/800x800cc.jpg",
+            "coverart": "https://is4-ssl.mzstatic.com/image/thumb/Music125/v4/ca/14/ae/ca14ae96-6c1f-9478-a838-37392cff8250/dj.kczxeqbz.jpg/400x400cc.jpg",
+            "coverarthq": "https://is4-ssl.mzstatic.com/image/thumb/Music125/v4/ca/14/ae/ca14ae96-6c1f-9478-a838-37392cff8250/dj.kczxeqbz.jpg/400x400cc.jpg",
+            "joecolor": "b:b79275p:0b0203s:2e1410t:2d1f1aq:492d24"
+        },
+        "share": {
+            "subject": "If You've Got The Money I've Got the Time - Willie Nelson",
+            "text": "If You've Got The Money I've Got the Time by Willie Nelson",
+            "href": "https://www.shazam.com/track/60279945/if-youve-got-the-money-ive-got-the-time",
+            "image": "https://is4-ssl.mzstatic.com/image/thumb/Music125/v4/ca/14/ae/ca14ae96-6c1f-9478-a838-37392cff8250/dj.kczxeqbz.jpg/400x400cc.jpg",
+            "twitter": "I used @Shazam to discover If You've Got The Money I've Got the Time by Willie Nelson.",
+            "html": "https://www.shazam.com/snippets/email-share/60279945?lang=en-US&country=GB",
+            "avatar": "https://is4-ssl.mzstatic.com/image/thumb/Features125/v4/b4/c2/9a/b4c29a1e-3b45-2b60-be65-dbb96d21e42a/mza_1383128222591135178.png/800x800cc.jpg",
+            "snapchat": "https://www.shazam.com/partner/sc/track/60279945"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "actions": [
+                {
+                    "name": "apple",
+                    "type": "applemusicplay",
+                    "id": "277325720"
+                },
+                {
+                    "name": "apple",
+                    "type": "uri",
+                    "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/c1/d0/d9/c1d0d916-a134-9e9d-bf8b-768c210e9f43/mzaf_13491333512664344207.plus.aac.p.m4a"
+                }
+            ],
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/gb/album/if-youve-got-the-money-ive-got-the-time/277325556?i=277325720&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/gb/album/if-youve-got-the-money-ive-got-the-time/277325556?i=277325720&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                },
+                {
+                    "caption": "BUY",
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "uri": "https://itunes.apple.com/gb/album/if-youve-got-the-money-ive-got-the-time/277325556?i=277325720&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "buy",
+                        "providername": "itunes"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "type": "buy",
+                    "listcaption": "Buy on iTunes",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "itunes"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:If%20You%27ve%20Got%20The%20Money%20I%27ve%20Got%20the%20Time%20Willie%20Nelson"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27If+You%5C%27ve+Got+The+Money+I%5C%27ve+Got+the+Time%27%20artist%3A%27Willie+Nelson%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": false,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [
+                    {
+                        "image": "https://is4-ssl.mzstatic.com/image/thumb/Features125/v4/b4/c2/9a/b4c29a1e-3b45-2b60-be65-dbb96d21e42a/mza_1383128222591135178.png/800x800cc.jpg",
+                        "caption": "Willie Nelson"
+                    },
+                    {
+                        "image": "https://is4-ssl.mzstatic.com/image/thumb/Music125/v4/ca/14/ae/ca14ae96-6c1f-9478-a838-37392cff8250/dj.kczxeqbz.jpg/400x400cc.jpg",
+                        "caption": "If You've Got The Money I've Got the Time"
+                    }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                    {
+                        "title": "Album",
+                        "text": "One Hell Of A Ride"
+                    },
+                    {
+                        "title": "Label",
+                        "text": "Columbia/Legacy"
+                    },
+                    {
+                        "title": "Released",
+                        "text": "1976"
+                    }
+                ]
+            },
+            {
+                "type": "LYRICS",
+                "text": [
+                    "And if you've got the money honey and I've got the time",
+                    "We'll go honky tonkin' and we'll have a time",
+                    "We'll have more fun baby all the way down the line",
+                    "If you've got the money honey and I've got the time",
+                    "",
+                    "There ain't no need to teary' lets start out tonight",
+                    "We'll have fun oh boy, oh boy and we'll do it right",
+                    "Bring along your Cadillac leave my old wreck behind",
+                    "And if you've got the money honey and I've got the time",
+                    "",
+                    "Now we'll go honky tonkin' make every spot in town",
+                    "And we'll go to the park where it's dark and we won't fool around",
+                    "But you run short of money and I'll run short of time",
+                    "And you got no more money honey and I've no more time",
+                    "",
+                    "If you've got the money honey and I've got the time",
+                    "And we'll go honky tonkin' and we'll have a time",
+                    "And we'll have more fun baby all the way down the line",
+                    "If you've got the money honey, I've got the time"
+                ],
+                "url": "https://cdn.shazam.com/lyrics/v1/en-US/GB/iphone/musixmatch/subtitles/14708245/123/1?token=3fd0817f0f2e994d89123e14eb5a9c20",
+                "footer": "Writer(s): Lefty Frizzell, James A. Beck\nLyrics powered by www.musixmatch.com",
+                "tabname": "Lyrics",
+                "beacondata": {
+                    "lyricsid": "24729076",
+                    "providername": "musixmatch",
+                    "commontrackid": "14708245"
+                }
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/60279945/youtube/video?q=Willie+Nelson+%22If+You've+Got+The+Money+I've+Got+the+Time%22"
+            },
+            {
+                "type": "RELATED",
+                "url": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-60279945?startFrom=0&pageSize=20&connected=",
+                "tabname": "Related"
+            }
+        ],
+        "url": "https://www.shazam.com/track/60279945/if-youve-got-the-money-ive-got-the-time",
+        "artists": [
+            {
+                "id": "42",
+                "adamid": "71676"
+            }
+        ],
+        "isrc": "USSM17500020",
+        "genres": {
+            "primary": "Country"
+        },
+        "urlparams": {
+            "{tracktitle}": "If+You%27ve+Got+The+Money+I%27ve+Got+the+Time",
+            "{trackartist}": "Willie+Nelson"
+        },
+        "myshazam": {
+            "apple": {
+                "actions": [
+                    {
+                        "name": "myshazam:apple",
+                        "type": "uri",
+                        "uri": "https://music.apple.com/gb/album/if-youve-got-the-money-ive-got-the-time/277325556?i=277325720&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                ]
+            }
+        },
+        "highlightsurls": {
+            "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/71676/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+        },
+        "relatedtracksurl": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-60279945?startFrom=0&pageSize=20&connected=",
+        "albumadamid": "277325556"
+    },
+    "tagid": "DA4EC1B2-72A9-40D1-958D-DF031E2EC22D"
+}

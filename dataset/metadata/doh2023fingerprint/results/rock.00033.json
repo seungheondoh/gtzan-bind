@@ -1,0 +1,282 @@
+{
+    "matches": [
+        {
+            "id": "225560626",
+            "offset": 29.342537109000002,
+            "timeskew": -0.0057275295,
+            "frequencyskew": -0.0061429143
+        },
+        {
+            "id": "235016458",
+            "offset": 29.111890625,
+            "timeskew": -0.0054805875,
+            "frequencyskew": -0.0062229633
+        },
+        {
+            "id": "78011701",
+            "offset": 29.998410156000002,
+            "timeskew": 0.0012140274,
+            "frequencyskew": 0.00036251545
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691633533844,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "3101516",
+        "title": "Gimme Shelter",
+        "subtitle": "The Rolling Stones",
+        "images": {
+            "background": "https://is3-ssl.mzstatic.com/image/thumb/Features125/v4/50/6a/dd/506addd0-1a1c-ebbf-7ec3-7ebbd2785035/mza_827834569591675074.png/800x800cc.jpg",
+            "coverart": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/fb/45/90/fb4590ab-394c-7a90-fae2-07a1a745d0eb/23UMGIM65461.rgb.jpg/400x400cc.jpg",
+            "coverarthq": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/fb/45/90/fb4590ab-394c-7a90-fae2-07a1a745d0eb/23UMGIM65461.rgb.jpg/400x400cc.jpg",
+            "joecolor": "b:ffffffp:410a12s:5e080bt:673b41q:7e393c"
+        },
+        "share": {
+            "subject": "Gimme Shelter - The Rolling Stones",
+            "text": "Gimme Shelter by The Rolling Stones",
+            "href": "https://www.shazam.com/track/3101516/gimme-shelter",
+            "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/fb/45/90/fb4590ab-394c-7a90-fae2-07a1a745d0eb/23UMGIM65461.rgb.jpg/400x400cc.jpg",
+            "twitter": "I used @Shazam to discover Gimme Shelter by The Rolling Stones.",
+            "html": "https://www.shazam.com/snippets/email-share/3101516?lang=en-US&country=GB",
+            "avatar": "https://is3-ssl.mzstatic.com/image/thumb/Features125/v4/50/6a/dd/506addd0-1a1c-ebbf-7ec3-7ebbd2785035/mza_827834569591675074.png/800x800cc.jpg",
+            "snapchat": "https://www.shazam.com/partner/sc/track/3101516"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "actions": [
+                {
+                    "name": "apple",
+                    "type": "applemusicplay",
+                    "id": "1698451539"
+                },
+                {
+                    "name": "apple",
+                    "type": "uri",
+                    "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/97/e3/65/97e365a4-7702-8257-6cac-3be0bcd6450a/mzaf_8596543250994284324.plus.aac.ep.m4a"
+                }
+            ],
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/gb/album/gimme-shelter/1698451527?i=1698451539&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/gb/album/gimme-shelter/1698451527?i=1698451539&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                },
+                {
+                    "caption": "BUY",
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "uri": "https://itunes.apple.com/gb/album/gimme-shelter/1698451527?i=1698451539&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "buy",
+                        "providername": "itunes"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "type": "buy",
+                    "listcaption": "Buy on iTunes",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "itunes"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:Gimme%20Shelter%20The%20Rolling%20Stones"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27Gimme+Shelter%27%20artist%3A%27The+Rolling+Stones%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": false,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [
+                    {
+                        "image": "https://is3-ssl.mzstatic.com/image/thumb/Features125/v4/50/6a/dd/506addd0-1a1c-ebbf-7ec3-7ebbd2785035/mza_827834569591675074.png/800x800cc.jpg",
+                        "caption": "The Rolling Stones"
+                    },
+                    {
+                        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/fb/45/90/fb4590ab-394c-7a90-fae2-07a1a745d0eb/23UMGIM65461.rgb.jpg/400x400cc.jpg",
+                        "caption": "Gimme Shelter"
+                    }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                    {
+                        "title": "Album",
+                        "text": "Forty Licks"
+                    },
+                    {
+                        "title": "Label",
+                        "text": "Polydor Records"
+                    },
+                    {
+                        "title": "Released",
+                        "text": "1966"
+                    }
+                ]
+            },
+            {
+                "type": "LYRICS",
+                "text": [
+                    "Ooh, a storm is threatening",
+                    "My very life today",
+                    "If I don't get some shelter",
+                    "Ooh yeah I'm gonna fade away",
+                    "",
+                    "War, children",
+                    "It's just a shot away",
+                    "It's just a shot away",
+                    "War, children",
+                    "It's just a shot away",
+                    "It's just a shot away",
+                    "",
+                    "Ooh, see the fire is sweepin'",
+                    "Our streets today",
+                    "Burns like a red coal carpet",
+                    "Mad bull lost its way",
+                    "",
+                    "War, children",
+                    "It's just a shot away",
+                    "It's just a shot away",
+                    "War, children",
+                    "It's just a shot away",
+                    "It's just a shot away",
+                    "",
+                    "Rape, murder, it's just a shot away",
+                    "It's just a shot away",
+                    "Rape, murder, yeah, it's just a shot away",
+                    "It's just a shot away",
+                    "Rape, murder, it's just a shot away",
+                    "It's just a shot away",
+                    "",
+                    "Mmm, a flood is threatening",
+                    "My very life today",
+                    "Gimme, gimme shelter",
+                    "Or I'm gonna fade away",
+                    "",
+                    "War, children",
+                    "It's just a shot away",
+                    "It's just a shot away",
+                    "It's just a shot away",
+                    "It's just a shot away",
+                    "It's just a shot away",
+                    "",
+                    "I tell you love, sister",
+                    "It's just a kiss away",
+                    "It's just a kiss away",
+                    "It's just a kiss away",
+                    "It's just a kiss away",
+                    "It's just a kiss away",
+                    "Kiss away, kiss away"
+                ],
+                "url": "https://cdn.shazam.com/lyrics/v1/en-US/GB/iphone/musixmatch/subtitles/104528798/270/1?token=185d32766a2523a153ebb0398a004566",
+                "footer": "Writer(s): Mick Jagger, Keith Richards\nLyrics powered by www.musixmatch.com",
+                "tabname": "Lyrics",
+                "beacondata": {
+                    "lyricsid": "20055925",
+                    "providername": "musixmatch",
+                    "commontrackid": "104528798"
+                }
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/3101516/youtube/video?q=The+Rolling+Stones+%22Gimme+Shelter%22"
+            },
+            {
+                "type": "RELATED",
+                "url": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-3101516?startFrom=0&pageSize=20&connected=",
+                "tabname": "Related"
+            }
+        ],
+        "url": "https://www.shazam.com/track/3101516/gimme-shelter",
+        "artists": [
+            {
+                "id": "42",
+                "adamid": "1249595"
+            }
+        ],
+        "isrc": "USA176910020",
+        "genres": {
+            "primary": "Rock"
+        },
+        "urlparams": {
+            "{tracktitle}": "Gimme+Shelter",
+            "{trackartist}": "The+Rolling+Stones"
+        },
+        "myshazam": {
+            "apple": {
+                "actions": [
+                    {
+                        "name": "myshazam:apple",
+                        "type": "uri",
+                        "uri": "https://music.apple.com/gb/album/gimme-shelter/1698451527?i=1698451539&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                ]
+            }
+        },
+        "highlightsurls": {
+            "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/1249595/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios&videoIdToFilter=1517794628",
+            "trackhighlighturl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/highlights/1517794628?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+        },
+        "relatedtracksurl": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-3101516?startFrom=0&pageSize=20&connected=",
+        "albumadamid": "1698451527"
+    },
+    "tagid": "9C5E1726-3167-4DF5-A9A2-77F2B81CCC70"
+}

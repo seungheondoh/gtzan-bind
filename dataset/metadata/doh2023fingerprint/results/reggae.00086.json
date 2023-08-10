@@ -1,0 +1,200 @@
+{
+    "matches": [
+        {
+            "id": "277109259",
+            "offset": 30.675851562,
+            "timeskew": -0.0002964735,
+            "frequencyskew": -0.000120818615
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691633297961,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "11209674",
+        "title": "Splash Out Dub",
+        "subtitle": "King Tubby",
+        "images": {
+            "background": "https://is1-ssl.mzstatic.com/image/thumb/Features115/v4/22/30/c2/2230c2fe-5608-ab1b-5de4-55c5b652d3e1/pr_source.png/800x800cc.jpg",
+            "coverart": "https://is4-ssl.mzstatic.com/image/thumb/Music115/v4/07/c9/f9/07c9f961-5b88-122f-c67c-33832d6bccc8/00016351453723_Cover.jpg/400x400cc.jpg",
+            "coverarthq": "https://is4-ssl.mzstatic.com/image/thumb/Music115/v4/07/c9/f9/07c9f961-5b88-122f-c67c-33832d6bccc8/00016351453723_Cover.jpg/400x400cc.jpg",
+            "joecolor": "b:131a30p:47cbe8s:56c0f6t:3da8c3q:499fce"
+        },
+        "share": {
+            "subject": "Splash Out Dub - King Tubby",
+            "text": "Splash Out Dub by King Tubby",
+            "href": "https://www.shazam.com/track/11209674/splash-out-dub",
+            "image": "https://is4-ssl.mzstatic.com/image/thumb/Music115/v4/07/c9/f9/07c9f961-5b88-122f-c67c-33832d6bccc8/00016351453723_Cover.jpg/400x400cc.jpg",
+            "twitter": "I used @Shazam to discover Splash Out Dub by King Tubby.",
+            "html": "https://www.shazam.com/snippets/email-share/11209674?lang=en-US&country=GB",
+            "avatar": "https://is1-ssl.mzstatic.com/image/thumb/Features115/v4/22/30/c2/2230c2fe-5608-ab1b-5de4-55c5b652d3e1/pr_source.png/800x800cc.jpg",
+            "snapchat": "https://www.shazam.com/partner/sc/track/11209674"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "actions": [
+                {
+                    "name": "apple",
+                    "type": "applemusicplay",
+                    "id": "1564271597"
+                },
+                {
+                    "name": "apple",
+                    "type": "uri",
+                    "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/ff/97/d7/ff97d7b1-094d-34ec-69f3-1c010a33810e/mzaf_15301888796248184740.plus.aac.ep.m4a"
+                }
+            ],
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/gb/album/splash-out-dub/1564271388?i=1564271597&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/gb/album/splash-out-dub/1564271388?i=1564271597&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                },
+                {
+                    "caption": "BUY",
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "uri": "https://itunes.apple.com/gb/album/splash-out-dub/1564271388?i=1564271597&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "buy",
+                        "providername": "itunes"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "type": "buy",
+                    "listcaption": "Buy on iTunes",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "itunes"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:Splash%20Out%20Dub%20King%20Tubby"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27Splash+Out+Dub%27%20artist%3A%27King+Tubby%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": false,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [
+                    {
+                        "image": "https://is1-ssl.mzstatic.com/image/thumb/Features115/v4/22/30/c2/2230c2fe-5608-ab1b-5de4-55c5b652d3e1/pr_source.png/800x800cc.jpg",
+                        "caption": "King Tubby"
+                    },
+                    {
+                        "image": "https://is4-ssl.mzstatic.com/image/thumb/Music115/v4/07/c9/f9/07c9f961-5b88-122f-c67c-33832d6bccc8/00016351453723_Cover.jpg/400x400cc.jpg",
+                        "caption": "Splash Out Dub"
+                    }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                    {
+                        "title": "Album",
+                        "text": "King Tubby Meets Lee Perry: Megawatt Dub"
+                    },
+                    {
+                        "title": "Label",
+                        "text": "Shanachie"
+                    },
+                    {
+                        "title": "Released",
+                        "text": "1997"
+                    }
+                ]
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/11209674/youtube/video?q=King+Tubby+%22Splash+Out+Dub%22"
+            }
+        ],
+        "url": "https://www.shazam.com/track/11209674/splash-out-dub",
+        "artists": [
+            {
+                "id": "42",
+                "adamid": "2538787"
+            }
+        ],
+        "isrc": "USA370640949",
+        "genres": {
+            "primary": "Reggae"
+        },
+        "urlparams": {
+            "{tracktitle}": "Splash+Out+Dub",
+            "{trackartist}": "King+Tubby"
+        },
+        "myshazam": {
+            "apple": {
+                "actions": [
+                    {
+                        "name": "myshazam:apple",
+                        "type": "uri",
+                        "uri": "https://music.apple.com/gb/album/splash-out-dub/1564271388?i=1564271597&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                ]
+            }
+        },
+        "highlightsurls": {
+            "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/2538787/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+        },
+        "albumadamid": "1564271388"
+    },
+    "tagid": "29066C3C-57B9-4733-A8E5-0894AC4CAF04"
+}

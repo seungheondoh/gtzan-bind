@@ -1,0 +1,193 @@
+{
+    "matches": [
+        {
+            "id": "223201228",
+            "offset": 30.04724414,
+            "timeskew": -0.00013279915,
+            "frequencyskew": -0.00016111135
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691632775396,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "11203857",
+        "title": "A Natural Woman",
+        "subtitle": "Aretha Franklin, Carole King, C\u00e9line Dion, Gloria Estefan, Mariah Carey & Shania Twain",
+        "images": {
+            "background": "https://is1-ssl.mzstatic.com/image/thumb/Features126/v4/87/bf/59/87bf599b-b3b0-49ec-b313-abc29825948f/mza_3672144982174520189.png/800x800cc.jpg",
+            "coverart": "https://is4-ssl.mzstatic.com/image/thumb/Music/y2003/m04/d21/h00/s02.dkcflyxp.tif/400x400cc.jpg",
+            "coverarthq": "https://is4-ssl.mzstatic.com/image/thumb/Music/y2003/m04/d21/h00/s02.dkcflyxp.tif/400x400cc.jpg"
+        },
+        "share": {
+            "subject": "A Natural Woman - Aretha Franklin, Carole King, C\u00e9line Dion, Gloria Estefan, Mariah Carey & Shania Twain",
+            "text": "A Natural Woman by Aretha Franklin, Carole King, C\u00e9line Dion, Gloria Estefan, Mariah Carey & Shania Twain",
+            "href": "https://www.shazam.com/track/11203857/a-natural-woman",
+            "image": "https://is4-ssl.mzstatic.com/image/thumb/Music/y2003/m04/d21/h00/s02.dkcflyxp.tif/400x400cc.jpg",
+            "twitter": "I used @Shazam to discover A Natural Woman by Aretha Franklin, Carole King, C\u00e9line Dion, Gloria Estefan, Mariah Carey & Shania Twain.",
+            "html": "https://www.shazam.com/snippets/email-share/11203857?lang=en-US&country=GB",
+            "avatar": "https://is1-ssl.mzstatic.com/image/thumb/Features126/v4/87/bf/59/87bf599b-b3b0-49ec-b313-abc29825948f/mza_3672144982174520189.png/800x800cc.jpg",
+            "snapchat": "https://www.shazam.com/partner/sc/track/11203857"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:subscribe",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/subscribe?mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:subscribe",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/subscribe?mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:A%20Natural%20Woman%20Aretha%20Franklin"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27A+Natural+Woman%27%20artist%3A%27Aretha+Franklin%2C+Carole+King%2C+C%C3%A9line+Dion%2C+Gloria+Estefan%2C+Mariah+Carey++Shania+Twain%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": false,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [
+                    {
+                        "image": "https://is1-ssl.mzstatic.com/image/thumb/Features126/v4/87/bf/59/87bf599b-b3b0-49ec-b313-abc29825948f/mza_3672144982174520189.png/800x800cc.jpg",
+                        "caption": "Aretha Franklin"
+                    },
+                    {
+                        "image": "https://is4-ssl.mzstatic.com/image/thumb/Music/y2003/m04/d21/h00/s02.dkcflyxp.tif/400x400cc.jpg",
+                        "caption": "A Natural Woman"
+                    }
+                ],
+                "tabname": "Song",
+                "metadata": []
+            },
+            {
+                "type": "LYRICS",
+                "text": [
+                    "Looking out on the morning rain",
+                    "I used to feel so uninspired",
+                    "And when I knew I had to face another day",
+                    "Lord, it made me feel so tired",
+                    "",
+                    "Before the day I met you life was so unkind",
+                    "But you're the key to my peace of mind",
+                    "",
+                    "'Cause you make me feel, you make me feel",
+                    "You make me feel like a natural woman",
+                    "",
+                    "When my soul was in the lost and found",
+                    "You came along to claim it",
+                    "I didn't know just what was wrong with me",
+                    "Till your kiss helped me name it",
+                    "",
+                    "Now I'm no longer doubtful of what I'm living for",
+                    "And if I make you happy I don't need to do more",
+                    "",
+                    "'Cause you make me feel, you make me feel",
+                    "You make me feel like a natural woman",
+                    "",
+                    "Oh, baby, what you've done to me",
+                    "You make me feel so good inside",
+                    "And I just want to be close to you",
+                    "You make me feel so alive",
+                    "",
+                    "You make me feel, you make me feel",
+                    "You make me feel like a natural woman",
+                    "",
+                    "You make me feel, you make me feel",
+                    "You make me feel like a natural woman"
+                ],
+                "url": "https://cdn.shazam.com/lyrics/v1/en-US/GB/iphone/musixmatch/subtitles/12573542/315/1?token=85cb1d1ba6e70c05f09aeff5e32a7e5a",
+                "footer": "Writer(s): Gerry Goffin, Carole King, Jerry Wexler\nLyrics powered by www.musixmatch.com",
+                "tabname": "Lyrics",
+                "beacondata": {
+                    "lyricsid": "20027242",
+                    "providername": "musixmatch",
+                    "commontrackid": "12573542"
+                }
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/11203857/youtube/video?q=Aretha+Franklin,+Carole+King,+C%C3%A9line+Dion,+Gloria+Estefan,+Mariah+Carey+%26+Shania+Twain+%22A+Natural+Woman%22"
+            },
+            {
+                "type": "RELATED",
+                "url": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-11203857?startFrom=0&pageSize=20&connected=",
+                "tabname": "Related"
+            }
+        ],
+        "url": "https://www.shazam.com/track/11203857/a-natural-woman",
+        "artists": [
+            {
+                "id": "42",
+                "adamid": "98742"
+            }
+        ],
+        "genres": {
+            "primary": "Rock"
+        },
+        "urlparams": {
+            "{tracktitle}": "A+Natural+Woman",
+            "{trackartist}": "Aretha+Franklin%2C+Carole+King%2C+C%C3%A9line+Dion%2C+Gloria+Estefan%2C+Mariah+Carey+%26+Shania+Twain"
+        },
+        "highlightsurls": {
+            "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/98742/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+        },
+        "relatedtracksurl": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-11203857?startFrom=0&pageSize=20&connected="
+    },
+    "tagid": "6A97448D-E7BF-4007-990A-F25B9FF1BE4E"
+}

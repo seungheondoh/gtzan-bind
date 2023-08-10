@@ -1,0 +1,201 @@
+{
+    "matches": [
+        {
+            "id": "205440226",
+            "offset": 30.758128906000003,
+            "timeskew": -0.025102437,
+            "frequencyskew": -0.025053263
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691632502048,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "68825321",
+        "title": "Romeo & Juliet (DJ Promo 12\" Edit Version)",
+        "subtitle": "Alec Costandinos",
+        "images": {
+            "background": "https://is2-ssl.mzstatic.com/image/thumb/Music118/v4/d2/26/78/d22678b9-0072-d0cd-703b-fad73c403472/00600753303498.rgb.jpg/400x400cc.jpg",
+            "coverart": "https://is2-ssl.mzstatic.com/image/thumb/Music118/v4/d2/26/78/d22678b9-0072-d0cd-703b-fad73c403472/00600753303498.rgb.jpg/400x400cc.jpg",
+            "coverarthq": "https://is2-ssl.mzstatic.com/image/thumb/Music118/v4/d2/26/78/d22678b9-0072-d0cd-703b-fad73c403472/00600753303498.rgb.jpg/400x400cc.jpg",
+            "joecolor": "b:030504p:dcd73fs:aed254t:b0ad33q:8ba944"
+        },
+        "share": {
+            "subject": "Romeo & Juliet (DJ Promo 12\" Edit Version) - Alec Costandinos",
+            "text": "Romeo & Juliet (DJ Promo 12\" Edit Version) by Alec Costandinos",
+            "href": "https://www.shazam.com/track/68825321/romeo-juliet-dj-promo-12-edit-version",
+            "image": "https://is2-ssl.mzstatic.com/image/thumb/Music118/v4/d2/26/78/d22678b9-0072-d0cd-703b-fad73c403472/00600753303498.rgb.jpg/400x400cc.jpg",
+            "twitter": "I used @Shazam to discover Romeo & Juliet (DJ Promo 12\" Edit Version) by Alec Costandinos.",
+            "html": "https://www.shazam.com/snippets/email-share/68825321?lang=en-US&country=GB",
+            "snapchat": "https://www.shazam.com/partner/sc/track/68825321"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "actions": [
+                {
+                    "name": "apple",
+                    "type": "applemusicplay",
+                    "id": "1442819593"
+                },
+                {
+                    "name": "apple",
+                    "type": "uri",
+                    "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/35/64/ea/3564ea5b-ce7f-33d0-a245-4aeff8677e28/mzaf_14392928298752144585.plus.aac.ep.m4a"
+                }
+            ],
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/gb/album/romeo-juliet-dj-promo-12-edit-version/1442818678?i=1442819593&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/gb/album/romeo-juliet-dj-promo-12-edit-version/1442818678?i=1442819593&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                },
+                {
+                    "caption": "BUY",
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "uri": "https://itunes.apple.com/gb/album/romeo-juliet-dj-promo-12-edit-version/1442818678?i=1442819593&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "buy",
+                        "providername": "itunes"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "type": "buy",
+                    "listcaption": "Buy on iTunes",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "itunes"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:Romeo%20%26%20Juliet%20%28DJ%20Promo%2012%22%20Edit%20Version%29%20Alec%20Costandinos"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27Romeo++Juliet+%28DJ+Promo+12%22+Edit+Version%29%27%20artist%3A%27Alec+Costandinos%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": false,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [
+                    {
+                        "image": "https://is2-ssl.mzstatic.com/image/thumb/Music118/v4/d2/26/78/d22678b9-0072-d0cd-703b-fad73c403472/00600753303498.rgb.jpg/400x400cc.jpg",
+                        "caption": "Romeo & Juliet (DJ Promo 12\" Edit Version)"
+                    }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                    {
+                        "title": "Album",
+                        "text": "A Complete Introduction to Disco"
+                    },
+                    {
+                        "title": "Label",
+                        "text": "UMC (Universal Music Catalogue)"
+                    },
+                    {
+                        "title": "Released",
+                        "text": "2010"
+                    }
+                ]
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/68825321/youtube/video?q=Alec+Costandinos+%22Romeo+%26+Juliet+(DJ+Promo+12+Edit+Version)%22"
+            },
+            {
+                "type": "RELATED",
+                "url": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-68825321?startFrom=0&pageSize=20&connected=",
+                "tabname": "Related"
+            }
+        ],
+        "url": "https://www.shazam.com/track/68825321/romeo-juliet-dj-promo-12-edit-version",
+        "artists": [
+            {
+                "id": "42",
+                "adamid": "3581982"
+            }
+        ],
+        "isrc": "USPR37800055",
+        "genres": {
+            "primary": "R&B/Soul"
+        },
+        "urlparams": {
+            "{tracktitle}": "Romeo+%26+Juliet+%28DJ+Promo+12%22+Edit+Version%29",
+            "{trackartist}": "Alec+Costandinos"
+        },
+        "myshazam": {
+            "apple": {
+                "actions": [
+                    {
+                        "name": "myshazam:apple",
+                        "type": "uri",
+                        "uri": "https://music.apple.com/gb/album/romeo-juliet-dj-promo-12-edit-version/1442818678?i=1442819593&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                ]
+            }
+        },
+        "highlightsurls": {
+            "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/3581982/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+        },
+        "relatedtracksurl": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-68825321?startFrom=0&pageSize=20&connected=",
+        "albumadamid": "1442818678"
+    },
+    "tagid": "1AC435B6-7905-45D6-BD67-6337797B4276"
+}

@@ -1,0 +1,291 @@
+{
+    "matches": [
+        {
+            "id": "234026501",
+            "offset": 30.305863281,
+            "timeskew": -5.3703785e-05,
+            "frequencyskew": -0.000120818615
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691632809315,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "223520",
+        "title": "Cherish",
+        "subtitle": "Madonna",
+        "images": {
+            "background": "https://is4-ssl.mzstatic.com/image/thumb/AMCArtistImages113/v4/6f/ed/d8/6fedd8aa-ebed-7fce-c0d6-4938fa19b7fb/1eabb313-e1ec-470f-b5fe-ede6f7a23983_ami-identity-d6894690f735e0ff6853ea7f9674c67d-2023-01-17T04-51-22.663Z_cropped.png/800x800cc.jpg",
+            "coverart": "https://is5-ssl.mzstatic.com/image/thumb/Music114/v4/20/3c/f5/203cf53d-689e-528f-29d7-ba33758254aa/mzi.rotbotfl.jpg/400x400cc.jpg",
+            "coverarthq": "https://is5-ssl.mzstatic.com/image/thumb/Music114/v4/20/3c/f5/203cf53d-689e-528f-29d7-ba33758254aa/mzi.rotbotfl.jpg/400x400cc.jpg",
+            "joecolor": "b:fff6f7p:2e1c16s:3f2923t:584843q:66524d"
+        },
+        "share": {
+            "subject": "Cherish - Madonna",
+            "text": "Cherish by Madonna",
+            "href": "https://www.shazam.com/track/223520/cherish",
+            "image": "https://is5-ssl.mzstatic.com/image/thumb/Music114/v4/20/3c/f5/203cf53d-689e-528f-29d7-ba33758254aa/mzi.rotbotfl.jpg/400x400cc.jpg",
+            "twitter": "I used @Shazam to discover Cherish by Madonna.",
+            "html": "https://www.shazam.com/snippets/email-share/223520?lang=en-US&country=GB",
+            "avatar": "https://is4-ssl.mzstatic.com/image/thumb/AMCArtistImages113/v4/6f/ed/d8/6fedd8aa-ebed-7fce-c0d6-4938fa19b7fb/1eabb313-e1ec-470f-b5fe-ede6f7a23983_ami-identity-d6894690f735e0ff6853ea7f9674c67d-2023-01-17T04-51-22.663Z_cropped.png/800x800cc.jpg",
+            "snapchat": "https://www.shazam.com/partner/sc/track/223520"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "actions": [
+                {
+                    "name": "apple",
+                    "type": "applemusicplay",
+                    "id": "83446891"
+                },
+                {
+                    "name": "apple",
+                    "type": "uri",
+                    "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/62/51/95/625195c4-50f6-47ae-9f34-ad404723ea1b/mzaf_10964974898786916286.plus.aac.ep.m4a"
+                }
+            ],
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/gb/album/cherish/83448003?i=83446891&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/gb/album/cherish/83448003?i=83446891&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                },
+                {
+                    "caption": "BUY",
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "uri": "https://itunes.apple.com/gb/album/cherish/83448003?i=83446891&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "buy",
+                        "providername": "itunes"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "type": "buy",
+                    "listcaption": "Buy on iTunes",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "itunes"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:Cherish%20Madonna"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27Cherish%27%20artist%3A%27Madonna%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": false,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [
+                    {
+                        "image": "https://is4-ssl.mzstatic.com/image/thumb/AMCArtistImages113/v4/6f/ed/d8/6fedd8aa-ebed-7fce-c0d6-4938fa19b7fb/1eabb313-e1ec-470f-b5fe-ede6f7a23983_ami-identity-d6894690f735e0ff6853ea7f9674c67d-2023-01-17T04-51-22.663Z_cropped.png/800x800cc.jpg",
+                        "caption": "Madonna"
+                    },
+                    {
+                        "image": "https://is5-ssl.mzstatic.com/image/thumb/Music114/v4/20/3c/f5/203cf53d-689e-528f-29d7-ba33758254aa/mzi.rotbotfl.jpg/400x400cc.jpg",
+                        "caption": "Cherish"
+                    }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                    {
+                        "title": "Album",
+                        "text": "Like a Prayer"
+                    },
+                    {
+                        "title": "Label",
+                        "text": "Sire/Warner Records"
+                    },
+                    {
+                        "title": "Released",
+                        "text": "1989"
+                    }
+                ]
+            },
+            {
+                "type": "LYRICS",
+                "text": [
+                    "Cherish, cherish",
+                    "",
+                    "So tired of broken hearts and losing at this game",
+                    "Before I start this dance",
+                    "I take a chance in telling you",
+                    "I want more than just romance",
+                    "You are my destiny",
+                    "I can't let go, baby, can't you see?",
+                    "Cupid, please take your aim at me",
+                    "",
+                    "Cherish the thought",
+                    "Of always having you here by my side",
+                    "Oh baby, I cherish the joy",
+                    "You keep bringing it into my life",
+                    "I'm always singing it, cherish your strength",
+                    "You got the power to make me feel good",
+                    "And baby, I perish the thought",
+                    "Of ever leaving, I never would",
+                    "",
+                    "I was never satisfied with casual encounters",
+                    "I can't hide my need",
+                    "For two hearts that bleed",
+                    "With burning love",
+                    "That's the way it's got to be",
+                    "Romeo and Juliet, they never felt this way I bet",
+                    "So don't underestimate my point of view",
+                    "",
+                    "Cherish the thought",
+                    "Of always having you here by my side",
+                    "Oh baby, I cherish the joy",
+                    "You keep bringing it into my life",
+                    "I'm always singing it, cherish your strength",
+                    "You got the power to make me feel good",
+                    "And baby, I perish the thought",
+                    "Of ever leaving, I never would",
+                    "",
+                    "(Who)",
+                    "(You)",
+                    "Can't get away, I won't let you",
+                    "(Who)",
+                    "(You)",
+                    "I could never forget to",
+                    "Cherish is the word I use to remind me of your love",
+                    "",
+                    "(You're givin' it)",
+                    "(You're givin' it to me boy)",
+                    "(Keep giving me all-all-all your joy)",
+                    "(Give me faith)",
+                    "(I will always cherish you)",
+                    "Romeo and Juliet, they never felt this way I bet",
+                    "So don't underestimate my point of view",
+                    "",
+                    "Cherish the thought",
+                    "Of always having you here by my side",
+                    "Oh baby, I cherish the joy",
+                    "You keep bringing it into my life",
+                    "I'm always singing it, cherish your strength",
+                    "You got the power to make me feel good",
+                    "And baby, I perish the thought",
+                    "Of ever leaving, I never would",
+                    "",
+                    "Cherish",
+                    "Give me faith",
+                    "Give me joy, my boy",
+                    "I will always cherish you",
+                    "",
+                    "Cherish your strength (you're giving it)",
+                    "(You're giving it to me, boy) I could never forget to",
+                    "(Keep giving me all your joy) Cherish the thought",
+                    "(Give me fame, give me joy, my boy, I will always cherish you)",
+                    "(Cherish the joy)"
+                ],
+                "url": "https://cdn.shazam.com/lyrics/v1/en-US/GB/iphone/musixmatch/subtitles/24983/232/1?token=ae07236c0686f04568c7397a7dce17e6",
+                "footer": "Writer(s): Madonna\nLyrics powered by www.musixmatch.com",
+                "tabname": "Lyrics",
+                "beacondata": {
+                    "lyricsid": "30225215",
+                    "providername": "musixmatch",
+                    "commontrackid": "24983"
+                }
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/223520/youtube/video?q=Madonna+%22Cherish%22"
+            },
+            {
+                "type": "RELATED",
+                "url": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-223520?startFrom=0&pageSize=20&connected=",
+                "tabname": "Related"
+            }
+        ],
+        "url": "https://www.shazam.com/track/223520/cherish",
+        "artists": [
+            {
+                "id": "42",
+                "adamid": "20044"
+            }
+        ],
+        "isrc": "USWB10002780",
+        "genres": {
+            "primary": "Pop"
+        },
+        "urlparams": {
+            "{tracktitle}": "Cherish",
+            "{trackartist}": "Madonna"
+        },
+        "myshazam": {
+            "apple": {
+                "actions": [
+                    {
+                        "name": "myshazam:apple",
+                        "type": "uri",
+                        "uri": "https://music.apple.com/gb/album/cherish/83448003?i=83446891&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                ]
+            }
+        },
+        "highlightsurls": {
+            "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/20044/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios&videoIdToFilter=278113110",
+            "trackhighlighturl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/highlights/278113110?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+        },
+        "relatedtracksurl": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-223520?startFrom=0&pageSize=20&connected=",
+        "albumadamid": "83448003"
+    },
+    "tagid": "93A369E6-8E86-4707-9742-1556C9AB3094"
+}

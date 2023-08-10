@@ -1,0 +1,284 @@
+{
+    "matches": [
+        {
+            "id": "233353234",
+            "offset": 30.113224609,
+            "timeskew": -0.003523171,
+            "frequencyskew": -0.0035779476
+        },
+        {
+            "id": "219791054",
+            "offset": 29.745638671000002,
+            "timeskew": 0.00013399124,
+            "frequencyskew": 0.00012087822
+        },
+        {
+            "id": "233421253",
+            "offset": 29.793136718000003,
+            "timeskew": -0.0033323169,
+            "frequencyskew": -0.003738463
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691632464307,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "42810620",
+        "title": "Mamma Mia",
+        "subtitle": "ABBA",
+        "images": {
+            "background": "https://is3-ssl.mzstatic.com/image/thumb/Features115/v4/77/b2/e3/77b2e3f8-3af4-1928-f411-901705218d2d/mza_402627401905230864.png/800x800cc.jpg",
+            "coverart": "https://is4-ssl.mzstatic.com/image/thumb/Music125/v4/8a/5d/a4/8a5da415-562c-c7f3-0801-2bd251947ac3/14UMGIM07609.rgb.jpg/400x400cc.jpg",
+            "coverarthq": "https://is4-ssl.mzstatic.com/image/thumb/Music125/v4/8a/5d/a4/8a5da415-562c-c7f3-0801-2bd251947ac3/14UMGIM07609.rgb.jpg/400x400cc.jpg",
+            "joecolor": "b:734e33p:fffc86s:fee66ct:e2d975q:e2c760"
+        },
+        "share": {
+            "subject": "Mamma Mia - ABBA",
+            "text": "Mamma Mia by ABBA",
+            "href": "https://www.shazam.com/track/42810620/mamma-mia",
+            "image": "https://is4-ssl.mzstatic.com/image/thumb/Music125/v4/8a/5d/a4/8a5da415-562c-c7f3-0801-2bd251947ac3/14UMGIM07609.rgb.jpg/400x400cc.jpg",
+            "twitter": "I used @Shazam to discover Mamma Mia by ABBA.",
+            "html": "https://www.shazam.com/snippets/email-share/42810620?lang=en-US&country=GB",
+            "avatar": "https://is3-ssl.mzstatic.com/image/thumb/Features115/v4/77/b2/e3/77b2e3f8-3af4-1928-f411-901705218d2d/mza_402627401905230864.png/800x800cc.jpg",
+            "snapchat": "https://www.shazam.com/partner/sc/track/42810620"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "actions": [
+                {
+                    "name": "apple",
+                    "type": "applemusicplay",
+                    "id": "1440861294"
+                },
+                {
+                    "name": "apple",
+                    "type": "uri",
+                    "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/f0/4c/26/f04c2682-2520-3e2c-c52c-61a70029ef46/mzaf_14134038497996442922.plus.aac.ep.m4a"
+                }
+            ],
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/gb/album/mamma-mia/1440861160?i=1440861294&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/gb/album/mamma-mia/1440861160?i=1440861294&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                },
+                {
+                    "caption": "BUY",
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "uri": "https://itunes.apple.com/gb/album/mamma-mia/1440861160?i=1440861294&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "buy",
+                        "providername": "itunes"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "type": "buy",
+                    "listcaption": "Buy on iTunes",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "itunes"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:Mamma%20Mia%20ABBA"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27Mamma+Mia%27%20artist%3A%27ABBA%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": false,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [
+                    {
+                        "image": "https://is3-ssl.mzstatic.com/image/thumb/Features115/v4/77/b2/e3/77b2e3f8-3af4-1928-f411-901705218d2d/mza_402627401905230864.png/800x800cc.jpg",
+                        "caption": "ABBA"
+                    },
+                    {
+                        "image": "https://is4-ssl.mzstatic.com/image/thumb/Music125/v4/8a/5d/a4/8a5da415-562c-c7f3-0801-2bd251947ac3/14UMGIM07609.rgb.jpg/400x400cc.jpg",
+                        "caption": "Mamma Mia"
+                    }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                    {
+                        "title": "Album",
+                        "text": "ABBA (Bonus Track Version)"
+                    },
+                    {
+                        "title": "Label",
+                        "text": "Polar Music International AB"
+                    },
+                    {
+                        "title": "Released",
+                        "text": "1975"
+                    }
+                ]
+            },
+            {
+                "type": "LYRICS",
+                "text": [
+                    "I've been cheated by you since I don't know when",
+                    "So I made up my mind, it must come to an end",
+                    "Look at me now, will I ever learn",
+                    "I don't know how, but I suddenly lose control",
+                    "There's a fire within my soul",
+                    "",
+                    "(Just one look) and I can hear a bell ring",
+                    "(One more look) and I forget everything, whoa",
+                    "",
+                    "Mamma mia, here I go again",
+                    "My, my, how can I resist you?",
+                    "Mamma mia, does it show again",
+                    "My, my, just how much I've missed you?",
+                    "",
+                    "Yes, I've been brokenhearted",
+                    "Blue since the day we parted",
+                    "Why, why did I ever let you go?",
+                    "Mamma mia, now I really know",
+                    "My, my, I could never let you go",
+                    "",
+                    "I've been angry and sad about things that you do",
+                    "I can't count all the times that I've told you we're through",
+                    "And when you go, when you slam the door",
+                    "I think you know that you won't be away too long",
+                    "You know that I'm not that strong",
+                    "",
+                    "(Just one look) and I can hear a bell ring",
+                    "(One more look) and I forget everything, whoa",
+                    "",
+                    "Mamma mia, here I go again",
+                    "My, my, how can I resist you?",
+                    "Mamma mia, does it show again",
+                    "My, my, just how much I've missed you?",
+                    "",
+                    "Yes, I've been brokenhearted",
+                    "Blue since the day we parted",
+                    "Why, why did I ever let you go?",
+                    "Mamma mia, even if I say",
+                    "Bye-bye, leave me now or never",
+                    "Mamma mia, it's a game we play",
+                    "Bye-bye doesn't mean forever",
+                    "",
+                    "Mamma mia, here I go again",
+                    "My, my, how can I resist you?",
+                    "Mamma mia, does it show again",
+                    "My, my, just how much I've missed you?",
+                    "",
+                    "Yes, I've been brokenhearted",
+                    "Blue since the day we parted",
+                    "Why, why did I ever let you go?",
+                    "Mamma mia, now I really know",
+                    "My, my, I could never let you go"
+                ],
+                "url": "https://cdn.shazam.com/lyrics/v1/en-US/GB/iphone/musixmatch/subtitles/130083/214/1?token=de3f8eeba07bfac0e38ff63e22e25b1e",
+                "footer": "Writer(s): Benny Andersson, Bjoern K Ulvaeus, Stig Anderson\nLyrics powered by www.musixmatch.com",
+                "tabname": "Lyrics",
+                "beacondata": {
+                    "lyricsid": "25506929",
+                    "providername": "musixmatch",
+                    "commontrackid": "130083"
+                }
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/42810620/youtube/video?q=ABBA+%22Mamma+Mia%22"
+            },
+            {
+                "type": "RELATED",
+                "url": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-42810620?startFrom=0&pageSize=20&connected=",
+                "tabname": "Related"
+            }
+        ],
+        "url": "https://www.shazam.com/track/42810620/mamma-mia",
+        "artists": [
+            {
+                "id": "42",
+                "adamid": "372976"
+            }
+        ],
+        "isrc": "SEAYD7501010",
+        "genres": {
+            "primary": "Pop"
+        },
+        "urlparams": {
+            "{tracktitle}": "Mamma+Mia",
+            "{trackartist}": "ABBA"
+        },
+        "myshazam": {
+            "apple": {
+                "actions": [
+                    {
+                        "name": "myshazam:apple",
+                        "type": "uri",
+                        "uri": "https://music.apple.com/gb/album/mamma-mia/1440861160?i=1440861294&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                ]
+            }
+        },
+        "highlightsurls": {
+            "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/372976/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios&videoIdToFilter=1440982269",
+            "trackhighlighturl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/highlights/1440982269?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+        },
+        "relatedtracksurl": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-42810620?startFrom=0&pageSize=20&connected=",
+        "albumadamid": "1440861160"
+    },
+    "tagid": "7FB534E1-9BE5-440C-87FB-AD7CDAC81EAA"
+}

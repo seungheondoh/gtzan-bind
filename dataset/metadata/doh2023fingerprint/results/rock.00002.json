@@ -1,0 +1,240 @@
+{
+    "matches": [
+        {
+            "id": "634862444",
+            "offset": 30.052648437,
+            "timeskew": 7.927418e-05,
+            "frequencyskew": -8.0525875e-05
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691633665089,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "5271076",
+        "title": "Early to Bed",
+        "subtitle": "Morphine",
+        "images": {
+            "background": "https://is3-ssl.mzstatic.com/image/thumb/Features125/v4/8b/1d/03/8b1d0379-29ca-ae07-ebeb-37206ae354f6/pr_source.png/800x800cc.jpg",
+            "coverart": "https://is5-ssl.mzstatic.com/image/thumb/Music122/v4/16/74/cb/1674cbec-5294-b22e-8de9-d055c9d9f227/cover.jpg/400x400cc.jpg",
+            "coverarthq": "https://is5-ssl.mzstatic.com/image/thumb/Music122/v4/16/74/cb/1674cbec-5294-b22e-8de9-d055c9d9f227/cover.jpg/400x400cc.jpg",
+            "joecolor": "b:004ab1p:ffffffs:bdfffet:cbdaefq:97daee"
+        },
+        "share": {
+            "subject": "Early to Bed - Morphine",
+            "text": "Early to Bed by Morphine",
+            "href": "https://www.shazam.com/track/5271076/early-to-bed",
+            "image": "https://is5-ssl.mzstatic.com/image/thumb/Music122/v4/16/74/cb/1674cbec-5294-b22e-8de9-d055c9d9f227/cover.jpg/400x400cc.jpg",
+            "twitter": "I used @Shazam to discover Early to Bed by Morphine.",
+            "html": "https://www.shazam.com/snippets/email-share/5271076?lang=en-US&country=GB",
+            "avatar": "https://is3-ssl.mzstatic.com/image/thumb/Features125/v4/8b/1d/03/8b1d0379-29ca-ae07-ebeb-37206ae354f6/pr_source.png/800x800cc.jpg",
+            "snapchat": "https://www.shazam.com/partner/sc/track/5271076"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "actions": [
+                {
+                    "name": "apple",
+                    "type": "applemusicplay",
+                    "id": "1649513259"
+                },
+                {
+                    "name": "apple",
+                    "type": "uri",
+                    "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/67/b2/66/67b266e0-2aa9-dc3b-6ede-0b4ee2146a69/mzaf_7376018254868544827.plus.aac.ep.m4a"
+                }
+            ],
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/gb/album/early-to-bed/1649513252?i=1649513259&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/gb/album/early-to-bed/1649513252?i=1649513259&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                },
+                {
+                    "caption": "BUY",
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "uri": "https://itunes.apple.com/gb/album/early-to-bed/1649513252?i=1649513259&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "buy",
+                        "providername": "itunes"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "type": "buy",
+                    "listcaption": "Buy on iTunes",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "itunes"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:Early%20to%20Bed%20Morphine"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27Early+to+Bed%27%20artist%3A%27Morphine%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": false,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [
+                    {
+                        "image": "https://is3-ssl.mzstatic.com/image/thumb/Features125/v4/8b/1d/03/8b1d0379-29ca-ae07-ebeb-37206ae354f6/pr_source.png/800x800cc.jpg",
+                        "caption": "Morphine"
+                    },
+                    {
+                        "image": "https://is5-ssl.mzstatic.com/image/thumb/Music122/v4/16/74/cb/1674cbec-5294-b22e-8de9-d055c9d9f227/cover.jpg/400x400cc.jpg",
+                        "caption": "Early to Bed"
+                    }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                    {
+                        "title": "Album",
+                        "text": "Like Swimming"
+                    },
+                    {
+                        "title": "Label",
+                        "text": "Morphine"
+                    },
+                    {
+                        "title": "Released",
+                        "text": "1997"
+                    }
+                ]
+            },
+            {
+                "type": "LYRICS",
+                "text": [
+                    "Early to bed and early to rise",
+                    "Makes a man or woman miss out on the night life",
+                    "Early to bed and early to rise",
+                    "Makes a man or woman miss out on the night life",
+                    "One drink call it a early night",
+                    "Soon you're curled up beneath the reading light",
+                    "Or you bathe in the TV's blue tint",
+                    "On your pillow an after-dinner mint",
+                    "Early to bed and early to rise",
+                    "Makes a man or woman miss out on the night life",
+                    "Early to bed and early to rise",
+                    "Makes a man or woman miss out on the night life",
+                    "Early to bed so you can wait",
+                    "For three buses a trolley and a train",
+                    "I think it's worth it for you to stay awake",
+                    "Maybe tomorrow you'll be a little late",
+                    "But early to bed and early to rise",
+                    "Makes a man or woman miss out on the night life",
+                    "Early to bed and early to rise",
+                    "Makes a man or woman miss out on the night life",
+                    "You'll miss out on the night life (x2)"
+                ],
+                "url": "https://cdn.shazam.com/lyrics/v1/en-US/GB/iphone/musixmatch/subtitles/777260/177/1?token=405e46527be71c5c48db2f7f13b47b6d",
+                "footer": "Writer(s): Mark J. Sandman\nLyrics powered by www.musixmatch.com",
+                "tabname": "Lyrics",
+                "beacondata": {
+                    "lyricsid": "1630947",
+                    "providername": "musixmatch",
+                    "commontrackid": "777260"
+                }
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/5271076/youtube/video?q=Morphine+%22Early+to+Bed%22"
+            },
+            {
+                "type": "RELATED",
+                "url": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-5271076?startFrom=0&pageSize=20&connected=",
+                "tabname": "Related"
+            }
+        ],
+        "url": "https://www.shazam.com/track/5271076/early-to-bed",
+        "artists": [
+            {
+                "id": "42",
+                "adamid": "3444725"
+            }
+        ],
+        "isrc": "AEA0D2244553",
+        "genres": {
+            "primary": "Rock"
+        },
+        "urlparams": {
+            "{tracktitle}": "Early+to+Bed",
+            "{trackartist}": "Morphine"
+        },
+        "myshazam": {
+            "apple": {
+                "actions": [
+                    {
+                        "name": "myshazam:apple",
+                        "type": "uri",
+                        "uri": "https://music.apple.com/gb/album/early-to-bed/1649513252?i=1649513259&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                ]
+            }
+        },
+        "highlightsurls": {
+            "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/3444725/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+        },
+        "relatedtracksurl": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-5271076?startFrom=0&pageSize=20&connected=",
+        "albumadamid": "1649513252"
+    },
+    "tagid": "3CF74128-1C4A-4297-91B4-DB9C010FC59E"
+}

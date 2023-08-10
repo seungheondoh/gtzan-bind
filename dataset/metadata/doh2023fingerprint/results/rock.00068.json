@@ -1,0 +1,257 @@
+{
+    "matches": [
+        {
+            "id": "219405439",
+            "offset": 30.121570312,
+            "timeskew": 0.0019954443,
+            "frequencyskew": 0.0016123056
+        },
+        {
+            "id": "211196704",
+            "offset": 30.1453125,
+            "timeskew": 0.0037978888,
+            "frequencyskew": 0.0034291744
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691633541768,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "5174376",
+        "title": "Sweet Dream",
+        "subtitle": "Jethro Tull",
+        "images": {
+            "background": "https://is1-ssl.mzstatic.com/image/thumb/Features125/v4/6c/af/2b/6caf2b97-f2d3-14a9-431b-e1579e254c81/mzl.yziwwmnf.jpg/800x800cc.jpg",
+            "coverart": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/71/45/82/714582a4-bb21-873d-c022-487c7776e410/094632157553.jpg/400x400cc.jpg",
+            "coverarthq": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/71/45/82/714582a4-bb21-873d-c022-487c7776e410/094632157553.jpg/400x400cc.jpg",
+            "joecolor": "b:532a28p:f6cd49s:ecbe42t:d5ac42q:cda03d"
+        },
+        "share": {
+            "subject": "Sweet Dream - Jethro Tull",
+            "text": "Sweet Dream by Jethro Tull",
+            "href": "https://www.shazam.com/track/5174376/sweet-dream",
+            "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/71/45/82/714582a4-bb21-873d-c022-487c7776e410/094632157553.jpg/400x400cc.jpg",
+            "twitter": "I used @Shazam to discover Sweet Dream by Jethro Tull.",
+            "html": "https://www.shazam.com/snippets/email-share/5174376?lang=en-US&country=GB",
+            "avatar": "https://is1-ssl.mzstatic.com/image/thumb/Features125/v4/6c/af/2b/6caf2b97-f2d3-14a9-431b-e1579e254c81/mzl.yziwwmnf.jpg/800x800cc.jpg",
+            "snapchat": "https://www.shazam.com/partner/sc/track/5174376"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "actions": [
+                {
+                    "name": "apple",
+                    "type": "applemusicplay",
+                    "id": "726428032"
+                },
+                {
+                    "name": "apple",
+                    "type": "uri",
+                    "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/07/9c/2c/079c2c34-ad8b-13b0-201a-91ba068b95cc/mzaf_10411910674707460812.plus.aac.ep.m4a"
+                }
+            ],
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/gb/album/sweet-dream/726426747?i=726428032&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/gb/album/sweet-dream/726426747?i=726428032&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                },
+                {
+                    "caption": "BUY",
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "uri": "https://itunes.apple.com/gb/album/sweet-dream/726426747?i=726428032&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "buy",
+                        "providername": "itunes"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "type": "buy",
+                    "listcaption": "Buy on iTunes",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "itunes"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:Sweet%20Dream%20Jethro%20Tull"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27Sweet+Dream%27%20artist%3A%27Jethro+Tull%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": false,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [
+                    {
+                        "image": "https://is1-ssl.mzstatic.com/image/thumb/Features125/v4/6c/af/2b/6caf2b97-f2d3-14a9-431b-e1579e254c81/mzl.yziwwmnf.jpg/800x800cc.jpg",
+                        "caption": "Jethro Tull"
+                    },
+                    {
+                        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/71/45/82/714582a4-bb21-873d-c022-487c7776e410/094632157553.jpg/400x400cc.jpg",
+                        "caption": "Sweet Dream"
+                    }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                    {
+                        "title": "Album",
+                        "text": "Living In the Past"
+                    },
+                    {
+                        "title": "Label",
+                        "text": "Parlophone UK"
+                    },
+                    {
+                        "title": "Released",
+                        "text": "1972"
+                    }
+                ]
+            },
+            {
+                "type": "LYRICS",
+                "text": [
+                    "You'll hear me calling in your sweet dream",
+                    "Can't hear your daddy's warning cry",
+                    "You're going back to be all the things you want to be",
+                    "While in sweet dreams you softly sigh",
+                    "",
+                    "You hear my voice is calling",
+                    "To be mine again",
+                    "Live the rest of your life in a day",
+                    "",
+                    "Get out and get what you can",
+                    "While your mummy's at home a-sleeping",
+                    "No time to understand",
+                    "'Cause they lost what they thought they were keeping",
+                    "",
+                    "No one can see us in your sweet dream",
+                    "Don't hear you leave to start the car",
+                    "All wrapped up tightly in the coat you borrowed from me,",
+                    "Your place of resting is not far",
+                    "",
+                    "You hear my voice is calling",
+                    "To be mine again",
+                    "Live the rest of your life in a day",
+                    "",
+                    "Get out and get what you can",
+                    "While your mummy's at home a-sleeping",
+                    "No time to understand",
+                    "'Cause they lost what they thought they were keeping",
+                    "",
+                    "Get out and get what you can",
+                    "While your mummy's at home a-sleeping",
+                    "No time to understand",
+                    "'Cause they lost what they thought they were keeping"
+                ],
+                "url": "https://cdn.shazam.com/lyrics/v1/en-US/GB/iphone/musixmatch/subtitles/15043050/244/1?token=cf1b7c4645106da1e1f4d6d43e48cf76",
+                "footer": "Writer(s): Ian Scott Anderson\nLyrics powered by www.musixmatch.com",
+                "tabname": "Lyrics",
+                "beacondata": {
+                    "lyricsid": "8798925",
+                    "providername": "musixmatch",
+                    "commontrackid": "15043050"
+                }
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/5174376/youtube/video?q=Jethro+Tull+%22Sweet+Dream%22"
+            },
+            {
+                "type": "RELATED",
+                "url": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-5174376?startFrom=0&pageSize=20&connected=",
+                "tabname": "Related"
+            }
+        ],
+        "url": "https://www.shazam.com/track/5174376/sweet-dream",
+        "artists": [
+            {
+                "id": "42",
+                "adamid": "44596725"
+            }
+        ],
+        "isrc": "GBAYK6900018",
+        "genres": {
+            "primary": "Pop"
+        },
+        "urlparams": {
+            "{tracktitle}": "Sweet+Dream",
+            "{trackartist}": "Jethro+Tull"
+        },
+        "myshazam": {
+            "apple": {
+                "actions": [
+                    {
+                        "name": "myshazam:apple",
+                        "type": "uri",
+                        "uri": "https://music.apple.com/gb/album/sweet-dream/726426747?i=726428032&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                ]
+            }
+        },
+        "highlightsurls": {
+            "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/44596725/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+        },
+        "relatedtracksurl": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-5174376?startFrom=0&pageSize=20&connected=",
+        "albumadamid": "726426747"
+    },
+    "tagid": "C2C1A850-62FC-4B9F-8D8D-A7C932812B98"
+}

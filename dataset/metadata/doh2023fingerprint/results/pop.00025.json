@@ -1,0 +1,281 @@
+{
+    "matches": [
+        {
+            "id": "201769133",
+            "offset": 29.707205077999998,
+            "timeskew": -7.981062e-05,
+            "frequencyskew": -0.00020134449
+        },
+        {
+            "id": "232135675",
+            "offset": 17.453550781,
+            "timeskew": 0.000103116035,
+            "frequencyskew": -0.00036239624
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691632699595,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "223128",
+        "title": "From the Bottom of My Broken Heart",
+        "subtitle": "Britney Spears",
+        "images": {
+            "background": "https://is4-ssl.mzstatic.com/image/thumb/Features115/v4/53/a7/66/53a76640-0730-3751-19cd-aac7d85c20b8/mzl.izsetnqd.jpeg/800x800cc.jpg",
+            "coverart": "https://is4-ssl.mzstatic.com/image/thumb/Music125/v4/7b/f7/0e/7bf70ecc-b16b-01d8-b14c-00ccae5062c7/dj.wvceujiz.jpg/400x400cc.jpg",
+            "coverarthq": "https://is4-ssl.mzstatic.com/image/thumb/Music125/v4/7b/f7/0e/7bf70ecc-b16b-01d8-b14c-00ccae5062c7/dj.wvceujiz.jpg/400x400cc.jpg",
+            "joecolor": "b:ffedebp:4f190bs:4b291at:724338q:6f5043"
+        },
+        "share": {
+            "subject": "From the Bottom of My Broken Heart - Britney Spears",
+            "text": "From the Bottom of My Broken Heart by Britney Spears",
+            "href": "https://www.shazam.com/track/223128/from-the-bottom-of-my-broken-heart",
+            "image": "https://is4-ssl.mzstatic.com/image/thumb/Music125/v4/7b/f7/0e/7bf70ecc-b16b-01d8-b14c-00ccae5062c7/dj.wvceujiz.jpg/400x400cc.jpg",
+            "twitter": "I used @Shazam to discover From the Bottom of My Broken Heart by Britney Spears.",
+            "html": "https://www.shazam.com/snippets/email-share/223128?lang=en-US&country=GB",
+            "avatar": "https://is4-ssl.mzstatic.com/image/thumb/Features115/v4/53/a7/66/53a76640-0730-3751-19cd-aac7d85c20b8/mzl.izsetnqd.jpeg/800x800cc.jpg",
+            "snapchat": "https://www.shazam.com/partner/sc/track/223128"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "actions": [
+                {
+                    "name": "apple",
+                    "type": "applemusicplay",
+                    "id": "273143827"
+                },
+                {
+                    "name": "apple",
+                    "type": "uri",
+                    "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/d9/21/42/d9214269-78d4-da65-0547-818d6597216e/mzaf_17091899837736676597.plus.aac.ep.m4a"
+                }
+            ],
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/gb/album/from-the-bottom-of-my-broken-heart/273143723?i=273143827&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/gb/album/from-the-bottom-of-my-broken-heart/273143723?i=273143827&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                },
+                {
+                    "caption": "BUY",
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "uri": "https://itunes.apple.com/gb/album/from-the-bottom-of-my-broken-heart/273143723?i=273143827&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "buy",
+                        "providername": "itunes"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "type": "buy",
+                    "listcaption": "Buy on iTunes",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "itunes"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:From%20the%20Bottom%20of%20My%20Broken%20Heart%20Britney%20Spears"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27From+the+Bottom+of+My+Broken+Heart%27%20artist%3A%27Britney+Spears%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": false,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [
+                    {
+                        "image": "https://is4-ssl.mzstatic.com/image/thumb/Features115/v4/53/a7/66/53a76640-0730-3751-19cd-aac7d85c20b8/mzl.izsetnqd.jpeg/800x800cc.jpg",
+                        "caption": "Britney Spears"
+                    },
+                    {
+                        "image": "https://is4-ssl.mzstatic.com/image/thumb/Music125/v4/7b/f7/0e/7bf70ecc-b16b-01d8-b14c-00ccae5062c7/dj.wvceujiz.jpg/400x400cc.jpg",
+                        "caption": "From the Bottom of My Broken Heart"
+                    }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                    {
+                        "title": "Album",
+                        "text": "...Baby One More Time (Deluxe Version)"
+                    },
+                    {
+                        "title": "Label",
+                        "text": "Jive"
+                    },
+                    {
+                        "title": "Released",
+                        "text": "1999"
+                    }
+                ]
+            },
+            {
+                "type": "LYRICS",
+                "text": [
+                    "Ooh, ooh",
+                    "Na-na-na, na-na-na-na",
+                    "Ooh (na-na-na)",
+                    "Yeah, yeah",
+                    "Ooh (na-na-na)",
+                    "\"Never look back\", we said",
+                    "How was I to know I'd miss you so?",
+                    "Loneliness up ahead, emptiness behind",
+                    "Where do I go?",
+                    "And you didn't hear all my joy through my tears",
+                    "All my hopes through my fears",
+                    "Did you know",
+                    "Still, I miss you somehow",
+                    "From the bottom of my broken heart",
+                    "There's just a thing or two I'd like you to know",
+                    "You were my first love, you were my true love",
+                    "From the first kisses to the very last rose",
+                    "From the bottom of my broken heart",
+                    "Even though time may find me somebody new",
+                    "You were my real love, I never knew love",
+                    "'Til there was you",
+                    "From the bottom of my broken heart",
+                    "Baby, I said, please stay (stay)",
+                    "Give our love a chance for one more day, oh",
+                    "We could've worked things out (taking time is what it's all about)",
+                    "Taking time is what love's all about (oh)",
+                    "But you put a dart",
+                    "Through my dreams, through my heart",
+                    "And I'm back where I started again, yeah",
+                    "Never thought it would end",
+                    "From the bottom of my broken heart (my broken heart)",
+                    "There's just a thing or two I'd like you to know",
+                    "You were my first love, you were my true love",
+                    "From the first kisses to the very last rose",
+                    "From the bottom of my broken heart",
+                    "Even though time may find me somebody new",
+                    "You were my real love, I never knew love",
+                    "'Til there was you",
+                    "From the bottom of my broken heart",
+                    "You promised yourself",
+                    "But to somebody else",
+                    "And you made it so perfectly clear",
+                    "Still, I wish you were here now",
+                    "From the bottom of my broken heart",
+                    "There's just a thing or two (a thing or two)",
+                    "I'd like you to know (you gotta know)",
+                    "(And you were my first love) you were my first love",
+                    "And you were my true love",
+                    "From the first kisses to the very last rose",
+                    "From the bottom of my broken heart",
+                    "Even though time may find me somebody new",
+                    "(You were my real love) you were my real love",
+                    "I never knew love 'til there was you",
+                    "From the bottom of my broken heart",
+                    "\"Never look back\", we said",
+                    "How was I to know I'd miss you so?"
+                ],
+                "url": "https://cdn.shazam.com/lyrics/v1/en-US/GB/iphone/musixmatch/subtitles/117710/312/1?token=a3fb0a2f0c61f63471d3db01c150e815",
+                "footer": "Writer(s): Eric F. White\nLyrics powered by www.musixmatch.com",
+                "tabname": "Lyrics",
+                "beacondata": {
+                    "lyricsid": "30399795",
+                    "providername": "musixmatch",
+                    "commontrackid": "117710"
+                }
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/223128/youtube/video?q=Britney+Spears+%22From+the+Bottom+of+My+Broken+Heart%22"
+            },
+            {
+                "type": "RELATED",
+                "url": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-223128?startFrom=0&pageSize=20&connected=",
+                "tabname": "Related"
+            }
+        ],
+        "url": "https://www.shazam.com/track/223128/from-the-bottom-of-my-broken-heart",
+        "artists": [
+            {
+                "id": "42",
+                "adamid": "217005"
+            }
+        ],
+        "isrc": "USJI19910455",
+        "genres": {
+            "primary": "Pop"
+        },
+        "urlparams": {
+            "{tracktitle}": "From+the+Bottom+of+My+Broken+Heart",
+            "{trackartist}": "Britney+Spears"
+        },
+        "myshazam": {
+            "apple": {
+                "actions": [
+                    {
+                        "name": "myshazam:apple",
+                        "type": "uri",
+                        "uri": "https://music.apple.com/gb/album/from-the-bottom-of-my-broken-heart/273143723?i=273143827&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                ]
+            }
+        },
+        "highlightsurls": {
+            "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/217005/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+        },
+        "relatedtracksurl": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-223128?startFrom=0&pageSize=20&connected=",
+        "albumadamid": "273143723"
+    },
+    "tagid": "C9A27102-61A7-41B9-AAA8-1338F60414F0"
+}

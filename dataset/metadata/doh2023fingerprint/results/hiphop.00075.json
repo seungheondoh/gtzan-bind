@@ -1,0 +1,325 @@
+{
+    "matches": [
+        {
+            "id": "480495803",
+            "offset": 117.328046875,
+            "timeskew": -0.018101633,
+            "frequencyskew": -0.017790437
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691632869088,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "5223073",
+        "title": "Stressed Out (feat. Faith Evans) [LP Version]",
+        "subtitle": "A Tribe Called Quest",
+        "images": {
+            "background": "https://is2-ssl.mzstatic.com/image/thumb/Features115/v4/a0/ad/bc/a0adbc34-694d-11c0-7bde-530856def3e0/mzl.mdbitjdo.jpg/800x800cc.jpg",
+            "coverart": "https://is3-ssl.mzstatic.com/image/thumb/Music6/v4/02/90/01/029001ed-7fb8-1794-25c9-39fdc0fa6312/dj.ouvfuois.jpg/400x400cc.jpg",
+            "coverarthq": "https://is3-ssl.mzstatic.com/image/thumb/Music6/v4/02/90/01/029001ed-7fb8-1794-25c9-39fdc0fa6312/dj.ouvfuois.jpg/400x400cc.jpg",
+            "joecolor": "b:100211p:fcf7f4s:ffce82t:cdc6c6q:cfa56b"
+        },
+        "share": {
+            "subject": "Stressed Out (feat. Faith Evans) [LP Version] - A Tribe Called Quest",
+            "text": "Stressed Out (feat. Faith Evans) [LP Version] by A Tribe Called Quest",
+            "href": "https://www.shazam.com/track/5223073/stressed-out-feat-faith-evans-lp-version",
+            "image": "https://is3-ssl.mzstatic.com/image/thumb/Music6/v4/02/90/01/029001ed-7fb8-1794-25c9-39fdc0fa6312/dj.ouvfuois.jpg/400x400cc.jpg",
+            "twitter": "I used @Shazam to discover Stressed Out (feat. Faith Evans) [LP Version] by A Tribe Called Quest.",
+            "html": "https://www.shazam.com/snippets/email-share/5223073?lang=en-US&country=GB",
+            "avatar": "https://is2-ssl.mzstatic.com/image/thumb/Features115/v4/a0/ad/bc/a0adbc34-694d-11c0-7bde-530856def3e0/mzl.mdbitjdo.jpg/800x800cc.jpg",
+            "snapchat": "https://www.shazam.com/partner/sc/track/5223073"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "actions": [
+                {
+                    "name": "apple",
+                    "type": "applemusicplay",
+                    "id": "254979214"
+                },
+                {
+                    "name": "apple",
+                    "type": "uri",
+                    "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/d8/8e/e2/d88ee2bb-c7b8-2498-8444-001b9e2dc37f/mzaf_14831989654246467677.plus.aac.ep.m4a"
+                }
+            ],
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/gb/album/stressed-out-feat-faith-evans-lp-version/254976948?i=254979214&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/gb/album/stressed-out-feat-faith-evans-lp-version/254976948?i=254979214&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                },
+                {
+                    "caption": "BUY",
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "uri": "https://itunes.apple.com/gb/album/stressed-out-feat-faith-evans-lp-version/254976948?i=254979214&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "buy",
+                        "providername": "itunes"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "type": "buy",
+                    "listcaption": "Buy on iTunes",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "itunes"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:Stressed%20Out%20%28feat.%20Faith%20Evans%29%20%5BLP%20Version%5D%20A%20Tribe%20Called%20Quest"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27Stressed+Out+%28feat.+Faith+Evans%29+%5BLP+Version%5D%27%20artist%3A%27A+Tribe+Called+Quest%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": true,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [
+                    {
+                        "image": "https://is2-ssl.mzstatic.com/image/thumb/Features115/v4/a0/ad/bc/a0adbc34-694d-11c0-7bde-530856def3e0/mzl.mdbitjdo.jpg/800x800cc.jpg",
+                        "caption": "A Tribe Called Quest"
+                    },
+                    {
+                        "image": "https://is3-ssl.mzstatic.com/image/thumb/Music6/v4/02/90/01/029001ed-7fb8-1794-25c9-39fdc0fa6312/dj.ouvfuois.jpg/400x400cc.jpg",
+                        "caption": "Stressed Out (feat. Faith Evans) [LP Version]"
+                    }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                    {
+                        "title": "Album",
+                        "text": "Beats, Rhymes & Life"
+                    },
+                    {
+                        "title": "Label",
+                        "text": "Jive"
+                    },
+                    {
+                        "title": "Released",
+                        "text": "1996"
+                    }
+                ]
+            },
+            {
+                "type": "LYRICS",
+                "text": [
+                    "I really know how it feels to be, stressed out, stressed out",
+                    "When you're face to face with your adversity",
+                    "I really know how it feels to be, stressed out, stressed out",
+                    "We're gonna make this thing work out eventually",
+                    "",
+                    "Yo I ain't one to complain but there's things in the game",
+                    "(What's your name?) Consequence, I'm tight, burnt like flames",
+                    "(And why's that?) American dreams, they got this ghetto kid in a fiend",
+                    "Don't stress that 'cause it's not in your bloodstream",
+                    "Your whole being, comes from greatness, d'you remember",
+                    "Shatan got you caught in the storms of December",
+                    "And brothers on the block packin' nines like September",
+                    "Crazy situations keeps pockets on slender (check it)",
+                    "",
+                    "Yo I be on the avenue where they be actin' brand new",
+                    "I'm splurgin' on these Reebok joints for shorty boo",
+                    "All of a sudden, I saw these two kids frontin'",
+                    "Talkin' out they joints but they wasn't sayin' nuttin'",
+                    "My hand was on my toolie they was actin' unruly",
+                    "(Say word) yo word up, yo I was tight caught up",
+                    "But I swallowed my pride and let that nonsense ride",
+                    "Because I'm positive it seems that negative dies",
+                    "",
+                    "Yo we was at the dice game makin these cats look silly",
+                    "Flamin', steady runnin' off at the Willie",
+                    "I had my cash mixed, my rent due, with my play-dough",
+                    "I gotta see some loot so all my girls I blow",
+                    "Shook them shits in my palm let 'em hit the flo'",
+                    "Kept my eyeballs scopin' for them pigs po-po",
+                    "I got to go on the ave see my parole by fo'",
+                    "But I gotta steady freak these boys like JoJo",
+                    "",
+                    "And I was doin' it, 'til I met Ike, Spike, and Mike",
+                    "One roll, they had my pockets thirstier than Sprite",
+                    "Yo I know the feelin', when you feelin' like a villain",
+                    "You be havin' good thoughts but the evils be revealin'",
+                    "And the stresses of life can take you off the right path (no doubt)",
+                    "Jealousy and envy tends to infiltrate your staff",
+                    "We gotta hold it down so we can move on past",
+                    "All adversities, so we can get through fast, like that",
+                    "",
+                    "I really know how it feels to be, stressed out, stressed out (really know)",
+                    "When you're face to face with your adversity",
+                    "I really know how it feels to be, stressed out, stressed out (oh yeah)",
+                    "We're gonna make this thing work out eventually",
+                    "",
+                    "You got the N.W.O. (low cash flow)",
+                    "Your baby's on the way (and you don't know who)",
+                    "And crosstown niggaz tryin' to (bust at you)",
+                    "Aiyyo they got me stressed out (and you don't know what to do)",
+                    "So frame this Kodak black, and vision to my contact",
+                    "With a poultry scrap, workers get pistol smacked",
+                    "The switch hittin' Queens, niggaz liquid sword spittin'",
+                    "With raw poppy, and now your first love is krill",
+                    "Your vision of the mil got crept like, \"Hey Lover\"",
+                    "Tried to rise to the top, you just couldn't recover",
+                    "",
+                    "And all I want is my laceration of the pie",
+                    "To get this whip cream before the water runs dry",
+                    "Niggaz flash dancin' yo I don't know why",
+                    "You're sick of snitchin', she got you cruisin' to the pokey",
+                    "Like Smokey, the stress be tryin' to squeeze out a homey",
+                    "While I be tryin' to get star status like Shinobi",
+                    "So we can build a dynasty, just like the Toby's",
+                    "And all I want, is the world to know my steez",
+                    "These money hungry niggaz is seven thirty",
+                    "And got me stressed out like these frog MC's",
+                    "",
+                    "I really know how it feels to be, stressed out, stressed out",
+                    "When you're face to face with your adversity (with your adversity)",
+                    "I really know how it feels to be (I know), stressed out, stressed out (oh, yeah)",
+                    "We're gonna make this thing work out eventually (oh)",
+                    "",
+                    "Don't worry we gon' make it (gonna make it)",
+                    "Don't worry we gon' make it (oh yeah)",
+                    "Don't worry we gon' make it (gonna make it)",
+                    "We gon make it (gotta make it)",
+                    "",
+                    "Don't worry we gon' make it (gotta make it)",
+                    "We're gonna make it (we gotta make it)",
+                    "Don't worry we gon' make it (we gonna make it)",
+                    "We gonna make it (oh-oh-oh)",
+                    "",
+                    "Don't worry we gon' make it (oh-oh)",
+                    "Don't worry we gon' make it (gonna make it)",
+                    "Don't worry we gon' make it (ooh)",
+                    "We gon make it (oh)",
+                    "",
+                    "Don't worry we gon' make it (ooh)",
+                    "I know we gonna make it (we're gonna make it)",
+                    "C'mon baby we gon' make it (yeah)",
+                    "We gon' make it (yeah)",
+                    "",
+                    "Don't worry we gon' make it (we gonna make it)",
+                    "We gonna make it (we gonna make it)",
+                    "We gon make it",
+                    "Don't worry we gon' make it (oh, yeah)",
+                    "",
+                    "We gonna make it",
+                    "Gonna make it",
+                    "We gonna make it",
+                    "I know we gonna make it",
+                    "",
+                    "Gonna make it",
+                    "Oh, yeah, yeah, yeah, yeah..."
+                ],
+                "url": "https://cdn.shazam.com/lyrics/v1/en-US/GB/iphone/musixmatch/subtitles/60848733/205/1?token=407d4c6563a81274c06b7d15946bdd50",
+                "footer": "Writer(s): Gary Taylor, Kamal Ibn John Fareed, Ali Shaheed Jones-muhammad, Dexter Raymond Mills\nLyrics powered by www.musixmatch.com",
+                "tabname": "Lyrics",
+                "beacondata": {
+                    "lyricsid": "27487361",
+                    "providername": "musixmatch",
+                    "commontrackid": "60848733"
+                }
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/5223073/youtube/video?q=A+Tribe+Called+Quest+%22Stressed+Out+(feat.+Faith+Evans)+%5BLP+Version%5D%22"
+            },
+            {
+                "type": "RELATED",
+                "url": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-5223073?startFrom=0&pageSize=20&connected=",
+                "tabname": "Related"
+            }
+        ],
+        "url": "https://www.shazam.com/track/5223073/stressed-out-feat-faith-evans-lp-version",
+        "artists": [
+            {
+                "id": "42",
+                "adamid": "1587965"
+            }
+        ],
+        "isrc": "USJI19610438",
+        "genres": {
+            "primary": "Hip-Hop/Rap"
+        },
+        "urlparams": {
+            "{tracktitle}": "Stressed+Out+%28feat.+Faith+Evans%29+%5BLP+Version%5D",
+            "{trackartist}": "A+Tribe+Called+Quest"
+        },
+        "myshazam": {
+            "apple": {
+                "actions": [
+                    {
+                        "name": "myshazam:apple",
+                        "type": "uri",
+                        "uri": "https://music.apple.com/gb/album/stressed-out-feat-faith-evans-lp-version/254976948?i=254979214&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                ]
+            }
+        },
+        "highlightsurls": {
+            "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/1587965/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios&videoIdToFilter=1380984723",
+            "trackhighlighturl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/highlights/1380984723?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+        },
+        "relatedtracksurl": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-5223073?startFrom=0&pageSize=20&connected=",
+        "albumadamid": "254976948"
+    },
+    "tagid": "9A0FF10E-5D9E-4A33-991D-894B405ADC9F"
+}

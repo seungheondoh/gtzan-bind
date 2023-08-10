@@ -1,0 +1,206 @@
+{
+    "matches": [
+        {
+            "id": "283324669",
+            "offset": 346.77815625,
+            "timeskew": 0.077240705,
+            "frequencyskew": 0.067246914
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691633583503,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "57930488",
+        "title": "More Days On Week",
+        "subtitle": "Gabriel Marchisio",
+        "images": {
+            "background": "https://is2-ssl.mzstatic.com/image/thumb/AMCArtistImages122/v4/7c/64/14/7c641403-cdcb-0f8d-6949-6f6d5a3b0adb/80d5609b-132a-4d4c-8ad4-e52854307a53_ami-identity-e54dd7e64ff593b80cd532439e7c3efd-2022-10-19T20-28-17.069Z_cropped.png/800x800cc.jpg",
+            "coverart": "https://is1-ssl.mzstatic.com/image/thumb/Music71/v4/1a/c0/45/1ac04501-cc74-0a4b-4c79-2ad4be7dfc63/cover.jpg/400x400cc.jpg",
+            "coverarthq": "https://is1-ssl.mzstatic.com/image/thumb/Music71/v4/1a/c0/45/1ac04501-cc74-0a4b-4c79-2ad4be7dfc63/cover.jpg/400x400cc.jpg",
+            "joecolor": "b:000003p:c7cdd3s:63b1dct:9fa4a9q:4f8eb1"
+        },
+        "share": {
+            "subject": "More Days On Week - Gabriel Marchisio",
+            "text": "More Days On Week by Gabriel Marchisio",
+            "href": "https://www.shazam.com/track/57930488/more-days-on-week",
+            "image": "https://is1-ssl.mzstatic.com/image/thumb/Music71/v4/1a/c0/45/1ac04501-cc74-0a4b-4c79-2ad4be7dfc63/cover.jpg/400x400cc.jpg",
+            "twitter": "I used @Shazam to discover More Days On Week by Gabriel Marchisio.",
+            "html": "https://www.shazam.com/snippets/email-share/57930488?lang=en-US&country=GB",
+            "avatar": "https://is2-ssl.mzstatic.com/image/thumb/AMCArtistImages122/v4/7c/64/14/7c641403-cdcb-0f8d-6949-6f6d5a3b0adb/80d5609b-132a-4d4c-8ad4-e52854307a53_ami-identity-e54dd7e64ff593b80cd532439e7c3efd-2022-10-19T20-28-17.069Z_cropped.png/800x800cc.jpg",
+            "snapchat": "https://www.shazam.com/partner/sc/track/57930488"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "actions": [
+                {
+                    "name": "apple",
+                    "type": "applemusicplay",
+                    "id": "1180568976"
+                },
+                {
+                    "name": "apple",
+                    "type": "uri",
+                    "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview62/v4/10/80/9b/10809bd1-a353-2005-8236-acf2e4d38ee4/mzaf_2694945731162043388.plus.aac.ep.m4a"
+                }
+            ],
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/gb/album/more-days-on-week/1180568962?i=1180568976&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/gb/album/more-days-on-week/1180568962?i=1180568976&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                },
+                {
+                    "caption": "BUY",
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "uri": "https://itunes.apple.com/gb/album/more-days-on-week/1180568962?i=1180568976&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "buy",
+                        "providername": "itunes"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "type": "buy",
+                    "listcaption": "Buy on iTunes",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "itunes"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:More%20Days%20On%20Week%20Gabriel%20Marchisio"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27More+Days+On+Week%27%20artist%3A%27Gabriel+Marchisio%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": false,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [
+                    {
+                        "image": "https://is2-ssl.mzstatic.com/image/thumb/AMCArtistImages122/v4/7c/64/14/7c641403-cdcb-0f8d-6949-6f6d5a3b0adb/80d5609b-132a-4d4c-8ad4-e52854307a53_ami-identity-e54dd7e64ff593b80cd532439e7c3efd-2022-10-19T20-28-17.069Z_cropped.png/800x800cc.jpg",
+                        "caption": "Gabriel Marchisio"
+                    },
+                    {
+                        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music71/v4/1a/c0/45/1ac04501-cc74-0a4b-4c79-2ad4be7dfc63/cover.jpg/400x400cc.jpg",
+                        "caption": "More Days On Week"
+                    }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                    {
+                        "title": "Album",
+                        "text": "Best of Me"
+                    },
+                    {
+                        "title": "Label",
+                        "text": "Cancun Records"
+                    },
+                    {
+                        "title": "Released",
+                        "text": "2010"
+                    }
+                ]
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/57930488/youtube/video?q=Gabriel+Marchisio+%22More+Days+On+Week%22"
+            },
+            {
+                "type": "RELATED",
+                "url": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-57930488?startFrom=0&pageSize=20&connected=",
+                "tabname": "Related"
+            }
+        ],
+        "url": "https://www.shazam.com/track/57930488/more-days-on-week",
+        "artists": [
+            {
+                "id": "42",
+                "adamid": "297201704"
+            }
+        ],
+        "isrc": "BGA471613175",
+        "genres": {
+            "primary": "Dance"
+        },
+        "urlparams": {
+            "{tracktitle}": "More+Days+On+Week",
+            "{trackartist}": "Gabriel+Marchisio"
+        },
+        "myshazam": {
+            "apple": {
+                "actions": [
+                    {
+                        "name": "myshazam:apple",
+                        "type": "uri",
+                        "uri": "https://music.apple.com/gb/album/more-days-on-week/1180568962?i=1180568976&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                ]
+            }
+        },
+        "highlightsurls": {
+            "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/297201704/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+        },
+        "relatedtracksurl": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-57930488?startFrom=0&pageSize=20&connected=",
+        "albumadamid": "1180568962"
+    },
+    "tagid": "0F9C7E74-845F-46B2-84C9-E9D5A9D96BBC"
+}

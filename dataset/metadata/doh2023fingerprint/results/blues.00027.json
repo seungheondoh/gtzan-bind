@@ -1,0 +1,252 @@
+{
+    "matches": [
+        {
+            "id": "219637556",
+            "offset": 28.690246093000003,
+            "timeskew": -0.0064852834,
+            "frequencyskew": -0.005902767
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691632601567,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "10314520",
+        "title": "Hellhound On My Trail",
+        "subtitle": "Robert Johnson",
+        "images": {
+            "background": "https://is1-ssl.mzstatic.com/image/thumb/Features125/v4/ca/df/91/cadf91c2-0f43-7a03-d6e5-91778c2701ba/pr_source.png/800x800cc.jpg",
+            "coverart": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/7f/71/a3/7f71a373-eda9-a39e-cdfd-4d3a979963f4/886443959255.jpg/400x400cc.jpg",
+            "coverarthq": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/7f/71/a3/7f71a373-eda9-a39e-cdfd-4d3a979963f4/886443959255.jpg/400x400cc.jpg",
+            "joecolor": "b:001e28p:f2d798s:b8ceddt:c2b281q:93abb8"
+        },
+        "share": {
+            "subject": "Hellhound On My Trail - Robert Johnson",
+            "text": "Hellhound On My Trail by Robert Johnson",
+            "href": "https://www.shazam.com/track/10314520/hellhound-on-my-trail",
+            "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/7f/71/a3/7f71a373-eda9-a39e-cdfd-4d3a979963f4/886443959255.jpg/400x400cc.jpg",
+            "twitter": "I used @Shazam to discover Hellhound On My Trail by Robert Johnson.",
+            "html": "https://www.shazam.com/snippets/email-share/10314520?lang=en-US&country=GB",
+            "avatar": "https://is1-ssl.mzstatic.com/image/thumb/Features125/v4/ca/df/91/cadf91c2-0f43-7a03-d6e5-91778c2701ba/pr_source.png/800x800cc.jpg",
+            "snapchat": "https://www.shazam.com/partner/sc/track/10314520"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "actions": [
+                {
+                    "name": "apple",
+                    "type": "applemusicplay",
+                    "id": "634139957"
+                },
+                {
+                    "name": "apple",
+                    "type": "uri",
+                    "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/ac/07/da/ac07da00-2b7e-a462-ee86-d73e51d4b182/mzaf_17089160980163058491.plus.aac.ep.m4a"
+                }
+            ],
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/gb/album/hellhound-on-my-trail/634138999?i=634139957&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/gb/album/hellhound-on-my-trail/634138999?i=634139957&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                },
+                {
+                    "caption": "BUY",
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "uri": "https://itunes.apple.com/gb/album/hellhound-on-my-trail/634138999?i=634139957&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "buy",
+                        "providername": "itunes"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "type": "buy",
+                    "listcaption": "Buy on iTunes",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "itunes"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:Hellhound%20On%20My%20Trail%20Robert%20Johnson"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27Hellhound+On+My+Trail%27%20artist%3A%27Robert+Johnson%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": false,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [
+                    {
+                        "image": "https://is1-ssl.mzstatic.com/image/thumb/Features125/v4/ca/df/91/cadf91c2-0f43-7a03-d6e5-91778c2701ba/pr_source.png/800x800cc.jpg",
+                        "caption": "Robert Johnson"
+                    },
+                    {
+                        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/7f/71/a3/7f71a373-eda9-a39e-cdfd-4d3a979963f4/886443959255.jpg/400x400cc.jpg",
+                        "caption": "Hellhound On My Trail"
+                    }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                    {
+                        "title": "Album",
+                        "text": "King of the Delta Blues"
+                    },
+                    {
+                        "title": "Label",
+                        "text": "Columbia/Legacy"
+                    },
+                    {
+                        "title": "Released",
+                        "text": "1937"
+                    }
+                ]
+            },
+            {
+                "type": "LYRICS",
+                "text": [
+                    "I got to keep movin', I got to keep movin'",
+                    "Blues fallin' down like hail, blues fallin' down like hail",
+                    "Hmmm-mmm, blues fallin' down like hail, blues fallin' down like hail",
+                    "",
+                    "And the days keeps on worryin' me",
+                    "There's a hellhound on my trail, hellhound on my trail",
+                    "Hellhound on my trail",
+                    "",
+                    "If today was Christmas Eve, if today was Christmas Eve",
+                    "And tomorrow was Christmas Day",
+                    "If today was Christmas Eve, and tomorrow was Christmas Day",
+                    "Aw, wouldn't we have a time, baby?",
+                    "",
+                    "All I would need my little sweet rider just",
+                    "To pass the time away, huh-huh",
+                    "To pass the time away",
+                    "",
+                    "You sprinkled hot foot powder, mmm",
+                    "Mmm, around my door, all around my door",
+                    "You sprinkled hot foot powder",
+                    "All around your daddy's door, hmm-hmm-hmm",
+                    "",
+                    "It keep me with ramblin' mind, rider",
+                    "Every old place I go, every old place I go",
+                    "",
+                    "I can tell the wind is risin', the leaves tremblin' on the tree",
+                    "Tremblin' on the tree",
+                    "I can tell the wind is risin', leaves tremblin' on the tree",
+                    "Hmm-hmm hmm-mmm",
+                    "",
+                    "All I need's my little sweet woman",
+                    "And to keep my company, hey, hey, hey",
+                    "My company"
+                ],
+                "url": "https://cdn.shazam.com/lyrics/v1/en-US/GB/iphone/musixmatch/subtitles/48911101/156/1?token=5783a515f1cedac75849991e50de6335",
+                "footer": "Writer(s): Robert L. Johnson\nLyrics powered by www.musixmatch.com",
+                "tabname": "Lyrics",
+                "beacondata": {
+                    "lyricsid": "14142655",
+                    "providername": "musixmatch",
+                    "commontrackid": "48911101"
+                }
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/10314520/youtube/video?q=Robert+Johnson+%22Hellhound+On+My+Trail%22"
+            },
+            {
+                "type": "RELATED",
+                "url": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-10314520?startFrom=0&pageSize=20&connected=",
+                "tabname": "Related"
+            }
+        ],
+        "url": "https://www.shazam.com/track/10314520/hellhound-on-my-trail",
+        "artists": [
+            {
+                "id": "42",
+                "adamid": "314626"
+            }
+        ],
+        "isrc": "USSM19000087",
+        "genres": {
+            "primary": "Blues"
+        },
+        "urlparams": {
+            "{tracktitle}": "Hellhound+On+My+Trail",
+            "{trackartist}": "Robert+Johnson"
+        },
+        "myshazam": {
+            "apple": {
+                "actions": [
+                    {
+                        "name": "myshazam:apple",
+                        "type": "uri",
+                        "uri": "https://music.apple.com/gb/album/hellhound-on-my-trail/634138999?i=634139957&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                ]
+            }
+        },
+        "highlightsurls": {
+            "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/314626/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+        },
+        "relatedtracksurl": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-10314520?startFrom=0&pageSize=20&connected=",
+        "albumadamid": "634138999"
+    },
+    "tagid": "2D5802F3-7D81-4A44-A05B-30AF33A17CC0"
+}

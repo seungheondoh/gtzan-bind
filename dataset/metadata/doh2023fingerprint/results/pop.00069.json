@@ -1,0 +1,289 @@
+{
+    "matches": [
+        {
+            "id": "293623317",
+            "offset": 29.835320312,
+            "timeskew": -0.00016194582,
+            "frequencyskew": -0.0003221631
+        },
+        {
+            "id": "299407004",
+            "offset": 29.614851562,
+            "timeskew": 5.1259995e-05,
+            "frequencyskew": -8.0525875e-05
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691632741822,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "246164",
+        "title": "If",
+        "subtitle": "Janet Jackson",
+        "images": {
+            "background": "https://is4-ssl.mzstatic.com/image/thumb/Features125/v4/a5/ff/c6/a5ffc651-ee12-f65b-3c34-35c598c2560e/pr_source.png/800x800cc.jpg",
+            "coverart": "https://is3-ssl.mzstatic.com/image/thumb/Music114/v4/b6/3a/15/b63a15ba-dd50-62b0-4054-03a81241774a/00602567743217.rgb.jpg/400x400cc.jpg",
+            "coverarthq": "https://is3-ssl.mzstatic.com/image/thumb/Music114/v4/b6/3a/15/b63a15ba-dd50-62b0-4054-03a81241774a/00602567743217.rgb.jpg/400x400cc.jpg",
+            "joecolor": "b:65666ap:f8f0e5s:e8d8cct:dbd4ccq:cec1b8"
+        },
+        "share": {
+            "subject": "If - Janet Jackson",
+            "text": "If by Janet Jackson",
+            "href": "https://www.shazam.com/track/246164/if",
+            "image": "https://is3-ssl.mzstatic.com/image/thumb/Music114/v4/b6/3a/15/b63a15ba-dd50-62b0-4054-03a81241774a/00602567743217.rgb.jpg/400x400cc.jpg",
+            "twitter": "I used @Shazam to discover If by Janet Jackson.",
+            "html": "https://www.shazam.com/snippets/email-share/246164?lang=en-US&country=GB",
+            "avatar": "https://is4-ssl.mzstatic.com/image/thumb/Features125/v4/a5/ff/c6/a5ffc651-ee12-f65b-3c34-35c598c2560e/pr_source.png/800x800cc.jpg",
+            "snapchat": "https://www.shazam.com/partner/sc/track/246164"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "actions": [
+                {
+                    "name": "apple",
+                    "type": "applemusicplay",
+                    "id": "1388413854"
+                },
+                {
+                    "name": "apple",
+                    "type": "uri",
+                    "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/cf/7c/cf/cf7ccf3d-8430-5dc7-8481-111e09321347/mzaf_3939378461531751254.plus.aac.ep.m4a"
+                }
+            ],
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/gb/album/if/1388413681?i=1388413854&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/gb/album/if/1388413681?i=1388413854&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                },
+                {
+                    "caption": "BUY",
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "uri": "https://itunes.apple.com/gb/album/if/1388413681?i=1388413854&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "buy",
+                        "providername": "itunes"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "type": "buy",
+                    "listcaption": "Buy on iTunes",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "itunes"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:If%20Janet%20Jackson"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27If%27%20artist%3A%27Janet+Jackson%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": false,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [
+                    {
+                        "image": "https://is4-ssl.mzstatic.com/image/thumb/Features125/v4/a5/ff/c6/a5ffc651-ee12-f65b-3c34-35c598c2560e/pr_source.png/800x800cc.jpg",
+                        "caption": "Janet Jackson"
+                    },
+                    {
+                        "image": "https://is3-ssl.mzstatic.com/image/thumb/Music114/v4/b6/3a/15/b63a15ba-dd50-62b0-4054-03a81241774a/00602567743217.rgb.jpg/400x400cc.jpg",
+                        "caption": "If"
+                    }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                    {
+                        "title": "Album",
+                        "text": "Janet."
+                    },
+                    {
+                        "title": "Label",
+                        "text": "Virgin Records"
+                    },
+                    {
+                        "title": "Released",
+                        "text": "1993"
+                    }
+                ]
+            },
+            {
+                "type": "LYRICS",
+                "text": [
+                    "Sittin' over here, starin' in your face",
+                    "With lust in my eyes, sure don't give a damn",
+                    "And ya don't know that I've been dreamin' of ya in my fantasy",
+                    "Never once you looked at me",
+                    "Don't even realize that I'm wantin' you to fulfill my needs?",
+                    "Think what you want, let your mind free",
+                    "Run free to a place no one dares to",
+                    "",
+                    "How many nights I've laid in bed excited over you?",
+                    "I've closed my eyes and thought of us a hundred different ways",
+                    "I've gotten there so many times",
+                    "I wonder how 'bout you",
+                    "Day and night, night and day, all I've got to say is:",
+                    "",
+                    "If I was your girl, oh the things I'd do to you",
+                    "I'd make you call out my name, I'd ask who it belongs to",
+                    "If I was your woman, the things I'd do to you",
+                    "But I'm not, so I can't, then I won't, but if I was your girl",
+                    "",
+                    "Allow me some time to play with your mind",
+                    "And you'll get there again and again",
+                    "Close your eyes and imagine my body undressed",
+                    "Take your time 'cause we've got all night, ooh",
+                    "You on the rise as you're touchin' my thighs",
+                    "And let me know what you like, if you like I'll go",
+                    "Down, down, down, down, da-, down, down",
+                    "I'll hold you in my hand and maybe",
+                    "",
+                    "Your smooth and shiny feels so good against my lips, sugar",
+                    "I want you so bad",
+                    "I can taste your love right now, baby",
+                    "Day and night, night and day",
+                    "All I've got to say is:",
+                    "",
+                    "If I was your girl, oh the things I'd do to you",
+                    "I'd make you call out my name, I'd ask who it belongs to",
+                    "If I was your woman, the things I'd do to you",
+                    "But I'm not, so I can't, then I won't, but if I was your girl",
+                    "",
+                    "If I was your girl, oh the things I'd do to you",
+                    "I'd make you call out my name, I'd ask who it belongs to",
+                    "If I was your woman, the things I'd do to you",
+                    "But I'm not, so I can't, then I won't, but if I was your girl",
+                    "",
+                    "I've laid in bed excited over you",
+                    "One hundred different ways",
+                    "I've thought of many, many",
+                    "All I want to say is:",
+                    "",
+                    "If I was your girl, oh the things I'd do to you",
+                    "I'd make you call out my name, I'd ask who it belongs to",
+                    "If I was your woman, the things I'd do to you",
+                    "But I'm not, so I can't, then I won't, but if I was your girl",
+                    "",
+                    "If I was your girl, oh the things I'd do to you",
+                    "I'd make you call out my name, I'd ask who it belongs to",
+                    "If I was your woman, the things I'd do to you",
+                    "But I'm not, so I can't, then I won't, but if I was your girl",
+                    "",
+                    "If I was your girl, oh the things I'd do to you",
+                    "I'd make you call out my name, I'd ask who it belongs to",
+                    "If I was your woman, the things I'd do to you",
+                    "But I'm not!"
+                ],
+                "url": "https://cdn.shazam.com/lyrics/v1/en-US/GB/iphone/musixmatch/subtitles/40817/271/1?token=199802bdccb8224e9edfc312f898a345",
+                "footer": "Writer(s): Janet Jackson, Terry Lewis, Harvey Fuqua, Johnny Bristol, James Harris Iii, Jackey Beavers\nLyrics powered by www.musixmatch.com",
+                "tabname": "Lyrics",
+                "beacondata": {
+                    "lyricsid": "30524503",
+                    "providername": "musixmatch",
+                    "commontrackid": "40817"
+                }
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/246164/youtube/video?q=Janet+Jackson+%22If%22"
+            },
+            {
+                "type": "RELATED",
+                "url": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-246164?startFrom=0&pageSize=20&connected=",
+                "tabname": "Related"
+            }
+        ],
+        "url": "https://www.shazam.com/track/246164/if",
+        "artists": [
+            {
+                "id": "42",
+                "adamid": "1272779"
+            }
+        ],
+        "isrc": "GBAAA9300172",
+        "genres": {
+            "primary": "Vocal"
+        },
+        "urlparams": {
+            "{tracktitle}": "If",
+            "{trackartist}": "Janet+Jackson"
+        },
+        "myshazam": {
+            "apple": {
+                "actions": [
+                    {
+                        "name": "myshazam:apple",
+                        "type": "uri",
+                        "uri": "https://music.apple.com/gb/album/if/1388413681?i=1388413854&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                ]
+            }
+        },
+        "highlightsurls": {
+            "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/1272779/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios&videoIdToFilter=1470051498",
+            "trackhighlighturl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/highlights/1470051498?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+        },
+        "relatedtracksurl": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-246164?startFrom=0&pageSize=20&connected=",
+        "albumadamid": "1388413681"
+    },
+    "tagid": "EEADE6B4-97AD-4C56-9CE2-A1A3689342E6"
+}

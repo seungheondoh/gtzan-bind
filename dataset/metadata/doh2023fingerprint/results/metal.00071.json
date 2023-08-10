@@ -1,0 +1,315 @@
+{
+    "matches": [
+        {
+            "id": "447112952",
+            "offset": 30.065523437,
+            "timeskew": -7.867813e-05,
+            "frequencyskew": -0.00016111135
+        },
+        {
+            "id": "401907330",
+            "offset": 55.501632812000004,
+            "timeskew": -0.00056886673,
+            "frequencyskew": -0.00060391426
+        },
+        {
+            "id": "474631719",
+            "offset": 56.083445312,
+            "timeskew": -0.000764668,
+            "frequencyskew": -0.00051534176
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691633769925,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "5914927",
+        "title": "Pour Some Sugar On Me",
+        "subtitle": "Def Leppard",
+        "images": {
+            "background": "https://is5-ssl.mzstatic.com/image/thumb/Music122/v4/e2/47/47/e24747b5-384c-8c23-59ca-262051f08999/pr_source.png/800x800cc.jpg",
+            "coverart": "https://is2-ssl.mzstatic.com/image/thumb/Music115/v4/0f/76/fa/0f76fa8d-8341-c0af-84d8-543b9193c728/17UM1IM41552.rgb.jpg/400x400cc.jpg",
+            "coverarthq": "https://is2-ssl.mzstatic.com/image/thumb/Music115/v4/0f/76/fa/0f76fa8d-8341-c0af-84d8-543b9193c728/17UM1IM41552.rgb.jpg/400x400cc.jpg",
+            "joecolor": "b:000000p:f0fbf5s:50b2e3t:c0c9c4q:408eb6"
+        },
+        "share": {
+            "subject": "Pour Some Sugar On Me - Def Leppard",
+            "text": "Pour Some Sugar On Me by Def Leppard",
+            "href": "https://www.shazam.com/track/5914927/pour-some-sugar-on-me",
+            "image": "https://is2-ssl.mzstatic.com/image/thumb/Music115/v4/0f/76/fa/0f76fa8d-8341-c0af-84d8-543b9193c728/17UM1IM41552.rgb.jpg/400x400cc.jpg",
+            "twitter": "I used @Shazam to discover Pour Some Sugar On Me by Def Leppard.",
+            "html": "https://www.shazam.com/snippets/email-share/5914927?lang=en-US&country=GB",
+            "avatar": "https://is5-ssl.mzstatic.com/image/thumb/Music122/v4/e2/47/47/e24747b5-384c-8c23-59ca-262051f08999/pr_source.png/800x800cc.jpg",
+            "snapchat": "https://www.shazam.com/partner/sc/track/5914927"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "actions": [
+                {
+                    "name": "apple",
+                    "type": "applemusicplay",
+                    "id": "1440904267"
+                },
+                {
+                    "name": "apple",
+                    "type": "uri",
+                    "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/db/57/d7/db57d727-a4a0-e812-cde0-5d0f5fd53b08/mzaf_13672881339828017875.plus.aac.ep.m4a"
+                }
+            ],
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/gb/album/pour-some-sugar-on-me/1440903625?i=1440904267&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/gb/album/pour-some-sugar-on-me/1440903625?i=1440904267&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                },
+                {
+                    "caption": "BUY",
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "uri": "https://itunes.apple.com/gb/album/pour-some-sugar-on-me/1440903625?i=1440904267&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "buy",
+                        "providername": "itunes"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "type": "buy",
+                    "listcaption": "Buy on iTunes",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "itunes"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:Pour%20Some%20Sugar%20On%20Me%20Def%20Leppard"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27Pour+Some+Sugar+On+Me%27%20artist%3A%27Def+Leppard%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": false,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [
+                    {
+                        "image": "https://is5-ssl.mzstatic.com/image/thumb/Music122/v4/e2/47/47/e24747b5-384c-8c23-59ca-262051f08999/pr_source.png/800x800cc.jpg",
+                        "caption": "Def Leppard"
+                    },
+                    {
+                        "image": "https://is2-ssl.mzstatic.com/image/thumb/Music115/v4/0f/76/fa/0f76fa8d-8341-c0af-84d8-543b9193c728/17UM1IM41552.rgb.jpg/400x400cc.jpg",
+                        "caption": "Pour Some Sugar On Me"
+                    }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                    {
+                        "title": "Album",
+                        "text": "Hysteria"
+                    },
+                    {
+                        "title": "Label",
+                        "text": "UMC (Universal Music Catalogue)"
+                    },
+                    {
+                        "title": "Released",
+                        "text": "1987"
+                    }
+                ]
+            },
+            {
+                "type": "LYRICS",
+                "text": [
+                    "Step inside, walk this way",
+                    "You and me, babe (hey-hey!)",
+                    "",
+                    "Love is like a bomb, baby, come on, get it on",
+                    "Livin' like a lover with a radar phone",
+                    "Lookin' like a tramp, like a video vamp",
+                    "Demolition woman, can I be your man? (Be your man)",
+                    "",
+                    "Hey!",
+                    "Hey!",
+                    "",
+                    "Razzle and a dazzle and a flash a little light",
+                    "Television lover, baby, go all night",
+                    "Sometime, anytime, sugar me sweet",
+                    "Little miss innocent, sugar me, yeah",
+                    "Yeah, come on",
+                    "",
+                    "Take a bottle, shake it up",
+                    "Break the bubble, break it up",
+                    "",
+                    "Pour some sugar on me",
+                    "Ooh, in the name of love",
+                    "Pour some sugar on me",
+                    "Come on, fire me up",
+                    "",
+                    "Pour your sugar on me",
+                    "I can't get enough",
+                    "I'm hot, sticky sweet",
+                    "From my head to my feet, yeah",
+                    "",
+                    "Hey!",
+                    "Hey!",
+                    "Hey!",
+                    "",
+                    "Listen",
+                    "Red light, yellow light, green light, go",
+                    "Crazy little woman in a one man show",
+                    "Mirror queen, mannequin, rhythm of love",
+                    "Sweet dream, saccharine, loosen up (loosen up)",
+                    "Loosen up",
+                    "",
+                    "You gotta squeeze a little, squeeze a little, tease a little more",
+                    "Easy operator come a knockin' on my door",
+                    "Sometime, anytime, sugar me sweet",
+                    "Little miss innocent, sugar me, yeah, yeah",
+                    "Give a little more",
+                    "",
+                    "Take a bottle, shake it up",
+                    "Break the bubble, break it up",
+                    "",
+                    "Pour some sugar on me",
+                    "Ooh, in the name of love",
+                    "Pour some sugar on me",
+                    "Come on, fire me up",
+                    "",
+                    "Pour your sugar on me",
+                    "Oh, I can't get enough",
+                    "I'm hot, sticky sweet",
+                    "From my head to my feet, yeah",
+                    "",
+                    "You got the peaches, I got the cream",
+                    "Sweet to taste (saccharine)",
+                    "'Cause I'm hot (hot), say what, sticky sweet",
+                    "From my head, my head, to my feet",
+                    "Do you take sugar? One lump or two?",
+                    "",
+                    "Take a bottle (take a bottle), shake it up (shake it up)",
+                    "Break the bubble (break it up), break it up",
+                    "",
+                    "Pour some sugar on me",
+                    "Ooh, in the name of love",
+                    "Pour some sugar on me",
+                    "Come on, fire me up",
+                    "Pour your sugar on me",
+                    "Oh, I can't get enough",
+                    "",
+                    "Pour some sugar on me",
+                    "Ooh, in the name of love",
+                    "Pour some sugar on me",
+                    "Get it, come get it",
+                    "Pour your sugar on me (oh-oh)",
+                    "Pour some sugar on me",
+                    "Yeah-hey, sugar me"
+                ],
+                "url": "https://cdn.shazam.com/lyrics/v1/en-US/GB/iphone/musixmatch/subtitles/64908/267/1?token=40d853c18564f470e2990680f79de092",
+                "footer": "Writer(s): Joseph Elliott, Mutt Lange, Philip Kenneth Collen, Richard Savage, Richard John Cyril Allen, Stephen Maynard Clark\nLyrics powered by www.musixmatch.com",
+                "tabname": "Lyrics",
+                "beacondata": {
+                    "lyricsid": "30500154",
+                    "providername": "musixmatch",
+                    "commontrackid": "64908"
+                }
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/5914927/youtube/video?q=Def+Leppard+%22Pour+Some+Sugar+On+Me%22"
+            },
+            {
+                "type": "RELATED",
+                "url": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-5914927?startFrom=0&pageSize=20&connected=",
+                "tabname": "Related"
+            }
+        ],
+        "url": "https://www.shazam.com/track/5914927/pour-some-sugar-on-me",
+        "artists": [
+            {
+                "id": "42",
+                "adamid": "117554"
+            }
+        ],
+        "isrc": "GBF088790147",
+        "genres": {
+            "primary": "Hard Rock"
+        },
+        "urlparams": {
+            "{tracktitle}": "Pour+Some+Sugar+On+Me",
+            "{trackartist}": "Def+Leppard"
+        },
+        "myshazam": {
+            "apple": {
+                "actions": [
+                    {
+                        "name": "myshazam:apple",
+                        "type": "uri",
+                        "uri": "https://music.apple.com/gb/album/pour-some-sugar-on-me/1440903625?i=1440904267&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                ]
+            }
+        },
+        "highlightsurls": {
+            "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/117554/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios&videoIdToFilter=1480216911",
+            "trackhighlighturl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/highlights/1480216911?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+        },
+        "relatedtracksurl": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-5914927?startFrom=0&pageSize=20&connected=",
+        "albumadamid": "1440903625"
+    },
+    "tagid": "A597131E-8A30-4C58-B261-97E667936867"
+}

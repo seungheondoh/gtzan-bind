@@ -1,0 +1,263 @@
+{
+    "matches": [
+        {
+            "id": "214155247",
+            "offset": 29.888978514999998,
+            "timeskew": 0.00012993813,
+            "frequencyskew": -0.000120818615
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691633761275,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "2884005",
+        "title": "Of Chaos and Eternal Night",
+        "subtitle": "Dark Tranquillity",
+        "images": {
+            "background": "https://is1-ssl.mzstatic.com/image/thumb/Features125/v4/40/de/29/40de298d-edf1-2a8a-a823-13c570d38efe/mzl.mfcnvbtd.jpg/800x800cc.jpg",
+            "coverart": "https://is3-ssl.mzstatic.com/image/thumb/Music6/v4/16/48/69/16486944-beba-03d3-fc51-97f6f46b3416/6417871012324_Cover.jpg/400x400cc.jpg",
+            "coverarthq": "https://is3-ssl.mzstatic.com/image/thumb/Music6/v4/16/48/69/16486944-beba-03d3-fc51-97f6f46b3416/6417871012324_Cover.jpg/400x400cc.jpg",
+            "joecolor": "b:340b00p:fefdfbs:c3e6fft:d6cdc9q:a6bbcb"
+        },
+        "share": {
+            "subject": "Of Chaos and Eternal Night - Dark Tranquillity",
+            "text": "Of Chaos and Eternal Night by Dark Tranquillity",
+            "href": "https://www.shazam.com/track/2884005/of-chaos-and-eternal-night",
+            "image": "https://is3-ssl.mzstatic.com/image/thumb/Music6/v4/16/48/69/16486944-beba-03d3-fc51-97f6f46b3416/6417871012324_Cover.jpg/400x400cc.jpg",
+            "twitter": "I used @Shazam to discover Of Chaos and Eternal Night by Dark Tranquillity.",
+            "html": "https://www.shazam.com/snippets/email-share/2884005?lang=en-US&country=GB",
+            "avatar": "https://is1-ssl.mzstatic.com/image/thumb/Features125/v4/40/de/29/40de298d-edf1-2a8a-a823-13c570d38efe/mzl.mfcnvbtd.jpg/800x800cc.jpg",
+            "snapchat": "https://www.shazam.com/partner/sc/track/2884005"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "actions": [
+                {
+                    "name": "apple",
+                    "type": "applemusicplay",
+                    "id": "706181531"
+                },
+                {
+                    "name": "apple",
+                    "type": "uri",
+                    "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/16/b9/94/16b994b7-7bf0-2b70-f0e5-6eaae1bfde17/mzaf_14164352209321545087.plus.aac.ep.m4a"
+                }
+            ],
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/gb/album/of-chaos-and-eternal-night/706181530?i=706181531&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/gb/album/of-chaos-and-eternal-night/706181530?i=706181531&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                },
+                {
+                    "caption": "BUY",
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "uri": "https://itunes.apple.com/gb/album/of-chaos-and-eternal-night/706181530?i=706181531&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "buy",
+                        "providername": "itunes"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "type": "buy",
+                    "listcaption": "Buy on iTunes",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "itunes"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:Of%20Chaos%20and%20Eternal%20Night%20Dark%20Tranquillity"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27Of+Chaos+and+Eternal+Night%27%20artist%3A%27Dark+Tranquillity%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": false,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [
+                    {
+                        "image": "https://is1-ssl.mzstatic.com/image/thumb/Features125/v4/40/de/29/40de298d-edf1-2a8a-a823-13c570d38efe/mzl.mfcnvbtd.jpg/800x800cc.jpg",
+                        "caption": "Dark Tranquillity"
+                    },
+                    {
+                        "image": "https://is3-ssl.mzstatic.com/image/thumb/Music6/v4/16/48/69/16486944-beba-03d3-fc51-97f6f46b3416/6417871012324_Cover.jpg/400x400cc.jpg",
+                        "caption": "Of Chaos and Eternal Night"
+                    }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                    {
+                        "title": "Album",
+                        "text": "Of Chaos and Eternal Night - EP"
+                    },
+                    {
+                        "title": "Label",
+                        "text": "Clandestine Music"
+                    },
+                    {
+                        "title": "Released",
+                        "text": "1995"
+                    }
+                ]
+            },
+            {
+                "type": "LYRICS",
+                "text": [
+                    "[Sundin, Johansson, Jivarp]",
+                    "",
+                    "This is a tale long to live but alas so short to tell",
+                    "By the wind and by time, by everything that flees",
+                    "A torment of my liking: exploring extremes",
+                    "All thoughts secluded as fear stalks its blooded soil",
+                    "In the winding path where a chain now rattles",
+                    "With links merely death can break",
+                    "Stains of pride - derelict",
+                    "In feverish visions of agonising light",
+                    "Pulsating rhythms unpure",
+                    "So pound the drum and strike the chords of chaos",
+                    "So scream out to the skies:",
+                    "Of Chaos and Eternal Night",
+                    "Never is the dark any threat to my existence",
+                    "Comforting ravens claws grip the stars that fell tonight",
+                    "THe stealth of infinite beauty",
+                    "Nevertheless heaven fell tonight",
+                    "Racing along with the strangled teardrop",
+                    "Life's elixir in benevolent lust",
+                    "Slit open the throat that is virtue",
+                    "Let fire ravage its caverns with joy",
+                    "Ardent but silent in twilight resigned",
+                    "Delivered from virtue in vehement plight",
+                    "Yet ask not of your vanity",
+                    "(The hooved agitator in your creed)",
+                    "To let loose all the stars of heaven",
+                    "Stray across the vault your seed",
+                    "Concealed cravings must through fulfilment be broken",
+                    "Hide no longer behind the veil of unconvincing lies",
+                    "So pound the drum and strike the chords of chaos",
+                    "So scream out to the skies",
+                    "Of Chaos and Eternal Night",
+                    "I've seen fires waving patterns",
+                    "Forging ornaments - hidden from a world of distress",
+                    "Grace through hatred",
+                    "Of Chaos and Eternal Night",
+                    "In shadows now vengeful waiting out your bitter foe",
+                    "The mirror distorts",
+                    "Sinful is the perceiving eye",
+                    "Tearless in nondescript form",
+                    "Scarlet secrets tell of nightmarish fear",
+                    "Illusions that speak of endless night",
+                    "A venture in terms of one hazardous journey",
+                    "Into Chaos and Eternal Night",
+                    "Deliver me from virtue,",
+                    "Hidden no more beneath tender veil of lies",
+                    "And let 'em all out;",
+                    "Unseen and sinful",
+                    "... Of Chaos and Eternal Night"
+                ],
+                "url": "https://cdn.shazam.com/lyrics/v1/en-US/GB/iphone/musixmatch/subtitles/1427988/312/1?token=8d4207510c8642b81228d6a77b4b8379",
+                "footer": "Writer(s): Anders Mikael Jivarp, Martin Hans Knut Henriksson, Mikael Bengt Stanne, Anders Par Friden, Niklas Bo Sundin\nLyrics powered by www.musixmatch.com",
+                "tabname": "Lyrics",
+                "beacondata": {
+                    "lyricsid": "1352212",
+                    "providername": "musixmatch",
+                    "commontrackid": "1427988"
+                }
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/2884005/youtube/video?q=Dark+Tranquillity+%22Of+Chaos+and+Eternal+Night%22"
+            }
+        ],
+        "url": "https://www.shazam.com/track/2884005/of-chaos-and-eternal-night",
+        "artists": [
+            {
+                "id": "42",
+                "adamid": "18243687"
+            }
+        ],
+        "isrc": "GBDHC1247301",
+        "genres": {
+            "primary": "Metal"
+        },
+        "urlparams": {
+            "{tracktitle}": "Of+Chaos+and+Eternal+Night",
+            "{trackartist}": "Dark+Tranquillity"
+        },
+        "myshazam": {
+            "apple": {
+                "actions": [
+                    {
+                        "name": "myshazam:apple",
+                        "type": "uri",
+                        "uri": "https://music.apple.com/gb/album/of-chaos-and-eternal-night/706181530?i=706181531&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                ]
+            }
+        },
+        "highlightsurls": {
+            "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/18243687/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+        },
+        "albumadamid": "706181530"
+    },
+    "tagid": "019717FE-6A98-4620-9DD4-F80942F90C42"
+}

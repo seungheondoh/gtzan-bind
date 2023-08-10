@@ -1,0 +1,289 @@
+{
+    "matches": [
+        {
+            "id": "208996380",
+            "offset": 29.957130859,
+            "timeskew": 8.547306e-05,
+            "frequencyskew": 0.0
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691632876745,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "10355261",
+        "title": "Power To the People",
+        "subtitle": "Public Enemy",
+        "images": {
+            "background": "https://is2-ssl.mzstatic.com/image/thumb/Features125/v4/d2/c5/86/d2c58653-73d2-ae2f-efc1-d089777e7200/mzl.uxecwlva.jpg/800x800cc.jpg",
+            "coverart": "https://is2-ssl.mzstatic.com/image/thumb/Music114/v4/bc/84/bb/bc84bb6d-8b67-b4fe-d791-f4d8ed1940d9/06UMGIM21173.rgb.jpg/400x400cc.jpg",
+            "coverarthq": "https://is2-ssl.mzstatic.com/image/thumb/Music114/v4/bc/84/bb/bc84bb6d-8b67-b4fe-d791-f4d8ed1940d9/06UMGIM21173.rgb.jpg/400x400cc.jpg",
+            "joecolor": "b:091c2dp:feb218s:f7232ct:cd941cq:c7212c"
+        },
+        "share": {
+            "subject": "Power To the People - Public Enemy",
+            "text": "Power To the People by Public Enemy",
+            "href": "https://www.shazam.com/track/10355261/power-to-the-people",
+            "image": "https://is2-ssl.mzstatic.com/image/thumb/Music114/v4/bc/84/bb/bc84bb6d-8b67-b4fe-d791-f4d8ed1940d9/06UMGIM21173.rgb.jpg/400x400cc.jpg",
+            "twitter": "I used @Shazam to discover Power To the People by Public Enemy.",
+            "html": "https://www.shazam.com/snippets/email-share/10355261?lang=en-US&country=GB",
+            "avatar": "https://is2-ssl.mzstatic.com/image/thumb/Features125/v4/d2/c5/86/d2c58653-73d2-ae2f-efc1-d089777e7200/mzl.uxecwlva.jpg/800x800cc.jpg",
+            "snapchat": "https://www.shazam.com/partner/sc/track/10355261"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "actions": [
+                {
+                    "name": "apple",
+                    "type": "applemusicplay",
+                    "id": "1442525646"
+                },
+                {
+                    "name": "apple",
+                    "type": "uri",
+                    "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/1d/a0/6b/1da06beb-055a-c778-08fc-8aa8a8c44dba/mzaf_7065383790189596699.plus.aac.ep.m4a"
+                }
+            ],
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/gb/album/power-to-the-people/1442525466?i=1442525646&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/gb/album/power-to-the-people/1442525466?i=1442525646&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                },
+                {
+                    "caption": "BUY",
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "uri": "https://itunes.apple.com/gb/album/power-to-the-people/1442525466?i=1442525646&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "buy",
+                        "providername": "itunes"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "type": "buy",
+                    "listcaption": "Buy on iTunes",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "itunes"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:Power%20To%20the%20People%20Public%20Enemy"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27Power+To+the+People%27%20artist%3A%27Public+Enemy%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": false,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [
+                    {
+                        "image": "https://is2-ssl.mzstatic.com/image/thumb/Features125/v4/d2/c5/86/d2c58653-73d2-ae2f-efc1-d089777e7200/mzl.uxecwlva.jpg/800x800cc.jpg",
+                        "caption": "Public Enemy"
+                    },
+                    {
+                        "image": "https://is2-ssl.mzstatic.com/image/thumb/Music114/v4/bc/84/bb/bc84bb6d-8b67-b4fe-d791-f4d8ed1940d9/06UMGIM21173.rgb.jpg/400x400cc.jpg",
+                        "caption": "Power To the People"
+                    }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                    {
+                        "title": "Album",
+                        "text": "Fear of a Black Planet"
+                    },
+                    {
+                        "title": "Label",
+                        "text": "Def Jam Recordings"
+                    },
+                    {
+                        "title": "Released",
+                        "text": "1990"
+                    }
+                ]
+            },
+            {
+                "type": "LYRICS",
+                "text": [
+                    "And you thought the beat slowed down, come on",
+                    "",
+                    "Turn me loose",
+                    "Just turn it up",
+                    "Power to the people y'all",
+                    "Hey, turn me loose, turn it up",
+                    "Get on up, get into it, get involved",
+                    "Feel the bass as the cut revolves (hey)",
+                    "",
+                    "To the brothers wit the 808",
+                    "Like I said before PE got a brand new funk",
+                    "Turn it up, boom the trunk, yeah",
+                    "Internationally known on the microphone",
+                    "Makin' sure the brothers will never leave you alone",
+                    "To my sisters, sisters, yes we missed ya",
+                    "Let's get it together make a nation",
+                    "You can bet on it, don't sleep on it 'cause the troops cold jeepin' it",
+                    "",
+                    "Turn it up",
+                    "Turn me loose",
+                    "Power to the people",
+                    "Turn me loose",
+                    "Turn it up, come on",
+                    "Come on y'all, pump it up",
+                    "Pump that face",
+                    "Power to the people",
+                    "Turn me loose",
+                    "Turn us loose, we shall overcome",
+                    "",
+                    "They say, \"Where you get that bass from?\"",
+                    "Hey ohh people, people as we continue on",
+                    "Come along, sings this song, are you ready for '91?",
+                    "Rhythm nation pump that bass an",
+                    "We like to know from Chicago, New York and LA",
+                    "Are y'all ready, 'cause the plans in the jam",
+                    "And we're ready to roll, yo y'all got to tell me",
+                    "Are y'all read read to go, c'mon",
+                    "",
+                    "Turn me loose",
+                    "Turn it up",
+                    "Power to the people, come on",
+                    "Turn it up",
+                    "Turn me loose, turn us loose",
+                    "We shall overcome",
+                    "Power to the people y'all, come on",
+                    "Oh yeah, turn it up",
+                    "",
+                    "Had to kick it like that as we roll as one",
+                    "One under the sun, to all the cities and the side",
+                    "Brothers and sisters stateside and the whole wide",
+                    "There it is",
+                    "P-e-a-c-e 1991",
+                    "You gotta know what we're sayin'",
+                    "It's a black thing so you got to understand",
+                    "Turn me loose",
+                    "",
+                    "What about now?",
+                    "What about now?",
+                    "What about now?",
+                    "What about now?",
+                    "What about now?",
+                    "What about now?",
+                    "What about now?",
+                    "What about now? (Turn me loose)",
+                    "What about now?",
+                    "What about now?",
+                    "What about now?",
+                    "What about now? (What time is it?)",
+                    "What about now?",
+                    "What about now? (Bring it)",
+                    "What about now? (Bring it)",
+                    "What about now?",
+                    "What about now?",
+                    "What about now? (Bring it)",
+                    "What about now?",
+                    "What about now?"
+                ],
+                "url": "https://cdn.shazam.com/lyrics/v1/en-US/GB/iphone/musixmatch/subtitles/131336/228/1?token=6ef04dc69c2d361f84aae3c0a17ef6b2",
+                "footer": "Writer(s): Eric T. Sadler, Keith M. Boxley, Carlton Douglas Ridenhour\nLyrics powered by www.musixmatch.com",
+                "tabname": "Lyrics",
+                "beacondata": {
+                    "lyricsid": "25014494",
+                    "providername": "musixmatch",
+                    "commontrackid": "131336"
+                }
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/10355261/youtube/video?q=Public+Enemy+%22Power+To+the+People%22"
+            }
+        ],
+        "url": "https://www.shazam.com/track/10355261/power-to-the-people",
+        "artists": [
+            {
+                "id": "42",
+                "adamid": "36954"
+            }
+        ],
+        "isrc": "USDJ29000024",
+        "genres": {
+            "primary": "Hip-Hop/Rap"
+        },
+        "urlparams": {
+            "{tracktitle}": "Power+To+the+People",
+            "{trackartist}": "Public+Enemy"
+        },
+        "myshazam": {
+            "apple": {
+                "actions": [
+                    {
+                        "name": "myshazam:apple",
+                        "type": "uri",
+                        "uri": "https://music.apple.com/gb/album/power-to-the-people/1442525466?i=1442525646&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                ]
+            }
+        },
+        "highlightsurls": {
+            "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/36954/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+        },
+        "albumadamid": "1442525466"
+    },
+    "tagid": "975B65CC-BE13-4B97-8EFE-2776ED7955DE"
+}

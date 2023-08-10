@@ -1,0 +1,261 @@
+{
+    "matches": [
+        {
+            "id": "212154241",
+            "offset": 29.644792968,
+            "timeskew": -6.210804e-05,
+            "frequencyskew": 0.0
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691633724074,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "5101854",
+        "title": "Glamour Boys",
+        "subtitle": "Living Colour",
+        "images": {
+            "background": "https://is3-ssl.mzstatic.com/image/thumb/Features125/v4/cf/c5/c7/cfc5c79e-01dd-0114-83da-db89ad812beb/mzl.svsomqfp.jpg/800x800cc.jpg",
+            "coverart": "https://is4-ssl.mzstatic.com/image/thumb/Features115/v4/c2/ae/7e/c2ae7e32-d21c-3f13-d07c-d7d31215c3ec/dj.eixrdcvd.jpg/400x400cc.jpg",
+            "coverarthq": "https://is4-ssl.mzstatic.com/image/thumb/Features115/v4/c2/ae/7e/c2ae7e32-d21c-3f13-d07c-d7d31215c3ec/dj.eixrdcvd.jpg/400x400cc.jpg",
+            "joecolor": "b:090901p:f8f7f5s:e1e8d6t:c8c7c4q:b5bcac"
+        },
+        "share": {
+            "subject": "Glamour Boys - Living Colour",
+            "text": "Glamour Boys by Living Colour",
+            "href": "https://www.shazam.com/track/5101854/glamour-boys",
+            "image": "https://is4-ssl.mzstatic.com/image/thumb/Features115/v4/c2/ae/7e/c2ae7e32-d21c-3f13-d07c-d7d31215c3ec/dj.eixrdcvd.jpg/400x400cc.jpg",
+            "twitter": "I used @Shazam to discover Glamour Boys by Living Colour.",
+            "html": "https://www.shazam.com/snippets/email-share/5101854?lang=en-US&country=GB",
+            "avatar": "https://is3-ssl.mzstatic.com/image/thumb/Features125/v4/cf/c5/c7/cfc5c79e-01dd-0114-83da-db89ad812beb/mzl.svsomqfp.jpg/800x800cc.jpg",
+            "snapchat": "https://www.shazam.com/partner/sc/track/5101854"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "actions": [
+                {
+                    "name": "apple",
+                    "type": "applemusicplay",
+                    "id": "192968501"
+                },
+                {
+                    "name": "apple",
+                    "type": "uri",
+                    "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/95/c8/cc/95c8cccd-1634-fe1a-efd7-e1766ab0da23/mzaf_16856870950531944258.plus.aac.ep.m4a"
+                }
+            ],
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/gb/album/glamour-boys/192967260?i=192968501&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/gb/album/glamour-boys/192967260?i=192968501&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                },
+                {
+                    "caption": "BUY",
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "uri": "https://itunes.apple.com/gb/album/glamour-boys/192967260?i=192968501&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "buy",
+                        "providername": "itunes"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "type": "buy",
+                    "listcaption": "Buy on iTunes",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "itunes"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:Glamour%20Boys%20Living%20Colour"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27Glamour+Boys%27%20artist%3A%27Living+Colour%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": false,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [
+                    {
+                        "image": "https://is3-ssl.mzstatic.com/image/thumb/Features125/v4/cf/c5/c7/cfc5c79e-01dd-0114-83da-db89ad812beb/mzl.svsomqfp.jpg/800x800cc.jpg",
+                        "caption": "Living Colour"
+                    },
+                    {
+                        "image": "https://is4-ssl.mzstatic.com/image/thumb/Features115/v4/c2/ae/7e/c2ae7e32-d21c-3f13-d07c-d7d31215c3ec/dj.eixrdcvd.jpg/400x400cc.jpg",
+                        "caption": "Glamour Boys"
+                    }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                    {
+                        "title": "Album",
+                        "text": "Vivid (Expanded Edition)"
+                    },
+                    {
+                        "title": "Label",
+                        "text": "Epic/Legacy"
+                    },
+                    {
+                        "title": "Released",
+                        "text": "1988"
+                    }
+                ]
+            },
+            {
+                "type": "LYRICS",
+                "text": [
+                    "The glamour boys swear they are a diva",
+                    "The glamour boys have it all under control",
+                    "Always dancing and always laughing",
+                    "The glamour boys are playing the role",
+                    "The glamour boys never have no money",
+                    "The glamour boys wear the most expensive clothes",
+                    "The glamour boys are always at the party",
+                    "Where the money comes from heaven only knows",
+                    "I ain't no glamour boy, I'm fierce",
+                    "I ain't no glamour boy",
+                    "I ain't no glamour boy, I'm fierce",
+                    "I ain't no glamour boy",
+                    "",
+                    "The glamour boys live off their ambition",
+                    "The glamour boys have it all figured out",
+                    "A very, very dubious position when you got no clout",
+                    "The glamour boys whole life is a gamble",
+                    "They might get over or fall flat on their face",
+                    "But if one does, there's no need to worry",
+                    "Another g-boy will take his place",
+                    "I ain't no glamour boy, I'm fierce",
+                    "I ain't no glamour boy",
+                    "I ain't no glamour boy, I'm fierce",
+                    "I ain't no glamour boy",
+                    "",
+                    "The glamour boys don't think about tomorrow",
+                    "The glamour boys just need tonight to play",
+                    "But just like things you can't afford on credit time catches up and you have to pay",
+                    "The glamour boys are always on the guest list",
+                    "You'll always find them in the hottest spots in town",
+                    "They'll be your friend if you have fame or fortune",
+                    "If you don't they won't be hanging 'round",
+                    "I ain't no glamour boy, I'm fierce",
+                    "I ain't no glamour boy",
+                    "I ain't no glamour boy, I'm fierce",
+                    "I ain't no glamour boy",
+                    "I ain't no glamour boy, I'm fierce",
+                    "I ain't no glamour boy",
+                    "I ain't no glamour boy, I'm fierce",
+                    "I ain't no glamour boy, no, no",
+                    "HEY, what do you mean; my credit is no good"
+                ],
+                "url": "https://cdn.shazam.com/lyrics/v1/en-US/GB/iphone/musixmatch/subtitles/180373/219/1?token=757fe82d4bd0fd4cd98b9d909c499152",
+                "footer": "Writer(s): John Reid\nLyrics powered by www.musixmatch.com",
+                "tabname": "Lyrics",
+                "beacondata": {
+                    "lyricsid": "5357226",
+                    "providername": "musixmatch",
+                    "commontrackid": "180373"
+                }
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/5101854/youtube/video?q=Living+Colour+%22Glamour+Boys%22"
+            },
+            {
+                "type": "RELATED",
+                "url": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-5101854?startFrom=0&pageSize=20&connected=",
+                "tabname": "Related"
+            }
+        ],
+        "url": "https://www.shazam.com/track/5101854/glamour-boys",
+        "artists": [
+            {
+                "id": "42",
+                "adamid": "517236"
+            }
+        ],
+        "isrc": "USSM19700582",
+        "genres": {
+            "primary": "Hard Rock"
+        },
+        "urlparams": {
+            "{tracktitle}": "Glamour+Boys",
+            "{trackartist}": "Living+Colour"
+        },
+        "myshazam": {
+            "apple": {
+                "actions": [
+                    {
+                        "name": "myshazam:apple",
+                        "type": "uri",
+                        "uri": "https://music.apple.com/gb/album/glamour-boys/192967260?i=192968501&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                ]
+            }
+        },
+        "highlightsurls": {
+            "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/517236/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios&videoIdToFilter=295998636",
+            "trackhighlighturl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/highlights/295998636?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+        },
+        "relatedtracksurl": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-5101854?startFrom=0&pageSize=20&connected=",
+        "albumadamid": "192967260"
+    },
+    "tagid": "EBE1D295-3EB2-427A-8DEB-97900E8BF7B5"
+}

@@ -1,0 +1,317 @@
+{
+    "matches": [
+        {
+            "id": "480861155",
+            "offset": 29.968076171,
+            "timeskew": -0.00022995472,
+            "frequencyskew": 0.0
+        },
+        {
+            "id": "211274928",
+            "offset": 47.488980468,
+            "timeskew": -0.0012575984,
+            "frequencyskew": -0.0013683438
+        },
+        {
+            "id": "254830277",
+            "offset": 30.019902343000002,
+            "timeskew": -0.0053787827,
+            "frequencyskew": -0.0051417947
+        },
+        {
+            "id": "10501256",
+            "offset": 29.872912109,
+            "timeskew": -0.0002245307,
+            "frequencyskew": -0.00024163723
+        },
+        {
+            "id": "209377280",
+            "offset": 30.091099609,
+            "timeskew": -0.00013130903,
+            "frequencyskew": -0.000120818615
+        },
+        {
+            "id": "285564436",
+            "offset": 30.195337889999998,
+            "timeskew": -0.00042790174,
+            "frequencyskew": -0.000120818615
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691632418824,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "10746347",
+        "title": "That's the Way (I Like It)",
+        "subtitle": "KC and the Sunshine Band",
+        "images": {
+            "background": "https://is5-ssl.mzstatic.com/image/thumb/Features115/v4/a6/d4/42/a6d44227-cf21-0087-6822-a37d987d73d5/mzl.fbpjalbl.jpg/800x800cc.jpg",
+            "coverart": "https://is2-ssl.mzstatic.com/image/thumb/Music4/v4/05/c9/6b/05c96b78-c44f-2516-61d7-103da81079d4/5099997530152.jpg/400x400cc.jpg",
+            "coverarthq": "https://is2-ssl.mzstatic.com/image/thumb/Music4/v4/05/c9/6b/05c96b78-c44f-2516-61d7-103da81079d4/5099997530152.jpg/400x400cc.jpg",
+            "joecolor": "b:211d1ep:f1efe1s:eeb875t:c7c5baq:c59964"
+        },
+        "share": {
+            "subject": "That's the Way (I Like It) - KC and the Sunshine Band",
+            "text": "That's the Way (I Like It) by KC and the Sunshine Band",
+            "href": "https://www.shazam.com/track/10746347/thats-the-way-i-like-it",
+            "image": "https://is2-ssl.mzstatic.com/image/thumb/Music4/v4/05/c9/6b/05c96b78-c44f-2516-61d7-103da81079d4/5099997530152.jpg/400x400cc.jpg",
+            "twitter": "I used @Shazam to discover That's the Way (I Like It) by KC and the Sunshine Band.",
+            "html": "https://www.shazam.com/snippets/email-share/10746347?lang=en-US&country=GB",
+            "avatar": "https://is5-ssl.mzstatic.com/image/thumb/Features115/v4/a6/d4/42/a6d44227-cf21-0087-6822-a37d987d73d5/mzl.fbpjalbl.jpg/800x800cc.jpg",
+            "snapchat": "https://www.shazam.com/partner/sc/track/10746347"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "actions": [
+                {
+                    "name": "apple",
+                    "type": "applemusicplay",
+                    "id": "693696197"
+                },
+                {
+                    "name": "apple",
+                    "type": "uri",
+                    "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/3b/9e/76/3b9e76ad-93df-5d59-6962-b418a36786d6/mzaf_608877225032523908.plus.aac.ep.m4a"
+                }
+            ],
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/gb/album/thats-the-way-i-like-it/693695632?i=693696197&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/gb/album/thats-the-way-i-like-it/693695632?i=693696197&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                },
+                {
+                    "caption": "BUY",
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "uri": "https://itunes.apple.com/gb/album/thats-the-way-i-like-it/693695632?i=693696197&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "buy",
+                        "providername": "itunes"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "type": "buy",
+                    "listcaption": "Buy on iTunes",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "itunes"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:That%27s%20the%20Way%20%28I%20Like%20It%29%20KC%20and%20the%20Sunshine%20Band"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27That%5C%27s+the+Way+%28I+Like+It%29%27%20artist%3A%27KC+and+the+Sunshine+Band%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": false,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [
+                    {
+                        "image": "https://is5-ssl.mzstatic.com/image/thumb/Features115/v4/a6/d4/42/a6d44227-cf21-0087-6822-a37d987d73d5/mzl.fbpjalbl.jpg/800x800cc.jpg",
+                        "caption": "KC and the Sunshine Band"
+                    },
+                    {
+                        "image": "https://is2-ssl.mzstatic.com/image/thumb/Music4/v4/05/c9/6b/05c96b78-c44f-2516-61d7-103da81079d4/5099997530152.jpg/400x400cc.jpg",
+                        "caption": "That's the Way (I Like It)"
+                    }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                    {
+                        "title": "Album",
+                        "text": "15 Classic Tracks: KC and the Sunshine Band"
+                    },
+                    {
+                        "title": "Label",
+                        "text": "Parlophone UK"
+                    },
+                    {
+                        "title": "Released",
+                        "text": "1975"
+                    }
+                ]
+            },
+            {
+                "type": "LYRICS",
+                "text": [
+                    "Oh, that's the way, uh-huh, uh-huh",
+                    "I like it, uh-huh, uh-huh",
+                    "That's the way, uh-huh, uh-huh",
+                    "I like it, uh-huh, uh-huh",
+                    "That's the way, uh-huh, uh-huh",
+                    "I like it, uh-huh, uh-huh",
+                    "",
+                    "That's the way, uh-huh, uh-huh",
+                    "I like it, uh-huh, uh-huh",
+                    "When you take me, by the hand",
+                    "Tell me I'm, your loving man",
+                    "When you give me, all your love",
+                    "And do it babe, girl yes you can",
+                    "",
+                    "Oh, that's the way, uh-huh, uh-huh",
+                    "I like it, uh-huh, uh-huh",
+                    "That's the way, uh-huh, uh-huh",
+                    "I like it, uh-huh, uh-huh",
+                    "That's the way, uh-huh, uh-huh",
+                    "I like it, uh-huh, uh-huh",
+                    "That's the way, uh-huh, uh-huh",
+                    "",
+                    "I like it, uh-huh, uh-huh",
+                    "When I get to, be in your arms",
+                    "When we're all, all alone",
+                    "When you whisper, sweet in my ear",
+                    "When you turn, turn me on",
+                    "Oh, that's the way, uh-huh, uh-huh",
+                    "",
+                    "I like it, uh-huh, uh-huh",
+                    "That's the way, uh-huh, uh-huh",
+                    "I like it, uh-huh, uh-huh",
+                    "That's the way, uh-huh, uh-huh",
+                    "I like it, uh-huh, uh-huh",
+                    "That's the way, uh-huh, uh-huh",
+                    "",
+                    "I like it, uh-huh, uh-huh",
+                    "Babe, oh babe, uh-huh",
+                    "That's the way, uh-huh",
+                    "That's the way, uh-huh",
+                    "Babe, oh babe, uh-huh",
+                    "That's the way uh-huh",
+                    "",
+                    "That's the way uh-huh",
+                    "Oh, that's the way, uh-huh, uh-huh",
+                    "I like it, uh-huh, uh-huh",
+                    "That's the way, uh-huh, uh-huh",
+                    "I like it, uh-huh, uh-huh",
+                    "",
+                    "That's the way, uh-huh, uh-huh",
+                    "I like it, uh-huh, uh-huh",
+                    "That's the way, uh-huh, uh-huh",
+                    "I like it, uh-huh, uh-huh",
+                    "Uh-huh",
+                    "Uh-huh",
+                    "",
+                    "Oh, that's the way, uh-huh, uh-huh",
+                    "I like it, uh-huh, uh-huh",
+                    "That's the way, uh-huh, uh-huh",
+                    "I like it, uh-huh, uh-huh",
+                    "That's the way, uh-huh, uh-huh",
+                    "I like it, uh-huh, uh-huh",
+                    "",
+                    "That's the way, uh-huh, uh-huh",
+                    "I like it, uh-huh, uh-huh",
+                    "Your love is hot, yeah",
+                    "I like it",
+                    "Oh, I can't get enough"
+                ],
+                "url": "https://cdn.shazam.com/lyrics/v1/en-US/GB/iphone/musixmatch/subtitles/110413109/184/1?token=a8137be0b77cef296bca2d46730dabb3",
+                "footer": "Writer(s): Richard Raymond Finch, Richard Finch, Harry Casey\nLyrics powered by www.musixmatch.com",
+                "tabname": "Lyrics",
+                "beacondata": {
+                    "lyricsid": "32177152",
+                    "providername": "musixmatch",
+                    "commontrackid": "110413109"
+                }
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/10746347/youtube/video?q=KC+and+the+Sunshine+Band+%22That's+the+Way+(I+Like+It)%22"
+            },
+            {
+                "type": "RELATED",
+                "url": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-10746347?startFrom=0&pageSize=20&connected=",
+                "tabname": "Related"
+            }
+        ],
+        "url": "https://www.shazam.com/track/10746347/thats-the-way-i-like-it",
+        "artists": [
+            {
+                "id": "42",
+                "adamid": "14589060"
+            }
+        ],
+        "isrc": "GBAYE7500059",
+        "genres": {
+            "primary": "Dance"
+        },
+        "urlparams": {
+            "{tracktitle}": "That%27s+the+Way+%28I+Like+It%29",
+            "{trackartist}": "KC+and+the+Sunshine+Band"
+        },
+        "myshazam": {
+            "apple": {
+                "actions": [
+                    {
+                        "name": "myshazam:apple",
+                        "type": "uri",
+                        "uri": "https://music.apple.com/gb/album/thats-the-way-i-like-it/693695632?i=693696197&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                ]
+            }
+        },
+        "highlightsurls": {
+            "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/14589060/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+        },
+        "relatedtracksurl": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-10746347?startFrom=0&pageSize=20&connected=",
+        "albumadamid": "693695632"
+    },
+    "tagid": "3A911024-7962-44A9-8A97-5AFA6D81980A"
+}

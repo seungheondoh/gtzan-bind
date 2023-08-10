@@ -1,0 +1,307 @@
+{
+    "matches": [
+        {
+            "id": "201903569",
+            "offset": 30.138626953,
+            "timeskew": 7.927418e-05,
+            "frequencyskew": -4.029274e-05
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691633398896,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "60415566",
+        "title": "Oh Baby Mine (I Get So Lonely)",
+        "subtitle": "The Statler Brothers",
+        "images": {
+            "background": "https://is1-ssl.mzstatic.com/image/thumb/Features125/v4/b4/9a/3b/b49a3bda-19ef-5050-43c3-e14c2aa61f36/mzl.xqkjhhaw.jpg/800x800cc.jpg",
+            "coverart": "https://is5-ssl.mzstatic.com/image/thumb/Music123/v4/59/6d/38/596d38e2-e368-80e2-0de9-c0d4a15c2f9c/12UMGIM51632.rgb.jpg/400x400cc.jpg",
+            "coverarthq": "https://is5-ssl.mzstatic.com/image/thumb/Music123/v4/59/6d/38/596d38e2-e368-80e2-0de9-c0d4a15c2f9c/12UMGIM51632.rgb.jpg/400x400cc.jpg",
+            "joecolor": "b:151822p:e7cba7s:dbb286t:bda78cq:b39372"
+        },
+        "share": {
+            "subject": "Oh Baby Mine (I Get So Lonely) - The Statler Brothers",
+            "text": "Oh Baby Mine (I Get So Lonely) by The Statler Brothers",
+            "href": "https://www.shazam.com/track/60415566/oh-baby-mine-i-get-so-lonely",
+            "image": "https://is5-ssl.mzstatic.com/image/thumb/Music123/v4/59/6d/38/596d38e2-e368-80e2-0de9-c0d4a15c2f9c/12UMGIM51632.rgb.jpg/400x400cc.jpg",
+            "twitter": "I used @Shazam to discover Oh Baby Mine (I Get So Lonely) by The Statler Brothers.",
+            "html": "https://www.shazam.com/snippets/email-share/60415566?lang=en-US&country=GB",
+            "avatar": "https://is1-ssl.mzstatic.com/image/thumb/Features125/v4/b4/9a/3b/b49a3bda-19ef-5050-43c3-e14c2aa61f36/mzl.xqkjhhaw.jpg/800x800cc.jpg",
+            "snapchat": "https://www.shazam.com/partner/sc/track/60415566"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "actions": [
+                {
+                    "name": "apple",
+                    "type": "applemusicplay",
+                    "id": "1485773113"
+                },
+                {
+                    "name": "apple",
+                    "type": "uri",
+                    "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/14/5f/6c/145f6c74-8cf5-39c5-ffb7-dac23ff46ab9/mzaf_3006600456968066915.plus.aac.p.m4a"
+                }
+            ],
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/gb/album/oh-baby-mine-i-get-so-lonely/1485773107?i=1485773113&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/gb/album/oh-baby-mine-i-get-so-lonely/1485773107?i=1485773113&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                },
+                {
+                    "caption": "BUY",
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "uri": "https://itunes.apple.com/gb/album/oh-baby-mine-i-get-so-lonely/1485773107?i=1485773113&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "buy",
+                        "providername": "itunes"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "type": "buy",
+                    "listcaption": "Buy on iTunes",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "itunes"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:Oh%20Baby%20Mine%20%28I%20Get%20So%20Lonely%29%20The%20Statler%20Brothers"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27Oh+Baby+Mine+%28I+Get+So+Lonely%29%27%20artist%3A%27The+Statler+Brothers%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": false,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [
+                    {
+                        "image": "https://is1-ssl.mzstatic.com/image/thumb/Features125/v4/b4/9a/3b/b49a3bda-19ef-5050-43c3-e14c2aa61f36/mzl.xqkjhhaw.jpg/800x800cc.jpg",
+                        "caption": "The Statler Brothers"
+                    },
+                    {
+                        "image": "https://is5-ssl.mzstatic.com/image/thumb/Music123/v4/59/6d/38/596d38e2-e368-80e2-0de9-c0d4a15c2f9c/12UMGIM51632.rgb.jpg/400x400cc.jpg",
+                        "caption": "Oh Baby Mine (I Get So Lonely)"
+                    }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                    {
+                        "title": "Album",
+                        "text": "Today"
+                    },
+                    {
+                        "title": "Label",
+                        "text": "Mercury Nashville"
+                    },
+                    {
+                        "title": "Released",
+                        "text": "1983"
+                    }
+                ]
+            },
+            {
+                "type": "LYRICS",
+                "text": [
+                    "(Oh, baby mine)",
+                    "I get so lonely",
+                    "When I dream about you",
+                    "(Dream)",
+                    "",
+                    "(Can? t)",
+                    "Can't do without you",
+                    "(That? s why)",
+                    "That's why I dream about you",
+                    "",
+                    "If I could only put my",
+                    "(Arms)",
+                    "Arms around you",
+                    "(Life)",
+                    "Life would be so fair",
+                    "",
+                    "(If you were here)",
+                    "We two could",
+                    "Hug and kiss and",
+                    "(Never)",
+                    "Never tire",
+                    "",
+                    "(I? m)",
+                    "I'm on fire",
+                    "(You are)",
+                    "You are my one desire",
+                    "",
+                    "I get so lonely when I",
+                    "(Dream)",
+                    "Dream about you",
+                    "(Why)",
+                    "Why can't you be there?",
+                    "",
+                    "(Oh, baby)",
+                    "Tossing and turning in my slumber",
+                    "(Oh, baby)",
+                    "Holding you it seems",
+                    "",
+                    "(Oh, baby)",
+                    "I'd give you kisses without number",
+                    "But only in my dreams",
+                    "",
+                    "(Oh, baby mine)",
+                    "I get so lonely",
+                    "When I dream about you",
+                    "(Dream)",
+                    "",
+                    "(Can? t)",
+                    "Can't do without you",
+                    "(That? s why)",
+                    "That's why I dream about you",
+                    "",
+                    "If I could only put my",
+                    "(Arms)",
+                    "Arms around you",
+                    "(Life)",
+                    "Life would be so fair",
+                    "",
+                    "(Oh, baby)",
+                    "Tossing and turning in my slumber",
+                    "(Oh, baby)",
+                    "Holding you it seems",
+                    "",
+                    "(Oh, baby)",
+                    "I'd give you kisses without number",
+                    "But only in my dreams",
+                    "",
+                    "(Oh, baby mine)",
+                    "I get so lonely",
+                    "When I dream about you",
+                    "(Dream)",
+                    "",
+                    "(Can? t)",
+                    "Can't do without you",
+                    "(That? s why)",
+                    "That's why I dream about you",
+                    "",
+                    "If I could only put my",
+                    "(Arms)",
+                    "Arms around you",
+                    "(Life)",
+                    "Life would be so fair",
+                    "",
+                    "(Oh, baby life)",
+                    "Life would be so fair",
+                    "(Oh, baby life)",
+                    "Life would be so fair",
+                    "(Oh, baby life)",
+                    "Life would be so fair"
+                ],
+                "footer": "Writer(s): Pat Ballard\nLyrics powered by www.musixmatch.com",
+                "tabname": "Lyrics",
+                "beacondata": {
+                    "lyricsid": "5634641",
+                    "providername": "musixmatch",
+                    "commontrackid": "255084"
+                }
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/60415566/youtube/video?q=The+Statler+Brothers+%22Oh+Baby+Mine+(I+Get+So+Lonely)%22"
+            },
+            {
+                "type": "RELATED",
+                "url": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-60415566?startFrom=0&pageSize=20&connected=",
+                "tabname": "Related"
+            }
+        ],
+        "url": "https://www.shazam.com/track/60415566/oh-baby-mine-i-get-so-lonely",
+        "artists": [
+            {
+                "id": "42",
+                "adamid": "252849"
+            }
+        ],
+        "isrc": "USPR39400588",
+        "genres": {
+            "primary": "Country"
+        },
+        "urlparams": {
+            "{tracktitle}": "Oh+Baby+Mine+%28I+Get+So+Lonely%29",
+            "{trackartist}": "The+Statler+Brothers"
+        },
+        "myshazam": {
+            "apple": {
+                "actions": [
+                    {
+                        "name": "myshazam:apple",
+                        "type": "uri",
+                        "uri": "https://music.apple.com/gb/album/oh-baby-mine-i-get-so-lonely/1485773107?i=1485773113&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                ]
+            }
+        },
+        "highlightsurls": {
+            "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/252849/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+        },
+        "relatedtracksurl": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-60415566?startFrom=0&pageSize=20&connected=",
+        "albumadamid": "1485773107"
+    },
+    "tagid": "6EEFD812-83C2-41B4-957D-2B98A0FD7885"
+}

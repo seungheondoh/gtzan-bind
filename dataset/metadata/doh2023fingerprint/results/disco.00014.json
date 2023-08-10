@@ -1,0 +1,334 @@
+{
+    "matches": [
+        {
+            "id": "374902726",
+            "offset": 72.327671875,
+            "timeskew": -0.0009024739,
+            "frequencyskew": -0.0009661317
+        },
+        {
+            "id": "338155513",
+            "offset": 192.9600625,
+            "timeskew": 0.00038909912,
+            "frequencyskew": 0.00020134449
+        },
+        {
+            "id": "230565627",
+            "offset": 192.532859375,
+            "timeskew": -0.00014662743,
+            "frequencyskew": -0.00040262938
+        },
+        {
+            "id": "224289812",
+            "offset": 195.167921875,
+            "timeskew": -0.0004349947,
+            "frequencyskew": 0.00028192997
+        },
+        {
+            "id": "267957241",
+            "offset": 193.741640625,
+            "timeskew": 0.0002425909,
+            "frequencyskew": 0.0012493134
+        },
+        {
+            "id": "261833545",
+            "offset": 194.8429375,
+            "timeskew": 0.013267636,
+            "frequencyskew": 0.012848616
+        },
+        {
+            "id": "226074869",
+            "offset": 195.38121875,
+            "timeskew": 0.012920141,
+            "frequencyskew": 0.013379097
+        },
+        {
+            "id": "437173180",
+            "offset": 226.348609375,
+            "timeskew": -0.00091695786,
+            "frequencyskew": -0.0008453727
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691632482962,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "61080093",
+        "title": "Stayin' Alive",
+        "subtitle": "Bee Gees",
+        "images": {
+            "background": "https://is3-ssl.mzstatic.com/image/thumb/Features115/v4/8c/59/e7/8c59e7db-57c1-7d88-53a7-1eb63c509021/mzl.qhgncoyv.jpg/800x800cc.jpg",
+            "coverart": "https://is3-ssl.mzstatic.com/image/thumb/Music123/v4/94/a7/5f/94a75fd1-17da-3a38-42dc-c5e35bf56046/16UMGIM86639.rgb.jpg/400x400cc.jpg",
+            "coverarthq": "https://is3-ssl.mzstatic.com/image/thumb/Music123/v4/94/a7/5f/94a75fd1-17da-3a38-42dc-c5e35bf56046/16UMGIM86639.rgb.jpg/400x400cc.jpg",
+            "joecolor": "b:0b0d15p:f6d6e9s:da81b0t:c7aebeq:b06a91"
+        },
+        "share": {
+            "subject": "Stayin' Alive - Bee Gees",
+            "text": "Stayin' Alive by Bee Gees",
+            "href": "https://www.shazam.com/track/61080093/stayin-alive",
+            "image": "https://is3-ssl.mzstatic.com/image/thumb/Music123/v4/94/a7/5f/94a75fd1-17da-3a38-42dc-c5e35bf56046/16UMGIM86639.rgb.jpg/400x400cc.jpg",
+            "twitter": "I used @Shazam to discover Stayin' Alive by Bee Gees.",
+            "html": "https://www.shazam.com/snippets/email-share/61080093?lang=en-US&country=GB",
+            "avatar": "https://is3-ssl.mzstatic.com/image/thumb/Features115/v4/8c/59/e7/8c59e7db-57c1-7d88-53a7-1eb63c509021/mzl.qhgncoyv.jpg/800x800cc.jpg",
+            "snapchat": "https://www.shazam.com/partner/sc/track/61080093"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "actions": [
+                {
+                    "name": "apple",
+                    "type": "applemusicplay",
+                    "id": "1445669633"
+                },
+                {
+                    "name": "apple",
+                    "type": "uri",
+                    "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/84/b2/81/84b28134-ad11-e311-d2f4-41e382e7d052/mzaf_16084032857313779492.plus.aac.ep.m4a"
+                }
+            ],
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/gb/album/stayin-alive/1445668810?i=1445669633&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/gb/album/stayin-alive/1445668810?i=1445669633&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                },
+                {
+                    "caption": "BUY",
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "uri": "https://itunes.apple.com/gb/album/stayin-alive/1445668810?i=1445669633&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "buy",
+                        "providername": "itunes"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "type": "buy",
+                    "listcaption": "Buy on iTunes",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "itunes"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:Stayin%27%20Alive%20Bee%20Gees"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27Stayin%5C%27+Alive%27%20artist%3A%27Bee+Gees%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": false,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [
+                    {
+                        "image": "https://is3-ssl.mzstatic.com/image/thumb/Features115/v4/8c/59/e7/8c59e7db-57c1-7d88-53a7-1eb63c509021/mzl.qhgncoyv.jpg/800x800cc.jpg",
+                        "caption": "Bee Gees"
+                    },
+                    {
+                        "image": "https://is3-ssl.mzstatic.com/image/thumb/Music123/v4/94/a7/5f/94a75fd1-17da-3a38-42dc-c5e35bf56046/16UMGIM86639.rgb.jpg/400x400cc.jpg",
+                        "caption": "Stayin' Alive"
+                    }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                    {
+                        "title": "Album",
+                        "text": "The Ultimate Bee Gees"
+                    },
+                    {
+                        "title": "Label",
+                        "text": "Bee Gees Catalog"
+                    },
+                    {
+                        "title": "Released",
+                        "text": "1977"
+                    }
+                ]
+            },
+            {
+                "type": "LYRICS",
+                "text": [
+                    "Well, you can tell by the way I use my walk",
+                    "I'm a woman's man, no time to talk",
+                    "Music loud and women warm",
+                    "I've been kicked around since I was born",
+                    "",
+                    "And now it's all right, that's okay",
+                    "And you may look the other way",
+                    "We can try to understand",
+                    "The New York Times' effect on man",
+                    "",
+                    "Whether you're a brother or whether you're a mother",
+                    "You're stayin' alive, stayin' alive",
+                    "Feel the city breakin' and everybody shakin'",
+                    "And we're stayin' alive, stayin' alive",
+                    "Ah, ha, ha, ha, stayin' alive, stayin' alive",
+                    "Ah, ha, ha, ha, stayin' alive",
+                    "Oh when you walk",
+                    "",
+                    "Well now, I get low and I get high",
+                    "And if I can't get either, I really try",
+                    "Got the wings of heaven on my shoes",
+                    "I'm a dancin' man and I just can't lose",
+                    "",
+                    "You know it's all right, it's okay",
+                    "I'll live to see another day",
+                    "We can try to understand",
+                    "The New York Times' effect on man",
+                    "",
+                    "Whether you're a brother or whether you're a mother",
+                    "You're stayin' alive, stayin' alive",
+                    "Feel the city breakin' and everybody shakin'",
+                    "And we're stayin' alive, stayin' alive",
+                    "Ah, ha, ha, ha, stayin' alive, stayin' alive",
+                    "Ah, ha, ha, ha, stayin' alive",
+                    "",
+                    "Life goin' nowhere, somebody help me",
+                    "Somebody help me, yeah",
+                    "Life goin' nowhere, somebody help me, yeah",
+                    "I'm stayin' alive",
+                    "",
+                    "Well, you can tell by the way I use my walk",
+                    "I'm a woman's man, no time to talk",
+                    "Music loud and women warm",
+                    "I've been kicked around since I was born",
+                    "",
+                    "And now it's all right, it's okay",
+                    "And you may look the other way",
+                    "We can try to understand",
+                    "The New York Times' effect on man",
+                    "",
+                    "Whether you're a brother or whether you're a mother",
+                    "You're stayin' alive, stayin' alive",
+                    "Feel the city breakin' and everybody shakin'",
+                    "And we're stayin' alive, stayin' alive",
+                    "Ah, ha, ha, ha, stayin' alive, stayin' alive",
+                    "Ah, ha, ha, ha, stayin' alive",
+                    "",
+                    "Life goin' nowhere, somebody help me",
+                    "Somebody help me, yeah",
+                    "Life goin' nowhere, somebody help me, yeah",
+                    "I'm stayin' alive",
+                    "Life goin' nowhere, somebody help me",
+                    "Somebody help me, yeah",
+                    "Life goin' nowhere, somebody help me, yeah",
+                    "I'm stayin' alive",
+                    "Life goin' nowhere, somebody help me",
+                    "Somebody help me, yeah",
+                    "Life goin' nowhere, somebody help me, yeah",
+                    "I'm stayin' alive",
+                    "Life goin' nowhere, somebody help me",
+                    "Somebody help me, yeah",
+                    "Life goin' nowhere, somebody help me, yeah",
+                    "I'm stayin' alive"
+                ],
+                "url": "https://cdn.shazam.com/lyrics/v1/en-US/GB/iphone/musixmatch/subtitles/12115784/92/1?token=ce93637be30d8ebc1c8960930d578a0f",
+                "footer": "Writer(s): Fernando Luis Lopez Rossi, Barry Alan Gibb, Maurice Ernest Gibb, Pablo Daniel Durand, Robin Hugh Gibb, Jose Adolfo Verde\nLyrics powered by www.musixmatch.com",
+                "tabname": "Lyrics",
+                "beacondata": {
+                    "lyricsid": "29291860",
+                    "providername": "musixmatch",
+                    "commontrackid": "12115784"
+                }
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/61080093/youtube/video?q=Bee+Gees+%22Stayin'+Alive%22"
+            },
+            {
+                "type": "RELATED",
+                "url": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-61080093?startFrom=0&pageSize=20&connected=",
+                "tabname": "Related"
+            }
+        ],
+        "url": "https://www.shazam.com/track/61080093/stayin-alive",
+        "artists": [
+            {
+                "id": "42",
+                "adamid": "31937250"
+            }
+        ],
+        "isrc": "USRH10721057",
+        "genres": {
+            "primary": "Pop"
+        },
+        "urlparams": {
+            "{tracktitle}": "Stayin%27+Alive",
+            "{trackartist}": "Bee+Gees"
+        },
+        "myshazam": {
+            "apple": {
+                "actions": [
+                    {
+                        "name": "myshazam:apple",
+                        "type": "uri",
+                        "uri": "https://music.apple.com/gb/album/stayin-alive/1445668810?i=1445669633&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                ]
+            }
+        },
+        "highlightsurls": {
+            "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/31937250/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+        },
+        "relatedtracksurl": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-61080093?startFrom=0&pageSize=20&connected=",
+        "albumadamid": "1445668810"
+    },
+    "tagid": "1F2FD5B6-9D1F-4031-A09E-A3845E0EDE38"
+}

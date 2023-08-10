@@ -1,0 +1,313 @@
+{
+    "matches": [
+        {
+            "id": "290498003",
+            "offset": 29.885796875,
+            "timeskew": 0.0014873743,
+            "frequencyskew": 0.0011283159
+        },
+        {
+            "id": "254551851",
+            "offset": 30.184667968000003,
+            "timeskew": 0.005264163,
+            "frequencyskew": 0.0054517984
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691633594618,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "10024852",
+        "title": "Aqualung",
+        "subtitle": "Jethro Tull",
+        "images": {
+            "background": "https://is1-ssl.mzstatic.com/image/thumb/Features125/v4/6c/af/2b/6caf2b97-f2d3-14a9-431b-e1579e254c81/mzl.yziwwmnf.jpg/800x800cc.jpg",
+            "coverart": "https://is3-ssl.mzstatic.com/image/thumb/Music124/v4/15/bc/f2/15bcf216-7469-4ccd-8935-363e62886c4c/cover.jpg/400x400cc.jpg",
+            "coverarthq": "https://is3-ssl.mzstatic.com/image/thumb/Music124/v4/15/bc/f2/15bcf216-7469-4ccd-8935-363e62886c4c/cover.jpg/400x400cc.jpg",
+            "joecolor": "b:776436p:fcfcfcs:b2dff9t:e2ded5q:a6c6d2"
+        },
+        "share": {
+            "subject": "Aqualung - Jethro Tull",
+            "text": "Aqualung by Jethro Tull",
+            "href": "https://www.shazam.com/track/10024852/aqualung",
+            "image": "https://is3-ssl.mzstatic.com/image/thumb/Music124/v4/15/bc/f2/15bcf216-7469-4ccd-8935-363e62886c4c/cover.jpg/400x400cc.jpg",
+            "twitter": "I used @Shazam to discover Aqualung by Jethro Tull.",
+            "html": "https://www.shazam.com/snippets/email-share/10024852?lang=en-US&country=GB",
+            "avatar": "https://is1-ssl.mzstatic.com/image/thumb/Features125/v4/6c/af/2b/6caf2b97-f2d3-14a9-431b-e1579e254c81/mzl.yziwwmnf.jpg/800x800cc.jpg",
+            "snapchat": "https://www.shazam.com/partner/sc/track/10024852"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "actions": [
+                {
+                    "name": "apple",
+                    "type": "applemusicplay",
+                    "id": "1367918322"
+                },
+                {
+                    "name": "apple",
+                    "type": "uri",
+                    "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/92/ba/62/92ba621d-e6d4-5856-3730-f03d1e81f9ed/mzaf_11589154545807908793.plus.aac.ep.m4a"
+                }
+            ],
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/gb/album/aqualung/1367917838?i=1367918322&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/gb/album/aqualung/1367917838?i=1367918322&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                },
+                {
+                    "caption": "BUY",
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "uri": "https://itunes.apple.com/gb/album/aqualung/1367917838?i=1367918322&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "buy",
+                        "providername": "itunes"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "type": "buy",
+                    "listcaption": "Buy on iTunes",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "itunes"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:Aqualung%20Jethro%20Tull"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27Aqualung%27%20artist%3A%27Jethro+Tull%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": false,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [
+                    {
+                        "image": "https://is1-ssl.mzstatic.com/image/thumb/Features125/v4/6c/af/2b/6caf2b97-f2d3-14a9-431b-e1579e254c81/mzl.yziwwmnf.jpg/800x800cc.jpg",
+                        "caption": "Jethro Tull"
+                    },
+                    {
+                        "image": "https://is3-ssl.mzstatic.com/image/thumb/Music124/v4/15/bc/f2/15bcf216-7469-4ccd-8935-363e62886c4c/cover.jpg/400x400cc.jpg",
+                        "caption": "Aqualung"
+                    }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                    {
+                        "title": "Album",
+                        "text": "Living with the Past"
+                    },
+                    {
+                        "title": "Label",
+                        "text": "earMUSIC Classics"
+                    },
+                    {
+                        "title": "Released",
+                        "text": "2002"
+                    }
+                ]
+            },
+            {
+                "type": "LYRICS",
+                "text": [
+                    "Hey, sitting on a park bench",
+                    "Eyeing little girls with bad intent",
+                    "",
+                    "Snot's running down his nose",
+                    "Greasy fingers smearing shabby clothes",
+                    "Oh, Aqualung",
+                    "",
+                    "He's drying in the cold sun",
+                    "Watching as the frilly panties run",
+                    "Hey, Aqualung",
+                    "",
+                    "Feeling like a dead duck",
+                    "Spitting out pieces of his broken luck",
+                    "Yeah, Aqualung",
+                    "",
+                    "Sun streaking cold",
+                    "An old man wandering lonely",
+                    "Taking time the only way he knows",
+                    "Leg hurting bad",
+                    "As he bends to pick a dog-end",
+                    "When he goes down to the bog",
+                    "And warms his feet",
+                    "",
+                    "Feeling alone",
+                    "The army's up the road",
+                    "Salvation a la mode and a cup of tea",
+                    "",
+                    "Aqualung, my friend",
+                    "Don't you start away uneasy",
+                    "You poor old sod",
+                    "Oh you see, it's only me",
+                    "",
+                    "Do you still remember",
+                    "December's foggy freeze",
+                    "When the ice that",
+                    "Clings onto your beard was",
+                    "Screaming agony? Hey!",
+                    "And you snatch your rattling last breaths",
+                    "With deep-sea diver sounds",
+                    "And the flowers bloom like",
+                    "Madness in the spring",
+                    "",
+                    "Sun streaking cold",
+                    "An old man wandering lonely",
+                    "Taking time the only way he knows",
+                    "Leg hurting bad",
+                    "As he bends to pick a dog-end",
+                    "He goes down to the bog and warms his feet",
+                    "Ohh",
+                    "",
+                    "Feeling alone",
+                    "The army's up the road",
+                    "Salvation a la mode and a cup of tea",
+                    "",
+                    "Aqualung, my friend",
+                    "Don't you start away uneasy",
+                    "You poor old sod",
+                    "You see, it's only me",
+                    "Ohh",
+                    "",
+                    "Dee dee dee dee",
+                    "Dee dee, dee dee, dee dee dee",
+                    "Dee dee, dee dee dee",
+                    "Dee dee, dee dee",
+                    "",
+                    "Aqualung, my friend",
+                    "Don't you start away uneasy",
+                    "Oh you poor old sod",
+                    "You see, it's only me",
+                    "Oh you know, it's only me",
+                    "",
+                    "Sitting on a park bench",
+                    "Eyeing little girls with bad intent",
+                    "",
+                    "Snot's running down his nose",
+                    "Greasy fingers smearing shabby clothes",
+                    "Oh, Aqualung",
+                    "",
+                    "He's drying in the cold sun",
+                    "Watching as the frilly panties run",
+                    "Oh, Aqualung",
+                    "",
+                    "Feeling like a dead duck",
+                    "Spitting out pieces of his broken luck",
+                    "Hey, Aqualung",
+                    "",
+                    "Whoa, Aqualung"
+                ],
+                "url": "https://cdn.shazam.com/lyrics/v1/en-US/GB/iphone/musixmatch/subtitles/10177549/397/1?token=c6e7832680b99bc67de57c6e3d4c3630",
+                "footer": "Writer(s): Ian Anderson, Jenny Anderson\nLyrics powered by www.musixmatch.com",
+                "tabname": "Lyrics",
+                "beacondata": {
+                    "lyricsid": "17572447",
+                    "providername": "musixmatch",
+                    "commontrackid": "10177549"
+                }
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/10024852/youtube/video?q=Jethro+Tull+%22Aqualung%22"
+            },
+            {
+                "type": "RELATED",
+                "url": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-10024852?startFrom=0&pageSize=20&connected=",
+                "tabname": "Related"
+            }
+        ],
+        "url": "https://www.shazam.com/track/10024852/aqualung",
+        "artists": [
+            {
+                "id": "42",
+                "adamid": "44596725"
+            }
+        ],
+        "isrc": "GBCBR0400955",
+        "genres": {
+            "primary": "Folk"
+        },
+        "urlparams": {
+            "{tracktitle}": "Aqualung",
+            "{trackartist}": "Jethro+Tull"
+        },
+        "myshazam": {
+            "apple": {
+                "actions": [
+                    {
+                        "name": "myshazam:apple",
+                        "type": "uri",
+                        "uri": "https://music.apple.com/gb/album/aqualung/1367917838?i=1367918322&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                ]
+            }
+        },
+        "highlightsurls": {
+            "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/44596725/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios&videoIdToFilter=1561994582",
+            "trackhighlighturl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/highlights/1561994582?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+        },
+        "relatedtracksurl": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-10024852?startFrom=0&pageSize=20&connected=",
+        "albumadamid": "1367917838"
+    },
+    "tagid": "185D51F8-864E-443F-82EB-5C4BE0B2804E"
+}

@@ -1,0 +1,248 @@
+{
+    "matches": [
+        {
+            "id": "221108749",
+            "offset": 86.608289062,
+            "timeskew": 0.019798875,
+            "frequencyskew": 0.020094395
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691633355398,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "2953824",
+        "title": "Never Knew Lonely",
+        "subtitle": "Vince Gill",
+        "images": {
+            "background": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/60/4c/f5/604cf541-d910-4110-0f64-0a86beda613e/pr_source.png/800x800cc.jpg",
+            "coverart": "https://is5-ssl.mzstatic.com/image/thumb/Music124/v4/a6/b4/43/a6b443e8-4b1f-ca11-ded9-b8a8b6f2d487/00602547742452.rgb.jpg/400x400cc.jpg",
+            "coverarthq": "https://is5-ssl.mzstatic.com/image/thumb/Music124/v4/a6/b4/43/a6b443e8-4b1f-ca11-ded9-b8a8b6f2d487/00602547742452.rgb.jpg/400x400cc.jpg",
+            "joecolor": "b:001323p:d7f2fbs:cfe3eet:acc6d0q:a6b9c5"
+        },
+        "share": {
+            "subject": "Never Knew Lonely - Vince Gill",
+            "text": "Never Knew Lonely by Vince Gill",
+            "href": "https://www.shazam.com/track/2953824/never-knew-lonely",
+            "image": "https://is5-ssl.mzstatic.com/image/thumb/Music124/v4/a6/b4/43/a6b443e8-4b1f-ca11-ded9-b8a8b6f2d487/00602547742452.rgb.jpg/400x400cc.jpg",
+            "twitter": "I used @Shazam to discover Never Knew Lonely by Vince Gill.",
+            "html": "https://www.shazam.com/snippets/email-share/2953824?lang=en-US&country=GB",
+            "avatar": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/60/4c/f5/604cf541-d910-4110-0f64-0a86beda613e/pr_source.png/800x800cc.jpg",
+            "snapchat": "https://www.shazam.com/partner/sc/track/2953824"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "actions": [
+                {
+                    "name": "apple",
+                    "type": "applemusicplay",
+                    "id": "1443173035"
+                },
+                {
+                    "name": "apple",
+                    "type": "uri",
+                    "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/27/a3/8f/27a38f90-51a5-ae6d-dc71-70eafe39dfca/mzaf_7974157360944283328.plus.aac.ep.m4a"
+                }
+            ],
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/gb/album/never-knew-lonely/1443172744?i=1443173035&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/gb/album/never-knew-lonely/1443172744?i=1443173035&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                },
+                {
+                    "caption": "BUY",
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "uri": "https://itunes.apple.com/gb/album/never-knew-lonely/1443172744?i=1443173035&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "buy",
+                        "providername": "itunes"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "type": "buy",
+                    "listcaption": "Buy on iTunes",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "itunes"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:Never%20Knew%20Lonely%20Vince%20Gill"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27Never+Knew+Lonely%27%20artist%3A%27Vince+Gill%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": false,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [
+                    {
+                        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/60/4c/f5/604cf541-d910-4110-0f64-0a86beda613e/pr_source.png/800x800cc.jpg",
+                        "caption": "Vince Gill"
+                    },
+                    {
+                        "image": "https://is5-ssl.mzstatic.com/image/thumb/Music124/v4/a6/b4/43/a6b443e8-4b1f-ca11-ded9-b8a8b6f2d487/00602547742452.rgb.jpg/400x400cc.jpg",
+                        "caption": "Never Knew Lonely"
+                    }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                    {
+                        "title": "Album",
+                        "text": "When I Call Your Name"
+                    },
+                    {
+                        "title": "Label",
+                        "text": "MCA Nashville"
+                    },
+                    {
+                        "title": "Released",
+                        "text": "1989"
+                    }
+                ]
+            },
+            {
+                "type": "LYRICS",
+                "text": [
+                    "No other lover ever really cared",
+                    "When I've reached out for you, you've always been there",
+                    "Now I'm so far away and, baby, I'm scared",
+                    "I never knew lonely 'til you",
+                    "",
+                    "You are my rock and the strength I need",
+                    "To keep me sane in this life that I lead",
+                    "Now I'm not with you and my broken heart bleeds",
+                    "I never knew lonely 'til you",
+                    "",
+                    "I never knew lonely could be so blue",
+                    "I never knew lonely could tear you in two",
+                    "I never loved someone like I love you",
+                    "I never knew lonely 'til you",
+                    "",
+                    "I can't make up for the times I've been gone",
+                    "But I'll prove I love you in the words of this song",
+                    "And back in your arms, girl, it's where I belong",
+                    "I never knew lonely 'til you",
+                    "",
+                    "I never knew lonely could be so blue",
+                    "I never knew lonely could tear you in two",
+                    "I never loved someone like I love you",
+                    "Girl, I never knew lonely 'til you",
+                    "",
+                    "I never knew lonely could be so blue",
+                    "I never knew lonely could tear you in two",
+                    "I never loved someone like I love you",
+                    "Girl, I never knew lonely 'til you"
+                ],
+                "url": "https://cdn.shazam.com/lyrics/v1/en-US/GB/iphone/musixmatch/subtitles/951477/225/1?token=42fc18e2b54a011b0722c670b7e16c90",
+                "footer": "Writer(s): Vincent Gill\nLyrics powered by www.musixmatch.com",
+                "tabname": "Lyrics",
+                "beacondata": {
+                    "lyricsid": "25503747",
+                    "providername": "musixmatch",
+                    "commontrackid": "951477"
+                }
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/2953824/youtube/video?q=Vince+Gill+%22Never+Knew+Lonely%22"
+            },
+            {
+                "type": "RELATED",
+                "url": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-2953824?startFrom=0&pageSize=20&connected=",
+                "tabname": "Related"
+            }
+        ],
+        "url": "https://www.shazam.com/track/2953824/never-knew-lonely",
+        "artists": [
+            {
+                "id": "42",
+                "adamid": "27175"
+            }
+        ],
+        "isrc": "USMC18929967",
+        "genres": {
+            "primary": "Country"
+        },
+        "urlparams": {
+            "{tracktitle}": "Never+Knew+Lonely",
+            "{trackartist}": "Vince+Gill"
+        },
+        "myshazam": {
+            "apple": {
+                "actions": [
+                    {
+                        "name": "myshazam:apple",
+                        "type": "uri",
+                        "uri": "https://music.apple.com/gb/album/never-knew-lonely/1443172744?i=1443173035&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                ]
+            }
+        },
+        "highlightsurls": {
+            "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/27175/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+        },
+        "relatedtracksurl": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-2953824?startFrom=0&pageSize=20&connected=",
+        "albumadamid": "1443172744"
+    },
+    "tagid": "648D24B3-49D8-4078-B6BC-0590FA4B9E1C"
+}

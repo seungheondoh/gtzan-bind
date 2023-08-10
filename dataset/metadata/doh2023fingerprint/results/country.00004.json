@@ -1,0 +1,267 @@
+{
+    "matches": [
+        {
+            "id": "211239987",
+            "offset": 61.732171875,
+            "timeskew": 0.020190716,
+            "frequencyskew": 0.019894958
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691633480366,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "5327595",
+        "title": "Outbound Plane",
+        "subtitle": "Suzy Bogguss",
+        "images": {
+            "background": "https://is2-ssl.mzstatic.com/image/thumb/Features125/v4/6e/10/29/6e1029af-a1c8-e8b3-0664-cb7de6a0dd7a/pr_source.png/800x800cc.jpg",
+            "coverart": "https://is2-ssl.mzstatic.com/image/thumb/Music/v4/17/26/65/1726657f-1d81-8c82-b538-cb276a2c55cf/00077779584758.jpg/400x400cc.jpg",
+            "coverarthq": "https://is2-ssl.mzstatic.com/image/thumb/Music/v4/17/26/65/1726657f-1d81-8c82-b538-cb276a2c55cf/00077779584758.jpg/400x400cc.jpg",
+            "joecolor": "b:7c5b48p:fffeffs:f9bf80t:e4dddaq:e0ab75"
+        },
+        "share": {
+            "subject": "Outbound Plane - Suzy Bogguss",
+            "text": "Outbound Plane by Suzy Bogguss",
+            "href": "https://www.shazam.com/track/5327595/outbound-plane",
+            "image": "https://is2-ssl.mzstatic.com/image/thumb/Music/v4/17/26/65/1726657f-1d81-8c82-b538-cb276a2c55cf/00077779584758.jpg/400x400cc.jpg",
+            "twitter": "I used @Shazam to discover Outbound Plane by Suzy Bogguss.",
+            "html": "https://www.shazam.com/snippets/email-share/5327595?lang=en-US&country=GB",
+            "avatar": "https://is2-ssl.mzstatic.com/image/thumb/Features125/v4/6e/10/29/6e1029af-a1c8-e8b3-0664-cb7de6a0dd7a/pr_source.png/800x800cc.jpg",
+            "snapchat": "https://www.shazam.com/partner/sc/track/5327595"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "actions": [
+                {
+                    "name": "apple",
+                    "type": "applemusicplay",
+                    "id": "723615799"
+                },
+                {
+                    "name": "apple",
+                    "type": "uri",
+                    "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/15/27/74/152774d1-f862-5088-0abe-28eaa08096a1/mzaf_17903864596010437509.plus.aac.ep.m4a"
+                }
+            ],
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/gb/album/outbound-plane/723615400?i=723615799&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/gb/album/outbound-plane/723615400?i=723615799&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                },
+                {
+                    "caption": "BUY",
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "uri": "https://itunes.apple.com/gb/album/outbound-plane/723615400?i=723615799&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "buy",
+                        "providername": "itunes"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "type": "buy",
+                    "listcaption": "Buy on iTunes",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "itunes"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:Outbound%20Plane%20Suzy%20Bogguss"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27Outbound+Plane%27%20artist%3A%27Suzy+Bogguss%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": false,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [
+                    {
+                        "image": "https://is2-ssl.mzstatic.com/image/thumb/Features125/v4/6e/10/29/6e1029af-a1c8-e8b3-0664-cb7de6a0dd7a/pr_source.png/800x800cc.jpg",
+                        "caption": "Suzy Bogguss"
+                    },
+                    {
+                        "image": "https://is2-ssl.mzstatic.com/image/thumb/Music/v4/17/26/65/1726657f-1d81-8c82-b538-cb276a2c55cf/00077779584758.jpg/400x400cc.jpg",
+                        "caption": "Outbound Plane"
+                    }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                    {
+                        "title": "Album",
+                        "text": "Aces"
+                    },
+                    {
+                        "title": "Label",
+                        "text": "Capitol Nashville"
+                    },
+                    {
+                        "title": "Released",
+                        "text": "1991"
+                    }
+                ]
+            },
+            {
+                "type": "LYRICS",
+                "text": [
+                    "I don't want to be standing here",
+                    "With this ticket for this outbound plane",
+                    "'Cause I've been here before",
+                    "And somehow it doesn't feel the same",
+                    "Talk is cheap, so we could talk all night long",
+                    "We may never figure out just where our love went wrong.",
+                    "",
+                    "AndI don't wanna be standin' here",
+                    "And I don't wanna be talkin' here",
+                    "And I don't really care who's to blame",
+                    "'Cause if love won't fly on its own free will",
+                    "It's gonna catch that outbound plane.",
+                    "",
+                    "The old folks say loves not forever anymore",
+                    "Because these young people walk away",
+                    "From love alone, to pace the floor",
+                    "Young or old I say that love is still the same",
+                    "And you may walk away from love",
+                    "But you'll fall head and heel again.",
+                    "",
+                    "AndI don't wanna be standin' here",
+                    "And I don't wanna be talkin' here",
+                    "And I don't really care who's to blame",
+                    "'Cause if love won't fly on its own free will",
+                    "It's gonna catch that outbound plane.",
+                    "",
+                    "Two lonely hearts in this aiport knowing",
+                    "Neither cares where that other heart is going",
+                    "But if love won't fly on its own free will",
+                    "It's gonna catch that outbound plane.",
+                    "",
+                    "That crown you're wearin'",
+                    "Is just your halo turned upside down",
+                    "Where is the laughter we once shared",
+                    "Back in the lost and found",
+                    "These broken wings are gonna leave me here",
+                    "To stand my ground",
+                    "You can have this ticket",
+                    "For that lonely plane thats flyin' out.",
+                    "",
+                    "I don't wanna be standin' here",
+                    "And I don't wanna be talkin' here",
+                    "And I don't really care who's to blame",
+                    "'Cause if love won't fly on its own free will",
+                    "It's gonna catch that outbound plane.",
+                    "",
+                    "If love won't fly on its own free will",
+                    "It's gonna catch that outbound plane..."
+                ],
+                "url": "https://cdn.shazam.com/lyrics/v1/en-US/GB/iphone/musixmatch/subtitles/1855652/174/1?token=b7240dd62ef2d9b67dc0b8013d3a16fc",
+                "footer": "Writer(s): Nanci Griffith, Tom Russell\nLyrics powered by www.musixmatch.com",
+                "tabname": "Lyrics",
+                "beacondata": {
+                    "lyricsid": "1805924",
+                    "providername": "musixmatch",
+                    "commontrackid": "1855652"
+                }
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/5327595/youtube/video?q=Suzy+Bogguss+%22Outbound+Plane%22"
+            },
+            {
+                "type": "RELATED",
+                "url": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-5327595?startFrom=0&pageSize=20&connected=",
+                "tabname": "Related"
+            }
+        ],
+        "url": "https://www.shazam.com/track/5327595/outbound-plane",
+        "artists": [
+            {
+                "id": "42",
+                "adamid": "3603463"
+            }
+        ],
+        "isrc": "USCN19100114",
+        "genres": {
+            "primary": "Country"
+        },
+        "urlparams": {
+            "{tracktitle}": "Outbound+Plane",
+            "{trackartist}": "Suzy+Bogguss"
+        },
+        "myshazam": {
+            "apple": {
+                "actions": [
+                    {
+                        "name": "myshazam:apple",
+                        "type": "uri",
+                        "uri": "https://music.apple.com/gb/album/outbound-plane/723615400?i=723615799&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                ]
+            }
+        },
+        "highlightsurls": {
+            "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/3603463/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+        },
+        "relatedtracksurl": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-5327595?startFrom=0&pageSize=20&connected=",
+        "albumadamid": "723615400"
+    },
+    "tagid": "854C972E-8EE7-47A5-9035-5FA51A1B4272"
+}

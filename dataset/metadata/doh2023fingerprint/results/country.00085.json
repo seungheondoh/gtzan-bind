@@ -1,0 +1,251 @@
+{
+    "matches": [
+        {
+            "id": "295199009",
+            "offset": 29.645503906000002,
+            "timeskew": -3.2365322e-05,
+            "frequencyskew": -0.00016111135
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691633453254,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "483857",
+        "title": "He Didn't Have to Be",
+        "subtitle": "Brad Paisley",
+        "images": {
+            "background": "https://is2-ssl.mzstatic.com/image/thumb/Features125/v4/6f/0c/49/6f0c4983-dfe2-7907-16d8-2e7aaf9fea97/mzl.buakmgap.jpg/800x800cc.jpg",
+            "coverart": "https://is4-ssl.mzstatic.com/image/thumb/Music124/v4/49/b7/8b/49b78b63-52d3-ec7a-e85a-18338c1acf50/888880341167.jpg/400x400cc.jpg",
+            "coverarthq": "https://is4-ssl.mzstatic.com/image/thumb/Music124/v4/49/b7/8b/49b78b63-52d3-ec7a-e85a-18338c1acf50/888880341167.jpg/400x400cc.jpg",
+            "joecolor": "b:231f20p:c5e8fcs:abdcf9t:a4c0d0q:90b6cd"
+        },
+        "share": {
+            "subject": "He Didn't Have to Be - Brad Paisley",
+            "text": "He Didn't Have to Be by Brad Paisley",
+            "href": "https://www.shazam.com/track/483857/he-didnt-have-to-be",
+            "image": "https://is4-ssl.mzstatic.com/image/thumb/Music124/v4/49/b7/8b/49b78b63-52d3-ec7a-e85a-18338c1acf50/888880341167.jpg/400x400cc.jpg",
+            "twitter": "I used @Shazam to discover He Didn't Have to Be by Brad Paisley.",
+            "html": "https://www.shazam.com/snippets/email-share/483857?lang=en-US&country=GB",
+            "avatar": "https://is2-ssl.mzstatic.com/image/thumb/Features125/v4/6f/0c/49/6f0c4983-dfe2-7907-16d8-2e7aaf9fea97/mzl.buakmgap.jpg/800x800cc.jpg",
+            "snapchat": "https://www.shazam.com/partner/sc/track/483857"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "actions": [
+                {
+                    "name": "apple",
+                    "type": "applemusicplay",
+                    "id": "286726820"
+                },
+                {
+                    "name": "apple",
+                    "type": "uri",
+                    "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/ba/91/bd/ba91bd83-382e-7f11-c8f5-1e9600c33463/mzaf_6653462425014098472.plus.aac.ep.m4a"
+                }
+            ],
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/gb/album/he-didnt-have-to-be/286726740?i=286726820&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/gb/album/he-didnt-have-to-be/286726740?i=286726820&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                },
+                {
+                    "caption": "BUY",
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "uri": "https://itunes.apple.com/gb/album/he-didnt-have-to-be/286726740?i=286726820&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "buy",
+                        "providername": "itunes"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "type": "buy",
+                    "listcaption": "Buy on iTunes",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "itunes"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:He%20Didn%27t%20Have%20to%20Be%20Brad%20Paisley"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27He+Didn%5C%27t+Have+to+Be%27%20artist%3A%27Brad+Paisley%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": false,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [
+                    {
+                        "image": "https://is2-ssl.mzstatic.com/image/thumb/Features125/v4/6f/0c/49/6f0c4983-dfe2-7907-16d8-2e7aaf9fea97/mzl.buakmgap.jpg/800x800cc.jpg",
+                        "caption": "Brad Paisley"
+                    },
+                    {
+                        "image": "https://is4-ssl.mzstatic.com/image/thumb/Music124/v4/49/b7/8b/49b78b63-52d3-ec7a-e85a-18338c1acf50/888880341167.jpg/400x400cc.jpg",
+                        "caption": "He Didn't Have to Be"
+                    }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                    {
+                        "title": "Album",
+                        "text": "Who Needs Pictures"
+                    },
+                    {
+                        "title": "Label",
+                        "text": "Arista Nashville"
+                    },
+                    {
+                        "title": "Released",
+                        "text": "1999"
+                    }
+                ]
+            },
+            {
+                "type": "LYRICS",
+                "text": [
+                    "When a single mom goes out on a date with somebody new",
+                    "It always winds up feeling more like a job interview",
+                    "My momma used to wonder if she'd ever meet someone",
+                    "Who wouldn't find out about me and then turn around and run",
+                    "",
+                    "I met the man I call my dad when I was five years old",
+                    "He took my mom out to a movie and for once I got to go",
+                    "A few months later, I remember lying there in bed",
+                    "I overheard him pop the question and I prayed that she'd say yes",
+                    "",
+                    "And then, all of a sudden, oh it seemed so strange to me",
+                    "How we went from something's missing to a family",
+                    "Looking back, all I can say about all the things he did for me",
+                    "Is, I hope I'm at least half the dad that he didn't have to be",
+                    "",
+                    "I met the girl that's now my wife about three years ago",
+                    "We had the perfect marriage, but we wanted something more",
+                    "Now here I stand surrounded by our family and friends",
+                    "Crowded 'round the nursery window as they bring the baby in",
+                    "",
+                    "And now, all of a sudden, oh it seems so strange to me",
+                    "How we've gone from something's missing to a family",
+                    "Looking through the glass, I think about the man that's standing next to me",
+                    "And I hope I'm at least half the dad that he didn't have to be",
+                    "",
+                    "And looking back, all I can say about all the things he did for me",
+                    "Is, I hope I'm at least half the dad that he didn't have to be",
+                    "Yeah, I hope I'm at least half the dad that he didn't have to be",
+                    "",
+                    "Because he didn't have to be",
+                    "You know he didn't have to be"
+                ],
+                "url": "https://cdn.shazam.com/lyrics/v1/en-US/GB/iphone/musixmatch/subtitles/1272027/282/1?token=ea5e45714ecda7c2d84a00df497fa276",
+                "footer": "Writer(s): Brad Paisley, Kelley Lovelace, John Lovelace\nLyrics powered by www.musixmatch.com",
+                "tabname": "Lyrics",
+                "beacondata": {
+                    "lyricsid": "29331678",
+                    "providername": "musixmatch",
+                    "commontrackid": "1272027"
+                }
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/483857/youtube/video?q=Brad+Paisley+%22He+Didn't+Have+to+Be%22"
+            },
+            {
+                "type": "RELATED",
+                "url": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-483857?startFrom=0&pageSize=20&connected=",
+                "tabname": "Related"
+            }
+        ],
+        "url": "https://www.shazam.com/track/483857/he-didnt-have-to-be",
+        "artists": [
+            {
+                "id": "42",
+                "adamid": "203739"
+            }
+        ],
+        "isrc": "USAN29800146",
+        "genres": {
+            "primary": "Country"
+        },
+        "urlparams": {
+            "{tracktitle}": "He+Didn%27t+Have+to+Be",
+            "{trackartist}": "Brad+Paisley"
+        },
+        "myshazam": {
+            "apple": {
+                "actions": [
+                    {
+                        "name": "myshazam:apple",
+                        "type": "uri",
+                        "uri": "https://music.apple.com/gb/album/he-didnt-have-to-be/286726740?i=286726820&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                ]
+            }
+        },
+        "highlightsurls": {
+            "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/203739/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios&videoIdToFilter=295998169",
+            "trackhighlighturl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/highlights/295998169?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+        },
+        "relatedtracksurl": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-483857?startFrom=0&pageSize=20&connected=",
+        "albumadamid": "286726740"
+    },
+    "tagid": "92CF1599-AD49-4B9D-8103-A26A1F24C5D9"
+}

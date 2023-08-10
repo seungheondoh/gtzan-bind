@@ -1,0 +1,195 @@
+{
+    "matches": [
+        {
+            "id": "203797535",
+            "offset": 30.003894531,
+            "timeskew": -5.0842762e-05,
+            "frequencyskew": 0.0
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691633048209,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "47082558",
+        "title": "Symphony No. 35 in B-Flat Major: III. Minuet and Trio",
+        "subtitle": "Nicholas Ward & Northern Chamber Orchestra",
+        "images": {
+            "background": "https://is5-ssl.mzstatic.com/image/thumb/Music/y2004/m11/d15/h17/s05.nbeuhlfz.jpg/400x400cc.jpg",
+            "coverart": "https://is5-ssl.mzstatic.com/image/thumb/Music/y2004/m11/d15/h17/s05.nbeuhlfz.jpg/400x400cc.jpg",
+            "coverarthq": "https://is5-ssl.mzstatic.com/image/thumb/Music/y2004/m11/d15/h17/s05.nbeuhlfz.jpg/400x400cc.jpg",
+            "joecolor": "b:ffffffp:180200s:4e1b0ft:463533q:72483f"
+        },
+        "share": {
+            "subject": "Symphony No. 35 in B-Flat Major: III. Minuet and Trio - Nicholas Ward & Northern Chamber Orchestra",
+            "text": "Symphony No. 35 in B-Flat Major: III. Minuet and Trio by Nicholas Ward & Northern Chamber Orchestra",
+            "href": "https://www.shazam.com/track/47082558/symphony-no-35-in-b-flat-major-iii-minuet-and-trio",
+            "image": "https://is5-ssl.mzstatic.com/image/thumb/Music/y2004/m11/d15/h17/s05.nbeuhlfz.jpg/400x400cc.jpg",
+            "twitter": "I used @Shazam to discover Symphony No. 35 in B-Flat Major: III. Minuet and Trio by Nicholas Ward & Northern Chamber Orchestra.",
+            "html": "https://www.shazam.com/snippets/email-share/47082558?lang=en-US&country=GB",
+            "snapchat": "https://www.shazam.com/partner/sc/track/47082558"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "actions": [
+                {
+                    "name": "apple",
+                    "type": "applemusicplay",
+                    "id": "30099068"
+                },
+                {
+                    "name": "apple",
+                    "type": "uri",
+                    "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/Music/40/f7/e5/mzm.fijzifju.aac.ep.m4a"
+                }
+            ],
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/gb/album/symphony-no-35-in-b-flat-major-iii-minuet-and-trio/30099173?i=30099068&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/gb/album/symphony-no-35-in-b-flat-major-iii-minuet-and-trio/30099173?i=30099068&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                },
+                {
+                    "caption": "BUY",
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "uri": "https://itunes.apple.com/gb/album/symphony-no-35-in-b-flat-major-iii-minuet-and-trio/30099173?i=30099068&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "buy",
+                        "providername": "itunes"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "type": "buy",
+                    "listcaption": "Buy on iTunes",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "itunes"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:Symphony%20No.%2035%20in%20B-Flat%20Major%3A%20III.%20Minuet%20and%20Trio%20Nicholas%20Ward"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27Symphony+No.+35+in+B-Flat+Major%3A+III.+Minuet+and+Trio%27%20artist%3A%27Nicholas+Ward++Northern+Chamber+Orchestra%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": false,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [
+                    {
+                        "image": "https://is5-ssl.mzstatic.com/image/thumb/Music/y2004/m11/d15/h17/s05.nbeuhlfz.jpg/400x400cc.jpg",
+                        "caption": "Symphony No. 35 in B-Flat Major: III. Minuet and Trio"
+                    }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                    {
+                        "title": "Album",
+                        "text": "Symphonies Nos. 26, 35 & 49"
+                    },
+                    {
+                        "title": "Label",
+                        "text": "Naxos"
+                    },
+                    {
+                        "title": "Released",
+                        "text": "1993"
+                    }
+                ]
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/47082558/youtube/video?q=Nicholas+Ward+%26+Northern+Chamber+Orchestra+%22Symphony+No.+35+in+B-Flat+Major:+III.+Minuet+and+Trio%22"
+            }
+        ],
+        "url": "https://www.shazam.com/track/47082558/symphony-no-35-in-b-flat-major-iii-minuet-and-trio",
+        "artists": [
+            {
+                "id": "42",
+                "adamid": "5215029"
+            }
+        ],
+        "isrc": "USLEC0408195",
+        "genres": {
+            "primary": "Classical"
+        },
+        "urlparams": {
+            "{tracktitle}": "Symphony+No.+35+in+B-Flat+Major%3A+III.+Minuet+and+Trio",
+            "{trackartist}": "Nicholas+Ward+%26+Northern+Chamber+Orchestra"
+        },
+        "myshazam": {
+            "apple": {
+                "actions": [
+                    {
+                        "name": "myshazam:apple",
+                        "type": "uri",
+                        "uri": "https://music.apple.com/gb/album/symphony-no-35-in-b-flat-major-iii-minuet-and-trio/30099173?i=30099068&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                ]
+            }
+        },
+        "highlightsurls": {
+            "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/5215029/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+        },
+        "albumadamid": "30099173"
+    },
+    "tagid": "84FD77A9-230D-495D-9EED-F76B171E5E48"
+}

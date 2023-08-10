@@ -1,0 +1,270 @@
+{
+    "matches": [
+        {
+            "id": "226863163",
+            "offset": 29.79443164,
+            "timeskew": -0.00030624866,
+            "frequencyskew": -0.000523448
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691633617355,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "10309066",
+        "title": "Shoot You Down",
+        "subtitle": "The Stone Roses",
+        "images": {
+            "background": "https://is5-ssl.mzstatic.com/image/thumb/Features115/v4/93/38/10/93381084-ef07-4f04-16e0-3f5120d3d850/mza_7360562026449807387.png/800x800cc.jpg",
+            "coverart": "https://is2-ssl.mzstatic.com/image/thumb/Music124/v4/dd/c6/5f/ddc65f19-f7fe-c708-74c8-6ac2bfe16f3b/mzi.czfvtuoi.jpg/400x400cc.jpg",
+            "coverarthq": "https://is2-ssl.mzstatic.com/image/thumb/Music124/v4/dd/c6/5f/ddc65f19-f7fe-c708-74c8-6ac2bfe16f3b/mzi.czfvtuoi.jpg/400x400cc.jpg",
+            "joecolor": "b:2a1912p:fffff4s:dabc80t:d4d0c6q:b79b6a"
+        },
+        "share": {
+            "subject": "Shoot You Down - The Stone Roses",
+            "text": "Shoot You Down by The Stone Roses",
+            "href": "https://www.shazam.com/track/10309066/shoot-you-down",
+            "image": "https://is2-ssl.mzstatic.com/image/thumb/Music124/v4/dd/c6/5f/ddc65f19-f7fe-c708-74c8-6ac2bfe16f3b/mzi.czfvtuoi.jpg/400x400cc.jpg",
+            "twitter": "I used @Shazam to discover Shoot You Down by The Stone Roses.",
+            "html": "https://www.shazam.com/snippets/email-share/10309066?lang=en-US&country=GB",
+            "avatar": "https://is5-ssl.mzstatic.com/image/thumb/Features115/v4/93/38/10/93381084-ef07-4f04-16e0-3f5120d3d850/mza_7360562026449807387.png/800x800cc.jpg",
+            "snapchat": "https://www.shazam.com/partner/sc/track/10309066"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "actions": [
+                {
+                    "name": "apple",
+                    "type": "applemusicplay",
+                    "id": "325540036"
+                },
+                {
+                    "name": "apple",
+                    "type": "uri",
+                    "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/1a/e6/f3/1ae6f37c-c6aa-f831-6a89-9a8fb8acc111/mzaf_12649431109985011377.plus.aac.ep.m4a"
+                }
+            ],
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/gb/album/shoot-you-down/325539526?i=325540036&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/gb/album/shoot-you-down/325539526?i=325540036&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                },
+                {
+                    "caption": "BUY",
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "uri": "https://itunes.apple.com/gb/album/shoot-you-down/325539526?i=325540036&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "buy",
+                        "providername": "itunes"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "type": "buy",
+                    "listcaption": "Buy on iTunes",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "itunes"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:Shoot%20You%20Down%20The%20Stone%20Roses"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27Shoot+You+Down%27%20artist%3A%27The+Stone+Roses%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": false,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [
+                    {
+                        "image": "https://is5-ssl.mzstatic.com/image/thumb/Features115/v4/93/38/10/93381084-ef07-4f04-16e0-3f5120d3d850/mza_7360562026449807387.png/800x800cc.jpg",
+                        "caption": "The Stone Roses"
+                    },
+                    {
+                        "image": "https://is2-ssl.mzstatic.com/image/thumb/Music124/v4/dd/c6/5f/ddc65f19-f7fe-c708-74c8-6ac2bfe16f3b/mzi.czfvtuoi.jpg/400x400cc.jpg",
+                        "caption": "Shoot You Down"
+                    }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                    {
+                        "title": "Album",
+                        "text": "The Stone Roses (20th Anniversary Collector's Edition)"
+                    },
+                    {
+                        "title": "Label",
+                        "text": "Silvertone"
+                    },
+                    {
+                        "title": "Released",
+                        "text": "1989"
+                    }
+                ]
+            },
+            {
+                "type": "LYRICS",
+                "text": [
+                    "You know it",
+                    "You show it",
+                    "And the time has come",
+                    "To shoot you down",
+                    "What a sound",
+                    "When the day is done",
+                    "And it all works out",
+                    "",
+                    "I'd love to do it and you know",
+                    "You've always had it coming",
+                    "",
+                    "You know it",
+                    "You show it",
+                    "And the time has come",
+                    "To shoot you down",
+                    "What a sound",
+                    "When the day is done",
+                    "And it all works out",
+                    "",
+                    "I'd love to do it and you know",
+                    "You've always had it coming",
+                    "",
+                    "I never wanted",
+                    "The love that you showed me",
+                    "It started to choke me",
+                    "And how I wish I'd said no",
+                    "Too slow",
+                    "I couldn't take that",
+                    "Too fast",
+                    "I want you to know",
+                    "",
+                    "You know it",
+                    "You show it",
+                    "But I can't back down",
+                    "It's far too late",
+                    "I can't wait",
+                    "Now the time has come",
+                    "It'll all work out",
+                    "And when this thing is done",
+                    "It'll leave no doubt",
+                    "So when you've had your fun",
+                    "Will you all walk out?",
+                    "",
+                    "I'd love to do it and you know",
+                    "You've always had it coming",
+                    "",
+                    "I'd love to do it and you know",
+                    "You've always had it coming",
+                    "",
+                    "I'd love to do it and you know",
+                    "You've always had it coming"
+                ],
+                "url": "https://cdn.shazam.com/lyrics/v1/en-US/GB/iphone/musixmatch/subtitles/6316/250/1?token=2e25e12819feb9553bcbab2bdd5af393",
+                "footer": "Writer(s): Ian George Brown, John Squire\nLyrics powered by www.musixmatch.com",
+                "tabname": "Lyrics",
+                "beacondata": {
+                    "lyricsid": "28249087",
+                    "providername": "musixmatch",
+                    "commontrackid": "6316"
+                }
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/10309066/youtube/video?q=The+Stone+Roses+%22Shoot+You+Down%22"
+            },
+            {
+                "type": "RELATED",
+                "url": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-10309066?startFrom=0&pageSize=20&connected=",
+                "tabname": "Related"
+            }
+        ],
+        "url": "https://www.shazam.com/track/10309066/shoot-you-down",
+        "artists": [
+            {
+                "id": "42",
+                "adamid": "158384403"
+            }
+        ],
+        "isrc": "GBAHJ0900009",
+        "genres": {
+            "primary": "Alternative"
+        },
+        "urlparams": {
+            "{tracktitle}": "Shoot+You+Down",
+            "{trackartist}": "The+Stone+Roses"
+        },
+        "myshazam": {
+            "apple": {
+                "actions": [
+                    {
+                        "name": "myshazam:apple",
+                        "type": "uri",
+                        "uri": "https://music.apple.com/gb/album/shoot-you-down/325539526?i=325540036&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                ]
+            }
+        },
+        "highlightsurls": {
+            "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/158384403/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+        },
+        "relatedtracksurl": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-10309066?startFrom=0&pageSize=20&connected=",
+        "albumadamid": "325539526"
+    },
+    "tagid": "79C0B22C-A008-42E4-8E90-F01BBC379791"
+}

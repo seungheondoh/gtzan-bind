@@ -1,0 +1,305 @@
+{
+    "matches": [
+        {
+            "id": "211222113",
+            "offset": 30.026828125,
+            "timeskew": 4.386902e-05,
+            "frequencyskew": 0.0
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691632991051,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "236457",
+        "title": "Sure Shot",
+        "subtitle": "Beastie Boys",
+        "images": {
+            "background": "https://is5-ssl.mzstatic.com/image/thumb/Features115/v4/16/2c/76/162c767d-b00a-5664-1548-df303ae12729/mza_8084110850478364065.png/800x800cc.jpg",
+            "coverart": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/5a/6c/ab/5a6cabf6-3e47-a0f0-5092-bc18623291ed/00724382859956.rgb.jpg/400x400cc.jpg",
+            "coverarthq": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/5a/6c/ab/5a6cabf6-3e47-a0f0-5092-bc18623291ed/00724382859956.rgb.jpg/400x400cc.jpg",
+            "joecolor": "b:c1c0bbp:040104s:292524t:292729q:474442"
+        },
+        "share": {
+            "subject": "Sure Shot - Beastie Boys",
+            "text": "Sure Shot by Beastie Boys",
+            "href": "https://www.shazam.com/track/236457/sure-shot",
+            "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/5a/6c/ab/5a6cabf6-3e47-a0f0-5092-bc18623291ed/00724382859956.rgb.jpg/400x400cc.jpg",
+            "twitter": "I used @Shazam to discover Sure Shot by Beastie Boys.",
+            "html": "https://www.shazam.com/snippets/email-share/236457?lang=en-US&country=GB",
+            "avatar": "https://is5-ssl.mzstatic.com/image/thumb/Features115/v4/16/2c/76/162c767d-b00a-5664-1548-df303ae12729/mza_8084110850478364065.png/800x800cc.jpg",
+            "snapchat": "https://www.shazam.com/partner/sc/track/236457"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "actions": [
+                {
+                    "name": "apple",
+                    "type": "applemusicplay",
+                    "id": "724771816"
+                },
+                {
+                    "name": "apple",
+                    "type": "uri",
+                    "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/51/45/85/51458516-d553-2310-4a9c-216cfbca04be/mzaf_1430814294142053672.plus.aac.ep.m4a"
+                }
+            ],
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/gb/album/sure-shot/724771323?i=724771816&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/gb/album/sure-shot/724771323?i=724771816&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                },
+                {
+                    "caption": "BUY",
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "uri": "https://itunes.apple.com/gb/album/sure-shot/724771323?i=724771816&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "buy",
+                        "providername": "itunes"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "type": "buy",
+                    "listcaption": "Buy on iTunes",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "itunes"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:Sure%20Shot%20Beastie%20Boys"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27Sure+Shot%27%20artist%3A%27Beastie+Boys%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": true,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [
+                    {
+                        "image": "https://is5-ssl.mzstatic.com/image/thumb/Features115/v4/16/2c/76/162c767d-b00a-5664-1548-df303ae12729/mza_8084110850478364065.png/800x800cc.jpg",
+                        "caption": "Beastie Boys"
+                    },
+                    {
+                        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/5a/6c/ab/5a6cabf6-3e47-a0f0-5092-bc18623291ed/00724382859956.rgb.jpg/400x400cc.jpg",
+                        "caption": "Sure Shot"
+                    }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                    {
+                        "title": "Album",
+                        "text": "Ill Communication"
+                    },
+                    {
+                        "title": "Label",
+                        "text": "Capitol Records"
+                    },
+                    {
+                        "title": "Released",
+                        "text": "1994"
+                    }
+                ]
+            },
+            {
+                "type": "LYRICS",
+                "text": [
+                    "'Cause you can't, you won't, and you don't stop",
+                    "Oh, 'cause you can't, you won't, and you don't stop",
+                    "Oh, when you can't, you won't, and you don't stop",
+                    "(Mike D, come and rock the sure shot)",
+                    "",
+                    "I've got the brand-new doo-doo, guaranteed like yoo-hoo",
+                    "I'm on like Dr. John, yeah, Mr. Zuzu",
+                    "I'm a newlywed, I'm not a divorcee (yeah)",
+                    "And everything I do is funky like Lee Dorsey",
+                    "",
+                    "Well, it's the taking of the Pelham, one, two, three",
+                    "If you want a doo-doo rhyme, then come see me",
+                    "I've got the savoir faire with the unique rhymin'",
+                    "I keep it on and on, it's never quitting time and",
+                    "",
+                    "Strictly handheld is the style I go",
+                    "Never rock the mic with the pantyhose",
+                    "I strap on my ear goggles, and I'm ready to go",
+                    "'Cause at the boards is the man they call Mario",
+                    "",
+                    "Pull up at the function and you know I Kojak",
+                    "To all the party people that are on my Bozak",
+                    "I've got more action than my man, John Woo",
+                    "And I've got mad hits like I was Rod Carew",
+                    "",
+                    "Because you can't, you won't, and you don't stop",
+                    "Because you can't, you won't, and you don't stop",
+                    "You know, you can't, you won't, and you don't stop",
+                    "(Ad-Rock, come and rock the sure shot)",
+                    "",
+                    "Cane will cross-fade on your ass and bust your ear drums",
+                    "Listen, everybody, 'cause I'm shifting gears",
+                    "Fresh like Dougie when I get my specs",
+                    "And on the microphone, I come correct",
+                    "",
+                    "Timing like a clock when I rock the hip-hop",
+                    "Top-notch is my stock on the soapbox",
+                    "I've got more rhymes than I've got gray hairs",
+                    "And that's a lot because I've got my share",
+                    "",
+                    "I've got a hole in my head and there's no one to fix it",
+                    "I gotta straighten my thoughts, I'm thinking too much sick shit",
+                    "Everyone just takes and takes, takes, takes, takes",
+                    "I'll have to step back, I gotta contemplate",
+                    "",
+                    "Well, I'm like Lee Perry, I'm very on",
+                    "Rock the microphone, and then I'm gone",
+                    "I'm like Vaughn Bode, I'm a Cheech Wizard",
+                    "Never quittin', so won't you listen? (Listen, listen, listen)",
+                    "",
+                    "Ah, yes, indeed, it's fun time",
+                    "",
+                    "Because you can't, you won't, and you don't stop",
+                    "Because you can't, you won't, and you don't stop",
+                    "Oh, but you can't, you won't, and you don't stop",
+                    "(MCA, come and rock the sure shot)",
+                    "",
+                    "I want to say a little something that's long overdue",
+                    "The disrespect to women has got to be through",
+                    "To all the mothers and the sisters and the wives and friends",
+                    "I wanna offer my love and respect to the end",
+                    "",
+                    "Well, you say I'm 20-something, and I should be slacking",
+                    "But I'm working harder than ever, and you could call it macking",
+                    "So I'm supposed to sit upon my couch just watching my TV",
+                    "I'm still listening to wax, I'm not using the CD",
+                    "",
+                    "Well, I'm that kid in the corner",
+                    "All fucked up and I wanna, so I'm gonna",
+                    "Take a piece of the pie, why not, I'm not quittin'",
+                    "Think I'm-a change up my style just to fit in",
+                    "",
+                    "I keep my underwear up with a piece of elastic",
+                    "I use a bullshit mic that's made out of plastic",
+                    "To send my rhymes out to all the nations",
+                    "Like Ma Bell, I got the ill communication",
+                    "",
+                    "'Cause you can't, you won't, and you don't stop",
+                    "'Cause you can't, you won't, and you don't stop",
+                    "Well, you can't, you won't, and you don't stop",
+                    "Keep on and rockin' the sure shot",
+                    "",
+                    "B-boys",
+                    "B-girls",
+                    "Ticktock, tick-tick"
+                ],
+                "url": "https://cdn.shazam.com/lyrics/v1/en-US/GB/iphone/musixmatch/subtitles/116216050/200/1?token=2e9b9f5d0c78a0fc49fe194319ac1a89",
+                "footer": "Writer(s): Adam Nathaniel Yauch, Michael Louis Diamond, Mario Caldato, Wendell T Fite, Jeremy Steig, Adam Keefe Horovitz\nLyrics powered by www.musixmatch.com",
+                "tabname": "Lyrics",
+                "beacondata": {
+                    "lyricsid": "31710855",
+                    "providername": "musixmatch",
+                    "commontrackid": "116216050"
+                }
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/236457/youtube/video?q=Beastie+Boys+%22Sure+Shot%22"
+            },
+            {
+                "type": "RELATED",
+                "url": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-236457?startFrom=0&pageSize=20&connected=",
+                "tabname": "Related"
+            }
+        ],
+        "url": "https://www.shazam.com/track/236457/sure-shot",
+        "artists": [
+            {
+                "id": "42",
+                "adamid": "1971863"
+            }
+        ],
+        "isrc": "USCA29400046",
+        "genres": {
+            "primary": "Hip-Hop/Rap"
+        },
+        "urlparams": {
+            "{tracktitle}": "Sure+Shot",
+            "{trackartist}": "Beastie+Boys"
+        },
+        "myshazam": {
+            "apple": {
+                "actions": [
+                    {
+                        "name": "myshazam:apple",
+                        "type": "uri",
+                        "uri": "https://music.apple.com/gb/album/sure-shot/724771323?i=724771816&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                ]
+            }
+        },
+        "highlightsurls": {
+            "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/1971863/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios&videoIdToFilter=719607403",
+            "trackhighlighturl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/highlights/719607403?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+        },
+        "relatedtracksurl": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-236457?startFrom=0&pageSize=20&connected=",
+        "albumadamid": "724771323"
+    },
+    "tagid": "D5DC80E3-FF18-4656-A862-E209B9A7D2BA"
+}

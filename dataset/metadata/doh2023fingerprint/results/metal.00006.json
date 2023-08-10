@@ -1,0 +1,252 @@
+{
+    "matches": [
+        {
+            "id": "375668139",
+            "offset": 29.555476562,
+            "timeskew": -5.286932e-05,
+            "frequencyskew": 0.0
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691633709287,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "45081138",
+        "title": "Theatre of Pain (Remastered 2007)",
+        "subtitle": "Blind Guardian",
+        "images": {
+            "background": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/9d/48/ee/9d48ee3a-9ffb-4a0e-0c2d-22ac4ac20793/pr_source.png/800x800cc.jpg",
+            "coverart": "https://is3-ssl.mzstatic.com/image/thumb/Music125/v4/58/d4/c8/58d4c838-e1fd-5927-e8ac-37d79c5dee55/cover.jpg/400x400cc.jpg",
+            "coverarthq": "https://is3-ssl.mzstatic.com/image/thumb/Music125/v4/58/d4/c8/58d4c838-e1fd-5927-e8ac-37d79c5dee55/cover.jpg/400x400cc.jpg",
+            "joecolor": "b:261e1bp:d5dbdfs:a3acdft:b2b5b8q:8a8fb7"
+        },
+        "share": {
+            "subject": "Theatre of Pain (Remastered 2007) - Blind Guardian",
+            "text": "Theatre of Pain (Remastered 2007) by Blind Guardian",
+            "href": "https://www.shazam.com/track/45081138/theatre-of-pain-remastered-2007",
+            "image": "https://is3-ssl.mzstatic.com/image/thumb/Music125/v4/58/d4/c8/58d4c838-e1fd-5927-e8ac-37d79c5dee55/cover.jpg/400x400cc.jpg",
+            "twitter": "I used @Shazam to discover Theatre of Pain (Remastered 2007) by Blind Guardian.",
+            "html": "https://www.shazam.com/snippets/email-share/45081138?lang=en-US&country=GB",
+            "avatar": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/9d/48/ee/9d48ee3a-9ffb-4a0e-0c2d-22ac4ac20793/pr_source.png/800x800cc.jpg",
+            "snapchat": "https://www.shazam.com/partner/sc/track/45081138"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "actions": [
+                {
+                    "name": "apple",
+                    "type": "applemusicplay",
+                    "id": "1463553028"
+                },
+                {
+                    "name": "apple",
+                    "type": "uri",
+                    "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/51/3a/b9/513ab939-b3ce-9b02-452d-eaaf41c34885/mzaf_11972644638789910198.plus.aac.ep.m4a"
+                }
+            ],
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/gb/album/theatre-of-pain-remastered-2007/1463552446?i=1463553028&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/gb/album/theatre-of-pain-remastered-2007/1463552446?i=1463553028&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                },
+                {
+                    "caption": "BUY",
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "uri": "https://itunes.apple.com/gb/album/theatre-of-pain-remastered-2007/1463552446?i=1463553028&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "buy",
+                        "providername": "itunes"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "type": "buy",
+                    "listcaption": "Buy on iTunes",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "itunes"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:Theatre%20of%20Pain%20%28Remastered%202007%29%20Blind%20Guardian"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27Theatre+of+Pain+%28Remastered+2007%29%27%20artist%3A%27Blind+Guardian%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": false,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [
+                    {
+                        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/9d/48/ee/9d48ee3a-9ffb-4a0e-0c2d-22ac4ac20793/pr_source.png/800x800cc.jpg",
+                        "caption": "Blind Guardian"
+                    },
+                    {
+                        "image": "https://is3-ssl.mzstatic.com/image/thumb/Music125/v4/58/d4/c8/58d4c838-e1fd-5927-e8ac-37d79c5dee55/cover.jpg/400x400cc.jpg",
+                        "caption": "Theatre of Pain (Remastered 2007)"
+                    }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                    {
+                        "title": "Album",
+                        "text": "Somewhere Far Beyond (Remastered 2007)"
+                    },
+                    {
+                        "title": "Label",
+                        "text": "Nuclear Blast"
+                    },
+                    {
+                        "title": "Released",
+                        "text": "1992"
+                    }
+                ]
+            },
+            {
+                "type": "LYRICS",
+                "text": [
+                    "The giant's lost",
+                    "And all around him",
+                    "Destructed for what",
+                    "They all knew what it meant",
+                    "But they couldn't change it",
+                    "Lord they had gone too far",
+                    "Leave them alone",
+                    "",
+                    "It's all gone",
+                    "What is left behind",
+                    "On a desert we called earth",
+                    "When the last whale went away",
+                    "Did they ever see the tears",
+                    "",
+                    "Don't fear your last step",
+                    "From the theatre of pain",
+                    "And the children will love your singing",
+                    "From the sea",
+                    "The sea is calling",
+                    "Now we've to leave it",
+                    "",
+                    "The sea was clear",
+                    "On the day I was stranded",
+                    "Answers I'd known",
+                    "To keep this all alive",
+                    "But I can't change it",
+                    "Forever",
+                    "",
+                    "Now I'm gone",
+                    "And it seems that life has never existed",
+                    "So we left the dark and cold",
+                    "All I left behind are my tears",
+                    "",
+                    "Don't fear your last step",
+                    "From the theatre of pain",
+                    "And the children will love your singing",
+                    "From the sea",
+                    "The sea is calling",
+                    "I hear them calling"
+                ],
+                "url": "https://cdn.shazam.com/lyrics/v1/en-US/GB/iphone/musixmatch/subtitles/75912890/255/1?token=16acab53c0e224cbf75d708b19416289",
+                "footer": "Writer(s): Hans Juergen Kuersch, Andre Olbrich, Matthias Wiesner\nLyrics powered by www.musixmatch.com",
+                "tabname": "Lyrics",
+                "beacondata": {
+                    "lyricsid": "17058854",
+                    "providername": "musixmatch",
+                    "commontrackid": "75912890"
+                }
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/45081138/youtube/video?q=Blind+Guardian+%22Theatre+of+Pain+(Remastered+2007)%22"
+            }
+        ],
+        "url": "https://www.shazam.com/track/45081138/theatre-of-pain-remastered-2007",
+        "artists": [
+            {
+                "id": "42",
+                "adamid": "14549348"
+            }
+        ],
+        "isrc": "DED831700986",
+        "genres": {
+            "primary": "Metal"
+        },
+        "urlparams": {
+            "{tracktitle}": "Theatre+of+Pain+%28Remastered+2007%29",
+            "{trackartist}": "Blind+Guardian"
+        },
+        "myshazam": {
+            "apple": {
+                "actions": [
+                    {
+                        "name": "myshazam:apple",
+                        "type": "uri",
+                        "uri": "https://music.apple.com/gb/album/theatre-of-pain-remastered-2007/1463552446?i=1463553028&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                ]
+            }
+        },
+        "highlightsurls": {
+            "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/14549348/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+        },
+        "albumadamid": "1463552446"
+    },
+    "tagid": "1E8AF243-2CD1-4325-88F3-E76CD6EC937D"
+}

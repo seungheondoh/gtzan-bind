@@ -1,0 +1,206 @@
+{
+    "matches": [
+        {
+            "id": "204518486",
+            "offset": 30.038115234,
+            "timeskew": 7.9751015e-05,
+            "frequencyskew": -8.0525875e-05
+        },
+        {
+            "id": "313622982",
+            "offset": 29.095201171,
+            "timeskew": 4.1127205e-05,
+            "frequencyskew": -0.00024163723
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691633040315,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "101983168",
+        "title": "Quartet In F Major for Strings/III. Tr\u00e8s Lent",
+        "subtitle": "Juilliard String Quartet, Robert Mann, Joel Smirnoff, Samuel Rhodes & Joel Krosnick",
+        "images": {
+            "background": "https://is4-ssl.mzstatic.com/image/thumb/Features112/v4/49/bd/ed/49bded20-9be3-3f13-74c0-99e433948c83/mzl.tyirevlj.jpg/800x800cc.jpg",
+            "coverart": "https://is2-ssl.mzstatic.com/image/thumb/Music115/v4/e9/07/e3/e907e37d-8ad2-7ca8-768f-52366d790010/884977234688.jpg/400x400cc.jpg",
+            "coverarthq": "https://is2-ssl.mzstatic.com/image/thumb/Music115/v4/e9/07/e3/e907e37d-8ad2-7ca8-768f-52366d790010/884977234688.jpg/400x400cc.jpg",
+            "joecolor": "b:0a6c77p:e6f4ebs:c0dbf5t:bad9d3q:9bc5dc"
+        },
+        "share": {
+            "subject": "Quartet In F Major for Strings/III. Tr\u00e8s Lent - Juilliard String Quartet, Robert Mann, Joel Smirnoff, Samuel Rhodes & Joel Krosnick",
+            "text": "Quartet In F Major for Strings/III. Tr\u00e8s Lent by Juilliard String Quartet, Robert Mann, Joel Smirnoff, Samuel Rhodes & Joel Krosnick",
+            "href": "https://www.shazam.com/track/101983168/quartet-in-f-major-for-strings-iii-tr%C3%A8s-lent",
+            "image": "https://is2-ssl.mzstatic.com/image/thumb/Music115/v4/e9/07/e3/e907e37d-8ad2-7ca8-768f-52366d790010/884977234688.jpg/400x400cc.jpg",
+            "twitter": "I used @Shazam to discover Quartet In F Major for Strings/III. Tr\u00e8s Lent by Juilliard String Quartet, Robert Mann, Joel Smirnoff, Samuel Rhodes & Joel Krosnick.",
+            "html": "https://www.shazam.com/snippets/email-share/101983168?lang=en-US&country=GB",
+            "avatar": "https://is4-ssl.mzstatic.com/image/thumb/Features112/v4/49/bd/ed/49bded20-9be3-3f13-74c0-99e433948c83/mzl.tyirevlj.jpg/800x800cc.jpg",
+            "snapchat": "https://www.shazam.com/partner/sc/track/101983168"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "actions": [
+                {
+                    "name": "apple",
+                    "type": "applemusicplay",
+                    "id": "320855244"
+                },
+                {
+                    "name": "apple",
+                    "type": "uri",
+                    "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/Music/09/fd/18/mzm.fqmzwdca.aac.ep.m4a"
+                }
+            ],
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/gb/album/quartet-in-f-major-for-strings-iii-tr%C3%A8s-lent/320855188?i=320855244&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/gb/album/quartet-in-f-major-for-strings-iii-tr%C3%A8s-lent/320855188?i=320855244&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                },
+                {
+                    "caption": "BUY",
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "uri": "https://itunes.apple.com/gb/album/quartet-in-f-major-for-strings-iii-tr%C3%A8s-lent/320855188?i=320855244&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "buy",
+                        "providername": "itunes"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "type": "buy",
+                    "listcaption": "Buy on iTunes",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "itunes"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:Quartet%20In%20F%20Major%20for%20Strings%2FIII.%20Tr%C3%A8s%20Lent%20Juilliard%20String%20Quartet"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27Quartet+In+F+Major+for+Strings%2FIII.+Tr%C3%A8s+Lent%27%20artist%3A%27Juilliard+String+Quartet%2C+Robert+Mann%2C+Joel+Smirnoff%2C+Samuel+Rhodes++Joel+Krosnick%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": false,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [
+                    {
+                        "image": "https://is4-ssl.mzstatic.com/image/thumb/Features112/v4/49/bd/ed/49bded20-9be3-3f13-74c0-99e433948c83/mzl.tyirevlj.jpg/800x800cc.jpg",
+                        "caption": "Juilliard String Quartet"
+                    },
+                    {
+                        "image": "https://is2-ssl.mzstatic.com/image/thumb/Music115/v4/e9/07/e3/e907e37d-8ad2-7ca8-768f-52366d790010/884977234688.jpg/400x400cc.jpg",
+                        "caption": "Quartet In F Major for Strings/III. Tr\u00e8s Lent"
+                    }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                    {
+                        "title": "Album",
+                        "text": "Debussy, Ravel & Dutilleux: String Quartets"
+                    },
+                    {
+                        "title": "Label",
+                        "text": "Sony Classical"
+                    },
+                    {
+                        "title": "Released",
+                        "text": "1993"
+                    }
+                ]
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/101983168/youtube/video?q=Juilliard+String+Quartet,+Robert+Mann,+Joel+Smirnoff,+Samuel+Rhodes+%26+Joel+Krosnick+%22Quartet+In+F+Major+for+Strings/III.+Tr%C3%A8s+Lent%22"
+            }
+        ],
+        "url": "https://www.shazam.com/track/101983168/quartet-in-f-major-for-strings-iii-tr%C3%A8s-lent",
+        "artists": [
+            {
+                "id": "42",
+                "adamid": "15409749"
+            }
+        ],
+        "isrc": "USSM19304244",
+        "genres": {
+            "primary": "Classical"
+        },
+        "urlparams": {
+            "{tracktitle}": "Quartet+In+F+Major+for+Strings%2FIII.+Tr%C3%A8s+Lent",
+            "{trackartist}": "Juilliard+String+Quartet%2C+Robert+Mann%2C+Joel+Smirnoff%2C+Samuel+Rhodes+%26+Joel+Krosnick"
+        },
+        "myshazam": {
+            "apple": {
+                "actions": [
+                    {
+                        "name": "myshazam:apple",
+                        "type": "uri",
+                        "uri": "https://music.apple.com/gb/album/quartet-in-f-major-for-strings-iii-tr%C3%A8s-lent/320855188?i=320855244&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                ]
+            }
+        },
+        "highlightsurls": {
+            "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/15409749/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+        },
+        "albumadamid": "320855188"
+    },
+    "tagid": "8C8890E2-F0B5-4A22-932F-FB4B79678A90"
+}

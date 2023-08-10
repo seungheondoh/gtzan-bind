@@ -1,0 +1,277 @@
+{
+    "matches": [
+        {
+            "id": "284745233",
+            "offset": 30.095052734,
+            "timeskew": -1.1086464e-05,
+            "frequencyskew": 0.0
+        },
+        {
+            "id": "223168487",
+            "offset": 30.069927734,
+            "timeskew": 4.4345856e-05,
+            "frequencyskew": -4.6014786e-05
+        },
+        {
+            "id": "323905283",
+            "offset": 29.948791014999998,
+            "timeskew": -0.001244843,
+            "frequencyskew": -0.0010867715
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691633658464,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "10092575",
+        "title": "Coming Up",
+        "subtitle": "Ani DiFranco",
+        "images": {
+            "background": "https://is3-ssl.mzstatic.com/image/thumb/AMCArtistImages126/v4/ea/e5/d6/eae5d6e9-395e-19e7-42ec-74bf5acffcf8/e9510944-4470-4b62-a6be-b693b43b687f_ami-identity-b13da8df32cd89056faba4f079506fee-2023-01-27T18-28-09.814Z_cropped.png/800x800cc.jpg",
+            "coverart": "https://is2-ssl.mzstatic.com/image/thumb/Music111/v4/59/86/6f/59866f96-2946-3e77-7724-067b2aa20c82/cover.jpg/400x400cc.jpg",
+            "coverarthq": "https://is2-ssl.mzstatic.com/image/thumb/Music111/v4/59/86/6f/59866f96-2946-3e77-7724-067b2aa20c82/cover.jpg/400x400cc.jpg",
+            "joecolor": "b:eee3d1p:0d0e0es:1a1710t:3a3935q:444036"
+        },
+        "share": {
+            "subject": "Coming Up - Ani DiFranco",
+            "text": "Coming Up by Ani DiFranco",
+            "href": "https://www.shazam.com/track/10092575/coming-up",
+            "image": "https://is2-ssl.mzstatic.com/image/thumb/Music111/v4/59/86/6f/59866f96-2946-3e77-7724-067b2aa20c82/cover.jpg/400x400cc.jpg",
+            "twitter": "I used @Shazam to discover Coming Up by Ani DiFranco.",
+            "html": "https://www.shazam.com/snippets/email-share/10092575?lang=en-US&country=GB",
+            "avatar": "https://is3-ssl.mzstatic.com/image/thumb/AMCArtistImages126/v4/ea/e5/d6/eae5d6e9-395e-19e7-42ec-74bf5acffcf8/e9510944-4470-4b62-a6be-b693b43b687f_ami-identity-b13da8df32cd89056faba4f079506fee-2023-01-27T18-28-09.814Z_cropped.png/800x800cc.jpg",
+            "snapchat": "https://www.shazam.com/partner/sc/track/10092575"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "actions": [
+                {
+                    "name": "apple",
+                    "type": "applemusicplay",
+                    "id": "1208777285"
+                },
+                {
+                    "name": "apple",
+                    "type": "uri",
+                    "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/61/1f/90/611f9084-7e8a-11e4-354a-bd27cf87622a/mzaf_16084764907192531140.plus.aac.p.m4a"
+                }
+            ],
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/gb/album/coming-up/1208776377?i=1208777285&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/gb/album/coming-up/1208776377?i=1208777285&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                },
+                {
+                    "caption": "BUY",
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "uri": "https://itunes.apple.com/gb/album/coming-up/1208776377?i=1208777285&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "buy",
+                        "providername": "itunes"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "type": "buy",
+                    "listcaption": "Buy on iTunes",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "itunes"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:Coming%20Up%20Ani%20DiFranco"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27Coming+Up%27%20artist%3A%27Ani+DiFranco%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": false,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [
+                    {
+                        "image": "https://is3-ssl.mzstatic.com/image/thumb/AMCArtistImages126/v4/ea/e5/d6/eae5d6e9-395e-19e7-42ec-74bf5acffcf8/e9510944-4470-4b62-a6be-b693b43b687f_ami-identity-b13da8df32cd89056faba4f079506fee-2023-01-27T18-28-09.814Z_cropped.png/800x800cc.jpg",
+                        "caption": "Ani DiFranco"
+                    },
+                    {
+                        "image": "https://is2-ssl.mzstatic.com/image/thumb/Music111/v4/59/86/6f/59866f96-2946-3e77-7724-067b2aa20c82/cover.jpg/400x400cc.jpg",
+                        "caption": "Coming Up"
+                    }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                    {
+                        "title": "Album",
+                        "text": "Imperfectly"
+                    },
+                    {
+                        "title": "Label",
+                        "text": "Righteous Babe Records"
+                    },
+                    {
+                        "title": "Released",
+                        "text": "1992"
+                    }
+                ]
+            },
+            {
+                "type": "LYRICS",
+                "text": [
+                    "Our father who art in a penthouse sits in his 37th floor suite",
+                    "And swivels to gaze down at the city he made me in",
+                    "He allows me to stand and solicit graffiti until",
+                    "He needs the land I stand on",
+                    "",
+                    "I in my darkened threshold am pawing through my pockets",
+                    "The receipts, the bus schedules, the matchbook phone numbers",
+                    "The urgent napkin poems all of which laundering has rendered",
+                    "Pulpy and strange, loose change and a key",
+                    "",
+                    "Ask me, go ahead, ask me, go ahead, ask me",
+                    "Go ahead, ask me if I care",
+                    "I got the answer here, I wrote it down somewhere",
+                    "I just gotta find it",
+                    "",
+                    "Somebody and their spray paint got too close",
+                    "Somebody came on too heavy",
+                    "Now look at me made ugly by the drooling letters",
+                    "I was better off alone, ain't that the way it is",
+                    "",
+                    "They don't know the first thing but you don't know that",
+                    "Until they take the first swing",
+                    "My fingers are red and swollen from the cold",
+                    "I'm getting bold in my old age",
+                    "",
+                    "So go ahead, try the door, it doesn't matter anymore",
+                    "I know the weak hearted are strong willed",
+                    "And we are being kept alive",
+                    "Until we're killed, he's up there",
+                    "",
+                    "The, the ice is clinking in his glass",
+                    "It's little pieces of paper",
+                    "I don't ask",
+                    "I just empty my pockets and wait",
+                    "",
+                    "It's not fate, it's just circumstance",
+                    "I don't fool myself with romance",
+                    "I just live phone number to phone number",
+                    "Dusting them against my thighs",
+                    "In the warmth of my pockets",
+                    "Which whisper history incessantly asking me,? Where were you?",
+                    "",
+                    "I lower my eyes wishing I could cry more",
+                    "And care less, yes it's true",
+                    "I was trying to love someone again",
+                    "I was caught caring, bearing weight",
+                    "",
+                    "But I love this city, this state this country is too large",
+                    "And whoever's in charge",
+                    "They better take the elevator down",
+                    "And put more than change in our cup",
+                    "Or else we are coming up"
+                ],
+                "url": "https://cdn.shazam.com/lyrics/v1/en-US/GB/iphone/musixmatch/subtitles/8732/151/1?token=d34c33a724fcd04c2c2e95d7e90ccf10",
+                "footer": "Writer(s): Ani Di Franco\nLyrics powered by www.musixmatch.com",
+                "tabname": "Lyrics",
+                "beacondata": {
+                    "lyricsid": "5712074",
+                    "providername": "musixmatch",
+                    "commontrackid": "8732"
+                }
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/10092575/youtube/video?q=Ani+DiFranco+%22Coming+Up%22"
+            }
+        ],
+        "url": "https://www.shazam.com/track/10092575/coming-up",
+        "artists": [
+            {
+                "id": "42",
+                "adamid": "3627568"
+            }
+        ],
+        "isrc": "USRB49200009",
+        "genres": {
+            "primary": "Singer/Songwriter"
+        },
+        "urlparams": {
+            "{tracktitle}": "Coming+Up",
+            "{trackartist}": "Ani+DiFranco"
+        },
+        "myshazam": {
+            "apple": {
+                "actions": [
+                    {
+                        "name": "myshazam:apple",
+                        "type": "uri",
+                        "uri": "https://music.apple.com/gb/album/coming-up/1208776377?i=1208777285&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                ]
+            }
+        },
+        "highlightsurls": {
+            "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/3627568/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+        },
+        "albumadamid": "1208776377"
+    },
+    "tagid": "E58DDC95-D4CE-4EB4-8C09-E7C099992A05"
+}

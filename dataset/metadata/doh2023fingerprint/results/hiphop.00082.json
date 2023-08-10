@@ -1,0 +1,302 @@
+{
+    "matches": [
+        {
+            "id": "222000321",
+            "offset": 34.693230468,
+            "timeskew": 7.200241e-05,
+            "frequencyskew": -0.00016111135
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691633005781,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "10355268",
+        "title": "Brothers Gonna Work It Out",
+        "subtitle": "Public Enemy",
+        "images": {
+            "background": "https://is2-ssl.mzstatic.com/image/thumb/Features125/v4/d2/c5/86/d2c58653-73d2-ae2f-efc1-d089777e7200/mzl.uxecwlva.jpg/800x800cc.jpg",
+            "coverart": "https://is2-ssl.mzstatic.com/image/thumb/Music114/v4/bc/84/bb/bc84bb6d-8b67-b4fe-d791-f4d8ed1940d9/06UMGIM21173.rgb.jpg/400x400cc.jpg",
+            "coverarthq": "https://is2-ssl.mzstatic.com/image/thumb/Music114/v4/bc/84/bb/bc84bb6d-8b67-b4fe-d791-f4d8ed1940d9/06UMGIM21173.rgb.jpg/400x400cc.jpg",
+            "joecolor": "b:091c2dp:feb218s:f7232ct:cd941cq:c7212c"
+        },
+        "share": {
+            "subject": "Brothers Gonna Work It Out - Public Enemy",
+            "text": "Brothers Gonna Work It Out by Public Enemy",
+            "href": "https://www.shazam.com/track/10355268/brothers-gonna-work-it-out",
+            "image": "https://is2-ssl.mzstatic.com/image/thumb/Music114/v4/bc/84/bb/bc84bb6d-8b67-b4fe-d791-f4d8ed1940d9/06UMGIM21173.rgb.jpg/400x400cc.jpg",
+            "twitter": "I used @Shazam to discover Brothers Gonna Work It Out by Public Enemy.",
+            "html": "https://www.shazam.com/snippets/email-share/10355268?lang=en-US&country=GB",
+            "avatar": "https://is2-ssl.mzstatic.com/image/thumb/Features125/v4/d2/c5/86/d2c58653-73d2-ae2f-efc1-d089777e7200/mzl.uxecwlva.jpg/800x800cc.jpg",
+            "snapchat": "https://www.shazam.com/partner/sc/track/10355268"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "actions": [
+                {
+                    "name": "apple",
+                    "type": "applemusicplay",
+                    "id": "1442525624"
+                },
+                {
+                    "name": "apple",
+                    "type": "uri",
+                    "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/67/c4/54/67c45471-f3fc-9fcd-a757-db60b04d5222/mzaf_15967124682157789576.plus.aac.ep.m4a"
+                }
+            ],
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/gb/album/brothers-gonna-work-it-out/1442525466?i=1442525624&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/gb/album/brothers-gonna-work-it-out/1442525466?i=1442525624&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                },
+                {
+                    "caption": "BUY",
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "uri": "https://itunes.apple.com/gb/album/brothers-gonna-work-it-out/1442525466?i=1442525624&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "buy",
+                        "providername": "itunes"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "type": "buy",
+                    "listcaption": "Buy on iTunes",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "itunes"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:Brothers%20Gonna%20Work%20It%20Out%20Public%20Enemy"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27Brothers+Gonna+Work+It+Out%27%20artist%3A%27Public+Enemy%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": false,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [
+                    {
+                        "image": "https://is2-ssl.mzstatic.com/image/thumb/Features125/v4/d2/c5/86/d2c58653-73d2-ae2f-efc1-d089777e7200/mzl.uxecwlva.jpg/800x800cc.jpg",
+                        "caption": "Public Enemy"
+                    },
+                    {
+                        "image": "https://is2-ssl.mzstatic.com/image/thumb/Music114/v4/bc/84/bb/bc84bb6d-8b67-b4fe-d791-f4d8ed1940d9/06UMGIM21173.rgb.jpg/400x400cc.jpg",
+                        "caption": "Brothers Gonna Work It Out"
+                    }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                    {
+                        "title": "Album",
+                        "text": "Fear of a Black Planet"
+                    },
+                    {
+                        "title": "Label",
+                        "text": "Def Jam Recordings"
+                    },
+                    {
+                        "title": "Released",
+                        "text": "1990"
+                    }
+                ]
+            },
+            {
+                "type": "LYRICS",
+                "text": [
+                    "Uh, your bad self",
+                    "Help me break this down from off the shelf",
+                    "Here's a music servin' you so use it",
+                    "Papa's got a brand new funk",
+                    "Get down (party for your right)",
+                    "Huh, let's get it on",
+                    "Like we said before",
+                    "They say the brothers causin' trouble",
+                    "Hate to bust their bubble",
+                    "'Cause we rumble",
+                    "From our lower level",
+                    "To condition your condition",
+                    "(We're gonna do a song)",
+                    "That you never heard before",
+                    "Make you all jump along to the education",
+                    "Brothers gonna work it out",
+                    "And stop chasin'",
+                    "",
+                    "You got it... what it takes",
+                    "Go get it... where you want it?",
+                    "Come get it... get involved",
+                    "'Cause the brothers in the street are willing to work it out",
+                    "",
+                    "So many of us in limbo",
+                    "How to get it on, it's quite simple",
+                    "3 stones from the sun",
+                    "We need a piece of this rock",
+                    "Our goal indestructible soul",
+                    "Answers to this quizzin'",
+                    "To the Brothers in the streetSchools and the prisons",
+                    "History shouldn't be a mystery",
+                    "Our stories real history",
+                    "Not his story",
+                    "We gonna work it one day",
+                    "Till we all get paid",
+                    "The right way in full, no bull",
+                    "Talkin', no walkin', drivin', arrivin' in style",
+                    "Soon you'll see what I'm talkin' 'bout",
+                    "'Cause one day",
+                    "The brothers gonna work it out",
+                    "",
+                    "You got it ... what it takes",
+                    "Go get it... where you want it?",
+                    "Come get it... get involved",
+                    "'Cause the brothers in the street",
+                    "Are willing to work it out",
+                    "Let's get it on... we are willin'",
+                    "Let's get it on, let's get it on ... we are willin'",
+                    "Let's get it on, let's get it on, let's get it on ... we are willin'",
+                    "Now we are ready if you are ready",
+                    "",
+                    "In 1995, you'll twist to this",
+                    "As you raise your fist to the music",
+                    "United we stand, yes divided we fall",
+                    "Together we can stand tall",
+                    "Brothers that try to work it out",
+                    "They get mad, revolt, revise, realize",
+                    "They're super bad",
+                    "Small chance a smart brother's",
+                    "Gonna be a victim of his own circumstance",
+                    "Sabotaged, Shellshocked, rocked and ruled",
+                    "Day in the life of a fool",
+                    "Like I said before to live it low",
+                    "Life take you time, time yo go slow",
+                    "Look here, not a thing to fear",
+                    "Brother to brother not another as sincere",
+                    "Teach a man how to be father",
+                    "To never tell a woman he can't bother",
+                    "You can't say you don't know",
+                    "What I'm talkin' 'bout",
+                    "But one day ... brothers gonna work it out",
+                    "",
+                    "You got it ... what it takes",
+                    "Go get it ... where you want it?",
+                    "Come get it ... get involved",
+                    "'Cause the brothers in the street",
+                    "Are willing to work it out",
+                    "",
+                    "Let's get it on... we are willin'",
+                    "Let's get it on, let's get it on ... we are willin'",
+                    "Let's get it on, let's get it on, let's get it on ... we are willin'",
+                    "Now we are ready if you are ready"
+                ],
+                "url": "https://cdn.shazam.com/lyrics/v1/en-US/GB/iphone/musixmatch/subtitles/131111/308/1?token=27fafc0d3cbdf2bb69ce1a9b7fba03b9",
+                "footer": "Writer(s): George Clinton, Eric Sadler, Carlton Ridenhour, David Spradley, Garry Shider, Keith Boxley\nLyrics powered by www.musixmatch.com",
+                "tabname": "Lyrics",
+                "beacondata": {
+                    "lyricsid": "24997523",
+                    "providername": "musixmatch",
+                    "commontrackid": "131111"
+                }
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/10355268/youtube/video?q=Public+Enemy+%22Brothers+Gonna+Work+It+Out%22"
+            },
+            {
+                "type": "RELATED",
+                "url": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-10355268?startFrom=0&pageSize=20&connected=",
+                "tabname": "Related"
+            }
+        ],
+        "url": "https://www.shazam.com/track/10355268/brothers-gonna-work-it-out",
+        "artists": [
+            {
+                "id": "42",
+                "adamid": "36954"
+            }
+        ],
+        "isrc": "USDJ29000016",
+        "genres": {
+            "primary": "Hip-Hop/Rap"
+        },
+        "urlparams": {
+            "{tracktitle}": "Brothers+Gonna+Work+It+Out",
+            "{trackartist}": "Public+Enemy"
+        },
+        "myshazam": {
+            "apple": {
+                "actions": [
+                    {
+                        "name": "myshazam:apple",
+                        "type": "uri",
+                        "uri": "https://music.apple.com/gb/album/brothers-gonna-work-it-out/1442525466?i=1442525624&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                ]
+            }
+        },
+        "highlightsurls": {
+            "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/36954/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios&videoIdToFilter=1583873455",
+            "trackhighlighturl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/highlights/1583873455?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+        },
+        "relatedtracksurl": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-10355268?startFrom=0&pageSize=20&connected=",
+        "albumadamid": "1442525466"
+    },
+    "tagid": "731C21C2-9511-4E8E-8BEE-5D4F47AB623B"
+}

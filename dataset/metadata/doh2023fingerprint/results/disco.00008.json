@@ -1,0 +1,218 @@
+{
+    "matches": [
+        {
+            "id": "379161665",
+            "offset": 50.79603125,
+            "timeskew": -8.9108944e-05,
+            "frequencyskew": -0.000120818615
+        },
+        {
+            "id": "275315158",
+            "offset": 50.79025,
+            "timeskew": -0.004741907,
+            "frequencyskew": -0.004741013
+        },
+        {
+            "id": "313961111",
+            "offset": 31.167927734,
+            "timeskew": -0.0038214922,
+            "frequencyskew": -0.0040593743
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691632449083,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "10547538",
+        "title": "Found a Cure (12\" Disco Mix)",
+        "subtitle": "Ashford & Simpson",
+        "images": {
+            "background": "https://is1-ssl.mzstatic.com/image/thumb/Features125/v4/62/83/c0/6283c02b-8a04-e561-cd7a-cc121b40ff45/pr_source.png/800x800cc.jpg",
+            "coverart": "https://is1-ssl.mzstatic.com/image/thumb/Music7/v4/6f/aa/2d/6faa2dc4-c411-cbb2-ddf1-40df5f235f95/8718274953930.png/400x400cc.jpg",
+            "coverarthq": "https://is1-ssl.mzstatic.com/image/thumb/Music7/v4/6f/aa/2d/6faa2dc4-c411-cbb2-ddf1-40df5f235f95/8718274953930.png/400x400cc.jpg",
+            "joecolor": "b:181d17p:f3a32es:e09349t:c78829q:b87b3f"
+        },
+        "share": {
+            "subject": "Found a Cure (12\" Disco Mix) - Ashford & Simpson",
+            "text": "Found a Cure (12\" Disco Mix) by Ashford & Simpson",
+            "href": "https://www.shazam.com/track/10547538/found-a-cure-12-disco-mix",
+            "image": "https://is1-ssl.mzstatic.com/image/thumb/Music7/v4/6f/aa/2d/6faa2dc4-c411-cbb2-ddf1-40df5f235f95/8718274953930.png/400x400cc.jpg",
+            "twitter": "I used @Shazam to discover Found a Cure (12\" Disco Mix) by Ashford & Simpson.",
+            "html": "https://www.shazam.com/snippets/email-share/10547538?lang=en-US&country=GB",
+            "avatar": "https://is1-ssl.mzstatic.com/image/thumb/Features125/v4/62/83/c0/6283c02b-8a04-e561-cd7a-cc121b40ff45/pr_source.png/800x800cc.jpg",
+            "snapchat": "https://www.shazam.com/partner/sc/track/10547538"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "actions": [
+                {
+                    "name": "apple",
+                    "type": "applemusicplay",
+                    "id": "1027740410"
+                },
+                {
+                    "name": "apple",
+                    "type": "uri",
+                    "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/21/fa/36/21fa364e-3685-18ad-882b-df55b11ec0f9/mzaf_11221632957061068445.plus.aac.ep.m4a"
+                }
+            ],
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/gb/album/found-a-cure-12-disco-mix/1027740402?i=1027740410&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/gb/album/found-a-cure-12-disco-mix/1027740402?i=1027740410&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                },
+                {
+                    "caption": "BUY",
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "uri": "https://itunes.apple.com/gb/album/found-a-cure-12-disco-mix/1027740402?i=1027740410&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "buy",
+                        "providername": "itunes"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "type": "buy",
+                    "listcaption": "Buy on iTunes",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "itunes"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:Found%20a%20Cure%20%2812%22%20Disco%20Mix%29%20Ashford%20%26%20Simpson"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27Found+a+Cure+%2812%22+Disco+Mix%29%27%20artist%3A%27Ashford++Simpson%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": false,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [
+                    {
+                        "image": "https://is1-ssl.mzstatic.com/image/thumb/Features125/v4/62/83/c0/6283c02b-8a04-e561-cd7a-cc121b40ff45/pr_source.png/800x800cc.jpg",
+                        "caption": "Ashford & Simpson"
+                    },
+                    {
+                        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music7/v4/6f/aa/2d/6faa2dc4-c411-cbb2-ddf1-40df5f235f95/8718274953930.png/400x400cc.jpg",
+                        "caption": "Found a Cure (12\" Disco Mix)"
+                    }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                    {
+                        "title": "Album",
+                        "text": "Found a Cure - EP"
+                    },
+                    {
+                        "title": "Label",
+                        "text": "Altra Moda Music"
+                    },
+                    {
+                        "title": "Released",
+                        "text": "1979"
+                    }
+                ]
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/10547538/youtube/video?q=Ashford+%26+Simpson+%22Found+a+Cure+(12+Disco+Mix)%22"
+            },
+            {
+                "type": "RELATED",
+                "url": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-10547538?startFrom=0&pageSize=20&connected=",
+                "tabname": "Related"
+            }
+        ],
+        "url": "https://www.shazam.com/track/10547538/found-a-cure-12-disco-mix",
+        "artists": [
+            {
+                "id": "42",
+                "adamid": "25531093"
+            }
+        ],
+        "isrc": "USWB10703975",
+        "genres": {
+            "primary": "Disco"
+        },
+        "urlparams": {
+            "{tracktitle}": "Found+a+Cure+%2812%22+Disco+Mix%29",
+            "{trackartist}": "Ashford+%26+Simpson"
+        },
+        "myshazam": {
+            "apple": {
+                "actions": [
+                    {
+                        "name": "myshazam:apple",
+                        "type": "uri",
+                        "uri": "https://music.apple.com/gb/album/found-a-cure-12-disco-mix/1027740402?i=1027740410&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                ]
+            }
+        },
+        "highlightsurls": {
+            "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/25531093/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+        },
+        "relatedtracksurl": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-10547538?startFrom=0&pageSize=20&connected=",
+        "albumadamid": "1027740402"
+    },
+    "tagid": "B33E920E-9833-4CEF-8412-4A580C15646C"
+}

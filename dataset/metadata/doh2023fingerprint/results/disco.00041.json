@@ -1,0 +1,260 @@
+{
+    "matches": [
+        {
+            "id": "407569076",
+            "offset": 30.07840625,
+            "timeskew": -4.452467e-05,
+            "frequencyskew": 0.0
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691632441181,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "104074798",
+        "title": "Always and Forever",
+        "subtitle": "Heatwave",
+        "images": {
+            "background": "https://is1-ssl.mzstatic.com/image/thumb/Features125/v4/f8/28/a7/f828a7e3-98eb-1ac5-d1a7-c93ba5e1a014/pr_source.png/800x800cc.jpg",
+            "coverart": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/bd/54/f0/bd54f0f7-62a8-ba56-c630-d21fb7148456/mzi.ogfrxmny.jpg/400x400cc.jpg",
+            "coverarthq": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/bd/54/f0/bd54f0f7-62a8-ba56-c630-d21fb7148456/mzi.ogfrxmny.jpg/400x400cc.jpg",
+            "joecolor": "b:e0c949p:0b0400s:231b12t:362b0eq:483d1d"
+        },
+        "share": {
+            "subject": "Always and Forever - Heatwave",
+            "text": "Always and Forever by Heatwave",
+            "href": "https://www.shazam.com/track/104074798/always-and-forever",
+            "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/bd/54/f0/bd54f0f7-62a8-ba56-c630-d21fb7148456/mzi.ogfrxmny.jpg/400x400cc.jpg",
+            "twitter": "I used @Shazam to discover Always and Forever by Heatwave.",
+            "html": "https://www.shazam.com/snippets/email-share/104074798?lang=en-US&country=GB",
+            "avatar": "https://is1-ssl.mzstatic.com/image/thumb/Features125/v4/f8/28/a7/f828a7e3-98eb-1ac5-d1a7-c93ba5e1a014/pr_source.png/800x800cc.jpg",
+            "snapchat": "https://www.shazam.com/partner/sc/track/104074798"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "actions": [
+                {
+                    "name": "apple",
+                    "type": "applemusicplay",
+                    "id": "192659432"
+                },
+                {
+                    "name": "apple",
+                    "type": "uri",
+                    "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/bc/ec/5f/bcec5f0b-a36e-0507-61b7-6b0e00a531dd/mzaf_7957663433206116661.plus.aac.ep.m4a"
+                }
+            ],
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/gb/album/always-and-forever/192659318?i=192659432&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/gb/album/always-and-forever/192659318?i=192659432&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                },
+                {
+                    "caption": "BUY",
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "uri": "https://itunes.apple.com/gb/album/always-and-forever/192659318?i=192659432&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "buy",
+                        "providername": "itunes"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "type": "buy",
+                    "listcaption": "Buy on iTunes",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "itunes"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:Always%20and%20Forever%20Heatwave"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27Always+and+Forever%27%20artist%3A%27Heatwave%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": false,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [
+                    {
+                        "image": "https://is1-ssl.mzstatic.com/image/thumb/Features125/v4/f8/28/a7/f828a7e3-98eb-1ac5-d1a7-c93ba5e1a014/pr_source.png/800x800cc.jpg",
+                        "caption": "Heatwave"
+                    },
+                    {
+                        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/bd/54/f0/bd54f0f7-62a8-ba56-c630-d21fb7148456/mzi.ogfrxmny.jpg/400x400cc.jpg",
+                        "caption": "Always and Forever"
+                    }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                    {
+                        "title": "Album",
+                        "text": "Too Hot to Handle"
+                    },
+                    {
+                        "title": "Label",
+                        "text": "Epic"
+                    },
+                    {
+                        "title": "Released",
+                        "text": "1976"
+                    }
+                ]
+            },
+            {
+                "type": "LYRICS",
+                "text": [
+                    "Always and forever, each moment with you",
+                    "Is just like a dream to me that somehow came true",
+                    "And I know tomorrow will still be the same",
+                    "'Cause we've got a life of love that won't ever change and",
+                    "",
+                    "Everyday love me your own special way",
+                    "Melt all my heart away with a smile",
+                    "Take time to tell me you really care",
+                    "And we'll share tomorrow together",
+                    "I'll always love you forever, forever",
+                    "",
+                    "There'll always be sunshine when I look at you",
+                    "It's something I can't explain just the things that you do",
+                    "And if you get lonely phone me and take",
+                    "A second to give to me that magic you make and",
+                    "",
+                    "Everyday love me your own special way",
+                    "Melt all my heart away with a smile",
+                    "Take time to tell me you really care",
+                    "And we'll share tomorrow together",
+                    "I'll always love you ever, ever",
+                    "",
+                    "Loving you is the thing that I've planned",
+                    "For a very long time",
+                    "Me with you, you with me, we as one",
+                    "Love together for a very long time",
+                    "Loving you, you, baby",
+                    "",
+                    "Always, forever love you",
+                    "Always, forever love you",
+                    "Always, forever love you",
+                    "",
+                    "I said, \"Forever love you, love you\"",
+                    "Ever and the day and one day",
+                    "Loving you, you, you, you, you",
+                    "Forever, tomorrow's tomorrow",
+                    "",
+                    "Ever and a day, ever and a day",
+                    "Ever, everyday, yeah, you",
+                    "Loving you forever, ever, you, you",
+                    "Forever"
+                ],
+                "url": "https://cdn.shazam.com/lyrics/v1/en-US/GB/iphone/musixmatch/subtitles/10986307/308/1?token=8abebd304e43a3cfa2ef601afa7862fe",
+                "footer": "Writer(s): Rodney Lynn Temperton\nLyrics powered by www.musixmatch.com",
+                "tabname": "Lyrics",
+                "beacondata": {
+                    "lyricsid": "7457112",
+                    "providername": "musixmatch",
+                    "commontrackid": "10986307"
+                }
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/104074798/youtube/video?q=Heatwave+%22Always+and+Forever%22"
+            },
+            {
+                "type": "RELATED",
+                "url": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-104074798?startFrom=0&pageSize=20&connected=",
+                "tabname": "Related"
+            }
+        ],
+        "url": "https://www.shazam.com/track/104074798/always-and-forever",
+        "artists": [
+            {
+                "id": "42",
+                "adamid": "868364"
+            }
+        ],
+        "isrc": "USSM17200024",
+        "genres": {
+            "primary": "R&B/Soul"
+        },
+        "urlparams": {
+            "{tracktitle}": "Always+and+Forever",
+            "{trackartist}": "Heatwave"
+        },
+        "myshazam": {
+            "apple": {
+                "actions": [
+                    {
+                        "name": "myshazam:apple",
+                        "type": "uri",
+                        "uri": "https://music.apple.com/gb/album/always-and-forever/192659318?i=192659432&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                ]
+            }
+        },
+        "highlightsurls": {
+            "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/868364/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+        },
+        "relatedtracksurl": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-104074798?startFrom=0&pageSize=20&connected=",
+        "albumadamid": "192659318"
+    },
+    "tagid": "6E859D9A-6C54-4CB8-AE84-758F7DF1DCA5"
+}

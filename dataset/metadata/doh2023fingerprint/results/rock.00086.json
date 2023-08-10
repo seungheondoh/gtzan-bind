@@ -1,0 +1,290 @@
+{
+    "matches": [
+        {
+            "id": "242605185",
+            "offset": 30.02353125,
+            "timeskew": -0.000106453896,
+            "frequencyskew": -0.00024163723
+        },
+        {
+            "id": "409231202",
+            "offset": 28.386003906000003,
+            "timeskew": -0.00086063147,
+            "frequencyskew": -0.0009661317
+        },
+        {
+            "id": "298016163",
+            "offset": 30.077339843,
+            "timeskew": -0.0008646846,
+            "frequencyskew": -0.0009661317
+        },
+        {
+            "id": "339239069",
+            "offset": 30.24709375,
+            "timeskew": 2.7656555e-05,
+            "frequencyskew": -0.00048315525
+        },
+        {
+            "id": "214255231",
+            "offset": 30.03274414,
+            "timeskew": -0.0002899766,
+            "frequencyskew": -8.0525875e-05
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691633606166,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "10549220",
+        "title": "Jessie's Girl",
+        "subtitle": "Rick Springfield",
+        "images": {
+            "background": "https://is1-ssl.mzstatic.com/image/thumb/Features115/v4/5c/0c/b6/5c0cb69c-71c4-d6b5-e67d-2f011ce395ed/mzl.iycpwgfw.jpg/800x800cc.jpg",
+            "coverart": "https://is2-ssl.mzstatic.com/image/thumb/Music122/v4/0e/e4/ee/0ee4ee82-fef7-8de9-cdf9-fdb74e41f634/078635369724.jpg/400x400cc.jpg",
+            "coverarthq": "https://is2-ssl.mzstatic.com/image/thumb/Music122/v4/0e/e4/ee/0ee4ee82-fef7-8de9-cdf9-fdb74e41f634/078635369724.jpg/400x400cc.jpg",
+            "joecolor": "b:090401p:d4d8e0s:e3813bt:acadb4q:b8682f"
+        },
+        "share": {
+            "subject": "Jessie's Girl - Rick Springfield",
+            "text": "Jessie's Girl by Rick Springfield",
+            "href": "https://www.shazam.com/track/10549220/jessies-girl",
+            "image": "https://is2-ssl.mzstatic.com/image/thumb/Music122/v4/0e/e4/ee/0ee4ee82-fef7-8de9-cdf9-fdb74e41f634/078635369724.jpg/400x400cc.jpg",
+            "twitter": "I used @Shazam to discover Jessie's Girl by Rick Springfield.",
+            "html": "https://www.shazam.com/snippets/email-share/10549220?lang=en-US&country=GB",
+            "avatar": "https://is1-ssl.mzstatic.com/image/thumb/Features115/v4/5c/0c/b6/5c0cb69c-71c4-d6b5-e67d-2f011ce395ed/mzl.iycpwgfw.jpg/800x800cc.jpg",
+            "snapchat": "https://www.shazam.com/partner/sc/track/10549220"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "actions": [
+                {
+                    "name": "apple",
+                    "type": "applemusicplay",
+                    "id": "270571533"
+                },
+                {
+                    "name": "apple",
+                    "type": "uri",
+                    "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/47/6c/d8/476cd8c7-d803-b374-9f42-5fd0c3ab2ea4/mzaf_16447202483082602791.plus.aac.ep.m4a"
+                }
+            ],
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/gb/album/jessies-girl/270571529?i=270571533&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/gb/album/jessies-girl/270571529?i=270571533&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                },
+                {
+                    "caption": "BUY",
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "uri": "https://itunes.apple.com/gb/album/jessies-girl/270571529?i=270571533&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "buy",
+                        "providername": "itunes"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "type": "buy",
+                    "listcaption": "Buy on iTunes",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "itunes"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:Jessie%27s%20Girl%20Rick%20Springfield"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27Jessie%5C%27s+Girl%27%20artist%3A%27Rick+Springfield%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": false,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [
+                    {
+                        "image": "https://is1-ssl.mzstatic.com/image/thumb/Features115/v4/5c/0c/b6/5c0cb69c-71c4-d6b5-e67d-2f011ce395ed/mzl.iycpwgfw.jpg/800x800cc.jpg",
+                        "caption": "Rick Springfield"
+                    },
+                    {
+                        "image": "https://is2-ssl.mzstatic.com/image/thumb/Music122/v4/0e/e4/ee/0ee4ee82-fef7-8de9-cdf9-fdb74e41f634/078635369724.jpg/400x400cc.jpg",
+                        "caption": "Jessie's Girl"
+                    }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                    {
+                        "title": "Album",
+                        "text": "Working Class Dog"
+                    },
+                    {
+                        "title": "Label",
+                        "text": "RCA Records Label"
+                    },
+                    {
+                        "title": "Released",
+                        "text": "1981"
+                    }
+                ]
+            },
+            {
+                "type": "LYRICS",
+                "text": [
+                    "Jessie is a friend",
+                    "Yeah, I know, he's been a good friend of mine",
+                    "But lately something's changed that ain't hard to define",
+                    "Jessie's got himself a girl, and I wanna make her mine",
+                    "",
+                    "And she's watchin' him with those eyes",
+                    "And she's lovin' him with that body",
+                    "I just know it",
+                    "And he's holdin' her in his arms late, late at night",
+                    "",
+                    "You know I wish that I had Jessie's girl",
+                    "I wish that I had Jessie's girl",
+                    "Where can I find a woman like that?",
+                    "",
+                    "I'll play along with the charade",
+                    "That doesn't seem to be a reason to change",
+                    "You know I feel so dirty when they start talkin' cute",
+                    "I wanna tell her that I love her, but the point is probably moot",
+                    "",
+                    "'Cause she's watchin' him with those eyes",
+                    "And she's lovin' him with that body",
+                    "I just know it",
+                    "And he's holdin' her in his arms late, late at night",
+                    "",
+                    "You know I wish that I had Jessie's girl",
+                    "I wish that I had Jessie's girl",
+                    "Where can I find a woman like that?",
+                    "Like Jessie's girl",
+                    "I wish that I had Jessie's girl",
+                    "Where can I find a woman",
+                    "Where can I find a woman like that?",
+                    "",
+                    "And I'm lookin' in the mirror all the time",
+                    "Wonderin' what she don't see in me",
+                    "I've been funny, and cool with the lines",
+                    "Ain't that the way love's supposed to be?",
+                    "",
+                    "Tell me where can I find a woman like that?",
+                    "",
+                    "You know I wish that I had Jessie's girl",
+                    "I wish that I had Jessie's girl",
+                    "I want Jessie's girl",
+                    "Where can I find a woman like that?",
+                    "Like Jessie's girl",
+                    "I wish that I had Jessie's girl",
+                    "I want Jessie's girl"
+                ],
+                "url": "https://cdn.shazam.com/lyrics/v1/en-US/GB/iphone/musixmatch/subtitles/145680606/192/1?token=40baede54a1b295434287c8d231a7525",
+                "footer": "Writer(s): Rick Springfield\nLyrics powered by www.musixmatch.com",
+                "tabname": "Lyrics",
+                "beacondata": {
+                    "lyricsid": "28882125",
+                    "providername": "musixmatch",
+                    "commontrackid": "145680606"
+                }
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/10549220/youtube/video?q=Rick+Springfield+%22Jessie's+Girl%22"
+            },
+            {
+                "type": "RELATED",
+                "url": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-10549220?startFrom=0&pageSize=20&connected=",
+                "tabname": "Related"
+            }
+        ],
+        "url": "https://www.shazam.com/track/10549220/jessies-girl",
+        "artists": [
+            {
+                "id": "42",
+                "adamid": "197658"
+            }
+        ],
+        "isrc": "USRC18108188",
+        "genres": {
+            "primary": "Pop"
+        },
+        "urlparams": {
+            "{tracktitle}": "Jessie%27s+Girl",
+            "{trackartist}": "Rick+Springfield"
+        },
+        "myshazam": {
+            "apple": {
+                "actions": [
+                    {
+                        "name": "myshazam:apple",
+                        "type": "uri",
+                        "uri": "https://music.apple.com/gb/album/jessies-girl/270571529?i=270571533&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                ]
+            }
+        },
+        "highlightsurls": {
+            "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/197658/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios&videoIdToFilter=400351659",
+            "trackhighlighturl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/highlights/400351659?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+        },
+        "relatedtracksurl": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-10549220?startFrom=0&pageSize=20&connected=",
+        "albumadamid": "270571529"
+    },
+    "tagid": "0F5577CB-33AF-4D7F-9EE0-77BF46E26EB4"
+}

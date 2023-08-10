@@ -1,0 +1,239 @@
+{
+    "matches": [
+        {
+            "id": "232232589",
+            "offset": 215.762015625,
+            "timeskew": -0.016903102,
+            "frequencyskew": -0.018039048
+        },
+        {
+            "id": "443955854",
+            "offset": 217.51915625,
+            "timeskew": 0.0001847744,
+            "frequencyskew": -0.00016111135
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691632237544,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "11104201",
+        "title": "Jeepers, Creepers",
+        "subtitle": "Lester Young",
+        "images": {
+            "background": "https://is5-ssl.mzstatic.com/image/thumb/Features125/v4/23/bf/b8/23bfb8c8-cd53-0ec3-58c0-5fcdc1692936/pr_source.png/800x800cc.jpg",
+            "coverart": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/00/31/e1/0031e1b8-79a5-7bfd-e461-6a4e76770835/20UMGIM06060.rgb.jpg/400x400cc.jpg",
+            "coverarthq": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/00/31/e1/0031e1b8-79a5-7bfd-e461-6a4e76770835/20UMGIM06060.rgb.jpg/400x400cc.jpg",
+            "joecolor": "b:983e23p:fefffas:fddfc5t:e9d8ceq:e9bfa4"
+        },
+        "share": {
+            "subject": "Jeepers, Creepers - Lester Young",
+            "text": "Jeepers, Creepers by Lester Young",
+            "href": "https://www.shazam.com/track/11104201/jeepers-creepers",
+            "image": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/00/31/e1/0031e1b8-79a5-7bfd-e461-6a4e76770835/20UMGIM06060.rgb.jpg/400x400cc.jpg",
+            "twitter": "I used @Shazam to discover Jeepers, Creepers by Lester Young.",
+            "html": "https://www.shazam.com/snippets/email-share/11104201?lang=en-US&country=GB",
+            "avatar": "https://is5-ssl.mzstatic.com/image/thumb/Features125/v4/23/bf/b8/23bfb8c8-cd53-0ec3-58c0-5fcdc1692936/pr_source.png/800x800cc.jpg",
+            "snapchat": "https://www.shazam.com/partner/sc/track/11104201"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "actions": [
+                {
+                    "name": "apple",
+                    "type": "applemusicplay",
+                    "id": "1498503778"
+                },
+                {
+                    "name": "apple",
+                    "type": "uri",
+                    "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/5c/34/1a/5c341afb-a9cc-212b-79a9-3cb26c968616/mzaf_11128704106336531537.plus.aac.ep.m4a"
+                }
+            ],
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/gb/album/jeepers-creepers/1498503767?i=1498503778&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/gb/album/jeepers-creepers/1498503767?i=1498503778&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                },
+                {
+                    "caption": "BUY",
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "uri": "https://itunes.apple.com/gb/album/jeepers-creepers/1498503767?i=1498503778&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "buy",
+                        "providername": "itunes"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "type": "buy",
+                    "listcaption": "Buy on iTunes",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "itunes"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:Jeepers%2C%20Creepers%20Lester%20Young"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27Jeepers%2C+Creepers%27%20artist%3A%27Lester+Young%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": false,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [
+                    {
+                        "image": "https://is5-ssl.mzstatic.com/image/thumb/Features125/v4/23/bf/b8/23bfb8c8-cd53-0ec3-58c0-5fcdc1692936/pr_source.png/800x800cc.jpg",
+                        "caption": "Lester Young"
+                    },
+                    {
+                        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/00/31/e1/0031e1b8-79a5-7bfd-e461-6a4e76770835/20UMGIM06060.rgb.jpg/400x400cc.jpg",
+                        "caption": "Jeepers, Creepers"
+                    }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                    {
+                        "title": "Album",
+                        "text": "Pres"
+                    },
+                    {
+                        "title": "Label",
+                        "text": "Verve Reissues"
+                    },
+                    {
+                        "title": "Released",
+                        "text": "1956"
+                    }
+                ]
+            },
+            {
+                "type": "LYRICS",
+                "text": [
+                    "I don't care what the weatherman says",
+                    "When the weatherman says it's raining",
+                    "You'll never hear me complaining",
+                    "I'm certain the sun will shine",
+                    "",
+                    "I don't care how the weather vane points",
+                    "When the weather vane points to gloomy",
+                    "It's gotta be sunny to me",
+                    "When your eyes look into mine",
+                    "",
+                    "Jeepers creepers, where'd ya get those peepers?",
+                    "Jeepers creepers, where'd ya get those eyes?",
+                    "Gosh all, git up, how'd they get so lit up?",
+                    "Gosh all, git up, how'd they get that size?",
+                    "",
+                    "Golly gee, when you turn those heaters on",
+                    "Woe is me, got to put my cheaters on",
+                    "",
+                    "Jeepers creepers, where'd ya get those peepers?",
+                    "Oh, those weepers, how they hypnotize!",
+                    "Where'd ya get those eyes?"
+                ],
+                "footer": "Writer(s): Harry Warren, Johnny Mercer\nLyrics powered by www.musixmatch.com",
+                "tabname": "Lyrics",
+                "beacondata": {
+                    "lyricsid": "8176699",
+                    "providername": "musixmatch",
+                    "commontrackid": "18671396"
+                }
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/11104201/youtube/video?q=Lester+Young+%22Jeepers,+Creepers%22"
+            }
+        ],
+        "url": "https://www.shazam.com/track/11104201/jeepers-creepers",
+        "artists": [
+            {
+                "id": "42",
+                "adamid": "121027"
+            }
+        ],
+        "isrc": "USGR19906435",
+        "genres": {
+            "primary": "Jazz"
+        },
+        "urlparams": {
+            "{tracktitle}": "Jeepers%2C+Creepers",
+            "{trackartist}": "Lester+Young"
+        },
+        "myshazam": {
+            "apple": {
+                "actions": [
+                    {
+                        "name": "myshazam:apple",
+                        "type": "uri",
+                        "uri": "https://music.apple.com/gb/album/jeepers-creepers/1498503767?i=1498503778&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                ]
+            }
+        },
+        "highlightsurls": {
+            "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/121027/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+        },
+        "albumadamid": "1498503767"
+    },
+    "tagid": "E5A923CB-3E56-4D6B-B058-04E577EEBA8F"
+}

@@ -1,0 +1,262 @@
+{
+    "matches": [
+        {
+            "id": "210710833",
+            "offset": 29.89030664,
+            "timeskew": -6.264448e-05,
+            "frequencyskew": 0.0
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691633353789,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "3073244",
+        "title": "The Heart Won't Lie (feat. Vince Gill)",
+        "subtitle": "Reba McEntire",
+        "images": {
+            "background": "https://is5-ssl.mzstatic.com/image/thumb/Music115/v4/d5/ba/b3/d5bab329-4737-6674-2dfd-7e254832bb00/pr_source.png/800x800cc.jpg",
+            "coverart": "https://is4-ssl.mzstatic.com/image/thumb/Music118/v4/d5/47/30/d54730cd-c8a8-b9b8-2bf0-329504a21152/00602517372306.rgb.jpg/400x400cc.jpg",
+            "coverarthq": "https://is4-ssl.mzstatic.com/image/thumb/Music118/v4/d5/47/30/d54730cd-c8a8-b9b8-2bf0-329504a21152/00602517372306.rgb.jpg/400x400cc.jpg",
+            "joecolor": "b:030303p:6dc8bcs:f0a85et:58a097q:c1874c"
+        },
+        "share": {
+            "subject": "The Heart Won't Lie (feat. Vince Gill) - Reba McEntire",
+            "text": "The Heart Won't Lie (feat. Vince Gill) by Reba McEntire",
+            "href": "https://www.shazam.com/track/3073244/the-heart-wont-lie-feat-vince-gill",
+            "image": "https://is4-ssl.mzstatic.com/image/thumb/Music118/v4/d5/47/30/d54730cd-c8a8-b9b8-2bf0-329504a21152/00602517372306.rgb.jpg/400x400cc.jpg",
+            "twitter": "I used @Shazam to discover The Heart Won't Lie (feat. Vince Gill) by Reba McEntire.",
+            "html": "https://www.shazam.com/snippets/email-share/3073244?lang=en-US&country=GB",
+            "avatar": "https://is5-ssl.mzstatic.com/image/thumb/Music115/v4/d5/ba/b3/d5bab329-4737-6674-2dfd-7e254832bb00/pr_source.png/800x800cc.jpg",
+            "snapchat": "https://www.shazam.com/partner/sc/track/3073244"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "actions": [
+                {
+                    "name": "apple",
+                    "type": "applemusicplay",
+                    "id": "1444193072"
+                },
+                {
+                    "name": "apple",
+                    "type": "uri",
+                    "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/f1/ba/8e/f1ba8e32-6d89-e574-8a2d-6979563100c4/mzaf_12742286811481162036.plus.aac.ep.m4a"
+                }
+            ],
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/gb/album/the-heart-wont-lie-feat-vince-gill/1444192623?i=1444193072&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/gb/album/the-heart-wont-lie-feat-vince-gill/1444192623?i=1444193072&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                },
+                {
+                    "caption": "BUY",
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "uri": "https://itunes.apple.com/gb/album/the-heart-wont-lie-feat-vince-gill/1444192623?i=1444193072&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "buy",
+                        "providername": "itunes"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "type": "buy",
+                    "listcaption": "Buy on iTunes",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "itunes"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:The%20Heart%20Won%27t%20Lie%20%28feat.%20Vince%20Gill%29%20Reba%20McEntire"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27The+Heart+Won%5C%27t+Lie+%28feat.+Vince+Gill%29%27%20artist%3A%27Reba+McEntire%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": false,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [
+                    {
+                        "image": "https://is5-ssl.mzstatic.com/image/thumb/Music115/v4/d5/ba/b3/d5bab329-4737-6674-2dfd-7e254832bb00/pr_source.png/800x800cc.jpg",
+                        "caption": "Reba McEntire"
+                    },
+                    {
+                        "image": "https://is4-ssl.mzstatic.com/image/thumb/Music118/v4/d5/47/30/d54730cd-c8a8-b9b8-2bf0-329504a21152/00602517372306.rgb.jpg/400x400cc.jpg",
+                        "caption": "The Heart Won't Lie (feat. Vince Gill)"
+                    }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                    {
+                        "title": "Album",
+                        "text": "It's Your Call"
+                    },
+                    {
+                        "title": "Label",
+                        "text": "MCA Nashville"
+                    },
+                    {
+                        "title": "Released",
+                        "text": "1992"
+                    }
+                ]
+            },
+            {
+                "type": "LYRICS",
+                "text": [
+                    "Looking back over the years",
+                    "Of all the things I've always meant to say",
+                    "But the words didn't come easily",
+                    "So many times through empty fears",
+                    "Of all the nights I tried to pick up the phone",
+                    "So scared of who might be answering",
+                    "",
+                    "You try to live your life from day to day",
+                    "But seeing you across the room tonight",
+                    "Just gives me away",
+                    "",
+                    "Because the heart won't lie",
+                    "Sometimes life gets in the way",
+                    "But there's one thing that won't change",
+                    "I know I've tried",
+                    "The heart won't lie",
+                    "You can live your alibi",
+                    "Who can see you're lost inside a foolish disguise",
+                    "The heart won't lie",
+                    "",
+                    "Long after tonight",
+                    "Will you still hear my voice through the radio",
+                    "Old desires make us act carelessly",
+                    "Long after tonight, after the fire",
+                    "After the scattered ashes fly",
+                    "Through the four winds blown and gone",
+                    "Will you come back to me?",
+                    "",
+                    "You try to live your life from day to day",
+                    "But seeing you across the room tonight",
+                    "Just gives me away",
+                    "",
+                    "Because the heart won't lie",
+                    "Sometimes life gets in the way",
+                    "But there's one thing that won't change",
+                    "I know I've tried",
+                    "The heart won't lie",
+                    "You can live your alibi",
+                    "Who can see you're lost inside a foolish disguise",
+                    "The heart won't lie",
+                    "",
+                    "The heart won't lie"
+                ],
+                "url": "https://cdn.shazam.com/lyrics/v1/en-US/GB/iphone/musixmatch/subtitles/1113727/201/1?token=79b0a85d49c2fd355b89b19c423a6bef",
+                "footer": "Writer(s): Kim Carnes, Donna Terry Weiss\nLyrics powered by www.musixmatch.com",
+                "tabname": "Lyrics",
+                "beacondata": {
+                    "lyricsid": "26117935",
+                    "providername": "musixmatch",
+                    "commontrackid": "1113727"
+                }
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/3073244/youtube/video?q=Reba+McEntire+%22The+Heart+Won't+Lie+(feat.+Vince+Gill)%22"
+            },
+            {
+                "type": "RELATED",
+                "url": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-3073244?startFrom=0&pageSize=20&connected=",
+                "tabname": "Related"
+            }
+        ],
+        "url": "https://www.shazam.com/track/3073244/the-heart-wont-lie-feat-vince-gill",
+        "artists": [
+            {
+                "id": "42",
+                "adamid": "48529"
+            }
+        ],
+        "isrc": "USMC19239273",
+        "genres": {
+            "primary": "Country"
+        },
+        "urlparams": {
+            "{tracktitle}": "The+Heart+Won%27t+Lie+%28feat.+Vince+Gill%29",
+            "{trackartist}": "Reba+McEntire"
+        },
+        "myshazam": {
+            "apple": {
+                "actions": [
+                    {
+                        "name": "myshazam:apple",
+                        "type": "uri",
+                        "uri": "https://music.apple.com/gb/album/the-heart-wont-lie-feat-vince-gill/1444192623?i=1444193072&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                ]
+            }
+        },
+        "highlightsurls": {
+            "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/48529/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios&videoIdToFilter=1446858171",
+            "trackhighlighturl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/highlights/1446858171?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+        },
+        "relatedtracksurl": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-3073244?startFrom=0&pageSize=20&connected=",
+        "albumadamid": "1444192623"
+    },
+    "tagid": "11E2DC9D-5E15-439C-8950-1D8064F055E6"
+}

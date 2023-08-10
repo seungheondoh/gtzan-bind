@@ -1,0 +1,195 @@
+{
+    "matches": [
+        {
+            "id": "202413711",
+            "offset": 30.000001952999998,
+            "timeskew": 0.00014650822,
+            "frequencyskew": -8.0525875e-05
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691633120997,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "70340103",
+        "title": "Let's Dance Gay in Green Meadow, \"Faeroe Island Dance\"",
+        "subtitle": "Clark Rundell & Royal Northern College of Music Wind Orchestra",
+        "images": {
+            "background": "https://is2-ssl.mzstatic.com/image/thumb/Music116/v4/c4/d6/08/c4d60870-61bf-b726-ceca-74fcb8432c9c/5059864954931_cover.jpg/400x400cc.jpg",
+            "coverart": "https://is2-ssl.mzstatic.com/image/thumb/Music116/v4/c4/d6/08/c4d60870-61bf-b726-ceca-74fcb8432c9c/5059864954931_cover.jpg/400x400cc.jpg",
+            "coverarthq": "https://is2-ssl.mzstatic.com/image/thumb/Music116/v4/c4/d6/08/c4d60870-61bf-b726-ceca-74fcb8432c9c/5059864954931_cover.jpg/400x400cc.jpg",
+            "joecolor": "b:ffc46ap:470b13s:3a2a24t:6c3024q:624932"
+        },
+        "share": {
+            "subject": "Let's Dance Gay in Green Meadow, \"Faeroe Island Dance\" - Clark Rundell & Royal Northern College of Music Wind Orchestra",
+            "text": "Let's Dance Gay in Green Meadow, \"Faeroe Island Dance\" by Clark Rundell & Royal Northern College of Music Wind Orchestra",
+            "href": "https://www.shazam.com/track/70340103/lets-dance-gay-in-green-meadow-faeroe-island-dance",
+            "image": "https://is2-ssl.mzstatic.com/image/thumb/Music116/v4/c4/d6/08/c4d60870-61bf-b726-ceca-74fcb8432c9c/5059864954931_cover.jpg/400x400cc.jpg",
+            "twitter": "I used @Shazam to discover Let's Dance Gay in Green Meadow, \"Faeroe Island Dance\" by Clark Rundell & Royal Northern College of Music Wind Orchestra.",
+            "html": "https://www.shazam.com/snippets/email-share/70340103?lang=en-US&country=GB",
+            "snapchat": "https://www.shazam.com/partner/sc/track/70340103"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "actions": [
+                {
+                    "name": "apple",
+                    "type": "applemusicplay",
+                    "id": "1599848144"
+                },
+                {
+                    "name": "apple",
+                    "type": "uri",
+                    "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/20/6a/72/206a7215-39cf-85a6-3f20-8170e9352712/mzaf_2123966164326526898.plus.aac.ep.m4a"
+                }
+            ],
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/gb/album/lets-dance-gay-in-green-meadow-faeroe-island-dance/1599848136?i=1599848144&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/gb/album/lets-dance-gay-in-green-meadow-faeroe-island-dance/1599848136?i=1599848144&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                },
+                {
+                    "caption": "BUY",
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "uri": "https://itunes.apple.com/gb/album/lets-dance-gay-in-green-meadow-faeroe-island-dance/1599848136?i=1599848144&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "buy",
+                        "providername": "itunes"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "type": "buy",
+                    "listcaption": "Buy on iTunes",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "itunes"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:Let%27s%20Dance%20Gay%20in%20Green%20Meadow%2C%20%22Faeroe%20Island%20Dance%22%20Clark%20Rundell"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27Let%5C%27s+Dance+Gay+in+Green+Meadow%2C+%22Faeroe+Island+Dance%22%27%20artist%3A%27Clark+Rundell++Royal+Northern+College+of+Music+Wind+Orchestra%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": false,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [
+                    {
+                        "image": "https://is2-ssl.mzstatic.com/image/thumb/Music116/v4/c4/d6/08/c4d60870-61bf-b726-ceca-74fcb8432c9c/5059864954931_cover.jpg/400x400cc.jpg",
+                        "caption": "Let's Dance Gay in Green Meadow, \"Faeroe Island Dance\""
+                    }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                    {
+                        "title": "Album",
+                        "text": "The Grainger Edition, Vol. 4"
+                    },
+                    {
+                        "title": "Label",
+                        "text": "Chandos"
+                    },
+                    {
+                        "title": "Released",
+                        "text": "1997"
+                    }
+                ]
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/70340103/youtube/video?q=Clark+Rundell+%26+Royal+Northern+College+of+Music+Wind+Orchestra+%22Let's+Dance+Gay+in+Green+Meadow,+Faeroe+Island+Dance%22"
+            }
+        ],
+        "url": "https://www.shazam.com/track/70340103/lets-dance-gay-in-green-meadow-faeroe-island-dance",
+        "artists": [
+            {
+                "id": "42",
+                "adamid": "217844860"
+            }
+        ],
+        "isrc": "GBLWD9703803",
+        "genres": {
+            "primary": "Classical"
+        },
+        "urlparams": {
+            "{tracktitle}": "Let%27s+Dance+Gay+in+Green+Meadow%2C+%22Faeroe+Island+Dance%22",
+            "{trackartist}": "Clark+Rundell+%26+Royal+Northern+College+of+Music+Wind+Orchestra"
+        },
+        "myshazam": {
+            "apple": {
+                "actions": [
+                    {
+                        "name": "myshazam:apple",
+                        "type": "uri",
+                        "uri": "https://music.apple.com/gb/album/lets-dance-gay-in-green-meadow-faeroe-island-dance/1599848136?i=1599848144&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                ]
+            }
+        },
+        "highlightsurls": {
+            "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/217844860/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+        },
+        "albumadamid": "1599848136"
+    },
+    "tagid": "22CD9517-44D4-4653-86DD-E9B9AD31842C"
+}

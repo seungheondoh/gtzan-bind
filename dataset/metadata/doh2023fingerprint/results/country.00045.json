@@ -1,0 +1,289 @@
+{
+    "matches": [
+        {
+            "id": "331870146",
+            "offset": 29.866658203,
+            "timeskew": -4.5895576e-05,
+            "frequencyskew": -4.029274e-05
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691633489997,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "225956",
+        "title": "Any Man Of Mine",
+        "subtitle": "Shania Twain",
+        "images": {
+            "background": "https://is4-ssl.mzstatic.com/image/thumb/AMCArtistImages122/v4/d0/65/9b/d0659bde-5695-5f48-c2c6-d58383ccde7f/16d3062e-63cf-4cd1-8d71-2a090e217853_ami-identity-5588c33d23e9666c42d11cb980599166-2022-10-29T10-59-52.932Z_cropped.png/800x800cc.jpg",
+            "coverart": "https://is5-ssl.mzstatic.com/image/thumb/Music122/v4/65/0b/fd/650bfd2e-d36c-72da-ee71-faed3e7e18a0/21UMGIM94393.rgb.jpg/400x400cc.jpg",
+            "coverarthq": "https://is5-ssl.mzstatic.com/image/thumb/Music122/v4/65/0b/fd/650bfd2e-d36c-72da-ee71-faed3e7e18a0/21UMGIM94393.rgb.jpg/400x400cc.jpg",
+            "joecolor": "b:f8f4f1p:511125s:501c2dt:723e4eq:714754"
+        },
+        "share": {
+            "subject": "Any Man Of Mine - Shania Twain",
+            "text": "Any Man Of Mine by Shania Twain",
+            "href": "https://www.shazam.com/track/225956/any-man-of-mine",
+            "image": "https://is5-ssl.mzstatic.com/image/thumb/Music122/v4/65/0b/fd/650bfd2e-d36c-72da-ee71-faed3e7e18a0/21UMGIM94393.rgb.jpg/400x400cc.jpg",
+            "twitter": "I used @Shazam to discover Any Man Of Mine by Shania Twain.",
+            "html": "https://www.shazam.com/snippets/email-share/225956?lang=en-US&country=GB",
+            "avatar": "https://is4-ssl.mzstatic.com/image/thumb/AMCArtistImages122/v4/d0/65/9b/d0659bde-5695-5f48-c2c6-d58383ccde7f/16d3062e-63cf-4cd1-8d71-2a090e217853_ami-identity-5588c33d23e9666c42d11cb980599166-2022-10-29T10-59-52.932Z_cropped.png/800x800cc.jpg",
+            "snapchat": "https://www.shazam.com/partner/sc/track/225956"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "actions": [
+                {
+                    "name": "apple",
+                    "type": "applemusicplay",
+                    "id": "1555613312"
+                },
+                {
+                    "name": "apple",
+                    "type": "uri",
+                    "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/55/b0/18/55b018a6-37e1-bc8a-ef29-850e28474c30/mzaf_17233696598086898536.plus.aac.ep.m4a"
+                }
+            ],
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/gb/album/any-man-of-mine/1555613299?i=1555613312&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/gb/album/any-man-of-mine/1555613299?i=1555613312&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                },
+                {
+                    "caption": "BUY",
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "uri": "https://itunes.apple.com/gb/album/any-man-of-mine/1555613299?i=1555613312&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "buy",
+                        "providername": "itunes"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "type": "buy",
+                    "listcaption": "Buy on iTunes",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "itunes"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:Any%20Man%20Of%20Mine%20Shania%20Twain"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27Any+Man+Of+Mine%27%20artist%3A%27Shania+Twain%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": false,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [
+                    {
+                        "image": "https://is4-ssl.mzstatic.com/image/thumb/AMCArtistImages122/v4/d0/65/9b/d0659bde-5695-5f48-c2c6-d58383ccde7f/16d3062e-63cf-4cd1-8d71-2a090e217853_ami-identity-5588c33d23e9666c42d11cb980599166-2022-10-29T10-59-52.932Z_cropped.png/800x800cc.jpg",
+                        "caption": "Shania Twain"
+                    },
+                    {
+                        "image": "https://is5-ssl.mzstatic.com/image/thumb/Music122/v4/65/0b/fd/650bfd2e-d36c-72da-ee71-faed3e7e18a0/21UMGIM94393.rgb.jpg/400x400cc.jpg",
+                        "caption": "Any Man Of Mine"
+                    }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                    {
+                        "title": "Album",
+                        "text": "Women To The Front: Shania Twain - EP"
+                    },
+                    {
+                        "title": "Label",
+                        "text": "UME - Global Clearing House"
+                    },
+                    {
+                        "title": "Released",
+                        "text": "1995"
+                    }
+                ]
+            },
+            {
+                "type": "LYRICS",
+                "text": [
+                    "Woo!",
+                    "",
+                    "This is what a woman wants",
+                    "",
+                    "Any man of mine better be proud of me",
+                    "Even when I'm ugly, he still better love me",
+                    "And I can be late for a date that's fine",
+                    "But he better be on time",
+                    "",
+                    "Any man of mine will say it fits just right",
+                    "When last year's dress is just a little too tight",
+                    "And anythin' I do or say better be okay",
+                    "When I have a bad hair day",
+                    "",
+                    "And if I change my mind",
+                    "A million times",
+                    "I wanna hear him say",
+                    "\"Yeah (yeah), yeah (yeah), yeah, I like it that way\"",
+                    "",
+                    "Any man of mine better walk the line",
+                    "Better show me a teasin', squeezin', pleasin' kinda time",
+                    "I need a man who knows, how the story goes",
+                    "He's gotta be a heartbeatin', fine treatin'",
+                    "Breathtakin' earthquakin' kind",
+                    "Any man of mine",
+                    "Woo!",
+                    "Well, any man of mine better disagree",
+                    "When I say another woman's lookin' better than me",
+                    "And when I cook him dinner and I burn it black",
+                    "He better say: \"Hmm, I like it like that, yeah\"",
+                    "",
+                    "And if I changed my mind",
+                    "A million times",
+                    "I wanna hear him say",
+                    "\"Yeah (yeah), yeah (yeah), yeah, I like it that way\"",
+                    "",
+                    "Any man of mine better walk the line",
+                    "Better show me a teasin', squeezin', pleasin' kinda time",
+                    "I need a man who knows, how the story goes",
+                    "He's gotta be a heartbeatin', fine treatin'",
+                    "Breathtakin' earthquakin' kind",
+                    "Any man of mine",
+                    "Woo!",
+                    "",
+                    "Let me hear ya say",
+                    "\"Yeah (yeah), yeah (yeah), yeah, I like it that way\"",
+                    "(Any man, any man, any man)",
+                    "",
+                    "Any man of mine better walk the line",
+                    "Better show me a teasin', squeezin', pleasin' kinda time",
+                    "I need a man who knows, how the story goes",
+                    "He's gotta be a heartbeatin', fine treatin'",
+                    "Breathtakin' earthquakin' kind",
+                    "Any man of mine",
+                    "Woo!",
+                    "",
+                    "You gotta shimmy and shake",
+                    "Make the Earth quake",
+                    "Kick and turn, stomp, stomp",
+                    "Then you jump, heel to toe, Do Si Do",
+                    "'Til your boots wanna break",
+                    "'Til your feet and your back ache",
+                    "",
+                    "Keep it movin' 'til you just can't take anymore",
+                    "Come on, everybody on the floor",
+                    "A-one, two, a-three, four",
+                    "Hup two, hup, yeah",
+                    "If you wanna be a man of mine, that's right",
+                    "This is what a woman wants"
+                ],
+                "url": "https://cdn.shazam.com/lyrics/v1/en-US/GB/iphone/musixmatch/subtitles/143095/246/1?token=3acae7fcb445950ec9902c8aa78276c7",
+                "footer": "Writer(s): Robert John Lange, Shania Twain\nLyrics powered by www.musixmatch.com",
+                "tabname": "Lyrics",
+                "beacondata": {
+                    "lyricsid": "30285254",
+                    "providername": "musixmatch",
+                    "commontrackid": "143095"
+                }
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/225956/youtube/video?q=Shania+Twain+%22Any+Man+Of+Mine%22"
+            },
+            {
+                "type": "RELATED",
+                "url": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-225956?startFrom=0&pageSize=20&connected=",
+                "tabname": "Related"
+            }
+        ],
+        "url": "https://www.shazam.com/track/225956/any-man-of-mine",
+        "artists": [
+            {
+                "id": "42",
+                "adamid": "129974"
+            }
+        ],
+        "isrc": "USPR39402722",
+        "genres": {
+            "primary": "Country"
+        },
+        "urlparams": {
+            "{tracktitle}": "Any+Man+Of+Mine",
+            "{trackartist}": "Shania+Twain"
+        },
+        "myshazam": {
+            "apple": {
+                "actions": [
+                    {
+                        "name": "myshazam:apple",
+                        "type": "uri",
+                        "uri": "https://music.apple.com/gb/album/any-man-of-mine/1555613299?i=1555613312&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                ]
+            }
+        },
+        "highlightsurls": {
+            "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/129974/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios&videoIdToFilter=1445828607",
+            "trackhighlighturl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/highlights/1445828607?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+        },
+        "relatedtracksurl": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-225956?startFrom=0&pageSize=20&connected=",
+        "albumadamid": "1555613299"
+    },
+    "tagid": "5084B25A-7526-4573-9669-501BF5E5B3AD"
+}

@@ -1,0 +1,212 @@
+{
+    "matches": [
+        {
+            "id": "264430889",
+            "offset": 29.914220702999998,
+            "timeskew": 0.000103235245,
+            "frequencyskew": -8.0525875e-05
+        },
+        {
+            "id": "298737659",
+            "offset": 29.946488281,
+            "timeskew": -2.0802021e-05,
+            "frequencyskew": 0.0
+        },
+        {
+            "id": "10983980",
+            "offset": 29.742728515,
+            "timeskew": -0.0038706064,
+            "frequencyskew": -0.0019714832
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691633699026,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "60395256",
+        "title": "Across the River",
+        "subtitle": "Anthrax",
+        "images": {
+            "background": "https://is4-ssl.mzstatic.com/image/thumb/Features125/v4/26/a2/b9/26a2b96f-4be8-5ff6-f0ea-9f111811f333/pr_source.png/800x800cc.jpg",
+            "coverart": "https://is5-ssl.mzstatic.com/image/thumb/Music1/v4/dc/c2/ef/dcc2ef62-26db-7b07-f28e-de97e5a41cbc/884977154559.tif/400x400cc.jpg",
+            "coverarthq": "https://is5-ssl.mzstatic.com/image/thumb/Music1/v4/dc/c2/ef/dcc2ef62-26db-7b07-f28e-de97e5a41cbc/884977154559.tif/400x400cc.jpg",
+            "joecolor": "b:1e1b1fp:e2a58cs:d8a799t:ba8a76q:b38b81"
+        },
+        "share": {
+            "subject": "Across the River - Anthrax",
+            "text": "Across the River by Anthrax",
+            "href": "https://www.shazam.com/track/60395256/across-the-river",
+            "image": "https://is5-ssl.mzstatic.com/image/thumb/Music1/v4/dc/c2/ef/dcc2ef62-26db-7b07-f28e-de97e5a41cbc/884977154559.tif/400x400cc.jpg",
+            "twitter": "I used @Shazam to discover Across the River by Anthrax.",
+            "html": "https://www.shazam.com/snippets/email-share/60395256?lang=en-US&country=GB",
+            "avatar": "https://is4-ssl.mzstatic.com/image/thumb/Features125/v4/26/a2/b9/26a2b96f-4be8-5ff6-f0ea-9f111811f333/pr_source.png/800x800cc.jpg",
+            "snapchat": "https://www.shazam.com/partner/sc/track/60395256"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "actions": [
+                {
+                    "name": "apple",
+                    "type": "applemusicplay",
+                    "id": "932622996"
+                },
+                {
+                    "name": "apple",
+                    "type": "uri",
+                    "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/d9/7c/96/d97c9671-d603-072e-4593-c6b95a031811/mzaf_12992731545483055686.plus.aac.p.m4a"
+                }
+            ],
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/gb/album/across-the-river/932619879?i=932622996&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/gb/album/across-the-river/932619879?i=932622996&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                },
+                {
+                    "caption": "BUY",
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "uri": "https://itunes.apple.com/gb/album/across-the-river/932619879?i=932622996&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "buy",
+                        "providername": "itunes"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "type": "buy",
+                    "listcaption": "Buy on iTunes",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "itunes"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:Across%20the%20River%20Anthrax"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27Across+the+River%27%20artist%3A%27Anthrax%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": false,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [
+                    {
+                        "image": "https://is4-ssl.mzstatic.com/image/thumb/Features125/v4/26/a2/b9/26a2b96f-4be8-5ff6-f0ea-9f111811f333/pr_source.png/800x800cc.jpg",
+                        "caption": "Anthrax"
+                    },
+                    {
+                        "image": "https://is5-ssl.mzstatic.com/image/thumb/Music1/v4/dc/c2/ef/dcc2ef62-26db-7b07-f28e-de97e5a41cbc/884977154559.tif/400x400cc.jpg",
+                        "caption": "Across the River"
+                    }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                    {
+                        "title": "Album",
+                        "text": "Fistful of Metal"
+                    },
+                    {
+                        "title": "Label",
+                        "text": "Megaforce"
+                    },
+                    {
+                        "title": "Released",
+                        "text": "1984"
+                    }
+                ]
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/60395256/youtube/video?q=Anthrax+%22Across+the+River%22"
+            }
+        ],
+        "url": "https://www.shazam.com/track/60395256/across-the-river",
+        "artists": [
+            {
+                "id": "42",
+                "adamid": "80417"
+            }
+        ],
+        "isrc": "USME30900504",
+        "genres": {
+            "primary": "Metal"
+        },
+        "urlparams": {
+            "{tracktitle}": "Across+the+River",
+            "{trackartist}": "Anthrax"
+        },
+        "myshazam": {
+            "apple": {
+                "actions": [
+                    {
+                        "name": "myshazam:apple",
+                        "type": "uri",
+                        "uri": "https://music.apple.com/gb/album/across-the-river/932619879?i=932622996&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                ]
+            }
+        },
+        "highlightsurls": {
+            "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/80417/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+        },
+        "albumadamid": "932619879"
+    },
+    "tagid": "FF3ABD33-827C-4635-9DC7-299E7FBC41FC"
+}

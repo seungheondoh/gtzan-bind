@@ -1,0 +1,282 @@
+{
+    "matches": [
+        {
+            "id": "10657634",
+            "offset": 30.429099609,
+            "timeskew": -0.008054197,
+            "frequencyskew": -0.00936383
+        },
+        {
+            "id": "372450305",
+            "offset": 29.056734375,
+            "timeskew": -0.010916233,
+            "frequencyskew": -0.010655642
+        },
+        {
+            "id": "204166947",
+            "offset": 96.824328125,
+            "timeskew": -0.044039607,
+            "frequencyskew": -0.000120818615
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691632368215,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "2918402",
+        "title": "I Wanna Dance Wit'choo",
+        "subtitle": "Disco-Tex & His Sex-O-Lettes",
+        "images": {
+            "background": "https://is3-ssl.mzstatic.com/image/thumb/Music113/v4/48/26/db/4826db9c-392e-cbe9-7f92-e19d643a4580/193483699158.jpg/400x400cc.jpg",
+            "coverart": "https://is3-ssl.mzstatic.com/image/thumb/Music113/v4/48/26/db/4826db9c-392e-cbe9-7f92-e19d643a4580/193483699158.jpg/400x400cc.jpg",
+            "coverarthq": "https://is3-ssl.mzstatic.com/image/thumb/Music113/v4/48/26/db/4826db9c-392e-cbe9-7f92-e19d643a4580/193483699158.jpg/400x400cc.jpg",
+            "joecolor": "b:000008p:fafeffs:f90082t:c7cbcdq:c7006a"
+        },
+        "share": {
+            "subject": "I Wanna Dance Wit'choo - Disco-Tex & His Sex-O-Lettes",
+            "text": "I Wanna Dance Wit'choo by Disco-Tex & His Sex-O-Lettes",
+            "href": "https://www.shazam.com/track/2918402/i-wanna-dance-witchoo",
+            "image": "https://is3-ssl.mzstatic.com/image/thumb/Music113/v4/48/26/db/4826db9c-392e-cbe9-7f92-e19d643a4580/193483699158.jpg/400x400cc.jpg",
+            "twitter": "I used @Shazam to discover I Wanna Dance Wit'choo by Disco-Tex & His Sex-O-Lettes.",
+            "html": "https://www.shazam.com/snippets/email-share/2918402?lang=en-US&country=GB",
+            "snapchat": "https://www.shazam.com/partner/sc/track/2918402"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "actions": [
+                {
+                    "name": "apple",
+                    "type": "applemusicplay",
+                    "id": "1459455124"
+                },
+                {
+                    "name": "apple",
+                    "type": "uri",
+                    "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/bb/84/2e/bb842e11-6b40-d07f-dd78-80d9a3216af4/mzaf_16763816909566456947.plus.aac.ep.m4a"
+                }
+            ],
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/gb/album/i-wanna-dance-witchoo/1459454893?i=1459455124&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/gb/album/i-wanna-dance-witchoo/1459454893?i=1459455124&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                },
+                {
+                    "caption": "BUY",
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "uri": "https://itunes.apple.com/gb/album/i-wanna-dance-witchoo/1459454893?i=1459455124&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "buy",
+                        "providername": "itunes"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "type": "buy",
+                    "listcaption": "Buy on iTunes",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "itunes"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:I%20Wanna%20Dance%20Wit%27choo%20Disco-Tex%20%26%20His%20Sex-O-Lettes"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27I+Wanna+Dance+Wit%5C%27choo%27%20artist%3A%27Disco-Tex++His+Sex-O-Lettes%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": false,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [
+                    {
+                        "image": "https://is3-ssl.mzstatic.com/image/thumb/Music113/v4/48/26/db/4826db9c-392e-cbe9-7f92-e19d643a4580/193483699158.jpg/400x400cc.jpg",
+                        "caption": "I Wanna Dance Wit'choo"
+                    }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                    {
+                        "title": "Album",
+                        "text": "Disco Tex & His Sex-O-Lettes"
+                    },
+                    {
+                        "title": "Label",
+                        "text": "Fuel Records"
+                    },
+                    {
+                        "title": "Released",
+                        "text": "1975"
+                    }
+                ]
+            },
+            {
+                "type": "LYRICS",
+                "text": [
+                    "It's that time, showtime",
+                    "Can you feel it",
+                    "It's disco time, baby",
+                    "Do dat, do dat, do dat",
+                    "Do dat, do dat dance",
+                    "Do dat, do dat, do dat",
+                    "Do dat, do dat dance",
+                    "Do dat, do dat, do dat",
+                    "Do dat, do dat dance",
+                    "I wanna dance, dance, dance",
+                    "Shout it out, shout it out",
+                    "Diggy doo, diggy doo",
+                    "I wanna dance wit choo",
+                    "Chugalug, chugalug",
+                    "Cut a rug, jitterbug",
+                    "I wanna dance wit choo",
+                    "Do the bp, do the bp",
+                    "Boogie down, boogie down",
+                    "I wanna dance wit choo",
+                    "Hey, dig my rhinestone tap shoes",
+                    "Shout it out, shout it out",
+                    "Diggy doo, diggy doo",
+                    "I wanna dance wit choo",
+                    "Get it up, get it up",
+                    "Boogaloo, boogaloo",
+                    "I wanna dance wit choo",
+                    "Hey foxes, hey dudes",
+                    "Do you wanna know",
+                    "What I wanna do wit choo",
+                    "I wanna dance, wanna dance",
+                    "Wanna dance, yeah, I wanna dance",
+                    "I wanna dance, wanna dance",
+                    "Wanna dance, yeah, I wanna dance...",
+                    "Oh, I wanna dance wit choo",
+                    "Wanna rock and roll wit choo",
+                    "Have a ball wit choo",
+                    "Oh, I wanna rock wit choo",
+                    "Wanna mop the floor wit choo",
+                    "Wanna dance wit choo",
+                    "Ole, ole, do that dance, hey",
+                    "S-o-Lettes, strut your stuff",
+                    "Get hot, tear it up",
+                    "Dance with my band",
+                    "The Jam Band",
+                    "Dig it, dig it, dig it, dig it",
+                    "Dig it, dig it, dig it, dig it",
+                    "Dig it, dance wit choo",
+                    "I wanna dance, wanna dance",
+                    "Wanna dance, yeah, I wanna dance",
+                    "I wanna dance, wanna dance",
+                    "Wanna dance, yeah, I wanna dance...",
+                    "Oh, I wanna dance wit choo",
+                    "Wanna rock and roll wit choo",
+                    "Wanna hoochie koo",
+                    "Oh, I wanna dance with all the girls",
+                    "Til they roll around the room",
+                    "??"
+                ],
+                "footer": "Writer(s): Bob Crewe, Denny Randell\nLyrics powered by www.musixmatch.com",
+                "tabname": "Lyrics",
+                "beacondata": {
+                    "lyricsid": "16944678",
+                    "providername": "musixmatch",
+                    "commontrackid": "2512366"
+                }
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/2918402/youtube/video?q=Disco-Tex+%26+His+Sex-O-Lettes+%22I+Wanna+Dance+Wit'choo%22"
+            },
+            {
+                "type": "RELATED",
+                "url": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-2918402?startFrom=0&pageSize=20&connected=",
+                "tabname": "Related"
+            }
+        ],
+        "url": "https://www.shazam.com/track/2918402/i-wanna-dance-witchoo",
+        "artists": [
+            {
+                "id": "42",
+                "adamid": "219073212"
+            }
+        ],
+        "isrc": "QM6MZ1914828",
+        "genres": {
+            "primary": "Disco"
+        },
+        "urlparams": {
+            "{tracktitle}": "I+Wanna+Dance+Wit%27choo",
+            "{trackartist}": "Disco-Tex+%26+His+Sex-O-Lettes"
+        },
+        "myshazam": {
+            "apple": {
+                "actions": [
+                    {
+                        "name": "myshazam:apple",
+                        "type": "uri",
+                        "uri": "https://music.apple.com/gb/album/i-wanna-dance-witchoo/1459454893?i=1459455124&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                ]
+            }
+        },
+        "highlightsurls": {
+            "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/219073212/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+        },
+        "relatedtracksurl": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-2918402?startFrom=0&pageSize=20&connected=",
+        "albumadamid": "1459454893"
+    },
+    "tagid": "C43ABE17-51B9-412E-ADDD-C79930C58C25"
+}

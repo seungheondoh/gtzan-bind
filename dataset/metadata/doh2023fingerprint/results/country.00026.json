@@ -1,0 +1,232 @@
+{
+    "matches": [
+        {
+            "id": "262828339",
+            "offset": 30.117113281,
+            "timeskew": 0.00251925,
+            "frequencyskew": 0.0027019978
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691633382466,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "60279877",
+        "title": "Home Is Where You're Happy",
+        "subtitle": "Willie Nelson",
+        "images": {
+            "background": "https://is4-ssl.mzstatic.com/image/thumb/Features125/v4/b4/c2/9a/b4c29a1e-3b45-2b60-be65-dbb96d21e42a/mza_1383128222591135178.png/800x800cc.jpg",
+            "coverart": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/8b/14/81/8b1481df-200e-eb9d-e8f1-d7dbb21cab0f/dj.vqrdgkzd.jpg/400x400cc.jpg",
+            "coverarthq": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/8b/14/81/8b1481df-200e-eb9d-e8f1-d7dbb21cab0f/dj.vqrdgkzd.jpg/400x400cc.jpg",
+            "joecolor": "b:e3dad1p:0a0a0fs:201c18t:353336q:47423d"
+        },
+        "share": {
+            "subject": "Home Is Where You're Happy - Willie Nelson",
+            "text": "Home Is Where You're Happy by Willie Nelson",
+            "href": "https://www.shazam.com/track/60279877/home-is-where-youre-happy",
+            "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/8b/14/81/8b1481df-200e-eb9d-e8f1-d7dbb21cab0f/dj.vqrdgkzd.jpg/400x400cc.jpg",
+            "twitter": "I used @Shazam to discover Home Is Where You're Happy by Willie Nelson.",
+            "html": "https://www.shazam.com/snippets/email-share/60279877?lang=en-US&country=GB",
+            "avatar": "https://is4-ssl.mzstatic.com/image/thumb/Features125/v4/b4/c2/9a/b4c29a1e-3b45-2b60-be65-dbb96d21e42a/mza_1383128222591135178.png/800x800cc.jpg",
+            "snapchat": "https://www.shazam.com/partner/sc/track/60279877"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "actions": [
+                {
+                    "name": "apple",
+                    "type": "applemusicplay",
+                    "id": "278449406"
+                },
+                {
+                    "name": "apple",
+                    "type": "uri",
+                    "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/86/7c/a2/867ca2a3-b49e-e11f-1700-28e6dc439f27/mzaf_6601157527002994697.plus.aac.ep.m4a"
+                }
+            ],
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/gb/album/home-is-where-youre-happy/278449368?i=278449406&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/gb/album/home-is-where-youre-happy/278449368?i=278449406&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                },
+                {
+                    "caption": "BUY",
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "uri": "https://itunes.apple.com/gb/album/home-is-where-youre-happy/278449368?i=278449406&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "buy",
+                        "providername": "itunes"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "type": "buy",
+                    "listcaption": "Buy on iTunes",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "itunes"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:Home%20Is%20Where%20You%27re%20Happy%20Willie%20Nelson"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27Home+Is+Where+You%5C%27re+Happy%27%20artist%3A%27Willie+Nelson%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": false,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [
+                    {
+                        "image": "https://is4-ssl.mzstatic.com/image/thumb/Features125/v4/b4/c2/9a/b4c29a1e-3b45-2b60-be65-dbb96d21e42a/mza_1383128222591135178.png/800x800cc.jpg",
+                        "caption": "Willie Nelson"
+                    },
+                    {
+                        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/8b/14/81/8b1481df-200e-eb9d-e8f1-d7dbb21cab0f/dj.vqrdgkzd.jpg/400x400cc.jpg",
+                        "caption": "Home Is Where You're Happy"
+                    }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                    {
+                        "title": "Album",
+                        "text": "The Willie Way"
+                    },
+                    {
+                        "title": "Label",
+                        "text": "Legacy/CBS/Sony"
+                    },
+                    {
+                        "title": "Released",
+                        "text": "1972"
+                    }
+                ]
+            },
+            {
+                "type": "LYRICS",
+                "text": [
+                    "This room could not hold me for one short minute",
+                    "If you weren't here with me, I'd soon be gone",
+                    "And that chair is just a chair when you're not in it",
+                    "It takes more than rooms and chairs to make a home",
+                    "",
+                    "Home is where you're happy and I'm happy here with you",
+                    "Or anyplace on earth where you may be",
+                    "Home is where you're happy, just any house will do",
+                    "And I'll feel at home as long as you're with me",
+                    "",
+                    "And if time someday should 'cause this house to crumble",
+                    "We'll move into another love and all",
+                    "And if time someday should make your footsteps stumble",
+                    "Darlin' I'll be there to catch you should you fall",
+                    "",
+                    "Home is where you're happy and I'm happy here with you",
+                    "Or anyplace on earth where you may be",
+                    "Home is where you're happy, just any house will do",
+                    "And I'll feel at home as long as you're with me"
+                ],
+                "url": "https://cdn.shazam.com/lyrics/v1/en-US/GB/iphone/musixmatch/subtitles/14708436/185/1?token=3c04145cf2032c407961c9706b486e31",
+                "footer": "Writer(s): Willie Nelson\nLyrics powered by www.musixmatch.com",
+                "tabname": "Lyrics",
+                "beacondata": {
+                    "lyricsid": "24667512",
+                    "providername": "musixmatch",
+                    "commontrackid": "14708436"
+                }
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/60279877/youtube/video?q=Willie+Nelson+%22Home+Is+Where+You're+Happy%22"
+            }
+        ],
+        "url": "https://www.shazam.com/track/60279877/home-is-where-youre-happy",
+        "artists": [
+            {
+                "id": "42",
+                "adamid": "71676"
+            }
+        ],
+        "isrc": "USRN10800121",
+        "genres": {
+            "primary": "Country"
+        },
+        "urlparams": {
+            "{tracktitle}": "Home+Is+Where+You%27re+Happy",
+            "{trackartist}": "Willie+Nelson"
+        },
+        "myshazam": {
+            "apple": {
+                "actions": [
+                    {
+                        "name": "myshazam:apple",
+                        "type": "uri",
+                        "uri": "https://music.apple.com/gb/album/home-is-where-youre-happy/278449368?i=278449406&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                ]
+            }
+        },
+        "highlightsurls": {
+            "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/71676/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+        },
+        "albumadamid": "278449368"
+    },
+    "tagid": "EDB40E1F-4B1D-4FD7-B379-D181581FBC9A"
+}

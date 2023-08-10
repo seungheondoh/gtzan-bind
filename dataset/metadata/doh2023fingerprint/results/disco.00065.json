@@ -1,0 +1,263 @@
+{
+    "matches": [
+        {
+            "id": "258177552",
+            "offset": 30.164917968,
+            "timeskew": 0.00077724457,
+            "frequencyskew": 0.0005236864
+        },
+        {
+            "id": "68736211",
+            "offset": 29.790789061999998,
+            "timeskew": 0.00067448616,
+            "frequencyskew": 0.0004028082
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691632475170,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "323491",
+        "title": "Shame",
+        "subtitle": "Evelyn \"Champagne\" King",
+        "images": {
+            "background": "https://is2-ssl.mzstatic.com/image/thumb/Features115/v4/6e/14/14/6e141415-1d11-8001-9800-e09a337c2f0f/pr_source.png/800x800cc.jpg",
+            "coverart": "https://is4-ssl.mzstatic.com/image/thumb/Music124/v4/fc/b2/0d/fcb20d65-bf33-caea-6ef4-e81b39564147/886449074778.jpg/400x400cc.jpg",
+            "coverarthq": "https://is4-ssl.mzstatic.com/image/thumb/Music124/v4/fc/b2/0d/fcb20d65-bf33-caea-6ef4-e81b39564147/886449074778.jpg/400x400cc.jpg",
+            "joecolor": "b:090b0ap:fbe7e6s:deaca4t:cbbbbaq:b38b85"
+        },
+        "share": {
+            "subject": "Shame - Evelyn \"Champagne\" King",
+            "text": "Shame by Evelyn \"Champagne\" King",
+            "href": "https://www.shazam.com/track/323491/shame",
+            "image": "https://is4-ssl.mzstatic.com/image/thumb/Music124/v4/fc/b2/0d/fcb20d65-bf33-caea-6ef4-e81b39564147/886449074778.jpg/400x400cc.jpg",
+            "twitter": "I used @Shazam to discover Shame by Evelyn \"Champagne\" King.",
+            "html": "https://www.shazam.com/snippets/email-share/323491?lang=en-US&country=GB",
+            "avatar": "https://is2-ssl.mzstatic.com/image/thumb/Features115/v4/6e/14/14/6e141415-1d11-8001-9800-e09a337c2f0f/pr_source.png/800x800cc.jpg",
+            "snapchat": "https://www.shazam.com/partner/sc/track/323491"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "actions": [
+                {
+                    "name": "apple",
+                    "type": "applemusicplay",
+                    "id": "1552096469"
+                },
+                {
+                    "name": "apple",
+                    "type": "uri",
+                    "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/e6/de/1d/e6de1d95-faae-1363-a56e-02cd3f3a8ef4/mzaf_7665857799608295996.plus.aac.ep.m4a"
+                }
+            ],
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/gb/album/shame/1552096211?i=1552096469&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/gb/album/shame/1552096211?i=1552096469&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                },
+                {
+                    "caption": "BUY",
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "uri": "https://itunes.apple.com/gb/album/shame/1552096211?i=1552096469&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "buy",
+                        "providername": "itunes"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "type": "buy",
+                    "listcaption": "Buy on iTunes",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "itunes"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:Shame%20Evelyn%20%22Champagne%22%20King"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27Shame%27%20artist%3A%27Evelyn+%22Champagne%22+King%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": false,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [
+                    {
+                        "image": "https://is2-ssl.mzstatic.com/image/thumb/Features115/v4/6e/14/14/6e141415-1d11-8001-9800-e09a337c2f0f/pr_source.png/800x800cc.jpg",
+                        "caption": "Evelyn \"Champagne\" King"
+                    },
+                    {
+                        "image": "https://is4-ssl.mzstatic.com/image/thumb/Music124/v4/fc/b2/0d/fcb20d65-bf33-caea-6ef4-e81b39564147/886449074778.jpg/400x400cc.jpg",
+                        "caption": "Shame"
+                    }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                    {
+                        "title": "Album",
+                        "text": "Smooth Talk (Expanded Edition)"
+                    },
+                    {
+                        "title": "Label",
+                        "text": "RCA/Legacy"
+                    },
+                    {
+                        "title": "Released",
+                        "text": "1977"
+                    }
+                ]
+            },
+            {
+                "type": "LYRICS",
+                "text": [
+                    "I don't know if it's right",
+                    "To let you make love to me tonight",
+                    "I don't know if I should",
+                    "Give my love to you when I know you're no good",
+                    "",
+                    "I've got to make sure it's alright",
+                    "If I should let you love me tonight",
+                    "Before I let you kiss me I got to get the situation in hand",
+                    "Cause I don't want you just to be another man, whoa, whoa, whoa",
+                    "",
+                    "I don't know if it's right",
+                    "To let you make love to me tonight",
+                    "I don't know if I should",
+                    "Give my love to you when I know you're no good",
+                    "",
+                    "People tell me that you really know the right things to say",
+                    "Especially when you're tryin to get your way",
+                    "Gotta be careful, gotta be smart, gotta watch out for my heart",
+                    "I don't want it to be broken right from the start, oh, oh, oh, oh",
+                    "",
+                    "I don't know if it's right",
+                    "To let you make love to me tonight",
+                    "I don't know if I should",
+                    "Give my love to you when I know you're no good",
+                    "",
+                    "Oh, baby",
+                    "Yeah... hey... hey...",
+                    "Oh, oh, oh, oh",
+                    "",
+                    "I don't know if it's right",
+                    "To let you make love to me tonight",
+                    "I don't know if I should",
+                    "Give my love to you when I know you're no good",
+                    "",
+                    "I don't know if I should",
+                    "Give it to you when I know you're no good",
+                    "If it's right",
+                    "I just don't know, no, hey... hey..."
+                ],
+                "url": "https://cdn.shazam.com/lyrics/v1/en-US/GB/iphone/musixmatch/subtitles/10992162/393/1?token=f4e9c066200e245a0a416eae7ace5670",
+                "footer": "Writer(s): John Fitch, Reuben Cross\nLyrics powered by www.musixmatch.com",
+                "tabname": "Lyrics",
+                "beacondata": {
+                    "lyricsid": "8380839",
+                    "providername": "musixmatch",
+                    "commontrackid": "10992162"
+                }
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/323491/youtube/video?q=Evelyn+Champagne+King+%22Shame%22"
+            },
+            {
+                "type": "RELATED",
+                "url": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-323491?startFrom=0&pageSize=20&connected=",
+                "tabname": "Related"
+            }
+        ],
+        "url": "https://www.shazam.com/track/323491/shame",
+        "artists": [
+            {
+                "id": "42",
+                "adamid": "1255443"
+            }
+        ],
+        "isrc": "USRC17708313",
+        "genres": {
+            "primary": "R&B/Soul"
+        },
+        "urlparams": {
+            "{tracktitle}": "Shame",
+            "{trackartist}": "Evelyn+%22Champagne%22+King"
+        },
+        "myshazam": {
+            "apple": {
+                "actions": [
+                    {
+                        "name": "myshazam:apple",
+                        "type": "uri",
+                        "uri": "https://music.apple.com/gb/album/shame/1552096211?i=1552096469&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                ]
+            }
+        },
+        "highlightsurls": {
+            "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/1255443/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+        },
+        "relatedtracksurl": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-323491?startFrom=0&pageSize=20&connected=",
+        "albumadamid": "1552096211"
+    },
+    "tagid": "63546F31-C680-4569-BD79-55A1DB25EACB"
+}

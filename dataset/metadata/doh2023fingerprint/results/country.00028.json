@@ -1,0 +1,232 @@
+{
+    "matches": [
+        {
+            "id": "346619369",
+            "offset": 29.910667968000002,
+            "timeskew": -0.003516674,
+            "frequencyskew": -0.0036180615
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691633397283,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "10910791",
+        "title": "Would You Take Another Chance On Me?",
+        "subtitle": "Jerry Lee Lewis",
+        "images": {
+            "background": "https://is1-ssl.mzstatic.com/image/thumb/Features115/v4/8d/49/6b/8d496bb6-f33f-f315-9b79-9432864b0a71/mza_5991677802266353300.png/800x800cc.jpg",
+            "coverart": "https://is4-ssl.mzstatic.com/image/thumb/Music118/v4/c3/e3/59/c3e3595e-1de0-51d0-8d39-d2d12d2b78b6/00602557164077.rgb.jpg/400x400cc.jpg",
+            "coverarthq": "https://is4-ssl.mzstatic.com/image/thumb/Music118/v4/c3/e3/59/c3e3595e-1de0-51d0-8d39-d2d12d2b78b6/00602557164077.rgb.jpg/400x400cc.jpg",
+            "joecolor": "b:fde5e1p:040b07s:1d1c13t:353732q:4a443c"
+        },
+        "share": {
+            "subject": "Would You Take Another Chance On Me? - Jerry Lee Lewis",
+            "text": "Would You Take Another Chance On Me? by Jerry Lee Lewis",
+            "href": "https://www.shazam.com/track/10910791/would-you-take-another-chance-on-me",
+            "image": "https://is4-ssl.mzstatic.com/image/thumb/Music118/v4/c3/e3/59/c3e3595e-1de0-51d0-8d39-d2d12d2b78b6/00602557164077.rgb.jpg/400x400cc.jpg",
+            "twitter": "I used @Shazam to discover Would You Take Another Chance On Me? by Jerry Lee Lewis.",
+            "html": "https://www.shazam.com/snippets/email-share/10910791?lang=en-US&country=GB",
+            "avatar": "https://is1-ssl.mzstatic.com/image/thumb/Features115/v4/8d/49/6b/8d496bb6-f33f-f315-9b79-9432864b0a71/mza_5991677802266353300.png/800x800cc.jpg",
+            "snapchat": "https://www.shazam.com/partner/sc/track/10910791"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "actions": [
+                {
+                    "name": "apple",
+                    "type": "applemusicplay",
+                    "id": "1443817135"
+                },
+                {
+                    "name": "apple",
+                    "type": "uri",
+                    "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/ac/c6/78/acc678af-b552-78ef-f542-e726c2b446f3/mzaf_14416711509207938731.plus.aac.ep.m4a"
+                }
+            ],
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/gb/album/would-you-take-another-chance-on-me/1443817037?i=1443817135&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/gb/album/would-you-take-another-chance-on-me/1443817037?i=1443817135&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                },
+                {
+                    "caption": "BUY",
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "uri": "https://itunes.apple.com/gb/album/would-you-take-another-chance-on-me/1443817037?i=1443817135&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "buy",
+                        "providername": "itunes"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "type": "buy",
+                    "listcaption": "Buy on iTunes",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "itunes"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:Would%20You%20Take%20Another%20Chance%20On%20Me%3F%20Jerry%20Lee%20Lewis"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27Would+You+Take+Another+Chance+On+Me%3F%27%20artist%3A%27Jerry+Lee+Lewis%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": false,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [
+                    {
+                        "image": "https://is1-ssl.mzstatic.com/image/thumb/Features115/v4/8d/49/6b/8d496bb6-f33f-f315-9b79-9432864b0a71/mza_5991677802266353300.png/800x800cc.jpg",
+                        "caption": "Jerry Lee Lewis"
+                    },
+                    {
+                        "image": "https://is4-ssl.mzstatic.com/image/thumb/Music118/v4/c3/e3/59/c3e3595e-1de0-51d0-8d39-d2d12d2b78b6/00602557164077.rgb.jpg/400x400cc.jpg",
+                        "caption": "Would You Take Another Chance On Me?"
+                    }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                    {
+                        "title": "Album",
+                        "text": "Would You Take Another Chance On Me?"
+                    },
+                    {
+                        "title": "Label",
+                        "text": "Mercury Nashville"
+                    },
+                    {
+                        "title": "Released",
+                        "text": "1971"
+                    }
+                ]
+            },
+            {
+                "type": "LYRICS",
+                "text": [
+                    "If I promise you to straighten up and put my life in order",
+                    "If I swear to you woman on bended knees I won't hurt you again",
+                    "If I become the kind of man that you want me to be",
+                    "Would you take another chance on me",
+                    "The good Lord knows I've done you wrong I've asked him to forgive me",
+                    "Deep inside I think you would darlin' if you could do the same",
+                    "If I could take back all the things that caused you misery",
+                    "Would you take another chance on me",
+                    "Would you take another chance on me I've paid for my mistakes",
+                    "Would you take another chance on me or have I changed too late",
+                    "Mhm I've been a fool woman for hurting you but can't you see I'm sorry",
+                    "If only you were mine again I'd make it up to you",
+                    "But my past keeps blindin' you if you could only see",
+                    "Would you take another chance on me (think about that darling)"
+                ],
+                "footer": "Writer(s): Jerry Foster, Bill Rice\nLyrics powered by www.musixmatch.com",
+                "tabname": "Lyrics",
+                "beacondata": {
+                    "lyricsid": "1525666",
+                    "providername": "musixmatch",
+                    "commontrackid": "262667"
+                }
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/10910791/youtube/video?q=Jerry+Lee+Lewis+%22Would+You+Take+Another+Chance+On+Me?%22"
+            },
+            {
+                "type": "RELATED",
+                "url": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-10910791?startFrom=0&pageSize=20&connected=",
+                "tabname": "Related"
+            }
+        ],
+        "url": "https://www.shazam.com/track/10910791/would-you-take-another-chance-on-me",
+        "artists": [
+            {
+                "id": "42",
+                "adamid": "123130"
+            }
+        ],
+        "isrc": "USMR10500136",
+        "genres": {
+            "primary": "Country"
+        },
+        "urlparams": {
+            "{tracktitle}": "Would+You+Take+Another+Chance+On+Me%3F",
+            "{trackartist}": "Jerry+Lee+Lewis"
+        },
+        "myshazam": {
+            "apple": {
+                "actions": [
+                    {
+                        "name": "myshazam:apple",
+                        "type": "uri",
+                        "uri": "https://music.apple.com/gb/album/would-you-take-another-chance-on-me/1443817037?i=1443817135&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                ]
+            }
+        },
+        "highlightsurls": {
+            "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/123130/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+        },
+        "relatedtracksurl": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-10910791?startFrom=0&pageSize=20&connected=",
+        "albumadamid": "1443817037"
+    },
+    "tagid": "A32BD22F-9FC8-475D-98FD-EF7F967E8A18"
+}

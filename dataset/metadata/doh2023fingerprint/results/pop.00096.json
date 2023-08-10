@@ -1,0 +1,290 @@
+{
+    "matches": [
+        {
+            "id": "222541508",
+            "offset": 29.871541015,
+            "timeskew": -9.018183e-05,
+            "frequencyskew": -8.0525875e-05
+        },
+        {
+            "id": "222390266",
+            "offset": 29.650453125,
+            "timeskew": -3.3199787e-05,
+            "frequencyskew": -0.00016111135
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691632711180,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "45546869",
+        "title": "Quit Breaking My Heart",
+        "subtitle": "Mandy Moore",
+        "images": {
+            "background": "https://is4-ssl.mzstatic.com/image/thumb/Music126/v4/f4/2c/92/f42c92af-dcfb-468e-3160-73529ffb22cd/pr_source.png/800x800cc.jpg",
+            "coverart": "https://is3-ssl.mzstatic.com/image/thumb/Music/6f/c4/09/mzi.usnoynqk.jpg/400x400cc.jpg",
+            "coverarthq": "https://is3-ssl.mzstatic.com/image/thumb/Music/6f/c4/09/mzi.usnoynqk.jpg/400x400cc.jpg",
+            "joecolor": "b:ffffffp:110806s:3c2406t:413938q:635038"
+        },
+        "share": {
+            "subject": "Quit Breaking My Heart - Mandy Moore",
+            "text": "Quit Breaking My Heart by Mandy Moore",
+            "href": "https://www.shazam.com/track/45546869/quit-breaking-my-heart",
+            "image": "https://is3-ssl.mzstatic.com/image/thumb/Music/6f/c4/09/mzi.usnoynqk.jpg/400x400cc.jpg",
+            "twitter": "I used @Shazam to discover Quit Breaking My Heart by Mandy Moore.",
+            "html": "https://www.shazam.com/snippets/email-share/45546869?lang=en-US&country=GB",
+            "avatar": "https://is4-ssl.mzstatic.com/image/thumb/Music126/v4/f4/2c/92/f42c92af-dcfb-468e-3160-73529ffb22cd/pr_source.png/800x800cc.jpg",
+            "snapchat": "https://www.shazam.com/partner/sc/track/45546869"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "actions": [
+                {
+                    "name": "apple",
+                    "type": "applemusicplay",
+                    "id": "193018564"
+                },
+                {
+                    "name": "apple",
+                    "type": "uri",
+                    "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/8b/5a/e6/8b5ae6a7-eea4-3e32-a79e-681fc68cc9cf/mzaf_9089843170290669050.plus.aac.ep.m4a"
+                }
+            ],
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/gb/album/quit-breaking-my-heart/193018462?i=193018564&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/gb/album/quit-breaking-my-heart/193018462?i=193018564&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                },
+                {
+                    "caption": "BUY",
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "uri": "https://itunes.apple.com/gb/album/quit-breaking-my-heart/193018462?i=193018564&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "buy",
+                        "providername": "itunes"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "type": "buy",
+                    "listcaption": "Buy on iTunes",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "itunes"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:Quit%20Breaking%20My%20Heart%20Mandy%20Moore"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27Quit+Breaking+My+Heart%27%20artist%3A%27Mandy+Moore%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": false,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [
+                    {
+                        "image": "https://is4-ssl.mzstatic.com/image/thumb/Music126/v4/f4/2c/92/f42c92af-dcfb-468e-3160-73529ffb22cd/pr_source.png/800x800cc.jpg",
+                        "caption": "Mandy Moore"
+                    },
+                    {
+                        "image": "https://is3-ssl.mzstatic.com/image/thumb/Music/6f/c4/09/mzi.usnoynqk.jpg/400x400cc.jpg",
+                        "caption": "Quit Breaking My Heart"
+                    }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                    {
+                        "title": "Album",
+                        "text": "So Real"
+                    },
+                    {
+                        "title": "Label",
+                        "text": "Epic/550 Music"
+                    },
+                    {
+                        "title": "Released",
+                        "text": "1999"
+                    }
+                ]
+            },
+            {
+                "type": "LYRICS",
+                "text": [
+                    "You were my first slow dance",
+                    "Thought that we had a chance",
+                    "But together was too hard for you",
+                    "",
+                    "Hanging out with your friends",
+                    "And I accept these things",
+                    "All I need is for you to be true",
+                    "",
+                    "I know you care",
+                    "But it's just not fair",
+                    "When you're not around",
+                    "I want you there",
+                    "",
+                    "And you need to stop",
+                    "Breaking my heart",
+                    "",
+                    "Quit breaking my heart",
+                    "It's tearing apart",
+                    "All I need is for you to be true (you to be true)",
+                    "Quit breaking my heart",
+                    "It's tearing us apart (ohh)",
+                    "Baby (oh yeah)",
+                    "Quit breaking my heart",
+                    "",
+                    "Baby I don't feel this way 'bout everyone",
+                    "Something about you boy",
+                    "Nothing seems to be quite like this",
+                    "Holding your hand",
+                    "Touching my face",
+                    "Standing here waiting for our first kiss",
+                    "",
+                    "I know you care",
+                    "But it's just not fair",
+                    "When you're not around",
+                    "I want you there",
+                    "",
+                    "And you need to stop",
+                    "Breaking my heart",
+                    "",
+                    "Quit breaking my heart",
+                    "It's tearing apart",
+                    "All I need is for you to be true (all I need)",
+                    "Quit breaking my heart (ohh quit breaking my heart)",
+                    "It's tearing us apart (tearing us apart)",
+                    "Baby, (oh yeah)",
+                    "Quit breaking my heart",
+                    "",
+                    "Quit breaking my heart",
+                    "",
+                    "Ohh",
+                    "",
+                    "I know you care",
+                    "But it's just not fair",
+                    "When you're not around",
+                    "I want you there",
+                    "You need to stop",
+                    "You need to stop",
+                    "Ohhh",
+                    "Breaking my",
+                    "Heart",
+                    "Baby oh yeah",
+                    "Quit breaking my heart",
+                    "",
+                    "Quit breaking my heart",
+                    "It's tearing apart (tearing us apart)",
+                    "All I need is for you to be true",
+                    "Quit breaking my heart (oh quit breaking my heart)",
+                    "It's tearing apart",
+                    "All I need is for you to be",
+                    "True",
+                    "Quit breaking my heart"
+                ],
+                "url": "https://cdn.shazam.com/lyrics/v1/en-US/GB/iphone/musixmatch/subtitles/848393/231/1?token=6ec899591e5882db68fe455c20271ff5",
+                "footer": "Writer(s): Anthony C. Battaglia, Shaun Fisher\nLyrics powered by www.musixmatch.com",
+                "tabname": "Lyrics",
+                "beacondata": {
+                    "lyricsid": "27077722",
+                    "providername": "musixmatch",
+                    "commontrackid": "848393"
+                }
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/45546869/youtube/video?q=Mandy+Moore+%22Quit+Breaking+My+Heart%22"
+            }
+        ],
+        "url": "https://www.shazam.com/track/45546869/quit-breaking-my-heart",
+        "artists": [
+            {
+                "id": "42",
+                "adamid": "464984"
+            }
+        ],
+        "isrc": "USSM19901380",
+        "genres": {
+            "primary": "Pop"
+        },
+        "urlparams": {
+            "{tracktitle}": "Quit+Breaking+My+Heart",
+            "{trackartist}": "Mandy+Moore"
+        },
+        "myshazam": {
+            "apple": {
+                "actions": [
+                    {
+                        "name": "myshazam:apple",
+                        "type": "uri",
+                        "uri": "https://music.apple.com/gb/album/quit-breaking-my-heart/193018462?i=193018564&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                ]
+            }
+        },
+        "highlightsurls": {
+            "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/464984/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+        },
+        "albumadamid": "193018462"
+    },
+    "tagid": "A72EABBA-4A84-498F-9E63-EEF63F4CB301"
+}

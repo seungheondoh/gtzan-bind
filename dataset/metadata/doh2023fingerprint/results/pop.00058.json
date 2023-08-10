@@ -1,0 +1,334 @@
+{
+    "matches": [
+        {
+            "id": "488886295",
+            "offset": 34.401464843,
+            "timeskew": 0.003250599,
+            "frequencyskew": 0.0033483505
+        },
+        {
+            "id": "446959835",
+            "offset": 29.896037109,
+            "timeskew": 0.0033425093,
+            "frequencyskew": 0.0033079386
+        },
+        {
+            "id": "211186593",
+            "offset": 30.045332031,
+            "timeskew": 0.003395319,
+            "frequencyskew": 0.0033079386
+        },
+        {
+            "id": "157899227",
+            "offset": 44.546617187,
+            "timeskew": 0.0031641722,
+            "frequencyskew": 0.0032675266
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691632842108,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "215436",
+        "title": "Independent Women, Pt. I",
+        "subtitle": "Destiny's Child",
+        "images": {
+            "background": "https://is1-ssl.mzstatic.com/image/thumb/Features115/v4/23/46/07/234607da-f99e-870f-44e7-b8ceb8dec358/mza_17495699682120654147.png/800x800cc.jpg",
+            "coverart": "https://is4-ssl.mzstatic.com/image/thumb/Music/23/37/31/mzi.fwrnfctp.jpg/400x400cc.jpg",
+            "coverarthq": "https://is4-ssl.mzstatic.com/image/thumb/Music/23/37/31/mzi.fwrnfctp.jpg/400x400cc.jpg",
+            "joecolor": "b:030208p:feffffs:dbefe9t:cbcccdq:afc0bc"
+        },
+        "share": {
+            "subject": "Independent Women, Pt. I - Destiny's Child",
+            "text": "Independent Women, Pt. I by Destiny's Child",
+            "href": "https://www.shazam.com/track/215436/independent-women-pt-i",
+            "image": "https://is4-ssl.mzstatic.com/image/thumb/Music/23/37/31/mzi.fwrnfctp.jpg/400x400cc.jpg",
+            "twitter": "I used @Shazam to discover Independent Women, Pt. I by Destiny's Child.",
+            "html": "https://www.shazam.com/snippets/email-share/215436?lang=en-US&country=GB",
+            "avatar": "https://is1-ssl.mzstatic.com/image/thumb/Features115/v4/23/46/07/234607da-f99e-870f-44e7-b8ceb8dec358/mza_17495699682120654147.png/800x800cc.jpg",
+            "snapchat": "https://www.shazam.com/partner/sc/track/215436"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "actions": [
+                {
+                    "name": "apple",
+                    "type": "applemusicplay",
+                    "id": "456833968"
+                },
+                {
+                    "name": "apple",
+                    "type": "uri",
+                    "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/d5/95/bf/d595bf8c-eabb-c093-644e-870bb82b11f2/mzaf_1055319948561368638.plus.aac.ep.m4a"
+                }
+            ],
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/gb/album/independent-women-pt-i/456833951?i=456833968&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/gb/album/independent-women-pt-i/456833951?i=456833968&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                },
+                {
+                    "caption": "BUY",
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "uri": "https://itunes.apple.com/gb/album/independent-women-pt-i/456833951?i=456833968&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "buy",
+                        "providername": "itunes"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "type": "buy",
+                    "listcaption": "Buy on iTunes",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "itunes"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:Independent%20Women%2C%20Pt.%20I%20Destiny%27s%20Child"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27Independent+Women%2C+Pt.+I%27%20artist%3A%27Destiny%5C%27s+Child%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": false,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [
+                    {
+                        "image": "https://is1-ssl.mzstatic.com/image/thumb/Features115/v4/23/46/07/234607da-f99e-870f-44e7-b8ceb8dec358/mza_17495699682120654147.png/800x800cc.jpg",
+                        "caption": "Destiny's Child"
+                    },
+                    {
+                        "image": "https://is4-ssl.mzstatic.com/image/thumb/Music/23/37/31/mzi.fwrnfctp.jpg/400x400cc.jpg",
+                        "caption": "Independent Women, Pt. I"
+                    }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                    {
+                        "title": "Album",
+                        "text": "Independent Women, Pt. 1 (Remixes) - EP"
+                    },
+                    {
+                        "title": "Label",
+                        "text": "Columbia"
+                    },
+                    {
+                        "title": "Released",
+                        "text": "2000"
+                    }
+                ]
+            },
+            {
+                "type": "LYRICS",
+                "text": [
+                    "Lucy Liu",
+                    "With my girl, drew",
+                    "Cameron D. and destiny",
+                    "Charlie's Angels, come on (come on)",
+                    "Uh, uh, uh",
+                    "",
+                    "Question, tell me what you think about me?",
+                    "I buy my own diamonds and I buy my own rings",
+                    "Only ring your celly when I'm feelin' lonely",
+                    "When it's all over, please get up and leave",
+                    "",
+                    "Question, tell me how you feel about this?",
+                    "Try to control me, boy, you get dismissed",
+                    "Pay my own car note and I pay my own bills",
+                    "Always fifty fifty in relationships",
+                    "",
+                    "The shoes on my feet, I bought it",
+                    "Clothes I'm wearing, I bought it",
+                    "The rock I'm rocking, I bought it",
+                    "'Cause I depend on me if I want it",
+                    "The watch I'm wearing, I bought it",
+                    "The house I live in, I bought it",
+                    "The car I'm driving, I've bought it",
+                    "I depend on me (I depend on me)",
+                    "",
+                    "All the women, who independent",
+                    "Throw your hands up at me",
+                    "All the honeys, who making money",
+                    "Throw your hands up at me",
+                    "All the mommas, who profit dollars",
+                    "Throw your hands up at me",
+                    "All the ladies, who truly feel me",
+                    "Throw your hands up at me",
+                    "",
+                    "Girl, I didn't know you could get down like that",
+                    "Charlie, how your Angels get down like that?",
+                    "Girl, I didn't know you could get down like that",
+                    "Charlie, how your Angels get down like that?",
+                    "",
+                    "Tell me how you feel about this",
+                    "Do what I want, live how I wanna live",
+                    "I worked hard and sacrificed to get what I get",
+                    "Ladies, it ain't easy being independent",
+                    "",
+                    "Question, how'd you like this knowledge that I brought?",
+                    "Bragging on that cash that he gave you is to front",
+                    "If you're gonna brag, make sure it's your money you flaunt",
+                    "Depend on no one else to give you what you want",
+                    "",
+                    "The shoes on my feet, I bought it",
+                    "Clothes I'm wearing, I bought it",
+                    "The rock I'm rocking, I bought it",
+                    "'Cause I depend on me if I want it",
+                    "The watch I'm wearing, I bought it",
+                    "The house I live in, I bought it",
+                    "The car I'm driving, I've bought it",
+                    "I depend on me (I depend on me)",
+                    "",
+                    "All the women, who independent",
+                    "Throw your hands up at me",
+                    "All the honeys, who making money",
+                    "Throw your hands up at me",
+                    "All the mommas, who profit dollars",
+                    "Throw your hands up at me",
+                    "All the ladies, who truly feel me",
+                    "Throw your hands up at me",
+                    "",
+                    "Girl, I didn't know you could get down like that",
+                    "Charlie, how your Angels get down like that?",
+                    "Girl, I didn't know you could get down like that",
+                    "Charlie, how your Angels get down like that?",
+                    "",
+                    "Destiny's Child, wassup?",
+                    "You in the house? sure 'nuff",
+                    "We'll break these people off, Angel style",
+                    "Child of destiny, independent beauty",
+                    "No one else can scare me, woah ohh",
+                    "Charlie's Angels, woah",
+                    "",
+                    "All the women, who independent",
+                    "Throw your hands up at me",
+                    "All the honeys, who making money",
+                    "Throw your hands up at me",
+                    "All the mommas, who profit dollars",
+                    "Throw your hands up at me",
+                    "All the ladies, who truly feel me",
+                    "Throw your hands up at me",
+                    "",
+                    "Girl, I didn't know you could get down like that",
+                    "Charlie, how your Angels get down like that?",
+                    "Girl, I didn't know you could get down like that, oh-ohh",
+                    "Charlie, how your Angels get down like that?",
+                    "Girl, I didn't know you could get down like that",
+                    "Charlie, how your Angels get down like that?",
+                    "Girl, I didn't know you could get down like that",
+                    "Charlie, how your Angels get down like that?"
+                ],
+                "url": "https://cdn.shazam.com/lyrics/v1/en-US/GB/iphone/musixmatch/subtitles/12575092/216/1?token=e40c2adb7bf437bf4e1604e7c5be9653",
+                "footer": "Writer(s): Eric L. Seats, Rapture D. Stewart\nLyrics powered by www.musixmatch.com",
+                "tabname": "Lyrics",
+                "beacondata": {
+                    "lyricsid": "32197150",
+                    "providername": "musixmatch",
+                    "commontrackid": "12575092"
+                }
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/215436/youtube/video?q=Destiny's+Child+%22Independent+Women,+Pt.+I%22"
+            },
+            {
+                "type": "RELATED",
+                "url": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-215436?startFrom=0&pageSize=20&connected=",
+                "tabname": "Related"
+            }
+        ],
+        "url": "https://www.shazam.com/track/215436/independent-women-pt-i",
+        "artists": [
+            {
+                "id": "42",
+                "adamid": "634287"
+            }
+        ],
+        "isrc": "USSM10013276",
+        "genres": {
+            "primary": "R&B/Soul"
+        },
+        "urlparams": {
+            "{tracktitle}": "Independent+Women%2C+Pt.+I",
+            "{trackartist}": "Destiny%27s+Child"
+        },
+        "myshazam": {
+            "apple": {
+                "actions": [
+                    {
+                        "name": "myshazam:apple",
+                        "type": "uri",
+                        "uri": "https://music.apple.com/gb/album/independent-women-pt-i/456833951?i=456833968&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                ]
+            }
+        },
+        "highlightsurls": {
+            "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/634287/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios&videoIdToFilter=279015251",
+            "trackhighlighturl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/highlights/279015251?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+        },
+        "relatedtracksurl": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-215436?startFrom=0&pageSize=20&connected=",
+        "albumadamid": "456833951"
+    },
+    "tagid": "34FE2EAC-A1AC-4097-A34C-103775065B6F"
+}

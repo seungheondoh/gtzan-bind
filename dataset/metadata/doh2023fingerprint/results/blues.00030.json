@@ -1,0 +1,245 @@
+{
+    "matches": [
+        {
+            "id": "277755379",
+            "offset": 29.998789062,
+            "timeskew": 2.6345253e-05,
+            "frequencyskew": -4.029274e-05
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691632669439,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "544070",
+        "title": "River Rat Jimmy",
+        "subtitle": "Kelly Joe Phelps",
+        "images": {
+            "background": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/9b/05/ea/9b05ea19-6dde-14fc-ad10-09b5f2e4e692/mzi.mxxcjhap.jpg/400x400cc.jpg",
+            "coverart": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/9b/05/ea/9b05ea19-6dde-14fc-ad10-09b5f2e4e692/mzi.mxxcjhap.jpg/400x400cc.jpg",
+            "coverarthq": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/9b/05/ea/9b05ea19-6dde-14fc-ad10-09b5f2e4e692/mzi.mxxcjhap.jpg/400x400cc.jpg",
+            "joecolor": "b:9cbad4p:0b1e31s:11283ft:283d52q:2d455d"
+        },
+        "share": {
+            "subject": "River Rat Jimmy - Kelly Joe Phelps",
+            "text": "River Rat Jimmy by Kelly Joe Phelps",
+            "href": "https://www.shazam.com/track/544070/river-rat-jimmy",
+            "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/9b/05/ea/9b05ea19-6dde-14fc-ad10-09b5f2e4e692/mzi.mxxcjhap.jpg/400x400cc.jpg",
+            "twitter": "I used @Shazam to discover River Rat Jimmy by Kelly Joe Phelps.",
+            "html": "https://www.shazam.com/snippets/email-share/544070?lang=en-US&country=GB",
+            "snapchat": "https://www.shazam.com/partner/sc/track/544070"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "actions": [
+                {
+                    "name": "apple",
+                    "type": "applemusicplay",
+                    "id": "162488168"
+                },
+                {
+                    "name": "apple",
+                    "type": "uri",
+                    "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/d4/c6/ba/d4c6ba29-0cd1-3c3e-dfd7-9f4cfc9b610e/mzaf_3668851161108354265.plus.aac.ep.m4a"
+                }
+            ],
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/gb/album/river-rat-jimmy/162488101?i=162488168&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/gb/album/river-rat-jimmy/162488101?i=162488168&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                },
+                {
+                    "caption": "BUY",
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "uri": "https://itunes.apple.com/gb/album/river-rat-jimmy/162488101?i=162488168&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "buy",
+                        "providername": "itunes"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "type": "buy",
+                    "listcaption": "Buy on iTunes",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "itunes"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:River%20Rat%20Jimmy%20Kelly%20Joe%20Phelps"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27River+Rat+Jimmy%27%20artist%3A%27Kelly+Joe+Phelps%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": false,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [
+                    {
+                        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/9b/05/ea/9b05ea19-6dde-14fc-ad10-09b5f2e4e692/mzi.mxxcjhap.jpg/400x400cc.jpg",
+                        "caption": "River Rat Jimmy"
+                    }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                    {
+                        "title": "Album",
+                        "text": "Shine Eyed Mister Zen"
+                    },
+                    {
+                        "title": "Label",
+                        "text": "Ryko/Rhino"
+                    },
+                    {
+                        "title": "Released",
+                        "text": "2000"
+                    }
+                ]
+            },
+            {
+                "type": "LYRICS",
+                "text": [
+                    "Drums are still playing",
+                    "I can see them marching close",
+                    "This he walks like a shadow",
+                    "And that he dances like a ghost",
+                    "The one that looks like Jimmy, Lord he scares me the most",
+                    "River Rat Jimmy and Jehosophat",
+                    "",
+                    "Playing boyhood mumblypeg",
+                    "A six inch bowie blade",
+                    "Out the top my redwing kickers",
+                    "And down a muddy slippery grade",
+                    "To the fever pitch savannah where grand daddy lay",
+                    "River Rat Jimmy and Jehosophat",
+                    "",
+                    "Little Jimmy ghostie face",
+                    "Ate off the kitchen floor",
+                    "Cause woman-Mum threw dinner plates",
+                    "At drunken Dad on the door",
+                    "",
+                    "He would cop his cans of beer",
+                    "And close his eyes and soar",
+                    "River Rat Jimmy and Jehosophat",
+                    "",
+                    "Shouting revelation out",
+                    "A boychild man of ten",
+                    "Never looking up to heaven",
+                    "Lord it was heaven there and then",
+                    "And we wrapped our bloodied fingers like a shine-eyed mister zen",
+                    "River Rat Jimmy and Jehosophat",
+                    "Sho-ly, sho-ly",
+                    "",
+                    "Neither of us knew who'd pop",
+                    "And who would sink the lake",
+                    "And who would run off fast enough before the bow string would break",
+                    "Man we was crying for tomorrow",
+                    "Through the crying and the shake",
+                    "River Rat Jimmy and Jehosophat"
+                ],
+                "url": "https://cdn.shazam.com/lyrics/v1/en-US/GB/iphone/musixmatch/subtitles/1100424/212/1?token=5437b4e506e49d6850321addfe0532f1",
+                "footer": "Writer(s): Kelly Joe Phelps\nLyrics powered by www.musixmatch.com",
+                "tabname": "Lyrics",
+                "beacondata": {
+                    "lyricsid": "7075891",
+                    "providername": "musixmatch",
+                    "commontrackid": "1100424"
+                }
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/544070/youtube/video?q=Kelly+Joe+Phelps+%22River+Rat+Jimmy%22"
+            }
+        ],
+        "url": "https://www.shazam.com/track/544070/river-rat-jimmy",
+        "artists": [
+            {
+                "id": "42",
+                "adamid": "19032758"
+            }
+        ],
+        "isrc": "USRY20412444",
+        "genres": {
+            "primary": "Blues"
+        },
+        "urlparams": {
+            "{tracktitle}": "River+Rat+Jimmy",
+            "{trackartist}": "Kelly+Joe+Phelps"
+        },
+        "myshazam": {
+            "apple": {
+                "actions": [
+                    {
+                        "name": "myshazam:apple",
+                        "type": "uri",
+                        "uri": "https://music.apple.com/gb/album/river-rat-jimmy/162488101?i=162488168&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                ]
+            }
+        },
+        "highlightsurls": {
+            "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/19032758/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+        },
+        "albumadamid": "162488101"
+    },
+    "tagid": "BDCE7E17-1F7C-4599-A799-F0D5538B86C2"
+}

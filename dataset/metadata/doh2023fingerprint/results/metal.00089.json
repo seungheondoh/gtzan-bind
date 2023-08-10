@@ -1,0 +1,248 @@
+{
+    "matches": [
+        {
+            "id": "621902269",
+            "offset": 29.918236328,
+            "timeskew": 2.6345253e-05,
+            "frequencyskew": -4.029274e-05
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691633838668,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "5916707",
+        "title": "Apokalips",
+        "subtitle": "Danzig",
+        "images": {
+            "background": "https://is3-ssl.mzstatic.com/image/thumb/Features125/v4/a3/16/b6/a316b6d2-6986-04ba-b2f4-03062e0c9aa6/mza_2963112371602428656.png/800x800cc.jpg",
+            "coverart": "https://is3-ssl.mzstatic.com/image/thumb/Music122/v4/11/9d/b2/119db28a-b701-5394-9871-43a57a539dc1/889466284564.jpg/400x400cc.jpg",
+            "coverarthq": "https://is3-ssl.mzstatic.com/image/thumb/Music122/v4/11/9d/b2/119db28a-b701-5394-9871-43a57a539dc1/889466284564.jpg/400x400cc.jpg",
+            "joecolor": "b:1b1b2ep:dadee6s:f55833t:b4b7c1q:c94c32"
+        },
+        "share": {
+            "subject": "Apokalips - Danzig",
+            "text": "Apokalips by Danzig",
+            "href": "https://www.shazam.com/track/5916707/apokalips",
+            "image": "https://is3-ssl.mzstatic.com/image/thumb/Music122/v4/11/9d/b2/119db28a-b701-5394-9871-43a57a539dc1/889466284564.jpg/400x400cc.jpg",
+            "twitter": "I used @Shazam to discover Apokalips by Danzig.",
+            "html": "https://www.shazam.com/snippets/email-share/5916707?lang=en-US&country=GB",
+            "avatar": "https://is3-ssl.mzstatic.com/image/thumb/Features125/v4/a3/16/b6/a316b6d2-6986-04ba-b2f4-03062e0c9aa6/mza_2963112371602428656.png/800x800cc.jpg",
+            "snapchat": "https://www.shazam.com/partner/sc/track/5916707"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "actions": [
+                {
+                    "name": "apple",
+                    "type": "applemusicplay",
+                    "id": "1632502481"
+                },
+                {
+                    "name": "apple",
+                    "type": "uri",
+                    "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/fc/34/1f/fc341f30-0b62-99ed-ff9d-979d42561ca7/mzaf_8424397430596210486.plus.aac.ep.m4a"
+                }
+            ],
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/gb/album/apokalips/1632502002?i=1632502481&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/gb/album/apokalips/1632502002?i=1632502481&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                },
+                {
+                    "caption": "BUY",
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "uri": "https://itunes.apple.com/gb/album/apokalips/1632502002?i=1632502481&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "buy",
+                        "providername": "itunes"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "type": "buy",
+                    "listcaption": "Buy on iTunes",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "itunes"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:Apokalips%20Danzig"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27Apokalips%27%20artist%3A%27Danzig%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": false,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [
+                    {
+                        "image": "https://is3-ssl.mzstatic.com/image/thumb/Features125/v4/a3/16/b6/a316b6d2-6986-04ba-b2f4-03062e0c9aa6/mza_2963112371602428656.png/800x800cc.jpg",
+                        "caption": "Danzig"
+                    },
+                    {
+                        "image": "https://is3-ssl.mzstatic.com/image/thumb/Music122/v4/11/9d/b2/119db28a-b701-5394-9871-43a57a539dc1/889466284564.jpg/400x400cc.jpg",
+                        "caption": "Apokalips"
+                    }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                    {
+                        "title": "Album",
+                        "text": "6:66 Satan's Child"
+                    },
+                    {
+                        "title": "Label",
+                        "text": "Cleopatra Records"
+                    },
+                    {
+                        "title": "Released",
+                        "text": "1999"
+                    }
+                ]
+            },
+            {
+                "type": "LYRICS",
+                "text": [
+                    "Apokalips",
+                    "Black finger tips",
+                    "Slides in and out her mouth",
+                    "The darkest thrill",
+                    "Is quick instilled",
+                    "Upon her waiting tongue",
+                    "Yeah, yeah",
+                    "",
+                    "Death's head in the afterglow",
+                    "Smiling in the sun",
+                    "A revolution",
+                    "",
+                    "The thickest rain",
+                    "A poison gray",
+                    "Bullet on the way",
+                    "Thermal haze",
+                    "Rain all day",
+                    "Blot out all the sun",
+                    "She sees the world",
+                    "In all its pain",
+                    "Its glittering demise",
+                    "Apokalips",
+                    "Dementia kiss",
+                    "Ultraviolet sky",
+                    "Yeah, yeah",
+                    "",
+                    "Death's head in the afterglow",
+                    "Smiling in the sun",
+                    "A revolution",
+                    "",
+                    "Yeah, yeah",
+                    "Death's head in the afterglow",
+                    "Smiling in the sun",
+                    "God-head in the afterglow",
+                    "",
+                    "Yeah"
+                ],
+                "footer": "Writer(s): Glen Danzig\nLyrics powered by www.musixmatch.com",
+                "tabname": "Lyrics",
+                "beacondata": {
+                    "lyricsid": "1350610",
+                    "providername": "musixmatch",
+                    "commontrackid": "1116894"
+                }
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/5916707/youtube/video?q=Danzig+%22Apokalips%22"
+            }
+        ],
+        "url": "https://www.shazam.com/track/5916707/apokalips",
+        "artists": [
+            {
+                "id": "42",
+                "adamid": "236338"
+            }
+        ],
+        "isrc": "QM6XS2102023",
+        "genres": {
+            "primary": "Metal"
+        },
+        "urlparams": {
+            "{tracktitle}": "Apokalips",
+            "{trackartist}": "Danzig"
+        },
+        "myshazam": {
+            "apple": {
+                "actions": [
+                    {
+                        "name": "myshazam:apple",
+                        "type": "uri",
+                        "uri": "https://music.apple.com/gb/album/apokalips/1632502002?i=1632502481&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                ]
+            }
+        },
+        "highlightsurls": {
+            "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/236338/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+        },
+        "albumadamid": "1632502002"
+    },
+    "tagid": "1000E46E-8031-41B2-9063-1ED1C913134D"
+}

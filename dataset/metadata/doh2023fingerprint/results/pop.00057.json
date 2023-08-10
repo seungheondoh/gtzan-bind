@@ -1,0 +1,323 @@
+{
+    "matches": [
+        {
+            "id": "350285526",
+            "offset": 30.137291015,
+            "timeskew": -5.2809715e-05,
+            "frequencyskew": -0.00016111135
+        },
+        {
+            "id": "211186581",
+            "offset": 29.82924414,
+            "timeskew": 7.331371e-05,
+            "frequencyskew": -8.0525875e-05
+        },
+        {
+            "id": "200800403",
+            "offset": 108.146796875,
+            "timeskew": 0.03417766,
+            "frequencyskew": -8.0525875e-05
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691632701175,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "5878076",
+        "title": "Bootylicious",
+        "subtitle": "Destiny's Child",
+        "images": {
+            "background": "https://is1-ssl.mzstatic.com/image/thumb/Features115/v4/23/46/07/234607da-f99e-870f-44e7-b8ceb8dec358/mza_17495699682120654147.png/800x800cc.jpg",
+            "coverart": "https://is3-ssl.mzstatic.com/image/thumb/Music125/v4/7e/28/e7/7e28e782-98fe-e4b6-4a36-7f192c46907b/888880746269.jpg/400x400cc.jpg",
+            "coverarthq": "https://is3-ssl.mzstatic.com/image/thumb/Music125/v4/7e/28/e7/7e28e782-98fe-e4b6-4a36-7f192c46907b/888880746269.jpg/400x400cc.jpg",
+            "joecolor": "b:ffffffp:090909s:3e241ft:3a3a3aq:64504b"
+        },
+        "share": {
+            "subject": "Bootylicious - Destiny's Child",
+            "text": "Bootylicious by Destiny's Child",
+            "href": "https://www.shazam.com/track/5878076/bootylicious",
+            "image": "https://is3-ssl.mzstatic.com/image/thumb/Music125/v4/7e/28/e7/7e28e782-98fe-e4b6-4a36-7f192c46907b/888880746269.jpg/400x400cc.jpg",
+            "twitter": "I used @Shazam to discover Bootylicious by Destiny's Child.",
+            "html": "https://www.shazam.com/snippets/email-share/5878076?lang=en-US&country=GB",
+            "avatar": "https://is1-ssl.mzstatic.com/image/thumb/Features115/v4/23/46/07/234607da-f99e-870f-44e7-b8ceb8dec358/mza_17495699682120654147.png/800x800cc.jpg",
+            "snapchat": "https://www.shazam.com/partner/sc/track/5878076"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "actions": [
+                {
+                    "name": "apple",
+                    "type": "applemusicplay",
+                    "id": "1301495401"
+                },
+                {
+                    "name": "apple",
+                    "type": "uri",
+                    "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/14/58/8f/14588f61-03dd-b5fc-480b-7399b23dd41a/mzaf_5452285629931650627.plus.aac.ep.m4a"
+                }
+            ],
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/gb/album/bootylicious/1301493743?i=1301495401&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/gb/album/bootylicious/1301493743?i=1301495401&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                },
+                {
+                    "caption": "BUY",
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "uri": "https://itunes.apple.com/gb/album/bootylicious/1301493743?i=1301495401&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "buy",
+                        "providername": "itunes"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "type": "buy",
+                    "listcaption": "Buy on iTunes",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "itunes"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:Bootylicious%20Destiny%27s%20Child"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27Bootylicious%27%20artist%3A%27Destiny%5C%27s+Child%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": false,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [
+                    {
+                        "image": "https://is1-ssl.mzstatic.com/image/thumb/Features115/v4/23/46/07/234607da-f99e-870f-44e7-b8ceb8dec358/mza_17495699682120654147.png/800x800cc.jpg",
+                        "caption": "Destiny's Child"
+                    },
+                    {
+                        "image": "https://is3-ssl.mzstatic.com/image/thumb/Music125/v4/7e/28/e7/7e28e782-98fe-e4b6-4a36-7f192c46907b/888880746269.jpg/400x400cc.jpg",
+                        "caption": "Bootylicious"
+                    }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                    {
+                        "title": "Album",
+                        "text": "Survivor"
+                    },
+                    {
+                        "title": "Label",
+                        "text": "Columbia"
+                    },
+                    {
+                        "title": "Released",
+                        "text": "2001"
+                    }
+                ]
+            },
+            {
+                "type": "LYRICS",
+                "text": [
+                    "Kelly, can you handle this?",
+                    "Michelle, can you handle this?",
+                    "Beyonc\u00e9, can you handle this?",
+                    "I don't think they can handle this",
+                    "",
+                    "Better move, 'cause we've arrived",
+                    "Lookin' sexy, lookin' fly",
+                    "The baddest chick, check this out",
+                    "DJ, jam tonight",
+                    "Spotted me, a tender thang",
+                    "There you are, come on, baby",
+                    "Don't you wanna dance with me?",
+                    "Can you handle, handle me?",
+                    "",
+                    "You gotta do much better",
+                    "If you gon' dance with me tonight",
+                    "You gotta work your jelly",
+                    "If you gon' dance with me tonight",
+                    "Read my lips carefully, if you like what you see",
+                    "Move, groove, prove you can hang with me",
+                    "By the looks, I got you shook up and scared of me",
+                    "Buckle your seatbelt, it's time for takeoff",
+                    "",
+                    "I don't think you're ready for this jelly",
+                    "I don't think you're ready for this jelly",
+                    "I don't think you're ready for this",
+                    "'Cause my body too bootylicious for ya, babe",
+                    "I don't think you're ready for this jelly (hey)",
+                    "I don't think you're ready for this jelly",
+                    "I don't think you're ready for this",
+                    "'Cause my body too bootylicious for ya, babe",
+                    "",
+                    "Baby, can you handle this?",
+                    "Baby, can you handle this?",
+                    "Baby, can you handle this?",
+                    "I don't think you can handle this",
+                    "",
+                    "I'm about to break you off",
+                    "H-Town goin' hard",
+                    "Read my hips, slap my thighs",
+                    "Swing my hair, squint my eyes",
+                    "Lookin' hot, smellin' good",
+                    "Groovin' like I'm from the hood",
+                    "Over my shoulder, I blow you a kiss",
+                    "Can you handle, handle this?",
+                    "",
+                    "I don't think you're ready for this jelly",
+                    "I don't think you're ready for this jelly",
+                    "I don't think you're ready for this",
+                    "'Cause my body too bootylicious for ya, babe",
+                    "I don't think you're ready for this jelly",
+                    "I don't think you're ready for this jelly",
+                    "I don't think you're ready for this",
+                    "'Cause my body too bootylicious for ya, babe",
+                    "",
+                    "Move your body up and down",
+                    "Make your booty touch the ground",
+                    "I can't help but wonder why",
+                    "Is my vibe too vibealacious for you, babe",
+                    "",
+                    "I shake my jelly at every chance",
+                    "When I whip with my hips, you slip into a trance",
+                    "I'm hoping you can handle all this jelly that I have",
+                    "Now let's cut a rug while we scat some jazz",
+                    "",
+                    "I don't think you're ready for this jelly (I don't think)",
+                    "I don't think you're ready for this jelly (you're ready)",
+                    "I don't think you're ready for this",
+                    "'Cause my body too bootylicious for ya, babe",
+                    "I don't think you're ready for this jelly",
+                    "I don't think you're ready for this jelly",
+                    "I don't think you're ready for this",
+                    "'Cause my body too bootylicious for ya, babe",
+                    "",
+                    "I don't think you're ready for this jelly",
+                    "I don't think you're ready for this jelly",
+                    "I don't think you're ready for this",
+                    "'Cause my body too bootylicious for ya, babe",
+                    "I don't think you're ready for this jelly (for you, for you babe)",
+                    "I don't think you're ready for this jelly (for you, for you babe)",
+                    "I don't think you're ready for this",
+                    "And my body too bootylicious for ya, babe",
+                    "",
+                    "I don't think you're ready for this jelly (oh)",
+                    "I don't think you're ready for this jelly (I don't think you're ready)",
+                    "I don't think you're ready for this",
+                    "'And my body too bootylicious for ya, babe",
+                    "I don't think you're ready for this jelly",
+                    "I don't think you're ready for this jelly",
+                    "I don't think you're ready for this",
+                    "'Cause my body too bootylicious for ya, baby"
+                ],
+                "url": "https://cdn.shazam.com/lyrics/v1/en-US/GB/iphone/musixmatch/subtitles/11736066/207/1?token=ca0c84a4b173cb9375d8e5b3dd83f3d6",
+                "footer": "Writer(s): Stevie Nicks, Beyonce Knowles, Rob Fusari, Falonte D Moore\nLyrics powered by www.musixmatch.com",
+                "tabname": "Lyrics",
+                "beacondata": {
+                    "lyricsid": "27740577",
+                    "providername": "musixmatch",
+                    "commontrackid": "11736066"
+                }
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/5878076/youtube/video?q=Destiny's+Child+%22Bootylicious%22"
+            },
+            {
+                "type": "RELATED",
+                "url": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-5878076?startFrom=0&pageSize=20&connected=",
+                "tabname": "Related"
+            }
+        ],
+        "url": "https://www.shazam.com/track/5878076/bootylicious",
+        "artists": [
+            {
+                "id": "42",
+                "adamid": "634287"
+            }
+        ],
+        "isrc": "USSM10102677",
+        "genres": {
+            "primary": "R&B/Soul"
+        },
+        "urlparams": {
+            "{tracktitle}": "Bootylicious",
+            "{trackartist}": "Destiny%27s+Child"
+        },
+        "myshazam": {
+            "apple": {
+                "actions": [
+                    {
+                        "name": "myshazam:apple",
+                        "type": "uri",
+                        "uri": "https://music.apple.com/gb/album/bootylicious/1301493743?i=1301495401&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                ]
+            }
+        },
+        "highlightsurls": {
+            "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/634287/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios&videoIdToFilter=648836903",
+            "trackhighlighturl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/highlights/648836903?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+        },
+        "relatedtracksurl": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-5878076?startFrom=0&pageSize=20&connected=",
+        "albumadamid": "1301493743"
+    },
+    "tagid": "CC3E5328-FFF4-4974-A490-F743FBA5B9C2"
+}

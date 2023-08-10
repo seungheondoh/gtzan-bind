@@ -1,0 +1,300 @@
+{
+    "matches": [
+        {
+            "id": "280075867",
+            "offset": 27.469335937,
+            "timeskew": -4.8935413e-05,
+            "frequencyskew": -8.0525875e-05
+        },
+        {
+            "id": "287219311",
+            "offset": 27.529675781,
+            "timeskew": -7.241964e-05,
+            "frequencyskew": -8.0525875e-05
+        },
+        {
+            "id": "42031877",
+            "offset": 27.655964843000003,
+            "timeskew": 0.00096452236,
+            "frequencyskew": -0.000120818615
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691633703997,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "333328",
+        "title": "Got The Time",
+        "subtitle": "Anthrax",
+        "images": {
+            "background": "https://is4-ssl.mzstatic.com/image/thumb/Features125/v4/26/a2/b9/26a2b96f-4be8-5ff6-f0ea-9f111811f333/pr_source.png/800x800cc.jpg",
+            "coverart": "https://is4-ssl.mzstatic.com/image/thumb/Music124/v4/79/cb/63/79cb639d-1bff-fb12-27d1-114d1afa145c/20UMGIM78769.rgb.jpg/400x400cc.jpg",
+            "coverarthq": "https://is4-ssl.mzstatic.com/image/thumb/Music124/v4/79/cb/63/79cb639d-1bff-fb12-27d1-114d1afa145c/20UMGIM78769.rgb.jpg/400x400cc.jpg",
+            "joecolor": "b:050702p:f4802ds:e57038t:c46824q:b95b2d"
+        },
+        "share": {
+            "subject": "Got The Time - Anthrax",
+            "text": "Got The Time by Anthrax",
+            "href": "https://www.shazam.com/track/333328/got-the-time",
+            "image": "https://is4-ssl.mzstatic.com/image/thumb/Music124/v4/79/cb/63/79cb639d-1bff-fb12-27d1-114d1afa145c/20UMGIM78769.rgb.jpg/400x400cc.jpg",
+            "twitter": "I used @Shazam to discover Got The Time by Anthrax.",
+            "html": "https://www.shazam.com/snippets/email-share/333328?lang=en-US&country=GB",
+            "avatar": "https://is4-ssl.mzstatic.com/image/thumb/Features125/v4/26/a2/b9/26a2b96f-4be8-5ff6-f0ea-9f111811f333/pr_source.png/800x800cc.jpg",
+            "snapchat": "https://www.shazam.com/partner/sc/track/333328"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "actions": [
+                {
+                    "name": "apple",
+                    "type": "applemusicplay",
+                    "id": "1531807502"
+                },
+                {
+                    "name": "apple",
+                    "type": "uri",
+                    "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/03/0c/95/030c95d3-8f58-b43a-d683-cae2346e9a7f/mzaf_3473444565593101848.plus.aac.ep.m4a"
+                }
+            ],
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/gb/album/got-the-time/1531807492?i=1531807502&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/gb/album/got-the-time/1531807492?i=1531807502&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                },
+                {
+                    "caption": "BUY",
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "uri": "https://itunes.apple.com/gb/album/got-the-time/1531807492?i=1531807502&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "buy",
+                        "providername": "itunes"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "type": "buy",
+                    "listcaption": "Buy on iTunes",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "itunes"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:Got%20The%20Time%20Anthrax"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27Got+The+Time%27%20artist%3A%27Anthrax%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": false,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [
+                    {
+                        "image": "https://is4-ssl.mzstatic.com/image/thumb/Features125/v4/26/a2/b9/26a2b96f-4be8-5ff6-f0ea-9f111811f333/pr_source.png/800x800cc.jpg",
+                        "caption": "Anthrax"
+                    },
+                    {
+                        "image": "https://is4-ssl.mzstatic.com/image/thumb/Music124/v4/79/cb/63/79cb639d-1bff-fb12-27d1-114d1afa145c/20UMGIM78769.rgb.jpg/400x400cc.jpg",
+                        "caption": "Got The Time"
+                    }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                    {
+                        "title": "Album",
+                        "text": "Persistence Of Time"
+                    },
+                    {
+                        "title": "Label",
+                        "text": "Island Records"
+                    },
+                    {
+                        "title": "Released",
+                        "text": "1990"
+                    }
+                ]
+            },
+            {
+                "type": "LYRICS",
+                "text": [
+                    "Wake up, got another day to get",
+                    "Through now, got another man to see",
+                    "Gotta call him on the telephone, way-o",
+                    "Gotta find a piece of paper",
+                    "",
+                    "Sit down, got another letter to write",
+                    "Think hard, gotta get a letter just right",
+                    "Little ringing on the telephone, woah no",
+                    "Gotta write another letter",
+                    "",
+                    "No such thing as tomorrow",
+                    "All we want (two three go!)",
+                    "",
+                    "Time!",
+                    "Got the time tick, tick, tickin' in my head",
+                    "Time!",
+                    "Got the time tick, tick, tickin' in my head",
+                    "Time!",
+                    "Got the time tick, tick, tickin' in my head",
+                    "",
+                    "Ticking in my head",
+                    "Ticking in my head",
+                    "Ticking in my head",
+                    "",
+                    "If I tell you what I'm doing today",
+                    "Will you shut up and get out of my way?",
+                    "Someone asked me what the time is, I don't know",
+                    "Only know I gotta go now",
+                    "",
+                    "No time, tryin' to get a watch repaired",
+                    "No time, never got a thing to wear",
+                    "Little ringing on the telephone, woah no",
+                    "Hear a ringing in my head now",
+                    "",
+                    "No such thing as tomorrow",
+                    "All we want (two three go!)",
+                    "",
+                    "Time!",
+                    "Got the time tick, tick, tickin' in my head",
+                    "Time!",
+                    "Got the time tick, tick, tickin' in my head",
+                    "Time!",
+                    "Got the time tick, tick, tickin' in my head",
+                    "",
+                    "Ticking in my head",
+                    "Ticking in my head",
+                    "Ticking in my head",
+                    "",
+                    "No such thing as tomorrow",
+                    "All we want (two three go!)",
+                    "",
+                    "Time!",
+                    "Got the time tick, tick, tickin' in my head",
+                    "Time!",
+                    "Got the time tick, tick, tickin' in my head",
+                    "Time!",
+                    "Got the time tick, tick, tickin' in my head",
+                    "",
+                    "Ticking in my head",
+                    "Time!",
+                    "Got the time tick, tick, tickin' in my head",
+                    "Time!",
+                    "Got the time tick, tick, tickin' in my head",
+                    "Time!",
+                    "Got the time tick, tick, tickin' in my head",
+                    "",
+                    "Ticking in my head",
+                    "Ticking in my head",
+                    "Ticking in my head"
+                ],
+                "url": "https://cdn.shazam.com/lyrics/v1/en-US/GB/iphone/musixmatch/subtitles/15917915/164/1?token=210c889fc560ee26e1e9c23ffd3d03a7",
+                "footer": "Writer(s): Alan Jackson\nLyrics powered by www.musixmatch.com",
+                "tabname": "Lyrics",
+                "beacondata": {
+                    "lyricsid": "8859013",
+                    "providername": "musixmatch",
+                    "commontrackid": "15917915"
+                }
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/333328/youtube/video?q=Anthrax+%22Got+The+Time%22"
+            },
+            {
+                "type": "RELATED",
+                "url": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-333328?startFrom=0&pageSize=20&connected=",
+                "tabname": "Related"
+            }
+        ],
+        "url": "https://www.shazam.com/track/333328/got-the-time",
+        "artists": [
+            {
+                "id": "42",
+                "adamid": "80417"
+            }
+        ],
+        "isrc": "USIR29000064",
+        "genres": {
+            "primary": "Metal"
+        },
+        "urlparams": {
+            "{tracktitle}": "Got+The+Time",
+            "{trackartist}": "Anthrax"
+        },
+        "myshazam": {
+            "apple": {
+                "actions": [
+                    {
+                        "name": "myshazam:apple",
+                        "type": "uri",
+                        "uri": "https://music.apple.com/gb/album/got-the-time/1531807492?i=1531807502&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                ]
+            }
+        },
+        "highlightsurls": {
+            "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/80417/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+        },
+        "relatedtracksurl": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-333328?startFrom=0&pageSize=20&connected=",
+        "albumadamid": "1531807492"
+    },
+    "tagid": "F878EEAE-AD69-4E49-9D40-46C928A1C9F4"
+}

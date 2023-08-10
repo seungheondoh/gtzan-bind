@@ -1,0 +1,335 @@
+{
+    "matches": [
+        {
+            "id": "480205472",
+            "offset": 29.933470702999998,
+            "timeskew": 0.00051784515,
+            "frequencyskew": 0.00044310093
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691632994132,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "10609709",
+        "title": "Buddy (feat. Jungle Brothers & Q-Tip)",
+        "subtitle": "De La Soul",
+        "images": {
+            "background": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages113/v4/e9/3c/b9/e93cb9f7-5c67-2563-16c0-08b215fdd521/cf0d3367-1f7b-4c16-a34b-850808232f3c_ami-identity-bf5144aa49be825a37e5412ae43c5493-2023-01-06T15-10-22.723Z_cropped.png/800x800cc.jpg",
+            "coverart": "https://is4-ssl.mzstatic.com/image/thumb/Music126/v4/13/1e/c3/131ec37d-d764-51a6-c800-ace81490e20d/810098502627.png/400x400cc.jpg",
+            "coverarthq": "https://is4-ssl.mzstatic.com/image/thumb/Music126/v4/13/1e/c3/131ec37d-d764-51a6-c800-ace81490e20d/810098502627.png/400x400cc.jpg",
+            "joecolor": "b:fff206p:120d0as:121214t:423a09q:423e11"
+        },
+        "share": {
+            "subject": "Buddy (feat. Jungle Brothers & Q-Tip) - De La Soul",
+            "text": "Buddy (feat. Jungle Brothers & Q-Tip) by De La Soul",
+            "href": "https://www.shazam.com/track/10609709/buddy-feat-jungle-brothers-q-tip",
+            "image": "https://is4-ssl.mzstatic.com/image/thumb/Music126/v4/13/1e/c3/131ec37d-d764-51a6-c800-ace81490e20d/810098502627.png/400x400cc.jpg",
+            "twitter": "I used @Shazam to discover Buddy (feat. Jungle Brothers & Q-Tip) by De La Soul.",
+            "html": "https://www.shazam.com/snippets/email-share/10609709?lang=en-US&country=GB",
+            "avatar": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages113/v4/e9/3c/b9/e93cb9f7-5c67-2563-16c0-08b215fdd521/cf0d3367-1f7b-4c16-a34b-850808232f3c_ami-identity-bf5144aa49be825a37e5412ae43c5493-2023-01-06T15-10-22.723Z_cropped.png/800x800cc.jpg",
+            "snapchat": "https://www.shazam.com/partner/sc/track/10609709"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "actions": [
+                {
+                    "name": "apple",
+                    "type": "applemusicplay",
+                    "id": "1657705241"
+                },
+                {
+                    "name": "apple",
+                    "type": "uri",
+                    "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/19/a2/4f/19a24f81-3f9b-0b67-3018-a3f07b6ac8e8/mzaf_3657091913800614014.plus.aac.ep.m4a"
+                }
+            ],
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/gb/album/buddy-feat-jungle-brothers-q-tip/1657705063?i=1657705241&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/gb/album/buddy-feat-jungle-brothers-q-tip/1657705063?i=1657705241&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                },
+                {
+                    "caption": "BUY",
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "uri": "https://itunes.apple.com/gb/album/buddy-feat-jungle-brothers-q-tip/1657705063?i=1657705241&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "buy",
+                        "providername": "itunes"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "type": "buy",
+                    "listcaption": "Buy on iTunes",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "itunes"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:Buddy%20%28feat.%20Jungle%20Brothers%20%26%20Q-Tip%29%20De%20La%20Soul"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27Buddy+%28feat.+Jungle+Brothers++Q-Tip%29%27%20artist%3A%27De+La+Soul%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": false,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [
+                    {
+                        "image": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages113/v4/e9/3c/b9/e93cb9f7-5c67-2563-16c0-08b215fdd521/cf0d3367-1f7b-4c16-a34b-850808232f3c_ami-identity-bf5144aa49be825a37e5412ae43c5493-2023-01-06T15-10-22.723Z_cropped.png/800x800cc.jpg",
+                        "caption": "De La Soul"
+                    },
+                    {
+                        "image": "https://is4-ssl.mzstatic.com/image/thumb/Music126/v4/13/1e/c3/131ec37d-d764-51a6-c800-ace81490e20d/810098502627.png/400x400cc.jpg",
+                        "caption": "Buddy (feat. Jungle Brothers & Q-Tip)"
+                    }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                    {
+                        "title": "Album",
+                        "text": "3 Feet High and Rising"
+                    },
+                    {
+                        "title": "Label",
+                        "text": "AOI Records"
+                    },
+                    {
+                        "title": "Released",
+                        "text": "1989"
+                    }
+                ]
+            },
+            {
+                "type": "LYRICS",
+                "text": [
+                    "Hello",
+                    "",
+                    "Meany, meany, meany, meany (Say What?)",
+                    "Meany, meany, meany, meany (Say What?)",
+                    "Meany, meany, meany, meany, mean",
+                    "",
+                    "(You gotta do that again, Dove)",
+                    "",
+                    "Meany, meany, meany, meany (Say What?)",
+                    "Meany, meany, meany, meany (Say What?)",
+                    "Meany, meany, meany, meany, mean (Okay)",
+                    "",
+                    "Hello it's the Soul",
+                    "Troopin' in with the Jungle patrol",
+                    "And this one's about the KO's, the knockouts out there",
+                    "Who's holdin' my buddy",
+                    "Hold up (Wait a minute)",
+                    "",
+                    "Now just wait",
+                    "We're gonna talk about Buddy on this plate",
+                    "But before we let the herd out the gate",
+                    "Make sure the all the levels are straight out the jungle",
+                    "(The Jungle, the Brothers, the Brothers)",
+                    "",
+                    "De La Soul, from the soul",
+                    "Black medallions, no gold",
+                    "Hangin' out wit Pos, hangin' out wit Mase",
+                    "Buddy buddy buddy all in my face",
+                    "",
+                    "For the lap, Jimbrowski must wear a cap",
+                    "Just in case the young girl likes to clap",
+                    "Ain't for the wind but before I begin",
+                    "I'll initiate the buddy with a slap",
+                    "",
+                    "Now for the next",
+                    "I'm the Q-Tip from A Tribe Called Quest",
+                    "And when I quest for the buddy I don't fess",
+                    "For my jimmy wants nothin' but the best (the best)",
+                    "The best (ooh wee!)",
+                    "Let's, stick out jimmy and see what we can catch",
+                    "(Stick em up, stick em up jimmy)",
+                    "Nets, won't be needed unless",
+                    "(Jenny wanna get right to the flesh)",
+                    "",
+                    "(Sweet little woman, sweet little woman)",
+                    "(Sweet little woman, sweet little woman)",
+                    "",
+                    "I won't lie, I love B-U-D-D-Y (why?)",
+                    "'Cause I never let it walk on by",
+                    "When it comes to me and Jenny I seem",
+                    "(Very serious) like a Peek Frean",
+                    "Buddy is the act that occurs on the lift",
+                    "When Jenny and jimmy start shootin' the gift",
+                    "Boy let me get shot I won't even riff",
+                    "",
+                    "Buddy buddy, don't you know you make me go nutty",
+                    "I'm so glad that you're not a fuddy duddy",
+                    "Not too skinny and not too chubby",
+                    "Soft like Silly Putty",
+                    "Miss Crabtree, I hope that you're not mad at me",
+                    "'Cause I told you that it was your buddy",
+                    "That was making me ever so horny",
+                    "Junglelistically horny",
+                    "",
+                    "On the dial my buddy talks to me for a while",
+                    "Plug Two is the (Q to her Tip)",
+                    "On the A side or sometimes the flip",
+                    "(Never gonna flip this record)",
+                    "Buddy is the bud to my daisy tree",
+                    "And the Luden to my do-re-mi",
+                    "And the pleaser to my man Plug 3",
+                    "(Plug 3 gets all the buddy)",
+                    "",
+                    "Behind my bush, my buddy likes the way that I push",
+                    "And like a champ just knock it on out",
+                    "Never ever once sellin' out",
+                    "(Or let loose the juice)",
+                    "My buddy helps me to",
+                    "(De La my Soul)",
+                    "Keepin' jimmy in total control",
+                    "Without Jimmy I'd be on a roll",
+                    "",
+                    "(La la la l-la la la la, la la la l-la la la la)",
+                    "",
+                    "Hey girl I heard ya lookin' for some good times",
+                    "If you Quest from the Soul, here's what we'll find",
+                    "A whole lot of fun, lots of fun together",
+                    "Just like kissin' cousins (yeah that's kinda clever)",
+                    "Close like bosoms, bosoms stay close",
+                    "If you be my buddy, I will boast",
+                    "That we're like Ethel Mertz and Lucille MacGillicuddy",
+                    "You can be mine and I can be your buddy",
+                    "",
+                    "The best buddy's in evening wear",
+                    "Long lovin' lets Tru know (he's in there)",
+                    "I feel sorry for those who pay a fare (a fee) word to the D",
+                    "I don't beg I just tease my buddy with my right leg",
+                    "And when it's ready what's said is buddy is best in bed",
+                    "(Word)",
+                    "",
+                    "Fly buddy told us all to get into a circle",
+                    "Said don't worry cause I won't hurt you",
+                    "All I really wanna do is freak you (she freaked us)",
+                    "",
+                    "And I watched and then I checked my Swatch",
+                    "To see the time",
+                    "The Soul had formed a buddy line",
+                    "And that buddy was (mine all mine)",
+                    "",
+                    "Now when the Tribe, the Jungle, and De La Soul",
+                    "Is at the clubs our ritual unfolds",
+                    "Grab our bones and start swingin' our hands",
+                    "(Then Jenny start flockin' it every brand)",
+                    "'Cause Jenifa just wants to stay aware",
+                    "Yo fellas, should we keep her aware?",
+                    "(Mmm Hmm, yeah!)"
+                ],
+                "footer": "Writer(s): Lionel Richie, Kelvin Mercer, Paul Huston, Nathaniel Philip Hall, Michael Benton Small, Thomas Mcclary, David Joliceour, Vincent Mason, John William Davis, Odetta Gordon\nLyrics powered by www.musixmatch.com",
+                "tabname": "Lyrics",
+                "beacondata": {
+                    "lyricsid": "31122820",
+                    "providername": "musixmatch",
+                    "commontrackid": "157221772"
+                }
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/10609709/youtube/video?q=De+La+Soul+%22Buddy+(feat.+Jungle+Brothers+%26+Q-Tip)%22"
+            },
+            {
+                "type": "RELATED",
+                "url": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-10609709?startFrom=0&pageSize=20&connected=",
+                "tabname": "Related"
+            }
+        ],
+        "url": "https://www.shazam.com/track/10609709/buddy-feat-jungle-brothers-q-tip",
+        "artists": [
+            {
+                "id": "42",
+                "adamid": "3496517"
+            }
+        ],
+        "isrc": "QMMEH2200064",
+        "genres": {
+            "primary": "Hip-Hop/Rap"
+        },
+        "urlparams": {
+            "{tracktitle}": "Buddy+%28feat.+Jungle+Brothers+%26+Q-Tip%29",
+            "{trackartist}": "De+La+Soul"
+        },
+        "myshazam": {
+            "apple": {
+                "actions": [
+                    {
+                        "name": "myshazam:apple",
+                        "type": "uri",
+                        "uri": "https://music.apple.com/gb/album/buddy-feat-jungle-brothers-q-tip/1657705063?i=1657705241&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                ]
+            }
+        },
+        "highlightsurls": {
+            "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/3496517/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios&videoIdToFilter=1676757890",
+            "trackhighlighturl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/highlights/1676757890?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+        },
+        "relatedtracksurl": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-10609709?startFrom=0&pageSize=20&connected=",
+        "albumadamid": "1657705063"
+    },
+    "tagid": "01088D1C-87D5-4762-AE10-F609BE3CE0D5"
+}

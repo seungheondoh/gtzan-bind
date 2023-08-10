@@ -1,0 +1,195 @@
+{
+    "matches": [
+        {
+            "id": "204432246",
+            "offset": 149.1521875,
+            "timeskew": 6.6280365e-05,
+            "frequencyskew": -4.6014786e-05
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691632266501,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "11064043",
+        "title": "I'll Never Be the Same",
+        "subtitle": "Ahmed Abdullah, Marshall Allen, Clifford Barbaro, John Gilmore, Gilmore, Tyrone Hill, Ron Mcbee, Sun Ra, Sun Ra Arkestra, Jorge Silva & June Tyson",
+        "images": {
+            "background": "https://is4-ssl.mzstatic.com/image/thumb/Music/cd/cb/07/mzi.qqxpchzn.jpg/400x400cc.jpg",
+            "coverart": "https://is4-ssl.mzstatic.com/image/thumb/Music/cd/cb/07/mzi.qqxpchzn.jpg/400x400cc.jpg",
+            "coverarthq": "https://is4-ssl.mzstatic.com/image/thumb/Music/cd/cb/07/mzi.qqxpchzn.jpg/400x400cc.jpg",
+            "joecolor": "b:000000p:f99b3fs:eb7c17t:c77c33q:bc6312"
+        },
+        "share": {
+            "subject": "I'll Never Be the Same - Ahmed Abdullah, Marshall Allen, Clifford Barbaro, John Gilmore, Gilmore, Tyrone Hill, Ron Mcbee, Sun Ra, Sun Ra Arkestra, Jorge Silva & June Tyson",
+            "text": "I'll Never Be the Same by Ahmed Abdullah, Marshall Allen, Clifford Barbaro, John Gilmore, Gilmore, Tyrone Hill, Ron Mcbee, Sun Ra, Sun Ra Arkestra, Jorge Silva & June Tyson",
+            "href": "https://www.shazam.com/track/11064043/ill-never-be-the-same",
+            "image": "https://is4-ssl.mzstatic.com/image/thumb/Music/cd/cb/07/mzi.qqxpchzn.jpg/400x400cc.jpg",
+            "twitter": "I used @Shazam to discover I'll Never Be the Same by Ahmed Abdullah, Marshall Allen, Clifford Barbaro, John Gilmore, Gilmore, Tyrone Hill, Ron Mcbee, Sun Ra, Sun Ra Arkestra, Jorge Silva & June Tyson.",
+            "html": "https://www.shazam.com/snippets/email-share/11064043?lang=en-US&country=GB",
+            "snapchat": "https://www.shazam.com/partner/sc/track/11064043"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "actions": [
+                {
+                    "name": "apple",
+                    "type": "applemusicplay",
+                    "id": "318245903"
+                },
+                {
+                    "name": "apple",
+                    "type": "uri",
+                    "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/6d/41/ab/6d41abdc-e136-d835-b58f-e36f90f6ade6/mzaf_4772240467964589197.plus.aac.ep.m4a"
+                }
+            ],
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/gb/album/ill-never-be-the-same/318245423?i=318245903&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/gb/album/ill-never-be-the-same/318245423?i=318245903&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                },
+                {
+                    "caption": "BUY",
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "uri": "https://itunes.apple.com/gb/album/ill-never-be-the-same/318245423?i=318245903&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "buy",
+                        "providername": "itunes"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "type": "buy",
+                    "listcaption": "Buy on iTunes",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "itunes"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:I%27ll%20Never%20Be%20the%20Same%20Ahmed%20Abdullah"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27I%5C%27ll+Never+Be+the+Same%27%20artist%3A%27Ahmed+Abdullah%2C+Marshall+Allen%2C+Clifford+Barbaro%2C+John+Gilmore%2C+Gilmore%2C+Tyrone+Hill%2C+Ron+Mcbee%2C+Sun+Ra%2C+Sun+Ra+Arkestra%2C+Jorge+Silva++June+Tyson%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": false,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [
+                    {
+                        "image": "https://is4-ssl.mzstatic.com/image/thumb/Music/cd/cb/07/mzi.qqxpchzn.jpg/400x400cc.jpg",
+                        "caption": "I'll Never Be the Same"
+                    }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                    {
+                        "title": "Album",
+                        "text": "Mayan Temples"
+                    },
+                    {
+                        "title": "Label",
+                        "text": "Black Saint"
+                    },
+                    {
+                        "title": "Released",
+                        "text": "1990"
+                    }
+                ]
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/11064043/youtube/video?q=Ahmed+Abdullah,+Marshall+Allen,+Clifford+Barbaro,+John+Gilmore,+Gilmore,+Tyrone+Hill,+Ron+Mcbee,+Sun+Ra,+Sun+Ra+Arkestra,+Jorge+Silva+%26+June+Tyson+%22I'll+Never+Be+the+Same%22"
+            }
+        ],
+        "url": "https://www.shazam.com/track/11064043/ill-never-be-the-same",
+        "artists": [
+            {
+                "id": "42",
+                "adamid": "6046934"
+            }
+        ],
+        "isrc": "ITC000850782",
+        "genres": {
+            "primary": "Jazz"
+        },
+        "urlparams": {
+            "{tracktitle}": "I%27ll+Never+Be+the+Same",
+            "{trackartist}": "Ahmed+Abdullah%2C+Marshall+Allen%2C+Clifford+Barbaro%2C+John+Gilmore%2C+Gilmore%2C+Tyrone+Hill%2C+Ron+Mcbee%2C+Sun+Ra%2C+Sun+Ra+Arkestra%2C+Jorge+Silva+%26+June+Tyson"
+        },
+        "myshazam": {
+            "apple": {
+                "actions": [
+                    {
+                        "name": "myshazam:apple",
+                        "type": "uri",
+                        "uri": "https://music.apple.com/gb/album/ill-never-be-the-same/318245423?i=318245903&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                ]
+            }
+        },
+        "highlightsurls": {
+            "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/6046934/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+        },
+        "albumadamid": "318245423"
+    },
+    "tagid": "28A45CA7-E810-4FD9-B36C-91F8896C81CF"
+}

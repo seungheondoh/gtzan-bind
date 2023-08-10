@@ -1,0 +1,148 @@
+{
+    "matches": [
+        {
+            "id": "230228588",
+            "offset": 403.522375,
+            "timeskew": -0.00018507242,
+            "frequencyskew": -0.000120818615
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691632372880,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "127890038",
+        "title": "Greatest Hits Medley",
+        "subtitle": "Gloria Gaynor",
+        "images": {
+            "background": "https://is4-ssl.mzstatic.com/image/thumb/Features125/v4/06/6d/b7/066db7b1-bf0a-e032-61f9-fd607a0b0d76/mzl.jruxuhnc.jpg/800x800cc.jpg",
+            "coverart": "https://is2-ssl.mzstatic.com/image/thumb/Music/v4/f9/b7/7d/f9b77d11-967d-0bed-d66e-9512fa68188c/887396539921.jpg/400x400cc.jpg",
+            "coverarthq": "https://is2-ssl.mzstatic.com/image/thumb/Music/v4/f9/b7/7d/f9b77d11-967d-0bed-d66e-9512fa68188c/887396539921.jpg/400x400cc.jpg"
+        },
+        "share": {
+            "subject": "Greatest Hits Medley - Gloria Gaynor",
+            "text": "Greatest Hits Medley by Gloria Gaynor",
+            "href": "https://www.shazam.com/track/127890038/greatest-hits-medley",
+            "image": "https://is2-ssl.mzstatic.com/image/thumb/Music/v4/f9/b7/7d/f9b77d11-967d-0bed-d66e-9512fa68188c/887396539921.jpg/400x400cc.jpg",
+            "twitter": "I used @Shazam to discover Greatest Hits Medley by Gloria Gaynor.",
+            "html": "https://www.shazam.com/snippets/email-share/127890038?lang=en-US&country=GB",
+            "avatar": "https://is4-ssl.mzstatic.com/image/thumb/Features125/v4/06/6d/b7/066db7b1-bf0a-e032-61f9-fd607a0b0d76/mzl.jruxuhnc.jpg/800x800cc.jpg",
+            "snapchat": "https://www.shazam.com/partner/sc/track/127890038"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:subscribe",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/subscribe?mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:subscribe",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/subscribe?mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:Greatest%20Hits%20Medley%20Gloria%20Gaynor"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27Greatest+Hits+Medley%27%20artist%3A%27Gloria+Gaynor%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": false,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [
+                    {
+                        "image": "https://is4-ssl.mzstatic.com/image/thumb/Features125/v4/06/6d/b7/066db7b1-bf0a-e032-61f9-fd607a0b0d76/mzl.jruxuhnc.jpg/800x800cc.jpg",
+                        "caption": "Gloria Gaynor"
+                    },
+                    {
+                        "image": "https://is2-ssl.mzstatic.com/image/thumb/Music/v4/f9/b7/7d/f9b77d11-967d-0bed-d66e-9512fa68188c/887396539921.jpg/400x400cc.jpg",
+                        "caption": "Greatest Hits Medley"
+                    }
+                ],
+                "tabname": "Song",
+                "metadata": []
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/127890038/youtube/video?q=Gloria+Gaynor+%22Greatest+Hits+Medley%22"
+            },
+            {
+                "type": "RELATED",
+                "url": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-127890038?startFrom=0&pageSize=20&connected=",
+                "tabname": "Related"
+            }
+        ],
+        "url": "https://www.shazam.com/track/127890038/greatest-hits-medley",
+        "artists": [
+            {
+                "id": "42",
+                "adamid": "136869"
+            }
+        ],
+        "genres": {
+            "primary": "Disco"
+        },
+        "urlparams": {
+            "{tracktitle}": "Greatest+Hits+Medley",
+            "{trackartist}": "Gloria+Gaynor"
+        },
+        "highlightsurls": {
+            "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/136869/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+        },
+        "relatedtracksurl": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-127890038?startFrom=0&pageSize=20&connected="
+    },
+    "tagid": "C211A03D-BF8B-4180-9AEF-C19744701029"
+}

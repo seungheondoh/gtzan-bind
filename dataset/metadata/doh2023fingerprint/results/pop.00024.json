@@ -1,0 +1,276 @@
+{
+    "matches": [
+        {
+            "id": "201768956",
+            "offset": 29.916574218,
+            "timeskew": 1.001358e-05,
+            "frequencyskew": -0.00024163723
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691632799857,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "223156",
+        "title": "Deep In My Heart",
+        "subtitle": "Britney Spears",
+        "images": {
+            "background": "https://is4-ssl.mzstatic.com/image/thumb/Features115/v4/53/a7/66/53a76640-0730-3751-19cd-aac7d85c20b8/mzl.izsetnqd.jpeg/800x800cc.jpg",
+            "coverart": "https://is4-ssl.mzstatic.com/image/thumb/Music125/v4/7b/f7/0e/7bf70ecc-b16b-01d8-b14c-00ccae5062c7/dj.wvceujiz.jpg/400x400cc.jpg",
+            "coverarthq": "https://is4-ssl.mzstatic.com/image/thumb/Music125/v4/7b/f7/0e/7bf70ecc-b16b-01d8-b14c-00ccae5062c7/dj.wvceujiz.jpg/400x400cc.jpg",
+            "joecolor": "b:ffedebp:4f190bs:4b291at:724338q:6f5043"
+        },
+        "share": {
+            "subject": "Deep In My Heart - Britney Spears",
+            "text": "Deep In My Heart by Britney Spears",
+            "href": "https://www.shazam.com/track/223156/deep-in-my-heart",
+            "image": "https://is4-ssl.mzstatic.com/image/thumb/Music125/v4/7b/f7/0e/7bf70ecc-b16b-01d8-b14c-00ccae5062c7/dj.wvceujiz.jpg/400x400cc.jpg",
+            "twitter": "I used @Shazam to discover Deep In My Heart by Britney Spears.",
+            "html": "https://www.shazam.com/snippets/email-share/223156?lang=en-US&country=GB",
+            "avatar": "https://is4-ssl.mzstatic.com/image/thumb/Features115/v4/53/a7/66/53a76640-0730-3751-19cd-aac7d85c20b8/mzl.izsetnqd.jpeg/800x800cc.jpg",
+            "snapchat": "https://www.shazam.com/partner/sc/track/223156"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "actions": [
+                {
+                    "name": "apple",
+                    "type": "applemusicplay",
+                    "id": "273143834"
+                },
+                {
+                    "name": "apple",
+                    "type": "uri",
+                    "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/d9/e4/52/d9e452e7-d8b8-eb47-cffe-9eb84f0fac85/mzaf_8055932079238357111.plus.aac.ep.m4a"
+                }
+            ],
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/gb/album/deep-in-my-heart/273143723?i=273143834&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/gb/album/deep-in-my-heart/273143723?i=273143834&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                },
+                {
+                    "caption": "BUY",
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "uri": "https://itunes.apple.com/gb/album/deep-in-my-heart/273143723?i=273143834&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "buy",
+                        "providername": "itunes"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "type": "buy",
+                    "listcaption": "Buy on iTunes",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "itunes"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:Deep%20In%20My%20Heart%20Britney%20Spears"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27Deep+In+My+Heart%27%20artist%3A%27Britney+Spears%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": false,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [
+                    {
+                        "image": "https://is4-ssl.mzstatic.com/image/thumb/Features115/v4/53/a7/66/53a76640-0730-3751-19cd-aac7d85c20b8/mzl.izsetnqd.jpeg/800x800cc.jpg",
+                        "caption": "Britney Spears"
+                    },
+                    {
+                        "image": "https://is4-ssl.mzstatic.com/image/thumb/Music125/v4/7b/f7/0e/7bf70ecc-b16b-01d8-b14c-00ccae5062c7/dj.wvceujiz.jpg/400x400cc.jpg",
+                        "caption": "Deep In My Heart"
+                    }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                    {
+                        "title": "Album",
+                        "text": "...Baby One More Time (Deluxe Version)"
+                    },
+                    {
+                        "title": "Label",
+                        "text": "Jive"
+                    },
+                    {
+                        "title": "Released",
+                        "text": "1999"
+                    }
+                ]
+            },
+            {
+                "type": "LYRICS",
+                "text": [
+                    "Oh, oh, I want you for the rest of my life",
+                    "Oh, yeah",
+                    "",
+                    "Walking through time looking for an answer",
+                    "How can it be this way?",
+                    "What have I done? I just can't help but wonder",
+                    "How everything could change?",
+                    "",
+                    "'Cause you've turned my world around",
+                    "Since you came along, no",
+                    "After this love was found",
+                    "It seems like we can't go wrong",
+                    "",
+                    "Deep in my heart, I know there's only you",
+                    "And right from the start, I always knew",
+                    "I'll never let go 'cause I love you so",
+                    "Oh, oh, I want you for the rest of my life",
+                    "Mmm, mmm, oh yeah",
+                    "",
+                    "Some people search what seems to be a lifetime",
+                    "To find a love like this, oh, yeah",
+                    "And here we are, with everything we wished for",
+                    "I've never felt such bliss, oh, no",
+                    "",
+                    "'Cause you've turned my world around",
+                    "Since you came along",
+                    "After this love was found",
+                    "It seems like we can't go wrong",
+                    "",
+                    "Deep in my heart, I know there's only you",
+                    "And right from the start, I always knew",
+                    "I'll never let go 'cause I love you so",
+                    "Oh, oh, I want you for the rest of my life",
+                    "Oh yeah, mmm, mmm",
+                    "",
+                    "There comes a chance in everyone's life",
+                    "And I believe it won't happen twice",
+                    "Now since I've felt the glory of love",
+                    "I wanna spend forever (And ever with you)",
+                    "",
+                    "Deep in my heart, I know there's only you (Only you)",
+                    "And right from the start, I always knew",
+                    "I'll never let go 'cause I love you so (I'll never let go, I love you so)",
+                    "Oh, oh, I want you for the rest of my life, oh",
+                    "",
+                    "Deep in my heart, I know there's only you (Only you, only you)",
+                    "And right from the start, I always knew",
+                    "I'll never let go 'cause I love you so",
+                    "(Oh, oh) I want you, eh, eh, eh",
+                    "",
+                    "Deep in my heart",
+                    "(Deep in my heart)",
+                    "Oh oh, no",
+                    "Oh, oh, yeah",
+                    "Oh, oh, oh, oh",
+                    "I want you for the rest of my life (I want your love forever)",
+                    "Oh, oh, I want you for the rest of my life"
+                ],
+                "url": "https://cdn.shazam.com/lyrics/v1/en-US/GB/iphone/musixmatch/subtitles/117676/215/1?token=92c13186e45410d6123b6297cbbea201",
+                "footer": "Writer(s): Andreas Carlsson, David Kreuger, Per Magnusson\nLyrics powered by www.musixmatch.com",
+                "tabname": "Lyrics",
+                "beacondata": {
+                    "lyricsid": "26479344",
+                    "providername": "musixmatch",
+                    "commontrackid": "117676"
+                }
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/223156/youtube/video?q=Britney+Spears+%22Deep+In+My+Heart%22"
+            },
+            {
+                "type": "RELATED",
+                "url": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-223156?startFrom=0&pageSize=20&connected=",
+                "tabname": "Related"
+            }
+        ],
+        "url": "https://www.shazam.com/track/223156/deep-in-my-heart",
+        "artists": [
+            {
+                "id": "42",
+                "adamid": "217005"
+            }
+        ],
+        "isrc": "USJI19910520",
+        "genres": {
+            "primary": "Pop"
+        },
+        "urlparams": {
+            "{tracktitle}": "Deep+In+My+Heart",
+            "{trackartist}": "Britney+Spears"
+        },
+        "myshazam": {
+            "apple": {
+                "actions": [
+                    {
+                        "name": "myshazam:apple",
+                        "type": "uri",
+                        "uri": "https://music.apple.com/gb/album/deep-in-my-heart/273143723?i=273143834&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                ]
+            }
+        },
+        "highlightsurls": {
+            "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/217005/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+        },
+        "relatedtracksurl": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-223156?startFrom=0&pageSize=20&connected=",
+        "albumadamid": "273143723"
+    },
+    "tagid": "4DDC7D60-169C-4766-B1F7-282A03F812B7"
+}

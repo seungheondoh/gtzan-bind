@@ -1,0 +1,200 @@
+{
+    "matches": [
+        {
+            "id": "481359011",
+            "offset": 30.002964843,
+            "timeskew": -8.7976456e-05,
+            "frequencyskew": -0.000120818615
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691633015049,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "481359011",
+        "title": "The Um Dee Dum Song",
+        "subtitle": "Young MC",
+        "images": {
+            "background": "https://is4-ssl.mzstatic.com/image/thumb/Music125/v4/3f/c0/0c/3fc00cd1-22b4-51c8-c506-131c1453e1c3/pr_source.png/800x800cc.jpg",
+            "coverart": "https://is2-ssl.mzstatic.com/image/thumb/Music123/v4/59/5b/42/595b42f8-0de1-6aca-79fb-9a10ebb2e117/19UMGIM67574.rgb.jpg/400x400cc.jpg",
+            "coverarthq": "https://is2-ssl.mzstatic.com/image/thumb/Music123/v4/59/5b/42/595b42f8-0de1-6aca-79fb-9a10ebb2e117/19UMGIM67574.rgb.jpg/400x400cc.jpg",
+            "joecolor": "b:5d316fp:fbc22bs:ed8e37t:dca539q:d17c42"
+        },
+        "share": {
+            "subject": "The Um Dee Dum Song - Young MC",
+            "text": "The Um Dee Dum Song by Young MC",
+            "href": "https://www.shazam.com/track/481359011/the-um-dee-dum-song",
+            "image": "https://is2-ssl.mzstatic.com/image/thumb/Music123/v4/59/5b/42/595b42f8-0de1-6aca-79fb-9a10ebb2e117/19UMGIM67574.rgb.jpg/400x400cc.jpg",
+            "twitter": "I used @Shazam to discover The Um Dee Dum Song by Young MC.",
+            "html": "https://www.shazam.com/snippets/email-share/481359011?lang=en-US&country=GB",
+            "avatar": "https://is4-ssl.mzstatic.com/image/thumb/Music125/v4/3f/c0/0c/3fc00cd1-22b4-51c8-c506-131c1453e1c3/pr_source.png/800x800cc.jpg",
+            "snapchat": "https://www.shazam.com/partner/sc/track/481359011"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "actions": [
+                {
+                    "name": "apple",
+                    "type": "applemusicplay",
+                    "id": "1473993927"
+                },
+                {
+                    "name": "apple",
+                    "type": "uri",
+                    "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/d5/3a/5b/d53a5bde-84b7-2d33-4173-6d3345f84c05/mzaf_494993529365953386.plus.aac.p.m4a"
+                }
+            ],
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/gb/album/the-um-dee-dum-song/1473993639?i=1473993927&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/gb/album/the-um-dee-dum-song/1473993639?i=1473993927&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                },
+                {
+                    "caption": "BUY",
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "uri": "https://itunes.apple.com/gb/album/the-um-dee-dum-song/1473993639?i=1473993927&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "buy",
+                        "providername": "itunes"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "type": "buy",
+                    "listcaption": "Buy on iTunes",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "itunes"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:The%20Um%20Dee%20Dum%20Song%20Young%20MC"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27The+Um+Dee+Dum+Song%27%20artist%3A%27Young+MC%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": false,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [
+                    {
+                        "image": "https://is4-ssl.mzstatic.com/image/thumb/Music125/v4/3f/c0/0c/3fc00cd1-22b4-51c8-c506-131c1453e1c3/pr_source.png/800x800cc.jpg",
+                        "caption": "Young MC"
+                    },
+                    {
+                        "image": "https://is2-ssl.mzstatic.com/image/thumb/Music123/v4/59/5b/42/595b42f8-0de1-6aca-79fb-9a10ebb2e117/19UMGIM67574.rgb.jpg/400x400cc.jpg",
+                        "caption": "The Um Dee Dum Song"
+                    }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                    {
+                        "title": "Album",
+                        "text": "Brainstorm"
+                    },
+                    {
+                        "title": "Label",
+                        "text": "CAPITOL CATALOG MKT (C92)"
+                    },
+                    {
+                        "title": "Released",
+                        "text": "1991"
+                    }
+                ]
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/481359011/youtube/video?q=Young+MC+%22The+Um+Dee+Dum+Song%22"
+            }
+        ],
+        "url": "https://www.shazam.com/track/481359011/the-um-dee-dum-song",
+        "artists": [
+            {
+                "id": "42",
+                "adamid": "14385473"
+            }
+        ],
+        "isrc": "USCA29101808",
+        "genres": {
+            "primary": "Hip-Hop/Rap"
+        },
+        "urlparams": {
+            "{tracktitle}": "The+Um+Dee+Dum+Song",
+            "{trackartist}": "Young+MC"
+        },
+        "myshazam": {
+            "apple": {
+                "actions": [
+                    {
+                        "name": "myshazam:apple",
+                        "type": "uri",
+                        "uri": "https://music.apple.com/gb/album/the-um-dee-dum-song/1473993639?i=1473993927&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                ]
+            }
+        },
+        "highlightsurls": {
+            "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/14385473/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+        },
+        "albumadamid": "1473993639"
+    },
+    "tagid": "B0034217-0919-4083-A5E4-4F8A8D45478B"
+}

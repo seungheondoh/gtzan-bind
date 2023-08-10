@@ -1,0 +1,223 @@
+{
+    "matches": [
+        {
+            "id": "221525955",
+            "offset": 29.999960937,
+            "timeskew": 2.6345253e-05,
+            "frequencyskew": 0.0
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691632611411,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "544080",
+        "title": "Piece By Piece",
+        "subtitle": "Kelly Joe Phelps",
+        "images": {
+            "background": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/9b/05/ea/9b05ea19-6dde-14fc-ad10-09b5f2e4e692/mzi.mxxcjhap.jpg/400x400cc.jpg",
+            "coverart": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/9b/05/ea/9b05ea19-6dde-14fc-ad10-09b5f2e4e692/mzi.mxxcjhap.jpg/400x400cc.jpg",
+            "coverarthq": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/9b/05/ea/9b05ea19-6dde-14fc-ad10-09b5f2e4e692/mzi.mxxcjhap.jpg/400x400cc.jpg",
+            "joecolor": "b:9cbad4p:0b1e31s:11283ft:283d52q:2d455d"
+        },
+        "share": {
+            "subject": "Piece By Piece - Kelly Joe Phelps",
+            "text": "Piece By Piece by Kelly Joe Phelps",
+            "href": "https://www.shazam.com/track/544080/piece-by-piece",
+            "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/9b/05/ea/9b05ea19-6dde-14fc-ad10-09b5f2e4e692/mzi.mxxcjhap.jpg/400x400cc.jpg",
+            "twitter": "I used @Shazam to discover Piece By Piece by Kelly Joe Phelps.",
+            "html": "https://www.shazam.com/snippets/email-share/544080?lang=en-US&country=GB",
+            "snapchat": "https://www.shazam.com/partner/sc/track/544080"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "actions": [
+                {
+                    "name": "apple",
+                    "type": "applemusicplay",
+                    "id": "162488466"
+                },
+                {
+                    "name": "apple",
+                    "type": "uri",
+                    "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/9e/f3/b4/9ef3b4cf-9ba0-5e85-c281-fa615da258f4/mzaf_7379048333292864137.plus.aac.ep.m4a"
+                }
+            ],
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/gb/album/piece-by-piece/162488101?i=162488466&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/gb/album/piece-by-piece/162488101?i=162488466&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                },
+                {
+                    "caption": "BUY",
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "uri": "https://itunes.apple.com/gb/album/piece-by-piece/162488101?i=162488466&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "buy",
+                        "providername": "itunes"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "type": "buy",
+                    "listcaption": "Buy on iTunes",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "itunes"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:Piece%20By%20Piece%20Kelly%20Joe%20Phelps"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27Piece+By+Piece%27%20artist%3A%27Kelly+Joe+Phelps%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": false,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [
+                    {
+                        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/9b/05/ea/9b05ea19-6dde-14fc-ad10-09b5f2e4e692/mzi.mxxcjhap.jpg/400x400cc.jpg",
+                        "caption": "Piece By Piece"
+                    }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                    {
+                        "title": "Album",
+                        "text": "Shine Eyed Mister Zen"
+                    },
+                    {
+                        "title": "Label",
+                        "text": "Ryko/Rhino"
+                    },
+                    {
+                        "title": "Released",
+                        "text": "2000"
+                    }
+                ]
+            },
+            {
+                "type": "LYRICS",
+                "text": [
+                    "Piece by lonely piece the mountainside tumbles away",
+                    "Back down to the river bottom lined with pocket worry stones",
+                    "A hundred years in hand worn smooth by long grandmother nights",
+                    "Sitting by the rocking chair waiting for the world",
+                    "",
+                    "Oh, if I could roll back all the years and talk to my daddy's dad",
+                    "About all the fears I'm leaving in that maybe he had had",
+                    "I might get some light to shine down this dusty old dry well",
+                    "Hear the bucket hit the bottom and the rope come rolling by",
+                    "",
+                    "When three hundred years has been the time from whence it came",
+                    "Why hadn't someone yet figured out to lower down the gun",
+                    "And shoot out the middle of this clawing, staring eye?",
+                    "Hear the bucket hit the bottom and the rope come rolling by",
+                    "Sitting by that old rocking chair waiting for the world"
+                ],
+                "url": "https://cdn.shazam.com/lyrics/v1/en-US/GB/iphone/musixmatch/subtitles/1100420/390/1?token=340f7f45fdfcf25589cf970fdaa6a3aa",
+                "footer": "Writer(s): Kelly Joe Phelps\nLyrics powered by www.musixmatch.com",
+                "tabname": "Lyrics",
+                "beacondata": {
+                    "lyricsid": "595293",
+                    "providername": "musixmatch",
+                    "commontrackid": "1100420"
+                }
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/544080/youtube/video?q=Kelly+Joe+Phelps+%22Piece+By+Piece%22"
+            }
+        ],
+        "url": "https://www.shazam.com/track/544080/piece-by-piece",
+        "artists": [
+            {
+                "id": "42",
+                "adamid": "19032758"
+            }
+        ],
+        "isrc": "USRY20412451",
+        "genres": {
+            "primary": "Blues"
+        },
+        "urlparams": {
+            "{tracktitle}": "Piece+By+Piece",
+            "{trackartist}": "Kelly+Joe+Phelps"
+        },
+        "myshazam": {
+            "apple": {
+                "actions": [
+                    {
+                        "name": "myshazam:apple",
+                        "type": "uri",
+                        "uri": "https://music.apple.com/gb/album/piece-by-piece/162488101?i=162488466&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                ]
+            }
+        },
+        "highlightsurls": {
+            "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/19032758/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+        },
+        "albumadamid": "162488101"
+    },
+    "tagid": "1B993524-6031-48E1-AEA2-36D894B51FB1"
+}

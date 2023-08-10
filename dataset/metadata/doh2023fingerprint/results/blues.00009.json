@@ -1,0 +1,120 @@
+{
+    "matches": [
+        {
+            "id": "408013475",
+            "offset": 29.756511718000002,
+            "timeskew": 7.8082085e-05,
+            "frequencyskew": -8.0525875e-05
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691632606692,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "407957073",
+        "title": "It's My Own Fault | Hey Baby (Medley)",
+        "subtitle": "John Lee Hooker",
+        "share": {
+            "subject": "It's My Own Fault | Hey Baby (Medley) - John Lee Hooker",
+            "text": "It's My Own Fault | Hey Baby (Medley) by John Lee Hooker",
+            "href": "https://www.shazam.com/track/407957073/its-my-own-fault-hey-baby-medley",
+            "twitter": "I used @Shazam to discover It's My Own Fault | Hey Baby (Medley) by John Lee Hooker.",
+            "html": "https://www.shazam.com/snippets/email-share/407957073?lang=en-US&country=GB",
+            "snapchat": "https://www.shazam.com/partner/sc/track/407957073"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:subscribe",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/subscribe?mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:subscribe",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/subscribe?mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:It%27s%20My%20Own%20Fault%20%7C%20Hey%20Baby%20%28Medley%29%20John%20Lee%20Hooker"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27It%5C%27s+My+Own+Fault+%7C+Hey+Baby+%28Medley%29%27%20artist%3A%27John+Lee+Hooker%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": false,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [],
+                "tabname": "Song",
+                "metadata": [
+                    {
+                        "title": "Title",
+                        "text": "It's My Own Fault | Hey Baby (Medley)"
+                    }
+                ]
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/407957073/youtube/video?q=John+Lee+Hooker+%22It's+My+Own+Fault+%7C+Hey+Baby+(Medley)%22"
+            }
+        ],
+        "url": "https://www.shazam.com/track/407957073/its-my-own-fault-hey-baby-medley",
+        "urlparams": {
+            "{tracktitle}": "It%27s+My+Own+Fault+%7C+Hey+Baby+%28Medley%29",
+            "{trackartist}": "John+Lee+Hooker"
+        },
+        "highlightsurls": {}
+    },
+    "tagid": "95EA390C-31B2-41A0-AA8B-63D5D4568ED9"
+}

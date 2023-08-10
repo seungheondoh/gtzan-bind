@@ -1,0 +1,282 @@
+{
+    "matches": [
+        {
+            "id": "212650544",
+            "offset": 29.848046875,
+            "timeskew": -0.00013035536,
+            "frequencyskew": 0.0
+        },
+        {
+            "id": "281906906",
+            "offset": 29.873882812,
+            "timeskew": 0.0035336018,
+            "frequencyskew": 0.0035099983
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691633843941,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "5174967",
+        "title": "Bloodline",
+        "subtitle": "Slayer",
+        "images": {
+            "background": "https://is1-ssl.mzstatic.com/image/thumb/Features115/v4/42/09/fd/4209fd93-0d38-0d5f-8f09-0f0e6c54c218/mzl.sxvwpmhu.png/800x800cc.jpg",
+            "coverart": "https://is5-ssl.mzstatic.com/image/thumb/Music125/v4/74/60/b3/7460b374-1434-ec93-49ac-b84d11745a68/00602547579034.rgb.jpg/400x400cc.jpg",
+            "coverarthq": "https://is5-ssl.mzstatic.com/image/thumb/Music125/v4/74/60/b3/7460b374-1434-ec93-49ac-b84d11745a68/00602547579034.rgb.jpg/400x400cc.jpg",
+            "joecolor": "b:fcfcfcp:272218s:352f1dt:524d45q:5d584a"
+        },
+        "share": {
+            "subject": "Bloodline - Slayer",
+            "text": "Bloodline by Slayer",
+            "href": "https://www.shazam.com/track/5174967/bloodline",
+            "image": "https://is5-ssl.mzstatic.com/image/thumb/Music125/v4/74/60/b3/7460b374-1434-ec93-49ac-b84d11745a68/00602547579034.rgb.jpg/400x400cc.jpg",
+            "twitter": "I used @Shazam to discover Bloodline by Slayer.",
+            "html": "https://www.shazam.com/snippets/email-share/5174967?lang=en-US&country=GB",
+            "avatar": "https://is1-ssl.mzstatic.com/image/thumb/Features115/v4/42/09/fd/4209fd93-0d38-0d5f-8f09-0f0e6c54c218/mzl.sxvwpmhu.png/800x800cc.jpg",
+            "snapchat": "https://www.shazam.com/partner/sc/track/5174967"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "actions": [
+                {
+                    "name": "apple",
+                    "type": "applemusicplay",
+                    "id": "1440845332"
+                },
+                {
+                    "name": "apple",
+                    "type": "uri",
+                    "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/1e/3e/40/1e3e408c-cd01-1c70-03a0-df2211b4a41b/mzaf_57153957444297656.plus.aac.ep.m4a"
+                }
+            ],
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/gb/album/bloodline/1440844570?i=1440845332&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/gb/album/bloodline/1440844570?i=1440845332&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                },
+                {
+                    "caption": "BUY",
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "uri": "https://itunes.apple.com/gb/album/bloodline/1440844570?i=1440845332&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "buy",
+                        "providername": "itunes"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "type": "buy",
+                    "listcaption": "Buy on iTunes",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "itunes"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:Bloodline%20Slayer"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27Bloodline%27%20artist%3A%27Slayer%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": false,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [
+                    {
+                        "image": "https://is1-ssl.mzstatic.com/image/thumb/Features115/v4/42/09/fd/4209fd93-0d38-0d5f-8f09-0f0e6c54c218/mzl.sxvwpmhu.png/800x800cc.jpg",
+                        "caption": "Slayer"
+                    },
+                    {
+                        "image": "https://is5-ssl.mzstatic.com/image/thumb/Music125/v4/74/60/b3/7460b374-1434-ec93-49ac-b84d11745a68/00602547579034.rgb.jpg/400x400cc.jpg",
+                        "caption": "Bloodline"
+                    }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                    {
+                        "title": "Album",
+                        "text": "God Hates Us All"
+                    },
+                    {
+                        "title": "Label",
+                        "text": "American Recordings Catalog P&D"
+                    },
+                    {
+                        "title": "Released",
+                        "text": "2001"
+                    }
+                ]
+            },
+            {
+                "type": "LYRICS",
+                "text": [
+                    "Eternal, the kiss I breathe",
+                    "Siphon your blood to me",
+                    "Feel my wounds of your God",
+                    "Forever rape mortality",
+                    "",
+                    "I smell of death, I reek of hate, I will live forever",
+                    "Lost child, pay the dead",
+                    "Bleeding screams of silence",
+                    "In my veins, your eternity",
+                    "",
+                    "I'll kill you and your dreams tonight",
+                    "Begin new life",
+                    "Bleed your death upon me",
+                    "Let your bloodline feed my youth",
+                    "",
+                    "First breath born, come alive, learn to kill",
+                    "Bloodfest awaits to feed your hunger",
+                    "Dark side has no rival test, your faith in blood",
+                    "Night hides the hunting packs, a feeding frenzy",
+                    "",
+                    "I'll kill you and your dreams tonight",
+                    "Begin new life",
+                    "Bleed your death upon me",
+                    "Let your bloodline feed my youth",
+                    "",
+                    "I am the first, not the last",
+                    "Condemned by a single kiss",
+                    "Betrayed eternally",
+                    "I'll rip inside your soul",
+                    "Contaminating the world",
+                    "Defying God and son",
+                    "Black heart that brings your death",
+                    "Living in infamy",
+                    "",
+                    "Drink the flesh of life itself",
+                    "Prepare to reign a thousand years",
+                    "",
+                    "I'll kill you and your dreams tonight",
+                    "Begin new life",
+                    "Bleed your death upon me",
+                    "Let your bloodline feed my youth",
+                    "",
+                    "Bleed your death upon me",
+                    "Bleed your death upon me",
+                    "Bleed your death upon me",
+                    "Let your bloodline feed my youth",
+                    "",
+                    "Blame God's chosen children",
+                    "As you die, I'm immortal",
+                    "Faithless, no religion",
+                    "Stalking prey is my confession",
+                    "",
+                    "Captive blood, enslavement",
+                    "Pain and hunger drives your madness",
+                    "Drink flesh, life itself",
+                    "Prepare to reign a thousand years"
+                ],
+                "url": "https://cdn.shazam.com/lyrics/v1/en-US/GB/iphone/musixmatch/subtitles/531865/201/1?token=a3f423f0e7938555b651e261bcac317f",
+                "footer": "Writer(s): Jeffery John Hanneman, Tomas Enrique Araya, Kerry Ray King\nLyrics powered by www.musixmatch.com",
+                "tabname": "Lyrics",
+                "beacondata": {
+                    "lyricsid": "30206267",
+                    "providername": "musixmatch",
+                    "commontrackid": "531865"
+                }
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/5174967/youtube/video?q=Slayer+%22Bloodline%22"
+            },
+            {
+                "type": "RELATED",
+                "url": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-5174967?startFrom=0&pageSize=20&connected=",
+                "tabname": "Related"
+            }
+        ],
+        "url": "https://www.shazam.com/track/5174967/bloodline",
+        "artists": [
+            {
+                "id": "42",
+                "adamid": "414425"
+            }
+        ],
+        "isrc": "USDJ20110970",
+        "genres": {
+            "primary": "Metal"
+        },
+        "urlparams": {
+            "{tracktitle}": "Bloodline",
+            "{trackartist}": "Slayer"
+        },
+        "myshazam": {
+            "apple": {
+                "actions": [
+                    {
+                        "name": "myshazam:apple",
+                        "type": "uri",
+                        "uri": "https://music.apple.com/gb/album/bloodline/1440844570?i=1440845332&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                ]
+            }
+        },
+        "highlightsurls": {
+            "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/414425/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios&videoIdToFilter=1650449307",
+            "trackhighlighturl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/highlights/1650449307?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+        },
+        "relatedtracksurl": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-5174967?startFrom=0&pageSize=20&connected=",
+        "albumadamid": "1440844570"
+    },
+    "tagid": "AF0F48C6-B115-4EC8-B073-5775E9B0A4D3"
+}

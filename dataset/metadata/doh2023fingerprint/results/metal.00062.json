@@ -1,0 +1,270 @@
+{
+    "matches": [
+        {
+            "id": "436198142",
+            "offset": 30.313175781,
+            "timeskew": -0.00084781647,
+            "frequencyskew": -0.0007246733
+        },
+        {
+            "id": "327505",
+            "offset": 30.484695312,
+            "timeskew": 0.001134634,
+            "frequencyskew": 0.0010476112
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691633740066,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "327505",
+        "title": "Gypsy",
+        "subtitle": "Dio",
+        "images": {
+            "background": "https://is2-ssl.mzstatic.com/image/thumb/Features115/v4/c8/75/23/c8752392-769a-edb8-503e-7c373243ae4d/mza_4430060434230415683.png/800x800cc.jpg",
+            "coverart": "https://is2-ssl.mzstatic.com/image/thumb/Music128/v4/82/7a/5f/827a5f77-9c5b-9eec-0ae7-b1c7971a48d7/00602498309940.rgb.jpg/400x400cc.jpg",
+            "coverarthq": "https://is2-ssl.mzstatic.com/image/thumb/Music128/v4/82/7a/5f/827a5f77-9c5b-9eec-0ae7-b1c7971a48d7/00602498309940.rgb.jpg/400x400cc.jpg",
+            "joecolor": "b:151a16p:efe7d8s:efe3e7t:c3beb1q:c3bbbd"
+        },
+        "share": {
+            "subject": "Gypsy - Dio",
+            "text": "Gypsy by Dio",
+            "href": "https://www.shazam.com/track/327505/gypsy",
+            "image": "https://is2-ssl.mzstatic.com/image/thumb/Music128/v4/82/7a/5f/827a5f77-9c5b-9eec-0ae7-b1c7971a48d7/00602498309940.rgb.jpg/400x400cc.jpg",
+            "twitter": "I used @Shazam to discover Gypsy by Dio.",
+            "html": "https://www.shazam.com/snippets/email-share/327505?lang=en-US&country=GB",
+            "avatar": "https://is2-ssl.mzstatic.com/image/thumb/Features115/v4/c8/75/23/c8752392-769a-edb8-503e-7c373243ae4d/mza_4430060434230415683.png/800x800cc.jpg",
+            "snapchat": "https://www.shazam.com/partner/sc/track/327505"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "actions": [
+                {
+                    "name": "apple",
+                    "type": "applemusicplay",
+                    "id": "1440757611"
+                },
+                {
+                    "name": "apple",
+                    "type": "uri",
+                    "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/79/53/dc/7953dc9e-7055-87c2-90fe-23ae7916fa1a/mzaf_13592543063618508817.plus.aac.ep.m4a"
+                }
+            ],
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/gb/album/gypsy/1440757603?i=1440757611&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/gb/album/gypsy/1440757603?i=1440757611&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                },
+                {
+                    "caption": "BUY",
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "uri": "https://itunes.apple.com/gb/album/gypsy/1440757603?i=1440757611&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "buy",
+                        "providername": "itunes"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "type": "buy",
+                    "listcaption": "Buy on iTunes",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "itunes"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:Gypsy%20Dio"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27Gypsy%27%20artist%3A%27Dio%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": false,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [
+                    {
+                        "image": "https://is2-ssl.mzstatic.com/image/thumb/Features115/v4/c8/75/23/c8752392-769a-edb8-503e-7c373243ae4d/mza_4430060434230415683.png/800x800cc.jpg",
+                        "caption": "Dio"
+                    },
+                    {
+                        "image": "https://is2-ssl.mzstatic.com/image/thumb/Music128/v4/82/7a/5f/827a5f77-9c5b-9eec-0ae7-b1c7971a48d7/00602498309940.rgb.jpg/400x400cc.jpg",
+                        "caption": "Gypsy"
+                    }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                    {
+                        "title": "Album",
+                        "text": "Holy Diver (Remastered)"
+                    },
+                    {
+                        "title": "Label",
+                        "text": "UMC (Universal Music Catalogue)"
+                    },
+                    {
+                        "title": "Released",
+                        "text": "1983"
+                    }
+                ]
+            },
+            {
+                "type": "LYRICS",
+                "text": [
+                    "Yeah, touche",
+                    "",
+                    "She was straight from hell",
+                    "But you never could tell '",
+                    "Cause you were blinded by her light",
+                    "She could crack your brain",
+                    "With magic pain",
+                    "And turn a paler shade of white",
+                    "",
+                    "Well I was on the free",
+                    "Just me and me",
+                    "And just about to sail",
+                    "When I heard the voice",
+                    "Said you got a choice",
+                    "The hammer or the nail",
+                    "",
+                    "You'll be riding",
+                    "You'll be riding on the Gypsy",
+                    "On the Gypsy",
+                    "",
+                    "Well I rolled the bones",
+                    "To see who'd own",
+                    "My mind and what's within",
+                    "And it's a given rule",
+                    "That we're all fools",
+                    "But need to have a little sin",
+                    "",
+                    "So I'm riding",
+                    "I've been riding on the Gypsy",
+                    "On the Gypsy Queen",
+                    "",
+                    "Well she was straight from hell",
+                    "But you never could tell",
+                    "That you were blinded by the light",
+                    "So she cracked my brain",
+                    "With a magic pain",
+                    "And turned my left around to right, right",
+                    "",
+                    "So I'm riding",
+                    "I'm still riding",
+                    "Yes I'm riding on, on the Gypsy",
+                    "On the Gypsy Queen",
+                    "She's mean",
+                    "Riding on the Gypsy",
+                    "Yeah, yeah, yeah, on the Queen"
+                ],
+                "url": "https://cdn.shazam.com/lyrics/v1/en-US/GB/iphone/musixmatch/subtitles/214365/215/1?token=326bbdccb025482145650bf36a8b0ade",
+                "footer": "Writer(s): Vivian Campbell, Ronald Padavona\nLyrics powered by www.musixmatch.com",
+                "tabname": "Lyrics",
+                "beacondata": {
+                    "lyricsid": "16596828",
+                    "providername": "musixmatch",
+                    "commontrackid": "214365"
+                }
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/327505/youtube/video?q=Dio+%22Gypsy%22"
+            },
+            {
+                "type": "RELATED",
+                "url": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-327505?startFrom=0&pageSize=20&connected=",
+                "tabname": "Related"
+            }
+        ],
+        "url": "https://www.shazam.com/track/327505/gypsy",
+        "artists": [
+            {
+                "id": "42",
+                "adamid": "2779392"
+            }
+        ],
+        "isrc": "NLF050590029",
+        "genres": {
+            "primary": "Metal"
+        },
+        "urlparams": {
+            "{tracktitle}": "Gypsy",
+            "{trackartist}": "Dio"
+        },
+        "myshazam": {
+            "apple": {
+                "actions": [
+                    {
+                        "name": "myshazam:apple",
+                        "type": "uri",
+                        "uri": "https://music.apple.com/gb/album/gypsy/1440757603?i=1440757611&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                ]
+            }
+        },
+        "highlightsurls": {
+            "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/2779392/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+        },
+        "relatedtracksurl": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-327505?startFrom=0&pageSize=20&connected=",
+        "albumadamid": "1440757603"
+    },
+    "tagid": "BB112B70-7F82-4E34-9526-D2C0542C0148"
+}

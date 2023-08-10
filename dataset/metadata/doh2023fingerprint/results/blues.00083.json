@@ -1,0 +1,200 @@
+{
+    "matches": [
+        {
+            "id": "437903222",
+            "offset": 29.706160156000003,
+            "timeskew": 0.0009551048,
+            "frequencyskew": 0.0005236864
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691632545578,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "10084280",
+        "title": "Drivin Old Grey",
+        "subtitle": "Buckwheat Zydeco",
+        "images": {
+            "background": "https://is4-ssl.mzstatic.com/image/thumb/Features115/v4/53/68/c7/5368c78e-803c-b14a-4e5e-8a5fcd18adea/mzl.wwacqeti.jpg/800x800cc.jpg",
+            "coverart": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/9d/ad/43/9dad433a-478b-f247-0369-bc555bf756de/00602567826477.rgb.jpg/400x400cc.jpg",
+            "coverarthq": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/9d/ad/43/9dad433a-478b-f247-0369-bc555bf756de/00602567826477.rgb.jpg/400x400cc.jpg",
+            "joecolor": "b:f6f1d1p:000208s:192628t:313230q:454e49"
+        },
+        "share": {
+            "subject": "Drivin Old Grey - Buckwheat Zydeco",
+            "text": "Drivin Old Grey by Buckwheat Zydeco",
+            "href": "https://www.shazam.com/track/10084280/drivin-old-grey",
+            "image": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/9d/ad/43/9dad433a-478b-f247-0369-bc555bf756de/00602567826477.rgb.jpg/400x400cc.jpg",
+            "twitter": "I used @Shazam to discover Drivin Old Grey by Buckwheat Zydeco.",
+            "html": "https://www.shazam.com/snippets/email-share/10084280?lang=en-US&country=GB",
+            "avatar": "https://is4-ssl.mzstatic.com/image/thumb/Features115/v4/53/68/c7/5368c78e-803c-b14a-4e5e-8a5fcd18adea/mzl.wwacqeti.jpg/800x800cc.jpg",
+            "snapchat": "https://www.shazam.com/partner/sc/track/10084280"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "actions": [
+                {
+                    "name": "apple",
+                    "type": "applemusicplay",
+                    "id": "1434879968"
+                },
+                {
+                    "name": "apple",
+                    "type": "uri",
+                    "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/f2/ea/ee/f2eaee02-8dfb-e77e-ec25-eb6a9045a274/mzaf_14420333790846678538.plus.aac.ep.m4a"
+                }
+            ],
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/gb/album/drivin-old-grey/1434879638?i=1434879968&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/gb/album/drivin-old-grey/1434879638?i=1434879968&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                },
+                {
+                    "caption": "BUY",
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "uri": "https://itunes.apple.com/gb/album/drivin-old-grey/1434879638?i=1434879968&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "buy",
+                        "providername": "itunes"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "type": "buy",
+                    "listcaption": "Buy on iTunes",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "itunes"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:Drivin%20Old%20Grey%20Buckwheat%20Zydeco"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27Drivin+Old+Grey%27%20artist%3A%27Buckwheat+Zydeco%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": false,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [
+                    {
+                        "image": "https://is4-ssl.mzstatic.com/image/thumb/Features115/v4/53/68/c7/5368c78e-803c-b14a-4e5e-8a5fcd18adea/mzl.wwacqeti.jpg/800x800cc.jpg",
+                        "caption": "Buckwheat Zydeco"
+                    },
+                    {
+                        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/9d/ad/43/9dad433a-478b-f247-0369-bc555bf756de/00602567826477.rgb.jpg/400x400cc.jpg",
+                        "caption": "Drivin Old Grey"
+                    }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                    {
+                        "title": "Album",
+                        "text": "Taking It Home"
+                    },
+                    {
+                        "title": "Label",
+                        "text": "Island Records"
+                    },
+                    {
+                        "title": "Released",
+                        "text": "1988"
+                    }
+                ]
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/10084280/youtube/video?q=Buckwheat+Zydeco+%22Drivin+Old+Grey%22"
+            }
+        ],
+        "url": "https://www.shazam.com/track/10084280/drivin-old-grey",
+        "artists": [
+            {
+                "id": "42",
+                "adamid": "32279"
+            }
+        ],
+        "isrc": "USUMG0000653",
+        "genres": {
+            "primary": "Rock"
+        },
+        "urlparams": {
+            "{tracktitle}": "Drivin+Old+Grey",
+            "{trackartist}": "Buckwheat+Zydeco"
+        },
+        "myshazam": {
+            "apple": {
+                "actions": [
+                    {
+                        "name": "myshazam:apple",
+                        "type": "uri",
+                        "uri": "https://music.apple.com/gb/album/drivin-old-grey/1434879638?i=1434879968&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                ]
+            }
+        },
+        "highlightsurls": {
+            "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/32279/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+        },
+        "albumadamid": "1434879638"
+    },
+    "tagid": "788E6DE1-9FF2-413D-B565-E60D8055B801"
+}

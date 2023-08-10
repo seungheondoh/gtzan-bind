@@ -1,0 +1,241 @@
+{
+    "matches": [
+        {
+            "id": "213548905",
+            "offset": 30.013511718,
+            "timeskew": 0.00010383129,
+            "frequencyskew": 0.0
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691632570370,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "535071",
+        "title": "Lights Are On but Nobody's Home (Remastered)",
+        "subtitle": "Albert Collins",
+        "images": {
+            "background": "https://is4-ssl.mzstatic.com/image/thumb/Features125/v4/ae/86/b3/ae86b3a2-6e15-8997-9786-c50db67f431e/mzl.uuewudzl.jpg/800x800cc.jpg",
+            "coverart": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/15/2d/13/152d13ec-61e0-4d94-9d34-c33bc09a24f2/dj.lcrlobwg.jpg/400x400cc.jpg",
+            "coverarthq": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/15/2d/13/152d13ec-61e0-4d94-9d34-c33bc09a24f2/dj.lcrlobwg.jpg/400x400cc.jpg",
+            "joecolor": "b:211720p:ffd400s:e68552t:d2ae06q:be6f48"
+        },
+        "share": {
+            "subject": "Lights Are On but Nobody's Home (Remastered) - Albert Collins",
+            "text": "Lights Are On but Nobody's Home (Remastered) by Albert Collins",
+            "href": "https://www.shazam.com/track/535071/lights-are-on-but-nobodys-home-remastered",
+            "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/15/2d/13/152d13ec-61e0-4d94-9d34-c33bc09a24f2/dj.lcrlobwg.jpg/400x400cc.jpg",
+            "twitter": "I used @Shazam to discover Lights Are On but Nobody's Home (Remastered) by Albert Collins.",
+            "html": "https://www.shazam.com/snippets/email-share/535071?lang=en-US&country=GB",
+            "avatar": "https://is4-ssl.mzstatic.com/image/thumb/Features125/v4/ae/86/b3/ae86b3a2-6e15-8997-9786-c50db67f431e/mzl.uuewudzl.jpg/800x800cc.jpg",
+            "snapchat": "https://www.shazam.com/partner/sc/track/535071"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "actions": [
+                {
+                    "name": "apple",
+                    "type": "applemusicplay",
+                    "id": "5634726"
+                },
+                {
+                    "name": "apple",
+                    "type": "uri",
+                    "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/89/32/e3/8932e341-b676-225b-993d-a9273546e797/mzaf_4817081036307916904.plus.aac.ep.m4a"
+                }
+            ],
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/gb/album/lights-are-on-but-nobodys-home-remastered/5634738?i=5634726&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/gb/album/lights-are-on-but-nobodys-home-remastered/5634738?i=5634726&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                },
+                {
+                    "caption": "BUY",
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "uri": "https://itunes.apple.com/gb/album/lights-are-on-but-nobodys-home-remastered/5634738?i=5634726&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "buy",
+                        "providername": "itunes"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "type": "buy",
+                    "listcaption": "Buy on iTunes",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "itunes"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:Lights%20Are%20On%20but%20Nobody%27s%20Home%20%28Remastered%29%20Albert%20Collins"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27Lights+Are+On+but+Nobody%5C%27s+Home+%28Remastered%29%27%20artist%3A%27Albert+Collins%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": false,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [
+                    {
+                        "image": "https://is4-ssl.mzstatic.com/image/thumb/Features125/v4/ae/86/b3/ae86b3a2-6e15-8997-9786-c50db67f431e/mzl.uuewudzl.jpg/800x800cc.jpg",
+                        "caption": "Albert Collins"
+                    },
+                    {
+                        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/15/2d/13/152d13ec-61e0-4d94-9d34-c33bc09a24f2/dj.lcrlobwg.jpg/400x400cc.jpg",
+                        "caption": "Lights Are On but Nobody's Home (Remastered)"
+                    }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                    {
+                        "title": "Album",
+                        "text": "Cold Snap (Remastered)"
+                    },
+                    {
+                        "title": "Label",
+                        "text": "Alligator Records"
+                    },
+                    {
+                        "title": "Released",
+                        "text": "1986"
+                    }
+                ]
+            },
+            {
+                "type": "LYRICS",
+                "text": [
+                    "Playing with my mind, babe",
+                    "Always accusing me of doing wrong",
+                    "I say you're playing with my mind, woman",
+                    "You're always accusing me of doing wrong",
+                    "I can see you're lights on, baby",
+                    "But I can't see, I can't see nobody home",
+                    "Now here come my mother-in-law",
+                    "It's the same thing ev'ry day",
+                    "Ever since we been married, baby",
+                    "She tried to drive me away, yeah",
+                    "Now you're still accusing me baby",
+                    "Accusing me of doing wrong",
+                    "I can see your lights on, baby",
+                    "But I can't see, I can't see nobody home",
+                    "When I have to go to work",
+                    "I gotta go to work downtown",
+                    "If I get home a little late, baby",
+                    "You say I'm out messing around",
+                    "Now you're still accusing me, baby",
+                    "Accusing me of doing wrong",
+                    "I can see your lights on, baby",
+                    "But I can't see, I can't see nobody home"
+                ],
+                "url": "https://cdn.shazam.com/lyrics/v1/en-US/GB/iphone/musixmatch/subtitles/9797859/659/1?token=e1718783dc04f3c050d59160e1fdd396",
+                "footer": "Writer(s): Gwen Collins\nLyrics powered by www.musixmatch.com",
+                "tabname": "Lyrics",
+                "beacondata": {
+                    "lyricsid": "7023216",
+                    "providername": "musixmatch",
+                    "commontrackid": "9797859"
+                }
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/535071/youtube/video?q=Albert+Collins+%22Lights+Are+On+but+Nobody's+Home+(Remastered)%22"
+            },
+            {
+                "type": "RELATED",
+                "url": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-535071?startFrom=0&pageSize=20&connected=",
+                "tabname": "Related"
+            }
+        ],
+        "url": "https://www.shazam.com/track/535071/lights-are-on-but-nobodys-home-remastered",
+        "artists": [
+            {
+                "id": "42",
+                "adamid": "59339"
+            }
+        ],
+        "isrc": "USARL8675204",
+        "genres": {
+            "primary": "Blues"
+        },
+        "urlparams": {
+            "{tracktitle}": "Lights+Are+On+but+Nobody%27s+Home+%28Remastered%29",
+            "{trackartist}": "Albert+Collins"
+        },
+        "myshazam": {
+            "apple": {
+                "actions": [
+                    {
+                        "name": "myshazam:apple",
+                        "type": "uri",
+                        "uri": "https://music.apple.com/gb/album/lights-are-on-but-nobodys-home-remastered/5634738?i=5634726&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                ]
+            }
+        },
+        "highlightsurls": {
+            "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/59339/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+        },
+        "relatedtracksurl": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-535071?startFrom=0&pageSize=20&connected=",
+        "albumadamid": "5634738"
+    },
+    "tagid": "754175F9-42E0-454A-A2F3-521493B413A7"
+}

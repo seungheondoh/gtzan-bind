@@ -1,0 +1,120 @@
+{
+    "matches": [
+        {
+            "id": "83074707",
+            "offset": 30.095162109,
+            "timeskew": 3.874302e-05,
+            "frequencyskew": -8.0525875e-05
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691633066547,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "83074707",
+        "title": "Violin Concerto, For Violin, Strings & Continuo In A Minor, Op. 3/6, Rv",
+        "subtitle": "Maurice Andr\u00e9 & Jean-Fran\u00e7ois Paillard & Jean-Fran\u00e7ois Pailla",
+        "share": {
+            "subject": "Violin Concerto, For Violin, Strings & Continuo In A Minor, Op. 3/6, Rv - Maurice Andr\u00e9 & Jean-Fran\u00e7ois Paillard & Jean-Fran\u00e7ois Pailla",
+            "text": "Violin Concerto, For Violin, Strings & Continuo In A Minor, Op. 3/6, Rv by Maurice Andr\u00e9 & Jean-Fran\u00e7ois Paillard & Jean-Fran\u00e7ois Pailla",
+            "href": "https://www.shazam.com/track/83074707/violin-concerto-for-violin-strings-and-continuo-in-a-minor-op-36-rv",
+            "twitter": "I used @Shazam to discover Violin Concerto, For Violin, Strings & Continuo In A Minor, Op. 3/6, Rv by Maurice Andr\u00e9 & Jean-Fran\u00e7ois Paillard & Jean-Fran\u00e7ois Pailla.",
+            "html": "https://www.shazam.com/snippets/email-share/83074707?lang=en-US&country=GB",
+            "snapchat": "https://www.shazam.com/partner/sc/track/83074707"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:subscribe",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/subscribe?mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:subscribe",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/subscribe?mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:Violin%20Concerto%2C%20For%20Violin%2C%20Strings%20%26%20Continuo%20In%20A%20Minor%2C%20Op.%203%2F6%2C%20Rv%20Maurice%20Andr%C3%A9%20%20Jean-Fran%C3%A7ois%20Paillard%20%20Jean-Fran%C3%A7ois%20Pailla"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27Violin+Concerto%2C+For+Violin%2C+Strings++Continuo+In+A+Minor%2C+Op.+3%2F6%2C+Rv%27%20artist%3A%27Maurice+Andr%C3%A9++Jean-Fran%C3%A7ois+Paillard++Jean-Fran%C3%A7ois+Pailla%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": false,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [],
+                "tabname": "Song",
+                "metadata": [
+                    {
+                        "title": "Title",
+                        "text": "Violin Concerto, For Violin, Strings & Continuo In A Minor, Op. 3/6, Rv"
+                    }
+                ]
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/83074707/youtube/video?q=Maurice+Andr%C3%A9+%26+Jean-Fran%C3%A7ois+Paillard+%26+Jean-Fran%C3%A7ois+Pailla+%22Violin+Concerto,+For+Violin,+Strings+%26+Continuo+In+A+Minor,+Op.+3/6,+Rv%22"
+            }
+        ],
+        "url": "https://www.shazam.com/track/83074707/violin-concerto-for-violin-strings-and-continuo-in-a-minor-op-36-rv",
+        "urlparams": {
+            "{tracktitle}": "Violin+Concerto%2C+For+Violin%2C+Strings+%26+Continuo+In+A+Minor%2C+Op.+3%2F6%2C+Rv",
+            "{trackartist}": "Maurice+Andr%C3%A9+%26+Jean-Fran%C3%A7ois+Paillard+%26+Jean-Fran%C3%A7ois+Pailla"
+        },
+        "highlightsurls": {}
+    },
+    "tagid": "873A00EC-F43D-4973-B096-ED378575B346"
+}

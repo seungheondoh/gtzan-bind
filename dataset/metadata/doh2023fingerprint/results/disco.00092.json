@@ -1,0 +1,294 @@
+{
+    "matches": [
+        {
+            "id": "426161109",
+            "offset": 30.038388671,
+            "timeskew": 5.722046e-05,
+            "frequencyskew": 0.0
+        },
+        {
+            "id": "479794581",
+            "offset": 30.007169921,
+            "timeskew": 0.0009993315,
+            "frequencyskew": 0.0005236864
+        },
+        {
+            "id": "636557926",
+            "offset": 21.544324218,
+            "timeskew": 0.0023630857,
+            "frequencyskew": 0.0019350052
+        },
+        {
+            "id": "400269960",
+            "offset": 29.994171875,
+            "timeskew": 0.004298806,
+            "frequencyskew": 0.003914237
+        },
+        {
+            "id": "379414703",
+            "offset": 29.790333984,
+            "timeskew": 0.0015848875,
+            "frequencyskew": 0.0010073185
+        },
+        {
+            "id": "211711040",
+            "offset": 30.142486328,
+            "timeskew": 0.005051136,
+            "frequencyskew": 0.0050873756
+        },
+        {
+            "id": "271138281",
+            "offset": 29.874140625,
+            "timeskew": -0.00066018105,
+            "frequencyskew": -0.0008856058
+        },
+        {
+            "id": "225570266",
+            "offset": 63.389167968,
+            "timeskew": 0.00023376942,
+            "frequencyskew": 0.0011686087
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691632503669,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "11143664",
+        "title": "Heart of Glass",
+        "subtitle": "Blondie",
+        "images": {
+            "background": "https://is3-ssl.mzstatic.com/image/thumb/Features125/v4/0c/9c/83/0c9c83de-9abc-8f40-b884-93e510c93ccc/mzl.eggnpkwu.jpg/800x800cc.jpg",
+            "coverart": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/b0/1e/01/b01e0139-3640-a161-ef5c-027451d30c48/00724353359959.rgb.jpg/400x400cc.jpg",
+            "coverarthq": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/b0/1e/01/b01e0139-3640-a161-ef5c-027451d30c48/00724353359959.rgb.jpg/400x400cc.jpg",
+            "joecolor": "b:1f2120p:f5f6f1s:fdf1fft:caccc7q:d0c7d2"
+        },
+        "share": {
+            "subject": "Heart of Glass - Blondie",
+            "text": "Heart of Glass by Blondie",
+            "href": "https://www.shazam.com/track/11143664/heart-of-glass",
+            "image": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/b0/1e/01/b01e0139-3640-a161-ef5c-027451d30c48/00724353359959.rgb.jpg/400x400cc.jpg",
+            "twitter": "I used @Shazam to discover Heart of Glass by Blondie.",
+            "html": "https://www.shazam.com/snippets/email-share/11143664?lang=en-US&country=GB",
+            "avatar": "https://is3-ssl.mzstatic.com/image/thumb/Features125/v4/0c/9c/83/0c9c83de-9abc-8f40-b884-93e510c93ccc/mzl.eggnpkwu.jpg/800x800cc.jpg",
+            "snapchat": "https://www.shazam.com/partner/sc/track/11143664"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "actions": [
+                {
+                    "name": "apple",
+                    "type": "applemusicplay",
+                    "id": "724579519"
+                },
+                {
+                    "name": "apple",
+                    "type": "uri",
+                    "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/fc/1e/d2/fc1ed2b1-e41b-2782-0c86-ab9bccaca1c5/mzaf_1944638162169290086.plus.aac.ep.m4a"
+                }
+            ],
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/gb/album/heart-of-glass/724578151?i=724579519&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/gb/album/heart-of-glass/724578151?i=724579519&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                },
+                {
+                    "caption": "BUY",
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "uri": "https://itunes.apple.com/gb/album/heart-of-glass/724578151?i=724579519&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "buy",
+                        "providername": "itunes"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "type": "buy",
+                    "listcaption": "Buy on iTunes",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "itunes"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:Heart%20of%20Glass%20Blondie"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27Heart+of+Glass%27%20artist%3A%27Blondie%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": false,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [
+                    {
+                        "image": "https://is3-ssl.mzstatic.com/image/thumb/Features125/v4/0c/9c/83/0c9c83de-9abc-8f40-b884-93e510c93ccc/mzl.eggnpkwu.jpg/800x800cc.jpg",
+                        "caption": "Blondie"
+                    },
+                    {
+                        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/b0/1e/01/b01e0139-3640-a161-ef5c-027451d30c48/00724353359959.rgb.jpg/400x400cc.jpg",
+                        "caption": "Heart of Glass"
+                    }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                    {
+                        "title": "Album",
+                        "text": "Parallel Lines"
+                    },
+                    {
+                        "title": "Label",
+                        "text": "Chrysalis\\EMI Records (USA)"
+                    },
+                    {
+                        "title": "Released",
+                        "text": "1978"
+                    }
+                ]
+            },
+            {
+                "type": "LYRICS",
+                "text": [
+                    "Once I had a love and it was a gas",
+                    "Soon turned out had a heart of glass",
+                    "Seemed like the real thing, only to find",
+                    "Much o' mistrust, love's gone behind",
+                    "",
+                    "Once I had a love and it was divine",
+                    "Soon found out I was losing my mind",
+                    "It seemed like the real thing, but I was so blind",
+                    "Much o' mistrust, love's gone behind",
+                    "",
+                    "In between",
+                    "What I find is pleasing, and I'm feeling fine",
+                    "Love is so confusing, there's no peace of mind",
+                    "If I fear I'm losing you, it's just no good",
+                    "You teasing like you do",
+                    "",
+                    "Once I had a love and it was a gas",
+                    "Soon turned out had a heart of glass",
+                    "Seemed like the real thing, only to find",
+                    "Much o' mistrust, love's gone behind",
+                    "",
+                    "Lost inside",
+                    "Adorable illusion and I cannot hide",
+                    "I'm the one you're using, please don't push me aside",
+                    "We coulda made it cruising, yeah",
+                    "",
+                    "Yeah, riding high on love's true bluish light",
+                    "",
+                    "Once I had a love and it was a gas",
+                    "Soon turned out to be a pain in the ass",
+                    "Seemed like the real thing, only to find",
+                    "Much o' mistrust, love's gone behind"
+                ],
+                "url": "https://cdn.shazam.com/lyrics/v1/en-US/GB/iphone/musixmatch/subtitles/101415/146/1?token=46ae2ba6d5390471b5970034d8d6198c",
+                "footer": "Writer(s): Deborah Harry, Chris Stein\nLyrics powered by www.musixmatch.com",
+                "tabname": "Lyrics",
+                "beacondata": {
+                    "lyricsid": "23189610",
+                    "providername": "musixmatch",
+                    "commontrackid": "101415"
+                }
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/11143664/youtube/video?q=Blondie+%22Heart+of+Glass%22"
+            },
+            {
+                "type": "RELATED",
+                "url": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-11143664?startFrom=0&pageSize=20&connected=",
+                "tabname": "Related"
+            }
+        ],
+        "url": "https://www.shazam.com/track/11143664/heart-of-glass",
+        "artists": [
+            {
+                "id": "42",
+                "adamid": "1012882"
+            }
+        ],
+        "isrc": "USCH30100108",
+        "genres": {
+            "primary": "Rock"
+        },
+        "urlparams": {
+            "{tracktitle}": "Heart+of+Glass",
+            "{trackartist}": "Blondie"
+        },
+        "myshazam": {
+            "apple": {
+                "actions": [
+                    {
+                        "name": "myshazam:apple",
+                        "type": "uri",
+                        "uri": "https://music.apple.com/gb/album/heart-of-glass/724578151?i=724579519&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                ]
+            }
+        },
+        "highlightsurls": {
+            "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/1012882/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios&videoIdToFilter=281896075",
+            "trackhighlighturl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/highlights/281896075?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+        },
+        "relatedtracksurl": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-11143664?startFrom=0&pageSize=20&connected=",
+        "albumadamid": "724578151"
+    },
+    "tagid": "E645A08F-225F-4633-B390-893CF969C9A4"
+}

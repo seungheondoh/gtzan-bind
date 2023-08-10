@@ -1,0 +1,246 @@
+{
+    "matches": [
+        {
+            "id": "205608624",
+            "offset": 33.046203125,
+            "timeskew": 0.00050985813,
+            "frequencyskew": 0.00020134449
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691632246995,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "73603433",
+        "title": "April In Paris",
+        "subtitle": "Sarah Vaughan",
+        "images": {
+            "background": "https://is1-ssl.mzstatic.com/image/thumb/Features115/v4/f6/ff/ac/f6ffac11-5c38-a03a-2940-0810d555981b/pr_source.png/800x800cc.jpg",
+            "coverart": "https://is3-ssl.mzstatic.com/image/thumb/Music7/v4/c4/16/08/c4160863-fbc7-623b-a7a8-f217d8181136/9782849071243_cover.jpg/400x400cc.jpg",
+            "coverarthq": "https://is3-ssl.mzstatic.com/image/thumb/Music7/v4/c4/16/08/c4160863-fbc7-623b-a7a8-f217d8181136/9782849071243_cover.jpg/400x400cc.jpg",
+            "joecolor": "b:ffffffp:030303s:1b1b1bt:353535q:484848"
+        },
+        "share": {
+            "subject": "April In Paris - Sarah Vaughan",
+            "text": "April In Paris by Sarah Vaughan",
+            "href": "https://www.shazam.com/track/73603433/april-in-paris",
+            "image": "https://is3-ssl.mzstatic.com/image/thumb/Music7/v4/c4/16/08/c4160863-fbc7-623b-a7a8-f217d8181136/9782849071243_cover.jpg/400x400cc.jpg",
+            "twitter": "I used @Shazam to discover April In Paris by Sarah Vaughan.",
+            "html": "https://www.shazam.com/snippets/email-share/73603433?lang=en-US&country=GB",
+            "avatar": "https://is1-ssl.mzstatic.com/image/thumb/Features115/v4/f6/ff/ac/f6ffac11-5c38-a03a-2940-0810d555981b/pr_source.png/800x800cc.jpg",
+            "snapchat": "https://www.shazam.com/partner/sc/track/73603433"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "actions": [
+                {
+                    "name": "apple",
+                    "type": "applemusicplay",
+                    "id": "1034011618"
+                },
+                {
+                    "name": "apple",
+                    "type": "uri",
+                    "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/00/18/98/001898a6-b727-d790-551c-6450fafcc483/mzaf_15292271340914162026.plus.aac.ep.m4a"
+                }
+            ],
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/gb/album/april-in-paris/1034011304?i=1034011618&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/gb/album/april-in-paris/1034011304?i=1034011618&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                },
+                {
+                    "caption": "BUY",
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "uri": "https://itunes.apple.com/gb/album/april-in-paris/1034011304?i=1034011618&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "buy",
+                        "providername": "itunes"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "type": "buy",
+                    "listcaption": "Buy on iTunes",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "itunes"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:April%20In%20Paris%20Sarah%20Vaughan"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27April+In+Paris%27%20artist%3A%27Sarah+Vaughan%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": false,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [
+                    {
+                        "image": "https://is1-ssl.mzstatic.com/image/thumb/Features115/v4/f6/ff/ac/f6ffac11-5c38-a03a-2940-0810d555981b/pr_source.png/800x800cc.jpg",
+                        "caption": "Sarah Vaughan"
+                    },
+                    {
+                        "image": "https://is3-ssl.mzstatic.com/image/thumb/Music7/v4/c4/16/08/c4160863-fbc7-623b-a7a8-f217d8181136/9782849071243_cover.jpg/400x400cc.jpg",
+                        "caption": "April In Paris"
+                    }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                    {
+                        "title": "Album",
+                        "text": "BD Music Presents Sarah Vaughan"
+                    },
+                    {
+                        "title": "Label",
+                        "text": "BDMUSIC"
+                    },
+                    {
+                        "title": "Released",
+                        "text": "1954"
+                    }
+                ]
+            },
+            {
+                "type": "LYRICS",
+                "text": [
+                    "April in Paris, chestnuts in blossom",
+                    "Holiday tables under the trees",
+                    "April in Paris, this is a feeling",
+                    "No one can ever reprise",
+                    "",
+                    "I never knew the charm of spring",
+                    "Never met it face to face",
+                    "I never new my heart could sing",
+                    "Never missed a warm embrace",
+                    "",
+                    "Till April in Paris",
+                    "Whom can I run to",
+                    "What have you done to my heart",
+                    "",
+                    "April in Paris, chestnuts in blossom",
+                    "Holiday tables under the trees",
+                    "April in Paris, this is a feeling",
+                    "No one can ever reprise",
+                    "",
+                    "I never knew the charm of spring",
+                    "Never met it face to face",
+                    "I never knew my heart could sing",
+                    "Never missed a warm embrace",
+                    "",
+                    "Till April in Paris",
+                    "Whom can I run to",
+                    "What have you done to my heart"
+                ],
+                "url": "https://cdn.shazam.com/lyrics/v1/en-US/GB/iphone/musixmatch/subtitles/443193/382/1?token=ee0fd7309ec573b76b533d0b744289f6",
+                "footer": "Writer(s): E.y. Harburg, Vernon Duke\nLyrics powered by www.musixmatch.com",
+                "tabname": "Lyrics",
+                "beacondata": {
+                    "lyricsid": "28101544",
+                    "providername": "musixmatch",
+                    "commontrackid": "443193"
+                }
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/73603433/youtube/video?q=Sarah+Vaughan+%22April+In+Paris%22"
+            },
+            {
+                "type": "RELATED",
+                "url": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-73603433?startFrom=0&pageSize=20&connected=",
+                "tabname": "Related"
+            }
+        ],
+        "url": "https://www.shazam.com/track/73603433/april-in-paris",
+        "artists": [
+            {
+                "id": "42",
+                "adamid": "79995"
+            }
+        ],
+        "isrc": "FR8X01500110",
+        "genres": {
+            "primary": "Jazz"
+        },
+        "urlparams": {
+            "{tracktitle}": "April+In+Paris",
+            "{trackartist}": "Sarah+Vaughan"
+        },
+        "myshazam": {
+            "apple": {
+                "actions": [
+                    {
+                        "name": "myshazam:apple",
+                        "type": "uri",
+                        "uri": "https://music.apple.com/gb/album/april-in-paris/1034011304?i=1034011618&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                ]
+            }
+        },
+        "highlightsurls": {
+            "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/79995/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+        },
+        "relatedtracksurl": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-73603433?startFrom=0&pageSize=20&connected=",
+        "albumadamid": "1034011304"
+    },
+    "tagid": "1A407E1E-77F0-43A5-A0F3-52B2CE332CEE"
+}

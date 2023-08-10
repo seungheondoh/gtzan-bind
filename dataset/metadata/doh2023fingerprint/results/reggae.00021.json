@@ -1,0 +1,289 @@
+{
+    "matches": [
+        {
+            "id": "311105073",
+            "offset": 42.488140625,
+            "timeskew": 0.00556767,
+            "frequencyskew": 0.0051683187
+        },
+        {
+            "id": "347632917",
+            "offset": 84.65924218699999,
+            "timeskew": 0.0028805733,
+            "frequencyskew": 0.0024597645
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691633261039,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "5221014",
+        "title": "Trenchtown Rock (Live 1975)",
+        "subtitle": "Bob Marley",
+        "images": {
+            "background": "https://is5-ssl.mzstatic.com/image/thumb/Features126/v4/e7/fa/d8/e7fad8bf-fd10-fb5d-a544-a7c8eefa812d/mza_2418279402495252125.jpg/800x800cc.jpg",
+            "coverart": "https://is3-ssl.mzstatic.com/image/thumb/Music122/v4/5f/69/8e/5f698ec7-36fe-91cf-6d3d-fd1add92ecf1/06UMGIM04340.rgb.jpg/400x400cc.jpg",
+            "coverarthq": "https://is3-ssl.mzstatic.com/image/thumb/Music122/v4/5f/69/8e/5f698ec7-36fe-91cf-6d3d-fd1add92ecf1/06UMGIM04340.rgb.jpg/400x400cc.jpg",
+            "joecolor": "b:433b31p:f6ef12s:07d94et:d2cb19q:13ba48"
+        },
+        "share": {
+            "subject": "Trenchtown Rock (Live 1975) - Bob Marley",
+            "text": "Trenchtown Rock (Live 1975) by Bob Marley",
+            "href": "https://www.shazam.com/track/5221014/trenchtown-rock-live-1975",
+            "image": "https://is3-ssl.mzstatic.com/image/thumb/Music122/v4/5f/69/8e/5f698ec7-36fe-91cf-6d3d-fd1add92ecf1/06UMGIM04340.rgb.jpg/400x400cc.jpg",
+            "twitter": "I used @Shazam to discover Trenchtown Rock (Live 1975) by Bob Marley.",
+            "html": "https://www.shazam.com/snippets/email-share/5221014?lang=en-US&country=GB",
+            "avatar": "https://is5-ssl.mzstatic.com/image/thumb/Features126/v4/e7/fa/d8/e7fad8bf-fd10-fb5d-a544-a7c8eefa812d/mza_2418279402495252125.jpg/800x800cc.jpg",
+            "snapchat": "https://www.shazam.com/partner/sc/track/5221014"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "actions": [
+                {
+                    "name": "apple",
+                    "type": "applemusicplay",
+                    "id": "1440822742"
+                },
+                {
+                    "name": "apple",
+                    "type": "uri",
+                    "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/a3/59/32/a359327e-8f31-1ff3-1d1c-660681f487e3/mzaf_13867137657311478398.plus.aac.ep.m4a"
+                }
+            ],
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/gb/album/trenchtown-rock-live-1975/1440822588?i=1440822742&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/gb/album/trenchtown-rock-live-1975/1440822588?i=1440822742&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                },
+                {
+                    "caption": "BUY",
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "uri": "https://itunes.apple.com/gb/album/trenchtown-rock-live-1975/1440822588?i=1440822742&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "buy",
+                        "providername": "itunes"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "type": "buy",
+                    "listcaption": "Buy on iTunes",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "itunes"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:Trenchtown%20Rock%20%28Live%201975%29%20Bob%20Marley"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27Trenchtown+Rock+%28Live+1975%29%27%20artist%3A%27Bob+Marley%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": false,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [
+                    {
+                        "image": "https://is5-ssl.mzstatic.com/image/thumb/Features126/v4/e7/fa/d8/e7fad8bf-fd10-fb5d-a544-a7c8eefa812d/mza_2418279402495252125.jpg/800x800cc.jpg",
+                        "caption": "Bob Marley"
+                    },
+                    {
+                        "image": "https://is3-ssl.mzstatic.com/image/thumb/Music122/v4/5f/69/8e/5f698ec7-36fe-91cf-6d3d-fd1add92ecf1/06UMGIM04340.rgb.jpg/400x400cc.jpg",
+                        "caption": "Trenchtown Rock (Live 1975)"
+                    }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                    {
+                        "title": "Album",
+                        "text": "Live! (Bonus Track Version)"
+                    },
+                    {
+                        "title": "Label",
+                        "text": "Island Records"
+                    },
+                    {
+                        "title": "Released",
+                        "text": "1975"
+                    }
+                ]
+            },
+            {
+                "type": "LYRICS",
+                "text": [
+                    "One good thing about music, when it hits",
+                    "(You fell no pain)",
+                    "Wo-wo I say one good thing about music, when it hits ya",
+                    "(You fell no pain)",
+                    "Hit me with music yeah! Hit me with music now",
+                    "",
+                    "This is (Trench town rock) Don't watch that",
+                    "(Trench town rock) Big fish or sprat now",
+                    "(Trench town rock) You reap what you sow",
+                    "(Trench town rock) And only Jah-Jah know",
+                    "(Trench town rock) I never turn my back",
+                    "(Trench town rock) I give the slum a try",
+                    "(Trench town rock) I never let the children cry",
+                    "(Trench town rock) 'Cause you got to tell Jah-Jah why",
+                    "",
+                    "(Groovin') It's Kingston twelve",
+                    "(Groovin') It's Kingston twelve",
+                    "(Groovin') It's Kingston twelve now",
+                    "(Groovin') It's Kingston twelve",
+                    "(No want you fe galang so) Oh no!",
+                    "(No want you fe galang so) Scaba-dip scaba",
+                    "(You want come cold I up) Scaba-diba-dip, scaba-dip, scaba-dip",
+                    "(But you can't come cold I up)",
+                    "Wo-wo I'm a groover! (Groover)",
+                    "And the world know by now",
+                    "Now, now, now, now, now, now, now, now, y'all!",
+                    "",
+                    "Oh now I say, you feel no pain now",
+                    "One good thing about music, when it hits",
+                    "(You fell no pain) You feel no pain",
+                    "Hit me with music now, oh now! Hit me with music now",
+                    "(Hit me with music) 'Arder! Brutalize me! (Hit me with music)",
+                    "",
+                    "This is (Trench town rock) I say don't watch that",
+                    "(Trench town rock) If you are a big fish or sprat",
+                    "(Trench town rock) You reap what you sow",
+                    "(Trench town rock) And everyone know now",
+                    "(Trench town rock) Don't turn your back",
+                    "(Trench town rock) I say give the slum a try",
+                    "(Trench town rock) Never let the children cry",
+                    "(Trench town rock) Oh you got to tell Jah-Jah why",
+                    "",
+                    "(Groovin') It's Kingston twelve",
+                    "(Groovin') It's Kingston twelve",
+                    "(Groovin') I say it's Kingston twelve now",
+                    "(Groovin') Wo-wo-wo-wo it's Kingston twelve",
+                    "",
+                    "(No want you fe galang so) Since I told you that",
+                    "(No want you fe galang so) We should live with Love",
+                    "(You want come cold I up) And I don't do that",
+                    "(But you can't come cold I up)",
+                    "I look da now! (Groover)",
+                    "And then it's Kingston twelve, uh!",
+                    "",
+                    "Good God, look a-here now! (You feel no pain) Uh!",
+                    "Hit me with music, yeah! Come on! (Hit me with music)",
+                    "(Hit me with music) Oh my brother! (Hit me with music) Brutalize me!",
+                    "(Hit me with music!) Oh hurt me! (Hit me with music)",
+                    "",
+                    "(Trench Town Rock) Don't call no cop!",
+                    "(Trench Town Rock) We can trash things ourselves!",
+                    "(Trench Town Rock) Got no stacks on no shelves!",
+                    "(Trench Town Rock) But let me tell ya, behave yourselves!",
+                    "(Trench Town Rock)"
+                ],
+                "url": "https://cdn.shazam.com/lyrics/v1/en-US/GB/iphone/musixmatch/subtitles/54414979/263/1?token=f641a7f467b89f20453adf299b2a27bb",
+                "footer": "Writer(s): Bob Marley\nLyrics powered by www.musixmatch.com",
+                "tabname": "Lyrics",
+                "beacondata": {
+                    "lyricsid": "25085532",
+                    "providername": "musixmatch",
+                    "commontrackid": "54414979"
+                }
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/5221014/youtube/video?q=Bob+Marley+%22Trenchtown+Rock+(Live+1975)%22"
+            },
+            {
+                "type": "RELATED",
+                "url": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-5221014?startFrom=0&pageSize=20&connected=",
+                "tabname": "Related"
+            }
+        ],
+        "url": "https://www.shazam.com/track/5221014/trenchtown-rock-live-1975",
+        "artists": [
+            {
+                "id": "42",
+                "adamid": "121982"
+            }
+        ],
+        "isrc": "USIR20000392",
+        "genres": {
+            "primary": "Reggae"
+        },
+        "urlparams": {
+            "{tracktitle}": "Trenchtown+Rock+%28Live+1975%29",
+            "{trackartist}": "Bob+Marley"
+        },
+        "myshazam": {
+            "apple": {
+                "actions": [
+                    {
+                        "name": "myshazam:apple",
+                        "type": "uri",
+                        "uri": "https://music.apple.com/gb/album/trenchtown-rock-live-1975/1440822588?i=1440822742&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                ]
+            }
+        },
+        "highlightsurls": {
+            "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/121982/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+        },
+        "relatedtracksurl": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-5221014?startFrom=0&pageSize=20&connected=",
+        "albumadamid": "1440822588"
+    },
+    "tagid": "8E034AB6-BAB4-4567-A71B-4F80FBB99124"
+}

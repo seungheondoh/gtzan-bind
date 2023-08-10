@@ -1,0 +1,259 @@
+{
+    "matches": [
+        {
+            "id": "205372496",
+            "offset": 238.799796875,
+            "timeskew": 0.023382306,
+            "frequencyskew": 0.022933125
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691632428697,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "10471695",
+        "title": "Back Off Boogaloo",
+        "subtitle": "Donna Summer",
+        "images": {
+            "background": "https://is1-ssl.mzstatic.com/image/thumb/Features125/v4/0d/73/d8/0d73d872-4ab8-b500-8197-57125c1c1c7c/mzl.cmfjmvmc.jpg/800x800cc.jpg",
+            "coverart": "https://is1-ssl.mzstatic.com/image/thumb/Music/85/b8/84/mzi.mbyavmim.tif/400x400cc.jpg",
+            "coverarthq": "https://is1-ssl.mzstatic.com/image/thumb/Music/85/b8/84/mzi.mbyavmim.tif/400x400cc.jpg",
+            "joecolor": "b:01060cp:f3d6b8s:efcd9et:c2ac96q:bfa581"
+        },
+        "share": {
+            "subject": "Back Off Boogaloo - Donna Summer",
+            "text": "Back Off Boogaloo by Donna Summer",
+            "href": "https://www.shazam.com/track/10471695/back-off-boogaloo",
+            "image": "https://is1-ssl.mzstatic.com/image/thumb/Music/85/b8/84/mzi.mbyavmim.tif/400x400cc.jpg",
+            "twitter": "I used @Shazam to discover Back Off Boogaloo by Donna Summer.",
+            "html": "https://www.shazam.com/snippets/email-share/10471695?lang=en-US&country=GB",
+            "avatar": "https://is1-ssl.mzstatic.com/image/thumb/Features125/v4/0d/73/d8/0d73d872-4ab8-b500-8197-57125c1c1c7c/mzl.cmfjmvmc.jpg/800x800cc.jpg",
+            "snapchat": "https://www.shazam.com/partner/sc/track/10471695"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "actions": [
+                {
+                    "name": "apple",
+                    "type": "applemusicplay",
+                    "id": "443698030"
+                },
+                {
+                    "name": "apple",
+                    "type": "uri",
+                    "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/59/26/f7/5926f7ba-1ae3-c673-b521-e295e0ebb957/mzaf_16485990913993224171.plus.aac.ep.m4a"
+                }
+            ],
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/gb/album/back-off-boogaloo/443698021?i=443698030&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/gb/album/back-off-boogaloo/443698021?i=443698030&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                },
+                {
+                    "caption": "BUY",
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "uri": "https://itunes.apple.com/gb/album/back-off-boogaloo/443698021?i=443698030&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "buy",
+                        "providername": "itunes"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "type": "buy",
+                    "listcaption": "Buy on iTunes",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "itunes"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:Back%20Off%20Boogaloo%20Donna%20Summer"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27Back+Off+Boogaloo%27%20artist%3A%27Donna+Summer%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": false,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [
+                    {
+                        "image": "https://is1-ssl.mzstatic.com/image/thumb/Features125/v4/0d/73/d8/0d73d872-4ab8-b500-8197-57125c1c1c7c/mzl.cmfjmvmc.jpg/800x800cc.jpg",
+                        "caption": "Donna Summer"
+                    },
+                    {
+                        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music/85/b8/84/mzi.mbyavmim.tif/400x400cc.jpg",
+                        "caption": "Back Off Boogaloo"
+                    }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                    {
+                        "title": "Album",
+                        "text": "Fun Street"
+                    },
+                    {
+                        "title": "Label",
+                        "text": "Pegasus Entertainment"
+                    },
+                    {
+                        "title": "Released",
+                        "text": "1976"
+                    }
+                ]
+            },
+            {
+                "type": "LYRICS",
+                "text": [
+                    "\"Back off, boogaloo\", I said",
+                    "Back off, boogaloo, come on",
+                    "Back off, boogaloo, boo",
+                    "",
+                    "\"Back off, boogaloo\", I said",
+                    "Back off, boogaloo, come on",
+                    "Back off, boogaloo, boo",
+                    "",
+                    "Back off, boogaloo",
+                    "What 'you think you're gonna do",
+                    "I got a flash right from the start",
+                    "",
+                    "Wake up, meat head",
+                    "Don't pretend that you are dead",
+                    "Get yourself right off the cart",
+                    "",
+                    "Get yourself together now",
+                    "And give me something tasty",
+                    "Everything you try to do",
+                    "You know it sure sounds wasted",
+                    "",
+                    "\"Back off, boogaloo\", I said",
+                    "Back off, boogaloo, you think you're a groove",
+                    "Standing there in your wallpapers shoes",
+                    "And your socks that match your eyes",
+                    "",
+                    "Get yourself together now",
+                    "And give me something tasty",
+                    "Everything you try to do",
+                    "You know it sure sounds wasted",
+                    "",
+                    "Back off, boogaloo",
+                    "What 'you think you're gonna do",
+                    "I got a flash right from the start",
+                    "",
+                    "\"Back off, boogaloo\", I said",
+                    "Back off, boogaloo, come on",
+                    "Back off, boogaloo, boo",
+                    "",
+                    "Back off, boogaloo, come on",
+                    "\"Back off, boogaloo\", I said",
+                    "Back off, boogaloo, boo",
+                    "Nice time around",
+                    "",
+                    "\"Back off, boogaloo\", I said",
+                    "Back off, boogaloo, come on",
+                    "Back off, boogaloo, boo"
+                ],
+                "footer": "Writer(s): Richard Starkey\nLyrics powered by www.musixmatch.com",
+                "tabname": "Lyrics",
+                "beacondata": {
+                    "lyricsid": "5802138",
+                    "providername": "musixmatch",
+                    "commontrackid": "118077"
+                }
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/10471695/youtube/video?q=Donna+Summer+%22Back+Off+Boogaloo%22"
+            }
+        ],
+        "url": "https://www.shazam.com/track/10471695/back-off-boogaloo",
+        "artists": [
+            {
+                "id": "42",
+                "adamid": "49155"
+            }
+        ],
+        "isrc": "GBVUD0806015",
+        "genres": {
+            "primary": "R&B/Soul"
+        },
+        "urlparams": {
+            "{tracktitle}": "Back+Off+Boogaloo",
+            "{trackartist}": "Donna+Summer"
+        },
+        "myshazam": {
+            "apple": {
+                "actions": [
+                    {
+                        "name": "myshazam:apple",
+                        "type": "uri",
+                        "uri": "https://music.apple.com/gb/album/back-off-boogaloo/443698021?i=443698030&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                ]
+            }
+        },
+        "highlightsurls": {
+            "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/49155/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+        },
+        "albumadamid": "443698021"
+    },
+    "tagid": "34C3A1B3-042B-428A-B41C-A1AD098A26A7"
+}

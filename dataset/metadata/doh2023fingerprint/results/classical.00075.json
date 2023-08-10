@@ -1,0 +1,195 @@
+{
+    "matches": [
+        {
+            "id": "203797528",
+            "offset": 30.001248046,
+            "timeskew": 0.00015163422,
+            "frequencyskew": -8.0525875e-05
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691633134514,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "47082560",
+        "title": "Symphony No. 49 in F Minor, Hob. I:49 - \"La Pasione\": I. Adagio",
+        "subtitle": "Nicholas Ward & Northern Chamber Orchestra",
+        "images": {
+            "background": "https://is5-ssl.mzstatic.com/image/thumb/Music/y2004/m11/d15/h17/s05.nbeuhlfz.jpg/400x400cc.jpg",
+            "coverart": "https://is5-ssl.mzstatic.com/image/thumb/Music/y2004/m11/d15/h17/s05.nbeuhlfz.jpg/400x400cc.jpg",
+            "coverarthq": "https://is5-ssl.mzstatic.com/image/thumb/Music/y2004/m11/d15/h17/s05.nbeuhlfz.jpg/400x400cc.jpg",
+            "joecolor": "b:ffffffp:180200s:4e1b0ft:463533q:72483f"
+        },
+        "share": {
+            "subject": "Symphony No. 49 in F Minor, Hob. I:49 - \"La Pasione\": I. Adagio - Nicholas Ward & Northern Chamber Orchestra",
+            "text": "Symphony No. 49 in F Minor, Hob. I:49 - \"La Pasione\": I. Adagio by Nicholas Ward & Northern Chamber Orchestra",
+            "href": "https://www.shazam.com/track/47082560/symphony-no-49-in-f-minor-hob-i-49-la-pasione-i-adagio",
+            "image": "https://is5-ssl.mzstatic.com/image/thumb/Music/y2004/m11/d15/h17/s05.nbeuhlfz.jpg/400x400cc.jpg",
+            "twitter": "I used @Shazam to discover Symphony No. 49 in F Minor, Hob. I:49 - \"La Pasione\": I. Adagio by Nicholas Ward & Northern Chamber Orchestra.",
+            "html": "https://www.shazam.com/snippets/email-share/47082560?lang=en-US&country=GB",
+            "snapchat": "https://www.shazam.com/partner/sc/track/47082560"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "actions": [
+                {
+                    "name": "apple",
+                    "type": "applemusicplay",
+                    "id": "30099095"
+                },
+                {
+                    "name": "apple",
+                    "type": "uri",
+                    "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/Music/4b/dc/a0/mzm.xsjenkle.aac.ep.m4a"
+                }
+            ],
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/gb/album/symphony-no-49-in-f-minor-hob-i-49-la-pasione-i-adagio/30099173?i=30099095&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/gb/album/symphony-no-49-in-f-minor-hob-i-49-la-pasione-i-adagio/30099173?i=30099095&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                },
+                {
+                    "caption": "BUY",
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "uri": "https://itunes.apple.com/gb/album/symphony-no-49-in-f-minor-hob-i-49-la-pasione-i-adagio/30099173?i=30099095&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "buy",
+                        "providername": "itunes"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "type": "buy",
+                    "listcaption": "Buy on iTunes",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "itunes"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:Symphony%20No.%2049%20in%20F%20Minor%2C%20Hob.%20I%3A49%20-%20%22La%20Pasione%22%3A%20I.%20Adagio%20Nicholas%20Ward"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27Symphony+No.+49+in+F+Minor%2C+Hob.+I%3A49+-+%22La+Pasione%22%3A+I.+Adagio%27%20artist%3A%27Nicholas+Ward++Northern+Chamber+Orchestra%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": false,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [
+                    {
+                        "image": "https://is5-ssl.mzstatic.com/image/thumb/Music/y2004/m11/d15/h17/s05.nbeuhlfz.jpg/400x400cc.jpg",
+                        "caption": "Symphony No. 49 in F Minor, Hob. I:49 - \"La Pasione\": I. Adagio"
+                    }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                    {
+                        "title": "Album",
+                        "text": "Symphonies Nos. 26, 35 & 49"
+                    },
+                    {
+                        "title": "Label",
+                        "text": "Naxos"
+                    },
+                    {
+                        "title": "Released",
+                        "text": "1993"
+                    }
+                ]
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/47082560/youtube/video?q=Nicholas+Ward+%26+Northern+Chamber+Orchestra+%22Symphony+No.+49+in+F+Minor,+Hob.+I:49+-+La+Pasione:+I.+Adagio%22"
+            }
+        ],
+        "url": "https://www.shazam.com/track/47082560/symphony-no-49-in-f-minor-hob-i-49-la-pasione-i-adagio",
+        "artists": [
+            {
+                "id": "42",
+                "adamid": "5215029"
+            }
+        ],
+        "isrc": "USLEC0408197",
+        "genres": {
+            "primary": "Classical"
+        },
+        "urlparams": {
+            "{tracktitle}": "Symphony+No.+49+in+F+Minor%2C+Hob.+I%3A49+-+%22La+Pasione%22%3A+I.+Adagio",
+            "{trackartist}": "Nicholas+Ward+%26+Northern+Chamber+Orchestra"
+        },
+        "myshazam": {
+            "apple": {
+                "actions": [
+                    {
+                        "name": "myshazam:apple",
+                        "type": "uri",
+                        "uri": "https://music.apple.com/gb/album/symphony-no-49-in-f-minor-hob-i-49-la-pasione-i-adagio/30099173?i=30099095&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                ]
+            }
+        },
+        "highlightsurls": {
+            "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/5215029/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+        },
+        "albumadamid": "30099173"
+    },
+    "tagid": "01F42387-6F7D-44DD-94E7-EF6B700A7189"
+}

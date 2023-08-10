@@ -1,0 +1,254 @@
+{
+    "matches": [
+        {
+            "id": "11227140",
+            "offset": 122.124859375,
+            "timeskew": 0.019797683,
+            "frequencyskew": 0.01984799
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691633481986,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "5935083",
+        "title": "If Tomorrow Never Comes (Live)",
+        "subtitle": "Garth Brooks",
+        "images": {
+            "background": "https://is3-ssl.mzstatic.com/image/thumb/Music126/v4/71/95/aa/7195aafe-80f3-ee11-23e1-f804b0c04fab/R0004600000067.jpg/400x400cc.jpg",
+            "coverart": "https://is3-ssl.mzstatic.com/image/thumb/Music126/v4/71/95/aa/7195aafe-80f3-ee11-23e1-f804b0c04fab/R0004600000067.jpg/400x400cc.jpg",
+            "coverarthq": "https://is3-ssl.mzstatic.com/image/thumb/Music126/v4/71/95/aa/7195aafe-80f3-ee11-23e1-f804b0c04fab/R0004600000067.jpg/400x400cc.jpg",
+            "joecolor": "b:000000p:f08155s:e2763et:c06744q:b45e32"
+        },
+        "share": {
+            "subject": "If Tomorrow Never Comes (Live) - Garth Brooks",
+            "text": "If Tomorrow Never Comes (Live) by Garth Brooks",
+            "href": "https://www.shazam.com/track/5935083/if-tomorrow-never-comes-live",
+            "image": "https://is3-ssl.mzstatic.com/image/thumb/Music126/v4/71/95/aa/7195aafe-80f3-ee11-23e1-f804b0c04fab/R0004600000067.jpg/400x400cc.jpg",
+            "twitter": "I used @Shazam to discover If Tomorrow Never Comes (Live) by Garth Brooks.",
+            "html": "https://www.shazam.com/snippets/email-share/5935083?lang=en-US&country=GB",
+            "snapchat": "https://www.shazam.com/partner/sc/track/5935083"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "actions": [
+                {
+                    "name": "apple",
+                    "type": "applemusicplay",
+                    "id": "1690625824"
+                },
+                {
+                    "name": "apple",
+                    "type": "uri",
+                    "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/7e/d7/e0/7ed7e060-cf0b-31ed-a2da-548da9e10de9/mzaf_9799690414034693433.plus.aac.ep.m4a"
+                }
+            ],
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/gb/album/if-tomorrow-never-comes-live/1690625806?i=1690625824&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/gb/album/if-tomorrow-never-comes-live/1690625806?i=1690625824&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                },
+                {
+                    "caption": "BUY",
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "uri": "https://itunes.apple.com/gb/album/if-tomorrow-never-comes-live/1690625806?i=1690625824&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "buy",
+                        "providername": "itunes"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "type": "buy",
+                    "listcaption": "Buy on iTunes",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "itunes"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:If%20Tomorrow%20Never%20Comes%20%28Live%29%20Garth%20Brooks"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27If+Tomorrow+Never+Comes+%28Live%29%27%20artist%3A%27Garth+Brooks%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": false,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [
+                    {
+                        "image": "https://is3-ssl.mzstatic.com/image/thumb/Music126/v4/71/95/aa/7195aafe-80f3-ee11-23e1-f804b0c04fab/R0004600000067.jpg/400x400cc.jpg",
+                        "caption": "If Tomorrow Never Comes (Live)"
+                    }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                    {
+                        "title": "Album",
+                        "text": "Live in Germany 1995"
+                    },
+                    {
+                        "title": "Label",
+                        "text": "Cult Legends"
+                    },
+                    {
+                        "title": "Released",
+                        "text": "1995"
+                    }
+                ]
+            },
+            {
+                "type": "LYRICS",
+                "text": [
+                    "Sometimes late at night",
+                    "I lie awake and watch her sleeping",
+                    "She's lost in peaceful dreams",
+                    "So I turn out the lights and lay there in the dark",
+                    "And the thought crosses my mind",
+                    "If I never wake in the morning",
+                    "Would she ever doubt the way I feel",
+                    "About her in my heart",
+                    "",
+                    "If tomorrow never comes",
+                    "Will she know how much I loved her",
+                    "Did I try in every way to show her every day",
+                    "That she's my only one",
+                    "And if my time on earth were through",
+                    "And she must face this world without me",
+                    "Is the love I gave her in the past",
+                    "Gonna be enough to last",
+                    "If tomorrow never comes",
+                    "",
+                    "'Cause I've lost love ones in my life",
+                    "Who never knew how much I loved them",
+                    "Now I live with the regret",
+                    "That my true feelings for them never were revealed",
+                    "So I made a promise to myself",
+                    "To say each day how much she means to me",
+                    "And avoid that circumstance",
+                    "Where there's no second chance to tell her how I feel",
+                    "",
+                    "If tomorrow never comes",
+                    "Will she know how much I loved her",
+                    "Did I try in every way to show her every day",
+                    "That she's my only one",
+                    "And if my time on earth were through",
+                    "And she must face this world without me",
+                    "Is the love I gave her in the past",
+                    "Gonna be enough to last",
+                    "If tomorrow never comes",
+                    "",
+                    "So tell that someone that you love",
+                    "Just what you're thinking of",
+                    "If tomorrow never comes"
+                ],
+                "footer": "Writer(s): Garth Brooks, Kent Blazy\nLyrics powered by www.musixmatch.com",
+                "tabname": "Lyrics",
+                "beacondata": {
+                    "lyricsid": "28553496",
+                    "providername": "musixmatch",
+                    "commontrackid": "142902125"
+                }
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/5935083/youtube/video?q=Garth+Brooks+%22If+Tomorrow+Never+Comes+(Live)%22"
+            },
+            {
+                "type": "RELATED",
+                "url": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-5935083?startFrom=0&pageSize=20&connected=",
+                "tabname": "Related"
+            }
+        ],
+        "url": "https://www.shazam.com/track/5935083/if-tomorrow-never-comes-live",
+        "artists": [
+            {
+                "id": "42",
+                "adamid": "329451"
+            }
+        ],
+        "isrc": "NLV7F1706543",
+        "genres": {
+            "primary": "Country"
+        },
+        "urlparams": {
+            "{tracktitle}": "If+Tomorrow+Never+Comes+%28Live%29",
+            "{trackartist}": "Garth+Brooks"
+        },
+        "myshazam": {
+            "apple": {
+                "actions": [
+                    {
+                        "name": "myshazam:apple",
+                        "type": "uri",
+                        "uri": "https://music.apple.com/gb/album/if-tomorrow-never-comes-live/1690625806?i=1690625824&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                ]
+            }
+        },
+        "highlightsurls": {
+            "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/329451/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+        },
+        "relatedtracksurl": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-5935083?startFrom=0&pageSize=20&connected=",
+        "albumadamid": "1690625806"
+    },
+    "tagid": "D0E98CAA-B424-4A33-96B0-8A79D98BF7BC"
+}

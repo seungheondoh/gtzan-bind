@@ -1,0 +1,332 @@
+{
+    "matches": [
+        {
+            "id": "407117574",
+            "offset": 29.988943359,
+            "timeskew": 8.273125e-05,
+            "frequencyskew": 0.0
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691632928463,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "236455",
+        "title": "Root Down",
+        "subtitle": "Beastie Boys",
+        "images": {
+            "background": "https://is5-ssl.mzstatic.com/image/thumb/Features115/v4/16/2c/76/162c767d-b00a-5664-1548-df303ae12729/mza_8084110850478364065.png/800x800cc.jpg",
+            "coverart": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/5a/6c/ab/5a6cabf6-3e47-a0f0-5092-bc18623291ed/00724382859956.rgb.jpg/400x400cc.jpg",
+            "coverarthq": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/5a/6c/ab/5a6cabf6-3e47-a0f0-5092-bc18623291ed/00724382859956.rgb.jpg/400x400cc.jpg",
+            "joecolor": "b:c1c0bbp:040104s:292524t:292729q:474442"
+        },
+        "share": {
+            "subject": "Root Down - Beastie Boys",
+            "text": "Root Down by Beastie Boys",
+            "href": "https://www.shazam.com/track/236455/root-down",
+            "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/5a/6c/ab/5a6cabf6-3e47-a0f0-5092-bc18623291ed/00724382859956.rgb.jpg/400x400cc.jpg",
+            "twitter": "I used @Shazam to discover Root Down by Beastie Boys.",
+            "html": "https://www.shazam.com/snippets/email-share/236455?lang=en-US&country=GB",
+            "avatar": "https://is5-ssl.mzstatic.com/image/thumb/Features115/v4/16/2c/76/162c767d-b00a-5664-1548-df303ae12729/mza_8084110850478364065.png/800x800cc.jpg",
+            "snapchat": "https://www.shazam.com/partner/sc/track/236455"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "actions": [
+                {
+                    "name": "apple",
+                    "type": "applemusicplay",
+                    "id": "724771965"
+                },
+                {
+                    "name": "apple",
+                    "type": "uri",
+                    "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/ab/b4/97/abb497cb-5e77-7159-46d3-ea94a5eb60d0/mzaf_3813940187594656497.plus.aac.ep.m4a"
+                }
+            ],
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/gb/album/root-down/724771323?i=724771965&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/gb/album/root-down/724771323?i=724771965&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                },
+                {
+                    "caption": "BUY",
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "uri": "https://itunes.apple.com/gb/album/root-down/724771323?i=724771965&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "buy",
+                        "providername": "itunes"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "type": "buy",
+                    "listcaption": "Buy on iTunes",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "itunes"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:Root%20Down%20Beastie%20Boys"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27Root+Down%27%20artist%3A%27Beastie+Boys%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": true,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [
+                    {
+                        "image": "https://is5-ssl.mzstatic.com/image/thumb/Features115/v4/16/2c/76/162c767d-b00a-5664-1548-df303ae12729/mza_8084110850478364065.png/800x800cc.jpg",
+                        "caption": "Beastie Boys"
+                    },
+                    {
+                        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/5a/6c/ab/5a6cabf6-3e47-a0f0-5092-bc18623291ed/00724382859956.rgb.jpg/400x400cc.jpg",
+                        "caption": "Root Down"
+                    }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                    {
+                        "title": "Album",
+                        "text": "Ill Communication"
+                    },
+                    {
+                        "title": "Label",
+                        "text": "Capitol Records"
+                    },
+                    {
+                        "title": "Released",
+                        "text": "1994"
+                    }
+                ]
+            },
+            {
+                "type": "LYRICS",
+                "text": [
+                    "I kick it root down",
+                    "I put my root down",
+                    "I kick it root down",
+                    "I put my root down",
+                    "",
+                    "So how we gonna kick it?",
+                    "Gonna kick it root down",
+                    "Yeah, how you wanna kick it?",
+                    "Gonna kick it root down",
+                    "",
+                    "So how you gonna kick it?",
+                    "Gonna kick it root down",
+                    "Gonna break it all down",
+                    "Gonna kick it root down",
+                    "",
+                    "It's not a put down, I put my foot down",
+                    "And then I makin' some love, I put my root down",
+                    "I'm like \"Sweetie Pie\" by the Stone Alliance",
+                    "Everybody know I'm known for dropping science",
+                    "",
+                    "'Cause I'm electric like Dick Hyman",
+                    "I guess you'd expect to catch the crew rhymin'",
+                    "Never let you down with the stereo sound",
+                    "So, Mike, get on the mic and turn it out",
+                    "",
+                    "We're talkin' root down, I put my boot down",
+                    "And if you want to battle me, you're puttin' loot down",
+                    "I said it's root down, it's time to scoot down",
+                    "I'm-a step up to the mic in my goose down",
+                    "",
+                    "Come up representin' from the Upper West",
+                    "Money Makin' putting me to the test",
+                    "Sometimes I feel as though I've been blessed",
+                    "Because I'm doing what I want so I never rest",
+                    "",
+                    "Well, I ain't coming out goofy like the Fruit of the Loom guys",
+                    "Just struttin' like The Meters with the \"Look-ka Py Py\"",
+                    "Downtown Brooklyn is where I was born",
+                    "But when the snow is fallin' then I am gone",
+                    "",
+                    "You might think that I'm a fanatic",
+                    "A phone call from Utah and I'm throwin' a panic",
+                    "So break it to the root when we kick it on down",
+                    "Jimmy Smith is my man, I wanna give him a pound",
+                    "",
+                    "I kick it root down",
+                    "I put my root down",
+                    "I kick it root down",
+                    "I put my root down",
+                    "",
+                    "So how you wanna kick it?",
+                    "Gonna kick it root down",
+                    "So how we gonna kick it?",
+                    "Gonna kick it root down",
+                    "",
+                    "So how we gonna kick it?",
+                    "Gonna kick it root down",
+                    "Break it all down",
+                    "Gonna kick it root down",
+                    "",
+                    "Well, Ad-Rock (huh?), don't stop, come on",
+                    "Just get on the mic with the tick and the tock",
+                    "",
+                    "Well, I'll fill you to the fuckin' rim like Brim",
+                    "I'm walking down your block and you say that's him",
+                    "There goes the guy with the funky sound",
+                    "The Beatsie Boys, you know we're gonna get down",
+                    "",
+                    "Because I've got the flow where I grab my dick",
+                    "And say \"Oh my god, that's the funky shit!\"",
+                    "So I'm-a pass the mic and cause a panic",
+                    "The original nasal kid is doing damage",
+                    "",
+                    "Every morning I took the train to High Street Station",
+                    "Doing homework on the train, what a fucked up situation",
+                    "On the way back up, hearing battle tapes",
+                    "Through the underground, underneath the skyscrapes",
+                    "",
+                    "It's like Harlem World Battles on the Zulu Beat Show",
+                    "It's Kool Moe Dee vs. Busy Bee, that's one you should know",
+                    "Enough of that, I just want to give some respect due",
+                    "MCA, grab the mic and Ma Bell will connect you",
+                    "",
+                    "Bob Marley was a prophet for the freedom fight",
+                    "Give thanks and praise to the Lord and I will feel alright",
+                    "I'm feelin' good to play a little music",
+                    "Tears runnin' down my face 'cause I love to do it",
+                    "",
+                    "And no one can stop this flow from flowin' on",
+                    "A flow master of disaster with a sound that's gone",
+                    "I'll take a little shout out to my Dad and Mom",
+                    "For bringing me into this world and so on",
+                    "",
+                    "I kick it root down",
+                    "I put my root down",
+                    "I kick it root down",
+                    "I put my root down",
+                    "",
+                    "So how we gonna kick it?",
+                    "Gonna kick it root down",
+                    "How you wanna kick it?",
+                    "Gonna kick it root down",
+                    "",
+                    "So how we gonna rock it?",
+                    "Gonna kick it root down",
+                    "Break it all down",
+                    "Gonna kick it root down, down",
+                    "",
+                    "And that's a record, that's a record 'cause of Mario",
+                    "And that's a record, that's a record 'cause of Mario",
+                    "And that's a record, that's a record to Mario",
+                    "Aww, now that's a record, buddy"
+                ],
+                "url": "https://cdn.shazam.com/lyrics/v1/en-US/GB/iphone/musixmatch/subtitles/116216060/211/1?token=6b814bddc25a824e93d5b7bf384b25e6",
+                "footer": "Writer(s): Adam Nathaniel Yauch, Michael Louis Diamond, Adam Horovitz\nLyrics powered by www.musixmatch.com",
+                "tabname": "Lyrics",
+                "beacondata": {
+                    "lyricsid": "30793050",
+                    "providername": "musixmatch",
+                    "commontrackid": "116216060"
+                }
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/236455/youtube/video?q=Beastie+Boys+%22Root+Down%22"
+            },
+            {
+                "type": "RELATED",
+                "url": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-236455?startFrom=0&pageSize=20&connected=",
+                "tabname": "Related"
+            }
+        ],
+        "url": "https://www.shazam.com/track/236455/root-down",
+        "artists": [
+            {
+                "id": "42",
+                "adamid": "1971863"
+            }
+        ],
+        "isrc": "USCA29400022",
+        "genres": {
+            "primary": "Hip-Hop/Rap"
+        },
+        "urlparams": {
+            "{tracktitle}": "Root+Down",
+            "{trackartist}": "Beastie+Boys"
+        },
+        "myshazam": {
+            "apple": {
+                "actions": [
+                    {
+                        "name": "myshazam:apple",
+                        "type": "uri",
+                        "uri": "https://music.apple.com/gb/album/root-down/724771323?i=724771965&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                ]
+            }
+        },
+        "highlightsurls": {
+            "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/1971863/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios&videoIdToFilter=1466010482",
+            "trackhighlighturl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/highlights/1466010482?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+        },
+        "relatedtracksurl": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-236455?startFrom=0&pageSize=20&connected=",
+        "albumadamid": "724771323"
+    },
+    "tagid": "73A17505-03CF-4DEC-9098-662836B0AA63"
+}

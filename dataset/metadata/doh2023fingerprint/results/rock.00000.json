@@ -1,0 +1,185 @@
+{
+    "matches": [
+        {
+            "id": "266243984",
+            "offset": 30.013785156,
+            "timeskew": 3.7550926e-05,
+            "frequencyskew": -4.029274e-05
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691633572509,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "5271092",
+        "title": "Potion",
+        "subtitle": "Morphine",
+        "images": {
+            "background": "https://is3-ssl.mzstatic.com/image/thumb/Features125/v4/8b/1d/03/8b1d0379-29ca-ae07-ebeb-37206ae354f6/pr_source.png/800x800cc.jpg",
+            "coverart": "https://is2-ssl.mzstatic.com/image/thumb/Music/v4/2e/1d/d6/2e1dd63f-2f4e-88f4-37cb-55c14b4db783/06UMGIM18756.jpg/400x400cc.jpg",
+            "coverarthq": "https://is2-ssl.mzstatic.com/image/thumb/Music/v4/2e/1d/d6/2e1dd63f-2f4e-88f4-37cb-55c14b4db783/06UMGIM18756.jpg/400x400cc.jpg"
+        },
+        "share": {
+            "subject": "Potion - Morphine",
+            "text": "Potion by Morphine",
+            "href": "https://www.shazam.com/track/5271092/potion",
+            "image": "https://is2-ssl.mzstatic.com/image/thumb/Music/v4/2e/1d/d6/2e1dd63f-2f4e-88f4-37cb-55c14b4db783/06UMGIM18756.jpg/400x400cc.jpg",
+            "twitter": "I used @Shazam to discover Potion by Morphine.",
+            "html": "https://www.shazam.com/snippets/email-share/5271092?lang=en-US&country=GB",
+            "avatar": "https://is3-ssl.mzstatic.com/image/thumb/Features125/v4/8b/1d/03/8b1d0379-29ca-ae07-ebeb-37206ae354f6/pr_source.png/800x800cc.jpg",
+            "snapchat": "https://www.shazam.com/partner/sc/track/5271092"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:subscribe",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/subscribe?mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:subscribe",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/subscribe?mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:Potion%20Morphine"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27Potion%27%20artist%3A%27Morphine%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": false,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [
+                    {
+                        "image": "https://is3-ssl.mzstatic.com/image/thumb/Features125/v4/8b/1d/03/8b1d0379-29ca-ae07-ebeb-37206ae354f6/pr_source.png/800x800cc.jpg",
+                        "caption": "Morphine"
+                    },
+                    {
+                        "image": "https://is2-ssl.mzstatic.com/image/thumb/Music/v4/2e/1d/d6/2e1dd63f-2f4e-88f4-37cb-55c14b4db783/06UMGIM18756.jpg/400x400cc.jpg",
+                        "caption": "Potion"
+                    }
+                ],
+                "tabname": "Song",
+                "metadata": []
+            },
+            {
+                "type": "LYRICS",
+                "text": [
+                    "Give me a potion to make me love you",
+                    "Give me a potion to make me care",
+                    "Give me a potion to make me love you",
+                    "Make it a double",
+                    "Make it a double",
+                    "",
+                    "Below the ocean, i make a bed down there",
+                    "Below the ocean, i gotta live somewhere",
+                    "Maybe a graveyard. yeah maybe. i don't care",
+                    "",
+                    "Why can't love be blind",
+                    "Instead of just a blind man cryin",
+                    "Why can't love be",
+                    "Why can't love be blind?",
+                    "",
+                    "Thanks for the potion to make me love you",
+                    "Thanks for the potion to make me care",
+                    "Your charms are workin on me",
+                    "Your charms are workin hard",
+                    "Your charms are workin on me",
+                    "Your charms are workin hard",
+                    "Thanks for the potion to make me love you",
+                    "Make it a double",
+                    "Make it a double"
+                ],
+                "url": "https://cdn.shazam.com/lyrics/v1/en-US/GB/iphone/musixmatch/subtitles/777327/120/1?token=075edc1e8f9e7575b002db615187fc03",
+                "footer": "Writer(s): Mark J. Sandman\nLyrics powered by www.musixmatch.com",
+                "tabname": "Lyrics",
+                "beacondata": {
+                    "lyricsid": "1630977",
+                    "providername": "musixmatch",
+                    "commontrackid": "777327"
+                }
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/5271092/youtube/video?q=Morphine+%22Potion%22"
+            },
+            {
+                "type": "RELATED",
+                "url": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-5271092?startFrom=0&pageSize=20&connected=",
+                "tabname": "Related"
+            }
+        ],
+        "url": "https://www.shazam.com/track/5271092/potion",
+        "artists": [
+            {
+                "id": "42",
+                "adamid": "3444725"
+            }
+        ],
+        "genres": {
+            "primary": "Rock"
+        },
+        "urlparams": {
+            "{tracktitle}": "Potion",
+            "{trackartist}": "Morphine"
+        },
+        "highlightsurls": {
+            "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/3444725/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+        },
+        "relatedtracksurl": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-5271092?startFrom=0&pageSize=20&connected="
+    },
+    "tagid": "C5780420-991E-45A4-8606-927509D640C3"
+}

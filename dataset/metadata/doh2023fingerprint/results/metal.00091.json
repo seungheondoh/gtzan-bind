@@ -1,0 +1,275 @@
+{
+    "matches": [
+        {
+            "id": "333811677",
+            "offset": 29.766611328,
+            "timeskew": 0.0012084246,
+            "frequencyskew": 0.0010880232
+        },
+        {
+            "id": "268050254",
+            "offset": 30.006142578,
+            "timeskew": 0.006132841,
+            "frequencyskew": 0.006545663
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691633749859,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "20108845",
+        "title": "Sabbath Bloody Sabbath",
+        "subtitle": "Black Sabbath",
+        "images": {
+            "background": "https://is3-ssl.mzstatic.com/image/thumb/Features115/v4/28/76/26/2876263b-46b7-7e98-92b2-86899ce22ce6/mza_5634408454712710200.png/800x800cc.jpg",
+            "coverart": "https://is5-ssl.mzstatic.com/image/thumb/Music71/v4/d1/2f/ce/d12fcec6-9a0a-cc92-b7ec-008f5ad8541e/4050538238037.jpg/400x400cc.jpg",
+            "coverarthq": "https://is5-ssl.mzstatic.com/image/thumb/Music71/v4/d1/2f/ce/d12fcec6-9a0a-cc92-b7ec-008f5ad8541e/4050538238037.jpg/400x400cc.jpg",
+            "joecolor": "b:26120cp:f49c23s:fe8634t:cb801fq:d26f2c"
+        },
+        "share": {
+            "subject": "Sabbath Bloody Sabbath - Black Sabbath",
+            "text": "Sabbath Bloody Sabbath by Black Sabbath",
+            "href": "https://www.shazam.com/track/20108845/sabbath-bloody-sabbath",
+            "image": "https://is5-ssl.mzstatic.com/image/thumb/Music71/v4/d1/2f/ce/d12fcec6-9a0a-cc92-b7ec-008f5ad8541e/4050538238037.jpg/400x400cc.jpg",
+            "twitter": "I used @Shazam to discover Sabbath Bloody Sabbath by Black Sabbath.",
+            "html": "https://www.shazam.com/snippets/email-share/20108845?lang=en-US&country=GB",
+            "avatar": "https://is3-ssl.mzstatic.com/image/thumb/Features115/v4/28/76/26/2876263b-46b7-7e98-92b2-86899ce22ce6/mza_5634408454712710200.png/800x800cc.jpg",
+            "snapchat": "https://www.shazam.com/partner/sc/track/20108845"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "actions": [
+                {
+                    "name": "apple",
+                    "type": "applemusicplay",
+                    "id": "1156653991"
+                },
+                {
+                    "name": "apple",
+                    "type": "uri",
+                    "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/83/c7/ab/83c7abfb-781c-5f7b-828e-0b6d3f44fc44/mzaf_5829309488035517712.plus.aac.ep.m4a"
+                }
+            ],
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/gb/album/sabbath-bloody-sabbath/1156653594?i=1156653991&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/gb/album/sabbath-bloody-sabbath/1156653594?i=1156653991&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                },
+                {
+                    "caption": "BUY",
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "uri": "https://itunes.apple.com/gb/album/sabbath-bloody-sabbath/1156653594?i=1156653991&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "buy",
+                        "providername": "itunes"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "type": "buy",
+                    "listcaption": "Buy on iTunes",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "itunes"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:Sabbath%20Bloody%20Sabbath%20Black%20Sabbath"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27Sabbath+Bloody+Sabbath%27%20artist%3A%27Black+Sabbath%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": false,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [
+                    {
+                        "image": "https://is3-ssl.mzstatic.com/image/thumb/Features115/v4/28/76/26/2876263b-46b7-7e98-92b2-86899ce22ce6/mza_5634408454712710200.png/800x800cc.jpg",
+                        "caption": "Black Sabbath"
+                    },
+                    {
+                        "image": "https://is5-ssl.mzstatic.com/image/thumb/Music71/v4/d1/2f/ce/d12fcec6-9a0a-cc92-b7ec-008f5ad8541e/4050538238037.jpg/400x400cc.jpg",
+                        "caption": "Sabbath Bloody Sabbath"
+                    }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                    {
+                        "title": "Album",
+                        "text": "The Ultimate Collection"
+                    },
+                    {
+                        "title": "Label",
+                        "text": "Sanctuary Records"
+                    },
+                    {
+                        "title": "Released",
+                        "text": "1973"
+                    }
+                ]
+            },
+            {
+                "type": "LYRICS",
+                "text": [
+                    "You see right through distorted eyes",
+                    "You know you have to learn",
+                    "The execution of your mind",
+                    "You really have to turn",
+                    "",
+                    "The race is run, the book is read",
+                    "The end begins to show",
+                    "The truth is out, the lies are old",
+                    "But you don't want to know",
+                    "",
+                    "Nobody will ever let you know",
+                    "When you ask the reasons why",
+                    "They just tell you that you're on your own",
+                    "Fill your head all full of lies",
+                    "",
+                    "The people who have crippled you",
+                    "You want to see them burn",
+                    "The gates of life have closed on you",
+                    "And there's just no return",
+                    "",
+                    "You're wishing that the",
+                    "Could take your mind away",
+                    "And you don't care if you don't see",
+                    "Again the light of day",
+                    "",
+                    "Nobody will ever let you know",
+                    "When you ask the reasons why",
+                    "They just tell you that you're on your own",
+                    "Fill your head all full of lies",
+                    "You bastards",
+                    "",
+                    "Where can you run to",
+                    "What more can you do",
+                    "No more tomorrow",
+                    "Life is killing you",
+                    "",
+                    "Dreams turn to nightmares",
+                    "Heaven turns to Hell",
+                    "Burnt out confusion",
+                    "Nothing more to tell, yeah",
+                    "",
+                    "Everything around you",
+                    "What's it coming to",
+                    "God knows as your dog knows",
+                    "Bog blast all of you",
+                    "",
+                    "Sabbath, bloody Sabbath",
+                    "Nothing more to do",
+                    "Living just for dying",
+                    "Dying just for you, yeah"
+                ],
+                "url": "https://cdn.shazam.com/lyrics/v1/en-US/GB/iphone/musixmatch/subtitles/13325830/345/1?token=5b60042aa0fa2a8893cb46766b452b62",
+                "footer": "Writer(s): John Osbourne, Tony Iommi, W T Ward, Terence Michael Butler\nLyrics powered by www.musixmatch.com",
+                "tabname": "Lyrics",
+                "beacondata": {
+                    "lyricsid": "8573058",
+                    "providername": "musixmatch",
+                    "commontrackid": "13325830"
+                }
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/20108845/youtube/video?q=Black+Sabbath+%22Sabbath+Bloody+Sabbath%22"
+            },
+            {
+                "type": "RELATED",
+                "url": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-20108845?startFrom=0&pageSize=20&connected=",
+                "tabname": "Related"
+            }
+        ],
+        "url": "https://www.shazam.com/track/20108845/sabbath-bloody-sabbath",
+        "artists": [
+            {
+                "id": "42",
+                "adamid": "165907"
+            }
+        ],
+        "isrc": "GB5KW1601273",
+        "genres": {
+            "primary": "Metal"
+        },
+        "urlparams": {
+            "{tracktitle}": "Sabbath+Bloody+Sabbath",
+            "{trackartist}": "Black+Sabbath"
+        },
+        "myshazam": {
+            "apple": {
+                "actions": [
+                    {
+                        "name": "myshazam:apple",
+                        "type": "uri",
+                        "uri": "https://music.apple.com/gb/album/sabbath-bloody-sabbath/1156653594?i=1156653991&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                ]
+            }
+        },
+        "highlightsurls": {
+            "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/165907/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+        },
+        "relatedtracksurl": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-20108845?startFrom=0&pageSize=20&connected=",
+        "albumadamid": "1156653594"
+    },
+    "tagid": "81703EAF-1FA1-4752-8675-891E0801A2F4"
+}

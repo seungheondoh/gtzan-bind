@@ -1,0 +1,240 @@
+{
+    "matches": [
+        {
+            "id": "212846146",
+            "offset": 29.425251953,
+            "timeskew": -0.000644207,
+            "frequencyskew": -0.0009661317
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691632591791,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "345981",
+        "title": "I'm Cryin'",
+        "subtitle": "Stevie Ray Vaughan & Double Trouble",
+        "images": {
+            "background": "https://is4-ssl.mzstatic.com/image/thumb/Features115/v4/ff/5b/49/ff5b49b7-5d59-8fb3-a901-001d20f29f6e/mzl.bzbetibz.jpg/800x800cc.jpg",
+            "coverart": "https://is2-ssl.mzstatic.com/image/thumb/Music115/v4/27/50/02/27500228-f8e4-8c5c-bb1c-8bfbec68a5fb/886443827141.jpg/400x400cc.jpg",
+            "coverarthq": "https://is2-ssl.mzstatic.com/image/thumb/Music115/v4/27/50/02/27500228-f8e4-8c5c-bb1c-8bfbec68a5fb/886443827141.jpg/400x400cc.jpg",
+            "joecolor": "b:ccbfb6p:0c0b0ds:1d1c20t:322f2fq:403c3e"
+        },
+        "share": {
+            "subject": "I'm Cryin' - Stevie Ray Vaughan & Double Trouble",
+            "text": "I'm Cryin' by Stevie Ray Vaughan & Double Trouble",
+            "href": "https://www.shazam.com/track/345981/im-cryin",
+            "image": "https://is2-ssl.mzstatic.com/image/thumb/Music115/v4/27/50/02/27500228-f8e4-8c5c-bb1c-8bfbec68a5fb/886443827141.jpg/400x400cc.jpg",
+            "twitter": "I used @Shazam to discover I'm Cryin' by Stevie Ray Vaughan & Double Trouble.",
+            "html": "https://www.shazam.com/snippets/email-share/345981?lang=en-US&country=GB",
+            "avatar": "https://is4-ssl.mzstatic.com/image/thumb/Features115/v4/ff/5b/49/ff5b49b7-5d59-8fb3-a901-001d20f29f6e/mzl.bzbetibz.jpg/800x800cc.jpg",
+            "snapchat": "https://www.shazam.com/partner/sc/track/345981"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "actions": [
+                {
+                    "name": "apple",
+                    "type": "applemusicplay",
+                    "id": "930561348"
+                },
+                {
+                    "name": "apple",
+                    "type": "uri",
+                    "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/be/08/ef/be08efe8-7cee-32f1-91c4-df3fa20a8d0a/mzaf_347357923369187341.plus.aac.ep.m4a"
+                }
+            ],
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/gb/album/im-cryin/930561264?i=930561348&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/gb/album/im-cryin/930561264?i=930561348&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                },
+                {
+                    "caption": "BUY",
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "uri": "https://itunes.apple.com/gb/album/im-cryin/930561264?i=930561348&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "buy",
+                        "providername": "itunes"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "type": "buy",
+                    "listcaption": "Buy on iTunes",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "itunes"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:I%27m%20Cryin%27%20Stevie%20Ray%20Vaughan%20%26%20Double%20Trouble"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27I%5C%27m+Cryin%5C%27%27%20artist%3A%27Stevie+Ray+Vaughan++Double+Trouble%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": false,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [
+                    {
+                        "image": "https://is4-ssl.mzstatic.com/image/thumb/Features115/v4/ff/5b/49/ff5b49b7-5d59-8fb3-a901-001d20f29f6e/mzl.bzbetibz.jpg/800x800cc.jpg",
+                        "caption": "Stevie Ray Vaughan & Double Trouble"
+                    },
+                    {
+                        "image": "https://is2-ssl.mzstatic.com/image/thumb/Music115/v4/27/50/02/27500228-f8e4-8c5c-bb1c-8bfbec68a5fb/886443827141.jpg/400x400cc.jpg",
+                        "caption": "I'm Cryin'"
+                    }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                    {
+                        "title": "Album",
+                        "text": "Texas Flood"
+                    },
+                    {
+                        "title": "Label",
+                        "text": "Epic/Legacy"
+                    },
+                    {
+                        "title": "Released",
+                        "text": "1983"
+                    }
+                ]
+            },
+            {
+                "type": "LYRICS",
+                "text": [
+                    "Well now sittin' here so lonely... Feelin' oh so blue",
+                    "My baby's tryin' to mistreat me and I don't know what to do",
+                    "So I'm cryin'...Why do I have to feel this way",
+                    "If I can't love my baby... I can't live another day",
+                    "Yeah I've loved her for such a long time... To end it all this way",
+                    "Sittin' here so lonely... Tears be fallin' just like rain",
+                    "So I'm cryin'...Why do I have to feel this way",
+                    "If I can't love my baby... I can't live another day",
+                    "Yeah you know I love you baby... I'll do anything for you",
+                    "But when we start to fightin'...I just get these same old blues",
+                    "",
+                    "So I'm cryin'...Why do I have to feel this way",
+                    "If I can't love my baby... I can't live another day",
+                    "Yeah now when I first met you baby... At a dance and we did fine",
+                    "Now we're together and it's a total waste of time",
+                    "So I'm cryin'...Why do I have to feel this way",
+                    "If I can't love you baby... I can't live another day",
+                    "Well I guess it's just my own fault... The truth I cannot hide",
+                    "But if I ever get you back dear... I'll stay right by your side",
+                    "I won't be cryin'...I'll stay happy that a way",
+                    "I'll be lovin' my little baby... Every night and every day"
+                ],
+                "url": "https://cdn.shazam.com/lyrics/v1/en-US/GB/iphone/musixmatch/subtitles/363636/223/1?token=d056fe7701cd02c5e25eef2b27a44725",
+                "footer": "Writer(s): Stevie Ray Vaughan\nLyrics powered by www.musixmatch.com",
+                "tabname": "Lyrics",
+                "beacondata": {
+                    "lyricsid": "6379451",
+                    "providername": "musixmatch",
+                    "commontrackid": "363636"
+                }
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/345981/youtube/video?q=Stevie+Ray+Vaughan+%26+Double+Trouble+%22I'm+Cryin'%22"
+            },
+            {
+                "type": "RELATED",
+                "url": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-345981?startFrom=0&pageSize=20&connected=",
+                "tabname": "Related"
+            }
+        ],
+        "url": "https://www.shazam.com/track/345981/im-cryin",
+        "artists": [
+            {
+                "id": "42",
+                "adamid": "601067"
+            }
+        ],
+        "isrc": "USSM18300425",
+        "genres": {
+            "primary": "Rock"
+        },
+        "urlparams": {
+            "{tracktitle}": "I%27m+Cryin%27",
+            "{trackartist}": "Stevie+Ray+Vaughan+%26+Double+Trouble"
+        },
+        "myshazam": {
+            "apple": {
+                "actions": [
+                    {
+                        "name": "myshazam:apple",
+                        "type": "uri",
+                        "uri": "https://music.apple.com/gb/album/im-cryin/930561264?i=930561348&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                ]
+            }
+        },
+        "highlightsurls": {
+            "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/601067/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+        },
+        "relatedtracksurl": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-345981?startFrom=0&pageSize=20&connected=",
+        "albumadamid": "930561264"
+    },
+    "tagid": "2DB8A140-637E-4D80-965A-964ABDA2C604"
+}

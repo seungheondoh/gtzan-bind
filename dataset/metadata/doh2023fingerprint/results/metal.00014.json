@@ -1,0 +1,238 @@
+{
+    "matches": [
+        {
+            "id": "214155249",
+            "offset": 30.065197265,
+            "timeskew": 0.0004131794,
+            "frequencyskew": 0.00020134449
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691633764867,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "2883990",
+        "title": "With the Flaming Shades of Fall",
+        "subtitle": "Dark Tranquillity",
+        "images": {
+            "background": "https://is1-ssl.mzstatic.com/image/thumb/Features125/v4/40/de/29/40de298d-edf1-2a8a-a823-13c570d38efe/mzl.mfcnvbtd.jpg/800x800cc.jpg",
+            "coverart": "https://is3-ssl.mzstatic.com/image/thumb/Music6/v4/16/48/69/16486944-beba-03d3-fc51-97f6f46b3416/6417871012324_Cover.jpg/400x400cc.jpg",
+            "coverarthq": "https://is3-ssl.mzstatic.com/image/thumb/Music6/v4/16/48/69/16486944-beba-03d3-fc51-97f6f46b3416/6417871012324_Cover.jpg/400x400cc.jpg",
+            "joecolor": "b:340b00p:fefdfbs:c3e6fft:d6cdc9q:a6bbcb"
+        },
+        "share": {
+            "subject": "With the Flaming Shades of Fall - Dark Tranquillity",
+            "text": "With the Flaming Shades of Fall by Dark Tranquillity",
+            "href": "https://www.shazam.com/track/2883990/with-the-flaming-shades-of-fall",
+            "image": "https://is3-ssl.mzstatic.com/image/thumb/Music6/v4/16/48/69/16486944-beba-03d3-fc51-97f6f46b3416/6417871012324_Cover.jpg/400x400cc.jpg",
+            "twitter": "I used @Shazam to discover With the Flaming Shades of Fall by Dark Tranquillity.",
+            "html": "https://www.shazam.com/snippets/email-share/2883990?lang=en-US&country=GB",
+            "avatar": "https://is1-ssl.mzstatic.com/image/thumb/Features125/v4/40/de/29/40de298d-edf1-2a8a-a823-13c570d38efe/mzl.mfcnvbtd.jpg/800x800cc.jpg",
+            "snapchat": "https://www.shazam.com/partner/sc/track/2883990"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "actions": [
+                {
+                    "name": "apple",
+                    "type": "applemusicplay",
+                    "id": "706181535"
+                },
+                {
+                    "name": "apple",
+                    "type": "uri",
+                    "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/ce/c5/0a/cec50a9a-3d00-6ded-c743-8bbbba319f0e/mzaf_11440904199071307342.plus.aac.ep.m4a"
+                }
+            ],
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/gb/album/with-the-flaming-shades-of-fall/706181530?i=706181535&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/gb/album/with-the-flaming-shades-of-fall/706181530?i=706181535&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                },
+                {
+                    "caption": "BUY",
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "uri": "https://itunes.apple.com/gb/album/with-the-flaming-shades-of-fall/706181530?i=706181535&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "buy",
+                        "providername": "itunes"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "type": "buy",
+                    "listcaption": "Buy on iTunes",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "itunes"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:With%20the%20Flaming%20Shades%20of%20Fall%20Dark%20Tranquillity"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27With+the+Flaming+Shades+of+Fall%27%20artist%3A%27Dark+Tranquillity%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": false,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [
+                    {
+                        "image": "https://is1-ssl.mzstatic.com/image/thumb/Features125/v4/40/de/29/40de298d-edf1-2a8a-a823-13c570d38efe/mzl.mfcnvbtd.jpg/800x800cc.jpg",
+                        "caption": "Dark Tranquillity"
+                    },
+                    {
+                        "image": "https://is3-ssl.mzstatic.com/image/thumb/Music6/v4/16/48/69/16486944-beba-03d3-fc51-97f6f46b3416/6417871012324_Cover.jpg/400x400cc.jpg",
+                        "caption": "With the Flaming Shades of Fall"
+                    }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                    {
+                        "title": "Album",
+                        "text": "Of Chaos and Eternal Night - EP"
+                    },
+                    {
+                        "title": "Label",
+                        "text": "Clandestine Music"
+                    },
+                    {
+                        "title": "Released",
+                        "text": "1995"
+                    }
+                ]
+            },
+            {
+                "type": "LYRICS",
+                "text": [
+                    "[Sundin, Johansson, Henriksson]",
+                    "",
+                    "Colours burst in wild explosions;",
+                    "Fiery, flaming shades of fall",
+                    "All in accord with my pounding heart",
+                    "Behold the autumnweaver",
+                    "In bronze and yellow dying",
+                    "Colours unfold into dreams",
+                    "In hordes of a thousand and one",
+                    "The bleeding",
+                    "Unwearing their masks to the last notes of summer",
+                    "Their flutes and horns in nightly swarming",
+                    "Colours burst within",
+                    "Spare me those unending fires!",
+                    "Bestowed upon the flaming shades of fall",
+                    "September flies beyond our reach",
+                    "As the flames reborn their fall",
+                    "October is the art we teach",
+                    "With the Flaming Shades of Fall",
+                    "November,",
+                    "Robe of prophet - heart of false redeemer",
+                    "Night whispers as the flaming shades of fall now die",
+                    "Darkness, wild and unchained",
+                    "Towards its heart we plunge",
+                    "We must crush the false redeemer",
+                    "With the flaming shades of fall"
+                ],
+                "footer": "Writer(s): Martin Hans Knut Henriksson, Anders Mikael Jivarp, Niklas Bo Sundin, Anders Par Friden, Mikael Bengt Stanne\nLyrics powered by www.musixmatch.com",
+                "tabname": "Lyrics",
+                "beacondata": {
+                    "lyricsid": "1352267",
+                    "providername": "musixmatch",
+                    "commontrackid": "1428061"
+                }
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/2883990/youtube/video?q=Dark+Tranquillity+%22With+the+Flaming+Shades+of+Fall%22"
+            }
+        ],
+        "url": "https://www.shazam.com/track/2883990/with-the-flaming-shades-of-fall",
+        "artists": [
+            {
+                "id": "42",
+                "adamid": "18243687"
+            }
+        ],
+        "isrc": "GBDHC1247302",
+        "genres": {
+            "primary": "Metal"
+        },
+        "urlparams": {
+            "{tracktitle}": "With+the+Flaming+Shades+of+Fall",
+            "{trackartist}": "Dark+Tranquillity"
+        },
+        "myshazam": {
+            "apple": {
+                "actions": [
+                    {
+                        "name": "myshazam:apple",
+                        "type": "uri",
+                        "uri": "https://music.apple.com/gb/album/with-the-flaming-shades-of-fall/706181530?i=706181535&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                ]
+            }
+        },
+        "highlightsurls": {
+            "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/18243687/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+        },
+        "albumadamid": "706181530"
+    },
+    "tagid": "760C544E-D47A-4F2D-99A2-98E80BEDD928"
+}

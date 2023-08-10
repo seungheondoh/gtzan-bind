@@ -1,0 +1,249 @@
+{
+    "matches": [
+        {
+            "id": "474296603",
+            "offset": 29.924015625,
+            "timeskew": 0.00022125244,
+            "frequencyskew": -4.029274e-05
+        },
+        {
+            "id": "223743001",
+            "offset": 19.309470703,
+            "timeskew": 0.00011134148,
+            "frequencyskew": -0.00040262938
+        },
+        {
+            "id": "511108352",
+            "offset": 19.283269531000002,
+            "timeskew": 0.000279665,
+            "frequencyskew": -0.00048315525
+        },
+        {
+            "id": "220556143",
+            "offset": 29.994197265,
+            "timeskew": -0.0024487376,
+            "frequencyskew": -0.0025340319
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691632614616,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "10239275",
+        "title": "Lonely Boy Boogie",
+        "subtitle": "John Lee Hooker",
+        "images": {
+            "background": "https://is3-ssl.mzstatic.com/image/thumb/Features125/v4/37/a2/79/37a279e5-d29c-f554-8c32-21263bf40a04/mzl.fijrwzwn.jpg/800x800cc.jpg",
+            "coverart": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/ba/b8/fa/bab8fa7d-81c5-4ebc-0a0d-7b6e137ae5b1/00076732919927.rgb.jpg/400x400cc.jpg",
+            "coverarthq": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/ba/b8/fa/bab8fa7d-81c5-4ebc-0a0d-7b6e137ae5b1/00076732919927.rgb.jpg/400x400cc.jpg",
+            "joecolor": "b:161618p:f8f5f0s:eef5fdt:cbc8c5q:c3c8cf"
+        },
+        "share": {
+            "subject": "Lonely Boy Boogie - John Lee Hooker",
+            "text": "Lonely Boy Boogie by John Lee Hooker",
+            "href": "https://www.shazam.com/track/10239275/lonely-boy-boogie",
+            "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/ba/b8/fa/bab8fa7d-81c5-4ebc-0a0d-7b6e137ae5b1/00076732919927.rgb.jpg/400x400cc.jpg",
+            "twitter": "I used @Shazam to discover Lonely Boy Boogie by John Lee Hooker.",
+            "html": "https://www.shazam.com/snippets/email-share/10239275?lang=en-US&country=GB",
+            "avatar": "https://is3-ssl.mzstatic.com/image/thumb/Features125/v4/37/a2/79/37a279e5-d29c-f554-8c32-21263bf40a04/mzl.fijrwzwn.jpg/800x800cc.jpg",
+            "snapchat": "https://www.shazam.com/partner/sc/track/10239275"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "actions": [
+                {
+                    "name": "apple",
+                    "type": "applemusicplay",
+                    "id": "1444014597"
+                },
+                {
+                    "name": "apple",
+                    "type": "uri",
+                    "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/23/ec/4b/23ec4b92-6e52-2230-aaac-3707056ea907/mzaf_12071066496450966969.plus.aac.ep.m4a"
+                }
+            ],
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/gb/album/lonely-boy-boogie/1444014192?i=1444014597&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/gb/album/lonely-boy-boogie/1444014192?i=1444014597&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                },
+                {
+                    "caption": "BUY",
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "uri": "https://itunes.apple.com/gb/album/lonely-boy-boogie/1444014192?i=1444014597&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "buy",
+                        "providername": "itunes"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "type": "buy",
+                    "listcaption": "Buy on iTunes",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "itunes"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:Lonely%20Boy%20Boogie%20John%20Lee%20Hooker"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27Lonely+Boy+Boogie%27%20artist%3A%27John+Lee+Hooker%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": false,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [
+                    {
+                        "image": "https://is3-ssl.mzstatic.com/image/thumb/Features125/v4/37/a2/79/37a279e5-d29c-f554-8c32-21263bf40a04/mzl.fijrwzwn.jpg/800x800cc.jpg",
+                        "caption": "John Lee Hooker"
+                    },
+                    {
+                        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/ba/b8/fa/bab8fa7d-81c5-4ebc-0a0d-7b6e137ae5b1/00076732919927.rgb.jpg/400x400cc.jpg",
+                        "caption": "Lonely Boy Boogie"
+                    }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                    {
+                        "title": "Album",
+                        "text": "Plays & Sings The Blues"
+                    },
+                    {
+                        "title": "Label",
+                        "text": "Geffen*"
+                    },
+                    {
+                        "title": "Released",
+                        "text": "1961"
+                    }
+                ]
+            },
+            {
+                "type": "LYRICS",
+                "text": [
+                    "Oh, little girl, you look good to me",
+                    "Hey little girl, you look good to me",
+                    "I'm just a lonely boy baby, lookin' for someone to love",
+                    "",
+                    "I went to San Antone, California too",
+                    "When I got there baby, I feel a lonely boy",
+                    "I didn't find, nobody baby, even talk to me",
+                    "That's why I'm asking you, baby",
+                    "",
+                    "Please be nice to me",
+                    "'Cause I'm a lonely boy, baby",
+                    "Looking for someone to love",
+                    "",
+                    "I walked into a tavern, had myself a seat",
+                    "Everybody was so gay, having fun but me",
+                    "When I sat down baby and looked into your face",
+                    "The first thing I said, \"Little girl, you was the one for me\"",
+                    "I said ohh, oh baby"
+                ],
+                "url": "https://cdn.shazam.com/lyrics/v1/en-US/GB/iphone/musixmatch/subtitles/242090/232/1?token=fb850fc475c6607ae5b320e470acd6d4",
+                "footer": "Writer(s): John Lee Hooker\nLyrics powered by www.musixmatch.com",
+                "tabname": "Lyrics",
+                "beacondata": {
+                    "lyricsid": "32228176",
+                    "providername": "musixmatch",
+                    "commontrackid": "242090"
+                }
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/10239275/youtube/video?q=John+Lee+Hooker+%22Lonely+Boy+Boogie%22"
+            }
+        ],
+        "url": "https://www.shazam.com/track/10239275/lonely-boy-boogie",
+        "artists": [
+            {
+                "id": "42",
+                "adamid": "97536"
+            }
+        ],
+        "isrc": "USMC15909550",
+        "genres": {
+            "primary": "Blues"
+        },
+        "urlparams": {
+            "{tracktitle}": "Lonely+Boy+Boogie",
+            "{trackartist}": "John+Lee+Hooker"
+        },
+        "myshazam": {
+            "apple": {
+                "actions": [
+                    {
+                        "name": "myshazam:apple",
+                        "type": "uri",
+                        "uri": "https://music.apple.com/gb/album/lonely-boy-boogie/1444014192?i=1444014597&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                ]
+            }
+        },
+        "highlightsurls": {
+            "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/97536/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+        },
+        "albumadamid": "1444014192"
+    },
+    "tagid": "3F67CA52-49CA-4011-9D7A-64968752577A"
+}

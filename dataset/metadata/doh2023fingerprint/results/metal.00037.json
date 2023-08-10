@@ -1,0 +1,253 @@
+{
+    "matches": [
+        {
+            "id": "230497485",
+            "offset": 30.000943359,
+            "timeskew": -0.00014334917,
+            "frequencyskew": 0.0
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691633712497,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "450412",
+        "title": "And the Bands Played On",
+        "subtitle": "Saxon",
+        "images": {
+            "background": "https://is4-ssl.mzstatic.com/image/thumb/Music116/v4/5e/14/f1/5e14f1ff-851f-291e-afb1-75b464432652/pr_source.png/800x800cc.jpg",
+            "coverart": "https://is2-ssl.mzstatic.com/image/thumb/Music124/v4/7c/d3/d9/7cd3d98a-c266-6296-71b7-9443eafcbbc8/077775202250.jpg/400x400cc.jpg",
+            "coverarthq": "https://is2-ssl.mzstatic.com/image/thumb/Music124/v4/7c/d3/d9/7cd3d98a-c266-6296-71b7-9443eafcbbc8/077775202250.jpg/400x400cc.jpg",
+            "joecolor": "b:392c4dp:e5eff4s:e9e6eet:c3c8d3q:c6c1ce"
+        },
+        "share": {
+            "subject": "And the Bands Played On - Saxon",
+            "text": "And the Bands Played On by Saxon",
+            "href": "https://www.shazam.com/track/450412/and-the-bands-played-on",
+            "image": "https://is2-ssl.mzstatic.com/image/thumb/Music124/v4/7c/d3/d9/7cd3d98a-c266-6296-71b7-9443eafcbbc8/077775202250.jpg/400x400cc.jpg",
+            "twitter": "I used @Shazam to discover And the Bands Played On by Saxon.",
+            "html": "https://www.shazam.com/snippets/email-share/450412?lang=en-US&country=GB",
+            "avatar": "https://is4-ssl.mzstatic.com/image/thumb/Music116/v4/5e/14/f1/5e14f1ff-851f-291e-afb1-75b464432652/pr_source.png/800x800cc.jpg",
+            "snapchat": "https://www.shazam.com/partner/sc/track/450412"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "actions": [
+                {
+                    "name": "apple",
+                    "type": "applemusicplay",
+                    "id": "696082810"
+                },
+                {
+                    "name": "apple",
+                    "type": "uri",
+                    "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/e6/77/63/e6776367-b683-9ba8-5082-bed6bb04bec9/mzaf_12596214797126029120.plus.aac.ep.m4a"
+                }
+            ],
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/gb/album/and-the-bands-played-on/696082302?i=696082810&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/gb/album/and-the-bands-played-on/696082302?i=696082810&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                },
+                {
+                    "caption": "BUY",
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "uri": "https://itunes.apple.com/gb/album/and-the-bands-played-on/696082302?i=696082810&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "buy",
+                        "providername": "itunes"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "type": "buy",
+                    "listcaption": "Buy on iTunes",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "itunes"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:And%20the%20Bands%20Played%20On%20Saxon"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27And+the+Bands+Played+On%27%20artist%3A%27Saxon%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": false,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [
+                    {
+                        "image": "https://is4-ssl.mzstatic.com/image/thumb/Music116/v4/5e/14/f1/5e14f1ff-851f-291e-afb1-75b464432652/pr_source.png/800x800cc.jpg",
+                        "caption": "Saxon"
+                    },
+                    {
+                        "image": "https://is2-ssl.mzstatic.com/image/thumb/Music124/v4/7c/d3/d9/7cd3d98a-c266-6296-71b7-9443eafcbbc8/077775202250.jpg/400x400cc.jpg",
+                        "caption": "And the Bands Played On"
+                    }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                    {
+                        "title": "Album",
+                        "text": "Denim and Leather"
+                    },
+                    {
+                        "title": "Label",
+                        "text": "Union Square"
+                    },
+                    {
+                        "title": "Released",
+                        "text": "1981"
+                    }
+                ]
+            },
+            {
+                "type": "LYRICS",
+                "text": [
+                    "Just before dawn in the cold light",
+                    "We came out of the night",
+                    "A great expectation from the man who ran the show",
+                    "Will it rain, will it snow, will it shine, we don't know",
+                    "Are there clouds up in the sky",
+                    "",
+                    "We sat in the sun, woah-oh-oh",
+                    "And the bands played on",
+                    "And the bands played on",
+                    "And the bands played on",
+                    "",
+                    "See the people, feel the power",
+                    "There was sixty thousand there",
+                    "Just like thunder the crowds began to roar",
+                    "Where you there, did ya know, did ya see all the show",
+                    "There was magic in the air",
+                    "",
+                    "We sat in the sun woah-oh-oh",
+                    "And the bands played on",
+                    "And the bands played on",
+                    "And the bands played on",
+                    "",
+                    "See the rainbow shining brightly",
+                    "Shooting rockets to the sky",
+                    "Making music and it rolled on through the night",
+                    "You could hear on the air rock n' roll everywhere",
+                    "We were strangers in the night",
+                    "",
+                    "We sat in the sun woah-oh-oh",
+                    "And the bands played on",
+                    "And the bands played on",
+                    "And the bands played on",
+                    "And the bands played on",
+                    "And the bands played on"
+                ],
+                "url": "https://cdn.shazam.com/lyrics/v1/en-US/GB/iphone/musixmatch/subtitles/1685576/175/1?token=cf34678bd72e900d10dfa03f0965f561",
+                "footer": "Writer(s): Graham Oliver, Paul Quinn, Peter Byford, Peter Gill, Stephen Dawson\nLyrics powered by www.musixmatch.com",
+                "tabname": "Lyrics",
+                "beacondata": {
+                    "lyricsid": "1750604",
+                    "providername": "musixmatch",
+                    "commontrackid": "1685576"
+                }
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/450412/youtube/video?q=Saxon+%22And+the+Bands+Played+On%22"
+            },
+            {
+                "type": "RELATED",
+                "url": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-450412?startFrom=0&pageSize=20&connected=",
+                "tabname": "Related"
+            }
+        ],
+        "url": "https://www.shazam.com/track/450412/and-the-bands-played-on",
+        "artists": [
+            {
+                "id": "42",
+                "adamid": "3632744"
+            }
+        ],
+        "isrc": "GB01A8100019",
+        "genres": {
+            "primary": "Hard Rock"
+        },
+        "urlparams": {
+            "{tracktitle}": "And+the+Bands+Played+On",
+            "{trackartist}": "Saxon"
+        },
+        "myshazam": {
+            "apple": {
+                "actions": [
+                    {
+                        "name": "myshazam:apple",
+                        "type": "uri",
+                        "uri": "https://music.apple.com/gb/album/and-the-bands-played-on/696082302?i=696082810&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                ]
+            }
+        },
+        "highlightsurls": {
+            "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/3632744/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+        },
+        "relatedtracksurl": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-450412?startFrom=0&pageSize=20&connected=",
+        "albumadamid": "696082302"
+    },
+    "tagid": "C7767688-6CEE-4CCF-BA44-CBD517E2936E"
+}

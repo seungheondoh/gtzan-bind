@@ -1,0 +1,245 @@
+{
+    "matches": [
+        {
+            "id": "201570017",
+            "offset": 29.815796875,
+            "timeskew": 0.00038003922,
+            "frequencyskew": 0.0
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691633497881,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "10548654",
+        "title": "Blue Skies",
+        "subtitle": "Willie Nelson",
+        "images": {
+            "background": "https://is4-ssl.mzstatic.com/image/thumb/Features125/v4/b4/c2/9a/b4c29a1e-3b45-2b60-be65-dbb96d21e42a/mza_1383128222591135178.png/800x800cc.jpg",
+            "coverart": "https://is4-ssl.mzstatic.com/image/thumb/Music124/v4/dc/70/96/dc7096e5-be0a-e0bf-d859-d7eb2ce0f9bd/886443610545.jpg/400x400cc.jpg",
+            "coverarthq": "https://is4-ssl.mzstatic.com/image/thumb/Music124/v4/dc/70/96/dc7096e5-be0a-e0bf-d859-d7eb2ce0f9bd/886443610545.jpg/400x400cc.jpg",
+            "joecolor": "b:05030cp:f6f4f2s:d4dec4t:c5c4c4q:abb29f"
+        },
+        "share": {
+            "subject": "Blue Skies - Willie Nelson",
+            "text": "Blue Skies by Willie Nelson",
+            "href": "https://www.shazam.com/track/10548654/blue-skies",
+            "image": "https://is4-ssl.mzstatic.com/image/thumb/Music124/v4/dc/70/96/dc7096e5-be0a-e0bf-d859-d7eb2ce0f9bd/886443610545.jpg/400x400cc.jpg",
+            "twitter": "I used @Shazam to discover Blue Skies by Willie Nelson.",
+            "html": "https://www.shazam.com/snippets/email-share/10548654?lang=en-US&country=GB",
+            "avatar": "https://is4-ssl.mzstatic.com/image/thumb/Features125/v4/b4/c2/9a/b4c29a1e-3b45-2b60-be65-dbb96d21e42a/mza_1383128222591135178.png/800x800cc.jpg",
+            "snapchat": "https://www.shazam.com/partner/sc/track/10548654"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "actions": [
+                {
+                    "name": "apple",
+                    "type": "applemusicplay",
+                    "id": "886949221"
+                },
+                {
+                    "name": "apple",
+                    "type": "uri",
+                    "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/05/92/4d/05924d48-b957-9040-1a09-af9cc037a69d/mzaf_15815194286755114879.plus.aac.ep.m4a"
+                }
+            ],
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/gb/album/blue-skies/886949216?i=886949221&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/gb/album/blue-skies/886949216?i=886949221&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                },
+                {
+                    "caption": "BUY",
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "uri": "https://itunes.apple.com/gb/album/blue-skies/886949216?i=886949221&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "buy",
+                        "providername": "itunes"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "type": "buy",
+                    "listcaption": "Buy on iTunes",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "itunes"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:Blue%20Skies%20Willie%20Nelson"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27Blue+Skies%27%20artist%3A%27Willie+Nelson%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": false,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [
+                    {
+                        "image": "https://is4-ssl.mzstatic.com/image/thumb/Features125/v4/b4/c2/9a/b4c29a1e-3b45-2b60-be65-dbb96d21e42a/mza_1383128222591135178.png/800x800cc.jpg",
+                        "caption": "Willie Nelson"
+                    },
+                    {
+                        "image": "https://is4-ssl.mzstatic.com/image/thumb/Music124/v4/dc/70/96/dc7096e5-be0a-e0bf-d859-d7eb2ce0f9bd/886443610545.jpg/400x400cc.jpg",
+                        "caption": "Blue Skies"
+                    }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                    {
+                        "title": "Album",
+                        "text": "Stardust"
+                    },
+                    {
+                        "title": "Label",
+                        "text": "Legacy/Columbia"
+                    },
+                    {
+                        "title": "Released",
+                        "text": "1978"
+                    }
+                ]
+            },
+            {
+                "type": "LYRICS",
+                "text": [
+                    "Blue skies smilin' at me",
+                    "Nothin' but blue skies do I see",
+                    "Blue birds singin' a song",
+                    "Nothin' but blue skies from now on",
+                    "",
+                    "I never saw the sun shinin' so bright,",
+                    "Never saw things goin' so right",
+                    "Noticing the days hurrying by,",
+                    "When you're in love, my how they fly by",
+                    "Blue days, all of them gone",
+                    "Nothin' but blue skies from now on",
+                    "",
+                    "Blue skies smilin' at me",
+                    "Nothin' but blue skies do I see",
+                    "Blue days, all of them gone",
+                    "Nothin' but blue skies from now on",
+                    "",
+                    "Blue skies smilin' at me",
+                    "Nothin' but blue skies do I see",
+                    "Blue days, all of them gone",
+                    "Nothin' but blue skies from now on",
+                    "",
+                    "Blue skies smilin' at me",
+                    "Nothin' but blue skies do I see",
+                    "Blue days, all of them gone",
+                    "Nothin' but blue skies from now on"
+                ],
+                "url": "https://cdn.shazam.com/lyrics/v1/en-US/GB/iphone/musixmatch/subtitles/609277/213/1?token=e0cd528869e2c21e69249943c09e22d5",
+                "footer": "Writer(s): Irving Berlin\nLyrics powered by www.musixmatch.com",
+                "tabname": "Lyrics",
+                "beacondata": {
+                    "lyricsid": "7157048",
+                    "providername": "musixmatch",
+                    "commontrackid": "609277"
+                }
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/10548654/youtube/video?q=Willie+Nelson+%22Blue+Skies%22"
+            },
+            {
+                "type": "RELATED",
+                "url": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-10548654?startFrom=0&pageSize=20&connected=",
+                "tabname": "Related"
+            }
+        ],
+        "url": "https://www.shazam.com/track/10548654/blue-skies",
+        "artists": [
+            {
+                "id": "42",
+                "adamid": "71676"
+            }
+        ],
+        "isrc": "USSM17700844",
+        "genres": {
+            "primary": "Country"
+        },
+        "urlparams": {
+            "{tracktitle}": "Blue+Skies",
+            "{trackartist}": "Willie+Nelson"
+        },
+        "myshazam": {
+            "apple": {
+                "actions": [
+                    {
+                        "name": "myshazam:apple",
+                        "type": "uri",
+                        "uri": "https://music.apple.com/gb/album/blue-skies/886949216?i=886949221&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                ]
+            }
+        },
+        "highlightsurls": {
+            "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/71676/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+        },
+        "relatedtracksurl": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-10548654?startFrom=0&pageSize=20&connected=",
+        "albumadamid": "886949216"
+    },
+    "tagid": "9A70DEEE-DF0C-4D3E-8255-04B85965CB7F"
+}

@@ -1,0 +1,260 @@
+{
+    "matches": [
+        {
+            "id": "203707747",
+            "offset": 31.791460937,
+            "timeskew": 2.3126602e-05,
+            "frequencyskew": -0.000120818615
+        },
+        {
+            "id": "232934314",
+            "offset": 30.265882812,
+            "timeskew": -0.004711032,
+            "frequencyskew": -0.0048211813
+        },
+        {
+            "id": "238596327",
+            "offset": 29.722259765,
+            "timeskew": -0.0051574707,
+            "frequencyskew": -0.0056224465
+        },
+        {
+            "id": "222367834",
+            "offset": 29.99224414,
+            "timeskew": -0.0056465864,
+            "frequencyskew": -0.0035779476
+        },
+        {
+            "id": "485945678",
+            "offset": 29.723539062,
+            "timeskew": -0.0053033233,
+            "frequencyskew": -0.004941404
+        },
+        {
+            "id": "355190339",
+            "offset": 29.724996093,
+            "timeskew": -0.00505203,
+            "frequencyskew": -0.005702555
+        },
+        {
+            "id": "214532654",
+            "offset": 29.878787109,
+            "timeskew": -0.0055390596,
+            "frequencyskew": -0.004179716
+        },
+        {
+            "id": "149990080",
+            "offset": 30.216246093000002,
+            "timeskew": -0.0055491924,
+            "frequencyskew": -0.0044603944
+        },
+        {
+            "id": "75474281",
+            "offset": 29.987693359,
+            "timeskew": -0.0046796203,
+            "frequencyskew": -0.004861295
+        },
+        {
+            "id": "51672733",
+            "offset": 29.990089843,
+            "timeskew": -0.0058279634,
+            "frequencyskew": -0.0038989186
+        },
+        {
+            "id": "314901247",
+            "offset": 205.570171875,
+            "timeskew": -0.0043298006,
+            "frequencyskew": -0.00442034
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691632344493,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "355381668",
+        "title": "My Blue Heaven",
+        "subtitle": "Coleman Hawkins",
+        "images": {
+            "background": "https://is3-ssl.mzstatic.com/image/thumb/Features125/v4/f0/73/0c/f0730c18-ed8e-859d-6234-c4e30f0b41d4/pr_source.png/800x800cc.jpg",
+            "coverart": "https://is1-ssl.mzstatic.com/image/thumb/Music/ab/54/c2/mzi.sfebbnqs.jpg/400x400cc.jpg",
+            "coverarthq": "https://is1-ssl.mzstatic.com/image/thumb/Music/ab/54/c2/mzi.sfebbnqs.jpg/400x400cc.jpg",
+            "joecolor": "b:ffffffp:110200s:530400t:413433q:753633"
+        },
+        "share": {
+            "subject": "My Blue Heaven - Coleman Hawkins",
+            "text": "My Blue Heaven by Coleman Hawkins",
+            "href": "https://www.shazam.com/track/355381668/my-blue-heaven",
+            "image": "https://is1-ssl.mzstatic.com/image/thumb/Music/ab/54/c2/mzi.sfebbnqs.jpg/400x400cc.jpg",
+            "twitter": "I used @Shazam to discover My Blue Heaven by Coleman Hawkins.",
+            "html": "https://www.shazam.com/snippets/email-share/355381668?lang=en-US&country=GB",
+            "avatar": "https://is3-ssl.mzstatic.com/image/thumb/Features125/v4/f0/73/0c/f0730c18-ed8e-859d-6234-c4e30f0b41d4/pr_source.png/800x800cc.jpg",
+            "snapchat": "https://www.shazam.com/partner/sc/track/355381668"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "actions": [
+                {
+                    "name": "apple",
+                    "type": "applemusicplay",
+                    "id": "160832973"
+                },
+                {
+                    "name": "apple",
+                    "type": "uri",
+                    "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/Music/v4/13/8f/dd/138fdd8a-23b1-39ff-4d13-a495f4142815/mzaf_3675499511420234552.plus.aac.ep.m4a"
+                }
+            ],
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/gb/album/my-blue-heaven/160832900?i=160832973&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/gb/album/my-blue-heaven/160832900?i=160832973&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                },
+                {
+                    "caption": "BUY",
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "uri": "https://itunes.apple.com/gb/album/my-blue-heaven/160832900?i=160832973&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "buy",
+                        "providername": "itunes"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "type": "buy",
+                    "listcaption": "Buy on iTunes",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "itunes"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:My%20Blue%20Heaven%20Coleman%20Hawkins"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27My+Blue+Heaven%27%20artist%3A%27Coleman+Hawkins%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": false,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [
+                    {
+                        "image": "https://is3-ssl.mzstatic.com/image/thumb/Features125/v4/f0/73/0c/f0730c18-ed8e-859d-6234-c4e30f0b41d4/pr_source.png/800x800cc.jpg",
+                        "caption": "Coleman Hawkins"
+                    },
+                    {
+                        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music/ab/54/c2/mzi.sfebbnqs.jpg/400x400cc.jpg",
+                        "caption": "My Blue Heaven"
+                    }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                    {
+                        "title": "Album",
+                        "text": "Coleman Hawkins Selected Hits (Vol. 7, Original)"
+                    },
+                    {
+                        "title": "Label",
+                        "text": "Charly Records"
+                    },
+                    {
+                        "title": "Released",
+                        "text": "1960"
+                    }
+                ]
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/355381668/youtube/video?q=Coleman+Hawkins+%22My+Blue+Heaven%22"
+            }
+        ],
+        "url": "https://www.shazam.com/track/355381668/my-blue-heaven",
+        "artists": [
+            {
+                "id": "42",
+                "adamid": "52475"
+            }
+        ],
+        "isrc": "USFB20634951",
+        "genres": {
+            "primary": "Jazz"
+        },
+        "urlparams": {
+            "{tracktitle}": "My+Blue+Heaven",
+            "{trackartist}": "Coleman+Hawkins"
+        },
+        "myshazam": {
+            "apple": {
+                "actions": [
+                    {
+                        "name": "myshazam:apple",
+                        "type": "uri",
+                        "uri": "https://music.apple.com/gb/album/my-blue-heaven/160832900?i=160832973&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                ]
+            }
+        },
+        "highlightsurls": {
+            "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/52475/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+        },
+        "albumadamid": "160832900"
+    },
+    "tagid": "FE299050-578D-4FDE-A08D-8D93ABA60753"
+}

@@ -1,0 +1,274 @@
+{
+    "matches": [
+        {
+            "id": "254562396",
+            "offset": 59.052878906,
+            "timeskew": -0.0008472204,
+            "frequencyskew": -0.00080513954
+        },
+        {
+            "id": "295459132",
+            "offset": 58.833949218,
+            "timeskew": -0.0008119345,
+            "frequencyskew": -0.0010063648
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691633580397,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "321952",
+        "title": "All My Love",
+        "subtitle": "Led Zeppelin",
+        "images": {
+            "background": "https://is2-ssl.mzstatic.com/image/thumb/Features125/v4/7d/10/7c/7d107c7b-6e9e-d0f3-d3ea-e1a9fe56ac6b/mza_6622134209630040489.png/800x800cc.jpg",
+            "coverart": "https://is1-ssl.mzstatic.com/image/thumb/Music1/v4/d5/8a/54/d58a5443-ff9a-4cd8-45d4-da3f53d1f4f1/dj.dkgpjbvs.jpg/400x400cc.jpg",
+            "coverarthq": "https://is1-ssl.mzstatic.com/image/thumb/Music1/v4/d5/8a/54/d58a5443-ff9a-4cd8-45d4-da3f53d1f4f1/dj.dkgpjbvs.jpg/400x400cc.jpg",
+            "joecolor": "b:4b4b4bp:fafafas:e8e8e8t:d7d7d7q:c8c8c8"
+        },
+        "share": {
+            "subject": "All My Love - Led Zeppelin",
+            "text": "All My Love by Led Zeppelin",
+            "href": "https://www.shazam.com/track/321952/all-my-love",
+            "image": "https://is1-ssl.mzstatic.com/image/thumb/Music1/v4/d5/8a/54/d58a5443-ff9a-4cd8-45d4-da3f53d1f4f1/dj.dkgpjbvs.jpg/400x400cc.jpg",
+            "twitter": "I used @Shazam to discover All My Love by Led Zeppelin.",
+            "html": "https://www.shazam.com/snippets/email-share/321952?lang=en-US&country=GB",
+            "avatar": "https://is2-ssl.mzstatic.com/image/thumb/Features125/v4/7d/10/7c/7d107c7b-6e9e-d0f3-d3ea-e1a9fe56ac6b/mza_6622134209630040489.png/800x800cc.jpg",
+            "snapchat": "https://www.shazam.com/partner/sc/track/321952"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "actions": [
+                {
+                    "name": "apple",
+                    "type": "applemusicplay",
+                    "id": "999609930"
+                },
+                {
+                    "name": "apple",
+                    "type": "uri",
+                    "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/c1/d7/21/c1d7218b-adf9-0ad9-a986-2879ef091fef/mzaf_9446515880738964151.plus.aac.ep.m4a"
+                }
+            ],
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/gb/album/all-my-love/999609917?i=999609930&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/gb/album/all-my-love/999609917?i=999609930&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                },
+                {
+                    "caption": "BUY",
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "uri": "https://itunes.apple.com/gb/album/all-my-love/999609917?i=999609930&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "buy",
+                        "providername": "itunes"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "type": "buy",
+                    "listcaption": "Buy on iTunes",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "itunes"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:All%20My%20Love%20Led%20Zeppelin"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27All+My+Love%27%20artist%3A%27Led+Zeppelin%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": false,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [
+                    {
+                        "image": "https://is2-ssl.mzstatic.com/image/thumb/Features125/v4/7d/10/7c/7d107c7b-6e9e-d0f3-d3ea-e1a9fe56ac6b/mza_6622134209630040489.png/800x800cc.jpg",
+                        "caption": "Led Zeppelin"
+                    },
+                    {
+                        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music1/v4/d5/8a/54/d58a5443-ff9a-4cd8-45d4-da3f53d1f4f1/dj.dkgpjbvs.jpg/400x400cc.jpg",
+                        "caption": "All My Love"
+                    }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                    {
+                        "title": "Album",
+                        "text": "In Through the Out Door (Deluxe Edition)"
+                    },
+                    {
+                        "title": "Label",
+                        "text": "Atlantic Records"
+                    },
+                    {
+                        "title": "Released",
+                        "text": "1979"
+                    }
+                ]
+            },
+            {
+                "type": "LYRICS",
+                "text": [
+                    "Should I fall out of love, my fire in the light",
+                    "To chase a feather in the wind",
+                    "Within the glow that weaves a cloak of delight",
+                    "There moves a thread that has no end",
+                    "",
+                    "For many hours and days that pass ever soon",
+                    "The tides have caused the flame to dim",
+                    "At last the arm is straight, the hand to the loom",
+                    "Is this to end or just begin?",
+                    "",
+                    "All of my love, all of my love",
+                    "Oh, all of my love to you, now",
+                    "All of my love, all of my love",
+                    "Oh, all of my love to you, now",
+                    "",
+                    "The cup is raised, the toast is made yet again",
+                    "One voice is clear above the din",
+                    "Proud Aryan one word, my will to sustain",
+                    "For me the cloth once more to spin",
+                    "",
+                    "Oh, all of my love, all of my love",
+                    "Oh, all of my love for you, now",
+                    "All of my love, all of my love",
+                    "Yes, all of my love to you, child",
+                    "",
+                    "Yours is the cloth, mine is the hand that sews time",
+                    "His is the force that lies within",
+                    "Ours is the fire, all the warmth we can find",
+                    "He is a feather in the wind",
+                    "",
+                    "Oh, all of my love, all of my love",
+                    "Oh, all of my love to you, now",
+                    "All of my love, oh-oh",
+                    "Yes, all of my love to you, now",
+                    "",
+                    "All of my love, all of my love",
+                    "All of my love, love",
+                    "Sometimes, sometimes, alright",
+                    "Sometimes, sometimes, oh, oh",
+                    "Hey-hey-hey, hey-hey",
+                    "Hey-hey-hey",
+                    "Ooh, ooh, yeah",
+                    "",
+                    "It's, all, all, all, all, all of my love, all of my love",
+                    "All of my love to you, now",
+                    "All of my love, all of my love",
+                    "All of my love to, to you and you and you and you, yeah",
+                    "I get a little bit lonely, just a little, just a little",
+                    "Just a little bit lonely, just a little bit lonely"
+                ],
+                "url": "https://cdn.shazam.com/lyrics/v1/en-US/GB/iphone/musixmatch/subtitles/91886/353/1?token=8ea8e0e4e975b626fca15312b322952c",
+                "footer": "Writer(s): Robert Anthony Plant, John Paul Jones\nLyrics powered by www.musixmatch.com",
+                "tabname": "Lyrics",
+                "beacondata": {
+                    "lyricsid": "30388782",
+                    "providername": "musixmatch",
+                    "commontrackid": "91886"
+                }
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/321952/youtube/video?q=Led+Zeppelin+%22All+My+Love%22"
+            },
+            {
+                "type": "RELATED",
+                "url": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-321952?startFrom=0&pageSize=20&connected=",
+                "tabname": "Related"
+            }
+        ],
+        "url": "https://www.shazam.com/track/321952/all-my-love",
+        "artists": [
+            {
+                "id": "42",
+                "adamid": "994656"
+            }
+        ],
+        "isrc": "USAT21207071",
+        "genres": {
+            "primary": "Rock"
+        },
+        "urlparams": {
+            "{tracktitle}": "All+My+Love",
+            "{trackartist}": "Led+Zeppelin"
+        },
+        "myshazam": {
+            "apple": {
+                "actions": [
+                    {
+                        "name": "myshazam:apple",
+                        "type": "uri",
+                        "uri": "https://music.apple.com/gb/album/all-my-love/999609917?i=999609930&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                ]
+            }
+        },
+        "highlightsurls": {
+            "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/994656/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+        },
+        "relatedtracksurl": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-321952?startFrom=0&pageSize=20&connected=",
+        "albumadamid": "999609917"
+    },
+    "tagid": "57E2A163-5E55-47A3-A575-48B0E931CC85"
+}

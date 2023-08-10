@@ -1,0 +1,247 @@
+{
+    "matches": [
+        {
+            "id": "226111993",
+            "offset": 30.693154296,
+            "timeskew": 0.00014913082,
+            "frequencyskew": -0.000120818615
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691632837253,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "238528",
+        "title": "Uninvited",
+        "subtitle": "Alanis Morissette",
+        "images": {
+            "background": "https://is5-ssl.mzstatic.com/image/thumb/Features125/v4/21/30/52/2130527d-d2cc-b3de-fb7e-6e4f400e5c45/mza_9397103542788987636.png/800x800cc.jpg",
+            "coverart": "https://is3-ssl.mzstatic.com/image/thumb/Music126/v4/c1/99/bc/c199bcce-c529-b3c1-1ddc-2fe85b6c31d9/5059460106338.jpg/400x400cc.jpg",
+            "coverarthq": "https://is3-ssl.mzstatic.com/image/thumb/Music126/v4/c1/99/bc/c199bcce-c529-b3c1-1ddc-2fe85b6c31d9/5059460106338.jpg/400x400cc.jpg",
+            "joecolor": "b:060a1ep:f9ffffs:d1fdfct:c8ced1q:a8cdd0"
+        },
+        "share": {
+            "subject": "Uninvited - Alanis Morissette",
+            "text": "Uninvited by Alanis Morissette",
+            "href": "https://www.shazam.com/track/238528/uninvited",
+            "image": "https://is3-ssl.mzstatic.com/image/thumb/Music126/v4/c1/99/bc/c199bcce-c529-b3c1-1ddc-2fe85b6c31d9/5059460106338.jpg/400x400cc.jpg",
+            "twitter": "I used @Shazam to discover Uninvited by Alanis Morissette.",
+            "html": "https://www.shazam.com/snippets/email-share/238528?lang=en-US&country=GB",
+            "avatar": "https://is5-ssl.mzstatic.com/image/thumb/Features125/v4/21/30/52/2130527d-d2cc-b3de-fb7e-6e4f400e5c45/mza_9397103542788987636.png/800x800cc.jpg",
+            "snapchat": "https://www.shazam.com/partner/sc/track/238528"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "actions": [
+                {
+                    "name": "apple",
+                    "type": "applemusicplay",
+                    "id": "1597247221"
+                },
+                {
+                    "name": "apple",
+                    "type": "uri",
+                    "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/40/0d/dd/400ddd48-298e-fada-53cd-8e06178d0262/mzaf_10703667201175218669.plus.aac.ep.m4a"
+                }
+            ],
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/gb/album/uninvited/1597244559?i=1597247221&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/gb/album/uninvited/1597244559?i=1597247221&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                },
+                {
+                    "caption": "BUY",
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "uri": "https://itunes.apple.com/gb/album/uninvited/1597244559?i=1597247221&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "buy",
+                        "providername": "itunes"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "type": "buy",
+                    "listcaption": "Buy on iTunes",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "itunes"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:Uninvited%20Alanis%20Morissette"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27Uninvited%27%20artist%3A%27Alanis+Morissette%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": false,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [
+                    {
+                        "image": "https://is5-ssl.mzstatic.com/image/thumb/Features125/v4/21/30/52/2130527d-d2cc-b3de-fb7e-6e4f400e5c45/mza_9397103542788987636.png/800x800cc.jpg",
+                        "caption": "Alanis Morissette"
+                    },
+                    {
+                        "image": "https://is3-ssl.mzstatic.com/image/thumb/Music126/v4/c1/99/bc/c199bcce-c529-b3c1-1ddc-2fe85b6c31d9/5059460106338.jpg/400x400cc.jpg",
+                        "caption": "Uninvited"
+                    }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                    {
+                        "title": "Album",
+                        "text": "Rewrite the Stars - Movie Hits"
+                    },
+                    {
+                        "title": "Label",
+                        "text": "Warner Music Group - X5 Music Group"
+                    },
+                    {
+                        "title": "Released",
+                        "text": "1998"
+                    }
+                ]
+            },
+            {
+                "type": "LYRICS",
+                "text": [
+                    "Like anyone would be",
+                    "I am flattered by your fascination with me",
+                    "Like any hot-blooded woman",
+                    "I have simply wanted an object to crave",
+                    "But you, you're not allowed",
+                    "You're uninvited",
+                    "An unfortunate slight",
+                    "",
+                    "Must be strangely exciting",
+                    "To watch the stoic squirm",
+                    "",
+                    "Must be somewhat heartening",
+                    "To watch shepherd need shepherd",
+                    "But you, you're not allowed",
+                    "You're uninvited",
+                    "An unfortunate slight",
+                    "",
+                    "Like any uncharted territory",
+                    "I must seem greatly intriguing",
+                    "You speak of my love like",
+                    "You have experienced love like mine before",
+                    "",
+                    "But this is not allowed",
+                    "You're uninvited",
+                    "An unfortunate slight",
+                    "",
+                    "I don't think you unworthy",
+                    "I need a moment to deliberate"
+                ],
+                "url": "https://cdn.shazam.com/lyrics/v1/en-US/GB/iphone/musixmatch/subtitles/8604/275/1?token=a8aa683ec7e3d97482ca2873fab56536",
+                "footer": "Writer(s): Alanis Morissette\nLyrics powered by www.musixmatch.com",
+                "tabname": "Lyrics",
+                "beacondata": {
+                    "lyricsid": "22848157",
+                    "providername": "musixmatch",
+                    "commontrackid": "8604"
+                }
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/238528/youtube/video?q=Alanis+Morissette+%22Uninvited%22"
+            },
+            {
+                "type": "RELATED",
+                "url": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-238528?startFrom=0&pageSize=20&connected=",
+                "tabname": "Related"
+            }
+        ],
+        "url": "https://www.shazam.com/track/238528/uninvited",
+        "artists": [
+            {
+                "id": "42",
+                "adamid": "1092859"
+            }
+        ],
+        "isrc": "USWB10505295",
+        "genres": {
+            "primary": "Pop"
+        },
+        "urlparams": {
+            "{tracktitle}": "Uninvited",
+            "{trackartist}": "Alanis+Morissette"
+        },
+        "myshazam": {
+            "apple": {
+                "actions": [
+                    {
+                        "name": "myshazam:apple",
+                        "type": "uri",
+                        "uri": "https://music.apple.com/gb/album/uninvited/1597244559?i=1597247221&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                ]
+            }
+        },
+        "highlightsurls": {
+            "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/1092859/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+        },
+        "relatedtracksurl": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-238528?startFrom=0&pageSize=20&connected=",
+        "albumadamid": "1597244559"
+    },
+    "tagid": "52FA20F4-CA53-4CC4-B2E9-E6A919C94843"
+}

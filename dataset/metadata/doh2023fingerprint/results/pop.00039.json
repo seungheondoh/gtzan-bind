@@ -1,0 +1,270 @@
+{
+    "matches": [
+        {
+            "id": "291848675",
+            "offset": 29.896277343,
+            "timeskew": -0.000107467175,
+            "frequencyskew": 0.0
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691632767284,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "227667",
+        "title": "Dreamin' of You",
+        "subtitle": "C\u00e9line Dion",
+        "images": {
+            "background": "https://is5-ssl.mzstatic.com/image/thumb/Features125/v4/44/42/69/444269ac-8a66-38fb-937b-46d61620a785/mzl.lkzxswuj.jpg/800x800cc.jpg",
+            "coverart": "https://is3-ssl.mzstatic.com/image/thumb/Music125/v4/fd/2c/fa/fd2cfa89-c6c4-e564-8e6e-7f03a5377744/886447854761.jpg/400x400cc.jpg",
+            "coverarthq": "https://is3-ssl.mzstatic.com/image/thumb/Music125/v4/fd/2c/fa/fd2cfa89-c6c4-e564-8e6e-7f03a5377744/886447854761.jpg/400x400cc.jpg",
+            "joecolor": "b:ffffffp:452b1as:413120t:6a5547q:675a4d"
+        },
+        "share": {
+            "subject": "Dreamin' of You - C\u00e9line Dion",
+            "text": "Dreamin' of You by C\u00e9line Dion",
+            "href": "https://www.shazam.com/track/227667/dreamin-of-you",
+            "image": "https://is3-ssl.mzstatic.com/image/thumb/Music125/v4/fd/2c/fa/fd2cfa89-c6c4-e564-8e6e-7f03a5377744/886447854761.jpg/400x400cc.jpg",
+            "twitter": "I used @Shazam to discover Dreamin' of You by C\u00e9line Dion.",
+            "html": "https://www.shazam.com/snippets/email-share/227667?lang=en-US&country=GB",
+            "avatar": "https://is5-ssl.mzstatic.com/image/thumb/Features125/v4/44/42/69/444269ac-8a66-38fb-937b-46d61620a785/mzl.lkzxswuj.jpg/800x800cc.jpg",
+            "snapchat": "https://www.shazam.com/partner/sc/track/227667"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "actions": [
+                {
+                    "name": "apple",
+                    "type": "applemusicplay",
+                    "id": "1473319824"
+                },
+                {
+                    "name": "apple",
+                    "type": "uri",
+                    "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview113/v4/6a/08/3c/6a083cff-6579-5938-3477-5d176c73f1dc/mzaf_8982799266519795995.plus.aac.ep.m4a"
+                }
+            ],
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/gb/album/dreamin-of-you/1473319237?i=1473319824&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/gb/album/dreamin-of-you/1473319237?i=1473319824&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                },
+                {
+                    "caption": "BUY",
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "uri": "https://itunes.apple.com/gb/album/dreamin-of-you/1473319237?i=1473319824&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "buy",
+                        "providername": "itunes"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "type": "buy",
+                    "listcaption": "Buy on iTunes",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "itunes"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:Dreamin%27%20of%20You%20C%C3%A9line%20Dion"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27Dreamin%5C%27+of+You%27%20artist%3A%27C%C3%A9line+Dion%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": false,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [
+                    {
+                        "image": "https://is5-ssl.mzstatic.com/image/thumb/Features125/v4/44/42/69/444269ac-8a66-38fb-937b-46d61620a785/mzl.lkzxswuj.jpg/800x800cc.jpg",
+                        "caption": "C\u00e9line Dion"
+                    },
+                    {
+                        "image": "https://is3-ssl.mzstatic.com/image/thumb/Music125/v4/fd/2c/fa/fd2cfa89-c6c4-e564-8e6e-7f03a5377744/886447854761.jpg/400x400cc.jpg",
+                        "caption": "Dreamin' of You"
+                    }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                    {
+                        "title": "Album",
+                        "text": "Falling into You"
+                    },
+                    {
+                        "title": "Label",
+                        "text": "Columbia"
+                    },
+                    {
+                        "title": "Released",
+                        "text": "1996"
+                    }
+                ]
+            },
+            {
+                "type": "LYRICS",
+                "text": [
+                    "Lyin' in my bed, thoughts in my head",
+                    "Visions of you but I can't get through the night",
+                    "",
+                    "So pick up the phone, I know you're home",
+                    "You're playin' with my heart and you know that it just ain't right",
+                    "",
+                    "It's just a game of love, love, love",
+                    "And even though it's hard baby",
+                    "I can never give you up",
+                    "",
+                    "You're the one I'm dreamin' of",
+                    "I can't live without your love tonight",
+                    "And it's you that I adore",
+                    "You're the one that I live for inside",
+                    "Of you, I'm dreamin' of you",
+                    "",
+                    "So I get in the car but I didn't get far",
+                    "'Cause the radio played every song that I sang with you",
+                    "Yesterday's gone and it may be true",
+                    "But you know that I'll never get over you",
+                    "",
+                    "It's just a game of love, love love",
+                    "And even though it hurts me, baby",
+                    "I can never give you up",
+                    "",
+                    "'Cause you're the one I'm dreamin' of",
+                    "I can't live without your love tonight",
+                    "",
+                    "And it's you that I adore",
+                    "You're the one that I live for inside",
+                    "Of you, I'm dreamin' of you",
+                    "",
+                    "You, you gave me love",
+                    "Love gave us hope and strength to carry on",
+                    "And you, you gave me faith",
+                    "When I was fallin' down",
+                    "You would pick me up, my love",
+                    "",
+                    "You're the one I'm dreamin' of",
+                    "I can't live without your love tonight",
+                    "",
+                    "And it's you that I adore",
+                    "You're the one that I live for inside",
+                    "Baby, baby, baby, baby",
+                    "",
+                    "You're the one I'm dreamin' of",
+                    "I can't live without your love tonight",
+                    "",
+                    "And it's you that I adore",
+                    "You're the one that I live for inside",
+                    "Baby, I'm dreamin' of you"
+                ],
+                "url": "https://cdn.shazam.com/lyrics/v1/en-US/GB/iphone/musixmatch/subtitles/39289/307/1?token=d90be9b4ea6c302a760b5a3003dbaf8f",
+                "footer": "Writer(s): Aldo Caporuscio, Peter Barbeau\nLyrics powered by www.musixmatch.com",
+                "tabname": "Lyrics",
+                "beacondata": {
+                    "lyricsid": "25229842",
+                    "providername": "musixmatch",
+                    "commontrackid": "39289"
+                }
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/227667/youtube/video?q=C%C3%A9line+Dion+%22Dreamin'+of+You%22"
+            },
+            {
+                "type": "RELATED",
+                "url": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-227667?startFrom=0&pageSize=20&connected=",
+                "tabname": "Related"
+            }
+        ],
+        "url": "https://www.shazam.com/track/227667/dreamin-of-you",
+        "artists": [
+            {
+                "id": "42",
+                "adamid": "63729"
+            }
+        ],
+        "isrc": "CAC229800154",
+        "genres": {
+            "primary": "Pop"
+        },
+        "urlparams": {
+            "{tracktitle}": "Dreamin%27+of+You",
+            "{trackartist}": "C%C3%A9line+Dion"
+        },
+        "myshazam": {
+            "apple": {
+                "actions": [
+                    {
+                        "name": "myshazam:apple",
+                        "type": "uri",
+                        "uri": "https://music.apple.com/gb/album/dreamin-of-you/1473319237?i=1473319824&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                ]
+            }
+        },
+        "highlightsurls": {
+            "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/63729/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+        },
+        "relatedtracksurl": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-227667?startFrom=0&pageSize=20&connected=",
+        "albumadamid": "1473319237"
+    },
+    "tagid": "2D83190C-14DE-426F-AC2A-B64252FF6AD7"
+}

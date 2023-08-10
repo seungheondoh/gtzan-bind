@@ -1,0 +1,306 @@
+{
+    "matches": [
+        {
+            "id": "231672827",
+            "offset": 58.975628906,
+            "timeskew": 0.005003214,
+            "frequencyskew": 0.0050873756
+        },
+        {
+            "id": "470528511",
+            "offset": 43.98909375,
+            "timeskew": 0.007273674,
+            "frequencyskew": 0.0070728064
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691632401200,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "261467",
+        "title": "Shake Your Groove Thing",
+        "subtitle": "Peaches & Herb",
+        "images": {
+            "background": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/fd/1d/93/fd1d938a-095f-31b3-dfa7-7c62ab847f95/06UMGIM72115.rgb.jpg/400x400cc.jpg",
+            "coverart": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/fd/1d/93/fd1d938a-095f-31b3-dfa7-7c62ab847f95/06UMGIM72115.rgb.jpg/400x400cc.jpg",
+            "coverarthq": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/fd/1d/93/fd1d938a-095f-31b3-dfa7-7c62ab847f95/06UMGIM72115.rgb.jpg/400x400cc.jpg",
+            "joecolor": "b:97b1ddp:031013s:1f183at:20303cq:37375b"
+        },
+        "share": {
+            "subject": "Shake Your Groove Thing - Peaches & Herb",
+            "text": "Shake Your Groove Thing by Peaches & Herb",
+            "href": "https://www.shazam.com/track/261467/shake-your-groove-thing",
+            "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/fd/1d/93/fd1d938a-095f-31b3-dfa7-7c62ab847f95/06UMGIM72115.rgb.jpg/400x400cc.jpg",
+            "twitter": "I used @Shazam to discover Shake Your Groove Thing by Peaches & Herb.",
+            "html": "https://www.shazam.com/snippets/email-share/261467?lang=en-US&country=GB",
+            "snapchat": "https://www.shazam.com/partner/sc/track/261467"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "actions": [
+                {
+                    "name": "apple",
+                    "type": "applemusicplay",
+                    "id": "1444965615"
+                },
+                {
+                    "name": "apple",
+                    "type": "uri",
+                    "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/1c/25/ed/1c25ed68-3402-cc3c-f91b-98c9983196ce/mzaf_3897164176063666239.plus.aac.ep.m4a"
+                }
+            ],
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/gb/album/shake-your-groove-thing/1444965310?i=1444965615&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/gb/album/shake-your-groove-thing/1444965310?i=1444965615&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                },
+                {
+                    "caption": "BUY",
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "uri": "https://itunes.apple.com/gb/album/shake-your-groove-thing/1444965310?i=1444965615&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "buy",
+                        "providername": "itunes"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "type": "buy",
+                    "listcaption": "Buy on iTunes",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "itunes"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:Shake%20Your%20Groove%20Thing%20Peaches%20%26%20Herb"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27Shake+Your+Groove+Thing%27%20artist%3A%27Peaches++Herb%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": false,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [
+                    {
+                        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/fd/1d/93/fd1d938a-095f-31b3-dfa7-7c62ab847f95/06UMGIM72115.rgb.jpg/400x400cc.jpg",
+                        "caption": "Shake Your Groove Thing"
+                    }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                    {
+                        "title": "Album",
+                        "text": "2 Hot!"
+                    },
+                    {
+                        "title": "Label",
+                        "text": "Universal Records"
+                    },
+                    {
+                        "title": "Released",
+                        "text": "1978"
+                    }
+                ]
+            },
+            {
+                "type": "LYRICS",
+                "text": [
+                    "Shake it, shake it",
+                    "Shake your groove thing,",
+                    "Shake your groove thing, yeah, yeah",
+                    "Show 'em how we do it now",
+                    "Shake your groove thing",
+                    "Shake your groove thing, yeah, yeah",
+                    "Show 'em how we do it now",
+                    "Show 'em how we do it now",
+                    "",
+                    "Let's show the world we can dance",
+                    "Bad enough to strut our stuff",
+                    "The music gives us a chance",
+                    "We do more out on the floor",
+                    "",
+                    "Groovin' loose or heart-to-heart",
+                    "We put in motion every single part",
+                    "Funky sounds wall to wall",
+                    "We're bumpin' booties, havin' us a ball, y'all",
+                    "",
+                    "Shake your groove thing",
+                    "Shake your groove thing, yeah, yeah",
+                    "Show 'em how we do it now",
+                    "Shake your groove thing",
+                    "Shake your groove thing, yeah, yeah",
+                    "Show 'em how we do it now",
+                    "",
+                    "We got the rhythm tonight",
+                    "All the rest know we're the best",
+                    "Our shadows crash in the light",
+                    "Twistin', turnin', we keep burnin'",
+                    "",
+                    "Shake it high or shake it low",
+                    "We take our bodies where they wanna go",
+                    "Feel that beat, never stop",
+                    "Oh, hold me tight, spin me like a top",
+                    "",
+                    "Shake your groove thing",
+                    "Shake your groove thing, yeah, yeah",
+                    "Show 'em how we do it now",
+                    "Shake your groove thing",
+                    "Shake your groove thing, yeah, yeah",
+                    "Show 'em how we do it now",
+                    "",
+                    "There's nothing more that I'd like to do",
+                    "Than take the floor and dance with you",
+                    "Keep dancin', let's keep dancin'",
+                    "Shake it, shake it",
+                    "Shake it, shake it",
+                    "",
+                    "Groovin' loose or heart-to-heart",
+                    "We put in motion every single part",
+                    "Funky sounds wall to wall",
+                    "We're bumpin' booties, havin' us a ball, y'all",
+                    "",
+                    "Shake your groove thing",
+                    "Shake your groove thing, yeah, yeah",
+                    "Show 'em how we do it now",
+                    "Shake your groove thing",
+                    "Shake your groove thing, yeah, yeah",
+                    "Show 'em how we do it now, yeah",
+                    "",
+                    "Shake it",
+                    "Show 'em how we do it now, yeah",
+                    "Shake it, shake it",
+                    "",
+                    "Shake it",
+                    "Doo, doo, doo, wow",
+                    "Shake it",
+                    "Doo, doo, doo, wow",
+                    "",
+                    "Shake your groove thing",
+                    "Shake your groove thing",
+                    "Show 'em how we do it now",
+                    "Let's get on down",
+                    "Show 'em how we do it now",
+                    "Show 'em how we do it now",
+                    "Whoo, ooh",
+                    "Show 'em how we do it now",
+                    "Shake your groove thing",
+                    "",
+                    "Shake it, shake it",
+                    "Shake it, shake it, a bumpin' booty, now",
+                    "Shake it, shake it",
+                    "Shake it, shake it, a little freaky now",
+                    "Shake it, shake it",
+                    "A shake it, shake it, a do it to it, y'all"
+                ],
+                "url": "https://cdn.shazam.com/lyrics/v1/en-US/GB/iphone/musixmatch/subtitles/979196/346/1?token=0fed4a6f22e17323e1028be2ee5b799f",
+                "footer": "Writer(s): Frederick J. Perren, Dino Fekaris\nLyrics powered by www.musixmatch.com",
+                "tabname": "Lyrics",
+                "beacondata": {
+                    "lyricsid": "21417564",
+                    "providername": "musixmatch",
+                    "commontrackid": "979196"
+                }
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/261467/youtube/video?q=Peaches+%26+Herb+%22Shake+Your+Groove+Thing%22"
+            },
+            {
+                "type": "RELATED",
+                "url": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-261467?startFrom=0&pageSize=20&connected=",
+                "tabname": "Related"
+            }
+        ],
+        "url": "https://www.shazam.com/track/261467/shake-your-groove-thing",
+        "artists": [
+            {
+                "id": "42",
+                "adamid": "867627"
+            }
+        ],
+        "isrc": "USF067825160",
+        "genres": {
+            "primary": "R&B/Soul"
+        },
+        "urlparams": {
+            "{tracktitle}": "Shake+Your+Groove+Thing",
+            "{trackartist}": "Peaches+%26+Herb"
+        },
+        "myshazam": {
+            "apple": {
+                "actions": [
+                    {
+                        "name": "myshazam:apple",
+                        "type": "uri",
+                        "uri": "https://music.apple.com/gb/album/shake-your-groove-thing/1444965310?i=1444965615&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                ]
+            }
+        },
+        "highlightsurls": {
+            "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/867627/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+        },
+        "relatedtracksurl": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-261467?startFrom=0&pageSize=20&connected=",
+        "albumadamid": "1444965310"
+    },
+    "tagid": "39E715DD-5ADA-4130-A2D4-C5E5F66ECE77"
+}

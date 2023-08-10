@@ -1,0 +1,279 @@
+{
+    "matches": [
+        {
+            "id": "438090743",
+            "offset": 26.075710937,
+            "timeskew": -0.000114142895,
+            "frequencyskew": -0.00028187037
+        },
+        {
+            "id": "11270113",
+            "offset": 26.634941406000003,
+            "timeskew": 0.0031446218,
+            "frequencyskew": 0.0033079386
+        },
+        {
+            "id": "11140644",
+            "offset": 30.418080078,
+            "timeskew": -0.0027789474,
+            "frequencyskew": -0.0025340319
+        },
+        {
+            "id": "326681165",
+            "offset": 30.225890625,
+            "timeskew": -0.0002772808,
+            "frequencyskew": -0.00021475554
+        },
+        {
+            "id": "282775358",
+            "offset": 29.865820312,
+            "timeskew": 0.0004287958,
+            "frequencyskew": 0.00016105175
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691632505262,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "11140644",
+        "title": "Thank God It's Friday (Single Version)",
+        "subtitle": "Love & Kisses",
+        "images": {
+            "background": "https://is4-ssl.mzstatic.com/image/thumb/Music115/v4/f6/b6/5b/f6b65bd3-e24b-18ab-7f85-bccf1344e143/21UMGIM83069.rgb.jpg/400x400cc.jpg",
+            "coverart": "https://is4-ssl.mzstatic.com/image/thumb/Music115/v4/f6/b6/5b/f6b65bd3-e24b-18ab-7f85-bccf1344e143/21UMGIM83069.rgb.jpg/400x400cc.jpg",
+            "coverarthq": "https://is4-ssl.mzstatic.com/image/thumb/Music115/v4/f6/b6/5b/f6b65bd3-e24b-18ab-7f85-bccf1344e143/21UMGIM83069.rgb.jpg/400x400cc.jpg",
+            "joecolor": "b:21181bp:dbbec5s:d1bcc6t:b59ca3q:ad9ba3"
+        },
+        "share": {
+            "subject": "Thank God It's Friday (Single Version) - Love & Kisses",
+            "text": "Thank God It's Friday (Single Version) by Love & Kisses",
+            "href": "https://www.shazam.com/track/11140644/thank-god-its-friday-single-version",
+            "image": "https://is4-ssl.mzstatic.com/image/thumb/Music115/v4/f6/b6/5b/f6b65bd3-e24b-18ab-7f85-bccf1344e143/21UMGIM83069.rgb.jpg/400x400cc.jpg",
+            "twitter": "I used @Shazam to discover Thank God It's Friday (Single Version) by Love & Kisses.",
+            "html": "https://www.shazam.com/snippets/email-share/11140644?lang=en-US&country=GB",
+            "snapchat": "https://www.shazam.com/partner/sc/track/11140644"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "actions": [
+                {
+                    "name": "apple",
+                    "type": "applemusicplay",
+                    "id": "1581879142"
+                },
+                {
+                    "name": "apple",
+                    "type": "uri",
+                    "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/73/20/e1/7320e153-e316-6b5d-b04c-9fb0715faed0/mzaf_3609516869078010166.plus.aac.ep.m4a"
+                }
+            ],
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/gb/album/thank-god-its-friday-single-version/1581878729?i=1581879142&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/gb/album/thank-god-its-friday-single-version/1581878729?i=1581879142&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                },
+                {
+                    "caption": "BUY",
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "uri": "https://itunes.apple.com/gb/album/thank-god-its-friday-single-version/1581878729?i=1581879142&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "buy",
+                        "providername": "itunes"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "type": "buy",
+                    "listcaption": "Buy on iTunes",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "itunes"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:Thank%20God%20It%27s%20Friday%20%28Single%20Version%29%20Love%20%26%20Kisses"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27Thank+God+It%5C%27s+Friday+%28Single+Version%29%27%20artist%3A%27Love++Kisses%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": false,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [
+                    {
+                        "image": "https://is4-ssl.mzstatic.com/image/thumb/Music115/v4/f6/b6/5b/f6b65bd3-e24b-18ab-7f85-bccf1344e143/21UMGIM83069.rgb.jpg/400x400cc.jpg",
+                        "caption": "Thank God It's Friday (Single Version)"
+                    }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                    {
+                        "title": "Album",
+                        "text": "Dancing Queen"
+                    },
+                    {
+                        "title": "Label",
+                        "text": "UME - Global Clearing House"
+                    },
+                    {
+                        "title": "Released",
+                        "text": "1978"
+                    }
+                ]
+            },
+            {
+                "type": "LYRICS",
+                "text": [
+                    "Friday",
+                    "(Thank God it's) Friday",
+                    "Friday",
+                    "(Thank God it's) Friday, Friday, Friday, Friday...",
+                    "",
+                    "Hey,",
+                    "Put a smile on your face,",
+                    "Things are coming your way,",
+                    "Out there somewhere tonight,",
+                    "(It's the right time and place).",
+                    "",
+                    "I saw you baby,",
+                    "For the very first time,",
+                    "Couldn't take my eyes off you,",
+                    "Girl you just had to be mine.",
+                    "",
+                    "You're the key I'm dreamin' of,",
+                    "For it just had to be you,",
+                    "Girl I know this time",
+                    "I'll make all my dreams come true.",
+                    "",
+                    "Hey,",
+                    "See the stars in his eyes,",
+                    "And that music in you,",
+                    "Tells you how you can find",
+                    "(Your way to paradise)",
+                    "",
+                    "Friday",
+                    "(Thank God it's) Friday",
+                    "Friday",
+                    "(Thank God it's) Friday, Friday, Friday, Friday...",
+                    "",
+                    "Hey,",
+                    "Put a smile on your face,",
+                    "Things are coming your way,",
+                    "Out there somewhere tonight",
+                    "(It's the right time and place)",
+                    "",
+                    "Hey,",
+                    "See the stars in his eyes,",
+                    "Tells you how you can find love..."
+                ],
+                "url": "https://cdn.shazam.com/lyrics/v1/en-US/GB/iphone/musixmatch/subtitles/2956894/201/1?token=c96638183fc902d706b1b2bff45c956a",
+                "footer": "Writer(s): Alec R. Costandinos\nLyrics powered by www.musixmatch.com",
+                "tabname": "Lyrics",
+                "beacondata": {
+                    "lyricsid": "5356958",
+                    "providername": "musixmatch",
+                    "commontrackid": "2956894"
+                }
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/11140644/youtube/video?q=Love+%26+Kisses+%22Thank+God+It's+Friday+(Single+Version)%22"
+            },
+            {
+                "type": "RELATED",
+                "url": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-11140644?startFrom=0&pageSize=20&connected=",
+                "tabname": "Related"
+            }
+        ],
+        "url": "https://www.shazam.com/track/11140644/thank-god-its-friday-single-version",
+        "artists": [
+            {
+                "id": "42",
+                "adamid": "19845788"
+            }
+        ],
+        "isrc": "USPR37802457",
+        "genres": {
+            "primary": "Disco"
+        },
+        "urlparams": {
+            "{tracktitle}": "Thank+God+It%27s+Friday+%28Single+Version%29",
+            "{trackartist}": "Love+%26+Kisses"
+        },
+        "myshazam": {
+            "apple": {
+                "actions": [
+                    {
+                        "name": "myshazam:apple",
+                        "type": "uri",
+                        "uri": "https://music.apple.com/gb/album/thank-god-its-friday-single-version/1581878729?i=1581879142&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                ]
+            }
+        },
+        "highlightsurls": {
+            "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/19845788/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+        },
+        "relatedtracksurl": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-11140644?startFrom=0&pageSize=20&connected=",
+        "albumadamid": "1581878729"
+    },
+    "tagid": "19C5D080-10BA-4465-B6B0-0218AA499362"
+}

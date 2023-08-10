@@ -1,0 +1,196 @@
+{
+    "matches": [
+        {
+            "id": "204242251",
+            "offset": 29.42140625,
+            "timeskew": -0.0060415864,
+            "frequencyskew": -0.0062950253
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691633438651,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "67351286",
+        "title": "Old Violin",
+        "subtitle": "Johnny Paycheck",
+        "images": {
+            "background": "https://is5-ssl.mzstatic.com/image/thumb/Features125/v4/e8/39/28/e8392846-a18b-db52-7248-2c3e47b9677d/pr_source.png/800x800cc.jpg",
+            "coverart": "https://is4-ssl.mzstatic.com/image/thumb/Music/53/85/de/mzi.idfzvdkc.jpg/400x400cc.jpg",
+            "coverarthq": "https://is4-ssl.mzstatic.com/image/thumb/Music/53/85/de/mzi.idfzvdkc.jpg/400x400cc.jpg"
+        },
+        "share": {
+            "subject": "Old Violin - Johnny Paycheck",
+            "text": "Old Violin by Johnny Paycheck",
+            "href": "https://www.shazam.com/track/67351286/old-violin",
+            "image": "https://is4-ssl.mzstatic.com/image/thumb/Music/53/85/de/mzi.idfzvdkc.jpg/400x400cc.jpg",
+            "twitter": "I used @Shazam to discover Old Violin by Johnny Paycheck.",
+            "html": "https://www.shazam.com/snippets/email-share/67351286?lang=en-US&country=GB",
+            "avatar": "https://is5-ssl.mzstatic.com/image/thumb/Features125/v4/e8/39/28/e8392846-a18b-db52-7248-2c3e47b9677d/pr_source.png/800x800cc.jpg",
+            "snapchat": "https://www.shazam.com/partner/sc/track/67351286"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:subscribe",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/subscribe?mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:subscribe",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/subscribe?mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:Old%20Violin%20Johnny%20Paycheck"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27Old+Violin%27%20artist%3A%27Johnny+Paycheck%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": false,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [
+                    {
+                        "image": "https://is5-ssl.mzstatic.com/image/thumb/Features125/v4/e8/39/28/e8392846-a18b-db52-7248-2c3e47b9677d/pr_source.png/800x800cc.jpg",
+                        "caption": "Johnny Paycheck"
+                    },
+                    {
+                        "image": "https://is4-ssl.mzstatic.com/image/thumb/Music/53/85/de/mzi.idfzvdkc.jpg/400x400cc.jpg",
+                        "caption": "Old Violin"
+                    }
+                ],
+                "tabname": "Song",
+                "metadata": []
+            },
+            {
+                "type": "LYRICS",
+                "text": [
+                    "Well, I can't recall, one time in my life,",
+                    "I've felt as lonely as I do tonight.",
+                    "I feel like I could lay down, and get up no more,",
+                    "It's the damndest feelin'; I never felt it before.",
+                    "",
+                    "Tonight I feel like an old violin,",
+                    "Soon to be put away and never played again.",
+                    "Don't ask me why I feel like this, hell, I can't say.",
+                    "I only wish this feelin' would just go away.",
+                    "",
+                    "I guess it's 'cos the truth,",
+                    "Is the hardest thing I ever faced.",
+                    "'Cos you can't change the truth,",
+                    "In the slightest way. I tried.",
+                    "",
+                    "So I asked myself,",
+                    "I said: 'John, where'd you go from here?'",
+                    "Then like a damned fool,",
+                    "I turned around and looked in the mirror.",
+                    "",
+                    "And there I saw, an old violin.",
+                    "Soon to be put away and never played again.",
+                    "",
+                    "So one more time, just to be sure,",
+                    "I said: 'John, where in the hell do you go from here?'",
+                    "You know that when a nickel's worth of difference,",
+                    "And I looked in the mirror, that's when I knew.",
+                    "",
+                    "That there I was seein', an old violin.",
+                    "Soon to be put away, and never played again.",
+                    "",
+                    "And just like that, it hit me,",
+                    "That old violin and I were just alike.",
+                    "We'd give our all to music,",
+                    "And soon, we'd give our life."
+                ],
+                "url": "https://cdn.shazam.com/lyrics/v1/en-US/GB/iphone/musixmatch/subtitles/2347334/223/1?token=20cb1b6513493980a625375f4ce1576a",
+                "footer": "Writer(s): Johnny Paycheck\nLyrics powered by www.musixmatch.com",
+                "tabname": "Lyrics",
+                "beacondata": {
+                    "lyricsid": "1539348",
+                    "providername": "musixmatch",
+                    "commontrackid": "2347334"
+                }
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/67351286/youtube/video?q=Johnny+Paycheck+%22Old+Violin%22"
+            },
+            {
+                "type": "RELATED",
+                "url": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-67351286?startFrom=0&pageSize=20&connected=",
+                "tabname": "Related"
+            }
+        ],
+        "url": "https://www.shazam.com/track/67351286/old-violin",
+        "artists": [
+            {
+                "id": "42",
+                "adamid": "18993"
+            }
+        ],
+        "genres": {
+            "primary": "Country"
+        },
+        "urlparams": {
+            "{tracktitle}": "Old+Violin",
+            "{trackartist}": "Johnny+Paycheck"
+        },
+        "highlightsurls": {
+            "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/18993/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+        },
+        "relatedtracksurl": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-67351286?startFrom=0&pageSize=20&connected="
+    },
+    "tagid": "D26E4107-FB5A-4ED9-8AD9-509C795F2322"
+}

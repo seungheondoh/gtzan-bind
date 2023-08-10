@@ -1,0 +1,240 @@
+{
+    "matches": [
+        {
+            "id": "222594955",
+            "offset": 23.577011718,
+            "timeskew": 0.00078451633,
+            "frequencyskew": 0.0006445646
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691633756384,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "5928674",
+        "title": "Phantom of the Opera",
+        "subtitle": "Iron Maiden",
+        "images": {
+            "background": "https://is2-ssl.mzstatic.com/image/thumb/AMCArtistImages126/v4/f3/31/66/f331663d-58d6-6384-67f8-db128d80c595/edab5d8f-8259-48f4-b132-7affc73b4ee9_ami-identity-fee7c2067942b66dfa71ed95e525c1dd-2023-06-16T13-38-48.218Z_cropped.png/800x800cc.jpg",
+            "coverart": "https://is2-ssl.mzstatic.com/image/thumb/Music114/v4/8d/af/5c/8daf5cc9-1b77-5815-cfeb-b45ac698adc7/825646129263.jpg/400x400cc.jpg",
+            "coverarthq": "https://is2-ssl.mzstatic.com/image/thumb/Music114/v4/8d/af/5c/8daf5cc9-1b77-5815-cfeb-b45ac698adc7/825646129263.jpg/400x400cc.jpg",
+            "joecolor": "b:3e534cp:fff7f6s:d2e3e6t:d8d6d3q:b4c6c7"
+        },
+        "share": {
+            "subject": "Phantom of the Opera - Iron Maiden",
+            "text": "Phantom of the Opera by Iron Maiden",
+            "href": "https://www.shazam.com/track/5928674/phantom-of-the-opera",
+            "image": "https://is2-ssl.mzstatic.com/image/thumb/Music114/v4/8d/af/5c/8daf5cc9-1b77-5815-cfeb-b45ac698adc7/825646129263.jpg/400x400cc.jpg",
+            "twitter": "I used @Shazam to discover Phantom of the Opera by Iron Maiden.",
+            "html": "https://www.shazam.com/snippets/email-share/5928674?lang=en-US&country=GB",
+            "avatar": "https://is2-ssl.mzstatic.com/image/thumb/AMCArtistImages126/v4/f3/31/66/f331663d-58d6-6384-67f8-db128d80c595/edab5d8f-8259-48f4-b132-7affc73b4ee9_ami-identity-fee7c2067942b66dfa71ed95e525c1dd-2023-06-16T13-38-48.218Z_cropped.png/800x800cc.jpg",
+            "snapchat": "https://www.shazam.com/partner/sc/track/5928674"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "actions": [
+                {
+                    "name": "apple",
+                    "type": "applemusicplay",
+                    "id": "979943905"
+                },
+                {
+                    "name": "apple",
+                    "type": "uri",
+                    "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/a8/ea/2c/a8ea2c8f-d689-3738-81bf-74ebf723ba67/mzaf_301045755322178005.plus.aac.ep.m4a"
+                }
+            ],
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/gb/album/phantom-of-the-opera/979942735?i=979943905&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/gb/album/phantom-of-the-opera/979942735?i=979943905&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                },
+                {
+                    "caption": "BUY",
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "uri": "https://itunes.apple.com/gb/album/phantom-of-the-opera/979942735?i=979943905&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "buy",
+                        "providername": "itunes"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "type": "buy",
+                    "listcaption": "Buy on iTunes",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "itunes"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:Phantom%20of%20the%20Opera%20Iron%20Maiden"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27Phantom+of+the+Opera%27%20artist%3A%27Iron+Maiden%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": false,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [
+                    {
+                        "image": "https://is2-ssl.mzstatic.com/image/thumb/AMCArtistImages126/v4/f3/31/66/f331663d-58d6-6384-67f8-db128d80c595/edab5d8f-8259-48f4-b132-7affc73b4ee9_ami-identity-fee7c2067942b66dfa71ed95e525c1dd-2023-06-16T13-38-48.218Z_cropped.png/800x800cc.jpg",
+                        "caption": "Iron Maiden"
+                    },
+                    {
+                        "image": "https://is2-ssl.mzstatic.com/image/thumb/Music114/v4/8d/af/5c/8daf5cc9-1b77-5815-cfeb-b45ac698adc7/825646129263.jpg/400x400cc.jpg",
+                        "caption": "Phantom of the Opera"
+                    }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                    {
+                        "title": "Album",
+                        "text": "Iron Maiden"
+                    },
+                    {
+                        "title": "Label",
+                        "text": "Parlophone UK"
+                    },
+                    {
+                        "title": "Released",
+                        "text": "1980"
+                    }
+                ]
+            },
+            {
+                "type": "LYRICS",
+                "text": [
+                    "I've been looking so long for you, now you won't get away from my grasp",
+                    "You've been living so long in hiding, and hiding behind that false mask",
+                    "You know, and I know that you ain't got long now to last",
+                    "Your looks and your feelings are just the remains of your past",
+                    "",
+                    "You're standing in the wings, there you wait for the curtain to fall",
+                    "And knowing the terror and holding you have on us all",
+                    "Now, I know that you're gonna scratch me and maim me and maul",
+                    "And you know I'm helpless from your mesmerizing cat call",
+                    "",
+                    "Keep your distance, walk away, don't take his bait",
+                    "Don't you stray, don't fade away, yeah",
+                    "Watch your step, he's out to get you, come what may",
+                    "Don't you stray from the narrow way, yeah",
+                    "",
+                    "I'm running and hiding in my dreams, you're always there",
+                    "You're the Phantom of the Opera, you're the devil, you're just out to scare",
+                    "You damaged my mind and my soul, it just floats through the air",
+                    "You haunt me, you taunt me you torture me back at your lair",
+                    "",
+                    "(You torture me back at your lair)"
+                ],
+                "url": "https://cdn.shazam.com/lyrics/v1/en-US/GB/iphone/musixmatch/subtitles/805063/441/1?token=3bce8d0936e8e97933ce5a8415f8c2cd",
+                "footer": "Writer(s): Stephen Percy Harris\nLyrics powered by www.musixmatch.com",
+                "tabname": "Lyrics",
+                "beacondata": {
+                    "lyricsid": "24894825",
+                    "providername": "musixmatch",
+                    "commontrackid": "805063"
+                }
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/5928674/youtube/video?q=Iron+Maiden+%22Phantom+of+the+Opera%22"
+            },
+            {
+                "type": "RELATED",
+                "url": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-5928674?startFrom=0&pageSize=20&connected=",
+                "tabname": "Related"
+            }
+        ],
+        "url": "https://www.shazam.com/track/5928674/phantom-of-the-opera",
+        "artists": [
+            {
+                "id": "42",
+                "adamid": "546381"
+            }
+        ],
+        "isrc": "GBCHB1500004",
+        "genres": {
+            "primary": "Metal"
+        },
+        "urlparams": {
+            "{tracktitle}": "Phantom+of+the+Opera",
+            "{trackartist}": "Iron+Maiden"
+        },
+        "myshazam": {
+            "apple": {
+                "actions": [
+                    {
+                        "name": "myshazam:apple",
+                        "type": "uri",
+                        "uri": "https://music.apple.com/gb/album/phantom-of-the-opera/979942735?i=979943905&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                ]
+            }
+        },
+        "highlightsurls": {
+            "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/546381/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+        },
+        "relatedtracksurl": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-5928674?startFrom=0&pageSize=20&connected=",
+        "albumadamid": "979942735"
+    },
+    "tagid": "C98C4244-39CD-4BF9-9951-6AB18179EDCB"
+}

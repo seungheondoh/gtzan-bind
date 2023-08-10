@@ -1,0 +1,261 @@
+{
+    "matches": [
+        {
+            "id": "346011036",
+            "offset": 29.944195312,
+            "timeskew": -8.249283e-05,
+            "frequencyskew": -8.0525875e-05
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691632473560,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "264276",
+        "title": "Fire Island",
+        "subtitle": "Village People",
+        "images": {
+            "background": "https://is4-ssl.mzstatic.com/image/thumb/Features115/v4/e3/55/43/e3554361-2546-80e9-bf39-8a4831656f7a/mzl.apihkaht.jpg/800x800cc.jpg",
+            "coverart": "https://is1-ssl.mzstatic.com/image/thumb/Music/ab/e5/41/mzi.fxoexcoh.jpg/400x400cc.jpg",
+            "coverarthq": "https://is1-ssl.mzstatic.com/image/thumb/Music/ab/e5/41/mzi.fxoexcoh.jpg/400x400cc.jpg",
+            "joecolor": "b:180b05p:f9f8f2s:d9824et:ccc8c3q:b26a3f"
+        },
+        "share": {
+            "subject": "Fire Island - Village People",
+            "text": "Fire Island by Village People",
+            "href": "https://www.shazam.com/track/264276/fire-island",
+            "image": "https://is1-ssl.mzstatic.com/image/thumb/Music/ab/e5/41/mzi.fxoexcoh.jpg/400x400cc.jpg",
+            "twitter": "I used @Shazam to discover Fire Island by Village People.",
+            "html": "https://www.shazam.com/snippets/email-share/264276?lang=en-US&country=GB",
+            "avatar": "https://is4-ssl.mzstatic.com/image/thumb/Features115/v4/e3/55/43/e3554361-2546-80e9-bf39-8a4831656f7a/mzl.apihkaht.jpg/800x800cc.jpg",
+            "snapchat": "https://www.shazam.com/partner/sc/track/264276"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "actions": [
+                {
+                    "name": "apple",
+                    "type": "applemusicplay",
+                    "id": "392804852"
+                },
+                {
+                    "name": "apple",
+                    "type": "uri",
+                    "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/d1/96/f1/d196f151-a415-495b-bb0b-73b60050bdfc/mzaf_4437168829977610760.plus.aac.ep.m4a"
+                }
+            ],
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/gb/album/fire-island/392804793?i=392804852&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/gb/album/fire-island/392804793?i=392804852&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                },
+                {
+                    "caption": "BUY",
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "uri": "https://itunes.apple.com/gb/album/fire-island/392804793?i=392804852&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "buy",
+                        "providername": "itunes"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "type": "buy",
+                    "listcaption": "Buy on iTunes",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "itunes"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:Fire%20Island%20Village%20People"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27Fire+Island%27%20artist%3A%27Village+People%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": false,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [
+                    {
+                        "image": "https://is4-ssl.mzstatic.com/image/thumb/Features115/v4/e3/55/43/e3554361-2546-80e9-bf39-8a4831656f7a/mzl.apihkaht.jpg/800x800cc.jpg",
+                        "caption": "Village People"
+                    },
+                    {
+                        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music/ab/e5/41/mzi.fxoexcoh.jpg/400x400cc.jpg",
+                        "caption": "Fire Island"
+                    }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                    {
+                        "title": "Album",
+                        "text": "San Francisco Macho Man"
+                    },
+                    {
+                        "title": "Label",
+                        "text": "Scorpio Music"
+                    },
+                    {
+                        "title": "Released",
+                        "text": "1978"
+                    }
+                ]
+            },
+            {
+                "type": "LYRICS",
+                "text": [
+                    "Fire isla-and (fire, fire island) - it's a funky weekend (funky) a funky funky weeke-end",
+                    "Fire isla-and (fire, fire island) - it's a funky weekend (funky) a funky funky weeke-end",
+                    "It's the place where you'll find me, the sun and sea, the place where love is free, yeah",
+                    "Fire isla-and (fire, fire island) - it's a funky weekend (funky) a funky funky weeke-end",
+                    "Fire isla-and (fire, fire island) - it's a funky weekend (funky) a funky funky weeke-end",
+                    "You never know just who you meet, maybe someone out of your wildest fantasies, yeah",
+                    "Fire isla-and (fire, fire island) - it's a funky weekend (funky) a funky funky weeke-end",
+                    "",
+                    "Don't go in the bushes, don't go in the bushes",
+                    "Don't go in the bushes, someone might grab ya, someone might grab ya",
+                    "Don't go in the bushes, don't go, don't go in the bushes",
+                    "Don't go in the bushes, someone might stab ya, someone might stab ya, yeah",
+                    "",
+                    "Don't go in the bushes, no, someone might grab ya, someone might grab ya",
+                    "Don't go in the bushes, someone might stab ya, someone might stab ya",
+                    "",
+                    "Fire isla-and (fire, fire island) - it's a funky weekend (funky) a funky funky weeke-end",
+                    "Fire isla-and (fire, fire island) - it's a funky weekend (funky) a funky funky weeke-end",
+                    "Sea, plane or train will take you there-ere, it's a paradi-ise, there's also bus or cab, yeah",
+                    "Fire isla-and (fire, fire island) - it's a funky weekend (funky) a funky funky weeke-end",
+                    "Fire isla-and (fire, fire island) - it's a funky weekend (funky) a funky funky weeke-end",
+                    "We can scream, but let's sing, we can do each other's thi-ing, yeah",
+                    "Fire isla-and (fire, fire island) - it's a funky weekend (funky) a funky funky weeke-end",
+                    "",
+                    "Don't go in the bushes, don't go in the bushes, no",
+                    "Don't go in the bushes, someone might grab ya, someone might grab ya",
+                    "Don't go in the bushes, don't go - in the bushes",
+                    "Don't go in the bushes, someone might stab ya, yeah-eah",
+                    "",
+                    "Groove at the Ice Palace (get on down at the Monster)",
+                    "Been there, been there (been there at the Blue Whale)",
+                    "Peckin', I'm peckin (peckin' at the Sandpiper)",
+                    "Pumpin, I'm pumpin (pumpin' at the Botel)",
+                    "",
+                    "(Fire island, fire island) I'll take your hand (fire island) you take mine",
+                    "We'll hit the groove (fire island) and really shake the times",
+                    "There's a house (fire island) on your back",
+                    "Boogie on down (fire island) follow me back",
+                    "(Fire island, fire island) I'll take your hand (fire island) you take mine",
+                    "We'll hit the groove (fire island) and really shake the times",
+                    "There's a house (fire island) on your back",
+                    "Boogie on down (fire island) follow me back"
+                ],
+                "url": "https://cdn.shazam.com/lyrics/v1/en-US/GB/iphone/musixmatch/subtitles/126281/316/1?token=58d0f16488bda3bc41a34c59ebf7ff93",
+                "footer": "Writer(s): Jacques Morali, Beauris Whitehead, Henri Belolo, Phillip L Hurtt\nLyrics powered by www.musixmatch.com",
+                "tabname": "Lyrics",
+                "beacondata": {
+                    "lyricsid": "1113677",
+                    "providername": "musixmatch",
+                    "commontrackid": "126281"
+                }
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/264276/youtube/video?q=Village+People+%22Fire+Island%22"
+            },
+            {
+                "type": "RELATED",
+                "url": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-264276?startFrom=0&pageSize=20&connected=",
+                "tabname": "Related"
+            }
+        ],
+        "url": "https://www.shazam.com/track/264276/fire-island",
+        "artists": [
+            {
+                "id": "42",
+                "adamid": "51097"
+            }
+        ],
+        "isrc": "FR6V80878885",
+        "genres": {
+            "primary": "Pop"
+        },
+        "urlparams": {
+            "{tracktitle}": "Fire+Island",
+            "{trackartist}": "Village+People"
+        },
+        "myshazam": {
+            "apple": {
+                "actions": [
+                    {
+                        "name": "myshazam:apple",
+                        "type": "uri",
+                        "uri": "https://music.apple.com/gb/album/fire-island/392804793?i=392804852&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                ]
+            }
+        },
+        "highlightsurls": {
+            "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/51097/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+        },
+        "relatedtracksurl": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-264276?startFrom=0&pageSize=20&connected=",
+        "albumadamid": "392804793"
+    },
+    "tagid": "A0088DB9-FB7B-40DE-9BC7-63BE8EF2B5BF"
+}

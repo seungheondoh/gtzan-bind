@@ -1,0 +1,288 @@
+{
+    "matches": [
+        {
+            "id": "468778869",
+            "offset": 29.95393164,
+            "timeskew": 0.00010049343,
+            "frequencyskew": 0.0
+        },
+        {
+            "id": "262547957",
+            "offset": 30.063669921,
+            "timeskew": -5.2392483e-05,
+            "frequencyskew": -0.000120818615
+        },
+        {
+            "id": "583805139",
+            "offset": 30.109642578,
+            "timeskew": -0.0002220869,
+            "frequencyskew": 0.0
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691632446059,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "5606681",
+        "title": "Hands Up",
+        "subtitle": "Ottawan",
+        "images": {
+            "background": "https://is2-ssl.mzstatic.com/image/thumb/Music125/v4/84/1e/1d/841e1dab-451d-64ea-7bb0-26d894833fdd/5060899077229_cover.jpg/400x400cc.jpg",
+            "coverart": "https://is2-ssl.mzstatic.com/image/thumb/Music125/v4/84/1e/1d/841e1dab-451d-64ea-7bb0-26d894833fdd/5060899077229_cover.jpg/400x400cc.jpg",
+            "coverarthq": "https://is2-ssl.mzstatic.com/image/thumb/Music125/v4/84/1e/1d/841e1dab-451d-64ea-7bb0-26d894833fdd/5060899077229_cover.jpg/400x400cc.jpg",
+            "joecolor": "b:2e5db3p:f3f2fas:deeb97t:cbd4ecq:bbcf9c"
+        },
+        "share": {
+            "subject": "Hands Up - Ottawan",
+            "text": "Hands Up by Ottawan",
+            "href": "https://www.shazam.com/track/5606681/hands-up",
+            "image": "https://is2-ssl.mzstatic.com/image/thumb/Music125/v4/84/1e/1d/841e1dab-451d-64ea-7bb0-26d894833fdd/5060899077229_cover.jpg/400x400cc.jpg",
+            "twitter": "I used @Shazam to discover Hands Up by Ottawan.",
+            "html": "https://www.shazam.com/snippets/email-share/5606681?lang=en-US&country=GB",
+            "snapchat": "https://www.shazam.com/partner/sc/track/5606681"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "actions": [
+                {
+                    "name": "apple",
+                    "type": "applemusicplay",
+                    "id": "1576244390"
+                },
+                {
+                    "name": "apple",
+                    "type": "uri",
+                    "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/98/d8/94/98d89431-d89e-875c-cac7-2a2900c9a2b2/mzaf_9324558044574244301.plus.aac.ep.m4a"
+                }
+            ],
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/gb/album/hands-up/1576244389?i=1576244390&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/gb/album/hands-up/1576244389?i=1576244390&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                },
+                {
+                    "caption": "BUY",
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "uri": "https://itunes.apple.com/gb/album/hands-up/1576244389?i=1576244390&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "buy",
+                        "providername": "itunes"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "type": "buy",
+                    "listcaption": "Buy on iTunes",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "itunes"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:Hands%20Up%20Ottawan"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27Hands+Up%27%20artist%3A%27Ottawan%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": false,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [
+                    {
+                        "image": "https://is2-ssl.mzstatic.com/image/thumb/Music125/v4/84/1e/1d/841e1dab-451d-64ea-7bb0-26d894833fdd/5060899077229_cover.jpg/400x400cc.jpg",
+                        "caption": "Hands Up"
+                    }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                    {
+                        "title": "Album",
+                        "text": "Ottawan 2"
+                    },
+                    {
+                        "title": "Label",
+                        "text": "Zagora"
+                    },
+                    {
+                        "title": "Released",
+                        "text": "1980"
+                    }
+                ]
+            },
+            {
+                "type": "LYRICS",
+                "text": [
+                    "Hands up, baby, hands up",
+                    "Gimme your heart, gimme, gimme your heart",
+                    "Gimme, gimme",
+                    "Hands up, baby, hands up",
+                    "Gimme your heart, gimme, gimme your heart",
+                    "Gimme, gimme",
+                    "All your love, all your love",
+                    "",
+                    "Angel face, I love your smile",
+                    "Love your ways, I like your style",
+                    "What can I do to get closer to you?",
+                    "",
+                    "Don't think twice or count to ten",
+                    "Don't take advice, don't ask me when",
+                    "Just come my way, simply kiss me and say",
+                    "",
+                    "Hands up, baby, hands up",
+                    "Gimme your heart, gimme, gimme your heart",
+                    "Gimme, gimme",
+                    "Hands up, baby, hands up",
+                    "Gimme your heart, gimme, gimme your heart",
+                    "Gimme, gimme",
+                    "All your love, all your love",
+                    "",
+                    "With your head up in the sky",
+                    "Every day you're walking by",
+                    "Why you don't never starts looking at me?",
+                    "",
+                    "Stop that game, don't waste your time",
+                    "For all your dreams are matching mine",
+                    "No use to play hide and seek for a week",
+                    "",
+                    "Hands up, baby, hands up",
+                    "Gimme your heart, gimme, gimme your heart",
+                    "Gimme, gimme",
+                    "Hands up, baby, hands up",
+                    "Gimme your heart, gimme, gimme your heart",
+                    "Gimme, gimme",
+                    "All your love, all your love",
+                    "",
+                    "Let me be your Romeo, your wonder boy",
+                    "And your super champ",
+                    "Let me take you to the Milky Way on a holiday (on a holiday)",
+                    "",
+                    "Follow me (follow me)",
+                    "Why don't you follow me? (Why don't you follow me?)",
+                    "Just come my way, simply kiss me and say",
+                    "",
+                    "Hands up, baby, hands up",
+                    "Gimme your heart, gimme, gimme your heart",
+                    "Gimme gimme",
+                    "Hands up, baby, hands up",
+                    "Gimme your heart, gimme, gimme your heart",
+                    "Gimme, gimme",
+                    "",
+                    "Hands up, baby, hands up",
+                    "Gimme your heart, gimme, gimme your heart",
+                    "Gimme, gimme",
+                    "Hands up, baby, hands up",
+                    "Gimme your heart, gimme, gimme your heart",
+                    "Gimme, gimme",
+                    "All your love, all your love"
+                ],
+                "url": "https://cdn.shazam.com/lyrics/v1/en-US/GB/iphone/musixmatch/subtitles/10725460/288/1?token=2a6fc36ebe242795efb7c455028d2d15",
+                "footer": "Writer(s): Jean Joseph Kluger, Daniel Vangarde, Nelly Antoinette Byl\nLyrics powered by www.musixmatch.com",
+                "tabname": "Lyrics",
+                "beacondata": {
+                    "lyricsid": "30508311",
+                    "providername": "musixmatch",
+                    "commontrackid": "10725460"
+                }
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/5606681/youtube/video?q=Ottawan+%22Hands+Up%22"
+            },
+            {
+                "type": "RELATED",
+                "url": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-5606681?startFrom=0&pageSize=20&connected=",
+                "tabname": "Related"
+            }
+        ],
+        "url": "https://www.shazam.com/track/5606681/hands-up",
+        "artists": [
+            {
+                "id": "42",
+                "adamid": "56861099"
+            }
+        ],
+        "isrc": "FR58F8100190",
+        "genres": {
+            "primary": "Disco"
+        },
+        "urlparams": {
+            "{tracktitle}": "Hands+Up",
+            "{trackartist}": "Ottawan"
+        },
+        "myshazam": {
+            "apple": {
+                "actions": [
+                    {
+                        "name": "myshazam:apple",
+                        "type": "uri",
+                        "uri": "https://music.apple.com/gb/album/hands-up/1576244389?i=1576244390&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                ]
+            }
+        },
+        "highlightsurls": {
+            "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/56861099/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+        },
+        "relatedtracksurl": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-5606681?startFrom=0&pageSize=20&connected=",
+        "albumadamid": "1576244389"
+    },
+    "tagid": "5698E5F4-63C8-4EE1-805D-BEFF9237F84A"
+}

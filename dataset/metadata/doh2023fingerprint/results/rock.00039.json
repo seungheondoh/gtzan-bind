@@ -1,0 +1,250 @@
+{
+    "matches": [
+        {
+            "id": "212310413",
+            "offset": 30.920794921000002,
+            "timeskew": 7.557869e-05,
+            "frequencyskew": 0.0
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691633604347,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "354060",
+        "title": "The Song Remains the Same",
+        "subtitle": "Led Zeppelin",
+        "images": {
+            "background": "https://is2-ssl.mzstatic.com/image/thumb/Features125/v4/7d/10/7c/7d107c7b-6e9e-d0f3-d3ea-e1a9fe56ac6b/mza_6622134209630040489.png/800x800cc.jpg",
+            "coverart": "https://is3-ssl.mzstatic.com/image/thumb/Music114/v4/4f/88/ad/4f88ad28-3953-fded-6c18-fe87b5d0dc7b/dj.iqdrlirx.jpg/400x400cc.jpg",
+            "coverarthq": "https://is3-ssl.mzstatic.com/image/thumb/Music114/v4/4f/88/ad/4f88ad28-3953-fded-6c18-fe87b5d0dc7b/dj.iqdrlirx.jpg/400x400cc.jpg",
+            "joecolor": "b:001a0bp:fce7e3s:f6793at:c9beb8q:c56630"
+        },
+        "share": {
+            "subject": "The Song Remains the Same - Led Zeppelin",
+            "text": "The Song Remains the Same by Led Zeppelin",
+            "href": "https://www.shazam.com/track/354060/the-song-remains-the-same",
+            "image": "https://is3-ssl.mzstatic.com/image/thumb/Music114/v4/4f/88/ad/4f88ad28-3953-fded-6c18-fe87b5d0dc7b/dj.iqdrlirx.jpg/400x400cc.jpg",
+            "twitter": "I used @Shazam to discover The Song Remains the Same by Led Zeppelin.",
+            "html": "https://www.shazam.com/snippets/email-share/354060?lang=en-US&country=GB",
+            "avatar": "https://is2-ssl.mzstatic.com/image/thumb/Features125/v4/7d/10/7c/7d107c7b-6e9e-d0f3-d3ea-e1a9fe56ac6b/mza_6622134209630040489.png/800x800cc.jpg",
+            "snapchat": "https://www.shazam.com/partner/sc/track/354060"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "actions": [
+                {
+                    "name": "apple",
+                    "type": "applemusicplay",
+                    "id": "580707917"
+                },
+                {
+                    "name": "apple",
+                    "type": "uri",
+                    "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/5f/d0/17/5fd01794-9381-8d53-385b-f46c11cd857f/mzaf_1304224645942384820.plus.aac.ep.m4a"
+                }
+            ],
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/gb/album/the-song-remains-the-same/580707916?i=580707917&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/gb/album/the-song-remains-the-same/580707916?i=580707917&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                },
+                {
+                    "caption": "BUY",
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "uri": "https://itunes.apple.com/gb/album/the-song-remains-the-same/580707916?i=580707917&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "buy",
+                        "providername": "itunes"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "type": "buy",
+                    "listcaption": "Buy on iTunes",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "itunes"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:The%20Song%20Remains%20the%20Same%20Led%20Zeppelin"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27The+Song+Remains+the+Same%27%20artist%3A%27Led+Zeppelin%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": false,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [
+                    {
+                        "image": "https://is2-ssl.mzstatic.com/image/thumb/Features125/v4/7d/10/7c/7d107c7b-6e9e-d0f3-d3ea-e1a9fe56ac6b/mza_6622134209630040489.png/800x800cc.jpg",
+                        "caption": "Led Zeppelin"
+                    },
+                    {
+                        "image": "https://is3-ssl.mzstatic.com/image/thumb/Music114/v4/4f/88/ad/4f88ad28-3953-fded-6c18-fe87b5d0dc7b/dj.iqdrlirx.jpg/400x400cc.jpg",
+                        "caption": "The Song Remains the Same"
+                    }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                    {
+                        "title": "Album",
+                        "text": "Houses of the Holy (Remastered)"
+                    },
+                    {
+                        "title": "Label",
+                        "text": "Rhino Atlantic"
+                    },
+                    {
+                        "title": "Released",
+                        "text": "1973"
+                    }
+                ]
+            },
+            {
+                "type": "LYRICS",
+                "text": [
+                    "I had a dream, oh yeah",
+                    "Crazy dream, oh-oh",
+                    "Anything I wanted to know",
+                    "Any place I needed to go",
+                    "",
+                    "Hear my song, yeah",
+                    "People, don't you listen now?",
+                    "Sing along, oh",
+                    "You don't know what you're missing now",
+                    "Any little song that you know",
+                    "Everything that's small has to grow",
+                    "And it's gonna grow now, push, push, yeah",
+                    "",
+                    "Na-na-na-na-na",
+                    "California sunlight",
+                    "Sweet Calcutta rain",
+                    "Honolulu starbright",
+                    "The song remains the same",
+                    "",
+                    "Get it on",
+                    "",
+                    "Keep on",
+                    "",
+                    "All you gotta do, all you gotta do",
+                    "All you gotta do now, all you gotta do now",
+                    "Ooh, sing out Hare Hare",
+                    "Ooh, dance the Hoochie Koo",
+                    "City lights are, oh, so bright",
+                    "As we go sliding, sliding",
+                    "Sliding, sliding, sliding, sliding",
+                    "Sliding, sliding, sliding"
+                ],
+                "url": "https://cdn.shazam.com/lyrics/v1/en-US/GB/iphone/musixmatch/subtitles/92610/330/1?token=7aa5a4695958e818a7deee2529c4ec89",
+                "footer": "Writer(s): James Patrick Page, Robert Anthony Plant\nLyrics powered by www.musixmatch.com",
+                "tabname": "Lyrics",
+                "beacondata": {
+                    "lyricsid": "30416670",
+                    "providername": "musixmatch",
+                    "commontrackid": "92610"
+                }
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/354060/youtube/video?q=Led+Zeppelin+%22The+Song+Remains+the+Same%22"
+            },
+            {
+                "type": "RELATED",
+                "url": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-354060?startFrom=0&pageSize=20&connected=",
+                "tabname": "Related"
+            }
+        ],
+        "url": "https://www.shazam.com/track/354060/the-song-remains-the-same",
+        "artists": [
+            {
+                "id": "42",
+                "adamid": "994656"
+            }
+        ],
+        "isrc": "USAT21207051",
+        "genres": {
+            "primary": "Rock"
+        },
+        "urlparams": {
+            "{tracktitle}": "The+Song+Remains+the+Same",
+            "{trackartist}": "Led+Zeppelin"
+        },
+        "myshazam": {
+            "apple": {
+                "actions": [
+                    {
+                        "name": "myshazam:apple",
+                        "type": "uri",
+                        "uri": "https://music.apple.com/gb/album/the-song-remains-the-same/580707916?i=580707917&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                ]
+            }
+        },
+        "highlightsurls": {
+            "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/994656/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+        },
+        "relatedtracksurl": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-354060?startFrom=0&pageSize=20&connected=",
+        "albumadamid": "580707916"
+    },
+    "tagid": "21BF5C0A-76B2-4126-8E62-675AAE270896"
+}

@@ -1,0 +1,299 @@
+{
+    "matches": [
+        {
+            "id": "289337731",
+            "offset": 0.066535987,
+            "timeskew": -9.292364e-05,
+            "frequencyskew": -0.00024163723
+        },
+        {
+            "id": "222285779",
+            "offset": -0.055352157,
+            "timeskew": -1.1742115e-05,
+            "frequencyskew": -8.0525875e-05
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691632969385,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "10312197",
+        "title": "Ex-Factor",
+        "subtitle": "Lauryn Hill",
+        "images": {
+            "background": "https://is4-ssl.mzstatic.com/image/thumb/Features115/v4/17/54/32/1754321f-4d10-0445-8c63-63b9aca63241/mza_5881696461253841876.png/800x800cc.jpg",
+            "coverart": "https://is4-ssl.mzstatic.com/image/thumb/Music125/v4/09/6b/55/096b55c4-ee8f-23bd-df8f-0ca0821f3028/886446727189.jpg/400x400cc.jpg",
+            "coverarthq": "https://is4-ssl.mzstatic.com/image/thumb/Music125/v4/09/6b/55/096b55c4-ee8f-23bd-df8f-0ca0821f3028/886446727189.jpg/400x400cc.jpg",
+            "joecolor": "b:d58f47p:0e0305s:2a1712t:361f12q:4c2f1c"
+        },
+        "share": {
+            "subject": "Ex-Factor - Lauryn Hill",
+            "text": "Ex-Factor by Lauryn Hill",
+            "href": "https://www.shazam.com/track/10312197/ex-factor",
+            "image": "https://is4-ssl.mzstatic.com/image/thumb/Music125/v4/09/6b/55/096b55c4-ee8f-23bd-df8f-0ca0821f3028/886446727189.jpg/400x400cc.jpg",
+            "twitter": "I used @Shazam to discover Ex-Factor by Lauryn Hill.",
+            "html": "https://www.shazam.com/snippets/email-share/10312197?lang=en-US&country=GB",
+            "avatar": "https://is4-ssl.mzstatic.com/image/thumb/Features115/v4/17/54/32/1754321f-4d10-0445-8c63-63b9aca63241/mza_5881696461253841876.png/800x800cc.jpg",
+            "snapchat": "https://www.shazam.com/partner/sc/track/10312197"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "actions": [
+                {
+                    "name": "apple",
+                    "type": "applemusicplay",
+                    "id": "1276760746"
+                },
+                {
+                    "name": "apple",
+                    "type": "uri",
+                    "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/9a/93/67/9a9367a3-3388-766e-ce45-2a91e8eb23b0/mzaf_10366821961010627048.plus.aac.ep.m4a"
+                }
+            ],
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/gb/album/ex-factor/1276760743?i=1276760746&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/gb/album/ex-factor/1276760743?i=1276760746&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                },
+                {
+                    "caption": "BUY",
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "uri": "https://itunes.apple.com/gb/album/ex-factor/1276760743?i=1276760746&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "buy",
+                        "providername": "itunes"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "type": "buy",
+                    "listcaption": "Buy on iTunes",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "itunes"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:Ex-Factor%20Lauryn%20Hill"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27Ex-Factor%27%20artist%3A%27Lauryn+Hill%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": false,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [
+                    {
+                        "image": "https://is4-ssl.mzstatic.com/image/thumb/Features115/v4/17/54/32/1754321f-4d10-0445-8c63-63b9aca63241/mza_5881696461253841876.png/800x800cc.jpg",
+                        "caption": "Lauryn Hill"
+                    },
+                    {
+                        "image": "https://is4-ssl.mzstatic.com/image/thumb/Music125/v4/09/6b/55/096b55c4-ee8f-23bd-df8f-0ca0821f3028/886446727189.jpg/400x400cc.jpg",
+                        "caption": "Ex-Factor"
+                    }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                    {
+                        "title": "Album",
+                        "text": "The Miseducation of Lauryn Hill"
+                    },
+                    {
+                        "title": "Label",
+                        "text": "Ruffhouse/Columbia"
+                    },
+                    {
+                        "title": "Released",
+                        "text": "1998"
+                    }
+                ]
+            },
+            {
+                "type": "LYRICS",
+                "text": [
+                    "Lauryn Hill, live in Tokyo, 1999",
+                    "Yo, y-yo, yo, y-yo",
+                    "Yo, uh, yo, y-yo, yo, y-yo",
+                    "",
+                    "It could all be so simple (ba-ba-ba-baby, baby, baby)",
+                    "But you'd rather make it hard (huh, uh)",
+                    "Loving you is like a battle (it's like a battle)",
+                    "And we both end up with scars",
+                    "",
+                    "Tell me who I have to be (who I have to be)",
+                    "To get some reciprocity",
+                    "See, no one loves you more than me (more than me)",
+                    "And no one ever will (no one ever will, yeah)",
+                    "",
+                    "Is this just a silly game (silly game)",
+                    "That forces you to act this way? (to act this way)",
+                    "Forces you to scream my name",
+                    "Then pretend that you can't stay (yeah)",
+                    "",
+                    "Tell me, who I have to be (I know what we gotta do)",
+                    "To get some reciprocity",
+                    "See, no one loves you more than me",
+                    "And no one ever will",
+                    "",
+                    "No matter how I think we grow",
+                    "You always seem to let me know",
+                    "It ain't working (it ain't working, no), it ain't working",
+                    "And when I try to walk away",
+                    "You'd hurt yourself to make me stay",
+                    "This is crazy, this is crazy (oh, this is crazy, uh-huh)",
+                    "",
+                    "I keep letting you back in (you back in)",
+                    "How can I explain myself? (I don't understand why)",
+                    "As painful as this thing has been",
+                    "I just can't be with no one else",
+                    "",
+                    "See I know what we've got to do (yeah)",
+                    "You let go (you let go), and I'll let go too (and I'll let go)",
+                    "'Cause no one's hurt me more than you",
+                    "And no one ever will",
+                    "",
+                    "No matter how I think we grow",
+                    "You always seem to let me know",
+                    "It ain't working (it ain't working), it ain't working (it ain't working)",
+                    "And when I try to walk away",
+                    "You'd hurt yourself to make me stay",
+                    "This is crazy (this is crazy), this is crazy (this is crazy)",
+                    "",
+                    "(Care) Care for me, care for me",
+                    "I know you care for me",
+                    "(There) There for me, there for me",
+                    "Said you'd be there for me",
+                    "(Cry) Cry for me, cry for me",
+                    "You said you'd die for me",
+                    "(Give) Give to me, give to me",
+                    "Why won't you live for me?",
+                    "(Care) Care for me, care for me",
+                    "You said you'd care for me",
+                    "(There) There for me, there for me",
+                    "Said you'd be there for me",
+                    "(Cry) Cry for me, cry for me",
+                    "You said you'd die for me",
+                    "(Give) Give to me, give to me",
+                    "Why won't you live for me?",
+                    "",
+                    "(Care)",
+                    "(There) Take it down now",
+                    "(Cry) Take it down now",
+                    "(Give) Take it down now",
+                    "(Care) Take it down now",
+                    "(There) Take it down now",
+                    "(Cry) Take it down, take it down for now",
+                    "(Give)"
+                ],
+                "url": "https://cdn.shazam.com/lyrics/v1/en-US/GB/iphone/musixmatch/subtitles/118844334/277/1?token=d9999ced69a17aa61b4657b4a662b738",
+                "footer": "Writer(s): Alan Bergman, Marvin Hamlisch, Jason S Hunter, Andy Colline, Dennis Diggs\nLyrics powered by www.musixmatch.com",
+                "tabname": "Lyrics",
+                "beacondata": {
+                    "lyricsid": "25248568",
+                    "providername": "musixmatch",
+                    "commontrackid": "118844334"
+                }
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/10312197/youtube/video?q=Lauryn+Hill+%22Ex-Factor%22"
+            },
+            {
+                "type": "RELATED",
+                "url": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-10312197?startFrom=0&pageSize=20&connected=",
+                "tabname": "Related"
+            }
+        ],
+        "url": "https://www.shazam.com/track/10312197/ex-factor",
+        "artists": [
+            {
+                "id": "42",
+                "adamid": "21434"
+            }
+        ],
+        "isrc": "USSM19803104",
+        "genres": {
+            "primary": "R&B/Soul"
+        },
+        "urlparams": {
+            "{tracktitle}": "Ex-Factor",
+            "{trackartist}": "Lauryn+Hill"
+        },
+        "myshazam": {
+            "apple": {
+                "actions": [
+                    {
+                        "name": "myshazam:apple",
+                        "type": "uri",
+                        "uri": "https://music.apple.com/gb/album/ex-factor/1276760743?i=1276760746&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                ]
+            }
+        },
+        "highlightsurls": {
+            "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/21434/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios&videoIdToFilter=379307015",
+            "trackhighlighturl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/highlights/379307015?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+        },
+        "relatedtracksurl": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-10312197?startFrom=0&pageSize=20&connected=",
+        "albumadamid": "1276760743"
+    },
+    "tagid": "1249EB71-232B-4A81-A898-CC1764BD867B"
+}

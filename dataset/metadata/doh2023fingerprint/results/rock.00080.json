@@ -1,0 +1,275 @@
+{
+    "matches": [
+        {
+            "id": "279687197",
+            "offset": 31.711638671,
+            "timeskew": -0.0009991527,
+            "frequencyskew": -0.0013683438
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691633636960,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "5575790",
+        "title": "Is This Love",
+        "subtitle": "Survivor",
+        "images": {
+            "background": "https://is2-ssl.mzstatic.com/image/thumb/Features115/v4/98/67/bc/9867bcf7-4ef7-9da2-f7d3-ebc3445a8c27/mzl.iiahiccf.jpg/800x800cc.jpg",
+            "coverart": "https://is1-ssl.mzstatic.com/image/thumb/Music/cd/c1/1b/mzi.crpcwrmz.jpg/400x400cc.jpg",
+            "coverarthq": "https://is1-ssl.mzstatic.com/image/thumb/Music/cd/c1/1b/mzi.crpcwrmz.jpg/400x400cc.jpg",
+            "joecolor": "b:41414dp:bacfefs:a1c3ebt:a2b2cfq:8ea9cb"
+        },
+        "share": {
+            "subject": "Is This Love - Survivor",
+            "text": "Is This Love by Survivor",
+            "href": "https://www.shazam.com/track/5575790/is-this-love",
+            "image": "https://is1-ssl.mzstatic.com/image/thumb/Music/cd/c1/1b/mzi.crpcwrmz.jpg/400x400cc.jpg",
+            "twitter": "I used @Shazam to discover Is This Love by Survivor.",
+            "html": "https://www.shazam.com/snippets/email-share/5575790?lang=en-US&country=GB",
+            "avatar": "https://is2-ssl.mzstatic.com/image/thumb/Features115/v4/98/67/bc/9867bcf7-4ef7-9da2-f7d3-ebc3445a8c27/mzl.iiahiccf.jpg/800x800cc.jpg",
+            "snapchat": "https://www.shazam.com/partner/sc/track/5575790"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "actions": [
+                {
+                    "name": "apple",
+                    "type": "applemusicplay",
+                    "id": "258553286"
+                },
+                {
+                    "name": "apple",
+                    "type": "uri",
+                    "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/ff/3c/e7/ff3ce73a-f88b-59ff-3334-3160c625d777/mzaf_11134589672043423258.plus.aac.ep.m4a"
+                }
+            ],
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/gb/album/is-this-love/258553181?i=258553286&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/gb/album/is-this-love/258553181?i=258553286&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                },
+                {
+                    "caption": "BUY",
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "uri": "https://itunes.apple.com/gb/album/is-this-love/258553181?i=258553286&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "buy",
+                        "providername": "itunes"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "type": "buy",
+                    "listcaption": "Buy on iTunes",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "itunes"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:Is%20This%20Love%20Survivor"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27Is+This+Love%27%20artist%3A%27Survivor%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": false,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [
+                    {
+                        "image": "https://is2-ssl.mzstatic.com/image/thumb/Features115/v4/98/67/bc/9867bcf7-4ef7-9da2-f7d3-ebc3445a8c27/mzl.iiahiccf.jpg/800x800cc.jpg",
+                        "caption": "Survivor"
+                    },
+                    {
+                        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music/cd/c1/1b/mzi.crpcwrmz.jpg/400x400cc.jpg",
+                        "caption": "Is This Love"
+                    }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                    {
+                        "title": "Album",
+                        "text": "When Seconds Count"
+                    },
+                    {
+                        "title": "Label",
+                        "text": "Volcano"
+                    },
+                    {
+                        "title": "Released",
+                        "text": "1986"
+                    }
+                ]
+            },
+            {
+                "type": "LYRICS",
+                "text": [
+                    "I've heard talk of blind devotion",
+                    "Lovers through thick and thin",
+                    "Lives touched with real emotion",
+                    "Faithful till the bitter end",
+                    "",
+                    "Now I must admit that the story's attractive",
+                    "I've lost in far too many affairs",
+                    "I've seen all the pain that the morning can bring",
+                    "",
+                    "I need to prove to myself",
+                    "This is more than a crush",
+                    "Can you convince me",
+                    "It's not just a physical rush",
+                    "",
+                    "Is this love that I'm feelin'",
+                    "Is this love that's been keepin' me up all night",
+                    "Is this love that I'm feelin'",
+                    "Is this love",
+                    "",
+                    "So many nights in blind confusion",
+                    "I've walked the line of love",
+                    "We reach out in disillusion",
+                    "When one night isn't nearly enough",
+                    "",
+                    "Now I'd like to know that for once in my life",
+                    "I'm sure of what tomorrow may bring",
+                    "I've heard all your talk",
+                    "Can I take it to heart",
+                    "",
+                    "Now look me straight in the eye",
+                    "'Cause tonight is the night",
+                    "We've got to ask each other",
+                    "If the moment is right",
+                    "",
+                    "Is this love that I'm feelin'",
+                    "Is this love that's been keepin' me up all night",
+                    "Is this love that I'm feelin'",
+                    "Is this love",
+                    "",
+                    "I've tread those mean streets",
+                    "Blind alleys where the currency of love changes hands",
+                    "All touch, no feeling",
+                    "Just another one night stand",
+                    "",
+                    "I need to know that there's someone who cares",
+                    "Could you be the angel to answer my prayers",
+                    "Is this love that I'm feelin'",
+                    "Is this love that's been keepin' me up all night",
+                    "Is this love that I'm feelin'",
+                    "Is this love",
+                    "Is this love that I'm feelin'",
+                    "Is this love that's been keepin' me up all night",
+                    "Is this love that I'm feelin'",
+                    "Is this love",
+                    "Is this love"
+                ],
+                "url": "https://cdn.shazam.com/lyrics/v1/en-US/GB/iphone/musixmatch/subtitles/93349/224/1?token=4bf2c3ec7125a86a93b2b9586d6d1972",
+                "footer": "Writer(s): James M Peterik, Frank Sullivan\nLyrics powered by www.musixmatch.com",
+                "tabname": "Lyrics",
+                "beacondata": {
+                    "lyricsid": "12295287",
+                    "providername": "musixmatch",
+                    "commontrackid": "93349"
+                }
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/5575790/youtube/video?q=Survivor+%22Is+This+Love%22"
+            },
+            {
+                "type": "RELATED",
+                "url": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-5575790?startFrom=0&pageSize=20&connected=",
+                "tabname": "Related"
+            }
+        ],
+        "url": "https://www.shazam.com/track/5575790/is-this-love",
+        "artists": [
+            {
+                "id": "42",
+                "adamid": "3713599"
+            }
+        ],
+        "isrc": "USVR19200005",
+        "genres": {
+            "primary": "Rock"
+        },
+        "urlparams": {
+            "{tracktitle}": "Is+This+Love",
+            "{trackartist}": "Survivor"
+        },
+        "myshazam": {
+            "apple": {
+                "actions": [
+                    {
+                        "name": "myshazam:apple",
+                        "type": "uri",
+                        "uri": "https://music.apple.com/gb/album/is-this-love/258553181?i=258553286&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                ]
+            }
+        },
+        "highlightsurls": {
+            "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/3713599/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios&videoIdToFilter=1537223382",
+            "trackhighlighturl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/highlights/1537223382?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+        },
+        "relatedtracksurl": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-5575790?startFrom=0&pageSize=20&connected=",
+        "albumadamid": "258553181"
+    },
+    "tagid": "9B5320F3-73B4-48A6-97A8-C7F040E631DF"
+}

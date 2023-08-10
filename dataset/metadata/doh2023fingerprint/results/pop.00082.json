@@ -1,0 +1,300 @@
+{
+    "matches": [
+        {
+            "id": "376225360",
+            "offset": 138.38,
+            "timeskew": -0.00023108721,
+            "frequencyskew": -0.00020134449
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691632783422,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "11138144",
+        "title": "If You Had My Love (Pablo Flores Remix)",
+        "subtitle": "Jennifer Lopez",
+        "images": {
+            "background": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages112/v4/e5/49/dd/e549dddc-bcd0-3dbc-b8dc-09695f9d8bde/2e4d61ad-1f38-424e-b1e5-6c6e20eac709_ami-identity-7247b217fef58be6ce99bc31e0eb7df3-2022-12-02T18-11-23.317Z_cropped.png/800x800cc.jpg",
+            "coverart": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/64/20/55/642055ff-d5df-f193-f527-7ce37fa43d25/098707916427.jpg/400x400cc.jpg",
+            "coverarthq": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/64/20/55/642055ff-d5df-f193-f527-7ce37fa43d25/098707916427.jpg/400x400cc.jpg",
+            "joecolor": "b:c2c8bep:03080cs:0f181bt:292f30q:333b3b"
+        },
+        "share": {
+            "subject": "If You Had My Love (Pablo Flores Remix) - Jennifer Lopez",
+            "text": "If You Had My Love (Pablo Flores Remix) by Jennifer Lopez",
+            "href": "https://www.shazam.com/track/11138144/if-you-had-my-love-pablo-flores-remix",
+            "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/64/20/55/642055ff-d5df-f193-f527-7ce37fa43d25/098707916427.jpg/400x400cc.jpg",
+            "twitter": "I used @Shazam to discover If You Had My Love (Pablo Flores Remix) by Jennifer Lopez.",
+            "html": "https://www.shazam.com/snippets/email-share/11138144?lang=en-US&country=GB",
+            "avatar": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages112/v4/e5/49/dd/e549dddc-bcd0-3dbc-b8dc-09695f9d8bde/2e4d61ad-1f38-424e-b1e5-6c6e20eac709_ami-identity-7247b217fef58be6ce99bc31e0eb7df3-2022-12-02T18-11-23.317Z_cropped.png/800x800cc.jpg",
+            "snapchat": "https://www.shazam.com/partner/sc/track/11138144"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "actions": [
+                {
+                    "name": "apple",
+                    "type": "applemusicplay",
+                    "id": "604810010"
+                },
+                {
+                    "name": "apple",
+                    "type": "uri",
+                    "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/c0/c5/81/c0c58131-5411-8ae3-2bd3-5092b4f74414/mzaf_18416310429265628084.plus.aac.ep.m4a"
+                }
+            ],
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/gb/album/if-you-had-my-love-pablo-flores-remix/604809861?i=604810010&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/gb/album/if-you-had-my-love-pablo-flores-remix/604809861?i=604810010&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                },
+                {
+                    "caption": "BUY",
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "uri": "https://itunes.apple.com/gb/album/if-you-had-my-love-pablo-flores-remix/604809861?i=604810010&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "buy",
+                        "providername": "itunes"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "type": "buy",
+                    "listcaption": "Buy on iTunes",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "itunes"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:If%20You%20Had%20My%20Love%20%28Pablo%20Flores%20Remix%29%20Jennifer%20Lopez"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27If+You+Had+My+Love+%28Pablo+Flores+Remix%29%27%20artist%3A%27Jennifer+Lopez%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": false,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [
+                    {
+                        "image": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages112/v4/e5/49/dd/e549dddc-bcd0-3dbc-b8dc-09695f9d8bde/2e4d61ad-1f38-424e-b1e5-6c6e20eac709_ami-identity-7247b217fef58be6ce99bc31e0eb7df3-2022-12-02T18-11-23.317Z_cropped.png/800x800cc.jpg",
+                        "caption": "Jennifer Lopez"
+                    },
+                    {
+                        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/64/20/55/642055ff-d5df-f193-f527-7ce37fa43d25/098707916427.jpg/400x400cc.jpg",
+                        "caption": "If You Had My Love (Pablo Flores Remix)"
+                    }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                    {
+                        "title": "Album",
+                        "text": "If You Had My Love (Remixes) - EP"
+                    },
+                    {
+                        "title": "Label",
+                        "text": "Work"
+                    },
+                    {
+                        "title": "Released",
+                        "text": "1999"
+                    }
+                ]
+            },
+            {
+                "type": "LYRICS",
+                "text": [
+                    "If you had my love",
+                    "And I gave you all my trust",
+                    "Would you comfort me",
+                    "And if somehow you knew",
+                    "That your love would be untrue",
+                    "Would you lie to me",
+                    "And call me baby",
+                    "",
+                    "Now if I give you me",
+                    "This is how it's got to be",
+                    "First of all, I won't take you cheating on me",
+                    "Tell me who can I trust",
+                    "If I can't trust in you",
+                    "And I refuse to let you play me for a fool",
+                    "",
+                    "You said that we",
+                    "Could possibly",
+                    "Spend eternity",
+                    "See that's what you told me",
+                    "That's what you said",
+                    "But if you want me",
+                    "You have to be",
+                    "Fulfilling all my dreams",
+                    "If you really want me, babe",
+                    "",
+                    "If you had my love",
+                    "And I gave you all my trust",
+                    "Would you comfort me",
+                    "And if somehow you knew",
+                    "That your love would be untrue",
+                    "Would you lie to me",
+                    "And call me baby",
+                    "",
+                    "You said you want my love",
+                    "And you've got to have it all",
+                    "But first, there are some things you need to know",
+                    "If you wanna live",
+                    "With all I have to give",
+                    "I need to feel true love or it's got to end, yeah",
+                    "",
+                    "I don't want you",
+                    "Trying to get with me",
+                    "And I end up unhappy",
+                    "I don't need the hurt",
+                    "And I don't need the pain",
+                    "So before I do",
+                    "Give myself to you",
+                    "I have to know the truth",
+                    "If I spend my life with you",
+                    "",
+                    "If you had my love",
+                    "And I gave you all my trust",
+                    "Would you comfort me",
+                    "And if somehow you knew",
+                    "That your love would be untrue",
+                    "Would you lie to me",
+                    "And call me baby",
+                    "",
+                    "If you had my love",
+                    "And I gave you all my trust",
+                    "Would you comfort me",
+                    "And if somehow you knew",
+                    "That your love would be untrue",
+                    "Would you lie to me",
+                    "And call me baby",
+                    "",
+                    "If you had my love",
+                    "And I gave you all my trust",
+                    "Would you comfort me",
+                    "And if somehow you knew",
+                    "That your love would be untrue",
+                    "Would you lie to me",
+                    "And call me baby",
+                    "",
+                    "If you had my love",
+                    "And I gave you all my trust",
+                    "Would you comfort me",
+                    "And if somehow you knew",
+                    "That your love would be untrue",
+                    "Would you lie to me",
+                    "And call me baby"
+                ],
+                "url": "https://cdn.shazam.com/lyrics/v1/en-US/GB/iphone/musixmatch/subtitles/105822/551/1?token=75c75ca451a2312b6667115839fdaba4",
+                "footer": "Writer(s): Rodney Jerkins, Lashawn Ameen Daniels, Freddie D Iii Jerkins, Jennifer Lynn Lopez, Cori Rooney\nLyrics powered by www.musixmatch.com",
+                "tabname": "Lyrics",
+                "beacondata": {
+                    "lyricsid": "6498949",
+                    "providername": "musixmatch",
+                    "commontrackid": "105822"
+                }
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/11138144/youtube/video?q=Jennifer+Lopez+%22If+You+Had+My+Love+(Pablo+Flores+Remix)%22"
+            },
+            {
+                "type": "RELATED",
+                "url": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-11138144?startFrom=0&pageSize=20&connected=",
+                "tabname": "Related"
+            }
+        ],
+        "url": "https://www.shazam.com/track/11138144/if-you-had-my-love-pablo-flores-remix",
+        "artists": [
+            {
+                "id": "42",
+                "adamid": "463009"
+            }
+        ],
+        "isrc": "USSM19900947",
+        "genres": {
+            "primary": "Pop"
+        },
+        "urlparams": {
+            "{tracktitle}": "If+You+Had+My+Love+%28Pablo+Flores+Remix%29",
+            "{trackartist}": "Jennifer+Lopez"
+        },
+        "myshazam": {
+            "apple": {
+                "actions": [
+                    {
+                        "name": "myshazam:apple",
+                        "type": "uri",
+                        "uri": "https://music.apple.com/gb/album/if-you-had-my-love-pablo-flores-remix/604809861?i=604810010&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                ]
+            }
+        },
+        "highlightsurls": {
+            "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/463009/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+        },
+        "relatedtracksurl": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-11138144?startFrom=0&pageSize=20&connected=",
+        "albumadamid": "604809861"
+    },
+    "tagid": "A1C13059-D8EB-4446-9338-F2930A5B04FF"
+}

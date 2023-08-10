@@ -1,0 +1,213 @@
+{
+    "matches": [
+        {
+            "id": "213289142",
+            "offset": 30.306537109,
+            "timeskew": -0.0010723472,
+            "frequencyskew": -0.0009661317
+        },
+        {
+            "id": "527255288",
+            "offset": 30.506335937,
+            "timeskew": 0.0013186932,
+            "frequencyskew": 0.000926733
+        },
+        {
+            "id": "284683934",
+            "offset": 30.135255859,
+            "timeskew": -6.2167645e-05,
+            "frequencyskew": -0.00020134449
+        },
+        {
+            "id": "526863539",
+            "offset": 30.627232421000002,
+            "timeskew": 0.0059872866,
+            "frequencyskew": 0.00609982
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691632379253,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "10005234",
+        "title": "Get Up",
+        "subtitle": "Osibisa",
+        "images": {
+            "background": "https://is1-ssl.mzstatic.com/image/thumb/Music/v4/eb/13/7d/eb137db3-65eb-88b5-23ae-fa9dd09ac50c/27822.jpeg/400x400cc.jpg",
+            "coverart": "https://is1-ssl.mzstatic.com/image/thumb/Music/v4/eb/13/7d/eb137db3-65eb-88b5-23ae-fa9dd09ac50c/27822.jpeg/400x400cc.jpg",
+            "coverarthq": "https://is1-ssl.mzstatic.com/image/thumb/Music/v4/eb/13/7d/eb137db3-65eb-88b5-23ae-fa9dd09ac50c/27822.jpeg/400x400cc.jpg",
+            "joecolor": "b:000000p:fcc125s:7ec4edt:ca9a1dq:649cbe"
+        },
+        "share": {
+            "subject": "Get Up - Osibisa",
+            "text": "Get Up by Osibisa",
+            "href": "https://www.shazam.com/track/10005234/get-up",
+            "image": "https://is1-ssl.mzstatic.com/image/thumb/Music/v4/eb/13/7d/eb137db3-65eb-88b5-23ae-fa9dd09ac50c/27822.jpeg/400x400cc.jpg",
+            "twitter": "I used @Shazam to discover Get Up by Osibisa.",
+            "html": "https://www.shazam.com/snippets/email-share/10005234?lang=en-US&country=GB",
+            "snapchat": "https://www.shazam.com/partner/sc/track/10005234"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "actions": [
+                {
+                    "name": "apple",
+                    "type": "applemusicplay",
+                    "id": "543700206"
+                },
+                {
+                    "name": "apple",
+                    "type": "uri",
+                    "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/e4/cb/c6/e4cbc6cf-6f06-57b5-76c6-b1c77a9ca418/mzaf_16896833411831541465.plus.aac.ep.m4a"
+                }
+            ],
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/gb/album/get-up/543700199?i=543700206&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/gb/album/get-up/543700199?i=543700206&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                },
+                {
+                    "caption": "BUY",
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "uri": "https://itunes.apple.com/gb/album/get-up/543700199?i=543700206&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "buy",
+                        "providername": "itunes"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "type": "buy",
+                    "listcaption": "Buy on iTunes",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "itunes"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:Get%20Up%20Osibisa"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27Get+Up%27%20artist%3A%27Osibisa%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": false,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [
+                    {
+                        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music/v4/eb/13/7d/eb137db3-65eb-88b5-23ae-fa9dd09ac50c/27822.jpeg/400x400cc.jpg",
+                        "caption": "Get Up"
+                    }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                    {
+                        "title": "Album",
+                        "text": "African Flight"
+                    },
+                    {
+                        "title": "Label",
+                        "text": "Golden Stool"
+                    },
+                    {
+                        "title": "Released",
+                        "text": "1974"
+                    }
+                ]
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/10005234/youtube/video?q=Osibisa+%22Get+Up%22"
+            }
+        ],
+        "url": "https://www.shazam.com/track/10005234/get-up",
+        "artists": [
+            {
+                "id": "42",
+                "adamid": "7243654"
+            }
+        ],
+        "isrc": "GBKPL1259072",
+        "genres": {
+            "primary": "World"
+        },
+        "urlparams": {
+            "{tracktitle}": "Get+Up",
+            "{trackartist}": "Osibisa"
+        },
+        "myshazam": {
+            "apple": {
+                "actions": [
+                    {
+                        "name": "myshazam:apple",
+                        "type": "uri",
+                        "uri": "https://music.apple.com/gb/album/get-up/543700199?i=543700206&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                ]
+            }
+        },
+        "highlightsurls": {
+            "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/7243654/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+        },
+        "albumadamid": "543700199"
+    },
+    "tagid": "6F623209-CC2C-444D-B286-97E75DD715F0"
+}

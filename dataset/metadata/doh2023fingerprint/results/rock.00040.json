@@ -1,0 +1,264 @@
+{
+    "matches": [
+        {
+            "id": "218778598",
+            "offset": 29.979300781000003,
+            "timeskew": -2.4974346e-05,
+            "frequencyskew": 0.0
+        },
+        {
+            "id": "481307194",
+            "offset": 29.830087889999998,
+            "timeskew": -0.00013619661,
+            "frequencyskew": -0.00048315525
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691633564647,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "5200425",
+        "title": "The Crunge",
+        "subtitle": "Led Zeppelin",
+        "images": {
+            "background": "https://is2-ssl.mzstatic.com/image/thumb/Features125/v4/7d/10/7c/7d107c7b-6e9e-d0f3-d3ea-e1a9fe56ac6b/mza_6622134209630040489.png/800x800cc.jpg",
+            "coverart": "https://is3-ssl.mzstatic.com/image/thumb/Music114/v4/4f/88/ad/4f88ad28-3953-fded-6c18-fe87b5d0dc7b/dj.iqdrlirx.jpg/400x400cc.jpg",
+            "coverarthq": "https://is3-ssl.mzstatic.com/image/thumb/Music114/v4/4f/88/ad/4f88ad28-3953-fded-6c18-fe87b5d0dc7b/dj.iqdrlirx.jpg/400x400cc.jpg",
+            "joecolor": "b:001a0bp:fce7e3s:f6793at:c9beb8q:c56630"
+        },
+        "share": {
+            "subject": "The Crunge - Led Zeppelin",
+            "text": "The Crunge by Led Zeppelin",
+            "href": "https://www.shazam.com/track/5200425/the-crunge",
+            "image": "https://is3-ssl.mzstatic.com/image/thumb/Music114/v4/4f/88/ad/4f88ad28-3953-fded-6c18-fe87b5d0dc7b/dj.iqdrlirx.jpg/400x400cc.jpg",
+            "twitter": "I used @Shazam to discover The Crunge by Led Zeppelin.",
+            "html": "https://www.shazam.com/snippets/email-share/5200425?lang=en-US&country=GB",
+            "avatar": "https://is2-ssl.mzstatic.com/image/thumb/Features125/v4/7d/10/7c/7d107c7b-6e9e-d0f3-d3ea-e1a9fe56ac6b/mza_6622134209630040489.png/800x800cc.jpg",
+            "snapchat": "https://www.shazam.com/partner/sc/track/5200425"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "actions": [
+                {
+                    "name": "apple",
+                    "type": "applemusicplay",
+                    "id": "580707920"
+                },
+                {
+                    "name": "apple",
+                    "type": "uri",
+                    "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/eb/64/b2/eb64b2df-a28c-77e7-2f68-ec2b55a76b7e/mzaf_1080732608765623300.plus.aac.ep.m4a"
+                }
+            ],
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/gb/album/the-crunge/580707916?i=580707920&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/gb/album/the-crunge/580707916?i=580707920&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                },
+                {
+                    "caption": "BUY",
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "uri": "https://itunes.apple.com/gb/album/the-crunge/580707916?i=580707920&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "buy",
+                        "providername": "itunes"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "type": "buy",
+                    "listcaption": "Buy on iTunes",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "itunes"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:The%20Crunge%20Led%20Zeppelin"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27The+Crunge%27%20artist%3A%27Led+Zeppelin%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": false,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [
+                    {
+                        "image": "https://is2-ssl.mzstatic.com/image/thumb/Features125/v4/7d/10/7c/7d107c7b-6e9e-d0f3-d3ea-e1a9fe56ac6b/mza_6622134209630040489.png/800x800cc.jpg",
+                        "caption": "Led Zeppelin"
+                    },
+                    {
+                        "image": "https://is3-ssl.mzstatic.com/image/thumb/Music114/v4/4f/88/ad/4f88ad28-3953-fded-6c18-fe87b5d0dc7b/dj.iqdrlirx.jpg/400x400cc.jpg",
+                        "caption": "The Crunge"
+                    }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                    {
+                        "title": "Album",
+                        "text": "Houses of the Holy (Remastered)"
+                    },
+                    {
+                        "title": "Label",
+                        "text": "Rhino Atlantic"
+                    },
+                    {
+                        "title": "Released",
+                        "text": "1973"
+                    }
+                ]
+            },
+            {
+                "type": "LYRICS",
+                "text": [
+                    "I wanna tell you bout my good thing",
+                    "I ain't disclosing no names but",
+                    "He sure is a good friend and",
+                    "I ain't gonna tell you where he comes from, no",
+                    "If i tell you you wont come again! hey",
+                    "I ain't gonna tell you nothin but i do will, but i know, yeah",
+                    "I should do but i know now let me tell you bout my girl",
+                    "Open up a newspaper and what do i see? ahh, ah",
+                    "See my girl, ah, looking at me",
+                    "Ooh, and when she walks, ooh, lemme tell ya",
+                    "She walks and when she talks, she talks and",
+                    "When she looks at me in the eye",
+                    "She's my baby lord i wanna make her mine",
+                    "Tell me baby what you want me to do",
+                    "You want me to love you, love some other man too",
+                    "Ain't gonna call me mr. pitiful, no",
+                    "I don't need no respect from nobody no! no",
+                    "Ooh yeah! no no! ahh",
+                    "I ain't gonna tell you nothing i ain't gonna no more, no",
+                    "She's my baby let me tell you that i love her so and",
+                    "And! she's the woman i really wanna love",
+                    "And let me tell you more, oooh",
+                    "She's my baby she lives next door",
+                    "She's the one a woman the one a woman that i know",
+                    "I ain't gonna... tell you one thing that you really ought to know ooh",
+                    "She's my lover baby and i love her so and",
+                    "She's the one that really makes me whirl and twirl",
+                    "And she's the kind of lover that makes me me fill the whole world and",
+                    "She's the one who really makes me jump and shout, ooh",
+                    "She's the kind of girl-i know what it's all about",
+                    "Take it take it",
+                    "Excuse me",
+                    "Oh will ya excuse me",
+                    "I'm just trying to find the bridge",
+                    "Has anybody seen the bridge",
+                    "Please",
+                    "(Have you seen the bridge)",
+                    "I ain't seen the bridge",
+                    "(Where's that confounded bridge)"
+                ],
+                "url": "https://cdn.shazam.com/lyrics/v1/en-US/GB/iphone/musixmatch/subtitles/92573/195/1?token=24c50e50227058c741abc2bebc0f9584",
+                "footer": "Writer(s): James Patrick Page, John Bonham, Robert Anthony Plant, John Paul Jones\nLyrics powered by www.musixmatch.com",
+                "tabname": "Lyrics",
+                "beacondata": {
+                    "lyricsid": "26171543",
+                    "providername": "musixmatch",
+                    "commontrackid": "92573"
+                }
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/5200425/youtube/video?q=Led+Zeppelin+%22The+Crunge%22"
+            },
+            {
+                "type": "RELATED",
+                "url": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-5200425?startFrom=0&pageSize=20&connected=",
+                "tabname": "Related"
+            }
+        ],
+        "url": "https://www.shazam.com/track/5200425/the-crunge",
+        "artists": [
+            {
+                "id": "42",
+                "adamid": "994656"
+            }
+        ],
+        "isrc": "USAT21207054",
+        "genres": {
+            "primary": "Rock"
+        },
+        "urlparams": {
+            "{tracktitle}": "The+Crunge",
+            "{trackartist}": "Led+Zeppelin"
+        },
+        "myshazam": {
+            "apple": {
+                "actions": [
+                    {
+                        "name": "myshazam:apple",
+                        "type": "uri",
+                        "uri": "https://music.apple.com/gb/album/the-crunge/580707916?i=580707920&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                ]
+            }
+        },
+        "highlightsurls": {
+            "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/994656/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+        },
+        "relatedtracksurl": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-5200425?startFrom=0&pageSize=20&connected=",
+        "albumadamid": "580707916"
+    },
+    "tagid": "C7D13619-F702-4EC9-90F4-9DB43D116E21"
+}

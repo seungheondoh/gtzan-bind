@@ -1,0 +1,284 @@
+{
+    "matches": [
+        {
+            "id": "219126248",
+            "offset": 30.025945312,
+            "timeskew": -1.3709068e-06,
+            "frequencyskew": -8.0525875e-05
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691632744963,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "40617615",
+        "title": "Crush",
+        "subtitle": "Mandy Moore",
+        "images": {
+            "background": "https://is4-ssl.mzstatic.com/image/thumb/Music126/v4/f4/2c/92/f42c92af-dcfb-468e-3160-73529ffb22cd/pr_source.png/800x800cc.jpg",
+            "coverart": "https://is3-ssl.mzstatic.com/image/thumb/Music115/v4/41/a1/b1/41a1b1d0-64f3-25ee-bd0e-1049bd62b068/888880452894.jpg/400x400cc.jpg",
+            "coverarthq": "https://is3-ssl.mzstatic.com/image/thumb/Music115/v4/41/a1/b1/41a1b1d0-64f3-25ee-bd0e-1049bd62b068/888880452894.jpg/400x400cc.jpg",
+            "joecolor": "b:28201ep:d3b3b3s:e19470t:b19695q:bc7d60"
+        },
+        "share": {
+            "subject": "Crush - Mandy Moore",
+            "text": "Crush by Mandy Moore",
+            "href": "https://www.shazam.com/track/40617615/crush",
+            "image": "https://is3-ssl.mzstatic.com/image/thumb/Music115/v4/41/a1/b1/41a1b1d0-64f3-25ee-bd0e-1049bd62b068/888880452894.jpg/400x400cc.jpg",
+            "twitter": "I used @Shazam to discover Crush by Mandy Moore.",
+            "html": "https://www.shazam.com/snippets/email-share/40617615?lang=en-US&country=GB",
+            "avatar": "https://is4-ssl.mzstatic.com/image/thumb/Music126/v4/f4/2c/92/f42c92af-dcfb-468e-3160-73529ffb22cd/pr_source.png/800x800cc.jpg",
+            "snapchat": "https://www.shazam.com/partner/sc/track/40617615"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "actions": [
+                {
+                    "name": "apple",
+                    "type": "applemusicplay",
+                    "id": "288498122"
+                },
+                {
+                    "name": "apple",
+                    "type": "uri",
+                    "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/63/41/94/634194de-b1fb-2b57-950c-e9b3b83cc7dd/mzaf_4922851793582880753.plus.aac.ep.m4a"
+                }
+            ],
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/gb/album/crush/288497911?i=288498122&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/gb/album/crush/288497911?i=288498122&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                },
+                {
+                    "caption": "BUY",
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "uri": "https://itunes.apple.com/gb/album/crush/288497911?i=288498122&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "buy",
+                        "providername": "itunes"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "type": "buy",
+                    "listcaption": "Buy on iTunes",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "itunes"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:Crush%20Mandy%20Moore"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27Crush%27%20artist%3A%27Mandy+Moore%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": false,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [
+                    {
+                        "image": "https://is4-ssl.mzstatic.com/image/thumb/Music126/v4/f4/2c/92/f42c92af-dcfb-468e-3160-73529ffb22cd/pr_source.png/800x800cc.jpg",
+                        "caption": "Mandy Moore"
+                    },
+                    {
+                        "image": "https://is3-ssl.mzstatic.com/image/thumb/Music115/v4/41/a1/b1/41a1b1d0-64f3-25ee-bd0e-1049bd62b068/888880452894.jpg/400x400cc.jpg",
+                        "caption": "Crush"
+                    }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                    {
+                        "title": "Album",
+                        "text": "Mandy Moore"
+                    },
+                    {
+                        "title": "Label",
+                        "text": "Epic"
+                    },
+                    {
+                        "title": "Released",
+                        "text": "1999"
+                    }
+                ]
+            },
+            {
+                "type": "LYRICS",
+                "text": [
+                    "Huh huh",
+                    "Yeah yeah yeah",
+                    "Huh huh",
+                    "",
+                    "You know everything that I'm afraid of",
+                    "You do everything I wish I did",
+                    "Everybody wants you",
+                    "Everybody loves you",
+                    "",
+                    "I know,I should tell you how I feel",
+                    "I wish everyone would disappear",
+                    "Every time you call me I'm too scared to be me",
+                    "And I'm too shy to say",
+                    "",
+                    "Ooh I got a crush on you",
+                    "I hope you feel the way that I do",
+                    "I get a rush when I'm with you",
+                    "Ooh, I got a crush on you",
+                    "A crush on you",
+                    "",
+                    "You know, I'm the one that you can talk to",
+                    "Sometimes you tell me things that I don't wanna know",
+                    "I just want to hold you",
+                    "You say exactly how you feel about her",
+                    "I wonder, could you ever think of me that way?",
+                    "",
+                    "I got a crush on you",
+                    "I hope you feel the way that I do",
+                    "I get a rush when I'm with you",
+                    "Ooh, I got a crush on you",
+                    "A crush on you",
+                    "",
+                    "Ooh, I wish I could tell somebody",
+                    "But there's no one to talk to",
+                    "Nobody knows I've got a crush on you",
+                    "A crush on you",
+                    "",
+                    "I got a crush",
+                    "Hey",
+                    "Hey yeah",
+                    "Hey yeah aye",
+                    "I got a crush",
+                    "I got a crush on you",
+                    "",
+                    "You say everything that no one says",
+                    "I feel everything that you're afraid to feel",
+                    "I will always want you",
+                    "I will always love",
+                    "",
+                    "I got a crush on you",
+                    "I hope you feel the way that I do",
+                    "I get a rush when I'm with you",
+                    "Ooh, I got a crush on you",
+                    "A crush on you",
+                    "I got a crush on you",
+                    "I hope you feel the way that I do",
+                    "I get a rush when I'm with you",
+                    "Ooh, I got a crush on you",
+                    "Yeah yeah, aye aye yeah",
+                    "I got a crush I got a crush on you",
+                    "I got a crush",
+                    "I got a crush, baby",
+                    "I got a crush on you",
+                    "Got a crush on you"
+                ],
+                "url": "https://cdn.shazam.com/lyrics/v1/en-US/GB/iphone/musixmatch/subtitles/848343/222/1?token=abc8e69108acb4988cceb47524299a05",
+                "footer": "Writer(s): Kenny Gioia, Michael D Goodman, Michael Goodman\nLyrics powered by www.musixmatch.com",
+                "tabname": "Lyrics",
+                "beacondata": {
+                    "lyricsid": "25401403",
+                    "providername": "musixmatch",
+                    "commontrackid": "848343"
+                }
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/40617615/youtube/video?q=Mandy+Moore+%22Crush%22"
+            },
+            {
+                "type": "RELATED",
+                "url": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-40617615?startFrom=0&pageSize=20&connected=",
+                "tabname": "Related"
+            }
+        ],
+        "url": "https://www.shazam.com/track/40617615/crush",
+        "artists": [
+            {
+                "id": "42",
+                "adamid": "464984"
+            }
+        ],
+        "isrc": "USSM10103039",
+        "genres": {
+            "primary": "Pop"
+        },
+        "urlparams": {
+            "{tracktitle}": "Crush",
+            "{trackartist}": "Mandy+Moore"
+        },
+        "myshazam": {
+            "apple": {
+                "actions": [
+                    {
+                        "name": "myshazam:apple",
+                        "type": "uri",
+                        "uri": "https://music.apple.com/gb/album/crush/288497911?i=288498122&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                ]
+            }
+        },
+        "highlightsurls": {
+            "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/464984/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios&videoIdToFilter=304238493",
+            "trackhighlighturl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/highlights/304238493?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+        },
+        "relatedtracksurl": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-40617615?startFrom=0&pageSize=20&connected=",
+        "albumadamid": "288497911"
+    },
+    "tagid": "03831B09-1AFE-4D3E-843B-B278102F38DC"
+}

@@ -1,0 +1,315 @@
+{
+    "matches": [
+        {
+            "id": "230522514",
+            "offset": 150.19503125,
+            "timeskew": -8.9645386e-05,
+            "frequencyskew": -8.0525875e-05
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691632999533,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "5223103",
+        "title": "If the Papes Come",
+        "subtitle": "A Tribe Called Quest",
+        "images": {
+            "background": "https://is2-ssl.mzstatic.com/image/thumb/Features115/v4/a0/ad/bc/a0adbc34-694d-11c0-7bde-530856def3e0/mzl.mdbitjdo.jpg/800x800cc.jpg",
+            "coverart": "https://is4-ssl.mzstatic.com/image/thumb/Music115/v4/f8/28/e9/f828e985-7724-112e-1658-80f9dea61952/dj.zpkqadnl.jpg/400x400cc.jpg",
+            "coverarthq": "https://is4-ssl.mzstatic.com/image/thumb/Music115/v4/f8/28/e9/f828e985-7724-112e-1658-80f9dea61952/dj.zpkqadnl.jpg/400x400cc.jpg",
+            "joecolor": "b:040006p:fdfffes:b9db87t:cbcbccq:95af6d"
+        },
+        "share": {
+            "subject": "If the Papes Come - A Tribe Called Quest",
+            "text": "If the Papes Come by A Tribe Called Quest",
+            "href": "https://www.shazam.com/track/5223103/if-the-papes-come",
+            "image": "https://is4-ssl.mzstatic.com/image/thumb/Music115/v4/f8/28/e9/f828e985-7724-112e-1658-80f9dea61952/dj.zpkqadnl.jpg/400x400cc.jpg",
+            "twitter": "I used @Shazam to discover If the Papes Come by A Tribe Called Quest.",
+            "html": "https://www.shazam.com/snippets/email-share/5223103?lang=en-US&country=GB",
+            "avatar": "https://is2-ssl.mzstatic.com/image/thumb/Features115/v4/a0/ad/bc/a0adbc34-694d-11c0-7bde-530856def3e0/mzl.mdbitjdo.jpg/800x800cc.jpg",
+            "snapchat": "https://www.shazam.com/partner/sc/track/5223103"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "actions": [
+                {
+                    "name": "apple",
+                    "type": "applemusicplay",
+                    "id": "266768661"
+                },
+                {
+                    "name": "apple",
+                    "type": "uri",
+                    "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/3d/2e/b0/3d2eb096-a496-69b3-b02b-64bfe3dba2d9/mzaf_14077934083218469662.plus.aac.ep.m4a"
+                }
+            ],
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/gb/album/if-the-papes-come/266768420?i=266768661&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/gb/album/if-the-papes-come/266768420?i=266768661&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                },
+                {
+                    "caption": "BUY",
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "uri": "https://itunes.apple.com/gb/album/if-the-papes-come/266768420?i=266768661&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "buy",
+                        "providername": "itunes"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "type": "buy",
+                    "listcaption": "Buy on iTunes",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "itunes"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:If%20the%20Papes%20Come%20A%20Tribe%20Called%20Quest"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27If+the+Papes+Come%27%20artist%3A%27A+Tribe+Called+Quest%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": false,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [
+                    {
+                        "image": "https://is2-ssl.mzstatic.com/image/thumb/Features115/v4/a0/ad/bc/a0adbc34-694d-11c0-7bde-530856def3e0/mzl.mdbitjdo.jpg/800x800cc.jpg",
+                        "caption": "A Tribe Called Quest"
+                    },
+                    {
+                        "image": "https://is4-ssl.mzstatic.com/image/thumb/Music115/v4/f8/28/e9/f828e985-7724-112e-1658-80f9dea61952/dj.zpkqadnl.jpg/400x400cc.jpg",
+                        "caption": "If the Papes Come"
+                    }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                    {
+                        "title": "Album",
+                        "text": "The Anthology"
+                    },
+                    {
+                        "title": "Label",
+                        "text": "Jive"
+                    },
+                    {
+                        "title": "Released",
+                        "text": "1999"
+                    }
+                ]
+            },
+            {
+                "type": "LYRICS",
+                "text": [
+                    "The Lord giveth, and the Lord taketh away",
+                    "But not Hip-Hop yo, ha-ha-ha",
+                    "And let it be known that we are on some um",
+                    "Ehh ahh, uhh, a-chicka-uhh",
+                    "Ehh ahh, uhh, a-chicka-uhh",
+                    "And this ain't on the pop tip yo!",
+                    "Are y'all kids tucked in? (Yeah)",
+                    "Here we go",
+                    "",
+                    "People in the audience, they cry out \"hoe\"",
+                    "People with a gun, yo they'll cry out \"bo!\"",
+                    "I don't like a cop, I don't sell a rock",
+                    "But still the kanga's clock me, after a show",
+                    "Standin' on the stage and we're pourin' with sweat",
+                    "To people in the crowd I give what they get",
+                    "Papers make paid, babies make laid",
+                    "I don't really worry, nor do I fret",
+                    "",
+                    "Waitin' for the gimme and boy I got some",
+                    "Sweat like a peach and tart like a plum",
+                    "I thought what I think, I rock a bead-link",
+                    "Legally, I'll sip when I turn 21",
+                    "A letter to the homeboy that freaked the head dome",
+                    "The army wants me to drop my microphone",
+                    "Gotta be brief, no orders from a chief",
+                    "Hot butter on what, say what, the popcorn",
+                    "",
+                    "On the tour bus, we hit the truck stop",
+                    "A dollar for some chips, a quarter for some pop",
+                    "We laugh and giggle some, Phife kiss the honeybuns",
+                    "Ali Shaheed Muhammad keeps talkin' that shop",
+                    "The brothers cruise on as we Quest, for the check",
+                    "Callin' up Famous to see, if it's there yet",
+                    "Not a bourgeoise, hate the seminar",
+                    "Ignorant flip, hey Miss you must jet",
+                    "",
+                    "Flex for the funkiest, buts start to bounce",
+                    "Measure Hip-Hop for weight, by the ounce",
+                    "Bush on the tush, you're pullin' while I push",
+                    "Play me for the punk then puss, feel the pounce",
+                    "",
+                    "It's like that y'all (keep on)",
+                    "Freak freak y'all (keep on)",
+                    "It's like that y'all (keep on)",
+                    "Freak freak y'all (keep, on)",
+                    "It's like that y'all (keep on)",
+                    "Freak freak y'all (keep on)",
+                    "It's like that y'all (keep on)",
+                    "Freak freak y'all (keep on)",
+                    "",
+                    "If the papes come, yo, yo, I won't riff",
+                    "I just sit down and get me a spliff",
+                    "With mines I was born, a child of the corn",
+                    "Molecules of the land they uplift",
+                    "Levels is straight, in fact they're rectified",
+                    "Adrenaline now is crazy multiplied",
+                    "Four and four is eight, the fraction makes the plate",
+                    "I make sure the Tribe is in",
+                    "",
+                    "With the quickness you bare the witness",
+                    "Flexin' and pumpin' with the fitness",
+                    "Movin' it uhh, doin' it uhh",
+                    "Those who oppose must hit the s-list",
+                    "Doin' it, doin' it with the whole frame",
+                    "Look what's in the mind and not in the brain",
+                    "On this you can quote, we on a diffy note",
+                    "Quest for the future, 'stead of the fame",
+                    "",
+                    "191 brothers grabbin' they thingies",
+                    "Forgot the name, oh, equivalent to Jimmy",
+                    "Slip a little bit, you think I have to quit",
+                    "Ali Shaheed Muhammad, with the singy-singy",
+                    "Slammin' with a slammy you front, on the case",
+                    "Right or left nut, Ali plays the ace",
+                    "Do what you do, flam for a crew",
+                    "Bonita Applebum blows smoke in Sha's face",
+                    "",
+                    "Slang for the? I must, if ya have",
+                    "Dribble hops out giggle, yo proper term is laugh",
+                    "Brothers who are snakes, I label them as fakes",
+                    "Instincts to travel up the hood path, c'mon",
+                    "",
+                    "It's like that y'all (keep on)",
+                    "Freak freak y'all (keep on)",
+                    "It's like that y'all (keep on)",
+                    "It's like that y'all (keep on)",
+                    "It's like that y'all (keep on)",
+                    "Freak freak y'all (keep on)",
+                    "It's like that y'all (keep on)",
+                    "Freak freak y'all (keep on)",
+                    "",
+                    "Thank you",
+                    "As you all know, you just can't believe",
+                    "Everything you see and hear, can you?",
+                    "Now if you'll excuse me",
+                    "I must be on my way"
+                ],
+                "url": "https://cdn.shazam.com/lyrics/v1/en-US/GB/iphone/musixmatch/subtitles/2631733/254/1?token=494657479528b513f589958330c4af4a",
+                "footer": "Writer(s): Nathaniel Hall, Ali Jones-muhammad, Kammaal Fareed\nLyrics powered by www.musixmatch.com",
+                "tabname": "Lyrics",
+                "beacondata": {
+                    "lyricsid": "27692969",
+                    "providername": "musixmatch",
+                    "commontrackid": "2631733"
+                }
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/5223103/youtube/video?q=A+Tribe+Called+Quest+%22If+the+Papes+Come%22"
+            },
+            {
+                "type": "RELATED",
+                "url": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-5223103?startFrom=0&pageSize=20&connected=",
+                "tabname": "Related"
+            }
+        ],
+        "url": "https://www.shazam.com/track/5223103/if-the-papes-come",
+        "artists": [
+            {
+                "id": "42",
+                "adamid": "1587965"
+            }
+        ],
+        "isrc": "USJI19000005",
+        "genres": {
+            "primary": "Hip-Hop/Rap"
+        },
+        "urlparams": {
+            "{tracktitle}": "If+the+Papes+Come",
+            "{trackartist}": "A+Tribe+Called+Quest"
+        },
+        "myshazam": {
+            "apple": {
+                "actions": [
+                    {
+                        "name": "myshazam:apple",
+                        "type": "uri",
+                        "uri": "https://music.apple.com/gb/album/if-the-papes-come/266768420?i=266768661&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                ]
+            }
+        },
+        "highlightsurls": {
+            "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/1587965/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+        },
+        "relatedtracksurl": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-5223103?startFrom=0&pageSize=20&connected=",
+        "albumadamid": "266768420"
+    },
+    "tagid": "10D886ED-9A98-4EB4-BCCD-32BE84A2D488"
+}

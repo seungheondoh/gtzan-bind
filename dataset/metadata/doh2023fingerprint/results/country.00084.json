@@ -1,0 +1,254 @@
+{
+    "matches": [
+        {
+            "id": "285562939",
+            "offset": 30.014148437,
+            "timeskew": 0.00018489361,
+            "frequencyskew": -4.029274e-05
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691633395649,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "483862",
+        "title": "Don't Breathe",
+        "subtitle": "Brad Paisley",
+        "images": {
+            "background": "https://is2-ssl.mzstatic.com/image/thumb/Features125/v4/6f/0c/49/6f0c4983-dfe2-7907-16d8-2e7aaf9fea97/mzl.buakmgap.jpg/800x800cc.jpg",
+            "coverart": "https://is4-ssl.mzstatic.com/image/thumb/Music124/v4/49/b7/8b/49b78b63-52d3-ec7a-e85a-18338c1acf50/888880341167.jpg/400x400cc.jpg",
+            "coverarthq": "https://is4-ssl.mzstatic.com/image/thumb/Music124/v4/49/b7/8b/49b78b63-52d3-ec7a-e85a-18338c1acf50/888880341167.jpg/400x400cc.jpg",
+            "joecolor": "b:231f20p:c5e8fcs:abdcf9t:a4c0d0q:90b6cd"
+        },
+        "share": {
+            "subject": "Don't Breathe - Brad Paisley",
+            "text": "Don't Breathe by Brad Paisley",
+            "href": "https://www.shazam.com/track/483862/dont-breathe",
+            "image": "https://is4-ssl.mzstatic.com/image/thumb/Music124/v4/49/b7/8b/49b78b63-52d3-ec7a-e85a-18338c1acf50/888880341167.jpg/400x400cc.jpg",
+            "twitter": "I used @Shazam to discover Don't Breathe by Brad Paisley.",
+            "html": "https://www.shazam.com/snippets/email-share/483862?lang=en-US&country=GB",
+            "avatar": "https://is2-ssl.mzstatic.com/image/thumb/Features125/v4/6f/0c/49/6f0c4983-dfe2-7907-16d8-2e7aaf9fea97/mzl.buakmgap.jpg/800x800cc.jpg",
+            "snapchat": "https://www.shazam.com/partner/sc/track/483862"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "actions": [
+                {
+                    "name": "apple",
+                    "type": "applemusicplay",
+                    "id": "286726814"
+                },
+                {
+                    "name": "apple",
+                    "type": "uri",
+                    "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/59/c2/db/59c2dbfa-413c-17b6-8403-5b0dbd749e5f/mzaf_10163258647644622263.plus.aac.ep.m4a"
+                }
+            ],
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/gb/album/dont-breathe/286726740?i=286726814&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/gb/album/dont-breathe/286726740?i=286726814&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                },
+                {
+                    "caption": "BUY",
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "uri": "https://itunes.apple.com/gb/album/dont-breathe/286726740?i=286726814&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "buy",
+                        "providername": "itunes"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "type": "buy",
+                    "listcaption": "Buy on iTunes",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "itunes"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:Don%27t%20Breathe%20Brad%20Paisley"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27Don%5C%27t+Breathe%27%20artist%3A%27Brad+Paisley%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": false,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [
+                    {
+                        "image": "https://is2-ssl.mzstatic.com/image/thumb/Features125/v4/6f/0c/49/6f0c4983-dfe2-7907-16d8-2e7aaf9fea97/mzl.buakmgap.jpg/800x800cc.jpg",
+                        "caption": "Brad Paisley"
+                    },
+                    {
+                        "image": "https://is4-ssl.mzstatic.com/image/thumb/Music124/v4/49/b7/8b/49b78b63-52d3-ec7a-e85a-18338c1acf50/888880341167.jpg/400x400cc.jpg",
+                        "caption": "Don't Breathe"
+                    }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                    {
+                        "title": "Album",
+                        "text": "Who Needs Pictures"
+                    },
+                    {
+                        "title": "Label",
+                        "text": "Arista Nashville"
+                    },
+                    {
+                        "title": "Released",
+                        "text": "1999"
+                    }
+                ]
+            },
+            {
+                "type": "LYRICS",
+                "text": [
+                    "Oh yeah, sure, no problem",
+                    "I'll just throw away these feelings",
+                    "Let go of all these hopes",
+                    "And never think of you",
+                    "",
+                    "No offense, but you've lost it",
+                    "If you think I'll just forget you",
+                    "And decide that I don't love you",
+                    "Do you realize what you're tellin' me to do",
+                    "",
+                    "It's like sayin' don't breathe",
+                    "Or don't blink",
+                    "Well, darlin' I don't think you understand",
+                    "See, I can't just turn this off",
+                    "It's like sayin' don't eat",
+                    "And don't sleep",
+                    "Our love's just one of those things",
+                    "That I've gotten used to doin' way too long",
+                    "",
+                    "You don't have to worry",
+                    "I'm not gonna stop you",
+                    "You can pack up all your things",
+                    "And head on out that door",
+                    "",
+                    "But don't stand there and tell me",
+                    "How you think it would be best to leave my feelings in the past",
+                    "And not allow myself to love you anymore",
+                    "",
+                    "It's like sayin' don't breathe",
+                    "Or don't blink",
+                    "Well, darlin' I don't think you understand",
+                    "See, I can't just turn this off",
+                    "It's like sayin' don't eat",
+                    "Or don't sleep",
+                    "Our love's just one of those things",
+                    "That I've gotten used to doin' way too long",
+                    "",
+                    "It's like sayin' don't eat",
+                    "Or don't sleep",
+                    "Our love's just one of those things",
+                    "That I've gotten used to doin' way too long"
+                ],
+                "url": "https://cdn.shazam.com/lyrics/v1/en-US/GB/iphone/musixmatch/subtitles/1272018/172/1?token=19e9ed467781add68d41ac048c9fef0d",
+                "footer": "Writer(s): Brad Paisley\nLyrics powered by www.musixmatch.com",
+                "tabname": "Lyrics",
+                "beacondata": {
+                    "lyricsid": "27556818",
+                    "providername": "musixmatch",
+                    "commontrackid": "1272018"
+                }
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/483862/youtube/video?q=Brad+Paisley+%22Don't+Breathe%22"
+            }
+        ],
+        "url": "https://www.shazam.com/track/483862/dont-breathe",
+        "artists": [
+            {
+                "id": "42",
+                "adamid": "203739"
+            }
+        ],
+        "isrc": "USAN29800052",
+        "genres": {
+            "primary": "Country"
+        },
+        "urlparams": {
+            "{tracktitle}": "Don%27t+Breathe",
+            "{trackartist}": "Brad+Paisley"
+        },
+        "myshazam": {
+            "apple": {
+                "actions": [
+                    {
+                        "name": "myshazam:apple",
+                        "type": "uri",
+                        "uri": "https://music.apple.com/gb/album/dont-breathe/286726740?i=286726814&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                ]
+            }
+        },
+        "highlightsurls": {
+            "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/203739/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+        },
+        "albumadamid": "286726740"
+    },
+    "tagid": "7D842688-9E2B-4633-B7BD-67F132D62910"
+}

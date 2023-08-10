@@ -1,0 +1,311 @@
+{
+    "matches": [
+        {
+            "id": "466582596",
+            "offset": 29.933861328,
+            "timeskew": 0.00017285347,
+            "frequencyskew": -0.00020134449
+        },
+        {
+            "id": "376990762",
+            "offset": 30.873265625,
+            "timeskew": 0.0008301735,
+            "frequencyskew": 0.00048339367
+        },
+        {
+            "id": "287138240",
+            "offset": 29.899380859,
+            "timeskew": 0.0002874136,
+            "frequencyskew": -8.0525875e-05
+        },
+        {
+            "id": "266087499",
+            "offset": 29.890261718,
+            "timeskew": -0.0003247857,
+            "frequencyskew": -0.00068444014
+        },
+        {
+            "id": "215170268",
+            "offset": 30.257634765,
+            "timeskew": 0.00073480606,
+            "frequencyskew": 0.00036251545
+        },
+        {
+            "id": "345524398",
+            "offset": 13.784425781,
+            "timeskew": 0.003061533,
+            "frequencyskew": 0.0025808811
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691632513280,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "303871",
+        "title": "Hot Stuff",
+        "subtitle": "Donna Summer",
+        "images": {
+            "background": "https://is1-ssl.mzstatic.com/image/thumb/Features125/v4/0d/73/d8/0d73d872-4ab8-b500-8197-57125c1c1c7c/mzl.cmfjmvmc.jpg/800x800cc.jpg",
+            "coverart": "https://is5-ssl.mzstatic.com/image/thumb/Music116/v4/66/a7/b0/66a7b03a-c02c-73c2-c7f2-f2afdf05a8dc/06UMGIM04498.rgb.jpg/400x400cc.jpg",
+            "coverarthq": "https://is5-ssl.mzstatic.com/image/thumb/Music116/v4/66/a7/b0/66a7b03a-c02c-73c2-c7f2-f2afdf05a8dc/06UMGIM04498.rgb.jpg/400x400cc.jpg",
+            "joecolor": "b:254d7ep:fcfffds:c4c2d9t:d0dbe3q:a4abc7"
+        },
+        "share": {
+            "subject": "Hot Stuff - Donna Summer",
+            "text": "Hot Stuff by Donna Summer",
+            "href": "https://www.shazam.com/track/303871/hot-stuff",
+            "image": "https://is5-ssl.mzstatic.com/image/thumb/Music116/v4/66/a7/b0/66a7b03a-c02c-73c2-c7f2-f2afdf05a8dc/06UMGIM04498.rgb.jpg/400x400cc.jpg",
+            "twitter": "I used @Shazam to discover Hot Stuff by Donna Summer.",
+            "html": "https://www.shazam.com/snippets/email-share/303871?lang=en-US&country=GB",
+            "avatar": "https://is1-ssl.mzstatic.com/image/thumb/Features125/v4/0d/73/d8/0d73d872-4ab8-b500-8197-57125c1c1c7c/mzl.cmfjmvmc.jpg/800x800cc.jpg",
+            "snapchat": "https://www.shazam.com/partner/sc/track/303871"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "actions": [
+                {
+                    "name": "apple",
+                    "type": "applemusicplay",
+                    "id": "1425179373"
+                },
+                {
+                    "name": "apple",
+                    "type": "uri",
+                    "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/7b/70/2f/7b702fb4-a583-3a07-041c-22b775702243/mzaf_14664722293063133344.plus.aac.ep.m4a"
+                }
+            ],
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/gb/album/hot-stuff/1425179100?i=1425179373&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/gb/album/hot-stuff/1425179100?i=1425179373&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                },
+                {
+                    "caption": "BUY",
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "uri": "https://itunes.apple.com/gb/album/hot-stuff/1425179100?i=1425179373&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "buy",
+                        "providername": "itunes"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "type": "buy",
+                    "listcaption": "Buy on iTunes",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "itunes"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:Hot%20Stuff%20Donna%20Summer"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27Hot+Stuff%27%20artist%3A%27Donna+Summer%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": false,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [
+                    {
+                        "image": "https://is1-ssl.mzstatic.com/image/thumb/Features125/v4/0d/73/d8/0d73d872-4ab8-b500-8197-57125c1c1c7c/mzl.cmfjmvmc.jpg/800x800cc.jpg",
+                        "caption": "Donna Summer"
+                    },
+                    {
+                        "image": "https://is5-ssl.mzstatic.com/image/thumb/Music116/v4/66/a7/b0/66a7b03a-c02c-73c2-c7f2-f2afdf05a8dc/06UMGIM04498.rgb.jpg/400x400cc.jpg",
+                        "caption": "Hot Stuff"
+                    }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                    {
+                        "title": "Album",
+                        "text": "Bad Girls"
+                    },
+                    {
+                        "title": "Label",
+                        "text": "Island Def Jam"
+                    },
+                    {
+                        "title": "Released",
+                        "text": "1979"
+                    }
+                ]
+            },
+            {
+                "type": "LYRICS",
+                "text": [
+                    "Sittin' here eatin' my heart out waitin'",
+                    "Waitin' for some lover to call",
+                    "Dialed about a thousand numbers lately",
+                    "Almost rang the phone off the wall",
+                    "",
+                    "Lookin' for some hot stuff baby this evenin'",
+                    "I need some hot stuff baby tonight",
+                    "I want some hot stuff baby this evenin'",
+                    "Gotta have some hot stuff",
+                    "Gotta have some love tonight (hot stuff)",
+                    "I need hot stuff",
+                    "I want some hot stuff",
+                    "I need hot stuff",
+                    "",
+                    "Lookin' for a lover who needs another",
+                    "Don't want another night on my own",
+                    "Wanna share my love with a warm blooded lover",
+                    "Wanna bring a wild man back home",
+                    "",
+                    "Gotta have some hot love baby this evenin'",
+                    "I need some hot stuff baby tonight",
+                    "I want some hot stuff baby this evenin'",
+                    "Gotta have some lovin'",
+                    "Gotta have love tonight (hot stuff)",
+                    "I need hot stuff",
+                    "Hot love",
+                    "Looking for hot love",
+                    "",
+                    "Hot, hot, hot, hot stuff",
+                    "Hot, hot, hot",
+                    "Hot, hot, hot, hot stuff",
+                    "Hot, hot, hot",
+                    "",
+                    "How's about some hot stuff baby this evenin'",
+                    "I need some hot stuff baby tonight",
+                    "Gimme a little hot stuff baby this evenin'",
+                    "Hot stuff baby",
+                    "Gonna need your love tonight (hot stuff)",
+                    "I need hot love",
+                    "Lookin' hot stuff",
+                    "Wanna have hot love",
+                    "",
+                    "Sittin' here eatin' my heart out, no reason",
+                    "Won't spend another night on my own",
+                    "I dialed about a hundred numbers lately",
+                    "I'm bound to find somebody home",
+                    "",
+                    "Gonna have some hot stuff baby this evenin'",
+                    "I need some hot stuff baby tonight",
+                    "Lookin for my hot stuff baby this evenin'",
+                    "Need some lovin' baby",
+                    "Gonna need your love tonight",
+                    "",
+                    "Hot stuff baby this evenin'",
+                    "I need some hot stuff baby tonight",
+                    "I want some hot stuff baby this evenin'",
+                    "I want some hot stuff baby tonight, yeah",
+                    "Hot stuff baby",
+                    "I need your hot stuff baby tonight",
+                    "I want your hot stuff baby this evenin'",
+                    "Hot stuff baby",
+                    "Gonna need your love tonight"
+                ],
+                "url": "https://cdn.shazam.com/lyrics/v1/en-US/GB/iphone/musixmatch/subtitles/118164/230/1?token=9add3b871cca54fb8a4d35f1eceb67ba",
+                "footer": "Writer(s): Keith Richards, Mick Jagger\nLyrics powered by www.musixmatch.com",
+                "tabname": "Lyrics",
+                "beacondata": {
+                    "lyricsid": "19485497",
+                    "providername": "musixmatch",
+                    "commontrackid": "118164"
+                }
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/303871/youtube/video?q=Donna+Summer+%22Hot+Stuff%22"
+            },
+            {
+                "type": "RELATED",
+                "url": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-303871?startFrom=0&pageSize=20&connected=",
+                "tabname": "Related"
+            }
+        ],
+        "url": "https://www.shazam.com/track/303871/hot-stuff",
+        "artists": [
+            {
+                "id": "42",
+                "adamid": "49155"
+            }
+        ],
+        "isrc": "USPR37907202",
+        "genres": {
+            "primary": "Disco"
+        },
+        "urlparams": {
+            "{tracktitle}": "Hot+Stuff",
+            "{trackartist}": "Donna+Summer"
+        },
+        "myshazam": {
+            "apple": {
+                "actions": [
+                    {
+                        "name": "myshazam:apple",
+                        "type": "uri",
+                        "uri": "https://music.apple.com/gb/album/hot-stuff/1425179100?i=1425179373&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                ]
+            }
+        },
+        "highlightsurls": {
+            "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/49155/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+        },
+        "relatedtracksurl": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-303871?startFrom=0&pageSize=20&connected=",
+        "albumadamid": "1425179100"
+    },
+    "tagid": "E848318D-4E08-47E8-9449-33ED104571B9"
+}

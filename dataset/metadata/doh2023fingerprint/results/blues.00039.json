@@ -1,0 +1,200 @@
+{
+    "matches": [
+        {
+            "id": "668123522",
+            "offset": 184.894359375,
+            "timeskew": 0.015770555,
+            "frequencyskew": -0.00080513954
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691632642969,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "668123522",
+        "title": "Deep Delight",
+        "subtitle": "Tobi Kreis",
+        "images": {
+            "background": "https://is5-ssl.mzstatic.com/image/thumb/AMCArtistImages116/v4/4d/ae/c0/4daec0ca-d2ca-a9c3-f0ab-4ee510bd54bb/265385b2-65e6-4a18-a51e-ecf312062074_ami-identity-d22bbdf19bfee03094b154065c9250ac-2023-07-07T05-16-21.290Z_cropped.png/800x800cc.jpg",
+            "coverart": "https://is3-ssl.mzstatic.com/image/thumb/Music126/v4/5f/f2/f0/5ff2f061-35ba-ddf6-ebbb-31f2199efd55/198025371530.jpg/400x400cc.jpg",
+            "coverarthq": "https://is3-ssl.mzstatic.com/image/thumb/Music126/v4/5f/f2/f0/5ff2f061-35ba-ddf6-ebbb-31f2199efd55/198025371530.jpg/400x400cc.jpg",
+            "joecolor": "b:000000p:fffefas:ebe8fdt:cbcbc7q:bcbaca"
+        },
+        "share": {
+            "subject": "Deep Delight - Tobi Kreis",
+            "text": "Deep Delight by Tobi Kreis",
+            "href": "https://www.shazam.com/track/668123522/deep-delight",
+            "image": "https://is3-ssl.mzstatic.com/image/thumb/Music126/v4/5f/f2/f0/5ff2f061-35ba-ddf6-ebbb-31f2199efd55/198025371530.jpg/400x400cc.jpg",
+            "twitter": "I used @Shazam to discover Deep Delight by Tobi Kreis.",
+            "html": "https://www.shazam.com/snippets/email-share/668123522?lang=en-US&country=GB",
+            "avatar": "https://is5-ssl.mzstatic.com/image/thumb/AMCArtistImages116/v4/4d/ae/c0/4daec0ca-d2ca-a9c3-f0ab-4ee510bd54bb/265385b2-65e6-4a18-a51e-ecf312062074_ami-identity-d22bbdf19bfee03094b154065c9250ac-2023-07-07T05-16-21.290Z_cropped.png/800x800cc.jpg",
+            "snapchat": "https://www.shazam.com/partner/sc/track/668123522"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "actions": [
+                {
+                    "name": "apple",
+                    "type": "applemusicplay",
+                    "id": "1690437354"
+                },
+                {
+                    "name": "apple",
+                    "type": "uri",
+                    "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/a9/74/b2/a974b23b-adfd-86ae-a176-49936b22e815/mzaf_6809846363091238983.plus.aac.ep.m4a"
+                }
+            ],
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/gb/album/deep-delight/1690437353?i=1690437354&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/gb/album/deep-delight/1690437353?i=1690437354&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                },
+                {
+                    "caption": "BUY",
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "uri": "https://itunes.apple.com/gb/album/deep-delight/1690437353?i=1690437354&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "buy",
+                        "providername": "itunes"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "type": "buy",
+                    "listcaption": "Buy on iTunes",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "itunes"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:Deep%20Delight%20Tobi%20Kreis"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27Deep+Delight%27%20artist%3A%27Tobi+Kreis%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": false,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [
+                    {
+                        "image": "https://is5-ssl.mzstatic.com/image/thumb/AMCArtistImages116/v4/4d/ae/c0/4daec0ca-d2ca-a9c3-f0ab-4ee510bd54bb/265385b2-65e6-4a18-a51e-ecf312062074_ami-identity-d22bbdf19bfee03094b154065c9250ac-2023-07-07T05-16-21.290Z_cropped.png/800x800cc.jpg",
+                        "caption": "Tobi Kreis"
+                    },
+                    {
+                        "image": "https://is3-ssl.mzstatic.com/image/thumb/Music126/v4/5f/f2/f0/5ff2f061-35ba-ddf6-ebbb-31f2199efd55/198025371530.jpg/400x400cc.jpg",
+                        "caption": "Deep Delight"
+                    }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                    {
+                        "title": "Album",
+                        "text": "Experimentals"
+                    },
+                    {
+                        "title": "Label",
+                        "text": "Tobi Kreis"
+                    },
+                    {
+                        "title": "Released",
+                        "text": "2023"
+                    }
+                ]
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/668123522/youtube/video?q=Tobi+Kreis+%22Deep+Delight%22"
+            }
+        ],
+        "url": "https://www.shazam.com/track/668123522/deep-delight",
+        "artists": [
+            {
+                "id": "42",
+                "adamid": "1690435503"
+            }
+        ],
+        "isrc": "USHM22388455",
+        "genres": {
+            "primary": "Electronic"
+        },
+        "urlparams": {
+            "{tracktitle}": "Deep+Delight",
+            "{trackartist}": "Tobi+Kreis"
+        },
+        "myshazam": {
+            "apple": {
+                "actions": [
+                    {
+                        "name": "myshazam:apple",
+                        "type": "uri",
+                        "uri": "https://music.apple.com/gb/album/deep-delight/1690437353?i=1690437354&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                ]
+            }
+        },
+        "highlightsurls": {
+            "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/1690435503/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+        },
+        "albumadamid": "1690437353"
+    },
+    "tagid": "FC685E28-EAAB-412D-BDBF-552B5EC3A418"
+}

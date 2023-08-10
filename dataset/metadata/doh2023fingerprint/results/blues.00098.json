@@ -1,0 +1,236 @@
+{
+    "matches": [
+        {
+            "id": "232620891",
+            "offset": 53.776078125,
+            "timeskew": 0.00015103817,
+            "frequencyskew": 0.0
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691632621084,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "10024480",
+        "title": "Iceman",
+        "subtitle": "Albert Collins",
+        "images": {
+            "background": "https://is4-ssl.mzstatic.com/image/thumb/Features125/v4/ae/86/b3/ae86b3a2-6e15-8997-9786-c50db67f431e/mzl.uuewudzl.jpg/800x800cc.jpg",
+            "coverart": "https://is2-ssl.mzstatic.com/image/thumb/Music/v4/d2/30/b9/d230b9ac-3de7-6206-a39c-47a4ef48c88e/00724383919451.jpg/400x400cc.jpg",
+            "coverarthq": "https://is2-ssl.mzstatic.com/image/thumb/Music/v4/d2/30/b9/d230b9ac-3de7-6206-a39c-47a4ef48c88e/00724383919451.jpg/400x400cc.jpg",
+            "joecolor": "b:f9f8fdp:080910s:0e1117t:38393fq:3d3f45"
+        },
+        "share": {
+            "subject": "Iceman - Albert Collins",
+            "text": "Iceman by Albert Collins",
+            "href": "https://www.shazam.com/track/10024480/iceman",
+            "image": "https://is2-ssl.mzstatic.com/image/thumb/Music/v4/d2/30/b9/d230b9ac-3de7-6206-a39c-47a4ef48c88e/00724383919451.jpg/400x400cc.jpg",
+            "twitter": "I used @Shazam to discover Iceman by Albert Collins.",
+            "html": "https://www.shazam.com/snippets/email-share/10024480?lang=en-US&country=GB",
+            "avatar": "https://is4-ssl.mzstatic.com/image/thumb/Features125/v4/ae/86/b3/ae86b3a2-6e15-8997-9786-c50db67f431e/mzl.uuewudzl.jpg/800x800cc.jpg",
+            "snapchat": "https://www.shazam.com/partner/sc/track/10024480"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "actions": [
+                {
+                    "name": "apple",
+                    "type": "applemusicplay",
+                    "id": "723376151"
+                },
+                {
+                    "name": "apple",
+                    "type": "uri",
+                    "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/6a/48/37/6a48378a-5e9e-219b-b896-e54e3dc0ffe6/mzaf_8678587428367595733.plus.aac.ep.m4a"
+                }
+            ],
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/gb/album/iceman/723375974?i=723376151&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/gb/album/iceman/723375974?i=723376151&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                },
+                {
+                    "caption": "BUY",
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "uri": "https://itunes.apple.com/gb/album/iceman/723375974?i=723376151&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "buy",
+                        "providername": "itunes"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "type": "buy",
+                    "listcaption": "Buy on iTunes",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "itunes"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:Iceman%20Albert%20Collins"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27Iceman%27%20artist%3A%27Albert+Collins%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": false,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [
+                    {
+                        "image": "https://is4-ssl.mzstatic.com/image/thumb/Features125/v4/ae/86/b3/ae86b3a2-6e15-8997-9786-c50db67f431e/mzl.uuewudzl.jpg/800x800cc.jpg",
+                        "caption": "Albert Collins"
+                    },
+                    {
+                        "image": "https://is2-ssl.mzstatic.com/image/thumb/Music/v4/d2/30/b9/d230b9ac-3de7-6206-a39c-47a4ef48c88e/00724383919451.jpg/400x400cc.jpg",
+                        "caption": "Iceman"
+                    }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                    {
+                        "title": "Album",
+                        "text": "Albert Collins"
+                    },
+                    {
+                        "title": "Label",
+                        "text": "Virgin Records"
+                    },
+                    {
+                        "title": "Released",
+                        "text": "1991"
+                    }
+                ]
+            },
+            {
+                "type": "LYRICS",
+                "text": [
+                    "I'm your iceman, baby, ain't here to cool you down",
+                    "Yes I'm your iceman, ladies, you'll always know when I'm around",
+                    "I left Leona, Texas, to heat this coolest place in town",
+                    "",
+                    "Gonna play this old guitar, mix up some fire with my ice",
+                    "Yes, I'm gonna play this old guitar, light your fire with my ice",
+                    "Sometimes it sounds so good to me, I just might play it twice",
+                    "",
+                    "I'm your iceman, baby, call me Al, if you please",
+                    "",
+                    "I'm your iceman, baby, I'm so hot I'll probably freeze",
+                    "I'm gonna whip up a twister, turn tornados to a breeze",
+                    "",
+                    "Yes, I'm your iceman, baby",
+                    "",
+                    "Yes, I'm your iceman, people, fixin' fire with my ice",
+                    "I'm your iceman, ladies, I make it hot an' chill it right",
+                    "If you follow my instructions, my ice will last all night"
+                ],
+                "footer": "Writer(s): G. Collins, E. Smith\nLyrics powered by www.musixmatch.com",
+                "tabname": "Lyrics",
+                "beacondata": {
+                    "lyricsid": "9253360",
+                    "providername": "musixmatch",
+                    "commontrackid": "21550397"
+                }
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/10024480/youtube/video?q=Albert+Collins+%22Iceman%22"
+            },
+            {
+                "type": "RELATED",
+                "url": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-10024480?startFrom=0&pageSize=20&connected=",
+                "tabname": "Related"
+            }
+        ],
+        "url": "https://www.shazam.com/track/10024480/iceman",
+        "artists": [
+            {
+                "id": "42",
+                "adamid": "59339"
+            }
+        ],
+        "isrc": "GBAAA9100505",
+        "genres": {
+            "primary": "Blues"
+        },
+        "urlparams": {
+            "{tracktitle}": "Iceman",
+            "{trackartist}": "Albert+Collins"
+        },
+        "myshazam": {
+            "apple": {
+                "actions": [
+                    {
+                        "name": "myshazam:apple",
+                        "type": "uri",
+                        "uri": "https://music.apple.com/gb/album/iceman/723375974?i=723376151&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                ]
+            }
+        },
+        "highlightsurls": {
+            "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/59339/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+        },
+        "relatedtracksurl": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-10024480?startFrom=0&pageSize=20&connected=",
+        "albumadamid": "723375974"
+    },
+    "tagid": "B43D9BF4-E115-445B-8F6F-741D2672BBB2"
+}

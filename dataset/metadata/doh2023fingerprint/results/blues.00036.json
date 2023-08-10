@@ -1,0 +1,231 @@
+{
+    "matches": [
+        {
+            "id": "277755398",
+            "offset": 29.99975,
+            "timeskew": 4.6610832e-05,
+            "frequencyskew": 0.0
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691632598334,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "544072",
+        "title": "Train Carried My Girl from Town",
+        "subtitle": "Kelly Joe Phelps",
+        "images": {
+            "background": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/9b/05/ea/9b05ea19-6dde-14fc-ad10-09b5f2e4e692/mzi.mxxcjhap.jpg/400x400cc.jpg",
+            "coverart": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/9b/05/ea/9b05ea19-6dde-14fc-ad10-09b5f2e4e692/mzi.mxxcjhap.jpg/400x400cc.jpg",
+            "coverarthq": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/9b/05/ea/9b05ea19-6dde-14fc-ad10-09b5f2e4e692/mzi.mxxcjhap.jpg/400x400cc.jpg",
+            "joecolor": "b:9cbad4p:0b1e31s:11283ft:283d52q:2d455d"
+        },
+        "share": {
+            "subject": "Train Carried My Girl from Town - Kelly Joe Phelps",
+            "text": "Train Carried My Girl from Town by Kelly Joe Phelps",
+            "href": "https://www.shazam.com/track/544072/train-carried-my-girl-from-town",
+            "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/9b/05/ea/9b05ea19-6dde-14fc-ad10-09b5f2e4e692/mzi.mxxcjhap.jpg/400x400cc.jpg",
+            "twitter": "I used @Shazam to discover Train Carried My Girl from Town by Kelly Joe Phelps.",
+            "html": "https://www.shazam.com/snippets/email-share/544072?lang=en-US&country=GB",
+            "snapchat": "https://www.shazam.com/partner/sc/track/544072"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "actions": [
+                {
+                    "name": "apple",
+                    "type": "applemusicplay",
+                    "id": "162488417"
+                },
+                {
+                    "name": "apple",
+                    "type": "uri",
+                    "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/7b/41/18/7b4118cf-3e6e-ec5a-ad1f-1ed6b22781ec/mzaf_17168000306368405509.plus.aac.ep.m4a"
+                }
+            ],
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/gb/album/train-carried-my-girl-from-town/162488101?i=162488417&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/gb/album/train-carried-my-girl-from-town/162488101?i=162488417&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                },
+                {
+                    "caption": "BUY",
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "uri": "https://itunes.apple.com/gb/album/train-carried-my-girl-from-town/162488101?i=162488417&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "buy",
+                        "providername": "itunes"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "type": "buy",
+                    "listcaption": "Buy on iTunes",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "itunes"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:Train%20Carried%20My%20Girl%20from%20Town%20Kelly%20Joe%20Phelps"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27Train+Carried+My+Girl+from+Town%27%20artist%3A%27Kelly+Joe+Phelps%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": false,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [
+                    {
+                        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/9b/05/ea/9b05ea19-6dde-14fc-ad10-09b5f2e4e692/mzi.mxxcjhap.jpg/400x400cc.jpg",
+                        "caption": "Train Carried My Girl from Town"
+                    }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                    {
+                        "title": "Album",
+                        "text": "Shine Eyed Mister Zen"
+                    },
+                    {
+                        "title": "Label",
+                        "text": "Ryko/Rhino"
+                    },
+                    {
+                        "title": "Released",
+                        "text": "2000"
+                    }
+                ]
+            },
+            {
+                "type": "LYRICS",
+                "text": [
+                    "Where were you when the train left town",
+                    "I was standing on the corner, my head hanging down",
+                    "I be crying hey, train carried my girl away",
+                    "I be crying hey, that train carried my girl away from town",
+                    "",
+                    "Ashes to ashes and dust to dust",
+                    "Show me the woman that I can trust",
+                    "I be crying hey, train carried my girl away",
+                    "I be crying hey, that train carried my girl away from town",
+                    "",
+                    "I wish to the lord that train would wreck",
+                    "Kill the engineer and break that fireman's neck",
+                    "I wish to the lord that train would turn around",
+                    "Bring my girl back to this here town",
+                    "I be crying hey, train carried my girl away",
+                    "I be crying hey, that train carried my girl away from town",
+                    "",
+                    "Smoke-cloud rising, heading for the west",
+                    "There goes the baby that I love the best",
+                    "Smoke-cloud falling down from the sky",
+                    "Oh my girl won't you tell me why",
+                    "Train carried my girl away from town",
+                    "",
+                    "Where were you when the train left town?"
+                ],
+                "footer": "Writer(s): Kelly Joe Phelps\nLyrics powered by www.musixmatch.com",
+                "tabname": "Lyrics",
+                "beacondata": {
+                    "lyricsid": "595305",
+                    "providername": "musixmatch",
+                    "commontrackid": "1100445"
+                }
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/544072/youtube/video?q=Kelly+Joe+Phelps+%22Train+Carried+My+Girl+from+Town%22"
+            }
+        ],
+        "url": "https://www.shazam.com/track/544072/train-carried-my-girl-from-town",
+        "artists": [
+            {
+                "id": "42",
+                "adamid": "19032758"
+            }
+        ],
+        "isrc": "USRY20412450",
+        "genres": {
+            "primary": "Blues"
+        },
+        "urlparams": {
+            "{tracktitle}": "Train+Carried+My+Girl+from+Town",
+            "{trackartist}": "Kelly+Joe+Phelps"
+        },
+        "myshazam": {
+            "apple": {
+                "actions": [
+                    {
+                        "name": "myshazam:apple",
+                        "type": "uri",
+                        "uri": "https://music.apple.com/gb/album/train-carried-my-girl-from-town/162488101?i=162488417&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                ]
+            }
+        },
+        "highlightsurls": {
+            "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/19032758/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+        },
+        "albumadamid": "162488101"
+    },
+    "tagid": "6FA1D5AE-472C-46B4-8218-C0866769EBFB"
+}

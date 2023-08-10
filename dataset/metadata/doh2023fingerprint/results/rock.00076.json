@@ -1,0 +1,255 @@
+{
+    "matches": [
+        {
+            "id": "211902458",
+            "offset": 29.852494139999997,
+            "timeskew": -3.272295e-05,
+            "frequencyskew": -0.00028187037
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691633559706,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "219249",
+        "title": "For Your Babies",
+        "subtitle": "Simply Red",
+        "images": {
+            "background": "https://is4-ssl.mzstatic.com/image/thumb/Features115/v4/71/6d/4e/716d4eeb-3258-1d8d-2b81-80286d7991cc/pr_source.png/800x800cc.jpg",
+            "coverart": "https://is2-ssl.mzstatic.com/image/thumb/Music114/v4/b1/e2/b1/b1e2b124-7112-b069-b566-a6e482db833f/mzi.jaqbenfs.jpg/400x400cc.jpg",
+            "coverarthq": "https://is2-ssl.mzstatic.com/image/thumb/Music114/v4/b1/e2/b1/b1e2b124-7112-b069-b566-a6e482db833f/mzi.jaqbenfs.jpg/400x400cc.jpg",
+            "joecolor": "b:081643p:e3cb7as:eca44bt:b7a76fq:be8749"
+        },
+        "share": {
+            "subject": "For Your Babies - Simply Red",
+            "text": "For Your Babies by Simply Red",
+            "href": "https://www.shazam.com/track/219249/for-your-babies",
+            "image": "https://is2-ssl.mzstatic.com/image/thumb/Music114/v4/b1/e2/b1/b1e2b124-7112-b069-b566-a6e482db833f/mzi.jaqbenfs.jpg/400x400cc.jpg",
+            "twitter": "I used @Shazam to discover For Your Babies by Simply Red.",
+            "html": "https://www.shazam.com/snippets/email-share/219249?lang=en-US&country=GB",
+            "avatar": "https://is4-ssl.mzstatic.com/image/thumb/Features115/v4/71/6d/4e/716d4eeb-3258-1d8d-2b81-80286d7991cc/pr_source.png/800x800cc.jpg",
+            "snapchat": "https://www.shazam.com/partner/sc/track/219249"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "actions": [
+                {
+                    "name": "apple",
+                    "type": "applemusicplay",
+                    "id": "294361447"
+                },
+                {
+                    "name": "apple",
+                    "type": "uri",
+                    "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/a8/b9/68/a8b96823-898b-e34c-d328-69e53bb98408/mzaf_14756702040917406894.plus.aac.ep.m4a"
+                }
+            ],
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/gb/album/for-your-babies/294361368?i=294361447&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/gb/album/for-your-babies/294361368?i=294361447&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                },
+                {
+                    "caption": "BUY",
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "uri": "https://itunes.apple.com/gb/album/for-your-babies/294361368?i=294361447&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "buy",
+                        "providername": "itunes"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "type": "buy",
+                    "listcaption": "Buy on iTunes",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "itunes"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:For%20Your%20Babies%20Simply%20Red"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27For+Your+Babies%27%20artist%3A%27Simply+Red%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": false,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [
+                    {
+                        "image": "https://is4-ssl.mzstatic.com/image/thumb/Features115/v4/71/6d/4e/716d4eeb-3258-1d8d-2b81-80286d7991cc/pr_source.png/800x800cc.jpg",
+                        "caption": "Simply Red"
+                    },
+                    {
+                        "image": "https://is2-ssl.mzstatic.com/image/thumb/Music114/v4/b1/e2/b1/b1e2b124-7112-b069-b566-a6e482db833f/mzi.jaqbenfs.jpg/400x400cc.jpg",
+                        "caption": "For Your Babies"
+                    }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                    {
+                        "title": "Album",
+                        "text": "Stars"
+                    },
+                    {
+                        "title": "Label",
+                        "text": "Rhino/Elektra"
+                    },
+                    {
+                        "title": "Released",
+                        "text": "1991"
+                    }
+                ]
+            },
+            {
+                "type": "LYRICS",
+                "text": [
+                    "You've got that look again",
+                    "The one I hoped I had when I was a lad",
+                    "Your face is just beaming",
+                    "Your smile got me boasting, my pulse roller-coastering",
+                    "Anyway, the four winds that blow",
+                    "They're gonna send me sailing home to you",
+                    "Or I'll fly with the force of a rainbow",
+                    "The dream of gold will be waiting in your eyes",
+                    "",
+                    "You know I'd do most anything you want",
+                    "Hey I, I try to give you everything you need",
+                    "I can see that it gets to you",
+                    "I don't believe in many things, but in you I do",
+                    "",
+                    "Her faith is amazing",
+                    "The pain that she goes through contained in the hope for you",
+                    "Your whole world has changed",
+                    "The years spent before seem more cloudy than blue",
+                    "In many ways your baby's controlling",
+                    "When you haven't laid down for days",
+                    "For the poor, no time to be thinking",
+                    "They're too busy finding ways",
+                    "",
+                    "And I, you know I'd do most anything you want",
+                    "Hey I, I try to give you everything you need",
+                    "I'll see that it gets to you",
+                    "I don't believe in many things, but in you I do",
+                    "",
+                    "Hey I, you know I'd do most anything you want",
+                    "Everyday I, I try to give you everything you need",
+                    "We'll always be there for you",
+                    "I don't believe in many things, but in you",
+                    "I don't believe in many things, but in you",
+                    "",
+                    "I don't believe in many things, but in you I do"
+                ],
+                "url": "https://cdn.shazam.com/lyrics/v1/en-US/GB/iphone/musixmatch/subtitles/120237/257/1?token=f8f6af8f3af228681b6ba88ba07ebac6",
+                "footer": "Writer(s): Mick Hucknall\nLyrics powered by www.musixmatch.com",
+                "tabname": "Lyrics",
+                "beacondata": {
+                    "lyricsid": "30487696",
+                    "providername": "musixmatch",
+                    "commontrackid": "120237"
+                }
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/219249/youtube/video?q=Simply+Red+%22For+Your+Babies%22"
+            },
+            {
+                "type": "RELATED",
+                "url": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-219249?startFrom=0&pageSize=20&connected=",
+                "tabname": "Related"
+            }
+        ],
+        "url": "https://www.shazam.com/track/219249/for-your-babies",
+        "artists": [
+            {
+                "id": "42",
+                "adamid": "163002"
+            }
+        ],
+        "isrc": "GBAHS0700621",
+        "genres": {
+            "primary": "Pop"
+        },
+        "urlparams": {
+            "{tracktitle}": "For+Your+Babies",
+            "{trackartist}": "Simply+Red"
+        },
+        "myshazam": {
+            "apple": {
+                "actions": [
+                    {
+                        "name": "myshazam:apple",
+                        "type": "uri",
+                        "uri": "https://music.apple.com/gb/album/for-your-babies/294361368?i=294361447&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                ]
+            }
+        },
+        "highlightsurls": {
+            "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/163002/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios&videoIdToFilter=270933807",
+            "trackhighlighturl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/highlights/270933807?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+        },
+        "relatedtracksurl": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-219249?startFrom=0&pageSize=20&connected=",
+        "albumadamid": "294361368"
+    },
+    "tagid": "4A06A715-D445-4822-9422-238DB9126AC2"
+}

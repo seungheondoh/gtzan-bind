@@ -1,0 +1,340 @@
+{
+    "matches": [
+        {
+            "id": "202503278",
+            "offset": -0.025646539,
+            "timeskew": 9.179115e-05,
+            "frequencyskew": -4.029274e-05
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691632966305,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "261216",
+        "title": "Anything Can Happen",
+        "subtitle": "Wyclef Jean",
+        "images": {
+            "background": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/8f/d1/8a/8fd18a9e-7943-d6df-978d-9123b18727a1/pr_source.png/800x800cc.jpg",
+            "coverart": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/14/a1/ef/14a1ef17-dcb8-ad9e-4400-069ac306725f/mzi.oaijgwgx.jpg/400x400cc.jpg",
+            "coverarthq": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/14/a1/ef/14a1ef17-dcb8-ad9e-4400-069ac306725f/mzi.oaijgwgx.jpg/400x400cc.jpg",
+            "joecolor": "b:91a8d1p:0f1729s:152434t:29344bq:2e3e53"
+        },
+        "share": {
+            "subject": "Anything Can Happen - Wyclef Jean",
+            "text": "Anything Can Happen by Wyclef Jean",
+            "href": "https://www.shazam.com/track/261216/anything-can-happen",
+            "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/14/a1/ef/14a1ef17-dcb8-ad9e-4400-069ac306725f/mzi.oaijgwgx.jpg/400x400cc.jpg",
+            "twitter": "I used @Shazam to discover Anything Can Happen by Wyclef Jean.",
+            "html": "https://www.shazam.com/snippets/email-share/261216?lang=en-US&country=GB",
+            "avatar": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/8f/d1/8a/8fd18a9e-7943-d6df-978d-9123b18727a1/pr_source.png/800x800cc.jpg",
+            "snapchat": "https://www.shazam.com/partner/sc/track/261216"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "actions": [
+                {
+                    "name": "apple",
+                    "type": "applemusicplay",
+                    "id": "267126322"
+                },
+                {
+                    "name": "apple",
+                    "type": "uri",
+                    "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/23/cc/c5/23ccc505-187e-73e9-fe88-cb9f5bfcedff/mzaf_8946740887703902089.plus.aac.ep.m4a"
+                }
+            ],
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/gb/album/anything-can-happen/267126158?i=267126322&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/gb/album/anything-can-happen/267126158?i=267126322&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                },
+                {
+                    "caption": "BUY",
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "uri": "https://itunes.apple.com/gb/album/anything-can-happen/267126158?i=267126322&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "buy",
+                        "providername": "itunes"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "type": "buy",
+                    "listcaption": "Buy on iTunes",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "itunes"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:Anything%20Can%20Happen%20Wyclef%20Jean"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27Anything+Can+Happen%27%20artist%3A%27Wyclef+Jean%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": false,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [
+                    {
+                        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/8f/d1/8a/8fd18a9e-7943-d6df-978d-9123b18727a1/pr_source.png/800x800cc.jpg",
+                        "caption": "Wyclef Jean"
+                    },
+                    {
+                        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/14/a1/ef/14a1ef17-dcb8-ad9e-4400-069ac306725f/mzi.oaijgwgx.jpg/400x400cc.jpg",
+                        "caption": "Anything Can Happen"
+                    }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                    {
+                        "title": "Album",
+                        "text": "Wyclef Jean presents The Carnival featuring Refugee Allstars"
+                    },
+                    {
+                        "title": "Label",
+                        "text": "Ruffhouse/Columbia"
+                    },
+                    {
+                        "title": "Released",
+                        "text": "1997"
+                    }
+                ]
+            },
+            {
+                "type": "LYRICS",
+                "text": [
+                    "I got the skully to my face (hardcore)",
+                    "",
+                    "I got the skully to my face (hardcore)",
+                    "Cause anything can happen at the Carnival",
+                    "(Yo make room, make room, make room, make room, make room)",
+                    "You can't stop the shining",
+                    "Yo, don't slip Mike",
+                    "You don't want to go there is all, trust me",
+                    "I know your girl wit you, but you don't want to get embarassed",
+                    "Trust me",
+                    "",
+                    "Yo, when you're rolling to the Carnival, anything can happen",
+                    "",
+                    "What, what, say what, say what, anything can happen",
+                    "Making love to your girlfriend, anything can happen",
+                    "What? Say what, say what, anything can happen",
+                    "She's sleepin wit your best friend cause anything can happen",
+                    "Wh-a-at? Say what, say what, anything can happen",
+                    "You roll down the block, come back with your gat",
+                    "And POW, cause anything can happen",
+                    "",
+                    "Feel this composition, it's a brand new dub",
+                    "",
+                    "First thing I did, was went to the pub",
+                    "Tequila with worm, lemon, salt, and no rocks",
+                    "'Cause when it hits my chest, it gots to be hot",
+                    "Uh haha, stop, 'Clef can I rock, yo",
+                    "Get out the bathroom, let me go again from the top",
+                    "Feel this composition, I wrote it in the tub",
+                    "First thing I did, was went to the pub",
+                    "Tequila with worm, lemon, salt, and no rocks",
+                    "'Cause when it hits my chest, it gots to be hot",
+                    "Ahhh, stop, 'Clef can I rock",
+                    "I'd like to give a shout out to my people on the block",
+                    "For you Silly Willy playin thug cartoon",
+                    "My infrared scope got your movements on zoom",
+                    "Boom new toon, write songs in my room",
+                    "Sleeping with the bride, even though I ain't the groom",
+                    "Your husband assume, come back with his goons",
+                    "Put me in the trunk on your way to your honeymoon",
+                    "Radio my platoon, Wyclef to Sev'",
+                    "'I hear 'em playing Elvis, they on they way to Graceland",
+                    "But they don't scare me, I'm in the trunk, I ain't sorry",
+                    "Natural born killer, who slept with the enemy'",
+                    "Think quick, what should I do, what did double-oh-seven do?",
+                    "I pulled a bomb from my shoe (hahahahaha)",
+                    "And exploded the trunk (blaooww) I woke up half drunk",
+                    "Over looked by a bunch of gypsies wit a bag of skunk",
+                    "",
+                    "You got the skully to your face, star, anything can happen",
+                    "",
+                    "What, what, say what, say what, anything can happen",
+                    "Sellin' crack in the corner, man, anything can happen",
+                    "What? Say what, say what anything can happen",
+                    "I just got laid off, anything can happen",
+                    "What, what, say what, say what, anything can happen",
+                    "You don't wanna go there, 'cause anything can happen",
+                    "What, what, say what, say what, anything can happen",
+                    "",
+                    "Aiyyo, anything can happen, you can't stop the shining",
+                    "",
+                    "You lookin at my watch, but my mind's really the diamond",
+                    "Nine to the Seven, you better off steppin",
+                    "When I'm writin with my pen, it turns into a lethal weapon (Ding!)",
+                    "Take this lesson, to your next session",
+                    "I suggest, you practice with the freshman",
+                    "Sophomore, junior, then come check the senior",
+                    "By then I would have graduated from the school of ruckus",
+                    "Wyclef and Jerry Wonder, last of the producers",
+                    "If the royalty ain't right, I put a call to Donny Eina",
+                    "But always stay humble went from bummy to neat",
+                    "Cause money break groups up like the Five Heartbeats",
+                    "Don't get souped cause you, pushin a Coupe",
+                    "Next year you on foot, runnin' from a lawsuit",
+                    "For example, I know I'm nice, I don't front it",
+                    "Least anticipated, to the most wanted",
+                    "Yeah, that's me in the spotlight",
+                    "With a mic and a guitar, like M.O.P., I like it raw",
+                    "",
+                    "Yo, when you're rollin to the Carnival, anything can happen",
+                    "",
+                    "What, what, say what, say what, anything can happen",
+                    "Every man got disciples, anything can happen",
+                    "What, what, say what, say what, anything can happen",
+                    "It's all about survival man, anything can happen",
+                    "Hah, say what, say what, anything can happen",
+                    "You lookin' at me wrong, man, anything can happen",
+                    "What, what, say what, say what, anything can happen",
+                    "",
+                    "Will the Knicks win the championship this year?",
+                    "Say what, say what, anything can happen",
+                    "Will we find some peace of mind this year?",
+                    "Say what, say what, anything can happen",
+                    "You ready for the revolution this year?",
+                    "Say what, say what, anything can happen",
+                    "Will you make love with no condom this year?",
+                    "No no, no no, that will never happen",
+                    "",
+                    "The record is not over yet",
+                    "The record is not over yet",
+                    "The record is not over yet",
+                    "",
+                    "Where the ladies at?",
+                    "Put yo' hands in the air!",
+                    "",
+                    "And for the ladies, we won't play you",
+                    "If you proud, shake what yo mama gave you, hey!",
+                    "Whether your fat or slim, bubble your ting",
+                    "Fellas if you need help, use ginseng",
+                    "And for the ladies, we won't play you",
+                    "If you fat, shake what yo mama gave you, hey!",
+                    "Whether your fat or slim, bubble your ting",
+                    "ReFugee thugs hang at the roller rink",
+                    "",
+                    "Roller skatin' baby",
+                    "Carnival (Make room, for the Carnival, make room)",
+                    "And it don't, nine-seven to infinity",
+                    "Rest in Peace, Rest in Peace",
+                    "And the record is not over yet, the record is not over yet",
+                    "It is not, the record"
+                ],
+                "url": "https://cdn.shazam.com/lyrics/v1/en-US/GB/iphone/musixmatch/subtitles/148574/276/1?token=ee59805e14d255601ed89f234f33c0be",
+                "footer": "Writer(s): Wyclef Jean, Jerry Duplessis\nLyrics powered by www.musixmatch.com",
+                "tabname": "Lyrics",
+                "beacondata": {
+                    "lyricsid": "20041106",
+                    "providername": "musixmatch",
+                    "commontrackid": "148574"
+                }
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/261216/youtube/video?q=Wyclef+Jean+%22Anything+Can+Happen%22"
+            },
+            {
+                "type": "RELATED",
+                "url": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-261216?startFrom=0&pageSize=20&connected=",
+                "tabname": "Related"
+            }
+        ],
+        "url": "https://www.shazam.com/track/261216/anything-can-happen",
+        "artists": [
+            {
+                "id": "42",
+                "adamid": "14154"
+            }
+        ],
+        "isrc": "USSM19700806",
+        "genres": {
+            "primary": "R&B/Soul"
+        },
+        "urlparams": {
+            "{tracktitle}": "Anything+Can+Happen",
+            "{trackartist}": "Wyclef+Jean"
+        },
+        "myshazam": {
+            "apple": {
+                "actions": [
+                    {
+                        "name": "myshazam:apple",
+                        "type": "uri",
+                        "uri": "https://music.apple.com/gb/album/anything-can-happen/267126158?i=267126322&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                ]
+            }
+        },
+        "highlightsurls": {
+            "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/14154/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios&videoIdToFilter=304240402",
+            "trackhighlighturl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/highlights/304240402?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+        },
+        "relatedtracksurl": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-261216?startFrom=0&pageSize=20&connected=",
+        "albumadamid": "267126158"
+    },
+    "tagid": "92DEA7F2-DCBE-43F3-9EFE-1695941FD0DF"
+}

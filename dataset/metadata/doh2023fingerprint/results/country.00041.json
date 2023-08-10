@@ -1,0 +1,261 @@
+{
+    "matches": [
+        {
+            "id": "216233683",
+            "offset": 30.071183593,
+            "timeskew": 0.00066041946,
+            "frequencyskew": 0.00048339367
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691633406978,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "5660637",
+        "title": "Goin' By The Book",
+        "subtitle": "Johnny Cash",
+        "images": {
+            "background": "https://is4-ssl.mzstatic.com/image/thumb/Features125/v4/68/3e/2c/683e2c84-09ed-8560-ad4e-22abb0169ef0/mza_3652240986336266148.png/800x800cc.jpg",
+            "coverart": "https://is4-ssl.mzstatic.com/image/thumb/Music113/v4/10/51/39/1051393e-9a95-1110-208d-ef6d7793ab55/06UMGIM17873.rgb.jpg/400x400cc.jpg",
+            "coverarthq": "https://is4-ssl.mzstatic.com/image/thumb/Music113/v4/10/51/39/1051393e-9a95-1110-208d-ef6d7793ab55/06UMGIM17873.rgb.jpg/400x400cc.jpg",
+            "joecolor": "b:075a78p:ffffffs:f6b83ct:cddde3q:c6a548"
+        },
+        "share": {
+            "subject": "Goin' By The Book - Johnny Cash",
+            "text": "Goin' By The Book by Johnny Cash",
+            "href": "https://www.shazam.com/track/5660637/goin-by-the-book",
+            "image": "https://is4-ssl.mzstatic.com/image/thumb/Music113/v4/10/51/39/1051393e-9a95-1110-208d-ef6d7793ab55/06UMGIM17873.rgb.jpg/400x400cc.jpg",
+            "twitter": "I used @Shazam to discover Goin' By The Book by Johnny Cash.",
+            "html": "https://www.shazam.com/snippets/email-share/5660637?lang=en-US&country=GB",
+            "avatar": "https://is4-ssl.mzstatic.com/image/thumb/Features125/v4/68/3e/2c/683e2c84-09ed-8560-ad4e-22abb0169ef0/mza_3652240986336266148.png/800x800cc.jpg",
+            "snapchat": "https://www.shazam.com/partner/sc/track/5660637"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "actions": [
+                {
+                    "name": "apple",
+                    "type": "applemusicplay",
+                    "id": "1518145908"
+                },
+                {
+                    "name": "apple",
+                    "type": "uri",
+                    "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/e0/97/2e/e0972ef6-6e1a-f838-aeeb-d3dc64fb87bc/mzaf_7223079202568639292.plus.aac.ep.m4a"
+                }
+            ],
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/gb/album/goin-by-the-book/1518145900?i=1518145908&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/gb/album/goin-by-the-book/1518145900?i=1518145908&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                },
+                {
+                    "caption": "BUY",
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "uri": "https://itunes.apple.com/gb/album/goin-by-the-book/1518145900?i=1518145908&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "buy",
+                        "providername": "itunes"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "type": "buy",
+                    "listcaption": "Buy on iTunes",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "itunes"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:Goin%27%20By%20The%20Book%20Johnny%20Cash"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27Goin%5C%27+By+The+Book%27%20artist%3A%27Johnny+Cash%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": false,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [
+                    {
+                        "image": "https://is4-ssl.mzstatic.com/image/thumb/Features125/v4/68/3e/2c/683e2c84-09ed-8560-ad4e-22abb0169ef0/mza_3652240986336266148.png/800x800cc.jpg",
+                        "caption": "Johnny Cash"
+                    },
+                    {
+                        "image": "https://is4-ssl.mzstatic.com/image/thumb/Music113/v4/10/51/39/1051393e-9a95-1110-208d-ef6d7793ab55/06UMGIM17873.rgb.jpg/400x400cc.jpg",
+                        "caption": "Goin' By The Book"
+                    }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                    {
+                        "title": "Album",
+                        "text": "The Mystery of Life"
+                    },
+                    {
+                        "title": "Label",
+                        "text": "Mercury Nashville"
+                    },
+                    {
+                        "title": "Released",
+                        "text": "1991"
+                    }
+                ]
+            },
+            {
+                "type": "LYRICS",
+                "text": [
+                    "You can see it in the movies and the paper and the TV news",
+                    "Somebody's army is always on the move",
+                    "There's gonna be a battle the lines have been drawn",
+                    "They've got guns and tanks and planes",
+                    "",
+                    "The wells are gone dry and the water is bad and the air is acid rain",
+                    "There's war after war and rumors of war from the East",
+                    "There's a rumblin' in the ground and they're talkin' about the beast",
+                    "",
+                    "Good mothers cry cause the rivers run high",
+                    "With the blood of too many sons",
+                    "Some people say peace is on the way",
+                    "But the worst is still to come",
+                    "",
+                    "'Cause the prophets wrote about it",
+                    "And Jesus spoke about it",
+                    "And John got to take a look",
+                    "And he told us what he saw when it's easy to see",
+                    "It's goin' by the book",
+                    "It's goin' by the book",
+                    "",
+                    "There's armies in the cities and the missiles stand ready for flight",
+                    "A pale horse rides like the wind across the night",
+                    "And that rumblin' in the desert like thunder gettin' closer",
+                    "And the trumpet's gettin' ready to blow",
+                    "There's gonna be a shout that will wake the dead we better be ready to go",
+                    "",
+                    "'Cause the prophets wrote about it",
+                    "And Jesus spoke about it",
+                    "And John got to take a look",
+                    "And he told us what he saw when it's easy to see",
+                    "It's goin' by the book",
+                    "It's goin' by the book",
+                    "",
+                    "It's goin' by the book",
+                    "It's goin' by the book",
+                    "It's goin' by the book",
+                    "It's goin' by the book",
+                    "It's goin' by the book",
+                    "It's goin' by the book",
+                    "It's goin' by the book"
+                ],
+                "url": "https://cdn.shazam.com/lyrics/v1/en-US/GB/iphone/musixmatch/subtitles/90541/198/1?token=9d813db66f9948189f36f0e29e22f434",
+                "footer": "Writer(s): Chester Lester\nLyrics powered by www.musixmatch.com",
+                "tabname": "Lyrics",
+                "beacondata": {
+                    "lyricsid": "24650432",
+                    "providername": "musixmatch",
+                    "commontrackid": "90541"
+                }
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/5660637/youtube/video?q=Johnny+Cash+%22Goin'+By+The+Book%22"
+            },
+            {
+                "type": "RELATED",
+                "url": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-5660637?startFrom=0&pageSize=20&connected=",
+                "tabname": "Related"
+            }
+        ],
+        "url": "https://www.shazam.com/track/5660637/goin-by-the-book",
+        "artists": [
+            {
+                "id": "42",
+                "adamid": "70936"
+            }
+        ],
+        "isrc": "USPR39401977",
+        "genres": {
+            "primary": "Country"
+        },
+        "urlparams": {
+            "{tracktitle}": "Goin%27+By+The+Book",
+            "{trackartist}": "Johnny+Cash"
+        },
+        "myshazam": {
+            "apple": {
+                "actions": [
+                    {
+                        "name": "myshazam:apple",
+                        "type": "uri",
+                        "uri": "https://music.apple.com/gb/album/goin-by-the-book/1518145900?i=1518145908&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                ]
+            }
+        },
+        "highlightsurls": {
+            "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/70936/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios&videoIdToFilter=1445850582",
+            "trackhighlighturl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/highlights/1445850582?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+        },
+        "relatedtracksurl": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-5660637?startFrom=0&pageSize=20&connected=",
+        "albumadamid": "1518145900"
+    },
+    "tagid": "62EEEC52-2E03-469C-962E-1B91E7956D36"
+}

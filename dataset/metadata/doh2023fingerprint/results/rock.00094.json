@@ -1,0 +1,126 @@
+{
+    "matches": [
+        {
+            "id": "457571991",
+            "offset": 98.335820312,
+            "timeskew": -0.00049608946,
+            "frequencyskew": 0.0038737059
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691633566220,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "457571991",
+        "title": "Memory Lane (Ib Music Ibiza)",
+        "subtitle": "Keppra & Stackhash",
+        "share": {
+            "subject": "Memory Lane (Ib Music Ibiza) - Keppra & Stackhash",
+            "text": "Memory Lane (Ib Music Ibiza) by Keppra & Stackhash",
+            "href": "https://www.shazam.com/track/457571991/memory-lane-ib-music-ibiza",
+            "twitter": "I used @Shazam to discover Memory Lane (Ib Music Ibiza) by Keppra & Stackhash.",
+            "html": "https://www.shazam.com/snippets/email-share/457571991?lang=en-US&country=GB",
+            "snapchat": "https://www.shazam.com/partner/sc/track/457571991"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:subscribe",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/subscribe?mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:subscribe",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/subscribe?mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:Memory%20Lane%20%28Ib%20Music%20Ibiza%29%20Keppra%20%20Stackhash"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27Memory+Lane+%28Ib+Music+Ibiza%29%27%20artist%3A%27Keppra++Stackhash%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": false,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [],
+                "tabname": "Song",
+                "metadata": [
+                    {
+                        "title": "Title",
+                        "text": "Memory Lane (Ib Music Ibiza)"
+                    }
+                ]
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/457571991/youtube/video?q=Keppra+%26+Stackhash+%22Memory+Lane+(Ib+Music+Ibiza)%22"
+            },
+            {
+                "type": "RELATED",
+                "url": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-457571991?startFrom=0&pageSize=20&connected=",
+                "tabname": "Related"
+            }
+        ],
+        "url": "https://www.shazam.com/track/457571991/memory-lane-ib-music-ibiza",
+        "urlparams": {
+            "{tracktitle}": "Memory+Lane+%28Ib+Music+Ibiza%29",
+            "{trackartist}": "Keppra+%26+Stackhash"
+        },
+        "highlightsurls": {},
+        "relatedtracksurl": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-457571991?startFrom=0&pageSize=20&connected="
+    },
+    "tagid": "967BF667-2490-4276-BEFB-CD6F45E7AB66"
+}

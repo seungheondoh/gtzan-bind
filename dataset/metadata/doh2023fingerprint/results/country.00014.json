@@ -1,0 +1,195 @@
+{
+    "matches": [
+        {
+            "id": "538390049",
+            "offset": 30.018705078,
+            "timeskew": -3.9100647e-05,
+            "frequencyskew": -8.0525875e-05
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691633390757,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "56014488",
+        "title": "Silver Threads and Golden Needles",
+        "subtitle": "Nina Martinique",
+        "images": {
+            "background": "https://is1-ssl.mzstatic.com/image/thumb/Music/55/51/00/mzi.ahpkyhxe.jpg/400x400cc.jpg",
+            "coverart": "https://is1-ssl.mzstatic.com/image/thumb/Music/55/51/00/mzi.ahpkyhxe.jpg/400x400cc.jpg",
+            "coverarthq": "https://is1-ssl.mzstatic.com/image/thumb/Music/55/51/00/mzi.ahpkyhxe.jpg/400x400cc.jpg",
+            "joecolor": "b:000000p:ffffffs:e9caddt:cbcbcbq:bba1b1"
+        },
+        "share": {
+            "subject": "Silver Threads and Golden Needles - Nina Martinique",
+            "text": "Silver Threads and Golden Needles by Nina Martinique",
+            "href": "https://www.shazam.com/track/56014488/silver-threads-and-golden-needles",
+            "image": "https://is1-ssl.mzstatic.com/image/thumb/Music/55/51/00/mzi.ahpkyhxe.jpg/400x400cc.jpg",
+            "twitter": "I used @Shazam to discover Silver Threads and Golden Needles by Nina Martinique.",
+            "html": "https://www.shazam.com/snippets/email-share/56014488?lang=en-US&country=GB",
+            "snapchat": "https://www.shazam.com/partner/sc/track/56014488"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "actions": [
+                {
+                    "name": "apple",
+                    "type": "applemusicplay",
+                    "id": "98812271"
+                },
+                {
+                    "name": "apple",
+                    "type": "uri",
+                    "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/Music/v4/0d/5f/43/0d5f436b-30e1-1cec-3ca1-bf8043b93b4a/mzaf_6455916240709949618.plus.aac.ep.m4a"
+                }
+            ],
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/gb/album/silver-threads-and-golden-needles/98812784?i=98812271&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/gb/album/silver-threads-and-golden-needles/98812784?i=98812271&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                },
+                {
+                    "caption": "BUY",
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "uri": "https://itunes.apple.com/gb/album/silver-threads-and-golden-needles/98812784?i=98812271&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "buy",
+                        "providername": "itunes"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "type": "buy",
+                    "listcaption": "Buy on iTunes",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "itunes"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:Silver%20Threads%20and%20Golden%20Needles%20Nina%20Martinique"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27Silver+Threads+and+Golden+Needles%27%20artist%3A%27Nina+Martinique%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": false,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [
+                    {
+                        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music/55/51/00/mzi.ahpkyhxe.jpg/400x400cc.jpg",
+                        "caption": "Silver Threads and Golden Needles"
+                    }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                    {
+                        "title": "Album",
+                        "text": "Dance Masters: Sailing"
+                    },
+                    {
+                        "title": "Label",
+                        "text": "Carinco AG"
+                    },
+                    {
+                        "title": "Released",
+                        "text": "2005"
+                    }
+                ]
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/56014488/youtube/video?q=Nina+Martinique+%22Silver+Threads+and+Golden+Needles%22"
+            }
+        ],
+        "url": "https://www.shazam.com/track/56014488/silver-threads-and-golden-needles",
+        "artists": [
+            {
+                "id": "42",
+                "adamid": "98811806"
+            }
+        ],
+        "isrc": "USBKY0510394",
+        "genres": {
+            "primary": "Dance"
+        },
+        "urlparams": {
+            "{tracktitle}": "Silver+Threads+and+Golden+Needles",
+            "{trackartist}": "Nina+Martinique"
+        },
+        "myshazam": {
+            "apple": {
+                "actions": [
+                    {
+                        "name": "myshazam:apple",
+                        "type": "uri",
+                        "uri": "https://music.apple.com/gb/album/silver-threads-and-golden-needles/98812784?i=98812271&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                ]
+            }
+        },
+        "highlightsurls": {
+            "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/98811806/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+        },
+        "albumadamid": "98812784"
+    },
+    "tagid": "DA4E0971-FF1F-4DC3-8196-B7746EB32EF3"
+}

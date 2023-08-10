@@ -1,0 +1,273 @@
+{
+    "matches": [
+        {
+            "id": "436198145",
+            "offset": 29.982753906000003,
+            "timeskew": -0.00037139654,
+            "frequencyskew": -0.000523448
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691633728834,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "361042",
+        "title": "Caught In the Middle",
+        "subtitle": "Dio",
+        "images": {
+            "background": "https://is2-ssl.mzstatic.com/image/thumb/Features115/v4/c8/75/23/c8752392-769a-edb8-503e-7c373243ae4d/mza_4430060434230415683.png/800x800cc.jpg",
+            "coverart": "https://is2-ssl.mzstatic.com/image/thumb/Music128/v4/82/7a/5f/827a5f77-9c5b-9eec-0ae7-b1c7971a48d7/00602498309940.rgb.jpg/400x400cc.jpg",
+            "coverarthq": "https://is2-ssl.mzstatic.com/image/thumb/Music128/v4/82/7a/5f/827a5f77-9c5b-9eec-0ae7-b1c7971a48d7/00602498309940.rgb.jpg/400x400cc.jpg",
+            "joecolor": "b:151a16p:efe7d8s:efe3e7t:c3beb1q:c3bbbd"
+        },
+        "share": {
+            "subject": "Caught In the Middle - Dio",
+            "text": "Caught In the Middle by Dio",
+            "href": "https://www.shazam.com/track/361042/caught-in-the-middle",
+            "image": "https://is2-ssl.mzstatic.com/image/thumb/Music128/v4/82/7a/5f/827a5f77-9c5b-9eec-0ae7-b1c7971a48d7/00602498309940.rgb.jpg/400x400cc.jpg",
+            "twitter": "I used @Shazam to discover Caught In the Middle by Dio.",
+            "html": "https://www.shazam.com/snippets/email-share/361042?lang=en-US&country=GB",
+            "avatar": "https://is2-ssl.mzstatic.com/image/thumb/Features115/v4/c8/75/23/c8752392-769a-edb8-503e-7c373243ae4d/mza_4430060434230415683.png/800x800cc.jpg",
+            "snapchat": "https://www.shazam.com/partner/sc/track/361042"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "actions": [
+                {
+                    "name": "apple",
+                    "type": "applemusicplay",
+                    "id": "1440757613"
+                },
+                {
+                    "name": "apple",
+                    "type": "uri",
+                    "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/04/bf/27/04bf277c-f8f4-2512-584a-51e6430f5abb/mzaf_12858543141278437114.plus.aac.ep.m4a"
+                }
+            ],
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/gb/album/caught-in-the-middle/1440757603?i=1440757613&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/gb/album/caught-in-the-middle/1440757603?i=1440757613&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                },
+                {
+                    "caption": "BUY",
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "uri": "https://itunes.apple.com/gb/album/caught-in-the-middle/1440757603?i=1440757613&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "buy",
+                        "providername": "itunes"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "type": "buy",
+                    "listcaption": "Buy on iTunes",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "itunes"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:Caught%20In%20the%20Middle%20Dio"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27Caught+In+the+Middle%27%20artist%3A%27Dio%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": false,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [
+                    {
+                        "image": "https://is2-ssl.mzstatic.com/image/thumb/Features115/v4/c8/75/23/c8752392-769a-edb8-503e-7c373243ae4d/mza_4430060434230415683.png/800x800cc.jpg",
+                        "caption": "Dio"
+                    },
+                    {
+                        "image": "https://is2-ssl.mzstatic.com/image/thumb/Music128/v4/82/7a/5f/827a5f77-9c5b-9eec-0ae7-b1c7971a48d7/00602498309940.rgb.jpg/400x400cc.jpg",
+                        "caption": "Caught In the Middle"
+                    }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                    {
+                        "title": "Album",
+                        "text": "Holy Diver (Remastered)"
+                    },
+                    {
+                        "title": "Label",
+                        "text": "UMC (Universal Music Catalogue)"
+                    },
+                    {
+                        "title": "Released",
+                        "text": "1983"
+                    }
+                ]
+            },
+            {
+                "type": "LYRICS",
+                "text": [
+                    "Looking inside of yourself",
+                    "You might see someone you don't know",
+                    "Maybe it's just what you need",
+                    "Letting the river in you flow",
+                    "",
+                    "You can sail away to the sun",
+                    "And let it burn you while you can",
+                    "Or walk a long bloody road",
+                    "Like the hero who never ran",
+                    "",
+                    "You'll feel it",
+                    "You'll feel it",
+                    "You'll feel the rush of it all",
+                    "",
+                    "Flying away in the clouds",
+                    "You know you're losing your control",
+                    "And finding you way in the dark",
+                    "Like some poor forgotten soul",
+                    "",
+                    "You'll feel it",
+                    "You'll see it",
+                    "You'll feel the rush of the city lights",
+                    "You'll feel it",
+                    "I see it in your eyes, you're",
+                    "",
+                    "Caught in the middle",
+                    "Just like the way you've always been",
+                    "Caught in the middle",
+                    "Helpless again",
+                    "",
+                    "Looking inside of yourself",
+                    "You might see someone you don't know, know",
+                    "Maybe it's just what you need",
+                    "Letting the river I know that's in you flow",
+                    "",
+                    "You can feel it",
+                    "You can see it",
+                    "You know the rush of thunder",
+                    "You'll feel it",
+                    "I see it in your eyes, you're",
+                    "",
+                    "Caught in the middle",
+                    "Just like the way you've always been",
+                    "Caught in the middle",
+                    "Helpless again",
+                    "",
+                    "Like the rush of the thunder",
+                    "That brings you under",
+                    "There's some kind of spark",
+                    "You're caught right there in the middle",
+                    "You're caught in the middle",
+                    "Caught in the middle again",
+                    "Oh my love hey yeah",
+                    "You've been a caught in the middle"
+                ],
+                "url": "https://cdn.shazam.com/lyrics/v1/en-US/GB/iphone/musixmatch/subtitles/214330/253/1?token=17a446c33e4eeffea9eeee7ec5be8c12",
+                "footer": "Writer(s): Vivian Patrick Campbell, Ronnie James Dio, Vincent Appice\nLyrics powered by www.musixmatch.com",
+                "tabname": "Lyrics",
+                "beacondata": {
+                    "lyricsid": "16305936",
+                    "providername": "musixmatch",
+                    "commontrackid": "214330"
+                }
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/361042/youtube/video?q=Dio+%22Caught+In+the+Middle%22"
+            },
+            {
+                "type": "RELATED",
+                "url": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-361042?startFrom=0&pageSize=20&connected=",
+                "tabname": "Related"
+            }
+        ],
+        "url": "https://www.shazam.com/track/361042/caught-in-the-middle",
+        "artists": [
+            {
+                "id": "42",
+                "adamid": "2779392"
+            }
+        ],
+        "isrc": "NLF050590030",
+        "genres": {
+            "primary": "Metal"
+        },
+        "urlparams": {
+            "{tracktitle}": "Caught+In+the+Middle",
+            "{trackartist}": "Dio"
+        },
+        "myshazam": {
+            "apple": {
+                "actions": [
+                    {
+                        "name": "myshazam:apple",
+                        "type": "uri",
+                        "uri": "https://music.apple.com/gb/album/caught-in-the-middle/1440757603?i=1440757613&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                ]
+            }
+        },
+        "highlightsurls": {
+            "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/2779392/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+        },
+        "relatedtracksurl": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-361042?startFrom=0&pageSize=20&connected=",
+        "albumadamid": "1440757603"
+    },
+    "tagid": "6EB5A6FC-6A2F-4666-AA75-4391EF087515"
+}

@@ -1,0 +1,258 @@
+{
+    "matches": [
+        {
+            "id": "200258191",
+            "offset": 32.731105468,
+            "timeskew": 0.00014698505,
+            "frequencyskew": 0.0
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691632438121,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "2899831",
+        "title": "Never Can Say Goodbye",
+        "subtitle": "Gloria Gaynor",
+        "images": {
+            "background": "https://is4-ssl.mzstatic.com/image/thumb/Features125/v4/06/6d/b7/066db7b1-bf0a-e032-61f9-fd607a0b0d76/mzl.jruxuhnc.jpg/800x800cc.jpg",
+            "coverart": "https://is4-ssl.mzstatic.com/image/thumb/Music123/v4/0e/08/59/0e085991-5dc9-53a2-40a9-849de577c488/19UMGIM66481.rgb.jpg/400x400cc.jpg",
+            "coverarthq": "https://is4-ssl.mzstatic.com/image/thumb/Music123/v4/0e/08/59/0e085991-5dc9-53a2-40a9-849de577c488/19UMGIM66481.rgb.jpg/400x400cc.jpg",
+            "joecolor": "b:362e21p:f79d8cs:f29e70t:d08776q:cd8860"
+        },
+        "share": {
+            "subject": "Never Can Say Goodbye - Gloria Gaynor",
+            "text": "Never Can Say Goodbye by Gloria Gaynor",
+            "href": "https://www.shazam.com/track/2899831/never-can-say-goodbye",
+            "image": "https://is4-ssl.mzstatic.com/image/thumb/Music123/v4/0e/08/59/0e085991-5dc9-53a2-40a9-849de577c488/19UMGIM66481.rgb.jpg/400x400cc.jpg",
+            "twitter": "I used @Shazam to discover Never Can Say Goodbye by Gloria Gaynor.",
+            "html": "https://www.shazam.com/snippets/email-share/2899831?lang=en-US&country=GB",
+            "avatar": "https://is4-ssl.mzstatic.com/image/thumb/Features125/v4/06/6d/b7/066db7b1-bf0a-e032-61f9-fd607a0b0d76/mzl.jruxuhnc.jpg/800x800cc.jpg",
+            "snapchat": "https://www.shazam.com/partner/sc/track/2899831"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "actions": [
+                {
+                    "name": "apple",
+                    "type": "applemusicplay",
+                    "id": "1474995263"
+                },
+                {
+                    "name": "apple",
+                    "type": "uri",
+                    "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/81/5b/7e/815b7eaa-2fa8-89d2-4eac-0dcb41a6eee7/mzaf_11250320730499543418.plus.aac.ep.m4a"
+                }
+            ],
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/gb/album/never-can-say-goodbye/1474995257?i=1474995263&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/gb/album/never-can-say-goodbye/1474995257?i=1474995263&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                },
+                {
+                    "caption": "BUY",
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "uri": "https://itunes.apple.com/gb/album/never-can-say-goodbye/1474995257?i=1474995263&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "buy",
+                        "providername": "itunes"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "type": "buy",
+                    "listcaption": "Buy on iTunes",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "itunes"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:Never%20Can%20Say%20Goodbye%20Gloria%20Gaynor"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27Never+Can+Say+Goodbye%27%20artist%3A%27Gloria+Gaynor%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": false,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [
+                    {
+                        "image": "https://is4-ssl.mzstatic.com/image/thumb/Features125/v4/06/6d/b7/066db7b1-bf0a-e032-61f9-fd607a0b0d76/mzl.jruxuhnc.jpg/800x800cc.jpg",
+                        "caption": "Gloria Gaynor"
+                    },
+                    {
+                        "image": "https://is4-ssl.mzstatic.com/image/thumb/Music123/v4/0e/08/59/0e085991-5dc9-53a2-40a9-849de577c488/19UMGIM66481.rgb.jpg/400x400cc.jpg",
+                        "caption": "Never Can Say Goodbye"
+                    }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                    {
+                        "title": "Album",
+                        "text": "Never Can Say Goodbye"
+                    },
+                    {
+                        "title": "Label",
+                        "text": "Polydor"
+                    },
+                    {
+                        "title": "Released",
+                        "text": "1975"
+                    }
+                ]
+            },
+            {
+                "type": "LYRICS",
+                "text": [
+                    "I never can say goodbye",
+                    "No, no, no I, I never can say goodbye",
+                    "Every time I think I've had enough",
+                    "And start heading for the door",
+                    "There's a very strange vibration",
+                    "Kissing me right to the core",
+                    "It says turn around you fool,",
+                    "You know you love him more",
+                    "And more",
+                    "Tell me why is it so?",
+                    "Don't wanna let you go",
+                    "",
+                    "I never can say goodbye boy",
+                    "Ooh ooh baby I never can say goodbye",
+                    "No no no no no no",
+                    "Ooh hey I never can say goodbye, boy",
+                    "Ooh ooh baby",
+                    "I never can say goodbye (No, no, no, hey)",
+                    "Hey",
+                    "",
+                    "I never can say goodbye",
+                    "No, no, no I, I never can say goodbye",
+                    "I keep thinking that our problems",
+                    "Soon are all gonna work out",
+                    "But there's that same unhappy feeling,",
+                    "There's that anguish, there's that doubt",
+                    "It's that same old dizzy hangup",
+                    "I cant do with you or without",
+                    "Tell me why, is it so? I don't wanna let you go",
+                    "",
+                    "I never can say goodbye boy, ooh baby",
+                    "I never can say goodbye, no no no no no no",
+                    "Hey I never can say goodbye boy, ooh baby",
+                    "I never can say goodbye, no no no no no no",
+                    "",
+                    "I never can say goodbye, boy,",
+                    "I never can say goodbye, no no no no no no",
+                    "I never can say goodbye, boy",
+                    "I never can say goodbye, no no no no no no"
+                ],
+                "url": "https://cdn.shazam.com/lyrics/v1/en-US/GB/iphone/musixmatch/subtitles/16321533/310/1?token=8d7b3afd66e41e15bee456c144ba7556",
+                "footer": "Writer(s): Clifton Davis\nLyrics powered by www.musixmatch.com",
+                "tabname": "Lyrics",
+                "beacondata": {
+                    "lyricsid": "18975591",
+                    "providername": "musixmatch",
+                    "commontrackid": "16321533"
+                }
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/2899831/youtube/video?q=Gloria+Gaynor+%22Never+Can+Say+Goodbye%22"
+            },
+            {
+                "type": "RELATED",
+                "url": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-2899831?startFrom=0&pageSize=20&connected=",
+                "tabname": "Related"
+            }
+        ],
+        "url": "https://www.shazam.com/track/2899831/never-can-say-goodbye",
+        "artists": [
+            {
+                "id": "42",
+                "adamid": "136869"
+            }
+        ],
+        "isrc": "USPR37487001",
+        "genres": {
+            "primary": "Disco"
+        },
+        "urlparams": {
+            "{tracktitle}": "Never+Can+Say+Goodbye",
+            "{trackartist}": "Gloria+Gaynor"
+        },
+        "myshazam": {
+            "apple": {
+                "actions": [
+                    {
+                        "name": "myshazam:apple",
+                        "type": "uri",
+                        "uri": "https://music.apple.com/gb/album/never-can-say-goodbye/1474995257?i=1474995263&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                ]
+            }
+        },
+        "highlightsurls": {
+            "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/136869/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+        },
+        "relatedtracksurl": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-2899831?startFrom=0&pageSize=20&connected=",
+        "albumadamid": "1474995257"
+    },
+    "tagid": "46436A34-B7FE-47A8-B572-662BF5B8FEBF"
+}

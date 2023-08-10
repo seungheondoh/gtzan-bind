@@ -1,0 +1,219 @@
+{
+    "matches": [
+        {
+            "id": "212831213",
+            "offset": 24.342460937,
+            "timeskew": -0.0022053123,
+            "frequencyskew": -0.004179716
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691633754676,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "40957334",
+        "title": "Stayin' Alive",
+        "subtitle": "Ozzy Osbourne",
+        "images": {
+            "background": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/1a/9a/61/1a9a6171-5b9b-c5c6-15d2-fb8ce15a810e/pr_source.png/800x800cc.jpg",
+            "coverart": "https://is2-ssl.mzstatic.com/image/thumb/Features/91/62/83/dj.kellhqef.jpg/400x400cc.jpg",
+            "coverarthq": "https://is2-ssl.mzstatic.com/image/thumb/Features/91/62/83/dj.kellhqef.jpg/400x400cc.jpg"
+        },
+        "share": {
+            "subject": "Stayin' Alive - Ozzy Osbourne",
+            "text": "Stayin' Alive by Ozzy Osbourne",
+            "href": "https://www.shazam.com/track/40957334/stayin-alive",
+            "image": "https://is2-ssl.mzstatic.com/image/thumb/Features/91/62/83/dj.kellhqef.jpg/400x400cc.jpg",
+            "twitter": "I used @Shazam to discover Stayin' Alive by Ozzy Osbourne.",
+            "html": "https://www.shazam.com/snippets/email-share/40957334?lang=en-US&country=GB",
+            "avatar": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/1a/9a/61/1a9a6171-5b9b-c5c6-15d2-fb8ce15a810e/pr_source.png/800x800cc.jpg",
+            "snapchat": "https://www.shazam.com/partner/sc/track/40957334"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:subscribe",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/subscribe?mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:subscribe",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/subscribe?mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:Stayin%27%20Alive%20Ozzy%20Osbourne"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27Stayin%5C%27+Alive%27%20artist%3A%27Ozzy+Osbourne%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": false,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [
+                    {
+                        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/1a/9a/61/1a9a6171-5b9b-c5c6-15d2-fb8ce15a810e/pr_source.png/800x800cc.jpg",
+                        "caption": "Ozzy Osbourne"
+                    },
+                    {
+                        "image": "https://is2-ssl.mzstatic.com/image/thumb/Features/91/62/83/dj.kellhqef.jpg/400x400cc.jpg",
+                        "caption": "Stayin' Alive"
+                    }
+                ],
+                "tabname": "Song",
+                "metadata": []
+            },
+            {
+                "type": "LYRICS",
+                "text": [
+                    "All aboard the disco train ha ha ha",
+                    "All right now",
+                    "Oh yeah",
+                    "",
+                    "Well you can tell by the way I move and",
+                    "Walk I'm a women's man no time to talk",
+                    "Music loud and women warm,",
+                    "I've been kicked around since I was born.",
+                    "",
+                    "It's all right, it's okay,",
+                    "You may look the other way.",
+                    "We can try to understand",
+                    "The New York Times' effect on man.",
+                    "",
+                    "Whether you're a brother or whether you're a mother",
+                    "You're stayin' alive, stayin' alive.",
+                    "Feel the city breakin' and everybody shakin'",
+                    "And you're stayin' alive, stayin' alive.",
+                    "Ah, ah, ah, ah, stayin' alive, stayin' alive,",
+                    "Ah, ah, ah, ah, stayin' alive.",
+                    "",
+                    "Everybody on the dance floor darling",
+                    "We're going to dance with the devil",
+                    "",
+                    "Well, now I get low and I get high,",
+                    "And if I can't get either, I really try.",
+                    "Got the wings of heaven on my shoes,",
+                    "I'm a dancin' man and I just can't lose.",
+                    "You know, it's all right, it's okay,",
+                    "I'll live to see another day.",
+                    "We can try to understand",
+                    "The New York Times' effect on man.",
+                    "",
+                    "Whether you're a brother or whether you're a mother",
+                    "You're stayin' alive, stayin' alive.",
+                    "Feel the city breakin' and everybody shakin'",
+                    "And you're stayin' alive, stayin' alive.",
+                    "Ah, ah, ah, ah, stayin' alive, stayin' alive,",
+                    "Ah, ah, ah, ah, stayin' alive.",
+                    "",
+                    "It's all right, it's okay,",
+                    "You may look the other way.",
+                    "We can try to understand",
+                    "The New York Times' effect on man.",
+                    "",
+                    "It's all right, I'ts okay,",
+                    "You may live to see another day.",
+                    "We can try to understand",
+                    "The New York Times' effect on man.",
+                    "",
+                    "Ha ha ha ha",
+                    "",
+                    "I am disco man",
+                    "",
+                    "O yeah, all right now",
+                    "I, I, I, I",
+                    "",
+                    "Im back ha ha ha"
+                ],
+                "url": "https://cdn.shazam.com/lyrics/v1/en-US/GB/iphone/musixmatch/subtitles/51053/279/1?token=8b7a7dff1d57c1260c36945d095af052",
+                "footer": "Writer(s): Aubrey Drake Graham, Khaled Mohammaed Khaled, Barry Alan Gibb, Timothy Murdock Suby, Dominique Jones, Maurice Ernest Gibb, Robin Hugh Gibb, Nyan Lieberthal\nLyrics powered by www.musixmatch.com",
+                "tabname": "Lyrics",
+                "beacondata": {
+                    "lyricsid": "6598367",
+                    "providername": "musixmatch",
+                    "commontrackid": "51053"
+                }
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/40957334/youtube/video?q=Ozzy+Osbourne+%22Stayin'+Alive%22"
+            },
+            {
+                "type": "RELATED",
+                "url": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-40957334?startFrom=0&pageSize=20&connected=",
+                "tabname": "Related"
+            }
+        ],
+        "url": "https://www.shazam.com/track/40957334/stayin-alive",
+        "artists": [
+            {
+                "id": "42",
+                "adamid": "886834"
+            }
+        ],
+        "genres": {
+            "primary": "Metal"
+        },
+        "urlparams": {
+            "{tracktitle}": "Stayin%27+Alive",
+            "{trackartist}": "Ozzy+Osbourne"
+        },
+        "highlightsurls": {
+            "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/886834/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+        },
+        "relatedtracksurl": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-40957334?startFrom=0&pageSize=20&connected="
+    },
+    "tagid": "6870F131-FD61-4624-98B1-25BA19E7FB89"
+}

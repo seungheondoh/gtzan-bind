@@ -1,0 +1,320 @@
+{
+    "matches": [
+        {
+            "id": "213774857",
+            "offset": 30.140324218,
+            "timeskew": -0.00020366907,
+            "frequencyskew": -0.0003221631
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691632801439,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "264917",
+        "title": "Wasting My Time",
+        "subtitle": "Spice Girls",
+        "images": {
+            "background": "https://is4-ssl.mzstatic.com/image/thumb/Features115/v4/77/db/ed/77dbed5b-d3f8-b794-f876-bfd63b5e1e91/pr_source.png/800x800cc.jpg",
+            "coverart": "https://is4-ssl.mzstatic.com/image/thumb/Music114/v4/fb/a6/1e/fba61eff-bd0d-2f77-49a2-eaa13d52756b/00724385046759.rgb.jpg/400x400cc.jpg",
+            "coverarthq": "https://is4-ssl.mzstatic.com/image/thumb/Music114/v4/fb/a6/1e/fba61eff-bd0d-2f77-49a2-eaa13d52756b/00724385046759.rgb.jpg/400x400cc.jpg",
+            "joecolor": "b:ffffffp:000000s:1e1511t:333333q:4b4441"
+        },
+        "share": {
+            "subject": "Wasting My Time - Spice Girls",
+            "text": "Wasting My Time by Spice Girls",
+            "href": "https://www.shazam.com/track/264917/wasting-my-time",
+            "image": "https://is4-ssl.mzstatic.com/image/thumb/Music114/v4/fb/a6/1e/fba61eff-bd0d-2f77-49a2-eaa13d52756b/00724385046759.rgb.jpg/400x400cc.jpg",
+            "twitter": "I used @Shazam to discover Wasting My Time by Spice Girls.",
+            "html": "https://www.shazam.com/snippets/email-share/264917?lang=en-US&country=GB",
+            "avatar": "https://is4-ssl.mzstatic.com/image/thumb/Features115/v4/77/db/ed/77dbed5b-d3f8-b794-f876-bfd63b5e1e91/pr_source.png/800x800cc.jpg",
+            "snapchat": "https://www.shazam.com/partner/sc/track/264917"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "actions": [
+                {
+                    "name": "apple",
+                    "type": "applemusicplay",
+                    "id": "724537030"
+                },
+                {
+                    "name": "apple",
+                    "type": "uri",
+                    "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/52/66/c7/5266c713-c886-29b4-6d96-9dd094d89917/mzaf_6719133277269629750.plus.aac.ep.m4a"
+                }
+            ],
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/gb/album/wasting-my-time/724536039?i=724537030&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/gb/album/wasting-my-time/724536039?i=724537030&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                },
+                {
+                    "caption": "BUY",
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "uri": "https://itunes.apple.com/gb/album/wasting-my-time/724536039?i=724537030&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "buy",
+                        "providername": "itunes"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "type": "buy",
+                    "listcaption": "Buy on iTunes",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "itunes"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:Wasting%20My%20Time%20Spice%20Girls"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27Wasting+My+Time%27%20artist%3A%27Spice+Girls%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": false,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [
+                    {
+                        "image": "https://is4-ssl.mzstatic.com/image/thumb/Features115/v4/77/db/ed/77dbed5b-d3f8-b794-f876-bfd63b5e1e91/pr_source.png/800x800cc.jpg",
+                        "caption": "Spice Girls"
+                    },
+                    {
+                        "image": "https://is4-ssl.mzstatic.com/image/thumb/Music114/v4/fb/a6/1e/fba61eff-bd0d-2f77-49a2-eaa13d52756b/00724385046759.rgb.jpg/400x400cc.jpg",
+                        "caption": "Wasting My Time"
+                    }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                    {
+                        "title": "Album",
+                        "text": "Forever"
+                    },
+                    {
+                        "title": "Label",
+                        "text": "Virgin Records"
+                    },
+                    {
+                        "title": "Released",
+                        "text": "2000"
+                    }
+                ]
+            },
+            {
+                "type": "LYRICS",
+                "text": [
+                    "Baby who",
+                    "Was the one that treated you so bad",
+                    "That you",
+                    "Felt that you had to do to me what she had done to you",
+                    "Now you prove",
+                    "Everything that my friends had told me about you",
+                    "Was true",
+                    "Now it's over and we're through",
+                    "",
+                    "You got your baby",
+                    "And had things your way",
+                    "So can you blame me",
+                    "For walking away?",
+                    "What did I do to",
+                    "Be treated so bad (treated so bad)",
+                    "Now you have lost me",
+                    "And I was the best thing you'd ever had",
+                    "",
+                    "Now you think I don't know",
+                    "What's going on (what's going on)",
+                    "But I know with you I'd just be wasting my time",
+                    "I can't keep holding on",
+                    "(Cos I know with you I...) But I know with you I'd just be wasting my time",
+                    "",
+                    "Can't you see",
+                    "That the things you said and did never had me",
+                    "Make believe",
+                    "That you saw something special inside of me",
+                    "Now you seem",
+                    "To think that you can't live your life without me",
+                    "Sorry",
+                    "Baby you can do without me",
+                    "",
+                    "You got your baby",
+                    "And had things your way (harmony)",
+                    "So can you blame me (harmony)",
+                    "For walking away? (Walking away)",
+                    "What did I do to",
+                    "Be treated so bad (so bad)",
+                    "Now you have lost me",
+                    "And I was the best thing you'd ever had",
+                    "",
+                    "Now you think I don't know (I)",
+                    "What's going on (what's going on)",
+                    "But I know with you I'd just be wasting my time",
+                    "(But I know with you, I'd just be wasting my time)",
+                    "I can't keep (oh no)",
+                    "Holding on (just holding on)",
+                    "But I know with you I'd just be wasting my time",
+                    "(But I know with you I'd just, I can't restore my time)",
+                    "",
+                    "I don't know (I don't know)",
+                    "What's going on (what's going on)",
+                    "But I know with you I'd just be wasting my time",
+                    "(You I'd just, wasting my time)",
+                    "I can't keep (oh I do, yeah)",
+                    "Holding on",
+                    "But I know with you I'd just be wasting my time",
+                    "(Cos I know with you I)",
+                    "",
+                    "Now you know that, I can live without you",
+                    "You should see that, (it's not all about you (harmony)",
+                    "This time",
+                    "You played to many games",
+                    "Now it times to see that I won't waste my life, no not me",
+                    "",
+                    "Now you think I don't know",
+                    "What's going on",
+                    "But I know with you I'd just be wasting my time",
+                    "I can't keep",
+                    "Holding on",
+                    "But I know with you I'd just be wasting my time",
+                    "",
+                    "Now you think I don't know (and just think that I)",
+                    "What's going on (what's going on)",
+                    "But I know with you I'd just be wasting my time",
+                    "(Wasting my time on you, oh yeah)",
+                    "I can't keep",
+                    "Holding on",
+                    "But I know with you I'd just be wasting my time",
+                    "(But I know with you I'd just, I can't restore my time)",
+                    "",
+                    "I don't know (I don't know)",
+                    "What's going on (what's going on)",
+                    "But I know with you I'd just be wasting my time",
+                    "(But I know with you I'd just be wasting my time)",
+                    "I can't keep (oh no)",
+                    "Holding on",
+                    "But I know with you I'd just be wasting my time",
+                    "(Cos I know with you I, I can't restore my time)",
+                    "",
+                    "I don't know",
+                    "What's going on",
+                    "But I know with you I'd just be wasting my time",
+                    "(I can't restore my time)",
+                    "I can't keep",
+                    "Holding on",
+                    "But I know with you I'd just be wasting my time",
+                    "(Cos I know with you I)",
+                    "",
+                    "I don't know"
+                ],
+                "url": "https://cdn.shazam.com/lyrics/v1/en-US/GB/iphone/musixmatch/subtitles/972421/254/1?token=688b7267b96887eb5b0438eb7764c390",
+                "footer": "Writer(s): Emma Bunton, Lashawn Ameen Daniels, Chris Brown, Melanie C, Fred Jerkins Iii\nLyrics powered by www.musixmatch.com",
+                "tabname": "Lyrics",
+                "beacondata": {
+                    "lyricsid": "27776219",
+                    "providername": "musixmatch",
+                    "commontrackid": "972421"
+                }
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/264917/youtube/video?q=Spice+Girls+%22Wasting+My+Time%22"
+            },
+            {
+                "type": "RELATED",
+                "url": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-264917?startFrom=0&pageSize=20&connected=",
+                "tabname": "Related"
+            }
+        ],
+        "url": "https://www.shazam.com/track/264917/wasting-my-time",
+        "artists": [
+            {
+                "id": "42",
+                "adamid": "646793"
+            }
+        ],
+        "isrc": "GBAAA0000938",
+        "genres": {
+            "primary": "Teen Pop"
+        },
+        "urlparams": {
+            "{tracktitle}": "Wasting+My+Time",
+            "{trackartist}": "Spice+Girls"
+        },
+        "myshazam": {
+            "apple": {
+                "actions": [
+                    {
+                        "name": "myshazam:apple",
+                        "type": "uri",
+                        "uri": "https://music.apple.com/gb/album/wasting-my-time/724536039?i=724537030&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                ]
+            }
+        },
+        "highlightsurls": {
+            "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/646793/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+        },
+        "relatedtracksurl": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-264917?startFrom=0&pageSize=20&connected=",
+        "albumadamid": "724536039"
+    },
+    "tagid": "2DBF1BB9-5591-4224-9708-CDB376F0982E"
+}

@@ -1,0 +1,295 @@
+{
+    "matches": [
+        {
+            "id": "268117700",
+            "offset": 29.720033203,
+            "timeskew": 0.0011473894,
+            "frequencyskew": 0.0010880232
+        },
+        {
+            "id": "445476231",
+            "offset": 249.540828125,
+            "timeskew": 0.00088095665,
+            "frequencyskew": 0.000926733
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691633324996,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "2956808",
+        "title": "One Drop",
+        "subtitle": "Bob Marley & The Wailers",
+        "images": {
+            "background": "https://is5-ssl.mzstatic.com/image/thumb/Features125/v4/0e/10/96/0e10963d-8c5d-f176-3651-796ec44d0c97/mzl.kdlmyecx.jpg/800x800cc.jpg",
+            "coverart": "https://is2-ssl.mzstatic.com/image/thumb/Music124/v4/1a/9b/b9/1a9bb9b2-ab6a-c644-80f9-76a5b7223e9c/00602537663156.rgb.jpg/400x400cc.jpg",
+            "coverarthq": "https://is2-ssl.mzstatic.com/image/thumb/Music124/v4/1a/9b/b9/1a9bb9b2-ab6a-c644-80f9-76a5b7223e9c/00602537663156.rgb.jpg/400x400cc.jpg",
+            "joecolor": "b:000000p:ffffffs:f61d38t:cbcbcbq:c5172d"
+        },
+        "share": {
+            "subject": "One Drop - Bob Marley & The Wailers",
+            "text": "One Drop by Bob Marley & The Wailers",
+            "href": "https://www.shazam.com/track/2956808/one-drop",
+            "image": "https://is2-ssl.mzstatic.com/image/thumb/Music124/v4/1a/9b/b9/1a9bb9b2-ab6a-c644-80f9-76a5b7223e9c/00602537663156.rgb.jpg/400x400cc.jpg",
+            "twitter": "I used @Shazam to discover One Drop by Bob Marley & The Wailers.",
+            "html": "https://www.shazam.com/snippets/email-share/2956808?lang=en-US&country=GB",
+            "avatar": "https://is5-ssl.mzstatic.com/image/thumb/Features125/v4/0e/10/96/0e10963d-8c5d-f176-3651-796ec44d0c97/mzl.kdlmyecx.jpg/800x800cc.jpg",
+            "snapchat": "https://www.shazam.com/partner/sc/track/2956808"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "actions": [
+                {
+                    "name": "apple",
+                    "type": "applemusicplay",
+                    "id": "1440814186"
+                },
+                {
+                    "name": "apple",
+                    "type": "uri",
+                    "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/e9/02/89/e90289f6-9e06-2395-effa-de5b2eb49f2a/mzaf_12248593197418810020.plus.aac.ep.m4a"
+                }
+            ],
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/gb/album/one-drop/1440813900?i=1440814186&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/gb/album/one-drop/1440813900?i=1440814186&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                },
+                {
+                    "caption": "BUY",
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "uri": "https://itunes.apple.com/gb/album/one-drop/1440813900?i=1440814186&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "buy",
+                        "providername": "itunes"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "type": "buy",
+                    "listcaption": "Buy on iTunes",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "itunes"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:One%20Drop%20Bob%20Marley%20%26%20The%20Wailers"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27One+Drop%27%20artist%3A%27Bob+Marley++The+Wailers%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": false,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [
+                    {
+                        "image": "https://is5-ssl.mzstatic.com/image/thumb/Features125/v4/0e/10/96/0e10963d-8c5d-f176-3651-796ec44d0c97/mzl.kdlmyecx.jpg/800x800cc.jpg",
+                        "caption": "Bob Marley & The Wailers"
+                    },
+                    {
+                        "image": "https://is2-ssl.mzstatic.com/image/thumb/Music124/v4/1a/9b/b9/1a9bb9b2-ab6a-c644-80f9-76a5b7223e9c/00602537663156.rgb.jpg/400x400cc.jpg",
+                        "caption": "One Drop"
+                    }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                    {
+                        "title": "Album",
+                        "text": "Survival (2013 Remaster)"
+                    },
+                    {
+                        "title": "Label",
+                        "text": "Island Records"
+                    },
+                    {
+                        "title": "Released",
+                        "text": "1979"
+                    }
+                ]
+            },
+            {
+                "type": "LYRICS",
+                "text": [
+                    "Na, na, na, na",
+                    "A-na, na, na, na",
+                    "Oo-oo-ooh, yea-ah",
+                    "A-na, na, na, na",
+                    "Wo-yoy! wo-yoy! wo-yoy!",
+                    "A-na, na, na, na",
+                    "Wo-yoy-yoy-yoy!",
+                    "",
+                    "Spill it in the one drop",
+                    "And we'll still find time to rap",
+                    "We're making the one-stop",
+                    "The generation gap",
+                    "Now feel this drumbeat",
+                    "As it beats within",
+                    "Playin' a riddim",
+                    "Resisting against the system, ooh-wee!",
+                    "",
+                    "I know Jah never let us down",
+                    "Pull your rights from wrong (I know Jah would never let us down)",
+                    "Oh, no, oh, no, oh, no",
+                    "They made their world so hard (so hard)",
+                    "Every day we got to keep on fighting (fighting)",
+                    "They made their world so hard (so hard)",
+                    "Every day the people are dyin' (dying) yeah!",
+                    "",
+                    "(It dread, dread) for hunger (dread, dread) and starvation",
+                    "(Dread, dread, dread, dread)",
+                    "Lamentation (dread, dread)",
+                    "But read it in Revelation (dread, dread, dread, dread)",
+                    "You'll find your redemption",
+                    "And then you give us the teachings of His Majesty",
+                    "For we no want no devil philosophy",
+                    "A you fe give us the teachings of His Majesty",
+                    "A we no want no devil philosophy",
+                    "",
+                    "Feel it in the one drop",
+                    "And we still find time to rap",
+                    "We're making the one-stop",
+                    "And we filling the gap",
+                    "So feel this drumbeat",
+                    "As it beats within",
+                    "Playing a riddim - uh!",
+                    "Fighting against ism and skism",
+                    "",
+                    "Singing \"I know Jah never let us down\"",
+                    "Pull your rights from wrong",
+                    "I know Jah never let us down",
+                    "Oh, no, oh, no, oh, no",
+                    "They made their world so hard",
+                    "Every day (we got to keep on fighting) every day",
+                    "They made their world so hard",
+                    "Every day (the people are dying), eh!",
+                    "",
+                    "(Dread, dread, it dread, dread) oh, whoa! Make dem a-go on so",
+                    "(Dread, dread, it dread on dread) ah, whoa!",
+                    "(Dread, dread) I'll walk (it dread, dread)",
+                    "Ah, whoa, frighten dem, ah whoa",
+                    "(Dread, dread) ah, whoa! Frighten dem, eh!",
+                    "Give us the teachings of His Majesty - with a stick-up!",
+                    "We no want no devil philosophy, can you hear?",
+                    "Give us the teachings of His Majesty",
+                    "For we no want no devil philosophy",
+                    "",
+                    "We feel it in the one drop, you're lucky!",
+                    "For we still got time to rap",
+                    "And we're making the one-stop",
+                    "Let me tell ya, this generation gap",
+                    "So feel this drumbeat",
+                    "I tell you what; and it's beating within",
+                    "Playing a riddim"
+                ],
+                "url": "https://cdn.shazam.com/lyrics/v1/en-US/GB/iphone/musixmatch/subtitles/7532255/232/1?token=ac1e2086d41258fa0b3706e859a8ff71",
+                "footer": "Writer(s): Bob Marley\nLyrics powered by www.musixmatch.com",
+                "tabname": "Lyrics",
+                "beacondata": {
+                    "lyricsid": "30518550",
+                    "providername": "musixmatch",
+                    "commontrackid": "7532255"
+                }
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/2956808/youtube/video?q=Bob+Marley+%26+The+Wailers+%22One+Drop%22"
+            },
+            {
+                "type": "RELATED",
+                "url": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-2956808?startFrom=0&pageSize=20&connected=",
+                "tabname": "Related"
+            }
+        ],
+        "url": "https://www.shazam.com/track/2956808/one-drop",
+        "artists": [
+            {
+                "id": "42",
+                "adamid": "3174628"
+            }
+        ],
+        "isrc": "USIR27900007",
+        "genres": {
+            "primary": "Reggae"
+        },
+        "urlparams": {
+            "{tracktitle}": "One+Drop",
+            "{trackartist}": "Bob+Marley+%26+The+Wailers"
+        },
+        "myshazam": {
+            "apple": {
+                "actions": [
+                    {
+                        "name": "myshazam:apple",
+                        "type": "uri",
+                        "uri": "https://music.apple.com/gb/album/one-drop/1440813900?i=1440814186&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                ]
+            }
+        },
+        "highlightsurls": {
+            "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/3174628/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+        },
+        "relatedtracksurl": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-2956808?startFrom=0&pageSize=20&connected=",
+        "albumadamid": "1440813900"
+    },
+    "tagid": "5DBDF58E-38E5-418B-B7EB-599C4B0F2DE9"
+}

@@ -1,0 +1,284 @@
+{
+    "matches": [
+        {
+            "id": "234847307",
+            "offset": 30.071460937,
+            "timeskew": 0.000104904175,
+            "frequencyskew": 0.0
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691632743395,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "217897",
+        "title": "American Pie",
+        "subtitle": "Madonna",
+        "images": {
+            "background": "https://is4-ssl.mzstatic.com/image/thumb/AMCArtistImages113/v4/6f/ed/d8/6fedd8aa-ebed-7fce-c0d6-4938fa19b7fb/1eabb313-e1ec-470f-b5fe-ede6f7a23983_ami-identity-d6894690f735e0ff6853ea7f9674c67d-2023-01-17T04-51-22.663Z_cropped.png/800x800cc.jpg",
+            "coverart": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/e6/ec/73/e6ec7362-cd41-a5b3-fdfe-457d21690c0f/603497838905.jpg/400x400cc.jpg",
+            "coverarthq": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/e6/ec/73/e6ec7362-cd41-a5b3-fdfe-457d21690c0f/603497838905.jpg/400x400cc.jpg",
+            "joecolor": "b:d5c9b9p:000003s:352b23t:2a2827q:554b41"
+        },
+        "share": {
+            "subject": "American Pie - Madonna",
+            "text": "American Pie by Madonna",
+            "href": "https://www.shazam.com/track/217897/american-pie",
+            "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/e6/ec/73/e6ec7362-cd41-a5b3-fdfe-457d21690c0f/603497838905.jpg/400x400cc.jpg",
+            "twitter": "I used @Shazam to discover American Pie by Madonna.",
+            "html": "https://www.shazam.com/snippets/email-share/217897?lang=en-US&country=GB",
+            "avatar": "https://is4-ssl.mzstatic.com/image/thumb/AMCArtistImages113/v4/6f/ed/d8/6fedd8aa-ebed-7fce-c0d6-4938fa19b7fb/1eabb313-e1ec-470f-b5fe-ede6f7a23983_ami-identity-d6894690f735e0ff6853ea7f9674c67d-2023-01-17T04-51-22.663Z_cropped.png/800x800cc.jpg",
+            "snapchat": "https://www.shazam.com/partner/sc/track/217897"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "actions": [
+                {
+                    "name": "apple",
+                    "type": "applemusicplay",
+                    "id": "1613839490"
+                },
+                {
+                    "name": "apple",
+                    "type": "uri",
+                    "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/0d/ba/b9/0dbab92b-cc11-b5b1-0636-f6bc2950ea74/mzaf_4500612266205664779.plus.aac.ep.m4a"
+                }
+            ],
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/gb/album/american-pie/1613839485?i=1613839490&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/gb/album/american-pie/1613839485?i=1613839490&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                },
+                {
+                    "caption": "BUY",
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "uri": "https://itunes.apple.com/gb/album/american-pie/1613839485?i=1613839490&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "buy",
+                        "providername": "itunes"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "type": "buy",
+                    "listcaption": "Buy on iTunes",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "itunes"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:American%20Pie%20Madonna"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27American+Pie%27%20artist%3A%27Madonna%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": false,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [
+                    {
+                        "image": "https://is4-ssl.mzstatic.com/image/thumb/AMCArtistImages113/v4/6f/ed/d8/6fedd8aa-ebed-7fce-c0d6-4938fa19b7fb/1eabb313-e1ec-470f-b5fe-ede6f7a23983_ami-identity-d6894690f735e0ff6853ea7f9674c67d-2023-01-17T04-51-22.663Z_cropped.png/800x800cc.jpg",
+                        "caption": "Madonna"
+                    },
+                    {
+                        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/e6/ec/73/e6ec7362-cd41-a5b3-fdfe-457d21690c0f/603497838905.jpg/400x400cc.jpg",
+                        "caption": "American Pie"
+                    }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                    {
+                        "title": "Album",
+                        "text": "American Pie - Single"
+                    },
+                    {
+                        "title": "Label",
+                        "text": "Maverick"
+                    },
+                    {
+                        "title": "Released",
+                        "text": "2000"
+                    }
+                ]
+            },
+            {
+                "type": "LYRICS",
+                "text": [
+                    "A long, long time ago",
+                    "I can still remember",
+                    "How that music used to make me smile",
+                    "And I knew that if I had my chance",
+                    "I could make those people dance",
+                    "And maybe they'd be happy for a while",
+                    "",
+                    "Did you write the book of love?",
+                    "And do you have faith in God above",
+                    "If the Bible tells you so?",
+                    "Now do you believe in rock 'n' roll?",
+                    "And can music save your mortal soul?",
+                    "And can you teach me how to dance real slow?",
+                    "",
+                    "Well, I know that you're in love with him 'cause I",
+                    "Saw you dancing in the gym",
+                    "You both kicked off your shoes (both kicked off your shoes)",
+                    "Man, I dig those rhythm and blues",
+                    "",
+                    "I was a lonely teenage bronking buck",
+                    "With a pink carnation and a pick-up truck but I",
+                    "Knew that I was out of luck",
+                    "The day the music died",
+                    "I started singing",
+                    "",
+                    "Bye, bye, Miss American Pie",
+                    "Drove my Chevy to the levee but the levee was dry",
+                    "And good old boys were drinking whiskey and rye",
+                    "Singing this will be the day that I die",
+                    "This will be the day that I die",
+                    "",
+                    "I met a girl who sang the blues and I",
+                    "Asked her for some happy news",
+                    "But she just smiled and turned away",
+                    "Well, I went down to the sacred store",
+                    "Where I'd heard the music years before",
+                    "But the man there said the music wouldn't play",
+                    "",
+                    "Well now, in the streets the children screamed (the children screamed)",
+                    "The lovers cried, and the poets dreamed (the poets dreamed)",
+                    "But not a word was spoken (not a word was spoken)",
+                    "The church bells all were broken",
+                    "",
+                    "And the three men I admire the most",
+                    "The Father, Son and the Holy Ghost",
+                    "They caught the last train for the coast",
+                    "The day the music died",
+                    "We started singing",
+                    "",
+                    "Bye, bye, Miss American Pie",
+                    "Drove my Chevy to the levee but the levee was dry",
+                    "And good old boys were drinking whiskey and rye",
+                    "Singing this'll be the day that I die",
+                    "This'll be the day that I die",
+                    "",
+                    "Bye, bye, Miss American Pie",
+                    "Drove my Chevy to the levee but the levee was dry",
+                    "And good old boys were drinking whiskey and rye",
+                    "Singing this'll be the day that I die",
+                    "This'll be the day that I die",
+                    "",
+                    "We started singing",
+                    "We started singing",
+                    "We started singing",
+                    "We started singing"
+                ],
+                "url": "https://cdn.shazam.com/lyrics/v1/en-US/GB/iphone/musixmatch/subtitles/24904/273/1?token=53537a9170f5ef74f99810b21e2e0676",
+                "footer": "Writer(s): Don Mclean\nLyrics powered by www.musixmatch.com",
+                "tabname": "Lyrics",
+                "beacondata": {
+                    "lyricsid": "30617170",
+                    "providername": "musixmatch",
+                    "commontrackid": "24904"
+                }
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/217897/youtube/video?q=Madonna+%22American+Pie%22"
+            },
+            {
+                "type": "RELATED",
+                "url": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-217897?startFrom=0&pageSize=20&connected=",
+                "tabname": "Related"
+            }
+        ],
+        "url": "https://www.shazam.com/track/217897/american-pie",
+        "artists": [
+            {
+                "id": "42",
+                "adamid": "20044"
+            }
+        ],
+        "isrc": "USWB19904349",
+        "genres": {
+            "primary": "Soundtrack"
+        },
+        "urlparams": {
+            "{tracktitle}": "American+Pie",
+            "{trackartist}": "Madonna"
+        },
+        "myshazam": {
+            "apple": {
+                "actions": [
+                    {
+                        "name": "myshazam:apple",
+                        "type": "uri",
+                        "uri": "https://music.apple.com/gb/album/american-pie/1613839485?i=1613839490&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                ]
+            }
+        },
+        "highlightsurls": {
+            "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/20044/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+        },
+        "relatedtracksurl": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-217897?startFrom=0&pageSize=20&connected=",
+        "albumadamid": "1613839485"
+    },
+    "tagid": "014AB2B2-3668-47F8-85DC-A4E53AF04FB1"
+}

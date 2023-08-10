@@ -1,0 +1,244 @@
+{
+    "matches": [
+        {
+            "id": "305602088",
+            "offset": 29.781556639999998,
+            "timeskew": -0.0003528595,
+            "frequencyskew": -0.00042951107
+        },
+        {
+            "id": "252952009",
+            "offset": 29.909328125,
+            "timeskew": -0.0002990961,
+            "frequencyskew": -0.00040262938
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691632629473,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "10084284",
+        "title": "Why Does Love Got To Be So Sad",
+        "subtitle": "Buckwheat Zydeco",
+        "images": {
+            "background": "https://is4-ssl.mzstatic.com/image/thumb/Features115/v4/53/68/c7/5368c78e-803c-b14a-4e5e-8a5fcd18adea/mzl.wwacqeti.jpg/800x800cc.jpg",
+            "coverart": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/9d/ad/43/9dad433a-478b-f247-0369-bc555bf756de/00602567826477.rgb.jpg/400x400cc.jpg",
+            "coverarthq": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/9d/ad/43/9dad433a-478b-f247-0369-bc555bf756de/00602567826477.rgb.jpg/400x400cc.jpg",
+            "joecolor": "b:f6f1d1p:000208s:192628t:313230q:454e49"
+        },
+        "share": {
+            "subject": "Why Does Love Got To Be So Sad - Buckwheat Zydeco",
+            "text": "Why Does Love Got To Be So Sad by Buckwheat Zydeco",
+            "href": "https://www.shazam.com/track/10084284/why-does-love-got-to-be-so-sad",
+            "image": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/9d/ad/43/9dad433a-478b-f247-0369-bc555bf756de/00602567826477.rgb.jpg/400x400cc.jpg",
+            "twitter": "I used @Shazam to discover Why Does Love Got To Be So Sad by Buckwheat Zydeco.",
+            "html": "https://www.shazam.com/snippets/email-share/10084284?lang=en-US&country=GB",
+            "avatar": "https://is4-ssl.mzstatic.com/image/thumb/Features115/v4/53/68/c7/5368c78e-803c-b14a-4e5e-8a5fcd18adea/mzl.wwacqeti.jpg/800x800cc.jpg",
+            "snapchat": "https://www.shazam.com/partner/sc/track/10084284"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "actions": [
+                {
+                    "name": "apple",
+                    "type": "applemusicplay",
+                    "id": "1434880092"
+                },
+                {
+                    "name": "apple",
+                    "type": "uri",
+                    "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/77/a6/7e/77a67e2d-0a12-26e0-e36f-c16ed18ac8d0/mzaf_17330866642158079211.plus.aac.ep.m4a"
+                }
+            ],
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/gb/album/why-does-love-got-to-be-so-sad/1434879638?i=1434880092&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/gb/album/why-does-love-got-to-be-so-sad/1434879638?i=1434880092&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                },
+                {
+                    "caption": "BUY",
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "uri": "https://itunes.apple.com/gb/album/why-does-love-got-to-be-so-sad/1434879638?i=1434880092&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "buy",
+                        "providername": "itunes"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "type": "buy",
+                    "listcaption": "Buy on iTunes",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "itunes"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:Why%20Does%20Love%20Got%20To%20Be%20So%20Sad%20Buckwheat%20Zydeco"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27Why+Does+Love+Got+To+Be+So+Sad%27%20artist%3A%27Buckwheat+Zydeco%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": false,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [
+                    {
+                        "image": "https://is4-ssl.mzstatic.com/image/thumb/Features115/v4/53/68/c7/5368c78e-803c-b14a-4e5e-8a5fcd18adea/mzl.wwacqeti.jpg/800x800cc.jpg",
+                        "caption": "Buckwheat Zydeco"
+                    },
+                    {
+                        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/9d/ad/43/9dad433a-478b-f247-0369-bc555bf756de/00602567826477.rgb.jpg/400x400cc.jpg",
+                        "caption": "Why Does Love Got To Be So Sad"
+                    }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                    {
+                        "title": "Album",
+                        "text": "Taking It Home"
+                    },
+                    {
+                        "title": "Label",
+                        "text": "Island Records"
+                    },
+                    {
+                        "title": "Released",
+                        "text": "1988"
+                    }
+                ]
+            },
+            {
+                "type": "LYRICS",
+                "text": [
+                    "Got to find me a way",
+                    "To take me back to yesterday",
+                    "How can I ever hope to forget you?",
+                    "",
+                    "Won't you show me a place",
+                    "Where I can hide my lonely face?",
+                    "I know you're going to break my heart if I let you",
+                    "",
+                    "Why does love got to be so sad?",
+                    "Why does love got to be so sad?",
+                    "Why does love got to be so sad?",
+                    "Why does love got to be so sad?",
+                    "",
+                    "Like a moth to a flame",
+                    "Like a song without a name",
+                    "I've never been the same since I met you",
+                    "Like a bird on the wing",
+                    "",
+                    "I can't keep from singing about you",
+                    "",
+                    "I'm beginning to see",
+                    "What a fool you've made of me",
+                    "I might have to break the law when I find you",
+                    "Stop running away",
+                    "I've got a better game to play",
+                    "You know I can't go on living without you"
+                ],
+                "footer": "Writer(s): Eric Patrick Clapton, Robert S. Whitlock\nLyrics powered by www.musixmatch.com",
+                "tabname": "Lyrics",
+                "beacondata": {
+                    "lyricsid": "8777242",
+                    "providername": "musixmatch",
+                    "commontrackid": "9798561"
+                }
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/10084284/youtube/video?q=Buckwheat+Zydeco+%22Why+Does+Love+Got+To+Be+So+Sad%22"
+            }
+        ],
+        "url": "https://www.shazam.com/track/10084284/why-does-love-got-to-be-so-sad",
+        "artists": [
+            {
+                "id": "42",
+                "adamid": "32279"
+            }
+        ],
+        "isrc": "USUMG0000492",
+        "genres": {
+            "primary": "Rock"
+        },
+        "urlparams": {
+            "{tracktitle}": "Why+Does+Love+Got+To+Be+So+Sad",
+            "{trackartist}": "Buckwheat+Zydeco"
+        },
+        "myshazam": {
+            "apple": {
+                "actions": [
+                    {
+                        "name": "myshazam:apple",
+                        "type": "uri",
+                        "uri": "https://music.apple.com/gb/album/why-does-love-got-to-be-so-sad/1434879638?i=1434880092&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                ]
+            }
+        },
+        "highlightsurls": {
+            "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/32279/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+        },
+        "albumadamid": "1434879638"
+    },
+    "tagid": "D0116C51-2AD6-4813-81F6-E48A3F1A260E"
+}

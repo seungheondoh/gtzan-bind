@@ -1,0 +1,273 @@
+{
+    "matches": [
+        {
+            "id": "266249526",
+            "offset": 29.988373046,
+            "timeskew": -0.00086551905,
+            "frequencyskew": -0.00092583895
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691633299588,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "427123",
+        "title": "I Shot The Sheriff",
+        "subtitle": "Bob Marley & The Wailers",
+        "images": {
+            "background": "https://is5-ssl.mzstatic.com/image/thumb/Features125/v4/0e/10/96/0e10963d-8c5d-f176-3651-796ec44d0c97/mzl.kdlmyecx.jpg/800x800cc.jpg",
+            "coverart": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/ea/20/06/ea2006f9-7512-cf9c-7b44-78116156875e/12UMGIM14712.rgb.jpg/400x400cc.jpg",
+            "coverarthq": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/ea/20/06/ea2006f9-7512-cf9c-7b44-78116156875e/12UMGIM14712.rgb.jpg/400x400cc.jpg",
+            "joecolor": "b:131919p:ddae81s:eba063t:b4906cq:bf8554"
+        },
+        "share": {
+            "subject": "I Shot The Sheriff - Bob Marley & The Wailers",
+            "text": "I Shot The Sheriff by Bob Marley & The Wailers",
+            "href": "https://www.shazam.com/track/427123/i-shot-the-sheriff",
+            "image": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/ea/20/06/ea2006f9-7512-cf9c-7b44-78116156875e/12UMGIM14712.rgb.jpg/400x400cc.jpg",
+            "twitter": "I used @Shazam to discover I Shot The Sheriff by Bob Marley & The Wailers.",
+            "html": "https://www.shazam.com/snippets/email-share/427123?lang=en-US&country=GB",
+            "avatar": "https://is5-ssl.mzstatic.com/image/thumb/Features125/v4/0e/10/96/0e10963d-8c5d-f176-3651-796ec44d0c97/mzl.kdlmyecx.jpg/800x800cc.jpg",
+            "snapchat": "https://www.shazam.com/partner/sc/track/427123"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "actions": [
+                {
+                    "name": "apple",
+                    "type": "applemusicplay",
+                    "id": "1469576021"
+                },
+                {
+                    "name": "apple",
+                    "type": "uri",
+                    "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/c1/49/24/c149240a-42ae-2389-a488-fbd62d5a1bf7/mzaf_4623433136563965706.plus.aac.ep.m4a"
+                }
+            ],
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/gb/album/i-shot-the-sheriff/1469575763?i=1469576021&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/gb/album/i-shot-the-sheriff/1469575763?i=1469576021&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                },
+                {
+                    "caption": "BUY",
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "uri": "https://itunes.apple.com/gb/album/i-shot-the-sheriff/1469575763?i=1469576021&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "buy",
+                        "providername": "itunes"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "type": "buy",
+                    "listcaption": "Buy on iTunes",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "itunes"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:I%20Shot%20The%20Sheriff%20Bob%20Marley%20%26%20The%20Wailers"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27I+Shot+The+Sheriff%27%20artist%3A%27Bob+Marley++The+Wailers%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": false,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [
+                    {
+                        "image": "https://is5-ssl.mzstatic.com/image/thumb/Features125/v4/0e/10/96/0e10963d-8c5d-f176-3651-796ec44d0c97/mzl.kdlmyecx.jpg/800x800cc.jpg",
+                        "caption": "Bob Marley & The Wailers"
+                    },
+                    {
+                        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/ea/20/06/ea2006f9-7512-cf9c-7b44-78116156875e/12UMGIM14712.rgb.jpg/400x400cc.jpg",
+                        "caption": "I Shot The Sheriff"
+                    }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                    {
+                        "title": "Album",
+                        "text": "Legend \u2013 The Best of Bob Marley & The Wailers (2002 Edition)"
+                    },
+                    {
+                        "title": "Label",
+                        "text": "Island Records"
+                    },
+                    {
+                        "title": "Released",
+                        "text": "1973"
+                    }
+                ]
+            },
+            {
+                "type": "LYRICS",
+                "text": [
+                    "I shot the sheriff",
+                    "But I didn't shoot no deputy, oh no, oh",
+                    "I shot the sheriff",
+                    "But I didn't shoot no deputy, ooh, ooh, ooh",
+                    "",
+                    "Yeah! All around in my home town",
+                    "They're tryin' to track me down, yeah",
+                    "They say they want to bring me in guilty",
+                    "For the killing of a deputy",
+                    "For the life of a deputy but I say",
+                    "Oh, now, now, oh",
+                    "",
+                    "(I shot the sheriff) I shot the sheriff",
+                    "(But I swear it was in self-defence) oh no, oh, oh, ooh",
+                    "Yeah, I say, I shot the sheriff oh, Lord (and they say it is a capital offence)",
+                    "Yeah, yeah! Hear that",
+                    "",
+                    "Sheriff John Brown always hated me",
+                    "For what, I don't know",
+                    "Every time I plant a seed",
+                    "He said kill it before it grow",
+                    "He said kill them before they grow, and so-and-so",
+                    "Read it in the news!",
+                    "",
+                    "(I shot the sheriff) oh, Lord!",
+                    "But I swear it was in self-defence",
+                    "Where was the deputy? (Ooh, ooh, ooh)",
+                    "I say, I shot the sheriff",
+                    "But I swear it was in self-defence, yeah! (Ooh)",
+                    "",
+                    "Freedom came my way one day",
+                    "And I started out of town, yeah",
+                    "All of a sudden I saw Sheriff John Brown aiming to shoot me down",
+                    "So, I shot, I shot, I shot him down and I say",
+                    "If I am guilty I will pay (pay, pay, pay, pay...)",
+                    "",
+                    "(I shot the sheriff) but I say but I didn't shoot no deputy",
+                    "I didn't shoot no deputy, no (ooh, ooh, ooh)",
+                    "(I shot the sheriff) I agree",
+                    "(But I didn't shoot no deputy) oh",
+                    "(Ooh, ooh, ooh)",
+                    "",
+                    "Reflexes had got the better of me",
+                    "And what is to be must be",
+                    "Every day the bucket a-go a-well",
+                    "One day the bottom a-go drop out",
+                    "One day the bottom a-go drop out",
+                    "",
+                    "I say",
+                    "I, I, I, I shot the sheriff",
+                    "Lord, I didn't shot the deputy, no",
+                    "I, I (shot the sheriff)",
+                    "But I didn't shoot no deputy yeah",
+                    "So, yeah"
+                ],
+                "url": "https://cdn.shazam.com/lyrics/v1/en-US/GB/iphone/musixmatch/subtitles/144092084/233/1?token=8f98022566121c86728846bfcbfa103b",
+                "footer": "Writer(s): Bob Marley\nLyrics powered by www.musixmatch.com",
+                "tabname": "Lyrics",
+                "beacondata": {
+                    "lyricsid": "30718548",
+                    "providername": "musixmatch",
+                    "commontrackid": "144092084"
+                }
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/427123/youtube/video?q=Bob+Marley+%26+The+Wailers+%22I+Shot+The+Sheriff%22"
+            },
+            {
+                "type": "RELATED",
+                "url": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-427123?startFrom=0&pageSize=20&connected=",
+                "tabname": "Related"
+            }
+        ],
+        "url": "https://www.shazam.com/track/427123/i-shot-the-sheriff",
+        "artists": [
+            {
+                "id": "42",
+                "adamid": "3174628"
+            }
+        ],
+        "isrc": "GBAAN7390003",
+        "genres": {
+            "primary": "Reggae"
+        },
+        "urlparams": {
+            "{tracktitle}": "I+Shot+The+Sheriff",
+            "{trackartist}": "Bob+Marley+%26+The+Wailers"
+        },
+        "myshazam": {
+            "apple": {
+                "actions": [
+                    {
+                        "name": "myshazam:apple",
+                        "type": "uri",
+                        "uri": "https://music.apple.com/gb/album/i-shot-the-sheriff/1469575763?i=1469576021&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                ]
+            }
+        },
+        "highlightsurls": {
+            "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/3174628/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+        },
+        "relatedtracksurl": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-427123?startFrom=0&pageSize=20&connected=",
+        "albumadamid": "1469575763"
+    },
+    "tagid": "A710F776-F09C-4B88-BA13-A777BBD90E21"
+}

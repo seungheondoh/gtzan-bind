@@ -1,0 +1,280 @@
+{
+    "matches": [
+        {
+            "id": "327841882",
+            "offset": 30.424316406000003,
+            "timeskew": 0.0011364222,
+            "frequencyskew": 0.00084614754
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691632717932,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "20144627",
+        "title": "That's the Way It Is",
+        "subtitle": "C\u00e9line Dion",
+        "images": {
+            "background": "https://is5-ssl.mzstatic.com/image/thumb/Features125/v4/44/42/69/444269ac-8a66-38fb-937b-46d61620a785/mzl.lkzxswuj.jpg/800x800cc.jpg",
+            "coverart": "https://is4-ssl.mzstatic.com/image/thumb/Music124/v4/b7/1c/11/b71c11cf-2b99-9fb8-0b3c-1f366c4f313a/886447525173.jpg/400x400cc.jpg",
+            "coverarthq": "https://is4-ssl.mzstatic.com/image/thumb/Music124/v4/b7/1c/11/b71c11cf-2b99-9fb8-0b3c-1f366c4f313a/886447525173.jpg/400x400cc.jpg",
+            "joecolor": "b:090909p:fdfdfds:dacacat:ccccccq:b0a4a4"
+        },
+        "share": {
+            "subject": "That's the Way It Is - C\u00e9line Dion",
+            "text": "That's the Way It Is by C\u00e9line Dion",
+            "href": "https://www.shazam.com/track/20144627/thats-the-way-it-is",
+            "image": "https://is4-ssl.mzstatic.com/image/thumb/Music124/v4/b7/1c/11/b71c11cf-2b99-9fb8-0b3c-1f366c4f313a/886447525173.jpg/400x400cc.jpg",
+            "twitter": "I used @Shazam to discover That's the Way It Is by C\u00e9line Dion.",
+            "html": "https://www.shazam.com/snippets/email-share/20144627?lang=en-US&country=GB",
+            "avatar": "https://is5-ssl.mzstatic.com/image/thumb/Features125/v4/44/42/69/444269ac-8a66-38fb-937b-46d61620a785/mzl.lkzxswuj.jpg/800x800cc.jpg",
+            "snapchat": "https://www.shazam.com/partner/sc/track/20144627"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "actions": [
+                {
+                    "name": "apple",
+                    "type": "applemusicplay",
+                    "id": "1450205606"
+                },
+                {
+                    "name": "apple",
+                    "type": "uri",
+                    "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/2f/0e/5f/2f0e5fd6-f253-dcf9-4c23-e0c9201ecc4c/mzaf_16872001899511578964.plus.aac.ep.m4a"
+                }
+            ],
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/gb/album/thats-the-way-it-is/1450205419?i=1450205606&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/gb/album/thats-the-way-it-is/1450205419?i=1450205606&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                },
+                {
+                    "caption": "BUY",
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "uri": "https://itunes.apple.com/gb/album/thats-the-way-it-is/1450205419?i=1450205606&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "buy",
+                        "providername": "itunes"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "type": "buy",
+                    "listcaption": "Buy on iTunes",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "itunes"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:That%27s%20the%20Way%20It%20Is%20C%C3%A9line%20Dion"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27That%5C%27s+the+Way+It+Is%27%20artist%3A%27C%C3%A9line+Dion%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": false,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [
+                    {
+                        "image": "https://is5-ssl.mzstatic.com/image/thumb/Features125/v4/44/42/69/444269ac-8a66-38fb-937b-46d61620a785/mzl.lkzxswuj.jpg/800x800cc.jpg",
+                        "caption": "C\u00e9line Dion"
+                    },
+                    {
+                        "image": "https://is4-ssl.mzstatic.com/image/thumb/Music124/v4/b7/1c/11/b71c11cf-2b99-9fb8-0b3c-1f366c4f313a/886447525173.jpg/400x400cc.jpg",
+                        "caption": "That's the Way It Is"
+                    }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                    {
+                        "title": "Album",
+                        "text": "My Love - Ultimate Essential Collection"
+                    },
+                    {
+                        "title": "Label",
+                        "text": "Columbia"
+                    },
+                    {
+                        "title": "Released",
+                        "text": "1990"
+                    }
+                ]
+            },
+            {
+                "type": "LYRICS",
+                "text": [
+                    "Yeah",
+                    "",
+                    "I can read your mind, and I know your story",
+                    "I see what you're going through, yeah",
+                    "It's an uphill climb, and I'm feeling sorry",
+                    "But I know it will come to you, yeah",
+                    "",
+                    "Don't surrender, 'cause you can win",
+                    "In this thing called love",
+                    "",
+                    "When you want it the most",
+                    "There's no easy way out",
+                    "When you're ready to go",
+                    "And your heart's left in doubt",
+                    "Don't give up on your faith",
+                    "Love comes to those who believe it",
+                    "And that's the way it is",
+                    "",
+                    "When you question me for a simple answer",
+                    "I don't know what to say, no",
+                    "But it's plain to see, if you stick together",
+                    "You're gonna find the way, yeah",
+                    "",
+                    "So don't surrender, 'cause you can win",
+                    "In this thing called love",
+                    "",
+                    "When you want it the most",
+                    "There's no easy way out",
+                    "When you're ready to go",
+                    "And your heart's left in doubt",
+                    "Don't give up on your faith (don't give up on your faith)",
+                    "Love comes to those who believe it",
+                    "And that's the way it is",
+                    "That's the way it is",
+                    "",
+                    "When life is empty with no tomorrow",
+                    "And loneliness starts to call (loneliness starts to call)",
+                    "Baby, don't worry, forget your sorrow",
+                    "'Cause love's gonna conquer it all, all",
+                    "",
+                    "When you want it the most",
+                    "There's no easy way out",
+                    "When you're ready to go",
+                    "And your heart's left in doubt",
+                    "Don't give up on your faith (don't give up on your faith)",
+                    "Love comes to those who believe it",
+                    "(And that's the way it is)",
+                    "",
+                    "(Oh, yeah, there's no easy way out)",
+                    "(When you're ready to go)",
+                    "(And your heart's left in doubt) uh-huh",
+                    "Don't give up on your faith (don't give up on your faith)",
+                    "Love comes to those who believe it",
+                    "(And) that's the way it is (yeah)",
+                    "That's the way it is (that's the way it is)",
+                    "That's the way it is, baby (that's the way it is)",
+                    "",
+                    "Don't give up on your faith (don't give up on your faith)",
+                    "Love comes to those who believe it",
+                    "And that's the way it is"
+                ],
+                "url": "https://cdn.shazam.com/lyrics/v1/en-US/GB/iphone/musixmatch/subtitles/158576386/241/1?token=c0e1a09b3a3da269594ef2a3b64bc221",
+                "footer": "Writer(s): Kristian Lundin, Andreas Carlsson, Martin Sandberg\nLyrics powered by www.musixmatch.com",
+                "tabname": "Lyrics",
+                "beacondata": {
+                    "lyricsid": "31546572",
+                    "providername": "musixmatch",
+                    "commontrackid": "158576386"
+                }
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/20144627/youtube/video?q=C%C3%A9line+Dion+%22That's+the+Way+It+Is%22"
+            },
+            {
+                "type": "RELATED",
+                "url": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-20144627?startFrom=0&pageSize=20&connected=",
+                "tabname": "Related"
+            }
+        ],
+        "url": "https://www.shazam.com/track/20144627/thats-the-way-it-is",
+        "artists": [
+            {
+                "id": "42",
+                "adamid": "63729"
+            }
+        ],
+        "isrc": "CAC229900134",
+        "genres": {
+            "primary": "Pop"
+        },
+        "urlparams": {
+            "{tracktitle}": "That%27s+the+Way+It+Is",
+            "{trackartist}": "C%C3%A9line+Dion"
+        },
+        "myshazam": {
+            "apple": {
+                "actions": [
+                    {
+                        "name": "myshazam:apple",
+                        "type": "uri",
+                        "uri": "https://music.apple.com/gb/album/thats-the-way-it-is/1450205419?i=1450205606&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                ]
+            }
+        },
+        "highlightsurls": {
+            "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/63729/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios&videoIdToFilter=264665196",
+            "trackhighlighturl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/highlights/264665196?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+        },
+        "relatedtracksurl": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-20144627?startFrom=0&pageSize=20&connected=",
+        "albumadamid": "1450205419"
+    },
+    "tagid": "79E08CD2-82BB-4855-83CA-573927C03F34"
+}

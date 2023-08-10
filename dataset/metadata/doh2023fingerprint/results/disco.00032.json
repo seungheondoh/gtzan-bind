@@ -1,0 +1,295 @@
+{
+    "matches": [
+        {
+            "id": "278135534",
+            "offset": 29.760810546000002,
+            "timeskew": -0.004137993,
+            "frequencyskew": -0.004660845
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691632468960,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "539522",
+        "title": "Saddle Up",
+        "subtitle": "David Christie",
+        "images": {
+            "background": "https://is4-ssl.mzstatic.com/image/thumb/Music118/v4/3e/63/14/3e63141a-1c10-259a-435a-139fbd5d446e/cover.jpg/400x400cc.jpg",
+            "coverart": "https://is4-ssl.mzstatic.com/image/thumb/Music118/v4/3e/63/14/3e63141a-1c10-259a-435a-139fbd5d446e/cover.jpg/400x400cc.jpg",
+            "coverarthq": "https://is4-ssl.mzstatic.com/image/thumb/Music118/v4/3e/63/14/3e63141a-1c10-259a-435a-139fbd5d446e/cover.jpg/400x400cc.jpg",
+            "joecolor": "b:3b3a61p:fffffds:e4e2f0t:d7d7ddq:c2c0d3"
+        },
+        "share": {
+            "subject": "Saddle Up - David Christie",
+            "text": "Saddle Up by David Christie",
+            "href": "https://www.shazam.com/track/539522/saddle-up",
+            "image": "https://is4-ssl.mzstatic.com/image/thumb/Music118/v4/3e/63/14/3e63141a-1c10-259a-435a-139fbd5d446e/cover.jpg/400x400cc.jpg",
+            "twitter": "I used @Shazam to discover Saddle Up by David Christie.",
+            "html": "https://www.shazam.com/snippets/email-share/539522?lang=en-US&country=GB",
+            "snapchat": "https://www.shazam.com/partner/sc/track/539522"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "actions": [
+                {
+                    "name": "apple",
+                    "type": "applemusicplay",
+                    "id": "1343499674"
+                },
+                {
+                    "name": "apple",
+                    "type": "uri",
+                    "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/88/62/a1/8862a148-57f9-e7aa-420c-435e743d11cf/mzaf_1041358853252848057.plus.aac.ep.m4a"
+                }
+            ],
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/gb/album/saddle-up/1343498521?i=1343499674&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/gb/album/saddle-up/1343498521?i=1343499674&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                },
+                {
+                    "caption": "BUY",
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "uri": "https://itunes.apple.com/gb/album/saddle-up/1343498521?i=1343499674&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "buy",
+                        "providername": "itunes"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "type": "buy",
+                    "listcaption": "Buy on iTunes",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "itunes"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:Saddle%20Up%20David%20Christie"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27Saddle+Up%27%20artist%3A%27David+Christie%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": false,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [
+                    {
+                        "image": "https://is4-ssl.mzstatic.com/image/thumb/Music118/v4/3e/63/14/3e63141a-1c10-259a-435a-139fbd5d446e/cover.jpg/400x400cc.jpg",
+                        "caption": "Saddle Up"
+                    }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                    {
+                        "title": "Album",
+                        "text": "Saddle Up (Remixes) - EP"
+                    },
+                    {
+                        "title": "Label",
+                        "text": "Eins 2 Trois"
+                    },
+                    {
+                        "title": "Released",
+                        "text": "1993"
+                    }
+                ]
+            },
+            {
+                "type": "LYRICS",
+                "text": [
+                    "Saddle up, and ride your pony",
+                    "Sit around, and you'll be lonely",
+                    "Saddle up, and make the dust fly",
+                    "Sit around, and you will just cry",
+                    "",
+                    "The first step is the longest",
+                    "When the wind is blowin' strongest",
+                    "Check out from heartbreak hotel",
+                    "Saddle up your horse and ride like hell!",
+                    "",
+                    "Saddle up, and ride your pony",
+                    "Sit around, and you'll be lonely",
+                    "Saddle up, and make the dust fly",
+                    "Get on your high horse and ride",
+                    "",
+                    "No use herding blues at Rancho, Rauncho",
+                    "Put on your sombrero and your Poncho",
+                    "",
+                    "Don't stay where trouble will find you",
+                    "Go while the getting is good",
+                    "You'll find the end of a rainbow",
+                    "Just as soon as you've understood",
+                    "",
+                    "Saddle up, and ride your pony",
+                    "Sit around, and you'll be lonely",
+                    "Saddle up, and make the dust fly",
+                    "Sit around, and you will just cry",
+                    "",
+                    "The first step is the longest",
+                    "When the wind is blowin' strongest",
+                    "Check out from heartbreak hotel",
+                    "Saddle up your horse and ride like hell!",
+                    "",
+                    "Saddle up, and ride your pony",
+                    "Sit around, and you'll be lonely",
+                    "Saddle up, and make the dust fly",
+                    "Get on your high horse and ride",
+                    "",
+                    "No use imitating the love ranger",
+                    "You don't have to act just like a stranger",
+                    "",
+                    "Hard times can easily drown you",
+                    "Go, don't let blues surround you",
+                    "Good times are there for the taking",
+                    "Hit the trail, there's no mistaking",
+                    "",
+                    "Saddle up, and ride your pony",
+                    "Sit around, and you'll be lonely",
+                    "Saddle up, and make the dust fly",
+                    "Get on your high horse and ride",
+                    "",
+                    "Saddle up, and ride your pony",
+                    "Sit around, and you'll be lonely",
+                    "Saddle up, and make the dust fly",
+                    "Sit around, and you will just cry",
+                    "",
+                    "The first step is the longest",
+                    "When the wind is blowin' strongest",
+                    "Check out from heartbreak hotel",
+                    "Saddle up your horse and ride like hell!",
+                    "",
+                    "Saddle up, and ride your pony",
+                    "Sit around, and you'll be lonely",
+                    "Saddle up, and make the dust fly",
+                    "Sit around",
+                    "",
+                    "Saddle up, and ride your pony",
+                    "Sit around, and you'll be lonely",
+                    "Saddle up, and make the dust fly",
+                    "Sit around, and you will just cry",
+                    "",
+                    "The first step is the longest",
+                    "When the wind is blowin' strongest",
+                    "Check out from heartbreak hotel",
+                    "Saddle up your horse and ride like hell!",
+                    "",
+                    "Saddle up, and ride your pony",
+                    "Sit around, and you'll be lonely",
+                    "Saddle up, and make the dust fly",
+                    "Sit around",
+                    "The first step"
+                ],
+                "url": "https://cdn.shazam.com/lyrics/v1/en-US/GB/iphone/musixmatch/subtitles/2277339/201/1?token=cf14563e89a9481b0dc04bddce6de021",
+                "footer": "Writer(s): Jack Robinson, James Bolden\nLyrics powered by www.musixmatch.com",
+                "tabname": "Lyrics",
+                "beacondata": {
+                    "lyricsid": "31551560",
+                    "providername": "musixmatch",
+                    "commontrackid": "2277339"
+                }
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/539522/youtube/video?q=David+Christie+%22Saddle+Up%22"
+            },
+            {
+                "type": "RELATED",
+                "url": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-539522?startFrom=0&pageSize=20&connected=",
+                "tabname": "Related"
+            }
+        ],
+        "url": "https://www.shazam.com/track/539522/saddle-up",
+        "artists": [
+            {
+                "id": "42",
+                "adamid": "78875394"
+            }
+        ],
+        "isrc": "DEFK81711525",
+        "genres": {
+            "primary": "Dance"
+        },
+        "urlparams": {
+            "{tracktitle}": "Saddle+Up",
+            "{trackartist}": "David+Christie"
+        },
+        "myshazam": {
+            "apple": {
+                "actions": [
+                    {
+                        "name": "myshazam:apple",
+                        "type": "uri",
+                        "uri": "https://music.apple.com/gb/album/saddle-up/1343498521?i=1343499674&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                ]
+            }
+        },
+        "highlightsurls": {
+            "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/78875394/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+        },
+        "relatedtracksurl": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-539522?startFrom=0&pageSize=20&connected=",
+        "albumadamid": "1343498521"
+    },
+    "tagid": "BC8EFF97-55FC-42A5-9A4B-05C90EED41DF"
+}

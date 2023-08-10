@@ -1,0 +1,271 @@
+{
+    "matches": [
+        {
+            "id": "200821903",
+            "offset": 30.63396875,
+            "timeskew": 0.012253404,
+            "frequencyskew": 0.011829376
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691633308895,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "61286160",
+        "title": "Ten Commandments",
+        "subtitle": "Prince Buster",
+        "images": {
+            "background": "https://is2-ssl.mzstatic.com/image/thumb/Music118/v4/ae/94/87/ae94878f-82b9-806c-ab0e-be80121e5f68/886446745626.jpg/400x400cc.jpg",
+            "coverart": "https://is2-ssl.mzstatic.com/image/thumb/Music118/v4/ae/94/87/ae94878f-82b9-806c-ab0e-be80121e5f68/886446745626.jpg/400x400cc.jpg",
+            "coverarthq": "https://is2-ssl.mzstatic.com/image/thumb/Music118/v4/ae/94/87/ae94878f-82b9-806c-ab0e-be80121e5f68/886446745626.jpg/400x400cc.jpg",
+            "joecolor": "b:e3dfd6p:0c0d07s:151b16t:373730q:3e423c"
+        },
+        "share": {
+            "subject": "Ten Commandments - Prince Buster",
+            "text": "Ten Commandments by Prince Buster",
+            "href": "https://www.shazam.com/track/61286160/ten-commandments",
+            "image": "https://is2-ssl.mzstatic.com/image/thumb/Music118/v4/ae/94/87/ae94878f-82b9-806c-ab0e-be80121e5f68/886446745626.jpg/400x400cc.jpg",
+            "twitter": "I used @Shazam to discover Ten Commandments by Prince Buster.",
+            "html": "https://www.shazam.com/snippets/email-share/61286160?lang=en-US&country=GB",
+            "snapchat": "https://www.shazam.com/partner/sc/track/61286160"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "actions": [
+                {
+                    "name": "apple",
+                    "type": "applemusicplay",
+                    "id": "1324904207"
+                },
+                {
+                    "name": "apple",
+                    "type": "uri",
+                    "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/e9/4a/7d/e94a7dd7-632a-35de-a7f2-a92e8b0ff34b/mzaf_17864803215533428221.plus.aac.ep.m4a"
+                }
+            ],
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/gb/album/ten-commandments/1324903911?i=1324904207&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/gb/album/ten-commandments/1324903911?i=1324904207&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                },
+                {
+                    "caption": "BUY",
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "uri": "https://itunes.apple.com/gb/album/ten-commandments/1324903911?i=1324904207&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "buy",
+                        "providername": "itunes"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "type": "buy",
+                    "listcaption": "Buy on iTunes",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "itunes"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:Ten%20Commandments%20Prince%20Buster"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27Ten+Commandments%27%20artist%3A%27Prince+Buster%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": false,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [
+                    {
+                        "image": "https://is2-ssl.mzstatic.com/image/thumb/Music118/v4/ae/94/87/ae94878f-82b9-806c-ab0e-be80121e5f68/886446745626.jpg/400x400cc.jpg",
+                        "caption": "Ten Commandments"
+                    }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                    {
+                        "title": "Album",
+                        "text": "Sings His Hit Song Ten Commandments"
+                    },
+                    {
+                        "title": "Label",
+                        "text": "RCA Victor/Legacy"
+                    },
+                    {
+                        "title": "Released",
+                        "text": "1967"
+                    }
+                ]
+            },
+            {
+                "type": "LYRICS",
+                "text": [
+                    "Theses are the ten commandments from man",
+                    "Given to woman",
+                    "Through the inspiration of I, Prince Buster",
+                    "",
+                    "One,",
+                    "Thou shall have no other man but me",
+                    "",
+                    "Two,",
+                    "Though shall not encourage no man to make love to you",
+                    "Neither kiss or caress you",
+                    "For I am your man, a very jealous man",
+                    "And is ready to lay low any other man who may intrude on our love",
+                    "",
+                    "Three,",
+                    "Remember to kiss and caress me",
+                    "Honor and obey me, in my every whim and fancy",
+                    "Seven days a week and twice on Sundays",
+                    "Because at no time will I ever be tired 0f I-T \"it\"",
+                    "",
+                    "Four,",
+                    "Honor my name, so that every other woman may honor it also",
+                    "",
+                    "Five,",
+                    "Thou shall not provoke me to anger",
+                    "Or my wrath will descend upon you heavily",
+                    "",
+                    "Commandment Six,",
+                    "Thou shall not search my pockets at night",
+                    "Or annoy me with your hearsays",
+                    "",
+                    "Commandment Seven,",
+                    "Thou shall not shout my name in the streets",
+                    "If I am walking with another woman",
+                    "But wait intelligently until I come home",
+                    "Then we can both have it out decently",
+                    "For I am your man, a funny man",
+                    "And detest a scandal in public places",
+                    "",
+                    "Commandment Eight,",
+                    "Thou shall not drink, or smoke",
+                    "Nor use profane language",
+                    "For those bad habits I will not stand for",
+                    "",
+                    "Nine,",
+                    "Thou shall not commit adultery",
+                    "For the world will not hold me guilty if I commit murder",
+                    "",
+                    "Ten,",
+                    "Thou shall not covet thy neighbor's dress",
+                    "Nor her shoes, nor her bureau, nor her bed, nor her hat",
+                    "Nor anything that's hers",
+                    "Neither shall thou call my attention to anything that may be for sale",
+                    "In any stores, for I will not give thee anything",
+                    "But what you actually need for your purpose",
+                    "",
+                    "These are the ten commandments from man",
+                    "Given to woman"
+                ],
+                "url": "https://cdn.shazam.com/lyrics/v1/en-US/GB/iphone/musixmatch/subtitles/1651161/208/1?token=acabe67edefd51f8b31db650cb00b357",
+                "footer": "Writer(s): C Campbell\nLyrics powered by www.musixmatch.com",
+                "tabname": "Lyrics",
+                "beacondata": {
+                    "lyricsid": "7548797",
+                    "providername": "musixmatch",
+                    "commontrackid": "1651161"
+                }
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/61286160/youtube/video?q=Prince+Buster+%22Ten+Commandments%22"
+            },
+            {
+                "type": "RELATED",
+                "url": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-61286160?startFrom=0&pageSize=20&connected=",
+                "tabname": "Related"
+            }
+        ],
+        "url": "https://www.shazam.com/track/61286160/ten-commandments",
+        "artists": [
+            {
+                "id": "42",
+                "adamid": "20805162"
+            }
+        ],
+        "isrc": "USRC11702437",
+        "genres": {
+            "primary": "Reggae"
+        },
+        "urlparams": {
+            "{tracktitle}": "Ten+Commandments",
+            "{trackartist}": "Prince+Buster"
+        },
+        "myshazam": {
+            "apple": {
+                "actions": [
+                    {
+                        "name": "myshazam:apple",
+                        "type": "uri",
+                        "uri": "https://music.apple.com/gb/album/ten-commandments/1324903911?i=1324904207&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                ]
+            }
+        },
+        "highlightsurls": {
+            "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/20805162/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+        },
+        "relatedtracksurl": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-61286160?startFrom=0&pageSize=20&connected=",
+        "albumadamid": "1324903911"
+    },
+    "tagid": "4377F5A6-1144-4154-B6BC-72BF60938C8F"
+}

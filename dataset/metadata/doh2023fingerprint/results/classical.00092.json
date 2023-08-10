@@ -1,0 +1,120 @@
+{
+    "matches": [
+        {
+            "id": "83074710",
+            "offset": 30.108097656,
+            "timeskew": 5.3286552e-05,
+            "frequencyskew": -4.029274e-05
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691633167264,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "83074710",
+        "title": "Piccolo Concerto, For Piccolo, Strings & Continuo In A Minor, Rv 44",
+        "subtitle": "Maurice Andr\u00e9 & Jean-Fran\u00e7ois Paillard & Jean-Fran\u00e7ois Pailla",
+        "share": {
+            "subject": "Piccolo Concerto, For Piccolo, Strings & Continuo In A Minor, Rv 44 - Maurice Andr\u00e9 & Jean-Fran\u00e7ois Paillard & Jean-Fran\u00e7ois Pailla",
+            "text": "Piccolo Concerto, For Piccolo, Strings & Continuo In A Minor, Rv 44 by Maurice Andr\u00e9 & Jean-Fran\u00e7ois Paillard & Jean-Fran\u00e7ois Pailla",
+            "href": "https://www.shazam.com/track/83074710/piccolo-concerto-for-piccolo-strings-and-continuo-in-a-minor-rv-44",
+            "twitter": "I used @Shazam to discover Piccolo Concerto, For Piccolo, Strings & Continuo In A Minor, Rv 44 by Maurice Andr\u00e9 & Jean-Fran\u00e7ois Paillard & Jean-Fran\u00e7ois Pailla.",
+            "html": "https://www.shazam.com/snippets/email-share/83074710?lang=en-US&country=GB",
+            "snapchat": "https://www.shazam.com/partner/sc/track/83074710"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:subscribe",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/subscribe?mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:subscribe",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/subscribe?mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:Piccolo%20Concerto%2C%20For%20Piccolo%2C%20Strings%20%26%20Continuo%20In%20A%20Minor%2C%20Rv%2044%20Maurice%20Andr%C3%A9%20%20Jean-Fran%C3%A7ois%20Paillard%20%20Jean-Fran%C3%A7ois%20Pailla"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27Piccolo+Concerto%2C+For+Piccolo%2C+Strings++Continuo+In+A+Minor%2C+Rv+44%27%20artist%3A%27Maurice+Andr%C3%A9++Jean-Fran%C3%A7ois+Paillard++Jean-Fran%C3%A7ois+Pailla%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": false,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [],
+                "tabname": "Song",
+                "metadata": [
+                    {
+                        "title": "Title",
+                        "text": "Piccolo Concerto, For Piccolo, Strings & Continuo In A Minor, Rv 44"
+                    }
+                ]
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/83074710/youtube/video?q=Maurice+Andr%C3%A9+%26+Jean-Fran%C3%A7ois+Paillard+%26+Jean-Fran%C3%A7ois+Pailla+%22Piccolo+Concerto,+For+Piccolo,+Strings+%26+Continuo+In+A+Minor,+Rv+44%22"
+            }
+        ],
+        "url": "https://www.shazam.com/track/83074710/piccolo-concerto-for-piccolo-strings-and-continuo-in-a-minor-rv-44",
+        "urlparams": {
+            "{tracktitle}": "Piccolo+Concerto%2C+For+Piccolo%2C+Strings+%26+Continuo+In+A+Minor%2C+Rv+44",
+            "{trackartist}": "Maurice+Andr%C3%A9+%26+Jean-Fran%C3%A7ois+Paillard+%26+Jean-Fran%C3%A7ois+Pailla"
+        },
+        "highlightsurls": {}
+    },
+    "tagid": "78DE59AC-D0F2-4BEF-8234-DCA5FA06061C"
+}

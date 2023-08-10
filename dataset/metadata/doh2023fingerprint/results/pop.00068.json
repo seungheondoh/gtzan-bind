@@ -1,0 +1,325 @@
+{
+    "matches": [
+        {
+            "id": "237486716",
+            "offset": 26.865886718000002,
+            "timeskew": -0.00020760298,
+            "frequencyskew": -0.00040262938
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691632757698,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "244633",
+        "title": "Someone to Call My Lover",
+        "subtitle": "Janet Jackson",
+        "images": {
+            "background": "https://is4-ssl.mzstatic.com/image/thumb/Features125/v4/a5/ff/c6/a5ffc651-ee12-f65b-3c34-35c598c2560e/pr_source.png/800x800cc.jpg",
+            "coverart": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/b9/84/5b/b9845bc9-b42d-665a-306b-fd5fcf4a11fe/15UMGIM44282.rgb.jpg/400x400cc.jpg",
+            "coverarthq": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/b9/84/5b/b9845bc9-b42d-665a-306b-fd5fcf4a11fe/15UMGIM44282.rgb.jpg/400x400cc.jpg",
+            "joecolor": "b:ffffffp:0b0f0es:2f181ct:3c3f3eq:59464a"
+        },
+        "share": {
+            "subject": "Someone to Call My Lover - Janet Jackson",
+            "text": "Someone to Call My Lover by Janet Jackson",
+            "href": "https://www.shazam.com/track/244633/someone-to-call-my-lover",
+            "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/b9/84/5b/b9845bc9-b42d-665a-306b-fd5fcf4a11fe/15UMGIM44282.rgb.jpg/400x400cc.jpg",
+            "twitter": "I used @Shazam to discover Someone to Call My Lover by Janet Jackson.",
+            "html": "https://www.shazam.com/snippets/email-share/244633?lang=en-US&country=GB",
+            "avatar": "https://is4-ssl.mzstatic.com/image/thumb/Features125/v4/a5/ff/c6/a5ffc651-ee12-f65b-3c34-35c598c2560e/pr_source.png/800x800cc.jpg",
+            "snapchat": "https://www.shazam.com/partner/sc/track/244633"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "actions": [
+                {
+                    "name": "apple",
+                    "type": "applemusicplay",
+                    "id": "1444165567"
+                },
+                {
+                    "name": "apple",
+                    "type": "uri",
+                    "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/ce/1c/35/ce1c356d-6e6c-ab9c-ac47-bdd2e5ec44f9/mzaf_859450741677291617.plus.aac.ep.m4a"
+                }
+            ],
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/gb/album/someone-to-call-my-lover/1444164139?i=1444165567&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/gb/album/someone-to-call-my-lover/1444164139?i=1444165567&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                },
+                {
+                    "caption": "BUY",
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "uri": "https://itunes.apple.com/gb/album/someone-to-call-my-lover/1444164139?i=1444165567&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "buy",
+                        "providername": "itunes"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "type": "buy",
+                    "listcaption": "Buy on iTunes",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "itunes"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:Someone%20to%20Call%20My%20Lover%20Janet%20Jackson"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27Someone+to+Call+My+Lover%27%20artist%3A%27Janet+Jackson%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": false,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [
+                    {
+                        "image": "https://is4-ssl.mzstatic.com/image/thumb/Features125/v4/a5/ff/c6/a5ffc651-ee12-f65b-3c34-35c598c2560e/pr_source.png/800x800cc.jpg",
+                        "caption": "Janet Jackson"
+                    },
+                    {
+                        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/b9/84/5b/b9845bc9-b42d-665a-306b-fd5fcf4a11fe/15UMGIM44282.rgb.jpg/400x400cc.jpg",
+                        "caption": "Someone to Call My Lover"
+                    }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                    {
+                        "title": "Album",
+                        "text": "All for You"
+                    },
+                    {
+                        "title": "Label",
+                        "text": "Virgin Records"
+                    },
+                    {
+                        "title": "Released",
+                        "text": "2001"
+                    }
+                ]
+            },
+            {
+                "type": "LYRICS",
+                "text": [
+                    "Back on the road again",
+                    "Feeling kinda lonely",
+                    "And looking for the right guy",
+                    "To be mine",
+                    "Friends say I'm crazy cause",
+                    "Easily I fall in love",
+                    "You gotta do it different J",
+                    "This time",
+                    "Maybe we'll meet at a bar",
+                    "He'll drive a funky car",
+                    "Maybe we'll meet at a club",
+                    "And fall so deeply in love",
+                    "He'll tell me I'm the one",
+                    "And we'll have so much fun",
+                    "I'll be the girl of his dreams (maybe)",
+                    "Alright baby come on",
+                    "Dance my way i gotta",
+                    "Get some one",
+                    "To call my lover",
+                    "Yeah baby come on",
+                    "Alright baby come in",
+                    "Pass my way",
+                    "I gotta get someone to call my lover",
+                    "Yeah baby come on",
+                    "I-YI-I-YI-I-YI-I-YI-I-YI-I-YI-I-YI",
+                    "I-I-I-I",
+                    "I-YI-I-YI-I-YI-I-YI-I-YI-I-YI-I-YI",
+                    "I-I-I-I",
+                    "I spoil them when I'm in love",
+                    "Given them what they dream of",
+                    "Sometimes it's not a good thing",
+                    "But I'm blind",
+                    "I love hard with everything",
+                    "Giving my all",
+                    "More than they",
+                    "I'll take my friends' advice this time",
+                    "I'll do it differently",
+                    "Maybe we'll meet at a bar",
+                    "He'll drive a funky car",
+                    "Maybe we'll meet at a club",
+                    "And fall so deeply in love",
+                    "He'll tell me I'm the one",
+                    "And we'll have so much fun",
+                    "I'll be the girl of his dreams maybe",
+                    "Alright maybe gonna find him today",
+                    "I gotta get someone to call my lover",
+                    "Yeah baby come on",
+                    "Alright baby come in",
+                    "Pass my way",
+                    "I gotta get someone to call my lover",
+                    "Yeah baby come on",
+                    "I-YI-I-YI-I-YI-I-YI-I-YI-I-YI-I-YI",
+                    "I-I-I-I",
+                    "I-YI-I-YI-I-YI-I-YI-I-YI-I-YI-I-YI",
+                    "I-I-I-I",
+                    "My my",
+                    "Looking for a guy guy",
+                    "I don't want him too shy",
+                    "But he's gotta have the qualities",
+                    "That I like in a man",
+                    "Strong, smart, affectionate",
+                    "He's gotta be all for me",
+                    "And I'll be too",
+                    "You see happily",
+                    "Maybe we'll meet at a bar",
+                    "He'll drive a funky car",
+                    "Maybe we'll meet at a club",
+                    "And fall so deeply in love",
+                    "He'll tell me I'm the one",
+                    "And we'll have so much fun",
+                    "I'll be the girl of his dreams maybe",
+                    "Alright maybe gonna find him today",
+                    "I gotta get someone to call my lover",
+                    "Yeah baby come on",
+                    "Alright baby come in",
+                    "Pass my way",
+                    "I gotta get someone to call my lover",
+                    "Yeah baby come on",
+                    "Alright maybe gonna find him today",
+                    "I gotta get someone to call my lover",
+                    "Yeah baby come on",
+                    "Alright baby come in",
+                    "Pass my way",
+                    "I gotta get someone to call my lover",
+                    "Yeah baby come on",
+                    "I-YI-I-YI-I-YI-I-YI-I-YI-I-YI-I-YI",
+                    "I-I-I-I",
+                    "I-YI-I-YI-I-YI-I-YI-I-YI-I-YI-I-YI",
+                    "I-I-I-I",
+                    "Maybe we'll meet at a bar",
+                    "",
+                    "He'll drive a funky car",
+                    "Maybe we'll meet at a club",
+                    "And fall so deeply in love",
+                    "He'll tell me I'm the one",
+                    "And we'll have so much fun",
+                    "I'll be the girl of his dreams maybe",
+                    "Alright maybe gonna find him today",
+                    "",
+                    "I gotta get someone to call my lover",
+                    "",
+                    "Yeah baby come on",
+                    "Alright baby come in",
+                    "Pass my way",
+                    "I gotta get someone to call my lover",
+                    "Yeah baby come on"
+                ],
+                "url": "https://cdn.shazam.com/lyrics/v1/en-US/GB/iphone/musixmatch/subtitles/40952/272/1?token=22398132ab837af5e58419b3903f87eb",
+                "footer": "Writer(s): Terry Lewis, James Harris, Janet Jackson, Lee Bunnell\nLyrics powered by www.musixmatch.com",
+                "tabname": "Lyrics",
+                "beacondata": {
+                    "lyricsid": "30489725",
+                    "providername": "musixmatch",
+                    "commontrackid": "40952"
+                }
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/244633/youtube/video?q=Janet+Jackson+%22Someone+to+Call+My+Lover%22"
+            },
+            {
+                "type": "RELATED",
+                "url": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-244633?startFrom=0&pageSize=20&connected=",
+                "tabname": "Related"
+            }
+        ],
+        "url": "https://www.shazam.com/track/244633/someone-to-call-my-lover",
+        "artists": [
+            {
+                "id": "42",
+                "adamid": "1272779"
+            }
+        ],
+        "isrc": "USVI20100096",
+        "genres": {
+            "primary": "Pop"
+        },
+        "urlparams": {
+            "{tracktitle}": "Someone+to+Call+My+Lover",
+            "{trackartist}": "Janet+Jackson"
+        },
+        "myshazam": {
+            "apple": {
+                "actions": [
+                    {
+                        "name": "myshazam:apple",
+                        "type": "uri",
+                        "uri": "https://music.apple.com/gb/album/someone-to-call-my-lover/1444164139?i=1444165567&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                ]
+            }
+        },
+        "highlightsurls": {
+            "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/1272779/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+        },
+        "relatedtracksurl": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-244633?startFrom=0&pageSize=20&connected=",
+        "albumadamid": "1444164139"
+    },
+    "tagid": "6C2F6549-E572-40CC-9220-6A62F5D81811"
+}

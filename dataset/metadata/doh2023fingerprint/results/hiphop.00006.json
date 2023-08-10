@@ -1,0 +1,385 @@
+{
+    "matches": [
+        {
+            "id": "213375157",
+            "offset": 14.510352539,
+            "timeskew": -6.330013e-05,
+            "frequencyskew": -0.000120818615
+        },
+        {
+            "id": "279147217",
+            "offset": 14.69062207,
+            "timeskew": 3.170967e-05,
+            "frequencyskew": 0.0
+        },
+        {
+            "id": "316235475",
+            "offset": 28.001439453,
+            "timeskew": 0.00030338764,
+            "frequencyskew": 0.0003222227
+        },
+        {
+            "id": "481615190",
+            "offset": -1.529203613,
+            "timeskew": -0.057171047,
+            "frequencyskew": -0.00013804436
+        },
+        {
+            "id": "214873072",
+            "offset": 14.83927832,
+            "timeskew": 3.7312508e-05,
+            "frequencyskew": -0.00024163723
+        },
+        {
+            "id": "235418478",
+            "offset": 62.720617187,
+            "timeskew": -0.06302023,
+            "frequencyskew": 0.00027620792
+        },
+        {
+            "id": "20094160",
+            "offset": 5.627369628,
+            "timeskew": -0.00015497208,
+            "frequencyskew": -0.000120818615
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691632889999,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "369991",
+        "title": "You Can Do It",
+        "subtitle": "Ice Cube, Mack 10 & Ms. Toi",
+        "images": {
+            "background": "https://is5-ssl.mzstatic.com/image/thumb/Features125/v4/c7/9d/53/c79d5331-d5ea-834d-79e7-d6688e60cc40/mzl.unwnxsfr.jpg/800x800cc.jpg",
+            "coverart": "https://is4-ssl.mzstatic.com/image/thumb/Music4/v4/f9/99/e7/f999e7c5-7520-4434-abfa-3f99be46834c/05099951501754.jpg/400x400cc.jpg",
+            "coverarthq": "https://is4-ssl.mzstatic.com/image/thumb/Music4/v4/f9/99/e7/f999e7c5-7520-4434-abfa-3f99be46834c/05099951501754.jpg/400x400cc.jpg",
+            "joecolor": "b:313131p:fbfbfbs:ebebebt:d2d2d2q:c5c5c5"
+        },
+        "share": {
+            "subject": "You Can Do It - Ice Cube, Mack 10 & Ms. Toi",
+            "text": "You Can Do It by Ice Cube, Mack 10 & Ms. Toi",
+            "href": "https://www.shazam.com/track/369991/you-can-do-it",
+            "image": "https://is4-ssl.mzstatic.com/image/thumb/Music4/v4/f9/99/e7/f999e7c5-7520-4434-abfa-3f99be46834c/05099951501754.jpg/400x400cc.jpg",
+            "twitter": "I used @Shazam to discover You Can Do It by Ice Cube, Mack 10 & Ms. Toi.",
+            "html": "https://www.shazam.com/snippets/email-share/369991?lang=en-US&country=GB",
+            "avatar": "https://is5-ssl.mzstatic.com/image/thumb/Features125/v4/c7/9d/53/c79d5331-d5ea-834d-79e7-d6688e60cc40/mzl.unwnxsfr.jpg/800x800cc.jpg",
+            "snapchat": "https://www.shazam.com/partner/sc/track/369991"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "actions": [
+                {
+                    "name": "apple",
+                    "type": "applemusicplay",
+                    "id": "715620742"
+                },
+                {
+                    "name": "apple",
+                    "type": "uri",
+                    "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/16/35/f0/1635f06f-79ee-e81b-7ea0-272b729a36a3/mzaf_7131009305585732433.plus.aac.ep.m4a"
+                }
+            ],
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/gb/album/you-can-do-it/715620495?i=715620742&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/gb/album/you-can-do-it/715620495?i=715620742&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                },
+                {
+                    "caption": "BUY",
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "uri": "https://itunes.apple.com/gb/album/you-can-do-it/715620495?i=715620742&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "buy",
+                        "providername": "itunes"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "type": "buy",
+                    "listcaption": "Buy on iTunes",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "itunes"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:You%20Can%20Do%20It%20Ice%20Cube"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27You+Can+Do+It%27%20artist%3A%27Ice+Cube%2C+Mack+10++Ms.+Toi%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": false,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [
+                    {
+                        "image": "https://is5-ssl.mzstatic.com/image/thumb/Features125/v4/c7/9d/53/c79d5331-d5ea-834d-79e7-d6688e60cc40/mzl.unwnxsfr.jpg/800x800cc.jpg",
+                        "caption": "Ice Cube"
+                    },
+                    {
+                        "image": "https://is4-ssl.mzstatic.com/image/thumb/Music4/v4/f9/99/e7/f999e7c5-7520-4434-abfa-3f99be46834c/05099951501754.jpg/400x400cc.jpg",
+                        "caption": "You Can Do It"
+                    }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                    {
+                        "title": "Album",
+                        "text": "At Tha Movies - EP"
+                    },
+                    {
+                        "title": "Label",
+                        "text": "Priority Records"
+                    },
+                    {
+                        "title": "Released",
+                        "text": "2000"
+                    }
+                ]
+            },
+            {
+                "type": "LYRICS",
+                "text": [
+                    "Yeah, yeah",
+                    "Get your ass up and hurra",
+                    "Uh, Ice Cube baby",
+                    "Ninety-nine baby",
+                    "I'm on the grind baby",
+                    "All the time baby",
+                    "Show me something",
+                    "",
+                    "You can do it, put your back into it",
+                    "I can do it, put your ass into it",
+                    "You can do it, put your back into it",
+                    "I can do it, put your ass into it",
+                    "Put your back into it",
+                    "Put your ass into it",
+                    "",
+                    "Tic-tic-boom, hear me banging down these back streets",
+                    "Bumpin' Blackstreet, treated like an athlete",
+                    "Life ain't a track meet, it's a marathon",
+                    "Fuck the cemetery that a nigga get buried on",
+                    "We be clubbing till the day we die",
+                    "Nigga ask the bartender if you think we lie",
+                    "But if you think we high, nigga think again",
+                    "'Cause when it's sink or swim, you got to think to win",
+                    "",
+                    "And if I drink this here",
+                    "Everybody will know it 'cause I ain't going for it",
+                    "So pray to the lord that I don't pull out, cuss out and bust out",
+                    "Go to nigga raveling, make the clip traveling, uh",
+                    "You can try to smoke an ounce to this",
+                    "While I pronounce this shit, baby bounce them tits",
+                    "Mama move them hips, baby shake them cheeks",
+                    "I got dick for days, you got ass for weeks, yeah, yeah",
+                    "",
+                    "Don't stop get it, get it",
+                    "That's real",
+                    "Don't stop nigga hit it",
+                    "I will",
+                    "I'm gon' do it, gon' do it",
+                    "Gon' do it, do it, do it",
+                    "",
+                    "You can do it, put your back into it",
+                    "I can do it, put your ass into it",
+                    "You can do it, put your back into it",
+                    "I can do it, put your ass into it",
+                    "Put your back into it",
+                    "Put your ass into it",
+                    "",
+                    "Now all I wanna do is have fun with my loved ones",
+                    "The thug ones, relatives and my cousins",
+                    "And I got 'em by the dozen",
+                    "When they buzzin', quick to say fuck your husband",
+                    "This is for my niggas locked away",
+                    "Extra love for the ones who ain't got no date",
+                    "",
+                    "But when we hit checkmate with 'Ice Cube The Great'",
+                    "As soon as I get a word we can rush the safe",
+                    "Fuck them license plates because life is great",
+                    "It don't matter if you're rich and your folks ain't straight",
+                    "I'm still coming with that underground gangsta shit",
+                    "No matter how many niggas say we ain't the shit, bitch",
+                    "",
+                    "Don't stop get it, get it",
+                    "That's real",
+                    "Don't stop nigga hit it",
+                    "I will",
+                    "I'm gon' do it, gon' do it",
+                    "Gon' do it, do it, do it",
+                    "",
+                    "You can do it, put your back into it",
+                    "I can do it, put your ass into it",
+                    "You can do it, put your back into it",
+                    "I can do it, put your ass into it",
+                    "Put your back into it",
+                    "Put your ass into it",
+                    "",
+                    "I do hard core rhyming, hard time grinding",
+                    "With will I pimp hoes, while other niggas wine and dine them",
+                    "Gotta love this pup shit, passing the mud shit",
+                    "Pockets on flood shit, OG lyrical blood shit",
+                    "I don't rent I buy shit, niggas jealous of my shit",
+                    "You unaware of this young nigga getting all the fly shit",
+                    "While you're rooting and recruiting nigga 6-8 whooping",
+                    "I was in the hood shooting 'cause I had the wife whooping",
+                    "",
+                    "I come from padres gold in oversized jars",
+                    "I past up strife and got star awards",
+                    "No time for playa hating, mack paper chasing",
+                    "Came out the substation to the hip hop nation",
+                    "The mo' hits the mo' bigga with illegal weight figga",
+                    "Done develop the status of a platinum plus nigga",
+                    "Bust the first asshole to show I can hit it",
+                    "I keep pushing, don't quit it, don't stop till I get it",
+                    "",
+                    "Don't stop get it, get it",
+                    "That's real",
+                    "Don't stop nigga hit it",
+                    "I will",
+                    "I'm gon' do it, gon' do it",
+                    "Gon' do it, do it, do it",
+                    "",
+                    "You can do, it put your back into it",
+                    "I can do it, put your ass into it",
+                    "You can do it, put your back into it",
+                    "I can do it, put your ass into it",
+                    "You can do it, put your back into it",
+                    "I can do it, put your ass into it",
+                    "You can do it, put your back into it",
+                    "I can do it, put your ass into it",
+                    "",
+                    "Don't stop get it, get it",
+                    "That's real",
+                    "Don't stop nigga hit it",
+                    "I will",
+                    "I'm gon' do it, gon' do it",
+                    "Gon' do it, do it, do it",
+                    "",
+                    "You can do it, put your back into it",
+                    "I can do it, put your ass into it",
+                    "You can do it, put your back into it",
+                    "I can do it, put your ass into it",
+                    "Put your ass into it",
+                    "",
+                    "We be clubbing",
+                    "Freaky gyration is close to fornication",
+                    "We be clubbing",
+                    "Freaky gyration is close to fornication?",
+                    "Yeah uh huh, Ice Cube, West side connection",
+                    "Know how we do?",
+                    "We puttin' it down, constantly",
+                    "Get your ass up and hurra"
+                ],
+                "url": "https://cdn.shazam.com/lyrics/v1/en-US/GB/iphone/musixmatch/subtitles/10457528/259/1?token=a899f8e6c714feb6b770305ab673016b",
+                "footer": "Writer(s): Aasim Bey Bambaataa, Ralf Huetter, Don Saunders, Dedrick Rolison, Arthur Baker, O'shea Jackson, John Robie, Emil Schult\nLyrics powered by www.musixmatch.com",
+                "tabname": "Lyrics",
+                "beacondata": {
+                    "lyricsid": "6609515",
+                    "providername": "musixmatch",
+                    "commontrackid": "10457528"
+                }
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/369991/youtube/video?q=Ice+Cube,+Mack+10+%26+Ms.+Toi+%22You+Can+Do+It%22"
+            },
+            {
+                "type": "RELATED",
+                "url": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-369991?startFrom=0&pageSize=20&connected=",
+                "tabname": "Related"
+            }
+        ],
+        "url": "https://www.shazam.com/track/369991/you-can-do-it",
+        "artists": [
+            {
+                "id": "42",
+                "adamid": "471370"
+            }
+        ],
+        "isrc": "USPO19900522",
+        "genres": {
+            "primary": "Pop"
+        },
+        "urlparams": {
+            "{tracktitle}": "You+Can+Do+It",
+            "{trackartist}": "Ice+Cube%2C+Mack+10+%26+Ms.+Toi"
+        },
+        "myshazam": {
+            "apple": {
+                "actions": [
+                    {
+                        "name": "myshazam:apple",
+                        "type": "uri",
+                        "uri": "https://music.apple.com/gb/album/you-can-do-it/715620495?i=715620742&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                ]
+            }
+        },
+        "highlightsurls": {
+            "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/471370/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+        },
+        "relatedtracksurl": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-369991?startFrom=0&pageSize=20&connected=",
+        "albumadamid": "715620495"
+    },
+    "tagid": "24A5D293-EC96-463A-B286-966E064B22F8"
+}

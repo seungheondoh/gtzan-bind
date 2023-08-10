@@ -1,0 +1,258 @@
+{
+    "matches": [
+        {
+            "id": "69456253",
+            "offset": 29.623625,
+            "timeskew": 0.00047445297,
+            "frequencyskew": 0.00020134449
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691633371259,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "67653741",
+        "title": "Last Thing I Needed First Thing This Morning",
+        "subtitle": "Willie Nelson",
+        "images": {
+            "background": "https://is4-ssl.mzstatic.com/image/thumb/Features125/v4/b4/c2/9a/b4c29a1e-3b45-2b60-be65-dbb96d21e42a/mza_1383128222591135178.png/800x800cc.jpg",
+            "coverart": "https://is3-ssl.mzstatic.com/image/thumb/Features115/v4/48/0e/ee/480eee4b-26c1-668f-fdc3-4c9cbdac2fd0/contsched.aljscbox.jpg/400x400cc.jpg",
+            "coverarthq": "https://is3-ssl.mzstatic.com/image/thumb/Features115/v4/48/0e/ee/480eee4b-26c1-668f-fdc3-4c9cbdac2fd0/contsched.aljscbox.jpg/400x400cc.jpg",
+            "joecolor": "b:1f191bp:ece9f0s:93b5e3t:c3bfc5q:7c95bb"
+        },
+        "share": {
+            "subject": "Last Thing I Needed First Thing This Morning - Willie Nelson",
+            "text": "Last Thing I Needed First Thing This Morning by Willie Nelson",
+            "href": "https://www.shazam.com/track/67653741/last-thing-i-needed-first-thing-this-morning",
+            "image": "https://is3-ssl.mzstatic.com/image/thumb/Features115/v4/48/0e/ee/480eee4b-26c1-668f-fdc3-4c9cbdac2fd0/contsched.aljscbox.jpg/400x400cc.jpg",
+            "twitter": "I used @Shazam to discover Last Thing I Needed First Thing This Morning by Willie Nelson.",
+            "html": "https://www.shazam.com/snippets/email-share/67653741?lang=en-US&country=GB",
+            "avatar": "https://is4-ssl.mzstatic.com/image/thumb/Features125/v4/b4/c2/9a/b4c29a1e-3b45-2b60-be65-dbb96d21e42a/mza_1383128222591135178.png/800x800cc.jpg",
+            "snapchat": "https://www.shazam.com/partner/sc/track/67653741"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "actions": [
+                {
+                    "name": "apple",
+                    "type": "applemusicplay",
+                    "id": "191445485"
+                },
+                {
+                    "name": "apple",
+                    "type": "uri",
+                    "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/13/35/64/133564fe-14bd-4085-d41f-0cc85e4e6c76/mzaf_16932367735687183806.plus.aac.ep.m4a"
+                }
+            ],
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/gb/album/last-thing-i-needed-first-thing-this-morning/191445132?i=191445485&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/gb/album/last-thing-i-needed-first-thing-this-morning/191445132?i=191445485&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                },
+                {
+                    "caption": "BUY",
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "uri": "https://itunes.apple.com/gb/album/last-thing-i-needed-first-thing-this-morning/191445132?i=191445485&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "buy",
+                        "providername": "itunes"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "type": "buy",
+                    "listcaption": "Buy on iTunes",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "itunes"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:Last%20Thing%20I%20Needed%20First%20Thing%20This%20Morning%20Willie%20Nelson"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27Last+Thing+I+Needed+First+Thing+This+Morning%27%20artist%3A%27Willie+Nelson%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": false,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [
+                    {
+                        "image": "https://is4-ssl.mzstatic.com/image/thumb/Features125/v4/b4/c2/9a/b4c29a1e-3b45-2b60-be65-dbb96d21e42a/mza_1383128222591135178.png/800x800cc.jpg",
+                        "caption": "Willie Nelson"
+                    },
+                    {
+                        "image": "https://is3-ssl.mzstatic.com/image/thumb/Features115/v4/48/0e/ee/480eee4b-26c1-668f-fdc3-4c9cbdac2fd0/contsched.aljscbox.jpg/400x400cc.jpg",
+                        "caption": "Last Thing I Needed First Thing This Morning"
+                    }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                    {
+                        "title": "Album",
+                        "text": "Always On My Mind"
+                    },
+                    {
+                        "title": "Label",
+                        "text": "Columbia Nashville"
+                    },
+                    {
+                        "title": "Released",
+                        "text": "1982"
+                    }
+                ]
+            },
+            {
+                "type": "LYRICS",
+                "text": [
+                    "The postman delivered",
+                    "A \"past due\" bill notice",
+                    "The alarm clock rang two hours late",
+                    "The garbage man left all the trash",
+                    "On the sidewalk",
+                    "And the hinges fell off of the gate",
+                    "",
+                    "And this morning at breakfast",
+                    "I spilled all the coffee",
+                    "And I opened the door on my knee",
+                    "But the last thing I needed",
+                    "The first thing this morning",
+                    "Was to have you walk out on me",
+                    "",
+                    "Last night you came home late",
+                    "And I knew you'd been drinking",
+                    "By that old mellow look on your face",
+                    "I thought, \"It don't matter",
+                    "'Cause it's the holiday season\"",
+                    "And you fill such a big empty space",
+                    "",
+                    "But then I laid down beside you",
+                    "And I wanted your lovin'",
+                    "Because your love makes my life complete",
+                    "But the last thing I needed",
+                    "The first thing this morning",
+                    "Was to have you walk out on me",
+                    "",
+                    "So excuse me for lookin'",
+                    "Like my world just ended",
+                    "And excuse me for lookin'",
+                    "Like I just lost my best friend",
+                    "And excuse me for livin'",
+                    "And being forgivin'",
+                    "So just go on if you want to be free",
+                    "",
+                    "But the last thing I needed",
+                    "The first thing this morning",
+                    "Was to have you walk out on me"
+                ],
+                "url": "https://cdn.shazam.com/lyrics/v1/en-US/GB/iphone/musixmatch/subtitles/9796620/259/1?token=0fe79ee5f11058b304f9439870b9a0ee",
+                "footer": "Writer(s): Gary P Nunn, Donna Farar\nLyrics powered by www.musixmatch.com",
+                "tabname": "Lyrics",
+                "beacondata": {
+                    "lyricsid": "21947815",
+                    "providername": "musixmatch",
+                    "commontrackid": "9796620"
+                }
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/67653741/youtube/video?q=Willie+Nelson+%22Last+Thing+I+Needed+First+Thing+This+Morning%22"
+            },
+            {
+                "type": "RELATED",
+                "url": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-67653741?startFrom=0&pageSize=20&connected=",
+                "tabname": "Related"
+            }
+        ],
+        "url": "https://www.shazam.com/track/67653741/last-thing-i-needed-first-thing-this-morning",
+        "artists": [
+            {
+                "id": "42",
+                "adamid": "71676"
+            }
+        ],
+        "isrc": "USSM19904548",
+        "genres": {
+            "primary": "Country"
+        },
+        "urlparams": {
+            "{tracktitle}": "Last+Thing+I+Needed+First+Thing+This+Morning",
+            "{trackartist}": "Willie+Nelson"
+        },
+        "myshazam": {
+            "apple": {
+                "actions": [
+                    {
+                        "name": "myshazam:apple",
+                        "type": "uri",
+                        "uri": "https://music.apple.com/gb/album/last-thing-i-needed-first-thing-this-morning/191445132?i=191445485&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                ]
+            }
+        },
+        "highlightsurls": {
+            "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/71676/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+        },
+        "relatedtracksurl": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-67653741?startFrom=0&pageSize=20&connected=",
+        "albumadamid": "191445132"
+    },
+    "tagid": "93EEA575-0763-41C8-ABD8-209CB8EA1DD6"
+}

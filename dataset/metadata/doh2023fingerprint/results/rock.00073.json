@@ -1,0 +1,273 @@
+{
+    "matches": [
+        {
+            "id": "203559145",
+            "offset": 29.756896484000002,
+            "timeskew": -0.00014811754,
+            "frequencyskew": -0.00028187037
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691633673130,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "219270",
+        "title": "Thrill Me",
+        "subtitle": "Simply Red",
+        "images": {
+            "background": "https://is4-ssl.mzstatic.com/image/thumb/Features115/v4/71/6d/4e/716d4eeb-3258-1d8d-2b81-80286d7991cc/pr_source.png/800x800cc.jpg",
+            "coverart": "https://is2-ssl.mzstatic.com/image/thumb/Music114/v4/b1/e2/b1/b1e2b124-7112-b069-b566-a6e482db833f/mzi.jaqbenfs.jpg/400x400cc.jpg",
+            "coverarthq": "https://is2-ssl.mzstatic.com/image/thumb/Music114/v4/b1/e2/b1/b1e2b124-7112-b069-b566-a6e482db833f/mzi.jaqbenfs.jpg/400x400cc.jpg",
+            "joecolor": "b:081643p:e3cb7as:eca44bt:b7a76fq:be8749"
+        },
+        "share": {
+            "subject": "Thrill Me - Simply Red",
+            "text": "Thrill Me by Simply Red",
+            "href": "https://www.shazam.com/track/219270/thrill-me",
+            "image": "https://is2-ssl.mzstatic.com/image/thumb/Music114/v4/b1/e2/b1/b1e2b124-7112-b069-b566-a6e482db833f/mzi.jaqbenfs.jpg/400x400cc.jpg",
+            "twitter": "I used @Shazam to discover Thrill Me by Simply Red.",
+            "html": "https://www.shazam.com/snippets/email-share/219270?lang=en-US&country=GB",
+            "avatar": "https://is4-ssl.mzstatic.com/image/thumb/Features115/v4/71/6d/4e/716d4eeb-3258-1d8d-2b81-80286d7991cc/pr_source.png/800x800cc.jpg",
+            "snapchat": "https://www.shazam.com/partner/sc/track/219270"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "actions": [
+                {
+                    "name": "apple",
+                    "type": "applemusicplay",
+                    "id": "294361440"
+                },
+                {
+                    "name": "apple",
+                    "type": "uri",
+                    "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/75/99/23/75992378-96ed-975d-6b6f-487033c4cda8/mzaf_647617168644925083.plus.aac.ep.m4a"
+                }
+            ],
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/gb/album/thrill-me/294361368?i=294361440&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/gb/album/thrill-me/294361368?i=294361440&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                },
+                {
+                    "caption": "BUY",
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "uri": "https://itunes.apple.com/gb/album/thrill-me/294361368?i=294361440&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "buy",
+                        "providername": "itunes"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "type": "buy",
+                    "listcaption": "Buy on iTunes",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "itunes"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:Thrill%20Me%20Simply%20Red"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27Thrill+Me%27%20artist%3A%27Simply+Red%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": false,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [
+                    {
+                        "image": "https://is4-ssl.mzstatic.com/image/thumb/Features115/v4/71/6d/4e/716d4eeb-3258-1d8d-2b81-80286d7991cc/pr_source.png/800x800cc.jpg",
+                        "caption": "Simply Red"
+                    },
+                    {
+                        "image": "https://is2-ssl.mzstatic.com/image/thumb/Music114/v4/b1/e2/b1/b1e2b124-7112-b069-b566-a6e482db833f/mzi.jaqbenfs.jpg/400x400cc.jpg",
+                        "caption": "Thrill Me"
+                    }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                    {
+                        "title": "Album",
+                        "text": "Stars"
+                    },
+                    {
+                        "title": "Label",
+                        "text": "Rhino/Elektra"
+                    },
+                    {
+                        "title": "Released",
+                        "text": "1991"
+                    }
+                ]
+            },
+            {
+                "type": "LYRICS",
+                "text": [
+                    "Okay, I'm the one who took you for granted",
+                    "I've made my mistakes",
+                    "Wake up let's not break up",
+                    "",
+                    "(Thrill me)",
+                    "You've got a love so strong",
+                    "(Thrill me)",
+                    "You really turn me on",
+                    "(Thrill me)",
+                    "Wait till tomorrow night",
+                    "(Thrill me)",
+                    "I'm gonna treat you right",
+                    "",
+                    "You said that I would never let you be alone",
+                    "How many times have you been on your own",
+                    "Worked for the days and all the things you try to do",
+                    "If only my heart would never let you through because you",
+                    "",
+                    "(Thrill me)",
+                    "You've got a love so strong",
+                    "(Thrill me)",
+                    "You just can't do me wrong",
+                    "(Thrill me)",
+                    "Wait till tomorrow night",
+                    "(Thrill me)",
+                    "I wanna treat you right",
+                    "",
+                    "Feel",
+                    "Ok, feel so good",
+                    "Your hands were like silk on my back",
+                    "Come on, come on",
+                    "",
+                    "Oh yeah",
+                    "Feel it baby",
+                    "",
+                    "The truth is you've gone and left me on my own",
+                    "How can I face the fact that you're really gone",
+                    "Love was a phase we'd have to pray to make it true",
+                    "If only my heart would've never let you through because you",
+                    "",
+                    "(Thrill me)",
+                    "You've got a love so strong",
+                    "(Thrill me)",
+                    "You really turn me on",
+                    "(Thrill me)",
+                    "Wait till tomorrow night",
+                    "(Thrill me)",
+                    "I wanna treat you right",
+                    "",
+                    "Oh yeah",
+                    "Feel so good",
+                    "Feel, feel me, feel me",
+                    "Feel me, feel me, feel"
+                ],
+                "url": "https://cdn.shazam.com/lyrics/v1/en-US/GB/iphone/musixmatch/subtitles/120441/303/1?token=9fcbe3ba75610ea1244cbac6c109c972",
+                "footer": "Writer(s): Mick Hucknall, Fritz Mcintyre\nLyrics powered by www.musixmatch.com",
+                "tabname": "Lyrics",
+                "beacondata": {
+                    "lyricsid": "7288190",
+                    "providername": "musixmatch",
+                    "commontrackid": "120441"
+                }
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/219270/youtube/video?q=Simply+Red+%22Thrill+Me%22"
+            },
+            {
+                "type": "RELATED",
+                "url": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-219270?startFrom=0&pageSize=20&connected=",
+                "tabname": "Related"
+            }
+        ],
+        "url": "https://www.shazam.com/track/219270/thrill-me",
+        "artists": [
+            {
+                "id": "42",
+                "adamid": "163002"
+            }
+        ],
+        "isrc": "GBAHS0700618",
+        "genres": {
+            "primary": "Pop"
+        },
+        "urlparams": {
+            "{tracktitle}": "Thrill+Me",
+            "{trackartist}": "Simply+Red"
+        },
+        "myshazam": {
+            "apple": {
+                "actions": [
+                    {
+                        "name": "myshazam:apple",
+                        "type": "uri",
+                        "uri": "https://music.apple.com/gb/album/thrill-me/294361368?i=294361440&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                ]
+            }
+        },
+        "highlightsurls": {
+            "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/163002/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios&videoIdToFilter=273889033",
+            "trackhighlighturl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/highlights/273889033?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+        },
+        "relatedtracksurl": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-219270?startFrom=0&pageSize=20&connected=",
+        "albumadamid": "294361368"
+    },
+    "tagid": "1E05945F-D5EB-4CC9-A2CA-779A8973EB53"
+}

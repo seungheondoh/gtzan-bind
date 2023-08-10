@@ -1,0 +1,292 @@
+{
+    "matches": [
+        {
+            "id": "316709242",
+            "offset": 29.942542968,
+            "timeskew": -0.0003055334,
+            "frequencyskew": -0.0003221631
+        },
+        {
+            "id": "45746814",
+            "offset": 32.81225,
+            "timeskew": 0.008952379,
+            "frequencyskew": 0.0086557865
+        },
+        {
+            "id": "666242803",
+            "offset": 29.905162109,
+            "timeskew": -2.2292137e-05,
+            "frequencyskew": -0.00048315525
+        },
+        {
+            "id": "103204951",
+            "offset": 44.598578125,
+            "timeskew": -0.010744572,
+            "frequencyskew": -0.00040262938
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691633682684,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "54631972",
+        "title": "Highway to Hell",
+        "subtitle": "AC/DC",
+        "images": {
+            "background": "https://is1-ssl.mzstatic.com/image/thumb/Features125/v4/af/b0/02/afb00272-666e-d9ed-24c8-ce9a75e83b5e/mzl.hvoetenq.jpg/800x800cc.jpg",
+            "coverart": "https://is2-ssl.mzstatic.com/image/thumb/Music126/v4/b9/c8/ef/b9c8ef42-bbc9-64df-11f8-717571f6730f/886443673458.jpg/400x400cc.jpg",
+            "coverarthq": "https://is2-ssl.mzstatic.com/image/thumb/Music126/v4/b9/c8/ef/b9c8ef42-bbc9-64df-11f8-717571f6730f/886443673458.jpg/400x400cc.jpg",
+            "joecolor": "b:0d1112p:f4d3b3s:e4c484t:c6ac93q:b9a06d"
+        },
+        "share": {
+            "subject": "Highway to Hell - AC/DC",
+            "text": "Highway to Hell by AC/DC",
+            "href": "https://www.shazam.com/track/54631972/highway-to-hell",
+            "image": "https://is2-ssl.mzstatic.com/image/thumb/Music126/v4/b9/c8/ef/b9c8ef42-bbc9-64df-11f8-717571f6730f/886443673458.jpg/400x400cc.jpg",
+            "twitter": "I used @Shazam to discover Highway to Hell by AC/DC.",
+            "html": "https://www.shazam.com/snippets/email-share/54631972?lang=en-US&country=GB",
+            "avatar": "https://is1-ssl.mzstatic.com/image/thumb/Features125/v4/af/b0/02/afb00272-666e-d9ed-24c8-ce9a75e83b5e/mzl.hvoetenq.jpg/800x800cc.jpg",
+            "snapchat": "https://www.shazam.com/partner/sc/track/54631972"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "actions": [
+                {
+                    "name": "apple",
+                    "type": "applemusicplay",
+                    "id": "574044008"
+                },
+                {
+                    "name": "apple",
+                    "type": "uri",
+                    "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/cb/f4/3f/cbf43f47-747d-bcc2-19cf-6bf2c523f5d8/mzaf_6863292736055327179.plus.aac.ep.m4a"
+                }
+            ],
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/gb/album/highway-to-hell/574043989?i=574044008&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/gb/album/highway-to-hell/574043989?i=574044008&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                },
+                {
+                    "caption": "BUY",
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "uri": "https://itunes.apple.com/gb/album/highway-to-hell/574043989?i=574044008&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "buy",
+                        "providername": "itunes"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "type": "buy",
+                    "listcaption": "Buy on iTunes",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "itunes"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:Highway%20to%20Hell%20AC%2FDC"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27Highway+to+Hell%27%20artist%3A%27AC%2FDC%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": false,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [
+                    {
+                        "image": "https://is1-ssl.mzstatic.com/image/thumb/Features125/v4/af/b0/02/afb00272-666e-d9ed-24c8-ce9a75e83b5e/mzl.hvoetenq.jpg/800x800cc.jpg",
+                        "caption": "AC/DC"
+                    },
+                    {
+                        "image": "https://is2-ssl.mzstatic.com/image/thumb/Music126/v4/b9/c8/ef/b9c8ef42-bbc9-64df-11f8-717571f6730f/886443673458.jpg/400x400cc.jpg",
+                        "caption": "Highway to Hell"
+                    }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                    {
+                        "title": "Album",
+                        "text": "Highway to Hell"
+                    },
+                    {
+                        "title": "Label",
+                        "text": "Columbia"
+                    },
+                    {
+                        "title": "Released",
+                        "text": "1979"
+                    }
+                ]
+            },
+            {
+                "type": "LYRICS",
+                "text": [
+                    "Livin' easy",
+                    "Lovin' free",
+                    "Season ticket on a one way ride",
+                    "Askin' nothin'",
+                    "Leave me be",
+                    "Takin' everythin' in my stride",
+                    "Don't need reason",
+                    "Don't need rhyme",
+                    "Ain't nothin' I'd rather do",
+                    "Goin' down",
+                    "Party time",
+                    "My friends are gonna be there, too",
+                    "",
+                    "Ehh",
+                    "",
+                    "I'm on the highway to hell",
+                    "On the highway to hell",
+                    "Highway to hell",
+                    "I'm on the highway to hell",
+                    "",
+                    "No stop signs",
+                    "Speed limit",
+                    "Nobody's gonna slow me down",
+                    "Like a wheel",
+                    "Gonna spin it",
+                    "Nobody's gonna mess me around",
+                    "Hey Satan",
+                    "Payin' my dues",
+                    "Playin' in a rocking band",
+                    "Hey momma",
+                    "Look at me",
+                    "I'm on my way to the Promised Land",
+                    "",
+                    "Wow",
+                    "",
+                    "I'm on the highway to hell",
+                    "Highway to hell",
+                    "I'm on the highway to hell",
+                    "Highway to hell",
+                    "",
+                    "Mmm, don't stop me",
+                    "Ehh, ehh, oww",
+                    "",
+                    "I'm on the highway to hell",
+                    "On the highway to hell",
+                    "I'm on the highway to hell",
+                    "On the highway to...",
+                    "Hellllllll",
+                    "Highway to hell (I'm on the highway to hell)",
+                    "Highway to hell (Momma, I'm on the)",
+                    "Highway to Hell",
+                    "",
+                    "And I'm goin' down, all the way, wowwww",
+                    "I'm on the highway to hell"
+                ],
+                "url": "https://cdn.shazam.com/lyrics/v1/en-US/GB/iphone/musixmatch/subtitles/12517275/208/1?token=75b899de0caf5ee5e647b7642a128e6a",
+                "footer": "Writer(s): Darrell Scott, Angus Young\nLyrics powered by www.musixmatch.com",
+                "tabname": "Lyrics",
+                "beacondata": {
+                    "lyricsid": "21201889",
+                    "providername": "musixmatch",
+                    "commontrackid": "12517275"
+                }
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/54631972/youtube/video?q=AC/DC+%22Highway+to+Hell%22"
+            },
+            {
+                "type": "RELATED",
+                "url": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-54631972?startFrom=0&pageSize=20&connected=",
+                "tabname": "Related"
+            }
+        ],
+        "url": "https://www.shazam.com/track/54631972/highway-to-hell",
+        "artists": [
+            {
+                "id": "42",
+                "adamid": "5040714"
+            }
+        ],
+        "isrc": "AUAP07900028",
+        "genres": {
+            "primary": "Hard Rock"
+        },
+        "urlparams": {
+            "{tracktitle}": "Highway+to+Hell",
+            "{trackartist}": "AC%2FDC"
+        },
+        "myshazam": {
+            "apple": {
+                "actions": [
+                    {
+                        "name": "myshazam:apple",
+                        "type": "uri",
+                        "uri": "https://music.apple.com/gb/album/highway-to-hell/574043989?i=574044008&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                ]
+            }
+        },
+        "highlightsurls": {
+            "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/5040714/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios&videoIdToFilter=1280466564",
+            "trackhighlighturl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/highlights/1280466564?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+        },
+        "relatedtracksurl": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-54631972?startFrom=0&pageSize=20&connected=",
+        "albumadamid": "574043989"
+    },
+    "tagid": "7AB4BF75-2614-46AE-B751-CD922AF6AA92"
+}

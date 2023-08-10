@@ -1,0 +1,265 @@
+{
+    "matches": [
+        {
+            "id": "207672773",
+            "offset": 30.177103515,
+            "timeskew": 0.0080349445,
+            "frequencyskew": 0.008371472
+        },
+        {
+            "id": "292989134",
+            "offset": 143.030890625,
+            "timeskew": -0.028870165,
+            "frequencyskew": -0.0281111
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691632470447,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "5247292",
+        "title": "I Want Your Love",
+        "subtitle": "Chic",
+        "images": {
+            "background": "https://is4-ssl.mzstatic.com/image/thumb/Features125/v4/89/5a/db/895adb34-57db-45b9-bf72-69bbbf0e539b/mzl.kxhtctqd.jpg/800x800cc.jpg",
+            "coverart": "https://is5-ssl.mzstatic.com/image/thumb/Music/v4/e3/26/c7/e326c72a-c6e0-1887-92a4-e4bb4f04edcd/075678155222.jpg/400x400cc.jpg",
+            "coverarthq": "https://is5-ssl.mzstatic.com/image/thumb/Music/v4/e3/26/c7/e326c72a-c6e0-1887-92a4-e4bb4f04edcd/075678155222.jpg/400x400cc.jpg",
+            "joecolor": "b:fcfdffp:0a0e04s:5c0008t:3a3e36q:7c3239"
+        },
+        "share": {
+            "subject": "I Want Your Love - Chic",
+            "text": "I Want Your Love by Chic",
+            "href": "https://www.shazam.com/track/5247292/i-want-your-love",
+            "image": "https://is5-ssl.mzstatic.com/image/thumb/Music/v4/e3/26/c7/e326c72a-c6e0-1887-92a4-e4bb4f04edcd/075678155222.jpg/400x400cc.jpg",
+            "twitter": "I used @Shazam to discover I Want Your Love by Chic.",
+            "html": "https://www.shazam.com/snippets/email-share/5247292?lang=en-US&country=GB",
+            "avatar": "https://is4-ssl.mzstatic.com/image/thumb/Features125/v4/89/5a/db/895adb34-57db-45b9-bf72-69bbbf0e539b/mzl.kxhtctqd.jpg/800x800cc.jpg",
+            "snapchat": "https://www.shazam.com/partner/sc/track/5247292"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "actions": [
+                {
+                    "name": "apple",
+                    "type": "applemusicplay",
+                    "id": "734291662"
+                },
+                {
+                    "name": "apple",
+                    "type": "uri",
+                    "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/69/d7/e7/69d7e703-5a0b-61da-0867-7312773c1a07/mzaf_13065816159218921187.plus.aac.ep.m4a"
+                }
+            ],
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/gb/album/i-want-your-love/734291580?i=734291662&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/gb/album/i-want-your-love/734291580?i=734291662&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                },
+                {
+                    "caption": "BUY",
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "uri": "https://itunes.apple.com/gb/album/i-want-your-love/734291580?i=734291662&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "buy",
+                        "providername": "itunes"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "type": "buy",
+                    "listcaption": "Buy on iTunes",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "itunes"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:I%20Want%20Your%20Love%20Chic"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27I+Want+Your+Love%27%20artist%3A%27Chic%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": false,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [
+                    {
+                        "image": "https://is4-ssl.mzstatic.com/image/thumb/Features125/v4/89/5a/db/895adb34-57db-45b9-bf72-69bbbf0e539b/mzl.kxhtctqd.jpg/800x800cc.jpg",
+                        "caption": "Chic"
+                    },
+                    {
+                        "image": "https://is5-ssl.mzstatic.com/image/thumb/Music/v4/e3/26/c7/e326c72a-c6e0-1887-92a4-e4bb4f04edcd/075678155222.jpg/400x400cc.jpg",
+                        "caption": "I Want Your Love"
+                    }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                    {
+                        "title": "Album",
+                        "text": "The Studio Album Collection 1977-1992"
+                    },
+                    {
+                        "title": "Label",
+                        "text": "Rhino Atlantic"
+                    },
+                    {
+                        "title": "Released",
+                        "text": "1978"
+                    }
+                ]
+            },
+            {
+                "type": "LYRICS",
+                "text": [
+                    "I want your love, I want your love",
+                    "I want your love, I want your love",
+                    "",
+                    "Do you feel like you ever want to try my love and see how well it fits?",
+                    "Baby, can't you see?",
+                    "When you look at me",
+                    "I can't kick this feelin' when it hits",
+                    "",
+                    "All alone in my bed at night",
+                    "I grab my pillow, and squeeze it tight",
+                    "I think of you, and I dream of you all of the time",
+                    "What am I gonna do?",
+                    "",
+                    "I want your love, I want your love",
+                    "I want your love, I want your love",
+                    "",
+                    "Sometimes, don't you feel like you never really had a love that's real?",
+                    "Well here I am and who's to say a better love you won't find today?",
+                    "",
+                    "Just one chance and I will show you love",
+                    "Like no other, two steps above",
+                    "On your ladder I'll be a peg",
+                    "I want your lovin'",
+                    "Please don't make me beg",
+                    "",
+                    "I want your love, I want your love",
+                    "I want your love, I want your love",
+                    "",
+                    "I want your love, I need your love",
+                    "I'll share my dreams, and make you see",
+                    "How real are they, your love I need",
+                    "I want your love, I need your love",
+                    "",
+                    "Just like the birds, the sky above",
+                    "I'll share my dreams, and make you see",
+                    "How real are they, your love I need",
+                    "",
+                    "I want your love, I want your love",
+                    "I want your love, I want your love"
+                ],
+                "url": "https://cdn.shazam.com/lyrics/v1/en-US/GB/iphone/musixmatch/subtitles/14718209/415/1?token=f62293b9bb8e03ecf844e0d2dee38ebf",
+                "footer": "Writer(s): Bernard Edwards\nLyrics powered by www.musixmatch.com",
+                "tabname": "Lyrics",
+                "beacondata": {
+                    "lyricsid": "24026125",
+                    "providername": "musixmatch",
+                    "commontrackid": "14718209"
+                }
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/5247292/youtube/video?q=Chic+%22I+Want+Your+Love%22"
+            },
+            {
+                "type": "RELATED",
+                "url": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-5247292?startFrom=0&pageSize=20&connected=",
+                "tabname": "Related"
+            }
+        ],
+        "url": "https://www.shazam.com/track/5247292/i-want-your-love",
+        "artists": [
+            {
+                "id": "42",
+                "adamid": "555106"
+            }
+        ],
+        "isrc": "USAT29200020",
+        "genres": {
+            "primary": "R&B/Soul"
+        },
+        "urlparams": {
+            "{tracktitle}": "I+Want+Your+Love",
+            "{trackartist}": "Chic"
+        },
+        "myshazam": {
+            "apple": {
+                "actions": [
+                    {
+                        "name": "myshazam:apple",
+                        "type": "uri",
+                        "uri": "https://music.apple.com/gb/album/i-want-your-love/734291580?i=734291662&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                ]
+            }
+        },
+        "highlightsurls": {
+            "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/555106/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios&videoIdToFilter=1528806748",
+            "trackhighlighturl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/highlights/1528806748?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+        },
+        "relatedtracksurl": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-5247292?startFrom=0&pageSize=20&connected=",
+        "albumadamid": "734291580"
+    },
+    "tagid": "572BAC0E-551C-4582-AA7C-BDDA2DBE229D"
+}

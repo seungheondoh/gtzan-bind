@@ -1,0 +1,273 @@
+{
+    "matches": [
+        {
+            "id": "200214062",
+            "offset": 29.748707031000002,
+            "timeskew": 0.0009266138,
+            "frequencyskew": 0.0006445646
+        },
+        {
+            "id": "297767362",
+            "offset": 30.638361328,
+            "timeskew": -0.016157031,
+            "frequencyskew": -0.016416252
+        },
+        {
+            "id": "303926570",
+            "offset": 487.9334375,
+            "timeskew": -0.04064852,
+            "frequencyskew": -0.040710628
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691633214179,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "5221430",
+        "title": "One Love / People Get Ready",
+        "subtitle": "Bob Marley & The Wailers",
+        "images": {
+            "background": "https://is5-ssl.mzstatic.com/image/thumb/Features125/v4/0e/10/96/0e10963d-8c5d-f176-3651-796ec44d0c97/mzl.kdlmyecx.jpg/800x800cc.jpg",
+            "coverart": "https://is2-ssl.mzstatic.com/image/thumb/Music124/v4/20/99/ad/2099ad6d-b13c-02f7-6dd8-841d955fffb9/06UMGIM31355.rgb.jpg/400x400cc.jpg",
+            "coverarthq": "https://is2-ssl.mzstatic.com/image/thumb/Music124/v4/20/99/ad/2099ad6d-b13c-02f7-6dd8-841d955fffb9/06UMGIM31355.rgb.jpg/400x400cc.jpg",
+            "joecolor": "b:a59a6cp:060602s:25201at:262317q:3f382a"
+        },
+        "share": {
+            "subject": "One Love / People Get Ready - Bob Marley & The Wailers",
+            "text": "One Love / People Get Ready by Bob Marley & The Wailers",
+            "href": "https://www.shazam.com/track/5221430/one-love-people-get-ready",
+            "image": "https://is2-ssl.mzstatic.com/image/thumb/Music124/v4/20/99/ad/2099ad6d-b13c-02f7-6dd8-841d955fffb9/06UMGIM31355.rgb.jpg/400x400cc.jpg",
+            "twitter": "I used @Shazam to discover One Love / People Get Ready by Bob Marley & The Wailers.",
+            "html": "https://www.shazam.com/snippets/email-share/5221430?lang=en-US&country=GB",
+            "avatar": "https://is5-ssl.mzstatic.com/image/thumb/Features125/v4/0e/10/96/0e10963d-8c5d-f176-3651-796ec44d0c97/mzl.kdlmyecx.jpg/800x800cc.jpg",
+            "snapchat": "https://www.shazam.com/partner/sc/track/5221430"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "actions": [
+                {
+                    "name": "apple",
+                    "type": "applemusicplay",
+                    "id": "1422950296"
+                },
+                {
+                    "name": "apple",
+                    "type": "uri",
+                    "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/dd/29/40/dd29400d-3552-77f7-9eb4-a149e4b3b24e/mzaf_2648253235489424251.plus.aac.ep.m4a"
+                }
+            ],
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/gb/album/one-love-people-get-ready/1422950004?i=1422950296&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/gb/album/one-love-people-get-ready/1422950004?i=1422950296&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                },
+                {
+                    "caption": "BUY",
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "uri": "https://itunes.apple.com/gb/album/one-love-people-get-ready/1422950004?i=1422950296&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "buy",
+                        "providername": "itunes"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "type": "buy",
+                    "listcaption": "Buy on iTunes",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "itunes"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:One%20Love%20%2F%20People%20Get%20Ready%20Bob%20Marley%20%26%20The%20Wailers"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27One+Love+%2F+People+Get+Ready%27%20artist%3A%27Bob+Marley++The+Wailers%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": false,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [
+                    {
+                        "image": "https://is5-ssl.mzstatic.com/image/thumb/Features125/v4/0e/10/96/0e10963d-8c5d-f176-3651-796ec44d0c97/mzl.kdlmyecx.jpg/800x800cc.jpg",
+                        "caption": "Bob Marley & The Wailers"
+                    },
+                    {
+                        "image": "https://is2-ssl.mzstatic.com/image/thumb/Music124/v4/20/99/ad/2099ad6d-b13c-02f7-6dd8-841d955fffb9/06UMGIM31355.rgb.jpg/400x400cc.jpg",
+                        "caption": "One Love / People Get Ready"
+                    }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                    {
+                        "title": "Album",
+                        "text": "Exodus (Bonus Track Version)"
+                    },
+                    {
+                        "title": "Label",
+                        "text": "Tuff Gong"
+                    },
+                    {
+                        "title": "Released",
+                        "text": "1977"
+                    }
+                ]
+            },
+            {
+                "type": "LYRICS",
+                "text": [
+                    "One love, one heart",
+                    "Let's get together and feel all right",
+                    "Hear the children crying (one love)",
+                    "Hear the children crying (one heart)",
+                    "Sayin', \"Give thanks and praise to the Lord",
+                    "And I will feel all right\"",
+                    "Sayin', \"Let's get together and feel all right\"",
+                    "Whoa, whoa, whoa, whoa",
+                    "",
+                    "Let them all pass all their dirty remarks (one love)",
+                    "There is one question I'd really love to ask (one heart)",
+                    "Is there a place for the hopeless sinners",
+                    "Who has hurt all mankind just to save his own?",
+                    "Believe me",
+                    "",
+                    "One love (what about the one heart?)",
+                    "One heart (what about-)",
+                    "Let's get together and feel all right",
+                    "As it was in the beginning (one love)",
+                    "So shall it be in the end (one heart)",
+                    "Alright, give thanks and praise to the Lord",
+                    "And I will feel all right",
+                    "Let's get together and feel all right",
+                    "",
+                    "One more thing",
+                    "Let's get together to fight this Holy Armageddon (one love)",
+                    "So when the Man comes there will be no, no doom (one song)",
+                    "Have pity on those whose chances grows thinner",
+                    "There ain't no hiding place from the Father of Creation",
+                    "",
+                    "Sayin', one love (what about the one heart?)",
+                    "One heart (what about-)",
+                    "Let's get together and feel all right",
+                    "I'm pleading to mankind (one love)",
+                    "Oh, Lord (one heart) whoa",
+                    "Give thanks and praise to the Lord",
+                    "And I will feel all right",
+                    "Let's get together and feel all right",
+                    "Give thanks and praise to the Lord",
+                    "And I will feel all right",
+                    "",
+                    "Let's get together and feel all right"
+                ],
+                "url": "https://cdn.shazam.com/lyrics/v1/en-US/GB/iphone/musixmatch/subtitles/10164770/173/1?token=479069074ed16aaf4b784a3fb949400f",
+                "footer": "Writer(s): Curtis Mayfield, Bob Marley\nLyrics powered by www.musixmatch.com",
+                "tabname": "Lyrics",
+                "beacondata": {
+                    "lyricsid": "23781771",
+                    "providername": "musixmatch",
+                    "commontrackid": "10164770"
+                }
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/5221430/youtube/video?q=Bob+Marley+%26+The+Wailers+%22One+Love+/+People+Get+Ready%22"
+            },
+            {
+                "type": "RELATED",
+                "url": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-5221430?startFrom=0&pageSize=20&connected=",
+                "tabname": "Related"
+            }
+        ],
+        "url": "https://www.shazam.com/track/5221430/one-love-people-get-ready",
+        "artists": [
+            {
+                "id": "42",
+                "adamid": "3174628"
+            }
+        ],
+        "isrc": "GBAAN7790002",
+        "genres": {
+            "primary": "Reggae"
+        },
+        "urlparams": {
+            "{tracktitle}": "One+Love+%2F+People+Get+Ready",
+            "{trackartist}": "Bob+Marley+%26+The+Wailers"
+        },
+        "myshazam": {
+            "apple": {
+                "actions": [
+                    {
+                        "name": "myshazam:apple",
+                        "type": "uri",
+                        "uri": "https://music.apple.com/gb/album/one-love-people-get-ready/1422950004?i=1422950296&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                ]
+            }
+        },
+        "highlightsurls": {
+            "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/3174628/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+        },
+        "relatedtracksurl": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-5221430?startFrom=0&pageSize=20&connected=",
+        "albumadamid": "1422950004"
+    },
+    "tagid": "BB307E5C-0D36-4457-9553-32A8ABF30A9E"
+}

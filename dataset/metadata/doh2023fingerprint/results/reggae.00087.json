@@ -1,0 +1,301 @@
+{
+    "matches": [
+        {
+            "id": "202415946",
+            "offset": 29.829257812,
+            "timeskew": -6.479025e-05,
+            "frequencyskew": -0.00016111135
+        },
+        {
+            "id": "208103610",
+            "offset": 30.494373046,
+            "timeskew": 5.7578087e-05,
+            "frequencyskew": -0.00016111135
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691633254668,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "302246",
+        "title": "Turn Your Lights Down Low (feat. Lauryn Hill)",
+        "subtitle": "Bob Marley",
+        "images": {
+            "background": "https://is5-ssl.mzstatic.com/image/thumb/Features126/v4/e7/fa/d8/e7fad8bf-fd10-fb5d-a544-a7c8eefa812d/mza_2418279402495252125.jpg/800x800cc.jpg",
+            "coverart": "https://is4-ssl.mzstatic.com/image/thumb/Music123/v4/9e/8d/82/9e8d82b1-8837-a183-3c8d-2be97f3ee511/23UMGIM02173.rgb.jpg/400x400cc.jpg",
+            "coverarthq": "https://is4-ssl.mzstatic.com/image/thumb/Music123/v4/9e/8d/82/9e8d82b1-8837-a183-3c8d-2be97f3ee511/23UMGIM02173.rgb.jpg/400x400cc.jpg",
+            "joecolor": "b:b32b34p:fdddaas:f6b4b2t:eeb992q:e99899"
+        },
+        "share": {
+            "subject": "Turn Your Lights Down Low (feat. Lauryn Hill) - Bob Marley",
+            "text": "Turn Your Lights Down Low (feat. Lauryn Hill) by Bob Marley",
+            "href": "https://www.shazam.com/track/302246/turn-your-lights-down-low-feat-lauryn-hill",
+            "image": "https://is4-ssl.mzstatic.com/image/thumb/Music123/v4/9e/8d/82/9e8d82b1-8837-a183-3c8d-2be97f3ee511/23UMGIM02173.rgb.jpg/400x400cc.jpg",
+            "twitter": "I used @Shazam to discover Turn Your Lights Down Low (feat. Lauryn Hill) by Bob Marley.",
+            "html": "https://www.shazam.com/snippets/email-share/302246?lang=en-US&country=GB",
+            "avatar": "https://is5-ssl.mzstatic.com/image/thumb/Features126/v4/e7/fa/d8/e7fad8bf-fd10-fb5d-a544-a7c8eefa812d/mza_2418279402495252125.jpg/800x800cc.jpg",
+            "snapchat": "https://www.shazam.com/partner/sc/track/302246"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "actions": [
+                {
+                    "name": "apple",
+                    "type": "applemusicplay",
+                    "id": "1666719278"
+                },
+                {
+                    "name": "apple",
+                    "type": "uri",
+                    "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview113/v4/a2/63/f0/a263f0e6-95d4-2cfb-6df2-ecd244c5ec4a/mzaf_10949513718504879810.plus.aac.ep.m4a"
+                }
+            ],
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/gb/album/turn-your-lights-down-low-feat-lauryn-hill/1666719268?i=1666719278&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/gb/album/turn-your-lights-down-low-feat-lauryn-hill/1666719268?i=1666719278&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                },
+                {
+                    "caption": "BUY",
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "uri": "https://itunes.apple.com/gb/album/turn-your-lights-down-low-feat-lauryn-hill/1666719268?i=1666719278&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "buy",
+                        "providername": "itunes"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "type": "buy",
+                    "listcaption": "Buy on iTunes",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "itunes"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:Turn%20Your%20Lights%20Down%20Low%20%28feat.%20Lauryn%20Hill%29%20Bob%20Marley"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27Turn+Your+Lights+Down+Low+%28feat.+Lauryn+Hill%29%27%20artist%3A%27Bob+Marley%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": false,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [
+                    {
+                        "image": "https://is5-ssl.mzstatic.com/image/thumb/Features126/v4/e7/fa/d8/e7fad8bf-fd10-fb5d-a544-a7c8eefa812d/mza_2418279402495252125.jpg/800x800cc.jpg",
+                        "caption": "Bob Marley"
+                    },
+                    {
+                        "image": "https://is4-ssl.mzstatic.com/image/thumb/Music123/v4/9e/8d/82/9e8d82b1-8837-a183-3c8d-2be97f3ee511/23UMGIM02173.rgb.jpg/400x400cc.jpg",
+                        "caption": "Turn Your Lights Down Low (feat. Lauryn Hill)"
+                    }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                    {
+                        "title": "Album",
+                        "text": "Reggae Collected"
+                    },
+                    {
+                        "title": "Label",
+                        "text": "UME - Global Clearing House"
+                    },
+                    {
+                        "title": "Released",
+                        "text": "1999"
+                    }
+                ]
+            },
+            {
+                "type": "LYRICS",
+                "text": [
+                    "Uh",
+                    "",
+                    "Turn your lights down low",
+                    "And pull your window curtain (yeah)",
+                    "Oh, let Jah moon come shining in",
+                    "Into our life again",
+                    "Saying, ooh, it's been a long, long time (long, long time)",
+                    "I got this message for you, girl",
+                    "But it seems I was never on time",
+                    "Still I wanna get through to you, girl",
+                    "On time, on time (word)",
+                    "",
+                    "I want to give you some love",
+                    "I want to give you some good, good loving",
+                    "(Uh, uh, right, uh) oh I, oh I, oh I",
+                    "Yeah, I want to give you some good, good loving (uh)",
+                    "",
+                    "Turn your lights down low (word, word, uh, uh)",
+                    "Never ever try to resist, oh no (na, na, na)",
+                    "Oh, let your love come shining in (na, na, na)",
+                    "Into our lives again (na, na, na)",
+                    "Saying, ooh, I love you (I love you, I love you)",
+                    "And I want you to know right now (know right now)",
+                    "Ooh, I love you (uh-uh, yeah, uh)",
+                    "And I want you to know right now (uh)",
+                    "That I, that I (na, na, na)",
+                    "",
+                    "I wanna give you some love (uh, yeah) (I)",
+                    "I wanna give you some good, good loving (good, good)",
+                    "Oh I, oh I, oh I",
+                    "I wanna give you some good, good loving (yeah, uh-uh)",
+                    "",
+                    "Loving you is a like a song I replay (loving you)",
+                    "Every three minutes and thirty seconds of every day (is easy 'cause you're beautiful) (uh, uh)",
+                    "And every was written for us to recite (right)",
+                    "Every beautiful melody of devotion every night",
+                    "It's potion like this ocean that might carry me",
+                    "In a wave of emotion to ask you to marry me",
+                    "And every word, every second, and every third",
+                    "",
+                    "Expresses the happiness more clearly than ever heard (uh)",
+                    "And when I play them, every chord is a poem",
+                    "Telling the Lord how grateful I am 'cause I know him (what? Word)",
+                    "The harmonies possess, a sensation similar to your caress (uh)",
+                    "If you asking then I'm telling you it's yes (yes, yes)",
+                    "Stand in love, take my hand in love, Jah bless (right, right)",
+                    "",
+                    "I want to give you some good, good loving",
+                    "",
+                    "Turn your lights down low (right, right now)",
+                    "And pull your window curtain (I said, right, right now)",
+                    "And let Jah love some tumblin' in (right, right now)",
+                    "Into our lives again (uh, uh, I said right, right now)",
+                    "Sayin', ooh, it's been a long, long time",
+                    "I got this message for you, boy",
+                    "But it seems I was never on time",
+                    "Still I want to get through to you, boy (uh, yeah)",
+                    "On time (right, right now), on time (I said, right, right now, uh)",
+                    "",
+                    "I want to give you some love (wha-what? Yeah, wha-what?)",
+                    "Oh, I-I, I want to give you some good, good loving (yea, yea, can you hear me?)",
+                    "Oh I, oh I (uh), oh I (uh, yeah, it's like)",
+                    "I wanna give you some good, good loving (uh, yeah, it's like)",
+                    "",
+                    "Good (some good), good, good loving",
+                    "I wanna give you some good loving",
+                    "Good, good, oh I, oh I (yeah, yeah, right, right now)",
+                    "I wanna give you some good loving (yo, yo, uh, right, right now)",
+                    "Oh, oh-I",
+                    "I wanna, I wanna, I wanna, I wanna, I wanna, oh",
+                    "",
+                    "Oh-oh-oh, yeah (what? What? What?)",
+                    "Feel so good, good to me (please don't forget passionate, babies in the bassinet)",
+                    "(You call, we be ready, ma steady) feels so good to me, ma steady",
+                    "(Yes, yes, baby love) feels so",
+                    "Oh, oh-oh, oh"
+                ],
+                "url": "https://cdn.shazam.com/lyrics/v1/en-US/GB/iphone/musixmatch/subtitles/26080821/242/1?token=63cf9225b48929764a08bd728a975903",
+                "footer": "Writer(s): Bob Marley\nLyrics powered by www.musixmatch.com",
+                "tabname": "Lyrics",
+                "beacondata": {
+                    "lyricsid": "30349256",
+                    "providername": "musixmatch",
+                    "commontrackid": "26080821"
+                }
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/302246/youtube/video?q=Bob+Marley+%22Turn+Your+Lights+Down+Low+(feat.+Lauryn+Hill)%22"
+            },
+            {
+                "type": "RELATED",
+                "url": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-302246?startFrom=0&pageSize=20&connected=",
+                "tabname": "Related"
+            }
+        ],
+        "url": "https://www.shazam.com/track/302246/turn-your-lights-down-low-feat-lauryn-hill",
+        "artists": [
+            {
+                "id": "42",
+                "adamid": "121982"
+            }
+        ],
+        "isrc": "USIR29905024",
+        "genres": {
+            "primary": "Reggae"
+        },
+        "urlparams": {
+            "{tracktitle}": "Turn+Your+Lights+Down+Low+%28feat.+Lauryn+Hill%29",
+            "{trackartist}": "Bob+Marley"
+        },
+        "myshazam": {
+            "apple": {
+                "actions": [
+                    {
+                        "name": "myshazam:apple",
+                        "type": "uri",
+                        "uri": "https://music.apple.com/gb/album/turn-your-lights-down-low-feat-lauryn-hill/1666719268?i=1666719278&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                ]
+            }
+        },
+        "highlightsurls": {
+            "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/121982/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+        },
+        "relatedtracksurl": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-302246?startFrom=0&pageSize=20&connected=",
+        "albumadamid": "1666719268"
+    },
+    "tagid": "6408EEBC-871F-4305-B62A-EEA3866528D4"
+}

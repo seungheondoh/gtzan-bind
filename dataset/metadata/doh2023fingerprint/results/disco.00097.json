@@ -1,0 +1,290 @@
+{
+    "matches": [
+        {
+            "id": "266087532",
+            "offset": 29.878626952999998,
+            "timeskew": 0.0018953085,
+            "frequencyskew": 0.0014106035
+        },
+        {
+            "id": "211413261",
+            "offset": 37.002804687,
+            "timeskew": 0.0011268854,
+            "frequencyskew": 0.0020561218
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691632495603,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "90956807",
+        "title": "Do You Wanna Funk? (feat. Sylvester)",
+        "subtitle": "Patrick Cowley",
+        "images": {
+            "background": "https://is5-ssl.mzstatic.com/image/thumb/Features114/v4/3d/21/22/3d2122b7-0d0d-17c6-b9de-9884ddfc6c8f/pr_source.png/800x800cc.jpg",
+            "coverart": "https://is4-ssl.mzstatic.com/image/thumb/Music124/v4/71/b0/d5/71b0d5b7-96d0-314a-8815-fa3f5eb3f887/dj.lsnsxiga.jpg/400x400cc.jpg",
+            "coverarthq": "https://is4-ssl.mzstatic.com/image/thumb/Music124/v4/71/b0/d5/71b0d5b7-96d0-314a-8815-fa3f5eb3f887/dj.lsnsxiga.jpg/400x400cc.jpg",
+            "joecolor": "b:4f47a3p:fffffcs:c0aaf2t:dbdaeaq:a996e2"
+        },
+        "share": {
+            "subject": "Do You Wanna Funk? (feat. Sylvester) - Patrick Cowley",
+            "text": "Do You Wanna Funk? (feat. Sylvester) by Patrick Cowley",
+            "href": "https://www.shazam.com/track/90956807/do-you-wanna-funk-feat-sylvester",
+            "image": "https://is4-ssl.mzstatic.com/image/thumb/Music124/v4/71/b0/d5/71b0d5b7-96d0-314a-8815-fa3f5eb3f887/dj.lsnsxiga.jpg/400x400cc.jpg",
+            "twitter": "I used @Shazam to discover Do You Wanna Funk? (feat. Sylvester) by Patrick Cowley.",
+            "html": "https://www.shazam.com/snippets/email-share/90956807?lang=en-US&country=GB",
+            "avatar": "https://is5-ssl.mzstatic.com/image/thumb/Features114/v4/3d/21/22/3d2122b7-0d0d-17c6-b9de-9884ddfc6c8f/pr_source.png/800x800cc.jpg",
+            "snapchat": "https://www.shazam.com/partner/sc/track/90956807"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "actions": [
+                {
+                    "name": "apple",
+                    "type": "applemusicplay",
+                    "id": "281225050"
+                },
+                {
+                    "name": "apple",
+                    "type": "uri",
+                    "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/1c/79/d6/1c79d6e6-57e2-6dfd-6224-2e2eb61e93b6/mzaf_11671808181475740073.plus.aac.ep.m4a"
+                }
+            ],
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/gb/album/do-you-wanna-funk-feat-sylvester/281224983?i=281225050&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/gb/album/do-you-wanna-funk-feat-sylvester/281224983?i=281225050&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                },
+                {
+                    "caption": "BUY",
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "uri": "https://itunes.apple.com/gb/album/do-you-wanna-funk-feat-sylvester/281224983?i=281225050&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "buy",
+                        "providername": "itunes"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "type": "buy",
+                    "listcaption": "Buy on iTunes",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "itunes"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:Do%20You%20Wanna%20Funk%3F%20%28feat.%20Sylvester%29%20Patrick%20Cowley"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27Do+You+Wanna+Funk%3F+%28feat.+Sylvester%29%27%20artist%3A%27Patrick+Cowley%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": false,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [
+                    {
+                        "image": "https://is5-ssl.mzstatic.com/image/thumb/Features114/v4/3d/21/22/3d2122b7-0d0d-17c6-b9de-9884ddfc6c8f/pr_source.png/800x800cc.jpg",
+                        "caption": "Patrick Cowley"
+                    },
+                    {
+                        "image": "https://is4-ssl.mzstatic.com/image/thumb/Music124/v4/71/b0/d5/71b0d5b7-96d0-314a-8815-fa3f5eb3f887/dj.lsnsxiga.jpg/400x400cc.jpg",
+                        "caption": "Do You Wanna Funk? (feat. Sylvester)"
+                    }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                    {
+                        "title": "Album",
+                        "text": "Patrick Cowley: The Ultimate Collection"
+                    },
+                    {
+                        "title": "Label",
+                        "text": "Unidisc Music Inc."
+                    },
+                    {
+                        "title": "Released",
+                        "text": "1983"
+                    }
+                ]
+            },
+            {
+                "type": "LYRICS",
+                "text": [
+                    "There is somethin'",
+                    "I wanna ask you",
+                    "There is somethin'",
+                    "That I want to know",
+                    "And to this question",
+                    "You have the answer",
+                    "So tell me",
+                    "What I want to know",
+                    "",
+                    "Do ya wanna funk",
+                    "Won't you tell me now",
+                    "If you wanna funk",
+                    "Let me show you how",
+                    "Do ya wanna funk with me",
+                    "Do ya wanna funk with me",
+                    "",
+                    "So if I tell you",
+                    "That you are really somethin', baby",
+                    "Will you stay",
+                    "Or will you go away",
+                    "(Don't go away)",
+                    "And when I lay my good",
+                    "Lovin' on you (baby)",
+                    "What will it cost me (baby)",
+                    "What will you make me Pay",
+                    "",
+                    "Do ya wanna funk",
+                    "Won't you tell me now",
+                    "If you wanna funk",
+                    "Let me show you how",
+                    "Do ya wanna funk with me",
+                    "Do ya wanna funk with me",
+                    "",
+                    "So if I tell you",
+                    "That you are really somethin', baby",
+                    "Will you stay or will you go away",
+                    "(Don't go away)",
+                    "And when I lay my good lovin' on you (baby)",
+                    "What will it cost me (baby)",
+                    "What will you make me Pay",
+                    "",
+                    "Do ya wanna funk",
+                    "Won't you tell me now",
+                    "If you wanna funk",
+                    "Let me show you how",
+                    "Do ya wanna funk with me",
+                    "Do ya wanna funk with me",
+                    "",
+                    "If ya wanna funk",
+                    "Let me show you how",
+                    "Do ya wanna funk with me",
+                    "Do ya wanna funk with me",
+                    "",
+                    "Ooh wee, baby, oh",
+                    "",
+                    "You got a match?",
+                    "Um hm",
+                    "You got a match?",
+                    "Um hm, um hm",
+                    "It's a forbidden club",
+                    "Look at all the fabulous people",
+                    "You wanna dance?",
+                    "Yes, I'd love to",
+                    "Let's party a little bit",
+                    "Alright"
+                ],
+                "url": "https://cdn.shazam.com/lyrics/v1/en-US/GB/iphone/musixmatch/subtitles/1433156/415/1?token=f5f489d2f6fbd0411a84dc314051d7ae",
+                "footer": "Writer(s): Sylvester James, Patrick Joseph Cowley\nLyrics powered by www.musixmatch.com",
+                "tabname": "Lyrics",
+                "beacondata": {
+                    "lyricsid": "8212690",
+                    "providername": "musixmatch",
+                    "commontrackid": "1433156"
+                }
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/90956807/youtube/video?q=Patrick+Cowley+%22Do+You+Wanna+Funk?+(feat.+Sylvester)%22"
+            },
+            {
+                "type": "RELATED",
+                "url": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-90956807?startFrom=0&pageSize=20&connected=",
+                "tabname": "Related"
+            }
+        ],
+        "url": "https://www.shazam.com/track/90956807/do-you-wanna-funk-feat-sylvester",
+        "artists": [
+            {
+                "id": "42",
+                "adamid": "39897882"
+            }
+        ],
+        "isrc": "CAU118200274",
+        "genres": {
+            "primary": "Dance"
+        },
+        "urlparams": {
+            "{tracktitle}": "Do+You+Wanna+Funk%3F+%28feat.+Sylvester%29",
+            "{trackartist}": "Patrick+Cowley"
+        },
+        "myshazam": {
+            "apple": {
+                "actions": [
+                    {
+                        "name": "myshazam:apple",
+                        "type": "uri",
+                        "uri": "https://music.apple.com/gb/album/do-you-wanna-funk-feat-sylvester/281224983?i=281225050&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                ]
+            }
+        },
+        "highlightsurls": {
+            "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/39897882/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+        },
+        "relatedtracksurl": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-90956807?startFrom=0&pageSize=20&connected=",
+        "albumadamid": "281224983"
+    },
+    "tagid": "8BF7643B-0404-4C37-98F2-380072C2FD3A"
+}

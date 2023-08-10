@@ -1,0 +1,302 @@
+{
+    "matches": [
+        {
+            "id": "478689947",
+            "offset": 1.690109863,
+            "timeskew": -0.03413564,
+            "frequencyskew": -0.034509182
+        },
+        {
+            "id": "289054375",
+            "offset": 2.3345356440000002,
+            "timeskew": -0.017580569,
+            "frequencyskew": -0.01799947
+        },
+        {
+            "id": "340486391",
+            "offset": 2.2596940909999996,
+            "timeskew": -0.012252986,
+            "frequencyskew": -0.014870167
+        },
+        {
+            "id": "327577914",
+            "offset": 314.16965625,
+            "timeskew": -0.028459132,
+            "frequencyskew": -0.02994901
+        },
+        {
+            "id": "335307280",
+            "offset": 2.143279052,
+            "timeskew": -0.0032689571,
+            "frequencyskew": -0.004259944
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691632442722,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "10072574",
+        "title": "Knock On Wood",
+        "subtitle": "Amii Stewart",
+        "images": {
+            "background": "https://is2-ssl.mzstatic.com/image/thumb/Features124/v4/85/aa/ba/85aaba99-7b58-bf18-294f-0747006aabb3/pr_source.png/800x800cc.jpg",
+            "coverart": "https://is3-ssl.mzstatic.com/image/thumb/Music/a7/ff/c2/mzi.ptpgvtdi.tif/400x400cc.jpg",
+            "coverarthq": "https://is3-ssl.mzstatic.com/image/thumb/Music/a7/ff/c2/mzi.ptpgvtdi.tif/400x400cc.jpg",
+            "joecolor": "b:e85a7bp:190409s:151515t:421620q:3f232a"
+        },
+        "share": {
+            "subject": "Knock On Wood - Amii Stewart",
+            "text": "Knock On Wood by Amii Stewart",
+            "href": "https://www.shazam.com/track/10072574/knock-on-wood",
+            "image": "https://is3-ssl.mzstatic.com/image/thumb/Music/a7/ff/c2/mzi.ptpgvtdi.tif/400x400cc.jpg",
+            "twitter": "I used @Shazam to discover Knock On Wood by Amii Stewart.",
+            "html": "https://www.shazam.com/snippets/email-share/10072574?lang=en-US&country=GB",
+            "avatar": "https://is2-ssl.mzstatic.com/image/thumb/Features124/v4/85/aa/ba/85aaba99-7b58-bf18-294f-0747006aabb3/pr_source.png/800x800cc.jpg",
+            "snapchat": "https://www.shazam.com/partner/sc/track/10072574"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "actions": [
+                {
+                    "name": "apple",
+                    "type": "applemusicplay",
+                    "id": "386939297"
+                },
+                {
+                    "name": "apple",
+                    "type": "uri",
+                    "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/80/8c/c5/808cc5a1-8d59-f082-e5d6-454409f36451/mzaf_2340508071252893925.plus.aac.ep.m4a"
+                }
+            ],
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/gb/album/knock-on-wood/386939103?i=386939297&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/gb/album/knock-on-wood/386939103?i=386939297&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                },
+                {
+                    "caption": "BUY",
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "uri": "https://itunes.apple.com/gb/album/knock-on-wood/386939103?i=386939297&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "buy",
+                        "providername": "itunes"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "type": "buy",
+                    "listcaption": "Buy on iTunes",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "itunes"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:Knock%20On%20Wood%20Amii%20Stewart"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27Knock+On+Wood%27%20artist%3A%27Amii+Stewart%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": false,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [
+                    {
+                        "image": "https://is2-ssl.mzstatic.com/image/thumb/Features124/v4/85/aa/ba/85aaba99-7b58-bf18-294f-0747006aabb3/pr_source.png/800x800cc.jpg",
+                        "caption": "Amii Stewart"
+                    },
+                    {
+                        "image": "https://is3-ssl.mzstatic.com/image/thumb/Music/a7/ff/c2/mzi.ptpgvtdi.tif/400x400cc.jpg",
+                        "caption": "Knock On Wood"
+                    }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                    {
+                        "title": "Album",
+                        "text": "Light My Fire"
+                    },
+                    {
+                        "title": "Label",
+                        "text": "Legend World Music OMP"
+                    },
+                    {
+                        "title": "Released",
+                        "text": "1978"
+                    }
+                ]
+            },
+            {
+                "type": "LYRICS",
+                "text": [
+                    "I don't want to lose you",
+                    "This good thing, that I got",
+                    "'Cause if I do, I will surely",
+                    "Surely lose a lot",
+                    "",
+                    "'Cause your love, is better",
+                    "Than any love I know",
+                    "It's like thunder, lightning",
+                    "The way you love me is frightening",
+                    "Oh you better knock, knock",
+                    "",
+                    "On wood, baby",
+                    "Ooh, ooh, ooh, ooh, ooh, ooh baby",
+                    "Ooh, ooh, ooh, ooh, ooh, ooh, ooh",
+                    "",
+                    "I'm not superstitious, about ya",
+                    "But I can't take no chance",
+                    "You got me spinnin' baby",
+                    "You know that I'm in a trance",
+                    "",
+                    "'Cause your love, is better",
+                    "Than any love I know",
+                    "It's like thunder, lightning",
+                    "The way you love me is frightenin'",
+                    "Oh you better knock, knock, knock",
+                    "",
+                    "On wood, baby",
+                    "Ooh, ooh, ooh, ooh, ooh, ooh baby",
+                    "Ooh, ooh, ooh, ooh, ooh, ooh, ooh",
+                    "",
+                    "(Think I better knock, knock, knock on wood)",
+                    "(Think I better knock, knock, knock on wood)",
+                    "(Think I better knock, knock, knock on wood)",
+                    "(Think I better knock, knock, knock on wood)",
+                    "(Think I better knock)",
+                    "",
+                    "Ooh baby",
+                    "",
+                    "It's no secret, about it",
+                    "'Cause with his lovin' touch",
+                    "He sees to it",
+                    "That I get enough",
+                    "",
+                    "Feel his touch, all over",
+                    "You know it means so much",
+                    "It's like thunder, first then lightnin'",
+                    "The way you love me is frightenin'",
+                    "You better knock, knock, knock",
+                    "",
+                    "On wood, baby",
+                    "Ooh, ooh, ooh, ooh, ooh, ooh baby",
+                    "Ooh, ooh, ooh, ooh, ooh, ooh, ooh",
+                    "",
+                    "(Think I better knock, knock, knock on wood)",
+                    "(Think I better knock, knock, knock on wood)",
+                    "(Think I better knock, knock, knock on wood)",
+                    "(Think I better knock, knock, knock on wood)",
+                    "(Think I better knock, knock, knock on wood)",
+                    "(Think I better knock, knock, knock on wood)"
+                ],
+                "url": "https://cdn.shazam.com/lyrics/v1/en-US/GB/iphone/musixmatch/subtitles/976882/234/1?token=f44c7400bcc2246b1dedcbe5f23ebb83",
+                "footer": "Writer(s): Stephen Lee Cropper, Eddie Floyd\nLyrics powered by www.musixmatch.com",
+                "tabname": "Lyrics",
+                "beacondata": {
+                    "lyricsid": "30510441",
+                    "providername": "musixmatch",
+                    "commontrackid": "976882"
+                }
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/10072574/youtube/video?q=Amii+Stewart+%22Knock+On+Wood%22"
+            },
+            {
+                "type": "RELATED",
+                "url": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-10072574?startFrom=0&pageSize=20&connected=",
+                "tabname": "Related"
+            }
+        ],
+        "url": "https://www.shazam.com/track/10072574/knock-on-wood",
+        "artists": [
+            {
+                "id": "42",
+                "adamid": "42648276"
+            }
+        ],
+        "isrc": "GBQRF1010808",
+        "genres": {
+            "primary": "Pop"
+        },
+        "urlparams": {
+            "{tracktitle}": "Knock+On+Wood",
+            "{trackartist}": "Amii+Stewart"
+        },
+        "myshazam": {
+            "apple": {
+                "actions": [
+                    {
+                        "name": "myshazam:apple",
+                        "type": "uri",
+                        "uri": "https://music.apple.com/gb/album/knock-on-wood/386939103?i=386939297&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                ]
+            }
+        },
+        "highlightsurls": {
+            "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/42648276/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+        },
+        "relatedtracksurl": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-10072574?startFrom=0&pageSize=20&connected=",
+        "albumadamid": "386939103"
+    },
+    "tagid": "A2262935-748B-427B-9897-1E53FB5B47C6"
+}

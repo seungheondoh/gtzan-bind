@@ -1,0 +1,266 @@
+{
+    "matches": [
+        {
+            "id": "474302771",
+            "offset": 30.180548828,
+            "timeskew": 6.4373016e-06,
+            "frequencyskew": 0.0
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691633458150,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "5277743",
+        "title": "One More Last Chance",
+        "subtitle": "Vince Gill",
+        "images": {
+            "background": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/60/4c/f5/604cf541-d910-4110-0f64-0a86beda613e/pr_source.png/800x800cc.jpg",
+            "coverart": "https://is2-ssl.mzstatic.com/image/thumb/Music124/v4/75/62/60/756260b5-b779-0b94-504b-5d62b044745a/00008811063023.rgb.jpg/400x400cc.jpg",
+            "coverarthq": "https://is2-ssl.mzstatic.com/image/thumb/Music124/v4/75/62/60/756260b5-b779-0b94-504b-5d62b044745a/00008811063023.rgb.jpg/400x400cc.jpg",
+            "joecolor": "b:e1e8f0p:0b0d0es:5a1d11t:36393bq:75463e"
+        },
+        "share": {
+            "subject": "One More Last Chance - Vince Gill",
+            "text": "One More Last Chance by Vince Gill",
+            "href": "https://www.shazam.com/track/5277743/one-more-last-chance",
+            "image": "https://is2-ssl.mzstatic.com/image/thumb/Music124/v4/75/62/60/756260b5-b779-0b94-504b-5d62b044745a/00008811063023.rgb.jpg/400x400cc.jpg",
+            "twitter": "I used @Shazam to discover One More Last Chance by Vince Gill.",
+            "html": "https://www.shazam.com/snippets/email-share/5277743?lang=en-US&country=GB",
+            "avatar": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/60/4c/f5/604cf541-d910-4110-0f64-0a86beda613e/pr_source.png/800x800cc.jpg",
+            "snapchat": "https://www.shazam.com/partner/sc/track/5277743"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "actions": [
+                {
+                    "name": "apple",
+                    "type": "applemusicplay",
+                    "id": "1440486487"
+                },
+                {
+                    "name": "apple",
+                    "type": "uri",
+                    "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/ef/0c/4f/ef0c4f0e-d816-6993-2a9b-3bf8305e5498/mzaf_7566191508259403506.plus.aac.ep.m4a"
+                }
+            ],
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/gb/album/one-more-last-chance/1440486476?i=1440486487&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/gb/album/one-more-last-chance/1440486476?i=1440486487&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                },
+                {
+                    "caption": "BUY",
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "uri": "https://itunes.apple.com/gb/album/one-more-last-chance/1440486476?i=1440486487&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "buy",
+                        "providername": "itunes"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "type": "buy",
+                    "listcaption": "Buy on iTunes",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "itunes"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:One%20More%20Last%20Chance%20Vince%20Gill"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27One+More+Last+Chance%27%20artist%3A%27Vince+Gill%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": false,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [
+                    {
+                        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/60/4c/f5/604cf541-d910-4110-0f64-0a86beda613e/pr_source.png/800x800cc.jpg",
+                        "caption": "Vince Gill"
+                    },
+                    {
+                        "image": "https://is2-ssl.mzstatic.com/image/thumb/Music124/v4/75/62/60/756260b5-b779-0b94-504b-5d62b044745a/00008811063023.rgb.jpg/400x400cc.jpg",
+                        "caption": "One More Last Chance"
+                    }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                    {
+                        "title": "Album",
+                        "text": "I Still Believe in You"
+                    },
+                    {
+                        "title": "Label",
+                        "text": "Geffen*"
+                    },
+                    {
+                        "title": "Released",
+                        "text": "1992"
+                    }
+                ]
+            },
+            {
+                "type": "LYRICS",
+                "text": [
+                    "She was standing at the front door",
+                    "When I came home last night",
+                    "Good Book in her left hand",
+                    "And a rolling pin in her right",
+                    "She said you've come home for the last time",
+                    "With the whiskey on your breath",
+                    "If you don't listen to my preaching, boy",
+                    "I'm gonna have to beat you half to death",
+                    "",
+                    "Give me just a one more last chance",
+                    "Before you say we're through",
+                    "I know I drive you crazy baby",
+                    "It's the best that I can do",
+                    "We're just good ol' boys, a-makin' noise",
+                    "I ain't runnin' around on you",
+                    "Give me just a one more last chance",
+                    "Before you say we're through",
+                    "",
+                    "First she hid my glasses",
+                    "Because she knows that I can't see",
+                    "She said you ain't going nowhere boy",
+                    "Til you spend a little time with me",
+                    "Then the boys called from the honky tonk",
+                    "Said there's a party going on down here",
+                    "Well she might have took my car keys",
+                    "But she forgot about my old John Deere",
+                    "",
+                    "Gimme just a one more last chance",
+                    "Before you say we're through",
+                    "I know I drive you crazy baby",
+                    "It's the best that I can do",
+                    "We're just good ol' boys, making noise",
+                    "I ain't runnin' round on you",
+                    "Gimme just a one more last chance",
+                    "Before you say we're through",
+                    "",
+                    "Gimme just one more last chance",
+                    "Before you say we're through",
+                    "I know I drive you crazy, baby",
+                    "It's the best that I can do",
+                    "We're just good ol' boys, making noise",
+                    "I ain't runnin' around on you",
+                    "",
+                    "Gimme just a one more last chance",
+                    "Before you say we're through",
+                    "Give me just one more last chance",
+                    "Before you say we're through"
+                ],
+                "url": "https://cdn.shazam.com/lyrics/v1/en-US/GB/iphone/musixmatch/subtitles/951547/191/1?token=467121ca0ef93cb69ab7901aff992d84",
+                "footer": "Writer(s): Gary Nicholson, Black Child\nLyrics powered by www.musixmatch.com",
+                "tabname": "Lyrics",
+                "beacondata": {
+                    "lyricsid": "19985603",
+                    "providername": "musixmatch",
+                    "commontrackid": "951547"
+                }
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/5277743/youtube/video?q=Vince+Gill+%22One+More+Last+Chance%22"
+            },
+            {
+                "type": "RELATED",
+                "url": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-5277743?startFrom=0&pageSize=20&connected=",
+                "tabname": "Related"
+            }
+        ],
+        "url": "https://www.shazam.com/track/5277743/one-more-last-chance",
+        "artists": [
+            {
+                "id": "42",
+                "adamid": "27175"
+            }
+        ],
+        "isrc": "USMC19238516",
+        "genres": {
+            "primary": "Country"
+        },
+        "urlparams": {
+            "{tracktitle}": "One+More+Last+Chance",
+            "{trackartist}": "Vince+Gill"
+        },
+        "myshazam": {
+            "apple": {
+                "actions": [
+                    {
+                        "name": "myshazam:apple",
+                        "type": "uri",
+                        "uri": "https://music.apple.com/gb/album/one-more-last-chance/1440486476?i=1440486487&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                ]
+            }
+        },
+        "highlightsurls": {
+            "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/27175/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+        },
+        "relatedtracksurl": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-5277743?startFrom=0&pageSize=20&connected=",
+        "albumadamid": "1440486476"
+    },
+    "tagid": "5C23EF79-8C22-4A38-B474-A72BB8786A01"
+}

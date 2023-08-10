@@ -1,0 +1,247 @@
+{
+    "matches": [
+        {
+            "id": "280146185",
+            "offset": 29.83758789,
+            "timeskew": 0.0012993813,
+            "frequencyskew": 0.0011686087
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691633773212,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "335986",
+        "title": "Symptom of the Universe",
+        "subtitle": "Black Sabbath",
+        "images": {
+            "background": "https://is3-ssl.mzstatic.com/image/thumb/Features115/v4/28/76/26/2876263b-46b7-7e98-92b2-86899ce22ce6/mza_5634408454712710200.png/800x800cc.jpg",
+            "coverart": "https://is5-ssl.mzstatic.com/image/thumb/Music71/v4/d1/2f/ce/d12fcec6-9a0a-cc92-b7ec-008f5ad8541e/4050538238037.jpg/400x400cc.jpg",
+            "coverarthq": "https://is5-ssl.mzstatic.com/image/thumb/Music71/v4/d1/2f/ce/d12fcec6-9a0a-cc92-b7ec-008f5ad8541e/4050538238037.jpg/400x400cc.jpg",
+            "joecolor": "b:26120cp:f49c23s:fe8634t:cb801fq:d26f2c"
+        },
+        "share": {
+            "subject": "Symptom of the Universe - Black Sabbath",
+            "text": "Symptom of the Universe by Black Sabbath",
+            "href": "https://www.shazam.com/track/335986/symptom-of-the-universe",
+            "image": "https://is5-ssl.mzstatic.com/image/thumb/Music71/v4/d1/2f/ce/d12fcec6-9a0a-cc92-b7ec-008f5ad8541e/4050538238037.jpg/400x400cc.jpg",
+            "twitter": "I used @Shazam to discover Symptom of the Universe by Black Sabbath.",
+            "html": "https://www.shazam.com/snippets/email-share/335986?lang=en-US&country=GB",
+            "avatar": "https://is3-ssl.mzstatic.com/image/thumb/Features115/v4/28/76/26/2876263b-46b7-7e98-92b2-86899ce22ce6/mza_5634408454712710200.png/800x800cc.jpg",
+            "snapchat": "https://www.shazam.com/partner/sc/track/335986"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "actions": [
+                {
+                    "name": "apple",
+                    "type": "applemusicplay",
+                    "id": "1156653994"
+                },
+                {
+                    "name": "apple",
+                    "type": "uri",
+                    "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/55/4b/6b/554b6b3f-81b6-9bb1-e876-49ca93a1f183/mzaf_15276980315405993999.plus.aac.ep.m4a"
+                }
+            ],
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/gb/album/symptom-of-the-universe/1156653594?i=1156653994&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/gb/album/symptom-of-the-universe/1156653594?i=1156653994&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                },
+                {
+                    "caption": "BUY",
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "uri": "https://itunes.apple.com/gb/album/symptom-of-the-universe/1156653594?i=1156653994&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "buy",
+                        "providername": "itunes"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "type": "buy",
+                    "listcaption": "Buy on iTunes",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "itunes"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:Symptom%20of%20the%20Universe%20Black%20Sabbath"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27Symptom+of+the+Universe%27%20artist%3A%27Black+Sabbath%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": false,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [
+                    {
+                        "image": "https://is3-ssl.mzstatic.com/image/thumb/Features115/v4/28/76/26/2876263b-46b7-7e98-92b2-86899ce22ce6/mza_5634408454712710200.png/800x800cc.jpg",
+                        "caption": "Black Sabbath"
+                    },
+                    {
+                        "image": "https://is5-ssl.mzstatic.com/image/thumb/Music71/v4/d1/2f/ce/d12fcec6-9a0a-cc92-b7ec-008f5ad8541e/4050538238037.jpg/400x400cc.jpg",
+                        "caption": "Symptom of the Universe"
+                    }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                    {
+                        "title": "Album",
+                        "text": "The Ultimate Collection"
+                    },
+                    {
+                        "title": "Label",
+                        "text": "Sanctuary Records"
+                    },
+                    {
+                        "title": "Released",
+                        "text": "1975"
+                    }
+                ]
+            },
+            {
+                "type": "LYRICS",
+                "text": [
+                    "Take me through the centuries to supersonic years",
+                    "Electrifying enemy is drowning in his tears",
+                    "All I have to give you is a love that never dies",
+                    "The symptom of the universe is written in your eyes",
+                    "",
+                    "Yeah",
+                    "Yeah",
+                    "",
+                    "Mother mooch is calling me back to her silver womb",
+                    "Father of creation takes me from my stolen tomb",
+                    "Seventh Advent unicorn is waiting in the skies",
+                    "A symptom of the universe, a love that never dies",
+                    "",
+                    "Yeah",
+                    "Yeah",
+                    "",
+                    "Take my hand, my child of love come step inside my tears",
+                    "Swim the magic ocean I've been crying all these years",
+                    "When our love will ride away into eternal skies",
+                    "A symptom of the universe, a love that never dies",
+                    "",
+                    "Yeah",
+                    "Yeah",
+                    "",
+                    "Oh my child of love's creation, come and step inside my dreams",
+                    "In your eyes I see no sadness, you are all that loving means",
+                    "Take my hand and we'll go riding through the sunshine fromabove",
+                    "We'll find happiness together in the summer skies of love"
+                ],
+                "url": "https://cdn.shazam.com/lyrics/v1/en-US/GB/iphone/musixmatch/subtitles/13325841/389/1?token=fefddc9a65d60b0994d58831ffcafc10",
+                "footer": "Writer(s): Butler, Iommi, Osbourne, Ward\nLyrics powered by www.musixmatch.com",
+                "tabname": "Lyrics",
+                "beacondata": {
+                    "lyricsid": "8682752",
+                    "providername": "musixmatch",
+                    "commontrackid": "13325841"
+                }
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/335986/youtube/video?q=Black+Sabbath+%22Symptom+of+the+Universe%22"
+            },
+            {
+                "type": "RELATED",
+                "url": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-335986?startFrom=0&pageSize=20&connected=",
+                "tabname": "Related"
+            }
+        ],
+        "url": "https://www.shazam.com/track/335986/symptom-of-the-universe",
+        "artists": [
+            {
+                "id": "42",
+                "adamid": "165907"
+            }
+        ],
+        "isrc": "GB5KW1601275",
+        "genres": {
+            "primary": "Metal"
+        },
+        "urlparams": {
+            "{tracktitle}": "Symptom+of+the+Universe",
+            "{trackartist}": "Black+Sabbath"
+        },
+        "myshazam": {
+            "apple": {
+                "actions": [
+                    {
+                        "name": "myshazam:apple",
+                        "type": "uri",
+                        "uri": "https://music.apple.com/gb/album/symptom-of-the-universe/1156653594?i=1156653994&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                ]
+            }
+        },
+        "highlightsurls": {
+            "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/165907/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+        },
+        "relatedtracksurl": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-335986?startFrom=0&pageSize=20&connected=",
+        "albumadamid": "1156653594"
+    },
+    "tagid": "9F3B3614-296E-4FA5-B381-0D0535BB5930"
+}

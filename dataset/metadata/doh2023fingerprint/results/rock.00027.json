@@ -1,0 +1,285 @@
+{
+    "matches": [
+        {
+            "id": "532328192",
+            "offset": 32.472958984,
+            "timeskew": 0.00029683113,
+            "frequencyskew": -8.0525875e-05
+        },
+        {
+            "id": "267470806",
+            "offset": 31.997986328,
+            "timeskew": -0.0026408434,
+            "frequencyskew": -0.002935648
+        },
+        {
+            "id": "433413178",
+            "offset": 37.917140625,
+            "timeskew": 0.00027263165,
+            "frequencyskew": -0.000120818615
+        },
+        {
+            "id": "201619178",
+            "offset": 32.340384764999996,
+            "timeskew": 0.0003798008,
+            "frequencyskew": -8.0525875e-05
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691633581968,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "20146177",
+        "title": "Good Vibrations",
+        "subtitle": "The Beach Boys",
+        "images": {
+            "background": "https://is2-ssl.mzstatic.com/image/thumb/Features122/v4/16/13/1b/16131b45-0631-1fd7-15c4-1443b116bcab/mza_834448015851482472.png/800x800cc.jpg",
+            "coverart": "https://is5-ssl.mzstatic.com/image/thumb/Music128/v4/b1/3e/d0/b13ed05f-85d9-d3e3-9998-eb89d78b5db2/00602547295125.rgb.jpg/400x400cc.jpg",
+            "coverarthq": "https://is5-ssl.mzstatic.com/image/thumb/Music128/v4/b1/3e/d0/b13ed05f-85d9-d3e3-9998-eb89d78b5db2/00602547295125.rgb.jpg/400x400cc.jpg",
+            "joecolor": "b:4f5939p:fef200s:f0b763t:dbd30bq:d0a45a"
+        },
+        "share": {
+            "subject": "Good Vibrations - The Beach Boys",
+            "text": "Good Vibrations by The Beach Boys",
+            "href": "https://www.shazam.com/track/20146177/good-vibrations",
+            "image": "https://is5-ssl.mzstatic.com/image/thumb/Music128/v4/b1/3e/d0/b13ed05f-85d9-d3e3-9998-eb89d78b5db2/00602547295125.rgb.jpg/400x400cc.jpg",
+            "twitter": "I used @Shazam to discover Good Vibrations by The Beach Boys.",
+            "html": "https://www.shazam.com/snippets/email-share/20146177?lang=en-US&country=GB",
+            "avatar": "https://is2-ssl.mzstatic.com/image/thumb/Features122/v4/16/13/1b/16131b45-0631-1fd7-15c4-1443b116bcab/mza_834448015851482472.png/800x800cc.jpg",
+            "snapchat": "https://www.shazam.com/partner/sc/track/20146177"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "actions": [
+                {
+                    "name": "apple",
+                    "type": "applemusicplay",
+                    "id": "1442882749"
+                },
+                {
+                    "name": "apple",
+                    "type": "uri",
+                    "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/ee/ca/13/eeca1353-42a2-57c9-e8b0-f5384d368e7b/mzaf_17632490775499815690.plus.aac.ep.m4a"
+                }
+            ],
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/gb/album/good-vibrations/1442882207?i=1442882749&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/gb/album/good-vibrations/1442882207?i=1442882749&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                },
+                {
+                    "caption": "BUY",
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "uri": "https://itunes.apple.com/gb/album/good-vibrations/1442882207?i=1442882749&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "buy",
+                        "providername": "itunes"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "type": "buy",
+                    "listcaption": "Buy on iTunes",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "itunes"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:Good%20Vibrations%20The%20Beach%20Boys"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27Good+Vibrations%27%20artist%3A%27The+Beach+Boys%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": false,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [
+                    {
+                        "image": "https://is2-ssl.mzstatic.com/image/thumb/Features122/v4/16/13/1b/16131b45-0631-1fd7-15c4-1443b116bcab/mza_834448015851482472.png/800x800cc.jpg",
+                        "caption": "The Beach Boys"
+                    },
+                    {
+                        "image": "https://is5-ssl.mzstatic.com/image/thumb/Music128/v4/b1/3e/d0/b13ed05f-85d9-d3e3-9998-eb89d78b5db2/00602547295125.rgb.jpg/400x400cc.jpg",
+                        "caption": "Good Vibrations"
+                    }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                    {
+                        "title": "Album",
+                        "text": "Smiley Smile"
+                    },
+                    {
+                        "title": "Label",
+                        "text": "Capitol Records"
+                    },
+                    {
+                        "title": "Released",
+                        "text": "1966"
+                    }
+                ]
+            },
+            {
+                "type": "LYRICS",
+                "text": [
+                    "I, I love the colorful clothes she wears",
+                    "And the way the sunlight plays upon her hair",
+                    "I hear the sound of a gentle word",
+                    "On the wind that lifts her perfume through the air",
+                    "",
+                    "I'm pickin' up good vibrations",
+                    "She's giving me the excitations",
+                    "I'm pickin' up good vibrations (Oom bop bop good vibrations)",
+                    "She's giving me the excitations (Oom bop bop excitations)",
+                    "",
+                    "I'm pickin' up good vibrations (Good good good good vibrations)",
+                    "She's giving me the excitations",
+                    "",
+                    "I'm pickin' up good vibrations (Good good good good vibrations)",
+                    "She's giving me the excitations",
+                    "",
+                    "Close my eyes, she's somehow closer now",
+                    "Softly smile, I know she must be kind",
+                    "When I look in her eyes",
+                    "She goes with me to a blossom world",
+                    "",
+                    "I'm pickin' up good vibrations",
+                    "She's giving me the excitations",
+                    "I'm pickin' up good vibrations (Oom bop bop good vibrations)",
+                    "She's giving me the excitations (Oom bop bop excitations)",
+                    "",
+                    "I'm pickin' up good vibrations (Good good good good vibrations)",
+                    "She's giving me the excitations (Oom bop bop excitations)",
+                    "",
+                    "I'm pickin' up good vibrations (Good good good good vibrations)",
+                    "She's giving me the excitations (Elation)",
+                    "",
+                    "I don't know where but she sends me there",
+                    "(My my what a sensation)",
+                    "(My my what elations)",
+                    "(Ah my my what)",
+                    "",
+                    "Gotta keep those lovin' good",
+                    "Vibrations a happenin' with her",
+                    "Gotta keep those lovin' good",
+                    "Vibrations a happenin' with her",
+                    "Gotta keep those lovin' good",
+                    "Vibrations a happenin'",
+                    "",
+                    "Ah, I'm pickin' up good vibrations (Oom bop bop good vibrations)",
+                    "She's giving me the excitations (Oom bop bop excitations)",
+                    "I'm pickin' up good vibrations (Oom bop bop good vibrations)"
+                ],
+                "url": "https://cdn.shazam.com/lyrics/v1/en-US/GB/iphone/musixmatch/subtitles/10614327/218/1?token=771e4422014d64d980dd285218cc1552",
+                "footer": "Writer(s): Brian Wilson, Michael Love\nLyrics powered by www.musixmatch.com",
+                "tabname": "Lyrics",
+                "beacondata": {
+                    "lyricsid": "30069991",
+                    "providername": "musixmatch",
+                    "commontrackid": "10614327"
+                }
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/20146177/youtube/video?q=The+Beach+Boys+%22Good+Vibrations%22"
+            },
+            {
+                "type": "RELATED",
+                "url": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-20146177?startFrom=0&pageSize=20&connected=",
+                "tabname": "Related"
+            }
+        ],
+        "url": "https://www.shazam.com/track/20146177/good-vibrations",
+        "artists": [
+            {
+                "id": "42",
+                "adamid": "562555"
+            }
+        ],
+        "isrc": "USCA21202151",
+        "genres": {
+            "primary": "Rock"
+        },
+        "urlparams": {
+            "{tracktitle}": "Good+Vibrations",
+            "{trackartist}": "The+Beach+Boys"
+        },
+        "myshazam": {
+            "apple": {
+                "actions": [
+                    {
+                        "name": "myshazam:apple",
+                        "type": "uri",
+                        "uri": "https://music.apple.com/gb/album/good-vibrations/1442882207?i=1442882749&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                ]
+            }
+        },
+        "highlightsurls": {
+            "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/562555/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios&videoIdToFilter=1444877709",
+            "trackhighlighturl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/highlights/1444877709?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+        },
+        "relatedtracksurl": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-20146177?startFrom=0&pageSize=20&connected=",
+        "albumadamid": "1442882207"
+    },
+    "tagid": "EB4086D9-0CED-4CF3-8286-EF6954708B98"
+}

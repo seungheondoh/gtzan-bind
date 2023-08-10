@@ -1,0 +1,247 @@
+{
+    "matches": [
+        {
+            "id": "480001077",
+            "offset": 29.803037109,
+            "timeskew": 2.9802322e-06,
+            "frequencyskew": 0.0
+        },
+        {
+            "id": "451750951",
+            "offset": 29.634740234000002,
+            "timeskew": -0.0036827922,
+            "frequencyskew": -0.0038186908
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691633529014,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "11159042",
+        "title": "Honky Tonk Women",
+        "subtitle": "The Rolling Stones",
+        "images": {
+            "background": "https://is3-ssl.mzstatic.com/image/thumb/Features125/v4/50/6a/dd/506addd0-1a1c-ebbf-7ec3-7ebbd2785035/mza_827834569591675074.png/800x800cc.jpg",
+            "coverart": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/9a/af/4b/9aaf4bb1-4f88-61c6-d742-f803f2bd0f87/19UMGIM98132.rgb.jpg/400x400cc.jpg",
+            "coverarthq": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/9a/af/4b/9aaf4bb1-4f88-61c6-d742-f803f2bd0f87/19UMGIM98132.rgb.jpg/400x400cc.jpg",
+            "joecolor": "b:0e100fp:fefefes:e95e30t:cececeq:bd4e29"
+        },
+        "share": {
+            "subject": "Honky Tonk Women - The Rolling Stones",
+            "text": "Honky Tonk Women by The Rolling Stones",
+            "href": "https://www.shazam.com/track/11159042/honky-tonk-women",
+            "image": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/9a/af/4b/9aaf4bb1-4f88-61c6-d742-f803f2bd0f87/19UMGIM98132.rgb.jpg/400x400cc.jpg",
+            "twitter": "I used @Shazam to discover Honky Tonk Women by The Rolling Stones.",
+            "html": "https://www.shazam.com/snippets/email-share/11159042?lang=en-US&country=GB",
+            "avatar": "https://is3-ssl.mzstatic.com/image/thumb/Features125/v4/50/6a/dd/506addd0-1a1c-ebbf-7ec3-7ebbd2785035/mza_827834569591675074.png/800x800cc.jpg",
+            "snapchat": "https://www.shazam.com/partner/sc/track/11159042"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "actions": [
+                {
+                    "name": "apple",
+                    "type": "applemusicplay",
+                    "id": "1488653325"
+                },
+                {
+                    "name": "apple",
+                    "type": "uri",
+                    "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/df/eb/98/dfeb98a1-068f-a6a1-1348-a584e7f03535/mzaf_5414679995107498846.plus.aac.ep.m4a"
+                }
+            ],
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/gb/album/honky-tonk-women/1488653118?i=1488653325&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/gb/album/honky-tonk-women/1488653118?i=1488653325&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                },
+                {
+                    "caption": "BUY",
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "uri": "https://itunes.apple.com/gb/album/honky-tonk-women/1488653118?i=1488653325&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "buy",
+                        "providername": "itunes"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "type": "buy",
+                    "listcaption": "Buy on iTunes",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "itunes"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:Honky%20Tonk%20Women%20The%20Rolling%20Stones"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27Honky+Tonk+Women%27%20artist%3A%27The+Rolling+Stones%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": false,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [
+                    {
+                        "image": "https://is3-ssl.mzstatic.com/image/thumb/Features125/v4/50/6a/dd/506addd0-1a1c-ebbf-7ec3-7ebbd2785035/mza_827834569591675074.png/800x800cc.jpg",
+                        "caption": "The Rolling Stones"
+                    },
+                    {
+                        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/9a/af/4b/9aaf4bb1-4f88-61c6-d742-f803f2bd0f87/19UMGIM98132.rgb.jpg/400x400cc.jpg",
+                        "caption": "Honky Tonk Women"
+                    }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                    {
+                        "title": "Album",
+                        "text": "Honky Tonk Women / You Can't Always Get What You Want - EP"
+                    },
+                    {
+                        "title": "Label",
+                        "text": "ABKCO Music & Records"
+                    },
+                    {
+                        "title": "Released",
+                        "text": "1969"
+                    }
+                ]
+            },
+            {
+                "type": "LYRICS",
+                "text": [
+                    "I met a gin-soaked bar-room queen in Memphis",
+                    "She tried to take me upstairs for a ride",
+                    "She had to heave me right across her shoulder",
+                    "'Cause I just can't seem to drink you off my mind",
+                    "",
+                    "It's the honky tonk women",
+                    "Gimme, gimme, gimme the honky tonk blues",
+                    "",
+                    "I laid a divorc\u00e9e in New York City",
+                    "I had to put up some kind of a fight",
+                    "The lady, then she covered me with roses",
+                    "She blew my nose and then she blew my mind",
+                    "",
+                    "It's the honky tonk women",
+                    "Gimme, gimme, gimme the honky tonk blues",
+                    "Yeah, alright",
+                    "",
+                    "It's the honky tonk women",
+                    "Who gimme, gimme, gimme the honky tonk blues",
+                    "It's the honky tonk women",
+                    "Gimme, gimme, gimme the honky tonk blues"
+                ],
+                "url": "https://cdn.shazam.com/lyrics/v1/en-US/GB/iphone/musixmatch/subtitles/64093661/180/1?token=e771b74e283ce22067d75e194bf984de",
+                "footer": "Writer(s): Mick Jagger, Keith Richards\nLyrics powered by www.musixmatch.com",
+                "tabname": "Lyrics",
+                "beacondata": {
+                    "lyricsid": "20292521",
+                    "providername": "musixmatch",
+                    "commontrackid": "64093661"
+                }
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/11159042/youtube/video?q=The+Rolling+Stones+%22Honky+Tonk+Women%22"
+            },
+            {
+                "type": "RELATED",
+                "url": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-11159042?startFrom=0&pageSize=20&connected=",
+                "tabname": "Related"
+            }
+        ],
+        "url": "https://www.shazam.com/track/11159042/honky-tonk-women",
+        "artists": [
+            {
+                "id": "42",
+                "adamid": "1249595"
+            }
+        ],
+        "isrc": "USA171920240",
+        "genres": {
+            "primary": "Rock"
+        },
+        "urlparams": {
+            "{tracktitle}": "Honky+Tonk+Women",
+            "{trackartist}": "The+Rolling+Stones"
+        },
+        "myshazam": {
+            "apple": {
+                "actions": [
+                    {
+                        "name": "myshazam:apple",
+                        "type": "uri",
+                        "uri": "https://music.apple.com/gb/album/honky-tonk-women/1488653118?i=1488653325&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                ]
+            }
+        },
+        "highlightsurls": {
+            "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/1249595/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios&videoIdToFilter=1489461414",
+            "trackhighlighturl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/highlights/1489461414?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+        },
+        "relatedtracksurl": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-11159042?startFrom=0&pageSize=20&connected=",
+        "albumadamid": "1488653118"
+    },
+    "tagid": "7CEE6E00-3B89-46F4-B1A1-64310D0E9463"
+}

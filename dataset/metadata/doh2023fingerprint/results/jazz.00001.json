@@ -1,0 +1,142 @@
+{
+    "matches": [
+        {
+            "id": "236972895",
+            "offset": 30.011128906000003,
+            "timeskew": -0.0001462698,
+            "frequencyskew": -0.00028187037
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691632309686,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "236972895",
+        "title": "\"West Side Story\" - Symphonic Dances: 1. Prologue (Live)",
+        "subtitle": "Leonard Bernstein & Los Angeles Philharmonic",
+        "images": {
+            "background": "https://is3-ssl.mzstatic.com/image/thumb/Music112/v4/83/bd/22/83bd2285-0612-46f3-eb4c-77fac550f615/pr_source.png/800x800cc.jpg",
+            "coverart": "https://is2-ssl.mzstatic.com/image/thumb/Music3/v4/6e/0f/18/6e0f1831-0936-ac2e-de0d-2ba13d65787b/15UMGIM07904.jpg/400x400cc.jpg",
+            "coverarthq": "https://is2-ssl.mzstatic.com/image/thumb/Music3/v4/6e/0f/18/6e0f1831-0936-ac2e-de0d-2ba13d65787b/15UMGIM07904.jpg/400x400cc.jpg"
+        },
+        "share": {
+            "subject": "\"West Side Story\" - Symphonic Dances: 1. Prologue (Live) - Leonard Bernstein & Los Angeles Philharmonic",
+            "text": "\"West Side Story\" - Symphonic Dances: 1. Prologue (Live) by Leonard Bernstein & Los Angeles Philharmonic",
+            "href": "https://www.shazam.com/track/236972895/west-side-story-symphonic-dances-1-prologue-live",
+            "image": "https://is2-ssl.mzstatic.com/image/thumb/Music3/v4/6e/0f/18/6e0f1831-0936-ac2e-de0d-2ba13d65787b/15UMGIM07904.jpg/400x400cc.jpg",
+            "twitter": "I used @Shazam to discover \"West Side Story\" - Symphonic Dances: 1. Prologue (Live) by Leonard Bernstein & Los Angeles Philharmonic.",
+            "html": "https://www.shazam.com/snippets/email-share/236972895?lang=en-US&country=GB",
+            "avatar": "https://is3-ssl.mzstatic.com/image/thumb/Music112/v4/83/bd/22/83bd2285-0612-46f3-eb4c-77fac550f615/pr_source.png/800x800cc.jpg",
+            "snapchat": "https://www.shazam.com/partner/sc/track/236972895"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:subscribe",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/subscribe?mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:subscribe",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/subscribe?mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:%22West%20Side%20Story%22%20-%20Symphonic%20Dances%3A%201.%20Prologue%20%28Live%29%20Leonard%20Bernstein"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27%22West+Side+Story%22+-+Symphonic+Dances%3A+1.+Prologue+%28Live%29%27%20artist%3A%27Leonard+Bernstein++Los+Angeles+Philharmonic%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": false,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [
+                    {
+                        "image": "https://is3-ssl.mzstatic.com/image/thumb/Music112/v4/83/bd/22/83bd2285-0612-46f3-eb4c-77fac550f615/pr_source.png/800x800cc.jpg",
+                        "caption": "Leonard Bernstein"
+                    },
+                    {
+                        "image": "https://is2-ssl.mzstatic.com/image/thumb/Music3/v4/6e/0f/18/6e0f1831-0936-ac2e-de0d-2ba13d65787b/15UMGIM07904.jpg/400x400cc.jpg",
+                        "caption": "\"West Side Story\" - Symphonic Dances: 1. Prologue (Live)"
+                    }
+                ],
+                "tabname": "Song",
+                "metadata": []
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/236972895/youtube/video?q=Leonard+Bernstein+%26+Los+Angeles+Philharmonic+%22West+Side+Story+-+Symphonic+Dances:+1.+Prologue+(Live)%22"
+            }
+        ],
+        "url": "https://www.shazam.com/track/236972895/west-side-story-symphonic-dances-1-prologue-live",
+        "artists": [
+            {
+                "id": "42",
+                "adamid": "269390"
+            }
+        ],
+        "genres": {
+            "primary": "Classical"
+        },
+        "urlparams": {
+            "{tracktitle}": "%22West+Side+Story%22+-+Symphonic+Dances%3A+1.+Prologue+%28Live%29",
+            "{trackartist}": "Leonard+Bernstein+%26+Los+Angeles+Philharmonic"
+        },
+        "highlightsurls": {
+            "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/269390/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+        }
+    },
+    "tagid": "8CD3DEFE-379E-4CA6-9EE2-E57F5CEE09D8"
+}

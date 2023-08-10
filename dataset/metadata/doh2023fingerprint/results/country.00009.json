@@ -1,0 +1,249 @@
+{
+    "matches": [
+        {
+            "id": "602157079",
+            "offset": 93.243539062,
+            "timeskew": 0.01772821,
+            "frequencyskew": 0.017550468
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691633483571,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "157546190",
+        "title": "Meanwhile Back At the Ranch",
+        "subtitle": "The Clark Family Experience",
+        "images": {
+            "background": "https://is4-ssl.mzstatic.com/image/thumb/Music/y2005/m06/d30/h18/s06.povhelyj.jpg/400x400cc.jpg",
+            "coverart": "https://is4-ssl.mzstatic.com/image/thumb/Music/y2005/m06/d30/h18/s06.povhelyj.jpg/400x400cc.jpg",
+            "coverarthq": "https://is4-ssl.mzstatic.com/image/thumb/Music/y2005/m06/d30/h18/s06.povhelyj.jpg/400x400cc.jpg",
+            "joecolor": "b:130c06p:f5efd6s:f4dcb3t:c8c1acq:c7b390"
+        },
+        "share": {
+            "subject": "Meanwhile Back At the Ranch - The Clark Family Experience",
+            "text": "Meanwhile Back At the Ranch by The Clark Family Experience",
+            "href": "https://www.shazam.com/track/157546190/meanwhile-back-at-the-ranch",
+            "image": "https://is4-ssl.mzstatic.com/image/thumb/Music/y2005/m06/d30/h18/s06.povhelyj.jpg/400x400cc.jpg",
+            "twitter": "I used @Shazam to discover Meanwhile Back At the Ranch by The Clark Family Experience.",
+            "html": "https://www.shazam.com/snippets/email-share/157546190?lang=en-US&country=GB",
+            "snapchat": "https://www.shazam.com/partner/sc/track/157546190"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "actions": [
+                {
+                    "name": "apple",
+                    "type": "applemusicplay",
+                    "id": "73998478"
+                },
+                {
+                    "name": "apple",
+                    "type": "uri",
+                    "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/77/f7/cd/77f7cdc3-61d5-d2b3-c3f3-7ee4350b8c41/mzaf_1170376611316860944.plus.aac.ep.m4a"
+                }
+            ],
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/gb/album/meanwhile-back-at-the-ranch/73998522?i=73998478&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/gb/album/meanwhile-back-at-the-ranch/73998522?i=73998478&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                },
+                {
+                    "caption": "BUY",
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "uri": "https://itunes.apple.com/gb/album/meanwhile-back-at-the-ranch/73998522?i=73998478&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "buy",
+                        "providername": "itunes"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "type": "buy",
+                    "listcaption": "Buy on iTunes",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "itunes"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:Meanwhile%20Back%20At%20the%20Ranch%20The%20Clark%20Family%20Experience"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27Meanwhile+Back+At+the+Ranch%27%20artist%3A%27The+Clark+Family+Experience%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": false,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [
+                    {
+                        "image": "https://is4-ssl.mzstatic.com/image/thumb/Music/y2005/m06/d30/h18/s06.povhelyj.jpg/400x400cc.jpg",
+                        "caption": "Meanwhile Back At the Ranch"
+                    }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                    {
+                        "title": "Album",
+                        "text": "The Clark Family Experience"
+                    },
+                    {
+                        "title": "Label",
+                        "text": "Curb"
+                    },
+                    {
+                        "title": "Released",
+                        "text": "2002"
+                    }
+                ]
+            },
+            {
+                "type": "LYRICS",
+                "text": [
+                    "Traffic jams, commuter lines",
+                    "Monthly quotas, the daily grind",
+                    "In a hurry and out of time",
+                    "The pressure's on",
+                    "",
+                    "They're pushing and shoving",
+                    "They're living on the edge",
+                    "",
+                    "[CHORUS]",
+                    "Meanwhile, back at the ranch",
+                    "Sitting on the front porch",
+                    "Swinging with Blanche",
+                    "World's running from an avalanche",
+                    "Meanwhile, back at the ranch",
+                    "",
+                    "The big computer's on the blink",
+                    "Y2K, what a stink",
+                    "They bring the city to the brink",
+                    "But not out here",
+                    "",
+                    "The only thing that we got on line",
+                    "Is the fish we caught for suppertime",
+                    "Well, let me tell you, peace of mind",
+                    "Is the last frontier",
+                    "",
+                    "They're pushing and shoving",
+                    "They're living on the edge",
+                    "",
+                    "[Repeat CHORUS]",
+                    "",
+                    "Out there crawling",
+                    "Like ants upon the ground",
+                    "Oh, go home",
+                    "",
+                    "Hear them calling",
+                    "But the sky is falling",
+                    "Down, down, down, down, down",
+                    "",
+                    "Meanwhile, back at the ranch,",
+                    "Sitting on my front porch",
+                    "Swinging with Blanche",
+                    "World's running from an avalanche"
+                ],
+                "footer": "Writer(s): Gordon Kennedy, Obed Kirkpatrick\nLyrics powered by www.musixmatch.com",
+                "tabname": "Lyrics",
+                "beacondata": {
+                    "lyricsid": "7953297",
+                    "providername": "musixmatch",
+                    "commontrackid": "3013889"
+                }
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/157546190/youtube/video?q=The+Clark+Family+Experience+%22Meanwhile+Back+At+the+Ranch%22"
+            }
+        ],
+        "url": "https://www.shazam.com/track/157546190/meanwhile-back-at-the-ranch",
+        "artists": [
+            {
+                "id": "42",
+                "adamid": "73998418"
+            }
+        ],
+        "isrc": "USCRB0000632",
+        "genres": {
+            "primary": "Country"
+        },
+        "urlparams": {
+            "{tracktitle}": "Meanwhile+Back+At+the+Ranch",
+            "{trackartist}": "The+Clark+Family+Experience"
+        },
+        "myshazam": {
+            "apple": {
+                "actions": [
+                    {
+                        "name": "myshazam:apple",
+                        "type": "uri",
+                        "uri": "https://music.apple.com/gb/album/meanwhile-back-at-the-ranch/73998522?i=73998478&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                ]
+            }
+        },
+        "highlightsurls": {
+            "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/73998418/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+        },
+        "albumadamid": "73998522"
+    },
+    "tagid": "CB6F9F1B-CC17-4999-B587-7021DF11E965"
+}

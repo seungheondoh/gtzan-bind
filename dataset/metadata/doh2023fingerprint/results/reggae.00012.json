@@ -1,0 +1,330 @@
+{
+    "matches": [
+        {
+            "id": "540992313",
+            "offset": 29.982015625,
+            "timeskew": 0.0012710094,
+            "frequencyskew": 0.000926733
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691633315287,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "10173542",
+        "title": "Exodus",
+        "subtitle": "Bob Marley & The Wailers",
+        "images": {
+            "background": "https://is5-ssl.mzstatic.com/image/thumb/Features125/v4/0e/10/96/0e10963d-8c5d-f176-3651-796ec44d0c97/mzl.kdlmyecx.jpg/800x800cc.jpg",
+            "coverart": "https://is2-ssl.mzstatic.com/image/thumb/Music124/v4/20/99/ad/2099ad6d-b13c-02f7-6dd8-841d955fffb9/06UMGIM31355.rgb.jpg/400x400cc.jpg",
+            "coverarthq": "https://is2-ssl.mzstatic.com/image/thumb/Music124/v4/20/99/ad/2099ad6d-b13c-02f7-6dd8-841d955fffb9/06UMGIM31355.rgb.jpg/400x400cc.jpg",
+            "joecolor": "b:a59a6cp:060602s:25201at:262317q:3f382a"
+        },
+        "share": {
+            "subject": "Exodus - Bob Marley & The Wailers",
+            "text": "Exodus by Bob Marley & The Wailers",
+            "href": "https://www.shazam.com/track/10173542/exodus",
+            "image": "https://is2-ssl.mzstatic.com/image/thumb/Music124/v4/20/99/ad/2099ad6d-b13c-02f7-6dd8-841d955fffb9/06UMGIM31355.rgb.jpg/400x400cc.jpg",
+            "twitter": "I used @Shazam to discover Exodus by Bob Marley & The Wailers.",
+            "html": "https://www.shazam.com/snippets/email-share/10173542?lang=en-US&country=GB",
+            "avatar": "https://is5-ssl.mzstatic.com/image/thumb/Features125/v4/0e/10/96/0e10963d-8c5d-f176-3651-796ec44d0c97/mzl.kdlmyecx.jpg/800x800cc.jpg",
+            "snapchat": "https://www.shazam.com/partner/sc/track/10173542"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "actions": [
+                {
+                    "name": "apple",
+                    "type": "applemusicplay",
+                    "id": "1422950070"
+                },
+                {
+                    "name": "apple",
+                    "type": "uri",
+                    "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/17/e2/ea/17e2ea8c-99b6-65c4-b4a3-261b595e8e1e/mzaf_10605612812932250398.plus.aac.ep.m4a"
+                }
+            ],
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/gb/album/exodus/1422950004?i=1422950070&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/gb/album/exodus/1422950004?i=1422950070&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                },
+                {
+                    "caption": "BUY",
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "uri": "https://itunes.apple.com/gb/album/exodus/1422950004?i=1422950070&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "buy",
+                        "providername": "itunes"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "type": "buy",
+                    "listcaption": "Buy on iTunes",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "itunes"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:Exodus%20Bob%20Marley%20%26%20The%20Wailers"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27Exodus%27%20artist%3A%27Bob+Marley++The+Wailers%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": false,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [
+                    {
+                        "image": "https://is5-ssl.mzstatic.com/image/thumb/Features125/v4/0e/10/96/0e10963d-8c5d-f176-3651-796ec44d0c97/mzl.kdlmyecx.jpg/800x800cc.jpg",
+                        "caption": "Bob Marley & The Wailers"
+                    },
+                    {
+                        "image": "https://is2-ssl.mzstatic.com/image/thumb/Music124/v4/20/99/ad/2099ad6d-b13c-02f7-6dd8-841d955fffb9/06UMGIM31355.rgb.jpg/400x400cc.jpg",
+                        "caption": "Exodus"
+                    }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                    {
+                        "title": "Album",
+                        "text": "Exodus (Bonus Track Version)"
+                    },
+                    {
+                        "title": "Label",
+                        "text": "Tuff Gong"
+                    },
+                    {
+                        "title": "Released",
+                        "text": "1977"
+                    }
+                ]
+            },
+            {
+                "type": "LYRICS",
+                "text": [
+                    "Exodus!",
+                    "Movement of Jah people! Oh-oh yeah!",
+                    "Heaven will tell to let me tell you this",
+                    "",
+                    "Men and people will fight ya down, tell me why!",
+                    "(When ya see Jah light)ha-ha-ha-ha-ha!",
+                    "Let me tell you if you're not wrong; then, why?",
+                    "Well, everything is all right",
+                    "So we gonna walk, alright!",
+                    "Through the roads of creation",
+                    "We the generation, tell me why!",
+                    "(Trod through great tribulation) trod through great tribulation",
+                    "",
+                    "Exodus! Alright!",
+                    "Movement of Jah people!",
+                    "Oh yeah! Oh-oh-oh yeah! Alright!",
+                    "Exodus!",
+                    "Movement of Jah people! Oh yeah!",
+                    "",
+                    "Yeah-yeah-yeah, well! Uh!",
+                    "Open your eyes",
+                    "(And look within)",
+                    "Are you satisfied?",
+                    "(With the life you're living) uh!",
+                    "We know where we're going, uh!",
+                    "We know where we're from",
+                    "We're leaving Babylon",
+                    "We're going to our Fatherland",
+                    "",
+                    "(Two, three, four) Exodus!",
+                    "Movement of Jah people! Oh yeah!",
+                    "(Movement of Jah people!) Send us another brother Moses!",
+                    "(Movement of Jah people!) From across the Red Sea!",
+                    "(Movement of Jah people!) Send us another brother Moses!",
+                    "(Movement of Jah people!) From across the Red Sea!",
+                    "(Movement of Jah people!)",
+                    "",
+                    "# Instrumental",
+                    "",
+                    "Exodus! Alright! Oo-oo-ooh! Oo-ooh!",
+                    "Movement of Jah people! Oh yeah!",
+                    "Exodus!",
+                    "Exodus! Alright!",
+                    "Exodus! Now-now! Now-now!",
+                    "Exodus!",
+                    "Exodus! Oh yea-ea-ea-ea-ea-ea-eah!",
+                    "Exodus!",
+                    "Exodus! Alright!",
+                    "Exodus!",
+                    "One, two, three, four: Move!",
+                    "",
+                    "Open your eyes and look within",
+                    "Are you satisfied with the life you're living?",
+                    "We know where we're going",
+                    "We know where we're from",
+                    "We're leaving Babylon, y'all!",
+                    "We're going to our Father's land",
+                    "",
+                    "Exodus! Alright!",
+                    "Movement of Jah people!",
+                    "",
+                    "Exodus!",
+                    "Movement of Jah people!",
+                    "",
+                    "Movement of Jah people!",
+                    "Movement of Jah people!",
+                    "Movement of Jah people!",
+                    "Movement of Jah people!",
+                    "",
+                    "Move!",
+                    "Move!",
+                    "Move!",
+                    "Move!",
+                    "Move!",
+                    "Move!",
+                    "Move!",
+                    "",
+                    "Jah come to break downpression",
+                    "Rule equality",
+                    "Wipe away transgression",
+                    "Set the captives free",
+                    "",
+                    "Exodus! Alright! Alright!",
+                    "Movement of Jah people! Oh yeah!",
+                    "",
+                    "Exodus!",
+                    "Movement of Jah people! Now-now! Now-now!",
+                    "",
+                    "Movement of Jah people!",
+                    "Movement of Jah people!",
+                    "Movement of Jah people!",
+                    "Movement of Jah people!",
+                    "Movement of Jah people!",
+                    "Movement of Jah people!",
+                    "",
+                    "Move!",
+                    "Move!",
+                    "Move!",
+                    "Move!",
+                    "Move!",
+                    "",
+                    "Move! Uh-uh-uh-uh!",
+                    "Movement of Jah people!",
+                    "Movement of Jah people!",
+                    "Movement of Jah people!",
+                    "Movement of Jah people!",
+                    "Movement of Jah people!",
+                    "Movement of Jah people!",
+                    "Movement of Jah people!",
+                    "Movement of Jah people!"
+                ],
+                "url": "https://cdn.shazam.com/lyrics/v1/en-US/GB/iphone/musixmatch/subtitles/144092036/460/1?token=623476a0a02a4d8eb9b81fdb95a6344f",
+                "footer": "Writer(s): Bob Marley\nLyrics powered by www.musixmatch.com",
+                "tabname": "Lyrics",
+                "beacondata": {
+                    "lyricsid": "29234827",
+                    "providername": "musixmatch",
+                    "commontrackid": "144092036"
+                }
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/10173542/youtube/video?q=Bob+Marley+%26+The+Wailers+%22Exodus%22"
+            },
+            {
+                "type": "RELATED",
+                "url": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-10173542?startFrom=0&pageSize=20&connected=",
+                "tabname": "Related"
+            }
+        ],
+        "url": "https://www.shazam.com/track/10173542/exodus",
+        "artists": [
+            {
+                "id": "42",
+                "adamid": "3174628"
+            }
+        ],
+        "isrc": "USIR27700012",
+        "genres": {
+            "primary": "Reggae"
+        },
+        "urlparams": {
+            "{tracktitle}": "Exodus",
+            "{trackartist}": "Bob+Marley+%26+The+Wailers"
+        },
+        "myshazam": {
+            "apple": {
+                "actions": [
+                    {
+                        "name": "myshazam:apple",
+                        "type": "uri",
+                        "uri": "https://music.apple.com/gb/album/exodus/1422950004?i=1422950070&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                ]
+            }
+        },
+        "highlightsurls": {
+            "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/3174628/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios&videoIdToFilter=1641731248",
+            "trackhighlighturl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/highlights/1641731248?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+        },
+        "relatedtracksurl": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-10173542?startFrom=0&pageSize=20&connected=",
+        "albumadamid": "1422950004"
+    },
+    "tagid": "801112C6-85E0-4902-BD81-CB564B656885"
+}

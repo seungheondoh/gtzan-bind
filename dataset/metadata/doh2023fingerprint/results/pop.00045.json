@@ -1,0 +1,305 @@
+{
+    "matches": [
+        {
+            "id": "262774482",
+            "offset": 29.819726562,
+            "timeskew": -1.3113022e-06,
+            "frequencyskew": 0.0
+        },
+        {
+            "id": "311377161",
+            "offset": 20.972287109,
+            "timeskew": -0.022737265,
+            "frequencyskew": -8.0525875e-05
+        },
+        {
+            "id": "204552622",
+            "offset": 30.080304686999998,
+            "timeskew": -0.0019873977,
+            "frequencyskew": -0.0013281703
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691632746533,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "5758283",
+        "title": "Genie In a Bottle",
+        "subtitle": "Christina Aguilera",
+        "images": {
+            "background": "https://is4-ssl.mzstatic.com/image/thumb/Features116/v4/17/79/bd/1779bd84-ebd0-d1b4-101c-4fc1e2044fa7/mzl.kdnoleru.jpg/800x800cc.jpg",
+            "coverart": "https://is4-ssl.mzstatic.com/image/thumb/Music/0d/9e/5c/mzi.yevukdna.jpg/400x400cc.jpg",
+            "coverarthq": "https://is4-ssl.mzstatic.com/image/thumb/Music/0d/9e/5c/mzi.yevukdna.jpg/400x400cc.jpg",
+            "joecolor": "b:eadfd9p:030405s:540f10t:312f30q:723838"
+        },
+        "share": {
+            "subject": "Genie In a Bottle - Christina Aguilera",
+            "text": "Genie In a Bottle by Christina Aguilera",
+            "href": "https://www.shazam.com/track/5758283/genie-in-a-bottle",
+            "image": "https://is4-ssl.mzstatic.com/image/thumb/Music/0d/9e/5c/mzi.yevukdna.jpg/400x400cc.jpg",
+            "twitter": "I used @Shazam to discover Genie In a Bottle by Christina Aguilera.",
+            "html": "https://www.shazam.com/snippets/email-share/5758283?lang=en-US&country=GB",
+            "avatar": "https://is4-ssl.mzstatic.com/image/thumb/Features116/v4/17/79/bd/1779bd84-ebd0-d1b4-101c-4fc1e2044fa7/mzl.kdnoleru.jpg/800x800cc.jpg",
+            "snapchat": "https://www.shazam.com/partner/sc/track/5758283"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "actions": [
+                {
+                    "name": "apple",
+                    "type": "applemusicplay",
+                    "id": "294372541"
+                },
+                {
+                    "name": "apple",
+                    "type": "uri",
+                    "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/6a/87/8f/6a878f73-bee8-98e2-8a28-cb3562c95e9c/mzaf_12739840619151265099.plus.aac.ep.m4a"
+                }
+            ],
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/gb/album/genie-in-a-bottle/294372540?i=294372541&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/gb/album/genie-in-a-bottle/294372540?i=294372541&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                },
+                {
+                    "caption": "BUY",
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "uri": "https://itunes.apple.com/gb/album/genie-in-a-bottle/294372540?i=294372541&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "buy",
+                        "providername": "itunes"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "type": "buy",
+                    "listcaption": "Buy on iTunes",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "itunes"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:Genie%20In%20a%20Bottle%20Christina%20Aguilera"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27Genie+In+a+Bottle%27%20artist%3A%27Christina+Aguilera%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": false,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [
+                    {
+                        "image": "https://is4-ssl.mzstatic.com/image/thumb/Features116/v4/17/79/bd/1779bd84-ebd0-d1b4-101c-4fc1e2044fa7/mzl.kdnoleru.jpg/800x800cc.jpg",
+                        "caption": "Christina Aguilera"
+                    },
+                    {
+                        "image": "https://is4-ssl.mzstatic.com/image/thumb/Music/0d/9e/5c/mzi.yevukdna.jpg/400x400cc.jpg",
+                        "caption": "Genie In a Bottle"
+                    }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                    {
+                        "title": "Album",
+                        "text": "Keeps Gettin' Better: A Decade of Hits"
+                    },
+                    {
+                        "title": "Label",
+                        "text": "RCA Records Label"
+                    },
+                    {
+                        "title": "Released",
+                        "text": "1999"
+                    }
+                ]
+            },
+            {
+                "type": "LYRICS",
+                "text": [
+                    "Come on come on",
+                    "Um yeah",
+                    "Oh... w-o-o... come on come on",
+                    "Uh",
+                    "I feel like I've been locked up tight for a century of lonely nights",
+                    "Waiting for someone to release me",
+                    "You're licking your lips and blowing kisses my way but that don't mean I'm gonna give it away",
+                    "Baby baby baby",
+                    "(Baby baby baby)",
+                    "Oh... w-h-o-a...",
+                    "My body's saying let's go (go)",
+                    "Oh... w-h-o-a...",
+                    "But my heart is saying no (no)",
+                    "",
+                    "If you wanna be with me baby there's a price to pay",
+                    "",
+                    "I'm a genie in a bottle",
+                    "(Genie in a bottle baby) Yeah",
+                    "You gotta rub me the right way",
+                    "If you wanna be with me",
+                    "I can make your wish come true",
+                    "You gotta make a big impression",
+                    "(Oh, yeah)",
+                    "Gotta like what you do",
+                    "I'm a genie in a bottle baby gotta rub me the right way honey",
+                    "I'm a genie in a bottle baby",
+                    "Come come come on in let me out",
+                    "Music's playing and the lights' down low It's one more dance and then we're good to go",
+                    "Waiting for someone who needs me",
+                    "Hormones racing at the speed of light but that don't mean it's gotta be tonight (yeah)",
+                    "Baby baby baby",
+                    "(Baby baby baby)",
+                    "Oh... w-h-o-a...",
+                    "My body's saying let's go",
+                    "Oh... w-h-o-a... ooh...",
+                    "But my heart is saying no (no)",
+                    "(But my heart is saying no)",
+                    "If you wanna be with me baby there's a price to pay",
+                    "I'm a genie in a bottle",
+                    "(I'm a genie in a bottle) You gotta rub me the right way",
+                    "If you wanna be with me (woo)",
+                    "I can make your wish come true",
+                    "Just come and set me free baby and I'll be with you",
+                    "I'm a genie in a bottle baby gotta rub me the right way honey",
+                    "I'm a genie in a bottle baby",
+                    "Come come come on in let me out",
+                    "I'm a genie in a bottle baby gotta rub me the right way honey",
+                    "If you wanna be with me",
+                    "(With me with me...)",
+                    "I'm a genie in a bottle baby",
+                    "Come come come on in let me out",
+                    "Oh... w-h-o-a (come on come on)",
+                    "My body's saying let's go",
+                    "Oh... w-h-o-a... (come on)",
+                    "But my heart is saying no (no)",
+                    "If you wanna be with me baby there's a price to pay",
+                    "I'm a genie in a bottle",
+                    "(I'm a genie in a bottle) You gotta rub the right way",
+                    "If you wanna be with me",
+                    "I can make your wish (woo) come true",
+                    "You gotta make a big impression gotta like what you do",
+                    "(Oh yeah)",
+                    "If you wanna be with me baby there's a price to pay",
+                    "(Uh yeah uh)",
+                    "I'm a genie in a bottle",
+                    "(Genie in a bottle) You gotta rub me the right way",
+                    "(Rub me the right way) If you wanna be with me",
+                    "(If you wanna be with me)",
+                    "I can make your wish come true",
+                    "Just come and set me free baby and I'll be with you",
+                    "",
+                    "I'm a genie in a bottle baby",
+                    "Come come come on in let me out"
+                ],
+                "url": "https://cdn.shazam.com/lyrics/v1/en-US/GB/iphone/musixmatch/subtitles/102652/217/1?token=dce4a030bef44a909684b6beb0e2704c",
+                "footer": "Writer(s): Pamela Sheyne, Stephen Kipner, David Frank\nLyrics powered by www.musixmatch.com",
+                "tabname": "Lyrics",
+                "beacondata": {
+                    "lyricsid": "11413251",
+                    "providername": "musixmatch",
+                    "commontrackid": "102652"
+                }
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/5758283/youtube/video?q=Christina+Aguilera+%22Genie+In+a+Bottle%22"
+            },
+            {
+                "type": "RELATED",
+                "url": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-5758283?startFrom=0&pageSize=20&connected=",
+                "tabname": "Related"
+            }
+        ],
+        "url": "https://www.shazam.com/track/5758283/genie-in-a-bottle",
+        "artists": [
+            {
+                "id": "42",
+                "adamid": "259398"
+            }
+        ],
+        "isrc": "USRC19900032",
+        "genres": {
+            "primary": "Pop"
+        },
+        "urlparams": {
+            "{tracktitle}": "Genie+In+a+Bottle",
+            "{trackartist}": "Christina+Aguilera"
+        },
+        "myshazam": {
+            "apple": {
+                "actions": [
+                    {
+                        "name": "myshazam:apple",
+                        "type": "uri",
+                        "uri": "https://music.apple.com/gb/album/genie-in-a-bottle/294372540?i=294372541&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                ]
+            }
+        },
+        "highlightsurls": {
+            "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/259398/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios&videoIdToFilter=312885030",
+            "trackhighlighturl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/highlights/312885030?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+        },
+        "relatedtracksurl": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-5758283?startFrom=0&pageSize=20&connected=",
+        "albumadamid": "294372540"
+    },
+    "tagid": "FD1E7626-4EF8-415D-A9E4-D844323740C6"
+}

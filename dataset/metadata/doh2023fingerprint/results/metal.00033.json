@@ -1,0 +1,264 @@
+{
+    "matches": [
+        {
+            "id": "659281172",
+            "offset": 30.017951171,
+            "timeskew": 0.0029678345,
+            "frequencyskew": -0.00020134449
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691633741677,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "6032738",
+        "title": "Enter Sandman",
+        "subtitle": "Mot\u00f6rhead",
+        "images": {
+            "background": "https://is2-ssl.mzstatic.com/image/thumb/Features125/v4/96/07/23/960723de-2e2a-d772-8c55-346b1994ef66/mza_15912780686797981798.png/800x800cc.jpg",
+            "coverart": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/30/20/d4/3020d427-d9a8-aae4-45e4-7c96fa30095b/4050538927870.jpg/400x400cc.jpg",
+            "coverarthq": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/30/20/d4/3020d427-d9a8-aae4-45e4-7c96fa30095b/4050538927870.jpg/400x400cc.jpg",
+            "joecolor": "b:221213p:fefefes:f2efdat:d2cfcfq:c8c2b2"
+        },
+        "share": {
+            "subject": "Enter Sandman - Mot\u00f6rhead",
+            "text": "Enter Sandman by Mot\u00f6rhead",
+            "href": "https://www.shazam.com/track/6032738/enter-sandman",
+            "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/30/20/d4/3020d427-d9a8-aae4-45e4-7c96fa30095b/4050538927870.jpg/400x400cc.jpg",
+            "twitter": "I used @Shazam to discover Enter Sandman by Mot\u00f6rhead.",
+            "html": "https://www.shazam.com/snippets/email-share/6032738?lang=en-US&country=GB",
+            "avatar": "https://is2-ssl.mzstatic.com/image/thumb/Features125/v4/96/07/23/960723de-2e2a-d772-8c55-346b1994ef66/mza_15912780686797981798.png/800x800cc.jpg",
+            "snapchat": "https://www.shazam.com/partner/sc/track/6032738"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "actions": [
+                {
+                    "name": "apple",
+                    "type": "applemusicplay",
+                    "id": "1683135703"
+                },
+                {
+                    "name": "apple",
+                    "type": "uri",
+                    "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/a8/8f/8d/a88f8d52-ad40-f4d0-d9d5-d2a781a4d05a/mzaf_6105041758666025608.plus.aac.ep.m4a"
+                }
+            ],
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/gb/album/enter-sandman/1683135401?i=1683135703&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/gb/album/enter-sandman/1683135401?i=1683135703&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                },
+                {
+                    "caption": "BUY",
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "uri": "https://itunes.apple.com/gb/album/enter-sandman/1683135401?i=1683135703&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "buy",
+                        "providername": "itunes"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "type": "buy",
+                    "listcaption": "Buy on iTunes",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "itunes"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:Enter%20Sandman%20Mot%C3%B6rhead"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27Enter+Sandman%27%20artist%3A%27Mot%C3%B6rhead%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": false,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [
+                    {
+                        "image": "https://is2-ssl.mzstatic.com/image/thumb/Features125/v4/96/07/23/960723de-2e2a-d772-8c55-346b1994ef66/mza_15912780686797981798.png/800x800cc.jpg",
+                        "caption": "Mot\u00f6rhead"
+                    },
+                    {
+                        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/30/20/d4/3020d427-d9a8-aae4-45e4-7c96fa30095b/4050538927870.jpg/400x400cc.jpg",
+                        "caption": "Enter Sandman"
+                    }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                    {
+                        "title": "Album",
+                        "text": "Enter Sandman - EP"
+                    },
+                    {
+                        "title": "Label",
+                        "text": "Sanctuary Records"
+                    },
+                    {
+                        "title": "Released",
+                        "text": "1998"
+                    }
+                ]
+            },
+            {
+                "type": "LYRICS",
+                "text": [
+                    "Say your prayers, little one, don't forget, my son",
+                    "To include everyone",
+                    "I tuck you in, warm within, keep you free from sin",
+                    "'Til the Sandman, he comes",
+                    "",
+                    "Sleep with one eye open",
+                    "Gripping your pillow tight",
+                    "",
+                    "Exit light",
+                    "Enter night",
+                    "Take my hand",
+                    "We're off to never-never land",
+                    "",
+                    "Something's wrong, shut the light, heavy thoughts tonight",
+                    "And they aren't of Snow White",
+                    "Dreams of war, dreams of liars, dreams of dragons' fire",
+                    "And of things that will bite",
+                    "",
+                    "Sleep with one eye open",
+                    "Gripping your pillow tight",
+                    "",
+                    "Exit light",
+                    "Enter night",
+                    "Take my hand",
+                    "We're off to never-never land",
+                    "",
+                    "Now, I lay me down to sleep (now, I lay me down to sleep)",
+                    "Pray the Lord my soul to keep (pray the Lord my soul to keep)",
+                    "If I die before I wake (if I die before I wake)",
+                    "Pray the Lord my soul to take (pray the Lord my soul to take)",
+                    "",
+                    "Hush, little baby, don't say a word",
+                    "And never mind that noise you heard",
+                    "It's just the beast under your bed",
+                    "In your closet, in your head",
+                    "",
+                    "Exit light",
+                    "Enter night",
+                    "Grain of sand",
+                    "",
+                    "Exit light",
+                    "Enter night",
+                    "Take my hand (yeah)",
+                    "We're off to never-never land"
+                ],
+                "url": "https://cdn.shazam.com/lyrics/v1/en-US/GB/iphone/musixmatch/subtitles/159168629/312/1?token=a66e749ba205bcb53c93922dc4c750fd",
+                "footer": "Writer(s): Kirk Hammett, James Hetfield, Lars Ulrich\nLyrics powered by www.musixmatch.com",
+                "tabname": "Lyrics",
+                "beacondata": {
+                    "lyricsid": "31836770",
+                    "providername": "musixmatch",
+                    "commontrackid": "159168629"
+                }
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/6032738/youtube/video?q=Mot%C3%B6rhead+%22Enter+Sandman%22"
+            },
+            {
+                "type": "RELATED",
+                "url": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-6032738?startFrom=0&pageSize=20&connected=",
+                "tabname": "Related"
+            }
+        ],
+        "url": "https://www.shazam.com/track/6032738/enter-sandman",
+        "artists": [
+            {
+                "id": "42",
+                "adamid": "539605"
+            }
+        ],
+        "isrc": "GB5KW2001590",
+        "genres": {
+            "primary": "Metal"
+        },
+        "urlparams": {
+            "{tracktitle}": "Enter+Sandman",
+            "{trackartist}": "Mot%C3%B6rhead"
+        },
+        "myshazam": {
+            "apple": {
+                "actions": [
+                    {
+                        "name": "myshazam:apple",
+                        "type": "uri",
+                        "uri": "https://music.apple.com/gb/album/enter-sandman/1683135401?i=1683135703&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                ]
+            }
+        },
+        "highlightsurls": {
+            "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/539605/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios&videoIdToFilter=1681521843",
+            "trackhighlighturl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/highlights/1681521843?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+        },
+        "relatedtracksurl": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-6032738?startFrom=0&pageSize=20&connected=",
+        "albumadamid": "1683135401"
+    },
+    "tagid": "277B0A7E-9B98-4726-98D8-F7ECCD4E8C9D"
+}

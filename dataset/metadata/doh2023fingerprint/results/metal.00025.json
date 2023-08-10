@@ -1,0 +1,267 @@
+{
+    "matches": [
+        {
+            "id": "212023264",
+            "offset": 30.275013671,
+            "timeskew": 0.000259161,
+            "frequencyskew": 0.00020134449
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691633774954,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "380665",
+        "title": "Peace Sells",
+        "subtitle": "Megadeth",
+        "images": {
+            "background": "https://is3-ssl.mzstatic.com/image/thumb/AMCArtistImages123/v4/6c/d9/b3/6cd9b314-1630-88aa-58ae-a9ebf4e4452e/18759602-e535-4b24-a969-738b06bc8686_ami-identity-407a0974c8af440a4542eb91638c1c38-2023-01-04T22-46-20.199Z_cropped.png/800x800cc.jpg",
+            "coverart": "https://is4-ssl.mzstatic.com/image/thumb/Music124/v4/8d/e0/ec/8de0ec68-5e46-67ff-8a5e-570d265d8faf/05099902934556.jpg/400x400cc.jpg",
+            "coverarthq": "https://is4-ssl.mzstatic.com/image/thumb/Music124/v4/8d/e0/ec/8de0ec68-5e46-67ff-8a5e-570d265d8faf/05099902934556.jpg/400x400cc.jpg",
+            "joecolor": "b:884c27p:fdbe45s:fbb756t:e6a73fq:e4a24c"
+        },
+        "share": {
+            "subject": "Peace Sells - Megadeth",
+            "text": "Peace Sells by Megadeth",
+            "href": "https://www.shazam.com/track/380665/peace-sells",
+            "image": "https://is4-ssl.mzstatic.com/image/thumb/Music124/v4/8d/e0/ec/8de0ec68-5e46-67ff-8a5e-570d265d8faf/05099902934556.jpg/400x400cc.jpg",
+            "twitter": "I used @Shazam to discover Peace Sells by Megadeth.",
+            "html": "https://www.shazam.com/snippets/email-share/380665?lang=en-US&country=GB",
+            "avatar": "https://is3-ssl.mzstatic.com/image/thumb/AMCArtistImages123/v4/6c/d9/b3/6cd9b314-1630-88aa-58ae-a9ebf4e4452e/18759602-e535-4b24-a969-738b06bc8686_ami-identity-407a0974c8af440a4542eb91638c1c38-2023-01-04T22-46-20.199Z_cropped.png/800x800cc.jpg",
+            "snapchat": "https://www.shazam.com/partner/sc/track/380665"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "actions": [
+                {
+                    "name": "apple",
+                    "type": "applemusicplay",
+                    "id": "715626084"
+                },
+                {
+                    "name": "apple",
+                    "type": "uri",
+                    "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/62/93/57/62935736-c978-db7a-5cc7-359f8de89a99/mzaf_11835792011129421293.plus.aac.ep.m4a"
+                }
+            ],
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/gb/album/peace-sells/715624797?i=715626084&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/gb/album/peace-sells/715624797?i=715626084&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                },
+                {
+                    "caption": "BUY",
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "uri": "https://itunes.apple.com/gb/album/peace-sells/715624797?i=715626084&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "buy",
+                        "providername": "itunes"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "type": "buy",
+                    "listcaption": "Buy on iTunes",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "itunes"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:Peace%20Sells%20Megadeth"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27Peace+Sells%27%20artist%3A%27Megadeth%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": false,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [
+                    {
+                        "image": "https://is3-ssl.mzstatic.com/image/thumb/AMCArtistImages123/v4/6c/d9/b3/6cd9b314-1630-88aa-58ae-a9ebf4e4452e/18759602-e535-4b24-a969-738b06bc8686_ami-identity-407a0974c8af440a4542eb91638c1c38-2023-01-04T22-46-20.199Z_cropped.png/800x800cc.jpg",
+                        "caption": "Megadeth"
+                    },
+                    {
+                        "image": "https://is4-ssl.mzstatic.com/image/thumb/Music124/v4/8d/e0/ec/8de0ec68-5e46-67ff-8a5e-570d265d8faf/05099902934556.jpg/400x400cc.jpg",
+                        "caption": "Peace Sells"
+                    }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                    {
+                        "title": "Album",
+                        "text": "Peace Sells... But Who's Buying? (25th Anniversary)"
+                    },
+                    {
+                        "title": "Label",
+                        "text": "Capitol Records"
+                    },
+                    {
+                        "title": "Released",
+                        "text": "1986"
+                    }
+                ]
+            },
+            {
+                "type": "LYRICS",
+                "text": [
+                    "What do you mean I don't believe in God?",
+                    "I talk to him everyday.",
+                    "What do you mean, I don't support your system?",
+                    "I go to court when I have to",
+                    "What do you mean, I can't get to work on time?",
+                    "I got nothing better to do.",
+                    "And, what do you mean, I don't pay my bills?",
+                    "Why do you think I'm broke? Huh?",
+                    "",
+                    "If there's a new way,",
+                    "I'll be the first in line.",
+                    "But it better work this time.",
+                    "",
+                    "What do you mean, I hurt your feelings?",
+                    "I didn't know you had any feelings.",
+                    "What do you mean, I ain't kind?",
+                    "Just not your kind.",
+                    "What do you mean, I couldn't be the President",
+                    "Of the United States of America?",
+                    "Tell me something, it's still We the people, right?",
+                    "",
+                    "If there's a new way",
+                    "I'll be the first in line",
+                    "But it better work this time",
+                    "",
+                    "Can you put a price on peace?",
+                    "",
+                    "Peace,",
+                    "Peace sells...",
+                    "Peace,",
+                    "Peace sells...",
+                    "Peace sells, but who's buying?",
+                    "Peace sells, but who's buying?",
+                    "Peace sells, but who's buying?",
+                    "Peace sells, but who's buying?",
+                    "",
+                    "Peace sells, but who's buying?",
+                    "Peace sells, but who's buying?",
+                    "Peace sells, but who's buying?",
+                    "Peace sells, but who's buying?",
+                    "",
+                    "Peace sells, but who's buying?",
+                    "Peace sells, but who's buying?",
+                    "Peace sells, but who's buying?",
+                    "Peace sells, but who's buying?",
+                    "",
+                    "No, peace sells",
+                    "Peace sells"
+                ],
+                "url": "https://cdn.shazam.com/lyrics/v1/en-US/GB/iphone/musixmatch/subtitles/14728621/244/1?token=4f1f1d8bc8977f955adc7a88f73fc1df",
+                "footer": "Writer(s): Dave Mustaine\nLyrics powered by www.musixmatch.com",
+                "tabname": "Lyrics",
+                "beacondata": {
+                    "lyricsid": "8727076",
+                    "providername": "musixmatch",
+                    "commontrackid": "14728621"
+                }
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/380665/youtube/video?q=Megadeth+%22Peace+Sells%22"
+            },
+            {
+                "type": "RELATED",
+                "url": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-380665?startFrom=0&pageSize=20&connected=",
+                "tabname": "Related"
+            }
+        ],
+        "url": "https://www.shazam.com/track/380665/peace-sells",
+        "artists": [
+            {
+                "id": "42",
+                "adamid": "488289"
+            }
+        ],
+        "isrc": "USCA21101251",
+        "genres": {
+            "primary": "Metal"
+        },
+        "urlparams": {
+            "{tracktitle}": "Peace+Sells",
+            "{trackartist}": "Megadeth"
+        },
+        "myshazam": {
+            "apple": {
+                "actions": [
+                    {
+                        "name": "myshazam:apple",
+                        "type": "uri",
+                        "uri": "https://music.apple.com/gb/album/peace-sells/715624797?i=715626084&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                ]
+            }
+        },
+        "highlightsurls": {
+            "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/488289/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+        },
+        "relatedtracksurl": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-380665?startFrom=0&pageSize=20&connected=",
+        "albumadamid": "715624797"
+    },
+    "tagid": "67D82CF9-16A7-4AFD-BA67-D26EF712F1A7"
+}

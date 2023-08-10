@@ -1,0 +1,272 @@
+{
+    "matches": [
+        {
+            "id": "248640047",
+            "offset": 29.910435546000002,
+            "timeskew": -0.00024807453,
+            "frequencyskew": -0.00024163723
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691633289863,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "40161608",
+        "title": "Burning Reggae",
+        "subtitle": "Burning Spear",
+        "images": {
+            "background": "https://is1-ssl.mzstatic.com/image/thumb/Features125/v4/52/7e/7d/527e7d95-67cb-ca07-ff9c-30e8ded8eb68/pr_source.png/800x800cc.jpg",
+            "coverart": "https://is2-ssl.mzstatic.com/image/thumb/Music128/v4/09/25/a4/0925a424-9053-8471-eb1f-7998edbee3bf/828283032224_cover.jpg/400x400cc.jpg",
+            "coverarthq": "https://is2-ssl.mzstatic.com/image/thumb/Music128/v4/09/25/a4/0925a424-9053-8471-eb1f-7998edbee3bf/828283032224_cover.jpg/400x400cc.jpg",
+            "joecolor": "b:020605p:ebede7s:bcc5cet:bcbfbaq:969fa6"
+        },
+        "share": {
+            "subject": "Burning Reggae - Burning Spear",
+            "text": "Burning Reggae by Burning Spear",
+            "href": "https://www.shazam.com/track/40161608/burning-reggae",
+            "image": "https://is2-ssl.mzstatic.com/image/thumb/Music128/v4/09/25/a4/0925a424-9053-8471-eb1f-7998edbee3bf/828283032224_cover.jpg/400x400cc.jpg",
+            "twitter": "I used @Shazam to discover Burning Reggae by Burning Spear.",
+            "html": "https://www.shazam.com/snippets/email-share/40161608?lang=en-US&country=GB",
+            "avatar": "https://is1-ssl.mzstatic.com/image/thumb/Features125/v4/52/7e/7d/527e7d95-67cb-ca07-ff9c-30e8ded8eb68/pr_source.png/800x800cc.jpg",
+            "snapchat": "https://www.shazam.com/partner/sc/track/40161608"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "actions": [
+                {
+                    "name": "apple",
+                    "type": "applemusicplay",
+                    "id": "318366750"
+                },
+                {
+                    "name": "apple",
+                    "type": "uri",
+                    "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/d4/46/8f/d4468fcf-23ab-f48c-3e30-5bb46a317eca/mzaf_17091584681272648683.plus.aac.ep.m4a"
+                }
+            ],
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/gb/album/burning-reggae/318366226?i=318366750&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/gb/album/burning-reggae/318366226?i=318366750&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                },
+                {
+                    "caption": "BUY",
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "uri": "https://itunes.apple.com/gb/album/burning-reggae/318366226?i=318366750&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "buy",
+                        "providername": "itunes"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "type": "buy",
+                    "listcaption": "Buy on iTunes",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "itunes"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:Burning%20Reggae%20Burning%20Spear"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27Burning+Reggae%27%20artist%3A%27Burning+Spear%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": false,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [
+                    {
+                        "image": "https://is1-ssl.mzstatic.com/image/thumb/Features125/v4/52/7e/7d/527e7d95-67cb-ca07-ff9c-30e8ded8eb68/pr_source.png/800x800cc.jpg",
+                        "caption": "Burning Spear"
+                    },
+                    {
+                        "image": "https://is2-ssl.mzstatic.com/image/thumb/Music128/v4/09/25/a4/0925a424-9053-8471-eb1f-7998edbee3bf/828283032224_cover.jpg/400x400cc.jpg",
+                        "caption": "Burning Reggae"
+                    }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                    {
+                        "title": "Album",
+                        "text": "Rasta Business"
+                    },
+                    {
+                        "title": "Label",
+                        "text": "Burning Music"
+                    },
+                    {
+                        "title": "Released",
+                        "text": "1995"
+                    }
+                ]
+            },
+            {
+                "type": "LYRICS",
+                "text": [
+                    "Come people, come be a part of this whole",
+                    "Come people, come be a part of this whole",
+                    "Burning Reggae",
+                    "Burning Reggae",
+                    "Burning Reggae",
+                    "",
+                    "There is no fire but it is",
+                    "There is no fire but it is",
+                    "Yes it is",
+                    "Burning Reggae",
+                    "Burning Reggae",
+                    "",
+                    "And you can get your heart desire from",
+                    "And you can get your heart desire from",
+                    "From this",
+                    "Burning Reggae",
+                    "Burning Reggae",
+                    "",
+                    "Go tell your friends about it",
+                    "Go tell your friends about it",
+                    "Go tell your neighbors about it",
+                    "Go tell your neighbors about it",
+                    "",
+                    "Burning Reggae",
+                    "Burning Reggae",
+                    "Burning Reggae",
+                    "Burning Reggae",
+                    "Burning Reggae",
+                    "",
+                    "One stop Mr. Driver",
+                    "One stop the Avenue",
+                    "I have some friends who work",
+                    "In the Coliseum",
+                    "I have some friends who work",
+                    "In the Coliseum",
+                    "",
+                    "And I want them to know about,",
+                    "Know about this",
+                    "",
+                    "Burning Reggae",
+                    "Burning Reggae",
+                    "Burning Reggae",
+                    "Burning Reggae",
+                    "Burning Reggae",
+                    "Burning Reggae",
+                    "",
+                    "Who Jah bless, no one curse",
+                    "Give thanks, I'm not the worst",
+                    "Who Jah bless, no one curse",
+                    "Give thanks, I'm not the worst",
+                    "",
+                    "Come people, come be a part of this whole",
+                    "Burning Reggae"
+                ],
+                "url": "https://cdn.shazam.com/lyrics/v1/en-US/GB/iphone/musixmatch/subtitles/1296663/267/1?token=ebd650f4bac6d8b62ca5e1c97cd313e9",
+                "footer": "Writer(s): Winston Godfrey Rodney\nLyrics powered by www.musixmatch.com",
+                "tabname": "Lyrics",
+                "beacondata": {
+                    "lyricsid": "7766309",
+                    "providername": "musixmatch",
+                    "commontrackid": "1296663"
+                }
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/40161608/youtube/video?q=Burning+Spear+%22Burning+Reggae%22"
+            },
+            {
+                "type": "RELATED",
+                "url": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-40161608?startFrom=0&pageSize=20&connected=",
+                "tabname": "Related"
+            }
+        ],
+        "url": "https://www.shazam.com/track/40161608/burning-reggae",
+        "artists": [
+            {
+                "id": "42",
+                "adamid": "1587884"
+            }
+        ],
+        "isrc": "USTC90969302",
+        "genres": {
+            "primary": "Reggae"
+        },
+        "urlparams": {
+            "{tracktitle}": "Burning+Reggae",
+            "{trackartist}": "Burning+Spear"
+        },
+        "myshazam": {
+            "apple": {
+                "actions": [
+                    {
+                        "name": "myshazam:apple",
+                        "type": "uri",
+                        "uri": "https://music.apple.com/gb/album/burning-reggae/318366226?i=318366750&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                ]
+            }
+        },
+        "highlightsurls": {
+            "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/1587884/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+        },
+        "relatedtracksurl": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-40161608?startFrom=0&pageSize=20&connected=",
+        "albumadamid": "318366226"
+    },
+    "tagid": "A84F9DF0-7A2E-43D4-B992-A9136B3CD532"
+}

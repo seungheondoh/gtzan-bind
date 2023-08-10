@@ -1,0 +1,269 @@
+{
+    "matches": [
+        {
+            "id": "218778597",
+            "offset": 29.979132812,
+            "timeskew": -4.1782856e-05,
+            "frequencyskew": -0.00024163723
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691633510892,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "5200418",
+        "title": "Dancing Days",
+        "subtitle": "Led Zeppelin",
+        "images": {
+            "background": "https://is2-ssl.mzstatic.com/image/thumb/Features125/v4/7d/10/7c/7d107c7b-6e9e-d0f3-d3ea-e1a9fe56ac6b/mza_6622134209630040489.png/800x800cc.jpg",
+            "coverart": "https://is3-ssl.mzstatic.com/image/thumb/Music114/v4/4f/88/ad/4f88ad28-3953-fded-6c18-fe87b5d0dc7b/dj.iqdrlirx.jpg/400x400cc.jpg",
+            "coverarthq": "https://is3-ssl.mzstatic.com/image/thumb/Music114/v4/4f/88/ad/4f88ad28-3953-fded-6c18-fe87b5d0dc7b/dj.iqdrlirx.jpg/400x400cc.jpg",
+            "joecolor": "b:001a0bp:fce7e3s:f6793at:c9beb8q:c56630"
+        },
+        "share": {
+            "subject": "Dancing Days - Led Zeppelin",
+            "text": "Dancing Days by Led Zeppelin",
+            "href": "https://www.shazam.com/track/5200418/dancing-days",
+            "image": "https://is3-ssl.mzstatic.com/image/thumb/Music114/v4/4f/88/ad/4f88ad28-3953-fded-6c18-fe87b5d0dc7b/dj.iqdrlirx.jpg/400x400cc.jpg",
+            "twitter": "I used @Shazam to discover Dancing Days by Led Zeppelin.",
+            "html": "https://www.shazam.com/snippets/email-share/5200418?lang=en-US&country=GB",
+            "avatar": "https://is2-ssl.mzstatic.com/image/thumb/Features125/v4/7d/10/7c/7d107c7b-6e9e-d0f3-d3ea-e1a9fe56ac6b/mza_6622134209630040489.png/800x800cc.jpg",
+            "snapchat": "https://www.shazam.com/partner/sc/track/5200418"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "actions": [
+                {
+                    "name": "apple",
+                    "type": "applemusicplay",
+                    "id": "580707921"
+                },
+                {
+                    "name": "apple",
+                    "type": "uri",
+                    "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/6c/65/e3/6c65e374-5f8a-293a-603d-87a6d699b85a/mzaf_13201301002211376738.plus.aac.ep.m4a"
+                }
+            ],
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/gb/album/dancing-days/580707916?i=580707921&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/gb/album/dancing-days/580707916?i=580707921&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                },
+                {
+                    "caption": "BUY",
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "uri": "https://itunes.apple.com/gb/album/dancing-days/580707916?i=580707921&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "buy",
+                        "providername": "itunes"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "type": "buy",
+                    "listcaption": "Buy on iTunes",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "itunes"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:Dancing%20Days%20Led%20Zeppelin"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27Dancing+Days%27%20artist%3A%27Led+Zeppelin%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": false,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [
+                    {
+                        "image": "https://is2-ssl.mzstatic.com/image/thumb/Features125/v4/7d/10/7c/7d107c7b-6e9e-d0f3-d3ea-e1a9fe56ac6b/mza_6622134209630040489.png/800x800cc.jpg",
+                        "caption": "Led Zeppelin"
+                    },
+                    {
+                        "image": "https://is3-ssl.mzstatic.com/image/thumb/Music114/v4/4f/88/ad/4f88ad28-3953-fded-6c18-fe87b5d0dc7b/dj.iqdrlirx.jpg/400x400cc.jpg",
+                        "caption": "Dancing Days"
+                    }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                    {
+                        "title": "Album",
+                        "text": "Houses of the Holy (Remastered)"
+                    },
+                    {
+                        "title": "Label",
+                        "text": "Rhino Atlantic"
+                    },
+                    {
+                        "title": "Released",
+                        "text": "1973"
+                    }
+                ]
+            },
+            {
+                "type": "LYRICS",
+                "text": [
+                    "Dancing days are here again,",
+                    "As the summer evenings grow.",
+                    "I got my flower, I got my power,",
+                    "I got a woman who knows.",
+                    "",
+                    "I said it's alright,",
+                    "You know it's alright,",
+                    "I guess it's all in my heart.",
+                    "You'll be my only,",
+                    "My one and only,",
+                    "Is that the way it should start?",
+                    "",
+                    "Crazy ways are evident,",
+                    "By the way you wearin' your clothes.",
+                    "Sippin' booze is precedent,",
+                    "As the evening starts to glow.",
+                    "",
+                    "You know it's alright,",
+                    "I said it's alright,",
+                    "You know it's all in my heart.",
+                    "You'll be my only,",
+                    "My one and only,",
+                    "Is that the way it should start?",
+                    "",
+                    "Do Ya?",
+                    "",
+                    "You told your mother I'd get you home,",
+                    "But you didn't say that I got no car.",
+                    "I saw a lion, he was standin' alone,",
+                    "With a tadpole in a jar.",
+                    "",
+                    "You know it's alright,",
+                    "I said it's alright,",
+                    "I guess it's all in my heart, heart, heart.",
+                    "You'll be my only,",
+                    "My one and only,",
+                    "Is that the way it should start?",
+                    "",
+                    "So dancing days are here again,",
+                    "As the summer evenings grow.",
+                    "You are my flower, you are my power,",
+                    "You are my woman who knows.",
+                    "",
+                    "I said it's alright,",
+                    "You know it's alright,",
+                    "You know it's all in my heart.",
+                    "You'll be my only, yes",
+                    "My one and only, yes",
+                    "Is that the way it should start?",
+                    "I know it isn't."
+                ],
+                "url": "https://cdn.shazam.com/lyrics/v1/en-US/GB/iphone/musixmatch/subtitles/92015/221/1?token=f49ccf9ec49f924f1ada3764d0bd2f6b",
+                "footer": "Writer(s): Robert Anthony Plant, Jimmy Page\nLyrics powered by www.musixmatch.com",
+                "tabname": "Lyrics",
+                "beacondata": {
+                    "lyricsid": "6894181",
+                    "providername": "musixmatch",
+                    "commontrackid": "92015"
+                }
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/5200418/youtube/video?q=Led+Zeppelin+%22Dancing+Days%22"
+            },
+            {
+                "type": "RELATED",
+                "url": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-5200418?startFrom=0&pageSize=20&connected=",
+                "tabname": "Related"
+            }
+        ],
+        "url": "https://www.shazam.com/track/5200418/dancing-days",
+        "artists": [
+            {
+                "id": "42",
+                "adamid": "994656"
+            }
+        ],
+        "isrc": "USAT21207055",
+        "genres": {
+            "primary": "Rock"
+        },
+        "urlparams": {
+            "{tracktitle}": "Dancing+Days",
+            "{trackartist}": "Led+Zeppelin"
+        },
+        "myshazam": {
+            "apple": {
+                "actions": [
+                    {
+                        "name": "myshazam:apple",
+                        "type": "uri",
+                        "uri": "https://music.apple.com/gb/album/dancing-days/580707916?i=580707921&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                ]
+            }
+        },
+        "highlightsurls": {
+            "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/994656/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+        },
+        "relatedtracksurl": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-5200418?startFrom=0&pageSize=20&connected=",
+        "albumadamid": "580707916"
+    },
+    "tagid": "E2E3C261-97D2-425F-9864-D03B79121B3F"
+}

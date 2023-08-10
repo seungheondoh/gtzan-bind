@@ -1,0 +1,301 @@
+{
+    "matches": [
+        {
+            "id": "342533435",
+            "offset": 155.95696875,
+            "timeskew": -0.031413198,
+            "frequencyskew": 0.000698328
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691632716046,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "342533435",
+        "title": "Ako niakoga",
+        "subtitle": "Lubo Kirov",
+        "images": {
+            "background": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/2c/52/f6/2c52f61a-f10c-51b9-e353-a19696a792cd/3800225871587.jpg/400x400cc.jpg",
+            "coverart": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/2c/52/f6/2c52f61a-f10c-51b9-e353-a19696a792cd/3800225871587.jpg/400x400cc.jpg",
+            "coverarthq": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/2c/52/f6/2c52f61a-f10c-51b9-e353-a19696a792cd/3800225871587.jpg/400x400cc.jpg",
+            "joecolor": "b:151515p:d7c2b9s:dba697t:b09f98q:b3897d"
+        },
+        "share": {
+            "subject": "Ako niakoga - Lubo Kirov",
+            "text": "Ako niakoga by Lubo Kirov",
+            "href": "https://www.shazam.com/track/342533435/ako-niakoga",
+            "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/2c/52/f6/2c52f61a-f10c-51b9-e353-a19696a792cd/3800225871587.jpg/400x400cc.jpg",
+            "twitter": "I used @Shazam to discover Ako niakoga by Lubo Kirov.",
+            "html": "https://www.shazam.com/snippets/email-share/342533435?lang=en-US&country=GB",
+            "snapchat": "https://www.shazam.com/partner/sc/track/342533435"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "actions": [
+                {
+                    "name": "apple",
+                    "type": "applemusicplay",
+                    "id": "1594648134"
+                },
+                {
+                    "name": "apple",
+                    "type": "uri",
+                    "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/02/b2/bf/02b2bfe5-3293-a4d3-a597-0fb2c94a7fac/mzaf_321281369147381878.plus.aac.ep.m4a"
+                }
+            ],
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/gb/album/ako-niakoga/1594647850?i=1594648134&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/gb/album/ako-niakoga/1594647850?i=1594648134&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                },
+                {
+                    "caption": "BUY",
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "uri": "https://itunes.apple.com/gb/album/ako-niakoga/1594647850?i=1594648134&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "buy",
+                        "providername": "itunes"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "type": "buy",
+                    "listcaption": "Buy on iTunes",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "itunes"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:Ako%20niakoga%20Lubo%20Kirov"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27Ako+niakoga%27%20artist%3A%27Lubo+Kirov%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": false,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [
+                    {
+                        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/2c/52/f6/2c52f61a-f10c-51b9-e353-a19696a792cd/3800225871587.jpg/400x400cc.jpg",
+                        "caption": "Ako niakoga"
+                    }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                    {
+                        "title": "Album",
+                        "text": "Znam"
+                    },
+                    {
+                        "title": "Label",
+                        "text": "My Sound Universe"
+                    },
+                    {
+                        "title": "Released",
+                        "text": "2014"
+                    }
+                ]
+            },
+            {
+                "type": "LYRICS",
+                "text": [
+                    "Okay, \u0434\u0430\u043c\u0438 \u0438 \u0433\u043e\u0441\u043f\u043e\u0434\u0430",
+                    "\u041f\u0440\u0435\u0434\u0441\u0442\u0430\u0432\u044f\u043c \u0432\u0438 \u0416\u0438\u0432\u043a\u043e \u041f\u0435\u0442\u0440\u043e\u0432, \u043a\u043b\u0430\u0432\u0438\u0448\u043d\u0438",
+                    "\u041a\u0430\u043b\u0438\u043d \u0412\u0435\u043b\u044c\u043e\u0432, \u043f\u0435\u0440\u043a\u0443\u0441\u0438\u0438 \u0438 \u0431\u0430\u0440\u0430\u0431\u0430\u043d\u0438",
+                    "\u0410\u043d\u0433\u0435\u043b \u0414\u044e\u043b\u0433\u0435\u0440\u043e\u0432, \u043a\u0438\u0442\u0430\u0440\u0430, \u0435\u0434\u043d\u043e \u0434\u043e\u0431\u0440\u043e \u043c\u043e\u043c\u0447\u0435",
+                    "",
+                    "\u0418 \u0430\u0437 \u0441\u044a\u043c \u041b\u044e\u0431\u043e \u0438 \u043c\u043d\u043e\u0433\u043e \u0432\u0438 \u043e\u0431\u0438\u0447\u0430\u043c \u0437\u0430\u0442\u0432\u0430 \u0447\u0435 \u0441\u0442\u0435 \u0442\u0443\u043a\u0430",
+                    "\u041a\u0430\u0440\u0430\u0442\u0435 \u043c\u0435 \u0434\u0430 \u0438\u043c\u0430\u043c \u0441\u043c\u0438\u0441\u044a\u043b \u0432 \u0441\u0430\u043c\u0438\u044f \u0441\u0435\u0431\u0435 \u0441\u0438",
+                    "\u0417\u0430\u0442\u0432\u0430 \u0447\u0435 \u0432\u0438 \u0432\u0438\u0436\u0434\u0430\u043c \u043f\u0440\u0435\u0434 \u043c\u0435\u043d\u0435",
+                    "\u041c\u043d\u043e\u0433\u043e \u0441\u0442\u0435 \u0433\u043e\u0442\u0438\u043d\u0438",
+                    "",
+                    "\u0410\u043a\u043e \u043f\u043e\u0447\u043d\u0435\u043c \u043e\u0442 \u0441\u0430\u043c\u043e\u0442\u043e \u043d\u0430\u0447\u0430\u043b\u043e",
+                    "\u0421 \u0440\u044a\u0446\u0435\u0442\u0435 \u043a\u0430\u0442\u043e \u043d\u0430 \u0433\u043e\u043b\u0435\u043c\u0438\u0442\u0435 \u043a\u043e\u043d\u0446\u0435\u0440\u0442\u0438, \u0435\u0439 \u0442\u0430\u043a\u0430",
+                    "",
+                    "\u0410\u043a\u043e \u043d\u044f\u043a\u043e\u0433\u0430 \u043f\u0430\u043a \u0442\u0435 \u043e\u0431\u0438\u043a\u043d\u0430",
+                    "\u0422\u0438 \u0449\u0435 \u0442\u0440\u044a\u0433\u043d\u0435\u0448 \u043f\u043e \u043c\u043e\u0438\u0442\u0435 \u0441\u043b\u0435\u0434\u0438",
+                    "\u041d\u043e \u043d\u0435 \u0437\u043d\u0430\u044f \u0434\u0430\u043b\u0438 \u0449\u0435 \u0441\u0435 \u0441\u0440\u0435\u0449\u043d\u0435\u043c",
+                    "\u0418\u043b\u0438 \u043f\u0430\u043a \u0449\u0435 \u043e\u0441\u0442\u0430\u043d\u0435\u043c \u0441\u0430\u043c\u0438",
+                    "",
+                    "\u0410\u043a\u043e \u043d\u044f\u043a\u043e\u0433\u0430 \u043f\u0430\u043a \u0442\u0435 \u0446\u0435\u043b\u0443\u043d\u0430",
+                    "\u0414\u0432\u0435 \u0437\u0432\u0435\u0437\u0434\u0438 \u0449\u0435 \u0441\u0435 \u0441\u043c\u0435\u044f\u0442 \u0434\u043e \u043d\u0430\u0441",
+                    "\u0418 \u0449\u0435 \u043f\u043e\u043c\u043d\u044f\u0442, \u0447\u0435 \u043d\u044f\u043a\u043e\u0439 \u043e\u0431\u0438\u0447\u0430\u0445",
+                    "\u0418\u043c\u0430 \u043c\u043d\u043e\u0433\u043e \u0437\u0432\u0435\u0437\u0434\u0438 \u0438 \u0437\u0430 \u0432\u0430\u0441",
+                    "",
+                    "\u0410\u043a\u043e \u043d\u044f\u043a\u043e\u0433\u0430 \u043f\u0430\u043a \u0442\u0435 \u0446\u0435\u043b\u0443\u043d\u0430",
+                    "\u0422\u0438 \u0449\u0435 \u0442\u0440\u044a\u0433\u043d\u0435\u0448 \u043f\u043e \u043c\u043e\u0438\u0442\u0435 \u0441\u043b\u0435\u0434\u0438",
+                    "\u041d\u043e \u043d\u0435 \u0437\u043d\u0430\u044f \u0434\u0430\u043b\u0438 \u0449\u0435 \u0441\u0435 \u0441\u0440\u0435\u0449\u043d\u0435\u043c",
+                    "\u0418\u043b\u0438 \u043f\u0430\u043a \u0449\u0435 \u043e\u0441\u0442\u0430\u043d\u0435\u043c \u0441\u0430\u043c\u0438",
+                    "",
+                    "\u0410\u043a\u043e \u043d\u044f\u043a\u043e\u0433\u0430 \u043f\u0430\u043a \u0442\u0435 \u0446\u0435\u043b\u0443\u043d\u0430",
+                    "\u0414\u0432\u0435 \u0437\u0432\u0435\u0437\u0434\u0438 \u0449\u0435 \u0441\u0435 \u0441\u043c\u0435\u044f\u0442 \u0434\u043e \u043d\u0430\u0441",
+                    "\u0418 \u0449\u0435 \u043f\u043e\u043c\u043d\u044f\u0442, \u0447\u0435 \u043d\u044f\u043a\u043e\u0439 \u043e\u0431\u0438\u0447\u0430\u0445",
+                    "\u0418\u043c\u0430 \u043c\u043d\u043e\u0433\u043e \u0437\u0432\u0435\u0437\u0434\u0438 \u0438 \u0437\u0430 \u0432\u0430\u0441, \u043e\u0443",
+                    "",
+                    "\u0418\u0441\u043a\u0430\u043c \u0434\u0430 \u0437\u043d\u0430\u043c, \u0447\u0435 \u043e\u0449\u0435 \u043c\u043e\u0433\u0430",
+                    "\u0414\u0430 \u0442\u0435 \u0443\u0441\u0435\u0449\u0430\u043c \u043a\u0430\u043a\u0442\u043e \u0438 \u043f\u0440\u0435\u0434\u0438",
+                    "\u0418\u0441\u043a\u0430\u043c \u0434\u0430 \u0437\u043d\u0430\u043c \u0434\u0430\u043b\u0438 \u0442\u043e\u0432\u0430 \u0441\u0438 \u0442\u0438",
+                    "\u041e\u0443, \u0430\u043a\u043e \u043d\u044f\u043a\u043e\u0433\u0430",
+                    "",
+                    "\u0422\u0440\u044f\u0431\u0432\u0430 \u0434\u0430 \u0437\u043d\u0430\u043c, \u0447\u0435 \u043e\u0449\u0435 \u043c\u043e\u0433\u0430",
+                    "\u0414\u0430 \u0442\u0435 \u043e\u0431\u0438\u0447\u0430\u043c \u043a\u0430\u043a\u0442\u043e \u0438 \u043f\u0440\u0435\u0434\u0438",
+                    "\u0422\u0440\u044f\u0431\u0432\u0430 \u0434\u0430 \u0437\u043d\u0430\u043c, \u0434\u0430\u043d\u043e \u0442\u043e\u0432\u0430 \u0441\u0438 \u0442\u0438",
+                    "\u0410\u043a\u043e \u043d\u044f\u043a\u043e\u0433\u0430, \u043e-\u043e, \u043c\u043c\u043c (\u0410\u043d\u0433\u0435\u043b)",
+                    "",
+                    "\u0410\u043a\u043e \u043d\u044f\u043a\u043e\u0433\u0430 \u043f\u0430\u043a \u043c\u0435 \u043f\u0440\u0435\u0433\u044a\u0440\u043d\u0435\u0448",
+                    "\u041e\u0442 \u043e\u0447\u0438\u0442\u0435 \u0449\u0435 \u0431\u043b\u0438\u043a\u043d\u0430\u0442 \u0441\u044a\u043b\u0437\u0438",
+                    "\u0422\u0435 \u043b\u044e\u0431\u0438\u043c\u0438\u0442\u0435 \u043c\u0438\u0441\u043b\u0438 \u0449\u0435 \u0432\u044a\u0440\u043d\u0430\u0442",
+                    "\u0429\u0435 \u043d\u0438 \u0432\u044a\u0440\u043d\u0430\u0442 \u0432\u044a\u0432 \u043d\u0430\u0448\u0438\u0442\u0435 \u0434\u043d\u0438",
+                    "",
+                    "\u0410\u043a\u043e \u043d\u044f\u043a\u043e\u0433\u0430 \u043f\u0430\u043a \u0442\u0435 \u0446\u0435\u043b\u0443\u043d\u0430",
+                    "\u0414\u0432\u0435 \u0437\u0432\u0435\u0437\u0434\u0438 \u0449\u0435 \u0441\u0435 \u0441\u043c\u0435\u044f\u0442 \u0434\u043e \u043d\u0430\u0441",
+                    "\u0418 \u0449\u0435 \u043f\u043e\u043c\u043d\u044f\u0442, \u0447\u0435 \u043d\u044f\u043a\u043e\u0439 \u043e\u0431\u0438\u0447\u0430\u0445",
+                    "\u0418\u043c\u0430 \u043c\u043d\u043e\u0433\u043e \u0437\u0432\u0435\u0437\u0434\u0438 \u0438 \u0437\u0430 \u0432\u0430\u0441, \u0441\u0435\u0433\u0430",
+                    "",
+                    "\u0418\u0441\u043a\u0430\u043c \u0434\u0430 \u0437\u043d\u0430\u043c, \u0447\u0435 \u043e\u0449\u0435 \u043c\u043e\u0433\u0430",
+                    "\u0414\u0430 \u0442\u0435 \u043e\u0431\u0438\u0447\u0430\u043c \u043a\u0430\u043a\u0442\u043e \u0438 \u043f\u0440\u0435\u0434\u0438",
+                    "\u0418\u0441\u043a\u0430\u043c \u0434\u0430 \u0437\u043d\u0430\u043c \u0434\u0430\u043b\u0438 \u0442\u043e\u0432\u0430 \u0441\u0438 \u0442\u0438",
+                    "\u041e\u0443, \u0430\u043a\u043e \u043d\u044f\u043a\u043e\u0433\u0430",
+                    "",
+                    "\u0422\u0440\u044f\u0431\u0432\u0430 \u0434\u0430 \u0437\u043d\u0430\u043c, \u0447\u0435 \u043e\u0449\u0435 \u043c\u043e\u0433\u0430",
+                    "\u0414\u0430 \u0442\u0435 \u043e\u0431\u0438\u0447\u0430\u043c \u043a\u0430\u043a\u0442\u043e \u0438 \u043f\u0440\u0435\u0434\u0438",
+                    "\u0422\u0440\u044f\u0431\u0432\u0430 \u0434\u0430 \u0437\u043d\u0430\u043c, \u0434\u0430\u043d\u043e \u0442\u043e\u0432\u0430 \u0441\u0438 \u0442\u0438",
+                    "\u0410\u043a\u043e \u043d\u044f\u043a\u043e\u0433\u0430",
+                    "",
+                    "\u0410\u043a\u043e \u043d\u044f\u043a\u043e\u0433\u0430 \u043f\u0430\u043a \u043c\u0435 \u043f\u0440\u0435\u0433\u044a\u0440\u043d\u0435\u0448",
+                    "\u041e\u0442 \u043e\u0447\u0438\u0442\u0435 \u0449\u0435 \u0431\u043b\u0438\u043a\u043d\u0430\u0442 \u0441\u044a\u043b\u0437\u0438",
+                    "\u0422\u0435 \u043b\u044e\u0431\u0438\u043c\u0438\u0442\u0435 \u043c\u0438\u0441\u043b\u0438 \u0449\u0435 \u0432\u044a\u0440\u043d\u0430\u0442",
+                    "\u0429\u0435 \u043d\u0438 \u0432\u044a\u0440\u043d\u0430\u0442 \u0432\u044a\u0432 \u043d\u0430\u0448\u0438\u0442\u0435 \u0434\u043d\u0438",
+                    "",
+                    "\u0410\u043a\u043e \u043d\u044f\u043a\u043e\u0433\u0430 \u043f\u0430\u043a \u0442\u0435 \u0446\u0435\u043b\u0443\u043d\u0430",
+                    "\u0414\u0432\u0435 \u0437\u0432\u0435\u0437\u0434\u0438 \u0449\u0435 \u0441\u0435 \u0441\u043c\u0435\u044f\u0442 \u0434\u043e \u043d\u0430\u0441",
+                    "\u0418 \u0449\u0435 \u043f\u043e\u043c\u043d\u044f\u0442, \u0447\u0435 \u043d\u044f\u043a\u043e\u0439 \u043e\u0431\u0438\u0447\u0430\u0445",
+                    "\u0418\u043c\u0430 \u043c\u043d\u043e\u0433\u043e \u0437\u0432\u0435\u0437\u0434\u0438 \u0438 \u0437\u0430 \u0432\u0430\u0441",
+                    "",
+                    "\u0418\u0441\u043a\u0430\u043c \u0434\u0430 \u0437\u043d\u0430\u043c, \u0447\u0435 \u043e\u0449\u0435 \u043c\u043e\u0433\u0430",
+                    "\u0414\u0430 \u0442\u0435 \u0443\u0441\u0435\u0449\u0430\u043c \u043a\u0430\u043a\u0442\u043e \u0438 \u043f\u0440\u0435\u0434\u0438",
+                    "\u0418\u0441\u043a\u0430\u043c \u0434\u0430 \u0437\u043d\u0430\u043c \u0434\u0430\u043b\u0438 \u0442\u043e\u0432\u0430 \u0441\u0438 \u0442\u0438",
+                    "\u041e\u0443, \u0430\u043a\u043e \u043d\u044f\u043a\u043e\u0433\u0430",
+                    "",
+                    "\u0422\u0440\u044f\u0431\u0432\u0430 \u0434\u0430 \u0437\u043d\u0430\u043c, \u0447\u0435 \u043e\u0449\u0435 \u043c\u043e\u0433\u0430",
+                    "\u0414\u0430 \u0442\u0435 \u043e\u0431\u0438\u0447\u0430\u043c \u043a\u0430\u043a\u0442\u043e \u0438 \u043f\u0440\u0435\u0434\u0438",
+                    "\u0422\u0440\u044f\u0431\u0432\u0430 \u0434\u0430 \u0437\u043d\u0430\u043c, \u0434\u0430\u043d\u043e \u0442\u043e\u0432\u0430 \u0441\u0438 \u0442\u0438",
+                    "\u0410\u043a\u043e \u043d\u044f\u043a\u043e\u0433\u0430",
+                    "",
+                    "\u0410\u043a\u043e \u043d\u044f\u043a\u043e\u0433\u0430",
+                    "\u0410\u043a\u043e \u043d\u044f\u043a\u043e\u0433\u0430",
+                    "\u0415\u0439, \u0430\u043a\u043e \u043d\u044f\u043a\u043e\u0433\u0430",
+                    "\u041e\u0445-\u043e\u0443, \u0430\u043a\u043e \u043d\u044f\u043a\u043e\u0433\u0430"
+                ],
+                "url": "https://cdn.shazam.com/lyrics/v1/en-US/GB/iphone/musixmatch/subtitles/14317197/233/1?token=97ee129fe2121b10ae87c2deea4ed542",
+                "footer": "Writer(s): Dimitar Karnev, Lubomir Kirov\nLyrics powered by www.musixmatch.com",
+                "tabname": "Lyrics",
+                "beacondata": {
+                    "lyricsid": "31836294",
+                    "providername": "musixmatch",
+                    "commontrackid": "14317197"
+                }
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/342533435/youtube/video?q=Lubo+Kirov+%22Ako+niakoga%22"
+            },
+            {
+                "type": "RELATED",
+                "url": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-342533435?startFrom=0&pageSize=20&connected=",
+                "tabname": "Related"
+            }
+        ],
+        "url": "https://www.shazam.com/track/342533435/ako-niakoga",
+        "artists": [
+            {
+                "id": "42",
+                "adamid": "501120706"
+            }
+        ],
+        "isrc": "BGA271700006",
+        "genres": {
+            "primary": "Pop"
+        },
+        "urlparams": {
+            "{tracktitle}": "Ako+niakoga",
+            "{trackartist}": "Lubo+Kirov"
+        },
+        "myshazam": {
+            "apple": {
+                "actions": [
+                    {
+                        "name": "myshazam:apple",
+                        "type": "uri",
+                        "uri": "https://music.apple.com/gb/album/ako-niakoga/1594647850?i=1594648134&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                ]
+            }
+        },
+        "highlightsurls": {
+            "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/501120706/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+        },
+        "relatedtracksurl": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-342533435?startFrom=0&pageSize=20&connected=",
+        "albumadamid": "1594647850"
+    },
+    "tagid": "B17265C1-0099-4182-9158-E0B60E2C605D"
+}

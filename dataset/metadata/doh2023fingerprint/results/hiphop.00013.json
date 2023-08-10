@@ -1,0 +1,342 @@
+{
+    "matches": [
+        {
+            "id": "209570838",
+            "offset": 30.023150389999998,
+            "timeskew": -8.761883e-06,
+            "frequencyskew": -0.000120818615
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691632899633,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "10523934",
+        "title": "Body Movin' (Fatboy Slim Remix)",
+        "subtitle": "Beastie Boys",
+        "images": {
+            "background": "https://is5-ssl.mzstatic.com/image/thumb/Features115/v4/16/2c/76/162c767d-b00a-5664-1548-df303ae12729/mza_8084110850478364065.png/800x800cc.jpg",
+            "coverart": "https://is3-ssl.mzstatic.com/image/thumb/Music125/v4/aa/95/31/aa953192-7552-3a1d-d87f-e724717f3947/13UABIM07217.rgb.jpg/400x400cc.jpg",
+            "coverarthq": "https://is3-ssl.mzstatic.com/image/thumb/Music125/v4/aa/95/31/aa953192-7552-3a1d-d87f-e724717f3947/13UABIM07217.rgb.jpg/400x400cc.jpg",
+            "joecolor": "b:000000p:f6e252s:f7e06dt:c5b541q:c6b357"
+        },
+        "share": {
+            "subject": "Body Movin' (Fatboy Slim Remix) - Beastie Boys",
+            "text": "Body Movin' (Fatboy Slim Remix) by Beastie Boys",
+            "href": "https://www.shazam.com/track/10523934/body-movin-fatboy-slim-remix",
+            "image": "https://is3-ssl.mzstatic.com/image/thumb/Music125/v4/aa/95/31/aa953192-7552-3a1d-d87f-e724717f3947/13UABIM07217.rgb.jpg/400x400cc.jpg",
+            "twitter": "I used @Shazam to discover Body Movin' (Fatboy Slim Remix) by Beastie Boys.",
+            "html": "https://www.shazam.com/snippets/email-share/10523934?lang=en-US&country=GB",
+            "avatar": "https://is5-ssl.mzstatic.com/image/thumb/Features115/v4/16/2c/76/162c767d-b00a-5664-1548-df303ae12729/mza_8084110850478364065.png/800x800cc.jpg",
+            "snapchat": "https://www.shazam.com/partner/sc/track/10523934"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "actions": [
+                {
+                    "name": "apple",
+                    "type": "applemusicplay",
+                    "id": "721224752"
+                },
+                {
+                    "name": "apple",
+                    "type": "uri",
+                    "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/70/11/3e/70113ec6-a182-d9c7-31eb-fc57420cbab9/mzaf_7474892198904688147.plus.aac.ep.m4a"
+                }
+            ],
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/gb/album/body-movin-fatboy-slim-remix/721224205?i=721224752&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/gb/album/body-movin-fatboy-slim-remix/721224205?i=721224752&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                },
+                {
+                    "caption": "BUY",
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "uri": "https://itunes.apple.com/gb/album/body-movin-fatboy-slim-remix/721224205?i=721224752&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "buy",
+                        "providername": "itunes"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "type": "buy",
+                    "listcaption": "Buy on iTunes",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "itunes"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:Body%20Movin%27%20%28Fatboy%20Slim%20Remix%29%20Beastie%20Boys"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27Body+Movin%5C%27+%28Fatboy+Slim+Remix%29%27%20artist%3A%27Beastie+Boys%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": true,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [
+                    {
+                        "image": "https://is5-ssl.mzstatic.com/image/thumb/Features115/v4/16/2c/76/162c767d-b00a-5664-1548-df303ae12729/mza_8084110850478364065.png/800x800cc.jpg",
+                        "caption": "Beastie Boys"
+                    },
+                    {
+                        "image": "https://is3-ssl.mzstatic.com/image/thumb/Music125/v4/aa/95/31/aa953192-7552-3a1d-d87f-e724717f3947/13UABIM07217.rgb.jpg/400x400cc.jpg",
+                        "caption": "Body Movin' (Fatboy Slim Remix)"
+                    }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                    {
+                        "title": "Album",
+                        "text": "Hello Nasty (Deluxe Version) [Remastered]"
+                    },
+                    {
+                        "title": "Label",
+                        "text": "Capitol Records"
+                    },
+                    {
+                        "title": "Released",
+                        "text": "1998"
+                    }
+                ]
+            },
+            {
+                "type": "LYRICS",
+                "text": [
+                    "Body movin', body movin', body movin'",
+                    "We be body movin'",
+                    "Body movin', body movin', body movin'",
+                    "We be body movin'",
+                    "Body movin', A-body movin', body movin'",
+                    "We be body movin'",
+                    "Body movin', A-body movin', body movin'",
+                    "Body, body movin'",
+                    "Body movin', body movin', body movin'",
+                    "We be body movin'",
+                    "Body movin', body movin', body movin'",
+                    "We be body movin'",
+                    "Body movin', A-body movin', body movin'",
+                    "We be body movin'",
+                    "Body movin', A-body movin', body movin'",
+                    "Body, body movin'",
+                    "Body, body, body",
+                    "",
+                    "Body movin', body movin'",
+                    "A1 sound, and the sound's so soothing",
+                    "Body movin', body movin'",
+                    "We be getting down and you know we're Krush Groovin'",
+                    "",
+                    "Body movin', body movin'",
+                    "A1 sound, and the sound's so soothing",
+                    "Body movin', body movin'",
+                    "We be getting down and you know we're Krush Groovin'",
+                    "",
+                    "Well, let me get some action from the back section",
+                    "We need body rockin', not perfection",
+                    "Let your backbone flip but don't slip a disc",
+                    "And let your spine unwind, just take a risk",
+                    "I wanna do the freak until the break of dawn",
+                    "Tell me party people, is that so wrong?",
+                    "The ship is docking, interlockin'",
+                    "And up-rockin', electro-shocking",
+                    "We're getting down, computer action",
+                    "Do the robotic satisfaction",
+                    "Now all of y'all, get off the wall",
+                    "Have a ball and get involved with",
+                    "",
+                    "Body movin', body movin'",
+                    "A1 sound, and the sound's so soothing",
+                    "Body movin', body movin'",
+                    "We be getting down and you know we're Krush Groovin'",
+                    "",
+                    "Body movin', body movin'",
+                    "A1 sound, and the sound's so soothing",
+                    "Body movin', body movin'",
+                    "We be getting down and you know we're Krush Groovin'",
+                    "",
+                    "Flame on, I'm gone",
+                    "I'm so sweet like a nice bonbon",
+                    "Came out rapping when I was born",
+                    "Mom said rock it 'til the break of dawn",
+                    "Puttin' bodies in motion 'cause I got the notion",
+                    "Like Roy Cormier with the coconut lotion",
+                    "The sound of the music makin' you insane",
+                    "You can't explain to people this type of mind frame",
+                    "Like a bottle of Ch\u00e2teauneuf-du-Pape",
+                    "I'm fine like wine when I start to rap",
+                    "We need body-rockin', not perfection",
+                    "Let me get some action from the back section",
+                    "",
+                    "Body movin', body movin'",
+                    "A1 sound, and the sound's so soothing",
+                    "Body movin', body movin'",
+                    "We be getting down and you know we're Krush Groovin'",
+                    "",
+                    "Body movin', body movin'",
+                    "A1 sound, and the sound's so soothing",
+                    "Body movin', body movin'",
+                    "We be getting down and you know we're Krush Groovin'",
+                    "",
+                    "Mike, Mike, Mike, Mike D with the master plan",
+                    "I said, Ooh my-my and thank you, ma'am",
+                    "And when I grab the mic, you scream, \"Ooh, goddamn\"",
+                    "The cr\u00e8me de la cr\u00e8me is who I am",
+                    "MCA, where have you been?",
+                    "Packed like sardines in the tin",
+                    "So kick off your shoes and put on your swim fins",
+                    "'Cause when it comes to quarries, I'm known to swim",
+                    "And Ad-Rock, light up the place",
+                    "And if you pull my card, you pull the ace",
+                    "And if you ask me, turn up the bass",
+                    "And if you play defender, I could be your hyperspace",
+                    "",
+                    "Body movin', body movin'",
+                    "A1 sound, and the sound's so soothing",
+                    "Body movin', body movin'",
+                    "We be getting down and you know we're Krush Groovin'",
+                    "",
+                    "Body movin', body movin'",
+                    "A1 sound, and the sound's so soothing",
+                    "Body movin', body movin'",
+                    "We be getting down and you know we're Krush Groovin'",
+                    "",
+                    "Body movin', body movin'",
+                    "A1 sound, and the sound's so soothing",
+                    "Body movin', body movin'",
+                    "We be getting down and you know we're Krush Groovin'",
+                    "",
+                    "Body movin', body movin'",
+                    "A1 sound, and the sound's so soothing",
+                    "Body movin', body movin'",
+                    "We be getting down and you know we're Krush Groovin'",
+                    "",
+                    "Body movin', A-body movin'",
+                    "Body movin', we be body movin'",
+                    "Body movin', A-body movin'",
+                    "Body movin', we be body movin'",
+                    "Body movin', A-body movin'",
+                    "Body movin', we be body movin'",
+                    "Body movin', A-body movin'",
+                    "Body movin', we be body movin'",
+                    "Body movin', A-body movin'",
+                    "Body movin', we be body movin'",
+                    "Body movin', A-body movin'",
+                    "Body movin', we be body movin'",
+                    "Body movin', A-body movin'",
+                    "Body movin', we be body movin'",
+                    "Body movin', A-body movin'",
+                    "Body movin', we be body movin'"
+                ],
+                "url": "https://cdn.shazam.com/lyrics/v1/en-US/GB/iphone/musixmatch/subtitles/9940921/332/1?token=822e3c46f45f5335b3d7fa1c984c9f68",
+                "footer": "Writer(s): Adam Nathaniel Yauch, Michael Louis Diamond, Adam Keefe Horovitz, Tito Puente\nLyrics powered by www.musixmatch.com",
+                "tabname": "Lyrics",
+                "beacondata": {
+                    "lyricsid": "29909467",
+                    "providername": "musixmatch",
+                    "commontrackid": "9940921"
+                }
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/10523934/youtube/video?q=Beastie+Boys+%22Body+Movin'+(Fatboy+Slim+Remix)%22"
+            },
+            {
+                "type": "RELATED",
+                "url": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-10523934?startFrom=0&pageSize=20&connected=",
+                "tabname": "Related"
+            }
+        ],
+        "url": "https://www.shazam.com/track/10523934/body-movin-fatboy-slim-remix",
+        "artists": [
+            {
+                "id": "42",
+                "adamid": "1971863"
+            }
+        ],
+        "isrc": "USCA20903785",
+        "genres": {
+            "primary": "Hip-Hop/Rap"
+        },
+        "urlparams": {
+            "{tracktitle}": "Body+Movin%27+%28Fatboy+Slim+Remix%29",
+            "{trackartist}": "Beastie+Boys"
+        },
+        "myshazam": {
+            "apple": {
+                "actions": [
+                    {
+                        "name": "myshazam:apple",
+                        "type": "uri",
+                        "uri": "https://music.apple.com/gb/album/body-movin-fatboy-slim-remix/721224205?i=721224752&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                ]
+            }
+        },
+        "highlightsurls": {
+            "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/1971863/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+        },
+        "relatedtracksurl": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-10523934?startFrom=0&pageSize=20&connected=",
+        "albumadamid": "721224205"
+    },
+    "tagid": "53747EA6-B749-4983-987C-2B0563CFD9E0"
+}

@@ -1,0 +1,254 @@
+{
+    "matches": [
+        {
+            "id": "223168486",
+            "offset": 30.070714843,
+            "timeskew": -6.389618e-05,
+            "frequencyskew": -8.0525875e-05
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691633681068,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "10092577",
+        "title": "Asking Too Much",
+        "subtitle": "Ani DiFranco",
+        "images": {
+            "background": "https://is3-ssl.mzstatic.com/image/thumb/AMCArtistImages126/v4/ea/e5/d6/eae5d6e9-395e-19e7-42ec-74bf5acffcf8/e9510944-4470-4b62-a6be-b693b43b687f_ami-identity-b13da8df32cd89056faba4f079506fee-2023-01-27T18-28-09.814Z_cropped.png/800x800cc.jpg",
+            "coverart": "https://is3-ssl.mzstatic.com/image/thumb/Music124/v4/f4/d9/b3/f4d9b388-e0a7-8957-33e6-495f06d80e96/cover.jpg/400x400cc.jpg",
+            "coverarthq": "https://is3-ssl.mzstatic.com/image/thumb/Music124/v4/f4/d9/b3/f4d9b388-e0a7-8957-33e6-495f06d80e96/cover.jpg/400x400cc.jpg",
+            "joecolor": "b:081414p:eff3f8s:b2cbd4t:c1c6caq:90a6ae"
+        },
+        "share": {
+            "subject": "Asking Too Much - Ani DiFranco",
+            "text": "Asking Too Much by Ani DiFranco",
+            "href": "https://www.shazam.com/track/10092577/asking-too-much",
+            "image": "https://is3-ssl.mzstatic.com/image/thumb/Music124/v4/f4/d9/b3/f4d9b388-e0a7-8957-33e6-495f06d80e96/cover.jpg/400x400cc.jpg",
+            "twitter": "I used @Shazam to discover Asking Too Much by Ani DiFranco.",
+            "html": "https://www.shazam.com/snippets/email-share/10092577?lang=en-US&country=GB",
+            "avatar": "https://is3-ssl.mzstatic.com/image/thumb/AMCArtistImages126/v4/ea/e5/d6/eae5d6e9-395e-19e7-42ec-74bf5acffcf8/e9510944-4470-4b62-a6be-b693b43b687f_ami-identity-b13da8df32cd89056faba4f079506fee-2023-01-27T18-28-09.814Z_cropped.png/800x800cc.jpg",
+            "snapchat": "https://www.shazam.com/partner/sc/track/10092577"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "actions": [
+                {
+                    "name": "apple",
+                    "type": "applemusicplay",
+                    "id": "1208757307"
+                },
+                {
+                    "name": "apple",
+                    "type": "uri",
+                    "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/cd/49/cf/cd49cf1b-3b38-e622-f6d5-887c03fdf9e8/mzaf_16793963427156569780.plus.aac.ep.m4a"
+                }
+            ],
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/gb/album/asking-too-much/1208755606?i=1208757307&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/gb/album/asking-too-much/1208755606?i=1208757307&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                },
+                {
+                    "caption": "BUY",
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "uri": "https://itunes.apple.com/gb/album/asking-too-much/1208755606?i=1208757307&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "buy",
+                        "providername": "itunes"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "type": "buy",
+                    "listcaption": "Buy on iTunes",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "itunes"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:Asking%20Too%20Much%20Ani%20DiFranco"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27Asking+Too+Much%27%20artist%3A%27Ani+DiFranco%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": false,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [
+                    {
+                        "image": "https://is3-ssl.mzstatic.com/image/thumb/AMCArtistImages126/v4/ea/e5/d6/eae5d6e9-395e-19e7-42ec-74bf5acffcf8/e9510944-4470-4b62-a6be-b693b43b687f_ami-identity-b13da8df32cd89056faba4f079506fee-2023-01-27T18-28-09.814Z_cropped.png/800x800cc.jpg",
+                        "caption": "Ani DiFranco"
+                    },
+                    {
+                        "image": "https://is3-ssl.mzstatic.com/image/thumb/Music124/v4/f4/d9/b3/f4d9b388-e0a7-8957-33e6-495f06d80e96/cover.jpg/400x400cc.jpg",
+                        "caption": "Asking Too Much"
+                    }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                    {
+                        "title": "Album",
+                        "text": "Not a Pretty Girl"
+                    },
+                    {
+                        "title": "Label",
+                        "text": "Righteous Babe Records"
+                    },
+                    {
+                        "title": "Released",
+                        "text": "1995"
+                    }
+                ]
+            },
+            {
+                "type": "LYRICS",
+                "text": [
+                    "I want somebody who sees the pointlessness",
+                    "And still keeps their purpose in mind",
+                    "I want somebody who has a tortured soul",
+                    "Some of the time",
+                    "I want somebody who will either put out for me",
+                    "Or put me out of misery",
+                    "Or maybe just put it all to words",
+                    "And make me say, you know",
+                    "I never heard it put that way",
+                    "Make me say, what did you just say?",
+                    "I want somebody who can hold my interest",
+                    "Hold it and never let it fall",
+                    "Someone who can flatten me with a kiss",
+                    "That hits like a fist",
+                    "Or a sentence, that stops me like a brick wall",
+                    "Because if you hear me talking",
+                    "Listen to what i'm not saying",
+                    "If you hear me playing guitar",
+                    "Listen to what i'm not playing",
+                    "And don't ask me to put words",
+                    "To all the spaces between notes",
+                    "In fact if you have to ask, forget it",
+                    "Do and you'll regret it",
+                    "I'm tired of being the interesting one",
+                    "I'm tired of heving fun for two",
+                    "Just lay yourself on the line",
+                    "And i might lay myself down by you",
+                    "But don't sit behind your eyes",
+                    "And wait for me to surprise you",
+                    "I want somebody who can make me",
+                    "Scream until it's funny",
+                    "Give me a run for my money",
+                    "I want someone who can",
+                    "Twist me up in knots",
+                    "Tell me, for the woman who has everything",
+                    "What have you got?",
+                    "I want someone who's not afraid of me",
+                    "Or anyone else",
+                    "In other words i want someone",
+                    "Who's not afraid of themself",
+                    "",
+                    "Do you think i'm asking too much?"
+                ],
+                "footer": "Writer(s): Ani Di Franco\nLyrics powered by www.musixmatch.com",
+                "tabname": "Lyrics",
+                "beacondata": {
+                    "lyricsid": "1200707",
+                    "providername": "musixmatch",
+                    "commontrackid": "8700"
+                }
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/10092577/youtube/video?q=Ani+DiFranco+%22Asking+Too+Much%22"
+            }
+        ],
+        "url": "https://www.shazam.com/track/10092577/asking-too-much",
+        "artists": [
+            {
+                "id": "42",
+                "adamid": "3627568"
+            }
+        ],
+        "isrc": "USRB49500011",
+        "genres": {
+            "primary": "Vocal"
+        },
+        "urlparams": {
+            "{tracktitle}": "Asking+Too+Much",
+            "{trackartist}": "Ani+DiFranco"
+        },
+        "myshazam": {
+            "apple": {
+                "actions": [
+                    {
+                        "name": "myshazam:apple",
+                        "type": "uri",
+                        "uri": "https://music.apple.com/gb/album/asking-too-much/1208755606?i=1208757307&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                ]
+            }
+        },
+        "highlightsurls": {
+            "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/3627568/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+        },
+        "albumadamid": "1208755606"
+    },
+    "tagid": "3F2AC546-F0F4-498D-8F34-315E6CE2E422"
+}

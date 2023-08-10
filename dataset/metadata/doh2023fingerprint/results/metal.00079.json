@@ -1,0 +1,280 @@
+{
+    "matches": [
+        {
+            "id": "439576894",
+            "offset": 29.809068359,
+            "timeskew": 0.0021624565,
+            "frequencyskew": 0.0019350052
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691633714170,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "233664",
+        "title": "Photograph",
+        "subtitle": "Def Leppard",
+        "images": {
+            "background": "https://is5-ssl.mzstatic.com/image/thumb/Music122/v4/e2/47/47/e24747b5-384c-8c23-59ca-262051f08999/pr_source.png/800x800cc.jpg",
+            "coverart": "https://is3-ssl.mzstatic.com/image/thumb/Music124/v4/99/ef/71/99ef71ff-eaea-7bb7-c479-c079f14b0a5b/17UM1IM41551.rgb.jpg/400x400cc.jpg",
+            "coverarthq": "https://is3-ssl.mzstatic.com/image/thumb/Music124/v4/99/ef/71/99ef71ff-eaea-7bb7-c479-c079f14b0a5b/17UM1IM41551.rgb.jpg/400x400cc.jpg",
+            "joecolor": "b:000000p:89b5dds:8db2d2t:6e91b0q:708ea8"
+        },
+        "share": {
+            "subject": "Photograph - Def Leppard",
+            "text": "Photograph by Def Leppard",
+            "href": "https://www.shazam.com/track/233664/photograph",
+            "image": "https://is3-ssl.mzstatic.com/image/thumb/Music124/v4/99/ef/71/99ef71ff-eaea-7bb7-c479-c079f14b0a5b/17UM1IM41551.rgb.jpg/400x400cc.jpg",
+            "twitter": "I used @Shazam to discover Photograph by Def Leppard.",
+            "html": "https://www.shazam.com/snippets/email-share/233664?lang=en-US&country=GB",
+            "avatar": "https://is5-ssl.mzstatic.com/image/thumb/Music122/v4/e2/47/47/e24747b5-384c-8c23-59ca-262051f08999/pr_source.png/800x800cc.jpg",
+            "snapchat": "https://www.shazam.com/partner/sc/track/233664"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "actions": [
+                {
+                    "name": "apple",
+                    "type": "applemusicplay",
+                    "id": "1440902940"
+                },
+                {
+                    "name": "apple",
+                    "type": "uri",
+                    "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview113/v4/e0/8d/29/e08d2966-9a75-7f50-7b4f-671a6c486b98/mzaf_7846722989941571921.plus.aac.ep.m4a"
+                }
+            ],
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/gb/album/photograph/1440902935?i=1440902940&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/gb/album/photograph/1440902935?i=1440902940&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                },
+                {
+                    "caption": "BUY",
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "uri": "https://itunes.apple.com/gb/album/photograph/1440902935?i=1440902940&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "buy",
+                        "providername": "itunes"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "type": "buy",
+                    "listcaption": "Buy on iTunes",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "itunes"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:Photograph%20Def%20Leppard"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27Photograph%27%20artist%3A%27Def+Leppard%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": false,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [
+                    {
+                        "image": "https://is5-ssl.mzstatic.com/image/thumb/Music122/v4/e2/47/47/e24747b5-384c-8c23-59ca-262051f08999/pr_source.png/800x800cc.jpg",
+                        "caption": "Def Leppard"
+                    },
+                    {
+                        "image": "https://is3-ssl.mzstatic.com/image/thumb/Music124/v4/99/ef/71/99ef71ff-eaea-7bb7-c479-c079f14b0a5b/17UM1IM41551.rgb.jpg/400x400cc.jpg",
+                        "caption": "Photograph"
+                    }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                    {
+                        "title": "Album",
+                        "text": "Pyromania"
+                    },
+                    {
+                        "title": "Label",
+                        "text": "UMC (Universal Music Catalogue)"
+                    },
+                    {
+                        "title": "Released",
+                        "text": "1983"
+                    }
+                ]
+            },
+            {
+                "type": "LYRICS",
+                "text": [
+                    "I'm outta luck, outta love",
+                    "Gotta photograph, picture of",
+                    "Passion killer, you're too much",
+                    "You're the only one I wanna touch",
+                    "",
+                    "I see your face every time I dream",
+                    "On every page, every magazine",
+                    "So wild and free, so far from me",
+                    "You're all I want, my fantasy",
+                    "",
+                    "Oh, look what you've done to this rock n' roll clown",
+                    "Oh-oh, look what you've done",
+                    "",
+                    "Photograph",
+                    "I don't want your photograph",
+                    "I don't need your photograph",
+                    "All I've got is a photograph",
+                    "But it's not enough",
+                    "",
+                    "I'd be your lover, if you were there",
+                    "Put your hurt on me, if you dare",
+                    "Such a woman, you got style",
+                    "You make every man feel like a child, oh",
+                    "",
+                    "You got some kinda hold on me",
+                    "You're all wrapped up in mystery",
+                    "So wild and free, so far from me",
+                    "You're all I want, my fantasy",
+                    "",
+                    "Oh, look what you've done to this rock n' roll clown",
+                    "Oh-oh, look what you've done",
+                    "I gotta have you",
+                    "",
+                    "Photograph",
+                    "I don't want your photograph",
+                    "I don't need your photograph",
+                    "All I've got is a photograph",
+                    "You've gone straight to my head",
+                    "",
+                    "Oh, look what you've done to this rock n' roll clown",
+                    "Oh-oh, look what you've done",
+                    "I gotta have you",
+                    "",
+                    "Photograph",
+                    "I don't want your photograph",
+                    "I don't need your photograph",
+                    "All I've got is a photograph",
+                    "I wanna touch you",
+                    "Ahh",
+                    "",
+                    "Photograph",
+                    "Photograph (your photograph)",
+                    "Photograph",
+                    "Photograph (I need only your)",
+                    "Photograph (I'm outta love)",
+                    "Photograph (I'm outta love)",
+                    "Photograph (you're the only one)",
+                    "Photograph (I wanna touch)",
+                    "Photograph",
+                    "Photograph"
+                ],
+                "url": "https://cdn.shazam.com/lyrics/v1/en-US/GB/iphone/musixmatch/subtitles/64904/248/1?token=3817b47a751bbfdd9f7c19dc50121f5f",
+                "footer": "Writer(s): Joseph Elliott, Mutt Lange, Richard Savage, Richard John Cyril Allen, Stephen Maynard Clark, Peter Andrew Willis\nLyrics powered by www.musixmatch.com",
+                "tabname": "Lyrics",
+                "beacondata": {
+                    "lyricsid": "26371285",
+                    "providername": "musixmatch",
+                    "commontrackid": "64904"
+                }
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/233664/youtube/video?q=Def+Leppard+%22Photograph%22"
+            },
+            {
+                "type": "RELATED",
+                "url": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-233664?startFrom=0&pageSize=20&connected=",
+                "tabname": "Related"
+            }
+        ],
+        "url": "https://www.shazam.com/track/233664/photograph",
+        "artists": [
+            {
+                "id": "42",
+                "adamid": "117554"
+            }
+        ],
+        "isrc": "GBF088300067",
+        "genres": {
+            "primary": "Hard Rock"
+        },
+        "urlparams": {
+            "{tracktitle}": "Photograph",
+            "{trackartist}": "Def+Leppard"
+        },
+        "myshazam": {
+            "apple": {
+                "actions": [
+                    {
+                        "name": "myshazam:apple",
+                        "type": "uri",
+                        "uri": "https://music.apple.com/gb/album/photograph/1440902935?i=1440902940&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                ]
+            }
+        },
+        "highlightsurls": {
+            "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/117554/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios&videoIdToFilter=1360474646",
+            "trackhighlighturl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/highlights/1360474646?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+        },
+        "relatedtracksurl": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-233664?startFrom=0&pageSize=20&connected=",
+        "albumadamid": "1440902935"
+    },
+    "tagid": "A3745CBF-9371-41E5-9B50-BB24115CB5DC"
+}

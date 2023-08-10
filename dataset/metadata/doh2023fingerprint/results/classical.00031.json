@@ -1,0 +1,200 @@
+{
+    "matches": [
+        {
+            "id": "204518460",
+            "offset": 30.039564453,
+            "timeskew": 6.902218e-05,
+            "frequencyskew": -4.029274e-05
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691633144371,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "64234312",
+        "title": "String Quartet in G Minor, Op. 10, L. 85: II. Assez vif et bien rythm\u00e9",
+        "subtitle": "Juilliard String Quartet",
+        "images": {
+            "background": "https://is4-ssl.mzstatic.com/image/thumb/Features112/v4/49/bd/ed/49bded20-9be3-3f13-74c0-99e433948c83/mzl.tyirevlj.jpg/800x800cc.jpg",
+            "coverart": "https://is1-ssl.mzstatic.com/image/thumb/Music71/v4/61/15/ea/6115ea76-be68-7940-5543-5ae5ccaa7c04/886446036083.jpg/400x400cc.jpg",
+            "coverarthq": "https://is1-ssl.mzstatic.com/image/thumb/Music71/v4/61/15/ea/6115ea76-be68-7940-5543-5ae5ccaa7c04/886446036083.jpg/400x400cc.jpg",
+            "joecolor": "b:0d0f0ep:c5dcees:bcd8e1t:a0b3c1q:99afb7"
+        },
+        "share": {
+            "subject": "String Quartet in G Minor, Op. 10, L. 85: II. Assez vif et bien rythm\u00e9 - Juilliard String Quartet",
+            "text": "String Quartet in G Minor, Op. 10, L. 85: II. Assez vif et bien rythm\u00e9 by Juilliard String Quartet",
+            "href": "https://www.shazam.com/track/64234312/string-quartet-in-g-minor-op-10-l-85-ii-assez-vif-et-bien-rythm%C3%A9",
+            "image": "https://is1-ssl.mzstatic.com/image/thumb/Music71/v4/61/15/ea/6115ea76-be68-7940-5543-5ae5ccaa7c04/886446036083.jpg/400x400cc.jpg",
+            "twitter": "I used @Shazam to discover String Quartet in G Minor, Op. 10, L. 85: II. Assez vif et bien rythm\u00e9 by Juilliard String Quartet.",
+            "html": "https://www.shazam.com/snippets/email-share/64234312?lang=en-US&country=GB",
+            "avatar": "https://is4-ssl.mzstatic.com/image/thumb/Features112/v4/49/bd/ed/49bded20-9be3-3f13-74c0-99e433948c83/mzl.tyirevlj.jpg/800x800cc.jpg",
+            "snapchat": "https://www.shazam.com/partner/sc/track/64234312"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "actions": [
+                {
+                    "name": "apple",
+                    "type": "applemusicplay",
+                    "id": "1166131098"
+                },
+                {
+                    "name": "apple",
+                    "type": "uri",
+                    "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/0b/16/42/0b16423a-c1a5-f2ef-4065-c611af6de0f1/mzaf_13418884779280099181.plus.aac.ep.m4a"
+                }
+            ],
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/gb/album/string-quartet-in-g-minor-op-10-l-85-ii-assez-vif-et-bien-rythm%C3%A9/1166130707?i=1166131098&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/gb/album/string-quartet-in-g-minor-op-10-l-85-ii-assez-vif-et-bien-rythm%C3%A9/1166130707?i=1166131098&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                },
+                {
+                    "caption": "BUY",
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "uri": "https://itunes.apple.com/gb/album/string-quartet-in-g-minor-op-10-l-85-ii-assez-vif-et-bien-rythm%C3%A9/1166130707?i=1166131098&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "buy",
+                        "providername": "itunes"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "type": "buy",
+                    "listcaption": "Buy on iTunes",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "itunes"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:String%20Quartet%20in%20G%20Minor%2C%20Op.%2010%2C%20L.%2085%3A%20II.%20Assez%20vif%20et%20bien%20rythm%C3%A9%20Juilliard%20String%20Quartet"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27String+Quartet+in+G+Minor%2C+Op.+10%2C+L.+85%3A+II.+Assez+vif+et+bien+rythm%C3%A9%27%20artist%3A%27Juilliard+String+Quartet%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": false,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [
+                    {
+                        "image": "https://is4-ssl.mzstatic.com/image/thumb/Features112/v4/49/bd/ed/49bded20-9be3-3f13-74c0-99e433948c83/mzl.tyirevlj.jpg/800x800cc.jpg",
+                        "caption": "Juilliard String Quartet"
+                    },
+                    {
+                        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music71/v4/61/15/ea/6115ea76-be68-7940-5543-5ae5ccaa7c04/886446036083.jpg/400x400cc.jpg",
+                        "caption": "String Quartet in G Minor, Op. 10, L. 85: II. Assez vif et bien rythm\u00e9"
+                    }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                    {
+                        "title": "Album",
+                        "text": "Debussy: String Quartet in G Minor, Op. 10, L. 85 - Ravel: String Quartet in F Major, M. 35"
+                    },
+                    {
+                        "title": "Label",
+                        "text": "Sony Classical"
+                    },
+                    {
+                        "title": "Released",
+                        "text": "2016"
+                    }
+                ]
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/64234312/youtube/video?q=Juilliard+String+Quartet+%22String+Quartet+in+G+Minor,+Op.+10,+L.+85:+II.+Assez+vif+et+bien+rythm%C3%A9%22"
+            }
+        ],
+        "url": "https://www.shazam.com/track/64234312/string-quartet-in-g-minor-op-10-l-85-ii-assez-vif-et-bien-rythm%C3%A9",
+        "artists": [
+            {
+                "id": "42",
+                "adamid": "15409749"
+            }
+        ],
+        "isrc": "USSM11605590",
+        "genres": {
+            "primary": "Classical"
+        },
+        "urlparams": {
+            "{tracktitle}": "String+Quartet+in+G+Minor%2C+Op.+10%2C+L.+85%3A+II.+Assez+vif+et+bien+rythm%C3%A9",
+            "{trackartist}": "Juilliard+String+Quartet"
+        },
+        "myshazam": {
+            "apple": {
+                "actions": [
+                    {
+                        "name": "myshazam:apple",
+                        "type": "uri",
+                        "uri": "https://music.apple.com/gb/album/string-quartet-in-g-minor-op-10-l-85-ii-assez-vif-et-bien-rythm%C3%A9/1166130707?i=1166131098&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                ]
+            }
+        },
+        "highlightsurls": {
+            "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/15409749/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+        },
+        "albumadamid": "1166130707"
+    },
+    "tagid": "7BA430F1-DE25-4061-B791-D21ADA8FF443"
+}

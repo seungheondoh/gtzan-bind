@@ -1,0 +1,293 @@
+{
+    "matches": [
+        {
+            "id": "211461853",
+            "offset": 29.946845702999997,
+            "timeskew": -2.014637e-05,
+            "frequencyskew": -8.0525875e-05
+        },
+        {
+            "id": "211274925",
+            "offset": 80.32046875,
+            "timeskew": -0.0009903908,
+            "frequencyskew": -0.0014258027
+        },
+        {
+            "id": "200172090",
+            "offset": 29.966478515,
+            "timeskew": 0.0024436712,
+            "frequencyskew": 0.002257824
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1691632393195,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "61943634",
+        "title": "I'm Your Boogie Man",
+        "subtitle": "KC and the Sunshine Band",
+        "images": {
+            "background": "https://is5-ssl.mzstatic.com/image/thumb/Features115/v4/a6/d4/42/a6d44227-cf21-0087-6822-a37d987d73d5/mzl.fbpjalbl.jpg/800x800cc.jpg",
+            "coverart": "https://is5-ssl.mzstatic.com/image/thumb/Music124/v4/8e/26/3e/8e263e21-d791-cd71-8a11-01c3367baa82/825646002351.jpg/400x400cc.jpg",
+            "coverarthq": "https://is5-ssl.mzstatic.com/image/thumb/Music124/v4/8e/26/3e/8e263e21-d791-cd71-8a11-01c3367baa82/825646002351.jpg/400x400cc.jpg",
+            "joecolor": "b:fffffdp:171110s:3e2c1bt:46413fq:655748"
+        },
+        "share": {
+            "subject": "I'm Your Boogie Man - KC and the Sunshine Band",
+            "text": "I'm Your Boogie Man by KC and the Sunshine Band",
+            "href": "https://www.shazam.com/track/61943634/im-your-boogie-man",
+            "image": "https://is5-ssl.mzstatic.com/image/thumb/Music124/v4/8e/26/3e/8e263e21-d791-cd71-8a11-01c3367baa82/825646002351.jpg/400x400cc.jpg",
+            "twitter": "I used @Shazam to discover I'm Your Boogie Man by KC and the Sunshine Band.",
+            "html": "https://www.shazam.com/snippets/email-share/61943634?lang=en-US&country=GB",
+            "avatar": "https://is5-ssl.mzstatic.com/image/thumb/Features115/v4/a6/d4/42/a6d44227-cf21-0087-6822-a37d987d73d5/mzl.fbpjalbl.jpg/800x800cc.jpg",
+            "snapchat": "https://www.shazam.com/partner/sc/track/61943634"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "actions": [
+                {
+                    "name": "apple",
+                    "type": "applemusicplay",
+                    "id": "1112794200"
+                },
+                {
+                    "name": "apple",
+                    "type": "uri",
+                    "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/6f/40/ca/6f40caa4-43e8-bbda-a0fa-8bfda0dc70a2/mzaf_752678965938365010.plus.aac.ep.m4a"
+                }
+            ],
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/gb/album/im-your-boogie-man/1112793987?i=1112794200&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/gb/album/im-your-boogie-man/1112793987?i=1112794200&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                },
+                {
+                    "caption": "BUY",
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "uri": "https://itunes.apple.com/gb/album/im-your-boogie-man/1112793987?i=1112794200&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "buy",
+                        "providername": "itunes"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "type": "buy",
+                    "listcaption": "Buy on iTunes",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "itunes"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:I%27m%20Your%20Boogie%20Man%20KC%20and%20the%20Sunshine%20Band"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27I%5C%27m+Your+Boogie+Man%27%20artist%3A%27KC+and+the+Sunshine+Band%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": false,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [
+                    {
+                        "image": "https://is5-ssl.mzstatic.com/image/thumb/Features115/v4/a6/d4/42/a6d44227-cf21-0087-6822-a37d987d73d5/mzl.fbpjalbl.jpg/800x800cc.jpg",
+                        "caption": "KC and the Sunshine Band"
+                    },
+                    {
+                        "image": "https://is5-ssl.mzstatic.com/image/thumb/Music124/v4/8e/26/3e/8e263e21-d791-cd71-8a11-01c3367baa82/825646002351.jpg/400x400cc.jpg",
+                        "caption": "I'm Your Boogie Man"
+                    }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                    {
+                        "title": "Album",
+                        "text": "Part 3"
+                    },
+                    {
+                        "title": "Label",
+                        "text": "Parlophone UK"
+                    },
+                    {
+                        "title": "Released",
+                        "text": "1974"
+                    }
+                ]
+            },
+            {
+                "type": "LYRICS",
+                "text": [
+                    "One, two, three",
+                    "",
+                    "I'm your boogie man, that's what I am",
+                    "I'm here to do whatever I can",
+                    "Be it early morning, late afternoon",
+                    "Or at midnight, it's never too soon",
+                    "To want to please you, to want to keep you",
+                    "To want to do it all, all for you",
+                    "I want to be your, be your rubber ball",
+                    "I want to be the one, you love most of all, oh yeah",
+                    "",
+                    "I'm your boogie man, I'm your boogie man",
+                    "Turn me on",
+                    "I'm your boogie man, I'm your boogie man",
+                    "I do what you want",
+                    "I'm your boogie man, I'm your boogie man",
+                    "Turn me on",
+                    "I'm your boogie man, I'm your boogie man",
+                    "I do what you want",
+                    "",
+                    "I'm your boogie man, that's what I am",
+                    "I'm here to do whatever I can",
+                    "Be it early morning, late afternoon",
+                    "Or at midnight, it's never too soon",
+                    "To want to take you, to want to hold you",
+                    "I want to give my all, all to you",
+                    "And I want you to completely understand",
+                    "Oh, where I'm at and where I am, oh yeah",
+                    "",
+                    "I'm your boogie man, I'm your boogie man",
+                    "Turn me on",
+                    "I'm your boogie man, I'm your boogie man",
+                    "I do what you want",
+                    "I'm your boogie man, I'm your boogie man",
+                    "Turn me on",
+                    "I'm your boogie man, I'm your boogie man",
+                    "I do what you want",
+                    "",
+                    "I'm your boogie man, that's what I am",
+                    "I'm here to do whatever I can",
+                    "Be it early morning, late afternoon",
+                    "Or at midnight, it's never too soon",
+                    "I want to be with you, I want to be with you",
+                    "Yeah, we'll be together, you and me",
+                    "I want to see you, or get near you",
+                    "I want to love you up from sun down 'til up",
+                    "Oh yeah, oh yeah",
+                    "",
+                    "I'm your boogie man, that's what I am",
+                    "I'm here to do whatever I can",
+                    "Be it early morning, late afternoon",
+                    "Or at midnight, it's never too soon",
+                    "To want to please you, to want to hold you",
+                    "To want to do it all, all for you",
+                    "I want to be your, be your rubber ball",
+                    "I want to be the one, you love most of all",
+                    "",
+                    "I'm your boogie man, aha",
+                    "I'm your boogie man, aha",
+                    "I'm your boogie man, aha",
+                    "I'm your boogie man, aha",
+                    "Woo!"
+                ],
+                "url": "https://cdn.shazam.com/lyrics/v1/en-US/GB/iphone/musixmatch/subtitles/48019746/243/1?token=7882f5b2b2de7ddcd89233cb1e90fcfe",
+                "footer": "Writer(s): Richard Raymond Finch, Richard Finch, Harry Casey\nLyrics powered by www.musixmatch.com",
+                "tabname": "Lyrics",
+                "beacondata": {
+                    "lyricsid": "22589298",
+                    "providername": "musixmatch",
+                    "commontrackid": "48019746"
+                }
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/61943634/youtube/video?q=KC+and+the+Sunshine+Band+%22I'm+Your+Boogie+Man%22"
+            },
+            {
+                "type": "RELATED",
+                "url": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-61943634?startFrom=0&pageSize=20&connected=",
+                "tabname": "Related"
+            }
+        ],
+        "url": "https://www.shazam.com/track/61943634/im-your-boogie-man",
+        "artists": [
+            {
+                "id": "42",
+                "adamid": "14589060"
+            }
+        ],
+        "isrc": "GBAYE7700206",
+        "genres": {
+            "primary": "Pop"
+        },
+        "urlparams": {
+            "{tracktitle}": "I%27m+Your+Boogie+Man",
+            "{trackartist}": "KC+and+the+Sunshine+Band"
+        },
+        "myshazam": {
+            "apple": {
+                "actions": [
+                    {
+                        "name": "myshazam:apple",
+                        "type": "uri",
+                        "uri": "https://music.apple.com/gb/album/im-your-boogie-man/1112793987?i=1112794200&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                ]
+            }
+        },
+        "highlightsurls": {
+            "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en-US/GB/iphone/14589060/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+        },
+        "relatedtracksurl": "https://cdn.shazam.com/shazam/v3/en-US/GB/iphone/-/tracks/track-similarities-id-61943634?startFrom=0&pageSize=20&connected=",
+        "albumadamid": "1112793987"
+    },
+    "tagid": "376CDACA-6A88-4476-A3AA-E4B49A4BB27F"
+}
