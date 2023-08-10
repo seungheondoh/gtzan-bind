@@ -28,19 +28,11 @@ async def _search_track(t_id, title, artist):
         for i in tracks['tracks']['hits']:
             if title.lower() in i['heading']['title'].lower():
                 print(title, artist)
-                print(i)
                 print("="*30)
                 break
     else:
         print(tracks)
     
-#   if out['matches'] == []:
-#         print("error!", t_id)
-#     else:
-#         with open(os.path.join('../dataset/metadata/doh2023fingerprint/results', f"{t_id}.json"), mode="w") as io:
-#             json.dump(out, io, indent=4)
-#         print("Save", t_id)
-
 
 def detect_shazam(help_fn, t_id, input_path):
     loop = asyncio.get_event_loop()
@@ -55,14 +47,13 @@ def audio_finger_printing(dataset_dir):
     audio_dict = {fname.replace(".wav", ""): f"{dataset_dir}/{genre}/{fname}" for genre in os.listdir(dataset_dir) for fname in os.listdir(f"{dataset_dir}/{genre}")}
     audio_fnames = [fname.replace(".wav","") for genre in os.listdir(dataset_dir) for fname in os.listdir(f"{dataset_dir}/{genre}") if fname.replace(".wav", "") not in alread_downloads]
     audio_files = [audio_dict[i] for i in audio_fnames]
-    return audio_fnames
-    # errors = []
-    # for file, fname in zip(tqdm(audio_files), audio_fnames):
-    #     try:
-    #         detect_shazam(_recognize_song, fname, file)
-    #     except:
-    #         errors.append(fname)
-    # return errors
+    errors = []
+    for file, fname in zip(tqdm(audio_files), audio_fnames):
+        try:
+            detect_shazam(_recognize_song, fname, file)
+        except:
+            errors.append(fname)
+    return errors
 
 def title_finger_printing(errors): 
     df_meta = pd.read_csv("../dataset/rhythm/marchand2015swing/stats.csv")
@@ -72,13 +63,9 @@ def title_finger_printing(errors):
     for idx in range(len(df_meta)):
         instance = df_meta.iloc[idx]
         fname, title, artist = instance.name, instance['title'], instance['artist']
-        print("-"*20)
-        print(fname, title, artist)
-        print("-"*20)
         detect_shazam_track(_search_track, fname, title, artist)
 
 if __name__ == '__main__':
     dataset_dir = "../dataset/audio"
     errors = audio_finger_printing(dataset_dir)
-    title_finger_printing(errors)
     
