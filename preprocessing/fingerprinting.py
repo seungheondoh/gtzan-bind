@@ -1,98 +1,84 @@
 import os
+import numpy as np
 import json
 import argparse
 from time import sleep
 from tqdm import tqdm
 import pandas as pd
-from ShazamAPI.api import Shazam
+import asyncio
+from shazamio import Shazam
 
-def detect_shazam(t_id, input_path, chunk_time_sec=5, max_duration_min=90):
-    # Setting
-    with open(input_path, 'rb') as f:
-        input = f.read()
-    shazam = Shazam(input)
-    shazam.MAX_TIME_SECONDS = chunk_time_sec
-    recognizer = shazam.recognizeSong()
-    
-    # Detection
-    results = {}
-    detected_times = {}
-    keyerrors = []
-    while True:
-        try:
-            response = next(recognizer)
-            if len(response) != 2: raise ValueError(len(response))
-            
-            # max time cutting
-            if max_duration_min != None and response[0] > max_duration_min*60: 
-                print(f'[{t_id}] Exceeded Maximum Time', response[0], flush=True)
+shazam = Shazam()
+async def _recognize_song(t_id, input_path):
+    out = await shazam.recognize_song(input_path)
+    if out['matches'] == []:
+        print("error!", t_id)
+    else:
+        with open(os.path.join('../dataset/metadata/doh2023fingerprint/results', f"{t_id}.json"), mode="w") as io:
+            json.dump(out, io, indent=4)
+        print("Save", t_id)
+
+async def _search_track(t_id, title, artist):
+    if type(artist) == str:
+        query = title + " by " + artist
+    else:
+        query = title
+    tracks = await shazam.search_track(query=query, limit=20)
+    if 'tracks' in tracks:
+        for i in tracks['tracks']['hits']:
+            if title.lower() in i['heading']['title'].lower():
+                print(title, artist)
+                print(i)
+                print("="*30)
                 break
-            
-            shazam_key = response[1]['track']['key']
-            if shazam_key in results:
-                detected_times[shazam_key]['all'].append(response[0])
-                continue
-            else:
-                with open(os.path.join('../dataset/metadata/doh2023fingerprint/jsons', f"{t_id}.json"), mode="w") as io:
-                    json.dump(response[1], io, indent=4)
+    else:
+        print(tracks)
+    
+#   if out['matches'] == []:
+#         print("error!", t_id)
+#     else:
+#         with open(os.path.join('../dataset/metadata/doh2023fingerprint/results', f"{t_id}.json"), mode="w") as io:
+#             json.dump(out, io, indent=4)
+#         print("Save", t_id)
 
-                detected_times[shazam_key] = {'all': [response[0]]}
-                
-            sleep(0.1)
-            
-        except ValueError as v:
-            print(f'[{t_id}] LengthError', v, flush=True)
-            continue
-        
-        except KeyError as k:
-            keyerrors.append(response[0])
-            
-        except StopIteration:
-            break
-    
-    misdetected_cnt = 0
-    for k, v in results.items():
-        if len(detected_times[k]['all']) < 3:
-            del detected_times[k]
-            misdetected_cnt += 1
-            continue
-        
-        detected_times[k]['start_time'] = detected_times[k]['all'][0]
-        detected_times[k]['end_time'] = detected_times[k]['all'][-1]
-    
-    # Search and Add Unknown Tracks
-    detected_times = search_unknown(detected_times, keyerrors)
-    return results, detected_times, misdetected_cnt
 
-def search_unknown(d_times, errors):
-    
-    if len(errors) < 3: return d_times
-    
-    cnt = 0
-    box = [errors[0]]
-    
-    for idx in range(len(errors)-1):
-        if errors[idx+1] - errors[idx] < 15:
-            box.append(errors[idx+1])
-            continue
-        
-        if len(box) > 5 and (box[-1] - box[0]) > 30:
-            d_times[f'UNK_{cnt}'] = {
-                'all': box,
-                'start_time': box[0],
-                'end_time': box[-1]
-            }
-            cnt += 1
-        box = [errors[idx+1]]
-    return d_times
+def detect_shazam(help_fn, t_id, input_path):
+    loop = asyncio.get_event_loop()
+    loop.run_until_complete(help_fn(t_id, input_path))
 
+def detect_shazam_track(help_fn, fname, title, artist):
+    loop = asyncio.get_event_loop()
+    loop.run_until_complete(help_fn(fname, title, artist))
+
+def audio_finger_printing(dataset_dir):
+    alread_downloads = set([i.replace(".json", "")for i in os.listdir("../dataset/metadata/doh2023fingerprint/audio")])
+    audio_dict = {fname.replace(".wav", ""): f"{dataset_dir}/{genre}/{fname}" for genre in os.listdir(dataset_dir) for fname in os.listdir(f"{dataset_dir}/{genre}")}
+    audio_fnames = [fname.replace(".wav","") for genre in os.listdir(dataset_dir) for fname in os.listdir(f"{dataset_dir}/{genre}") if fname.replace(".wav", "") not in alread_downloads]
+    audio_files = [audio_dict[i] for i in audio_fnames]
+    return audio_fnames
+    # errors = []
+    # for file, fname in zip(tqdm(audio_files), audio_fnames):
+    #     try:
+    #         detect_shazam(_recognize_song, fname, file)
+    #     except:
+    #         errors.append(fname)
+    # return errors
+
+def title_finger_printing(errors): 
+    df_meta = pd.read_csv("../dataset/rhythm/marchand2015swing/stats.csv")
+    df_meta["filename"] = [i.replace(".wav", "") for i in df_meta['filename']]
+    df_meta = df_meta.set_index("filename").loc[errors]
+    df_meta = df_meta.loc[[name for i, name in zip(df_meta['title'], df_meta.index) if type(i) == str]]
+    for idx in range(len(df_meta)):
+        instance = df_meta.iloc[idx]
+        fname, title, artist = instance.name, instance['title'], instance['artist']
+        print("-"*20)
+        print(fname, title, artist)
+        print("-"*20)
+        detect_shazam_track(_search_track, fname, title, artist)
 
 if __name__ == '__main__':
     dataset_dir = "../dataset/audio"
-    audio_files = [f"{dataset_dir}/{genre}/{fname}" for genre in os.listdir(dataset_dir) for fname in os.listdir(f"{dataset_dir}/{genre}")]
-    audio_fnames = [fname.replace(".wav","") for genre in os.listdir(dataset_dir) for fname in os.listdir(f"{dataset_dir}/{genre}")]
-    for file, fname in zip(tqdm(audio_files), audio_fnames):
-        try:
-            detect_shazam(fname, file)
-        except:
-            np.save(f"{fname}.npy",fname)
+    errors = audio_finger_printing(dataset_dir)
+    title_finger_printing(errors)
+    
