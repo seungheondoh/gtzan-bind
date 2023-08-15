@@ -4,9 +4,9 @@
 📚🎵 Introducing **GTZAN-Bind** a consolidated dataset encompassing diverse gtzan annotations. 
 My contribution involved an additional layer of fingerprinting to enhance its comprehensiveness
 
-- **Repository:** [GTZAN-Bind repository](https://github.com/seungheondoh/gtzan-bind)
+- **HuggingFace:** [GTZAN-Bind dataset](https://huggingface.co/datasets/seungheondoh/gtzan-bind)
 
-[![image](https://i.imgur.com/4Oa5XJj.png)](https://github.com/seungheondoh/gtzan-bind)
+[![image](https://i.imgur.com/4Oa5XJj.png)](https://huggingface.co/datasets/seungheondoh/gtzan-bind)
 
 ## Annotations
 
