@@ -1,23 +1,23 @@
-# GTZAN BIND
 
+# GTZAN-Bind
 
-### Audio
-- dataset/audio: [link](https://www.kaggle.com/datasets/andradaolteanu/gtzan-dataset-music-genre-classification)
+📚🎵 Introducing **GTZAN-Bind** a consolidated dataset encompassing diverse gtzan annotations. 
+My contribution involved an additional layer of fingerprinting to enhance its comprehensiveness
 
-### Split
-- dataset/split/sturm2013faults: [link]()
+- **Repository:** [GTZAN-Bind repository](https://github.com/seungheondoh/gtzan-bind)
 
-### Metadata
-- dataset/metadata/sturm2013faults
-- dataset/metadata/doh2023fingerprint
+[![image](https://i.imgur.com/4Oa5XJj.png)](https://github.com/seungheondoh/gtzan-bind)
 
-### Caption
-- dataset/caption/denk2023brain2music: [link](https://www.kaggle.com/datasets/nishimotolab/music-caption-brain2music)
+## Annotations
 
-### Key
-- dataset/key/kraft_lerch2013tonalness : [link](https://github.com/alexanderlerch/gtzan_key)
-- dataset/key/tom2011genre: [link](http://visal.cs.cityu.edu.hk/downloads/#gtzankeys)
+- audio: [Tzanetakis2002musical](https://ieeexplore.ieee.org/document/1021072), [audio source](https://www.kaggle.com/datasets/andradaolteanu/gtzan-dataset-music-genre-classification)
+- split: [sturm2013faults](https://github.com/coreyker/dnn-mgr/tree/master/gtzan)
+- metadata: [sturm2013faults](https://github.com/coreyker/dnn-mgr/tree/master/gtzan), [doh2023fingerprint](https://github.com/seungheondoh/gtzan-bind/tree/main/dataset/metadata/doh2023fingerprint/results)
+- Caption (+fMRI): [denk2023brain2music](https://www.kaggle.com/datasets/nishimotolab/music-caption-brain2music)
+- Key: [kraft_lerch2013tonalness](https://github.com/alexanderlerch/gtzan_key)
+- Key2: [tom2011genre](http://visal.cs.cityu.edu.hk/downloads/#gtzankeys)
+- Rhythm: [marchand2015swing](http://anasynth.ircam.fr/home/system/files/attachment_uploads/marchand/private/GTZAN-Rhythm_v2_ismir2015_lbd_2015-10-28.tar_.gz)
+- Metrical-structure: [quinton2015extraction](http://www.isophonics.net/content/metrical-structure-annotations-gtzan-dataset)
 
-### Rhythm
-- dataset/rhythm/marchand2015swing: [link](http://anasynth.ircam.fr/home/system/files/attachment_uploads/marchand/private/GTZAN-Rhythm_v2_ismir2015_lbd_2015-10-28.tar_.gz)
-- dataset/rhythm/quinton2015extraction: [link](http://www.isophonics.net/content/metrical-structure-annotations-gtzan-dataset)
+## Contact
+- seungheondoh@kaist.ac.kr

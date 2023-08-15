@@ -43,7 +43,7 @@ def detect_shazam_track(help_fn, fname, title, artist):
     loop.run_until_complete(help_fn(fname, title, artist))
 
 def audio_finger_printing(dataset_dir):
-    alread_downloads = set([i.replace(".json", "")for i in os.listdir("../dataset/metadata/doh2023fingerprint/audio")])
+    alread_downloads = set([i.replace(".json", "")for i in os.listdir("../dataset/metadata/doh2023fingerprint/results")])
     audio_dict = {fname.replace(".wav", ""): f"{dataset_dir}/{genre}/{fname}" for genre in os.listdir(dataset_dir) for fname in os.listdir(f"{dataset_dir}/{genre}")}
     audio_fnames = [fname.replace(".wav","") for genre in os.listdir(dataset_dir) for fname in os.listdir(f"{dataset_dir}/{genre}") if fname.replace(".wav", "") not in alread_downloads]
     audio_files = [audio_dict[i] for i in audio_fnames]
