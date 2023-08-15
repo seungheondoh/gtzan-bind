@@ -15,6 +15,8 @@ def bind_process(dataset_path, strum_fingerprint, id2caps, metrical_levels_pulse
         for fname in tqdm(os.listdir(f"{audio_path}/{tag}")):
             path = f"{tag}/{fname}"
             track_id = fname.replace(".wav", "")
+
+            # get split
             if path in train_track:
                 split = "train"
             elif path in valid_track:
@@ -24,6 +26,7 @@ def bind_process(dataset_path, strum_fingerprint, id2caps, metrical_levels_pulse
             else:
                 split = ""
             
+            # get metadata
             if track_id in meta_tracks:
                 meta_json = get_metainfo(dataset_path, track_id)
                 shazam_id = meta_json['track']['key']
@@ -39,6 +42,8 @@ def bind_process(dataset_path, strum_fingerprint, id2caps, metrical_levels_pulse
                 title = ""
                 artist_name = ""
                 meta_json = {}
+
+            # get vision information
             try:
                 album_art_img_url = meta_json['track']['images']['coverarthq']
                 artist_img_url = meta_json['track']['images']['background']
@@ -51,14 +56,20 @@ def bind_process(dataset_path, strum_fingerprint, id2caps, metrical_levels_pulse
                 metadata = {}
                 lyrics= ""
                 yt_url= ""
+
+            # get caption information
             if track_id in id2caps:
                 caption = id2caps[track_id]
             else:
                 caption = ""
-            # key
+
+            # get key information
             key_value = open(f"{key_path}/{path}".replace(".wav",".lerch.txt"),'r').read()
             key_info = KEY_DICT[key_value.strip()]
+
+            # get rhythms infomration
             rhythms_dict = load_rhythms(dataset_path, fname)
+            
             results = {
                 "track_id":track_id,
                 "shazam_id":shazam_id,
